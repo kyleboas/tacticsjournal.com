@@ -203,10 +203,9 @@ img {
   font-family: $helvetica;
   font-weight: 600;
   font-size: 28px;
-  margin: 10px 0;
   
    @include mobile {
-    margin: 0px 0; 
+    margin: 10px 0; 
   }
 }
 
