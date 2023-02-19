@@ -2,6 +2,8 @@ Enzo Fernandez has signed from Benfica to Chelsea for £105m in this year’s Ja
 
 In Enzo’s debut against Fulham, Graham Potter elected to use a 4–1–2–3 / 4–3–3 with Enzo as the lone pivot. Fulham used a 4–4–2 out of possession.
 
+![](images/FB080C71-6C65-47EA-8905-2AC23A8518E0.webp)
+
 Chelsea had trouble during the build up phase due to Fulham’s two center forwards matching Chelsea’s two center back pair 2v2, while also blocking off the passing lanes into the midfield of Enzo, Mason Mount and Connor Gallagher. The only safe pass they could make was sideways to either Marc Cucurella at left back or Reece James at right back.
 Enzo would often then have to drop back into the back line to help in the build-up and provide a numerical advantage 3v2 over Fulham’s initial press.
 
