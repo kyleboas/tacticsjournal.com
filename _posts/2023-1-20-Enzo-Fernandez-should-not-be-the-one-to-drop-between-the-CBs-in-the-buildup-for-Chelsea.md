@@ -45,11 +45,17 @@ Before the substitution in the 50th minute, Argentina only took two shots with a
 
 Back to the match against Fulham; Chelsea had the same issue.
 
+![_config.yml]({{ site.baseurl }}/images/FB080C71-6C65-47EA-8905-2AC23A8518E0.webp)
+
 Enzo would drop, creating a large space between the back line and front line, similar to the space that was created in Argentina’s match against Australia.
+
+![_config.yml]({{ site.baseurl }}/images/31EFB628-C93D-4641-8E6D-7CDCF86B6E0D.webp)
 
 If Enzo were to receive the ball, his only option would be to either play it left to right to Thiago Silva at right center back, or play a vertical pass out wide to Hakim Ziyech at right wing.
 
 Had he played it to Ziyech, which he did do on one or two occasions, it would look something like this.
+
+![_config.yml]({{ site.baseurl }}/images/1B2A7A6D-2AA6-4AC3-9FC5-6420E52C722A.webp)
 
 When Ziyech receives the ball, the only options he has is to:
 
@@ -60,7 +66,11 @@ When Ziyech receives the ball, the only options he has is to:
 
 If the ball is played in to either James or Gallagher, Enzo will not be there in the midfield to link up the play because he is sitting on Chelsea’s back line, cut-off from the attack.
 
+![_config.yml]({{ site.baseurl }}/images/0AF0629E-D130-4CEB-99EB-C24146B8A1ED.webp)
+
 To learn from the mistakes Argentina made versus Australia, in order to improve the structure, to include Enzo and involve him more in the middle third, Chelsea could have taken off a winger and added another center back to the back line. They’d switch to a lopsided 5–3–2, similar to what was deployed during the World Cup.
+
+![_config.yml]({{ site.baseurl }}/images/FCFD31F8-0C88-4F12-AA2F-0109B127A322.webp)
 
 In this example, Hakim Ziyech at right wing is replaced by Trevor Chalobah at right center back.
 
