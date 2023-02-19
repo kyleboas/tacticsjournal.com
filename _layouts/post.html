@@ -5,7 +5,6 @@ layout: default
 
 
 <article class="post">
-  <a id="top"></a>
   <h1>{{ page.title }}</h1>
 
   <div class="date">
@@ -16,8 +15,9 @@ layout: default
     {{ content }}
   </div>
 
-<a href="#top">Back to top</a>
-
+  <div class="post-navigation">
+  <a href="#top">Back to top</a>
+  </div>
   {% include disqus.html %}
 </article>
 
