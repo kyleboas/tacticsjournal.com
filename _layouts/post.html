@@ -17,6 +17,16 @@ layout: default
 
   <div class="post-navigation">
   <a href="#top">Back to top</a>
+  <a href="#" onclick="copyToClipboard(); return false;">Share on Twitter</a>
+
+<script>
+function copyToClipboard() {
+  const url = document.URL;
+  navigator.clipboard.writeText(url).then(function() {
+    window.open("https://twitter.com/intent/tweet?url=" + encodeURIComponent(url), "_blank");
+  });
+}
+</script>
   </div>
   {% include disqus.html %}
 </article>
