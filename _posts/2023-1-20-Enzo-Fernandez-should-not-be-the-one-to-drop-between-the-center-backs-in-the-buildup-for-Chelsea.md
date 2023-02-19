@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-1-20 07:00:00 -0000
-title: "Enzo Fernandez Should Not Be The One To Drop Between The Center Backs In The Buildup For Chelsea"
+title: "Enzo Fernandez Should Not Be The One To Drop Between The CBs In The Buildup For Chelsea"
 categories: Chelsea
 --- 
 
