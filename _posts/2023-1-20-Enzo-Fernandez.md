@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Enzo Fernandez should not be the one to drop between the CBs in the buildup for Chelsea
