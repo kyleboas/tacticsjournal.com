@@ -230,6 +230,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helvetica;
   font-size: 18px;
+  
 
   @include mobile {
     float: none;
@@ -243,6 +244,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
+    margin: 0px 10px;
 
     @include mobile {
       margin: 0 10px;
