@@ -71,10 +71,17 @@ kramdown:
 # Increase Cache 
 
    defaults:
-     - scope:
+  - scope:
       path: ""
+      type: "text/css"
+  - scope:
+      path: ""
+      type: "text/javascript"
+  - scope:
+      path: ""
+      type: "image/*"
     values:
-      cache-control: "public, max-age=600"
+      cache-control: "public, max-age=20"
 
 
 # Set the Sass partials directory, as we're using @imports
