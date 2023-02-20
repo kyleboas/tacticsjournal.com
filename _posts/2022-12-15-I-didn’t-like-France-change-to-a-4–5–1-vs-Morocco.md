@@ -2,7 +2,11 @@
 layout: post
 date: 2022-12-15 00:00:00 -0000
 title: "I didn’t like France’s change to a 4–5–1 vs Morocco"
-categories: World-Cup France Morocco 
+categories: 
+- World Cup 
+- France 
+- Morocco
+image: /images/2D40E23C-3584-4845-B73D-CB0BCEE263E6.webp
 --- 
 
 During the World Cup semi-final match vs Morocco, France changed from a 4–4–2 to 4–5–1 out-of-possession in the 65th minute after the sub of Giroud to Thuram.
