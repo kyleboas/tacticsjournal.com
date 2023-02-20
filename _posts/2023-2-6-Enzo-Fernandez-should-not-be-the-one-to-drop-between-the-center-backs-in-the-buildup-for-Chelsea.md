@@ -3,6 +3,7 @@ layout: post
 date: 2023-2-6 00:00:00 -0000
 title: "Enzo Fernandez should not be the one to drop between the CBs in the buildup for Chelsea"
 categories: Chelsea
+image: ![_config.yml]({{ site.baseurl }}/images/4B15F5A1-ECD0-4F15-8F77-F2A0C18C3698.webp)
 --- 
 
 Enzo Fernandez has signed from Benfica to Chelsea for £105m in this year’s January transfer window. This is a huge signing for the London-based club because Enzo fulfills the vital role of a creative deep lying playmaker who can connect the play and provide chances for Chelsea’s incredibly young and talented overhauled front line.
