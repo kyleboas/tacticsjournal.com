@@ -6,14 +6,14 @@ categories:
 - World Cup 
 - France 
 - Morocco
-image: /images/2D40E23C-3584-4845-B73D-CB0BCEE263E6.webp
+image: /images/40085DA8-FA26-4A83-B8A3-00A3C9E65BB4.jpeg
 --- 
 
 During the World Cup semi-final match vs Morocco, France changed from a 4–4–2 to 4–5–1 out-of-possession in the 65th minute after the sub of Giroud to Thuram.
 
 Mbappe was a better LW counter outlet in-behind the advanced Hakimi and he was doing a good job cutting off the pass out-wide to Hakimi and Ziyech.
 
-![_config.yml]({{ site.baseurl }}/images/2D40E23C-3584-4845-B73D-CB0BCEE263E6.webp)
+![_config.yml]({{ site.baseurl }}/images/40085DA8-FA26-4A83-B8A3-00A3C9E65BB4.jpeg)
 
 France did not completely congest and overwhelm the two CBs and the pivot, Amrabat, during build up, but cutting off easy passes to the wide areas stunted Morocco’s ability to quickly build up and attack France’s WBs.
 
