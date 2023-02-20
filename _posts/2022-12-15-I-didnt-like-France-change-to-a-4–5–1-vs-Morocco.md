@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-15 00:00:00 -0000
-title: "I didn’t like France’s change to a 4–5–1 vs Morocco"
+title: "I didn't like France’s change to a 4–5–1 vs Morocco"
 categories: World Cup France Morocco
 image: /images/40085DA8-FA26-4A83-B8A3-00A3C9E65BB4.jpeg
 --- 
