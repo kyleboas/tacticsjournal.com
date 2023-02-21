@@ -20,7 +20,7 @@ They made the pitch small, clogged the midfield, and drove Arsenal into the wide
 
 This can be seen in the first goal for Aston Villa, scored in the 5th minute. 
 
-![_config.yml]({{ site.baseurl }}/images/9B6FA600-5A8F-4115-A0DF-005F72221D63.jpeg)
+![_config.yml]({{ site.baseurl }}/images/BD8CF6F5-C8EC-4513-B331-4153C1975015.jpeg)
 
 Both Granit Xhaka and Oleksandr Zinchenko came to help Leandro Trossard on the left-wing, but all three were tightly man-marked in a 3v3 situation. 
 
