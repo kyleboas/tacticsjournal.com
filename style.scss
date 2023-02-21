@@ -304,22 +304,22 @@ margin: 10px;
     display: block;
     width: auto;
     overflow: hidden;
+}
 
-   p {
+     .PageNavigation p {
     font-weight: bold;
     margin: 0px;
-   a {
+}
+    .PageNavigation a {
     display: block;
     width: 50%;
     float: left;
     margin: 0px;
     font-size: 15px;
-  
-    .next {
+  }
+     .PageNavigation .next {
     text-align: right;
   }
- }
-}
 
 
   }
