@@ -3,7 +3,7 @@ layout: post
 date: 2023-2-6 00:00:00 -0000
 title: "Enzo Fernandez should not be the one to drop between the CBs in the buildup for Chelsea"
 categories: 
- - "Chelsea"
+ - Chelsea
 image: /images/4B15F5A1-ECD0-4F15-8F77-F2A0C18C3698.webp
 --- 
 
