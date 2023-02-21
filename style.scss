@@ -299,6 +299,15 @@ margin: 10px;
   margin-bottom: 10px;
 }
 
+  }
+
+  .read-more {
+    font-style: italic;
+    font-size: 15px;
+    margin: 10px;
+  }
+}
+
 .PageNavigation {
     font-size: 14px;
     display: block;
@@ -320,16 +329,6 @@ margin: 10px;
      .PageNavigation .next {
     text-align: right;
   }
-
-
-  }
-
-  .read-more {
-    font-style: italic;
-    font-size: 15px;
-    margin: 10px;
-  }
-}
 
 .wrapper-footer {
   margin-top: 50px;
