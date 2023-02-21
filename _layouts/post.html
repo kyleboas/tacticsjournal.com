@@ -29,11 +29,13 @@ function copyToClipboard() {
 </script>
   </div>
 
-<div class="PageNavigation">
+<div class="PageNavigation-Next">
   {% if page.next.url %}
     <p>Next</p>
     <a class="next" href="{{page.next.url}}">{{page.next.title}}</a><br>
   {% endif %}
+</div>
+<div class="PageNavigation-Previous">
   {% if page.previous.url %}
     <p>Previous</p>
     <a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a>
