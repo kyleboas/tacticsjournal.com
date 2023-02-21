@@ -308,27 +308,26 @@ margin: 10px;
   }
 }
 
-.PageNavigation {
-    font-size: 14px;
-    display: block;
-    width: auto;
-    overflow: hidden;
-}
+.PageNavigation-Next {
+   font-size: 14px;
+   margin: 10px;
+   padding-bottom: 10px;
 
-     .PageNavigation p {
+   p {
     font-weight: bold;
     margin: 0px;
+  }
 }
-    .PageNavigation a {
-    display: block;
-    width: 50%;
-    float: left;
+
+.PageNavigation-Previous {
+   font-size: 14px;
+   margin: 10px;
+
+   p {
+    font-weight: bold;
     margin: 0px;
-    font-size: 15px;
   }
-     .PageNavigation .next {
-    text-align: right;
-  }
+}
 
 .wrapper-footer {
   margin-top: 50px;
