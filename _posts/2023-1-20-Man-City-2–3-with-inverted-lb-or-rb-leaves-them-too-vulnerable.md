@@ -2,7 +2,10 @@
 layout: post
 date: 2023-1-20 00:00:00 -0000
 title: "Man City’s 2–3 with an inverted left-back or right-back leaves them too vulnerable"
-categories: Man City
+categories: 
+- "Premier League"
+tags: 
+- "Man City"
 image: /images/3FD68650-B90A-46A8-9AEC-E25BA2635879.webp
 --- 
 
