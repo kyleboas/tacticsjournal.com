@@ -2,7 +2,12 @@
 layout: post
 date: 2022-12-28 00:00:00 -0000
 title: "Zakaria’s positional movement was key to Chelsea’s fluidity vs Bournemouth"
-categories: Chelsea Players
+categories: 
+- "Premier League" 
+- "Player Profiles"
+tags: 
+- "Chelsea" 
+- "Dennis Zakaria" 
 image: /images/9A26E3EE-704F-4F20-806F-DB55E93E3986.webp
 --- 
 
