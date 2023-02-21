@@ -6,6 +6,7 @@ categories:
 - "International Teams"
 tags: 
 - "USA"
+- "World Cup 2022"
 image: /images/31C6E881-5735-41B8-8D47-8DF2B43E7F8E.webp
 --- 
 
