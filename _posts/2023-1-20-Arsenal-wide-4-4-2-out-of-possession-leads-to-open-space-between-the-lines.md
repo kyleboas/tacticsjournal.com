@@ -3,8 +3,9 @@ layout: post
 date: 2023-2-20 07:30:00 -0500
 title: "Arsenal's wide 4-4-2 out of possession leads to open space between the lines" 
 categories: 
-- Arsenal 
-- Premier League
+- "Premier League"
+tags: 
+- "Arsenal" 
 image: /images/0AA3378D-61AA-41DF-B508-69614174C4CC.jpeg
 ---
 
