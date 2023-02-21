@@ -12,14 +12,6 @@ In Arsenal's match against Aston Villa on February 18, 2023, they employed a wid
 
 ![_config.yml]({{ site.baseurl }}/images/0AA3378D-61AA-41DF-B508-69614174C4CC.jpeg)
 
-Arsenal's counter press is the best in the Premier League, but once Aston Villa got past that counter press, and advanced the ball into the middle third, space opened up. 
-
-To full appreciate how open Arsenal made the pitch, you can it compare it to Aston Villa, who were the polar opposite im their narrow 4-4-2 out of possession, which was very dynamic and the movement from all 10 outfield players was constant. 
-
-They made the pitch small, clogged the midfield, and drove Arsenal into the wide areas, to force Leandro Trossard at left-wing, Bukayo Saka at right-wing and anyone who helped them into a 1v1 or 2v1. 
-
-This can be seen in the first goal for Aston Villa in the 5th minute. 
-
 Arsenal's counter-press is the best in the Premier League, but once Aston Villa got past it and advanced the ball into the middle third, space opened up. 
 
 To fully appreciate how open Arsenal made the pitch, you can compare it to Aston Villa's defending, who were the polar opposite with their narrow 4-4-2 formation out of possession. They were very dynamic, and the movement from all ten outfield players was constant. 
