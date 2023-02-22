@@ -9,7 +9,7 @@
 {% if related_posts.size > 0 %}
   {% for post in related_posts %}
     {% if post.url == page.url %}
-      {% assign exclude_urls = exclude_urls | append: post.url %}
+      {% assign exclude_urls = exclude_urls | append: " " | append: post.url %}
     {% endif %}
   {% endfor %}
   {% if exclude_urls != "" %}
