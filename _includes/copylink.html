@@ -1,0 +1,10 @@
+<a href="#" id="copy-link">Copy link</a>
+
+<script>
+  var copyLink = document.getElementById("copy-link");
+  copyLink.addEventListener("click", function(event) {
+    event.preventDefault();
+    navigator.clipboard.writeText("{{ site.url }}{{ page.url }}");
+    copyLink.innerText = "Link copied!";
+  });
+</script>
