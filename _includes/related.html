@@ -1,15 +1,14 @@
-<div class="related">
-    <h3>Related Posts</h3>
-    {% assign firstTag = page.tags | first %}
-    {% assign relatedCount = 0 %}
-    {% for related in site.tags[firstTag] %}
-        {% unless page.permalink == related.permalink %}
-            {% assign relatedCount = relatedCount | plus: 1 %}
-            <a href="{{related.permalink}}">{{ related.title }}</a>
-        {% endunless %}
+{% assign first_tag = page.tags | first %}
 
-        {% if relatedCount == 5 %}
-            {% break %}
-        {% endif %}
+{% assign related_posts = site.posts | where_exp: "post", "post.tags.first == first_tag" | limit: 5 %}
+
+{% if related_posts.size > 0 %}
+ <div class="related-posts">
+  <h3>Related Posts:</h3>
+  <ul>
+    {% for post in related_posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+  </ul>
 </div>
+{% endif %}
