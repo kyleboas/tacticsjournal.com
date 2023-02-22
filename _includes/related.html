@@ -1,6 +1,6 @@
 {% assign related_posts = nil %}
 
-{% if page.tags.size > 0 %}
+{% if page.tags and page.tags.size > 0 %}
   {% assign first_tag = page.tags | first %}
   {% assign related_posts = site.posts | where_exp: "post", ("post.tags.first == first_tag" and "post.url != page.url") | limit: 5 %}
 {% endif %}
