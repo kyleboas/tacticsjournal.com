@@ -2,7 +2,7 @@
 
 {% assign related_posts = site.posts | where_exp: "post", "post.tags.first == first_tag" | limit: 5 %}
 
-{% if related_posts.size > 0 %}
+{% if related_posts.size > 1 %}
 <div class="related-posts">
   <h3>Other posts about {{ first_tag }}:</h3>
   <ul>
