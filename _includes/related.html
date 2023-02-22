@@ -5,7 +5,7 @@
   {% assign related_posts = site.posts | where_exp: "post", ("post.tags.first == first_tag" and "post.url != page.url") | limit: 5 %}
 {% endif %}
 
-{% if related_posts %}
+{% if related_posts and first_tag %}
   <div class="related-posts">
     <h3>Related posts about "{{ first_tag }}":</h3>
     <ul>
