@@ -2,8 +2,10 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
+    
     {% seo %}
+
+    {% include favicon.html %}
      
     {% if site.tags != "" %}
     {% include collecttags.html %}
