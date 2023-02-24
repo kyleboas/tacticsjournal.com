@@ -69,6 +69,10 @@ p {
   margin: 15px 10px;
   font-size: 15px;
 
+  @include mobile {
+   font-size: 15px;
+  }
+
   @include middle {
    font-size: 13px;
  }
