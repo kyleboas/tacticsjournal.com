@@ -229,14 +229,14 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helvetica;
-  font-size: 18px;
+  font-size: 16px;
   
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 14px;
   }
 
   a {
@@ -256,6 +256,10 @@ nav {
 //
 // .main
 //
+
+.posts {
+  margin-top: -40px;
+}
 
 .posts > .post {
   padding-top: 2em;
