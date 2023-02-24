@@ -240,7 +240,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helvetica;
-  font-size: 16px;
+  font-size: 18px;
   
 
   @include mobile {
@@ -249,6 +249,10 @@ nav {
     display: block;
     font-size: 14px;
   }  
+
+  @include middle {
+    font-size: 16px;
+  }
 
   a {
     margin-left: 20px;
