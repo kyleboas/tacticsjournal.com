@@ -72,10 +72,6 @@ p {
   @include mobile {
    font-size: 15px;
   }
-
-  @include middle {
-   font-size: 13px;
- }
 }
 
 a {
