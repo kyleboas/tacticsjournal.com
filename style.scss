@@ -68,6 +68,10 @@ h4 {
 p {
   margin: 15px 10px;
   font-size: 15px;
+
+  @include middle {
+   font-size: 13px;
+ }
 }
 
 a {
@@ -213,6 +217,10 @@ img {
    @include mobile {
     margin: 0px 0; 
   }
+
+   @include middle { 
+    font-size: 22px;
+   }
 }
 
 .site-description {
@@ -222,6 +230,9 @@ img {
 
   @include mobile {
     margin: 3px 0;
+  }
+  @include middle {
+    font-size: 15px;
   }
 }
 
@@ -238,6 +249,9 @@ nav {
     display: block;
     font-size: 14px;
   }
+  
+  @include middle { 
+  
 
   a {
     margin-left: 20px;
