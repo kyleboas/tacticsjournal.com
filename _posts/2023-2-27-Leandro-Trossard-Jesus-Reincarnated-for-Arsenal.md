@@ -16,7 +16,7 @@ When Gabriel Jesus got injured, Arsenal lost the unpredictability and positional
 
 ![_config.yml]({{ site.baseurl }}/images/F3E5AEA6-2BEA-4F6F-8795-46C93F8DB026.jpeg) 
 
-Eddie Nketiah filled in at center-forward in the beginning of December, when Jesus got injured. He stepped up to the tall task of filling Jesus' shoes by netting 7 goals. He's a pure goalscorer, great striker of the ball and knows where to position himself in the box to be available for scoring opportunities. However, he doesn't create chances for others like Jesus does. 
+Eddie Nketiah filled in at center-forward in the beginning of December, when Jesus got injured. He stepped up to the tall task of filling Jesus' shoes by netting 7 goals. He's a pure goalscorer, great striker of the ball and knows where to position himself in the box to be available for scoring opportunities. However, he doesn't create chances for others, through his off the ball movement and passing ability, like Jesus does. 
 
 Jesus can play out wide on the wing, centrally down the middle, in tight spaces, and can even help out in defense if needed. He's got a good shot, but can be inaccurate at times, and he's a better passer of the ball than he is a goalscorer, providing high-quality chances due to his movement, high work-rate, passing ability, and dribbling prowess in tight spaces. Leandro Trossard, who was signed from Brighton Hove & Albion in January for £27 million, has those same qualities.
 
