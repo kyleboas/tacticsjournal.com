@@ -24,7 +24,7 @@ It was evident throughout the entire match on Saturday that Trossard added that 
 
 The first example came in the 4th minute, when the ball was with Gabriel Martinelli, who ventured over from left-wing into the right half-space with Martin Odegaard, 4v2.
 
-![_config.yml]({{ site.baseurl }}/images/1EB9CC1C-884E-49DF-B601-EFED5ACE0E0C.jpeg)
+![_config.yml]({{ site.baseurl }}/images/1DCECCB8-D824-4F70-A486-586FFC0D9F62.jpeg)
 
 Trossard rotated out to the left-wing to fill in the space that Martinelli was meant to operate in. He then made a cutting run towards Martinelli, dragging a Leicester defender forward, which opened up space for Granit Xhaka in-behind him as the free man. 
 
