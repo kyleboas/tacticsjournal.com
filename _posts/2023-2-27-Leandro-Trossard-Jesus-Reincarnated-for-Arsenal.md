@@ -64,7 +64,7 @@ Xhaka is much better served inside the box available when a chance is created, o
 
 The third example from the 26th minute is just an incredible strike from Trossard on the edge of the box, showcasing his ball-striking ability.
 
-![_config.yml]({{ site.baseurl }}/images/ B470B71F-EAA7-4BB5-9B0A-F021EF42187C.gif)
+![_config.yml]({{ site.baseurl }}/images/B470B71F-EAA7-4BB5-9B0A-F021EF42187C.gif)
 
 A corner was taken, and he was on the edge of the box, waiting for any scraps to be recycled out to him. The ball was played into the middle of the penalty area, punched out by goalkeeper Danny Ward. Xhaka then played the ball to Trossard, and he planted the ball in the top right corner.
 
