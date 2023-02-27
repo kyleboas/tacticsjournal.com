@@ -6,12 +6,12 @@ categories:
 - "Premier League"
 tags: 
 - "Arsenal" 
-image: /images/0AA3378D-61AA-41DF-B508-69614174C4CC.jpeg
+image: /images/85533CC3-4CFD-4DFA-B9FC-400B02896A05.jpeg
 ---
 
 In Arsenal's match against Aston Villa on February 18, 2023, they employed a wide 4-4-2 formation when out of possession, which, paired with the static movement of their defenders on the far side, created a lot of space for Aston Villa between the lines.
 
-![_config.yml]({{ site.baseurl }}/images/0AA3378D-61AA-41DF-B508-69614174C4CC.jpeg)
+![_config.yml]({{ site.baseurl }}/images/85533CC3-4CFD-4DFA-B9FC-400B02896A05.jpeg)
 
 Arsenal's counter-press is the best in the Premier League, but once Aston Villa got past it and advanced the ball into the middle third, space opened up. 
 
