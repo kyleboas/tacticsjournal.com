@@ -79,6 +79,10 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag # Adds SEO metadata
 
+# Posts
+
+future: false
+
 # Categories 
 
 collections:
