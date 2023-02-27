@@ -18,15 +18,15 @@ When Gabriel Jesus got injured, Arsenal lost the unpredictability and positional
 
 Eddie Nketiah filled in at center-forward in the beginning of December, when Jesus got injured. He stepped up to the tall task of filling Jesus' shoes by netting 7 goals. He's a pure goalscorer, great striker of the ball and knows where to position himself in the box to be available for scoring opportunities. However, he doesn't create chances for others like Jesus does. 
 
-Jesus can play out-wide on the wing, centrally, in tight spaces, and can even help out in defense if needed. He's a better passer of the ball then he is a goalscorer, providing high quality chances due to his movement, high work-rate, passing ability, and dribbling prowess in tight spaces. Leandro Trossard, who was signed from Brighton Hove & Albion in January for £27 million, has those same qualities. 
+Jesus can play out wide on the wing, centrally down the middle, in tight spaces, and can even help out in defense if needed. He's got a good shot, but can be inaccurate at times, and he's a better passer of the ball than he is a goalscorer, providing high-quality chances due to his movement, high work-rate, passing ability, and dribbling prowess in tight spaces. Leandro Trossard, who was signed from Brighton Hove & Albion in January for £27 million, has those same qualities.
 
-It was evident throughout the entire match on Saturday that Trossard added that dimension of unpredictability in movement to Arsenal's game that they were missing. I couldn't highlight every instance where he had an impact on Arsenal's play, so to keep things concise I'll highlight three examples. 
+It was evident throughout the entire match on Saturday that Trossard added that dimension of unpredictability in movement to Arsenal's game. I couldn't highlight every instance where he had an impact on Arsenal's play the same way Jesus does, so to keep things concise, I'll highlight four examples. 
 
 The first example came in the 4th minute, when the ball was with Gabriel Martinelli, who ventured over from left-wing into the right half-space with Martin Odegaard, 4v2.
 
 ![_config.yml]({{ site.baseurl }}/images/7EA7AD24-D9C8-4DA1-9602-2DC3E5CA6790.jpeg)
 
-Trossard rotated out to the left-wing to fill in the space that Martinelli was meant to operate in. That run dragged a Leicester defender forward, opening up space for Granit Xhaka in-behind him as the free man. 
+Trossard rotated out to the left-wing to fill in the space that Martinelli was meant to operate in. He then made a cutting run towards Martinelli, dragging a Leicester defender forward, which opened up space for Granit Xhaka in-behind him as the free man. 
 
 ![_config.yml]({{ site.baseurl }}/images/79551185-3F0D-4E6E-B0FD-FE4F3B30A0C7.jpeg) 
 
@@ -70,26 +70,24 @@ A corner was taken, and he was on the edge of the box, waiting for any scraps to
 
 Unfortunately, the goal was disallowed by VAR because left-back Ben White thought he could get away with holding Danny Ward’s arm when he went to punch the ball.
 
-The final example is the first goal and only goal in the march, in the 45th minute. Gabriel plays a ball down the line to Trossard.
+The final example is the first goal and only goal in the match, in the 45th minute. Gabriel, the left center-back, plays a ball down the line to Trossard.
 
 ![_config.yml]({{ site.baseurl }}/images/5AE35A91-AB1B-4EA2-9F74-47A7FD524D45.jpeg)
 
-Trossard has moved from out wide, with Odegaard sitting central in the center forward's role, with Martinelli further back closer to Arsenal's back line to aid in the recovery of the ball.
+Trossard has moved out wide, with Odegaard sitting central in the center forward position, with Martinelli further back closer to Arsenal's back line to aid in the recovery of the ball.
 
 ![_config.yml]({{ site.baseurl }}/images/6C529F74-4CCA-472A-A09D-B1AA395B68EF.jpeg)
 
 Trossard performed a neat step-over, 1v1 his defender, nutmegging the defender with the pass that played Martinelli through into the box for the goal.
 
-![_config.yml]({{ site.baseurl }}/images/739F65CC-C6A4-4D76-B6A2-EEECB24D9CF7.jpeg)
+![_config.yml]({{ site.baseurl }}/images/739F65CC-C6A4-4D76-B6A2-EEECB24D9CF7.jpeg) 
 
-Arsenal made the right choice in signing Trossard from Brighton in January because he is a highly versatile forward who is proficient in playing multiple positions, such as center-forward, left-wing, center midfield, and even left-back. Arsenal can be even more unpredictable and difficult to defend against. The ability to switch positions and roles during the game can create confusion and chaos in the opponent's defensive end, leading to more opportunities on goal.
-
-It's also worth noting that Trossard's defensive work rate and ability to track back when out of possession make him an asset worth starting. He can provide cover for the left-back and center midfielders, and help to win back possession. 
+Trossard is a highly versatile forward who is proficient playing in multiple positions, can help in tight spaces since he is incredibly press resistant, is a great striker of the ball, and can handle being isolated 1v1 defenders on the wing. Arsenal can be even more unpredictable and difficult to defend against with someone like him in the lineup.
 
 I would even argue that when Gabriel Jesus comes back from injury, Jesus should move into the left center-midfield role that Granit Xhaka currently plays. Xhaka hasn't looked as convincing in the left half-space as Trossard. 
 
 ![_config.yml]({{ site.baseurl }}/images/0C1A0A2D-86DD-4E12-955D-F61164D41C89.jpeg)
 
-Let Trossard stay central and move Jesus closer to Martinelli. Martinelli, Jesus, and Trossard can all rotate and roam in and out of position to create imbalances within the opponents' second and backline.
+Let Trossard stay central and move Jesus closer to Martinelli. Martinelli, Jesus, and Trossard can all rotate and roam in and out of position to create imbalances and space within the opponents' backline.
 
 Arsenal has a ton of quality at several positions, all with the ability to chop and change position, helping to solve the problem of a lack of depth as they hit the final stretch and push for their first Premier League title since 2003. 
