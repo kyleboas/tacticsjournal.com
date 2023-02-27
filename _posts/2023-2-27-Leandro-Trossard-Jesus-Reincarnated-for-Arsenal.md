@@ -82,7 +82,7 @@ Trossard performed a neat step-over, 1v1 his defender, nutmegging the defender w
 
 ![_config.yml]({{ site.baseurl }}/images/739F65CC-C6A4-4D76-B6A2-EEECB24D9CF7.jpeg) 
 
-Trossard is a highly versatile forward who is proficient playing in multiple positions, can help in tight spaces since he is incredibly press resistant, is a great striker of the ball, and can handle being isolated 1v1 defenders on the wing. Arsenal can be even more unpredictable and difficult to defend against with someone like him in the lineup.
+Trossard is a highly versatile forward who is proficient playing in multiple positions, can help in tight spaces since he is incredibly press resistant, is a great striker of the ball, and can handle being isolated 1v1 defenders on the wing. Will he replace Gabriel Jesus? No, but Arsenal can be even more unpredictable and difficult to defend against with someone like him in the lineup.  
 
 I would even argue that when Gabriel Jesus comes back from injury, Jesus should move into the left center-midfield role that Granit Xhaka currently plays. Xhaka hasn't looked as convincing in the left half-space as Trossard. 
 
