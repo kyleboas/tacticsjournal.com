@@ -50,7 +50,7 @@ Trossard ran out wide, then ran back centrally, which created the space for Zinc
 
 Zinchenko, once he received the ball, quickly played the pass back to Martinelli, with Trossard checking back, making himself open within the triangle they created.
 
-![_config.yml]({{ site.baseurl }}/images/9E4B6094-585E-47B1-893E-A6164C96390E.jpeg)
+![_config.yml]({{ site.baseurl }}/images/1AEA4A70-3481-4A44-A2A5-AF687CCFB66C.jpeg)
 
 Trossard's movement attracted the attention of one of Leicester's center-backs, dragging them out of the 4v3 in the box on the far side. Martinelli played a ball into Bukayo Saka on the far post that was put out of play.
 
