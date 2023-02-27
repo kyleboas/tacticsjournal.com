@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-2-27 00:08:00 -0500
+date: 2023-2-27 08:00:00 -0500
 title: "Leandro Trossard is Jesus reincarnated for Arsenal" 
 categories: 
 - "Premier League"
