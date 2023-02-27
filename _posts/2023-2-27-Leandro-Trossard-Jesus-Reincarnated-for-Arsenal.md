@@ -42,11 +42,11 @@ This understanding and movement makes Arsenal much less predictable and harder t
 
 Another example came in the 18th minute when Oleksandr Zinchenko, the inverted left-back who moved into the left half-space to help Martinelli overload the left-wing.
 
-![_config.yml]({{ site.baseurl }}/images/9F58ED9A-B8A5-48AE-860A-D6573803D6B7.jpeg) 
+![_config.yml]({{ site.baseurl }}/images/BDADE01E-AC19-4590-82B6-51335CD18978.jpeg) 
 
 Trossard ran out wide, then ran back centrally, which created the space for Zinchenko to run into to receive a pass from Martinelli. Normally, it would be Xhaka making this run ahead of Zinchenko to form a triangle with Martinelli, but because Trossard is comfortable in that tight space at the edge of the box with three defenders surrounding him, he filled in.
 
-![_config.yml]({{ site.baseurl }}/images/CCF5B3DA-28D4-4DC5-8519-5877216B4608.jpeg)
+![_config.yml]({{ site.baseurl }}/images/2AFDEAB5-4EA3-4790-8825-D0D17A329AA6.jpeg)
 
 Zinchenko, once he received the ball, quickly played the pass back to Martinelli, with Trossard checking back, making himself open within the triangle they created.
 
