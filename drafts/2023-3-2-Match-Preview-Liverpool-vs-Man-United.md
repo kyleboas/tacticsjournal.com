@@ -11,13 +11,14 @@ tags:
 image: /images/CD081601-6273-4467-862E-9DB481189025.jpeg
 ---
 
+
 If it were up to me, this is the starting eleven I would pick for both Liverpool and Manchester United in their match on Sunday, March 5, 2023. Please note that while this lineup is not a prediction, my expectations for how the teams will react and perform in this configuration are.
 
 ![_config.yml]({{ site.baseurl }}/images/CD081601-6273-4467-862E-9DB481189025.jpeg)
 
 ![](/images/CD081601-6273-4467-862E-9DB481189025.jpeg)
 
-Since this is a derby at Anfield, when Man United is in possession, you would expect Liverpool to press relentlessly. However, there is a chance they will sit back and allow Man United to advance into their own half by defending in a narrow 4-4-2 out of possession.
+Since this is a derby at Anfield, when Man United is in possession, you would expect Liverpool to press relentlessly. However, there is a chance they will choose to sit in a mid block and allow Man United to advance into their own half, defending in a narrow 4-4-2 out of possession. 
 
 ![_config.yml]({{ site.baseurl }}/images/C00E285F-ECA0-4313-B97F-20073D411814.jpeg)
 
@@ -25,9 +26,9 @@ Since this is a derby at Anfield, when Man United is in possession, you would ex
 
 Man United should look to take advantage of Liverpool's narrowness by overloading either wing, specifically the left-wing. That's why I would like to see Jadon Sancho at left-wing because as of late, the overloads that both Sancho and Marcus Rashford (CF) have created have caused other teams problems when both were on the pitch. Luke Shaw and Fred will both help in that overload, with Shaw being the safe pass out as the free man on the touch-line.
 
-![_config.yml]({{ site.baseurl }}/images/9E5D5BFD-CF5B-48DF-B981-476008DAD4EC.jpeg)
+![_config.yml]({{ site.baseurl }}/images/1501661D-6C6F-4819-B435-D3743B547885.jpeg)
 
-![](/images/9E5D5BFD-9E5D5BFD-CF5B-48DF-B981-476008DAD4EC.jpeg)
+![](/images/1501661D-6C6F-4819-B435-D3743B547885.jpeg)
 
 Bruno Fernandes would shift forward into the space that Rashford occupied, and Antony at right-wing would lurk behind left-back Andrew Robertson.
 
@@ -53,20 +54,25 @@ I'll get to this when I talk about Man United's out-of-possession shape, but I w
 
 Man United should overload the left-wing, which then opens up two options.
 
-Switch the play to the right-wing to isolate Anthony Robertson (RB) 1v1 and put crosses into the box from Diego Dalot (RB) or Antony (RW).
-Work the ball into the corner out of the overload, so they can drive at goal or play a ball centrally, inside the box.
-If Liverpool can press Man United man-to-man high and hard, they'll have a more difficult time playing through the wings. It will still be a game won out wide because that will be the path of least resistance for Man United.
+ - Switch the play to the right-wing to isolate Anthony Robertson (RB) 1v1 and put crosses into the box from Diego Dalot (RB) or Antony (RW).
+ - Work the ball into the corner out of the overload, so they can drive at goal or play a ball centrally, inside the box.
+
+
+![_config.yml]({{ site.baseurl }}/images/1ADCA402-2843-4467-8DB1-C2EC20E0BD3C.jpeg)
+
+![](/images/1ADCA402-2843-4467-8DB1-C2EC20E0BD3C.jpeg)
+
+If Liverpool can press Man United man-to-man high and hard, they'll have a more difficult time advancing the ball into the Liverpool's half. Liverpool tend to play better when they're not reactionary and force the other team back into their own defensive end, especially against a team like Man United who like fashioning chances from passes from their back-line. It will be a game won out wide because that will be the path of least resistance for Man United if Liverpool setup narrow with minimal pressing. If Liverpool sit back they'll need to keep the pressure on Man United's wingers. 
 
 ![_config.yml]({{ site.baseurl }}/images/59A6E7FC-68B7-406E-AFED-937934678609.jpeg)
 
 ![](/images/59A6E7FC-68B7-406E-AFED-937934678609.jpeg)
 
-When counter-pressing, Liverpool should look to press hard to pin Man United back into their own defensive end and force them to play the ball directly in the air, rather than on the ground.
+When counter-pressing, Liverpool should look to press high to pin Man United back into their own defensive end and force them to play the ball directly in the air, rather than on the ground, to quickly win back the ball. 
 
-![_config.yml]({{ site.baseurl }}/images/64C610F0-C1B5-4576-9189-0035D5375D50.jpeg)
+![_config.yml]({{ site.baseurl }}/images/152B6FBD-4DF8-4660-935E-D014199663F4.jpeg)
 
-![](/images/64C610F0-C1B5-4576-9189-0035D5375D50.jpeg)
-
+![](/images/152B6FBD-4DF8-4660-935E-D014199663F4.jpeg)
 
 When Liverpool is in possession, I'd expect them to be pressed aggressively by Man United, not allowing them any time or space on the ball. Fernandes will look to curve his run and be the head of the press when center-backs Virgil van Dijk or Joel Matip have the ball. Fred is a key figure for Man United because he will, as Erik Ten Hag likes to say, be playing the part of a “mosquito.”
 
