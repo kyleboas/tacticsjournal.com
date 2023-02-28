@@ -64,9 +64,9 @@ Man United should overload the left-wing, which then opens up two options.
 
 If Liverpool can press Man United man-to-man high and hard, they'll have a more difficult time advancing the ball into the Liverpool's half. Liverpool tend to play better when they're not reactionary and force the other team back into their own defensive end, especially against a team like Man United who like fashioning chances from passes from their back-line. It will be a game won out wide because that will be the path of least resistance for Man United if Liverpool setup narrow with minimal pressing. If Liverpool sit back they'll need to keep the pressure on Man United's wingers. 
 
-![_config.yml]({{ site.baseurl }}/images/59A6E7FC-68B7-406E-AFED-937934678609.jpeg)
+![_config.yml]({{ site.baseurl }}/images/135F6E7A-A066-43D9-957B-272121EFD261.jpeg)
 
-![](/images/59A6E7FC-68B7-406E-AFED-937934678609.jpeg)
+![](/images/135F6E7A-A066-43D9-957B-272121EFD261.jpeg)
 
 When counter-pressing, Liverpool should look to press high to pin Man United back into their own defensive end and force them to play the ball directly in the air, rather than on the ground, to quickly win back the ball. 
 
@@ -88,20 +88,22 @@ The front four of Man United's press should cause Liverpool problems advancing t
 
 Darwin Nunez (LW), or whoever plays at left-wing since there is a chance Nunez is injured, will likely invert to allow more room for Robertson (LB) on the left-wing by dragging Dalot (RB) infield. This is where Antony’s (RW) ability to cover larger areas in defense comes into play. He excels at pressing, taking pressure off the other midfielders and Dalot. His presence should help disrupt Robertson on the left-wing.
 
-If Sancho (LW) gets caught further out wide marking Alexander-Arnold, Matip should look to advance the ball into the open space on the right-wing to help overload Man United 4v3. Matip has been known to do this in the past to great effect.
+If Sancho (LW) gets caught further out wide marking Alexander-Arnold, Matip should look to advance the ball into the open space on the right-wing to help overload Man United 4v3. 
 
-![_config.yml]({{ site.baseurl }}/images/CCA94697-2695-44EF-A44C-B01F30E76150.jpeg)
+![_config.yml]({{ site.baseurl }}/images/A58DC482-9A68-4B70-BC01-466FF96DD41E.jpeg)
 
-![](/images/CCA94697-2695-44EF-A44C-B01F30E76150.jpeg)
+![](/images/A58DC482-9A68-4B70-BC01-466FF96DD41E.jpeg)
 
-![_config.yml]({{ site.baseurl }}/images/279931C3-947C-42F9-970B-EDE26AA20CB9.jpeg)
+Matip has been known to do this in the past to great effect.
 
-![](/images/279931C3-947C-42F9-970B-EDE26AA20CB9.jpeg)
+![_config.yml]({{ site.baseurl }}/images/0E7A9D2D-620C-45A9-A4D5-4FA3FC47B6D7.jpeg)
+
+![](/images/0E7A9D2D-620C-45A9-A4D5-4FA3FC47B6D7.jpeg)
+
+![_config.yml]({{ site.baseurl }}/images/DAA5621E-C023-4CD0-BC26-C7B2563F7105.jpeg)
+
+![](/images/DAA5621E-C023-4CD0-BC26-C7B2563F7105.jpeg)
 
 Liverpool should be counter-pressed high by Man United with forwards Fernandes and Rashford curving their runs, with Antony and Sancho man-to-man out wide. Fred will be tight to Henderson, as he is the most important player for Liverpool in transition, but he should get further forward to mark whoever sits in front of the backline. In this case, defensive-midfielder Keita.
-
-![_config.yml]({{ site.baseurl }}/images/C4BEC60F-B70A-47FE-8E62-0FB483925635.jpeg)
-
-![](/images/C4BEC60F-B70A-47FE-8E62-0FB483925635.jpeg)
 
 I would give Man United the edge over Liverpool in the match if what I outlined comes true. They will have the numerical superiority on the far-side of play and are superior pressing when in defense. I’d expect it to be a loud and frantic fast-paced match. 
