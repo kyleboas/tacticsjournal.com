@@ -78,10 +78,6 @@ When Liverpool is in possession, I'd expect them to be pressed aggressively by M
 
 > Erik Ten Hag on Fred vs. Barcelona on February 23rd: "His role was to stop Frenkie de Jong and be like a mosquito all over him."
 
-![_config.yml]({{ site.baseurl }}/images/64C610F0-C1B5-4576-9189-0035D5375D50.jpeg)
-
-![](/images/64C610F0-C1B5-4576-9189-0035D5375D50.jpeg)
-
 Fred is used to shadow the other team's most important transition playmaker, in either half-space because he's reliable in the tackle. He did the same with De Bruyne versus Man City and Longstaff versus Newcastle, or Joelinton when Longstaff was subbed out. Fred will look to disrupt Henderson’s ability to play the ball into the triangle on the right-wing, between Henderson, Mohamed Salah (RW), and Trent Alexander-Arnold (RB).
 
 The front four of Man United's press should cause Liverpool problems advancing the ball into the wide areas. They will try to force Van Dijk (CB) and Matip (CB) into mistakes to spring counterattacks.
