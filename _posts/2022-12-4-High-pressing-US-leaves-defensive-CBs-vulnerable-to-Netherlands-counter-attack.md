@@ -13,6 +13,10 @@ image: /images/31C6E881-5735-41B8-8D47-8DF2B43E7F8E.webp
 
 First goal for the Netherlands vs US in the 9:30 minute. After an interception Blind retains the ball and gets past the flat 4 in the 1–5–2–2 easily. Adams/Mckennie man-marking Memphis/Klaassen.
 
+{% include image.html
+            img="images/31C6E881-5735-41B8-8D47-8DF2B43E7F8E.webp"
+            caption="caption for image" %}
+
 ![_config.yml]({{ site.baseurl }}/images/31C6E881-5735-41B8-8D47-8DF2B43E7F8E.webp)
 
 Neat passing sequence 3v2 Klaassen/Memphis/Gakpo to break past Adams/Mckennie. US loose shape tracking back. Dest not in any rush to track back to help Musah.
