@@ -13,6 +13,8 @@ image: /images/6CA70A3B-8594-4962-A2BD-9F4571E147DF.jpeg
 
 Match-Preview-Man-City-vs-Newcastle-04Mar2023
 
+This should be fairly even match, and it is an early kickoff on Saturday, so it has the potential to be cagey. While Man City's lineup is not predictable, Newcastle's lineup is predictable because they don't rotate, so I would be surprised if they alter their usual lineup for such a big game.  
+
 If it were up to me, this is the starting eleven I would pick for both Man City and Newcastle in their match on Saturday, March 4, 2023. Please note that while this lineup is not a prediction, my expectations for how the teams will react and perform in this configuration are. 
 
 ![_config.yml]({{ site.baseurl }}/images/6CA70A3B-8594-4962-A2BD-9F4571E147DF.jpeg)
@@ -28,8 +30,6 @@ Pep Guardiola will want to control this match.
 Newcastle will look to press high and aggressively when the ball is in Man City's defensive end to force Ederson (GK) to play the ball long. Man City prefers to play short and will defend by attempting to control possession. 
 
 I think Man City should elect to go with Bernardo Silva over Kevin De Bruyne in the midfield, as he is more press-resistant with his back to the defender. That ability to receive the ball facing the goal and turn will be important to help work the ball out of Man City's defensive end when they are being pressed.
-
-Newcastle's lineup is predictable because they don't rotate, so I would be surprised if they alter their usual lineup for such a big game.
 
 Man City has the qualitative superiority, but Newcastle plays better as a unit. They have a deeper understanding of where each player should be and their role because of the simplicity of their structure, and their lineups are more consistent. You can see their chemistry at play when they counter-press.
 
@@ -174,4 +174,4 @@ Silva (CM) lost the ball to Luiz, and Akanji was caught out too wide rather than
 
 One bonus thing to watch for is the battle between Kyle Walker (RB) and Allan Saint-Maximin (LW). These two are very fast players, and Saint-Maximin will try to dribble past Walker to get inside the box. This is why I would want Silva (CM) on Man City's right-hand side to help Walker deal with Saint-Maximin on the wing. He had a lot of success in their first head-to-head on August 21, 2022, so Man City should look to neutralize him without sacrificing the effectiveness of their press against Newcastle's overload on the right-wing. 
 
-This match should be fairly even match, and it is an early kickoff on Saturday, so it has the potential to be cagey. Man City sits second in the league table, just two points behind Arsenal. Newcastle is 5th, trying to claw their way back into the top four with two games in hand, only 4 points separating them and Tottenham. Newcastle is also trying to bounce back from their loss to Man United in the Carabao Cup Final on the weekend.
+Man City sits second in the league table, just two points behind Arsenal. Newcastle is 5th, trying to claw their way back into the top four with two games in hand, only 4 points separating them and Tottenham. Newcastle is also trying to bounce back from their loss to Man United in the Carabao Cup Final on the weekend.
