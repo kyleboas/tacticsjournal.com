@@ -37,9 +37,9 @@ Ruben Dias (RCB) and Kyle Walker (RB) are in the lineup to stop Allan Saint-Maxi
 
 Man City has the qualitative superiority, but Newcastle plays better as a unit. They have a deeper understanding of where each player should be and their role because of the simplicity of their structure, and their lineups are more consistent. You can see their chemistry at play when they counter-press.
 
-![_config.yml]({{ site.baseurl }}/images/F36F3C42-4E98-43CD-ADC8-98D6DD53A276.jpeg)
+![_config.yml]({{ site.baseurl }}/images/E0CB4BB0-6DF6-47C3-9E06-486C56374AE8.jpeg)
 
-![](/images/F36F3C42-4E98-43CD-ADC8-98D6DD53A276.jpeg)
+![](/images/E0CB4BB0-6DF6-47C3-9E06-486C56374AE8.jpeg)
 
 Untitled 6.jpeg
 
