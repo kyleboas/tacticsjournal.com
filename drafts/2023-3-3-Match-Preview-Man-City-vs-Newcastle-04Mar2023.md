@@ -55,6 +55,10 @@ Once Man City get past the counter-press, Newcastle will settle into a 4-4-2 mid
 
 Rodri (DM) will play as the single pivot, and Silva (CM) will assist in the build-up if Newcastle press higher to maintain a numerical advantage versus Newcastle's inital press of Saint-Maximin (LW) and Wilson (CF). Foden (LW) will stay on the touch-line, while Mahrez (RW) will invert into the right half-space to provide Walker (RB) with more space on the right-wing. Also, in the past few matches there's been an effort made to give the left-winger, either Jack Grealish or Phil Foden, more freedom to move around the field, so I wouldn't be surprised if we see that versus Newcastle. 
 
+![_config.yml]({{ site.baseurl }}/images/E9BE568D-BA94-4099-8065-981B60F1EC0C.jpeg)
+
+![](/images/E9BE568D-BA94-4099-8065-981B60F1EC0C.jpeg)
+
 RW MCI VS NEW.jpeg
 
 Silva (CM), Mahrez (RW), and Walker (RB) will form a triangle on the right-wing and try to work the ball into the corner. The goal being to switch create a high quality chance for Foden (LW) on the back post, or play Gundogan (CM) or Haaland (CF) behind Newcastle's backline. 
