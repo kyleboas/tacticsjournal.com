@@ -11,7 +11,7 @@ tags:
 image: /images/6CA70A3B-8594-4962-A2BD-9F4571E147DF.jpeg
 ---
 
-2023-3-3-Match-Preview-Man-City-vs-Newcastle-04Mar2023.md
+Match-Preview-Man-City-vs-Newcastle-04Mar2023
 
 If it were up to me, this is the starting eleven I would pick for both Man City and Newcastle in their match on Saturday, March 4, 2023. Please note that while this lineup is not a prediction, my expectations for how the teams will react and perform in this configuration are. 
 
@@ -25,9 +25,9 @@ Pep Guardiola will want to control this match.
 > 
 >  “If I want to buildup from left, I’ll always play Laporte, If I want defenders in the box I play Ake and Dias. If I want runners in midfield Foden and Gundo are the best. If my tactics work they say I’m genius, if it doesn’t they say I’m overthinking.” 
 
-Newcastle will look to press high and aggressively when the ball is in Man City's defensive end to force Ederson (GK) to play the ball long. Man City prefers to play short.
+Newcastle will look to press high and aggressively when the ball is in Man City's defensive end to force Ederson (GK) to play the ball long. Man City prefers to play short and will defend by attempting to control possession. 
 
-I think Man City should elect to go with Bernardo Silva over Kevin De Bruyne in the midfield, as he is more press-resistant with his back to the defender. That ability to receive the ball facing the goal and turn will be important to help work the ball out of Man City's defensive end when they are being pressed in their own defensive end.
+I think Man City should elect to go with Bernardo Silva over Kevin De Bruyne in the midfield, as he is more press-resistant with his back to the defender. That ability to receive the ball facing the goal and turn will be important to help work the ball out of Man City's defensive end when they are being pressed.
 
 Newcastle's lineup is predictable because they don't rotate, so I would be surprised if they alter their usual lineup for such a big game.
 
@@ -39,7 +39,7 @@ Man City has the qualitative superiority, but Newcastle plays better as a unit. 
 
 NEW Counter Press.jpeg
 
-The Newcastle front-three of Allan Saint-Maximin (LW), Callum Wilson (CF), and Miguel Almiron (RW) will be right in the face of Man City, zipping around, trying to force them into errors. Joelinton (CM) will closely mark Bernardo Silva (CM), and Bruno Guimaraes (CM) should also closely mark Rodri (DM). Kieran Trippier (RB) will be pushed forward to help intercept any more direct passes into Gundogan or Foden.
+The Newcastle front-three of Allan Saint-Maximin (LW), Callum Wilson (CF), and Miguel Almiron (RW) will be right in the face of Man City, zipping around, trying to force them into errors. Joelinton (CM) will closely mark Bernardo Silva (CM), and Bruno Guimaraes (CM) should also closely mark Rodri (DM). Kieran Trippier (RB) will be pushed forward to help intercept any direct passes into Gundogan (CM) or Foden (LW).
 
 Aymeric Laporte (LCB) and Ruben Dias (RCB) will be on either side of Ederson (GK), with Nathan Ake (LB) closer to the box compared to Kyle Walker (RB), who will be further forward up the right-wing.
 
@@ -51,17 +51,53 @@ Riyad Mahrez (RW) will move into the right half-space to provide more room for W
 
 MCI In Possesion vs Newcastle.jpeg
 
-Once Man City get past the counter-press, Newcastle will settle into a 4-4-2 mid-block with Man City playing in a lopsided 4-3-3, with Walker (RB) pushing higher and Ake (LB) tucking in to form a back three at times. Bernardo Silva (CM) might be on the left-hand side in the left half-space, but based on past performances, it's expected he will play in the right half-space.
+Once Man City get past the counter-press, Newcastle will settle into a 4-4-2 mid-block with Man City playing in a lopsided 4-3-3. Walker (RB) will push higher and Ake (LB) will tuck in to form a back three at times. Bernardo Silva (CM) might be on the left-hand side in the left half-space, but based on past performances when both Rodri, Gundogan and Silva all played together in the midfield, it's expected Silva will play in the right half-space.
 
-Rodri (DM) will play as the single pivot, and Silva (CM) will assist in the build-up if Newcastle press higher to maintain a numerical advantage in midfield. Foden (LW) will stay on the touch-line, while Mahrez (RW) will move inside to provide Walker (RB) with more space on the right-wing. Silva (CM), Mahrez (RW), and Walker (RB) will form a triangle on the right-wing and try to work the ball into the corner. They'll look to switch the play to Foden (LW), or play Gundogan (CM) or Haaland (CF) behind Newcastle's backline. 
+Rodri (DM) will play as the single pivot, and Silva (CM) will assist in the build-up if Newcastle press higher to maintain a numerical advantage versus Newcastle's inital press of Saint-Maximin (LW) and Wilson (CF). Foden (LW) will stay on the touch-line, while Mahrez (RW) will invert into the right half-space to provide Walker (RB) with more space on the right-wing. Also, in the past few matches there's been an effort made to give the left-winger, either Jack Grealish or Phil Foden, more freedom to move around the field, so I wouldn't be surprised if we see that versus Newcastle. 
 
-A similar triangle could form to overload the left-wing with Foden (LW), Gundogan (CM), and Ake (LB) to switch the ball to Mahrez (RW) or play Haaland (CF) in.
+RW MCI VS NEW.jpeg
+
+Silva (CM), Mahrez (RW), and Walker (RB) will form a triangle on the right-wing and try to work the ball into the corner. The goal being to switch create a high quality chance for Foden (LW) on the back post, or play Gundogan (CM) or Haaland (CF) behind Newcastle's backline. 
 
 ![_config.yml]({{ site.baseurl }}/images/D9A33EAD-C529-4B36-BED4-B26FE6A6E9AD.jpeg)
 
 ![](/images/D9A33EAD-C529-4B36-BED4-B26FE6A6E9AD.jpeg)
 
 Overload LW MCI V NEW.jpeg
+
+A similar triangle could form to overload the left-wing with Foden (LW), Gundogan (CM), and Ake (LB) to switch the ball to Mahrez (RW) or play Haaland (CF) in.
+
+One such example of this came this week in Man City's FA Cup match versus Bristol City on February, 28, 2023. 
+
+![_config.yml]({{ site.baseurl }}/images/B9253578-A67C-4CE3-93E1-F28787F90866.jpeg)
+
+![](/images/B9253578-A67C-4CE3-93E1-F28787F90866.jpeg)
+
+Ake.jpeg
+
+Man City overloaded the left-wing and Nathan Ake (LB) switched the ball to Mahrez (RW), who was in space. 
+
+![_config.yml]({{ site.baseurl }}/images/F621E889-35B5-4AAF-AF22-B7B6327D6AF7.jpeg)
+
+![](/images/F621E889-35B5-4AAF-AF22-B7B6327D6AF7.jpeg)
+
+Untitled 4.jpeg
+
+![_config.yml]({{ site.baseurl }}/images/E0C64127-D1D3-4BAB-8C4D-DDEB64FBE81F.jpeg)
+
+![](/images/E0C64127-D1D3-4BAB-8C4D-DDEB64FBE81F.jpeg)
+
+Untitled 3.jpeg
+
+Kevin De Bruyne (CM) then checked his run to Mahrez (RW) for a one-two, which dragged both defenders out, opening the space to play Mahrez into the box. 
+
+![_config.yml]({{ site.baseurl }}/images/0C19A4A6-A62A-4A18-A4EE-CF3FB17DC340.jpeg)
+
+![](/images/0C19A4A6-A62A-4A18-A4EE-CF3FB17DC340.jpeg)
+
+Untitled 5.jpeg
+
+Mahrez (RW) then played the perfect pass to the back post for Foden (LW) to tap in. Man City will look to recreate chances like this versus Newcastle, with Newcastle's back post on Man Cit's left-wing being the most vulnerable because Trippier (RB) likes to get higher up the pitch. There should be space open on the right side of Newcastle's box, like there was versus Bristol City. 
 
 ![_config.yml]({{ site.baseurl }}/images/FF1818B5-C45C-4434-86C2-FC013035C81B.jpeg)
 
@@ -78,7 +114,7 @@ For Man City's counter-press, they'll mark man-to-man and position themselves to
 
 Counterpress MCI vs NEW.jpeg
 
-Man City will look to squeeze Newcastle in the corner and force them to play the ball long or make an error. The highest quality chances will come from these turnovers as Man City will quickly work the ball into the box. The quicker Newcastle can advance the ball into the middle third, the better, to escape the press and attempt to outnumber the remaining Man City defenders behind their press. 
+Man City will look to squeeze Newcastle in the corner and force them to play the ball long or make an error. The highest quality chances will come from these turnovers as Man City will quickly work the ball into the box. The quicker Newcastle can advance the ball into the middle third, the better, to avoid the press and attempt to outnumber the remaining Man City defenders behind their press. 
 
 ![_config.yml]({{ site.baseurl }}/images/26440AAC-DD9B-43B6-92B7-37A5F54ADBC9.jpeg)
 
@@ -116,7 +152,7 @@ Both Joelinton (LW) and in this case, Willock (CM), are free at the top of the b
 
 Another way they'll look to create chances is through forcing turnovers in the middle third, when Man City is most vulnerable because Man City tends to spread quite wide when they're transitioning from their defensive third to the other team's half.
 
-This example from the Aston Villa match on Feb 12th showcases how Man City can be vulnerable and disorganized at times when they turn over the ball in the middle third. Man City were in a lopsided 3-2 structure in this next example, whereas I'm suggesting they will play against Newcastle in a 4-1 structure. 
+This example from the Aston Villa match on Feb 12th showcases how Man City can be vulnerable and disorganized at times when they turn over the ball in the middle third. Man City were in a lopsided 3-2 structure, whereas I'm suggesting they will play against Newcastle in a 4-1 structure. 
 
 ![_config.yml]({{ site.baseurl }}/images/F7B1D0FC-8D14-45A6-9A29-3BC736ECC968.jpeg)
 
@@ -132,6 +168,6 @@ Tactical Previews/Untitled 2.jpeg
 
 Silva (CM) lost the ball to Luiz, and Akanji was caught out too wide rather than centrally where he should have been, leaving Watkins free in an acre of space. He was played in by Luiz, and Watkins dribbled past Akanji to score. This is the type of chance Newcastle will attempt to recreate.
 
-One bonus thing to watch for is the battle between Kyle Walker (RB) and Allan Saint-Maximin (LW). The reason why I would want Silva (CM) on the right hand side is to help Walker deal with Saint-Maximin. He had a lot of joy in both team's first head-to-head on August 21, 2022.  
+One bonus thing to watch for is the battle between Kyle Walker (RB) and Allan Saint-Maximin (LW). These two are very fast players, and Saint-Maximin will try to dribble past Walker to get inside the box. This is why I would want Silva (CM) on Man City's right-hand side to help Walker deal with Saint-Maximin on the wing. He had a lot of success in their first head-to-head on August 21, 2022, so Man City should look to neutralize him without sacrificing the effectiveness of their press against Newcastle's overload on the right-wing. 
 
-This match should be fairly even, and it is an early kickoff match on Saturday, so has the potential to be cagey. Man City sits second in the league table, just two points behind Arsenal. Newcastle is 5th, trying to claw their way back into the top four with two games in hand, only 4 points separating them and Tottenham. Newcastle is also trying to bounce back from their loss to Man United in the Carabao Cup Final on the weekend.
+This match should be fairly even match, and it is an early kickoff on Saturday, so it has the potential to be cagey. Man City sits second in the league table, just two points behind Arsenal. Newcastle is 5th, trying to claw their way back into the top four with two games in hand, only 4 points separating them and Tottenham. Newcastle is also trying to bounce back from their loss to Man United in the Carabao Cup Final on the weekend.
