@@ -17,23 +17,21 @@ I would give Man United the edge over Liverpool in the match if what I outlined 
 
 If it were up to me, this is the starting eleven I would pick for both Liverpool and Manchester United in their match on Sunday, March 5, 2023. Please note that while this lineup is not a prediction, my expectations for how the teams will react and perform in this configuration are.
 
-![_config.yml]({{ site.baseurl }}/images/CD081601-6273-4467-862E-9DB481189025.jpeg)
-
-![](/images/CD081601-6273-4467-862E-9DB481189025.jpeg)
+[team]
 
 Since this is a derby at Anfield, when Man United is in possession, you would expect Liverpool to press relentlessly. However, there is a chance they will choose to sit in a mid block and allow Man United to advance into their own half, defending in a narrow 4-4-2 out of possession. 
 
-![_config.yml]({{ site.baseurl }}/images/C00E285F-ECA0-4313-B97F-20073D411814.jpeg)
+![_config.yml]({{ site.baseurl }}/images/118577A2-9D2F-4CD9-834F-6948A245BC87.jpeg)
 
-![](/images/C00E285F-ECA0-4313-B97F-20073D411814.jpeg)
+![](/images/118577A2-9D2F-4CD9-834F-6948A245BC87.jpeg)
 
 Untitled 8.jpeg
 
 Man United should look to take advantage of Liverpool's narrowness by overloading either wing, specifically the left-wing. That's why I would like to see Marcus Rashford (LW) because as of late, when they overload that wing, they cause other teams problems. Tyrell Malacia (LB) and Fred (CM) will both help in that overload, with Malacia being the safe pass out as the free man on the touch-line.
 
-![_config.yml]({{ site.baseurl }}/images/1501661D-6C6F-4819-B435-D3743B547885.jpeg)
+![_config.yml]({{ site.baseurl }}/images/51E4A5DD-FA1E-4A45-A0E8-EC3D3D787249.jpeg)
 
-![](/images/1501661D-6C6F-4819-B435-D3743B547885.jpeg)
+![](/images/51E4A5DD-FA1E-4A45-A0E8-EC3D3D787249.jpeg)
 
 Untitled 9.jpeg
 
@@ -74,9 +72,9 @@ Man United should overload the left-wing, which then opens up two options.
 
 If Liverpool can press Man United man-to-man high and hard, they'll have a more difficult time advancing the ball into Liverpool's half. Liverpool tend to play better when they're not reactionary and force the other team back into their own defensive end, especially against a team like Man United who like fashioning chances from passes from their back-line. It will be a game won out wide because that will be the path of least resistance for Man United if Liverpool setup narrow with minimal pressing. If Liverpool sit back they'll need to keep the pressure on Man United's wingers when the ball is out wide. 
 
-![_config.yml]({{ site.baseurl }}/images/59A6E7FC-68B7-406E-AFED-937934678609.jpeg)
+![_config.yml]({{ site.baseurl }}/images/11F25071-E199-4555-B6A8-B3DA885614FC.jpeg)
 
-![](/images/59A6E7FC-68B7-406E-AFED-937934678609.jpeg)
+![](/images/11F25071-E199-4555-B6A8-B3DA885614FC.jpeg)
 
 LIV Counter Press.jpeg 
 
@@ -100,6 +98,12 @@ The front four of Man United's press should cause Liverpool problems advancing t
 
 Darwin Nunez (LW), or whoever plays at left-wing since there is a chance Nunez won't be fit to play, will likely invert to allow more room for Robertson (LB) on the left-wing by dragging Dalot (RB) infield. This is where Antony’s (RW) ability to cover larger areas in defense comes into play. He excels at pressing, taking pressure off the other midfielders and Dalot. His presence should help disrupt Robertson on the left-wing.
 
+![_config.yml]({{ site.baseurl }}/images/ED240BAF-0176-4E76-B18F-BE7EACFCB7BB.jpeg)
+
+![](/images/ED240BAF-0176-4E76-B18F-BE7EACFCB7BB.jpeg)
+
+Untitled 15.jpeg
+
 ![_config.yml]({{ site.baseurl }}/images/CCA94697-2695-44EF-A44C-B01F30E76150.jpeg)
 
 ![](/images/CCA94697-2695-44EF-A44C-B01F30E76150.jpeg)
@@ -113,10 +117,11 @@ If Rashford (LW) gets caught further out wide marking Alexander-Arnold, Matip sh
 
 ![](/images/279931C3-947C-42F9-970B-EDE26AA20CB9.jpeg)
 
-Liverpool should be counter-pressed high by Man United with forwards Fernandes and Rashford curving their runs, with Antony and Sancho man-to-man out wide. Fred will be tight to Henderson, as he is the most important player for Liverpool in transition, but he should get further forward to mark whoever sits in front of the backline. In this case, defensive-midfielder Keita.
+Liverpool should be counter-pressed high by Man United with forwards Fernandes and Martial curving their runs, with Antony and Rashford man-to-man out wide. Fred will be tight to Henderson, as he is the most important player for Liverpool in transition, but he should get further forward to mark whoever sits in front of the backline. In this case, defensive-midfielder Keita.
 
-![_config.yml]({{ site.baseurl }}/images/C4BEC60F-B70A-47FE-8E62-0FB483925635.jpeg)
+![_config.yml]({{ site.baseurl }}/images/74A3C30C-DD9A-4A7E-A4D3-691B8A54FADA.jpeg)
 
-![](/images/C4BEC60F-B70A-47FE-8E62-0FB483925635.jpeg)
+![](/images/74A3C30C-DD9A-4A7E-A4D3-691B8A54FADA.jpeg)
+
 
 Untitled 7.jpeg
