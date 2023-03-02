@@ -113,15 +113,12 @@ Untitled 10.jpeg
 If Rashford (LW) gets caught further out wide marking Alexander-Arnold, Matip should look to advance the ball into the open space on the right-wing to help overload Man United 4v3. Matip has been known to do this in the past to great effect.
 
 
-![_config.yml]({{ site.baseurl }}/images/279931C3-947C-42F9-970B-EDE26AA20CB9.jpeg)
-
-![](/images/279931C3-947C-42F9-970B-EDE26AA20CB9.jpeg)
-
-Liverpool should be counter-pressed high by Man United with forwards Fernandes and Martial curving their runs, with Antony and Rashford man-to-man out wide. Fred will be tight to Henderson, as he is the most important player for Liverpool in transition, but he should get further forward to mark whoever sits in front of the backline. In this case, defensive-midfielder Keita.
-
 ![_config.yml]({{ site.baseurl }}/images/74A3C30C-DD9A-4A7E-A4D3-691B8A54FADA.jpeg)
 
 ![](/images/74A3C30C-DD9A-4A7E-A4D3-691B8A54FADA.jpeg)
 
 
 Untitled 7.jpeg
+
+
+Liverpool should be counter-pressed high by Man United with forwards Fernandes and Martial curving their runs, with Antony and Rashford man-to-man out wide. Fred will be tight to Henderson, as he is the most important player for Liverpool in transition, but he should get further forward to mark whoever sits in front of the backline. In this case, defensive-midfielder Keita.
