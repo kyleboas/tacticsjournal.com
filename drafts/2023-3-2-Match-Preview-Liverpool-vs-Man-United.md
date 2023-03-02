@@ -66,12 +66,6 @@ Man United should overload the left-wing, which then opens up two options.
  - Switch the play to the right-wing to isolate Anthony Robertson (RB) 1v1 and put crosses into the box from Diego Dalot (RB) or Antony (RW).
  - Work the ball into the corner out of the overload, so Rashford (LW) can drive at goal or play a ball centrally, inside the box.
 
-![_config.yml]({{ site.baseurl }}/images/1ADCA402-2843-4467-8DB1-C2EC20E0BD3C.jpeg)
-
-![](/images/1ADCA402-2843-4467-8DB1-C2EC20E0BD3C.jpeg)
-
-If Liverpool can press Man United man-to-man high and hard, they'll have a more difficult time advancing the ball into Liverpool's half. Liverpool tend to play better when they're not reactionary and force the other team back into their own defensive end, especially against a team like Man United who like fashioning chances from passes from their back-line. It will be a game won out wide because that will be the path of least resistance for Man United if Liverpool setup narrow with minimal pressing. If Liverpool sit back they'll need to keep the pressure on Man United's wingers when the ball is out wide. 
-
 ![_config.yml]({{ site.baseurl }}/images/11F25071-E199-4555-B6A8-B3DA885614FC.jpeg)
 
 ![](/images/11F25071-E199-4555-B6A8-B3DA885614FC.jpeg)
@@ -80,17 +74,17 @@ LIV Counter Press.jpeg
 
 When counter-pressing, Liverpool should look to press high to pin Man United back into their own defensive end and force them to play the ball directly in the air, rather than on the ground, to quickly win back the ball. 
 
-![_config.yml]({{ site.baseurl }}/images/152B6FBD-4DF8-4660-935E-D014199663F4.jpeg)
+If Liverpool can press Man United man-to-man high and hard, they'll have a more difficult time advancing the ball into Liverpool's half. Liverpool tend to play better when they're not reactionary and force the other team back into their own defensive end, especially against a team like Man United who like fashioning chances from passes from their back-line. It will be a game won out wide because that will be the path of least resistance for Man United if Liverpool setup narrow with minimal pressing. If Liverpool sit back they'll need to keep the pressure on Man United's wingers when the ball is played out wide. 
 
-![](/images/152B6FBD-4DF8-4660-935E-D014199663F4.jpeg)
+![_config.yml]({{ site.baseurl }}/images/88F2D362-F2A7-41DA-A2A7-39C58FF898EB.jpeg)
+
+![](/images/88F2D362-F2A7-41DA-A2A7-39C58FF898EB.jpeg)
+
+Untitled 16.jpeg
 
 When Liverpool is in possession, I'd expect them to be pressed aggressively by Man United, not allowing them any time or space on the ball. Fernandes will look to curve his run and be the head of the press when center-backs Virgil van Dijk or Joel Matip have the ball. Fred is a key figure for Man United because he will, as Erik Ten Hag likes to say, be playing the part of a “mosquito.”
 
 > Erik Ten Hag on Fred vs. Barcelona on February 23rd: "His role was to stop Frenkie de Jong and be like a mosquito all over him."
-
-![_config.yml]({{ site.baseurl }}/images/64C610F0-C1B5-4576-9189-0035D5375D50.jpeg)
-
-![](/images/64C610F0-C1B5-4576-9189-0035D5375D50.jpeg)
 
 Fred is used to shadow the other team's most important transition playmaker, in either half-space because he's reliable in the tackle. He did the same with De Bruyne versus Man City and Longstaff versus Newcastle, or Joelinton when Longstaff was subbed out. Fred will look to disrupt Henderson’s ability to play the ball into the triangle on the right-wing, between Henderson, Mohamed Salah (RW), and Trent Alexander-Arnold (RB).
 
