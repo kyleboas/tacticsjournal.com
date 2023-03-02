@@ -17,7 +17,9 @@ I would give Man United the edge over Liverpool in the match if what I outlined 
 
 If it were up to me, this is the starting eleven I would pick for both Liverpool and Manchester United in their match on Sunday, March 5, 2023. Please note that while this lineup is not a prediction, my expectations for how the teams will react and perform in this configuration are.
 
-[team]
+![_config.yml]({{ site.baseurl }}/images/E53B4558-26BA-415F-B4FF-A5F5594C0C96.jpeg)
+
+![](/images/E53B4558-26BA-415F-B4FF-A5F5594C0C96.jpeg)
 
 Since this is a derby at Anfield, when Man United is in possession, you would expect Liverpool to press relentlessly. However, there is a chance they will choose to sit in a mid block and allow Man United to advance into their own half, defending in a narrow 4-4-2 out of possession. 
 
@@ -116,3 +118,7 @@ Untitled 7.jpeg
 
 
 Liverpool should be counter-pressed high by Man United with forwards Fernandes and Martial curving their runs, with Antony and Rashford man-to-man out wide. Fred will be tight to Henderson, as he is the most important player for Liverpool in transition, but he should get further forward to mark whoever sits in front of the backline. In this case, defensive-midfielder Keita.
+
+Liverpool are in seventh in the league, trying to get back into form and push for a top four spot. Man United are third in third with a game in hand with Arsenal and Man City, who they are trying to chase for their first Premier League league title since 2012. 
+
+Man United will be riding a high off their Carabao Cup final win versus Newcastle, and their win over West Ham, to advance to the FA Cup quarter-final. Liverpool have struggled finishing their chances but they've kept consecutive clean sheets in their past five Premier League matches. 
