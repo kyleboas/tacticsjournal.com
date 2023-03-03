@@ -49,7 +49,7 @@ Aymeric Laporte (LCB) and Ruben Dias (RCB) will be on either side of Ederson (GK
 
 Phil Foden (RW) will move into the right half-space to provide more room for Walker (RB) on the right-wing, then drop back with Ilkay Gundogan (LCM) to receive a short pass and move the ball out of their own half. Kevin De Bruyne (RCM) will either drop back to help or stay further forward with Haaland (CF). If the short pass is not on, Ederson (GK) will pass long to either Walker (RB), De Bruyne (RCM), Haaland (CF), or Grealish (LW).
 
-![_config.yml]({{ site.baseurl }}/images/868AD575-F267-4439-AE33-07928A056461.jpeg)
+![_config.yml]({{ site.baseurl }}/images/4EA61915-B08F-411E-B090-E0194C7A4197.jpeg)
 
 Once Man City get past the counter-press, Newcastle will settle into a 4-4-2 mid or low block with Man City playing in a lopsided 4-3-3. Walker (RB) will push higher and Ake (LB) will tuck in to form a back three at times. 
 
