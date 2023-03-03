@@ -25,9 +25,9 @@ Newcastle will look to press high and aggressively when the ball is in Man City'
 > 
 > Pep Guardiola: “If I want to buildup from left, I’ll always play Laporte, If I want defenders in the box I play Ake and Dias. If I want runners in midfield Foden and Gundo are the best. If my tactics work they say I’m genius, if it doesn’t they say I’m overthinking.” 
 
-Pep Guardiola will want to control this match, but I think Kevin De Bruyne will get the start in right center-midfield, to help find the run of Haaland and rotate on the right-wing with Phil Foden (RW). 
+Pep Guardiola will want to control this match and Newcastle do like to sit deep out of possession so I would expect them to use a 4-1-2-3 structure rather then a 3-2-2-3. The individual matchups in and out of possession for Man City favor using that formation. That is also the formation they used when they last played Newcastle on August 21st.
 
-Foden gets the nod ahead of Riyad Mahrez on the right-wing for three reasons. 
+I think Kevin De Bruyne will get the start in right center-midfield, to help find the run of Haaland and rotate on the right-wing with Phil Foden (RW). Foden gets the nod ahead of Riyad Mahrez on the right-wing for three reasons. 
 
 1. He has been performing well the past two matches, with three goals and two assist, Pep will want likely want to keep that rhythm going. 
 2. He has a higher defensive work-rate and is better in the tackle, which will be important out of possession when helping mark either Joelinton (LCM) or Saint-Maximin (LW). 
