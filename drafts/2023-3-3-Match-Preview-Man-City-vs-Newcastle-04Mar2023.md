@@ -29,31 +29,40 @@ Newcastle will look to press high and aggressively when the ball is in Man City'
 > 
 > Pep Guardiola: “If I want to buildup from left, I’ll always play Laporte, If I want defenders in the box I play Ake and Dias. If I want runners in midfield Foden and Gundo are the best. If my tactics work they say I’m genius, if it doesn’t they say I’m overthinking.” 
 
-Pep Guardiola will want to control this match, but I think Kevin De Bruyne will get the start in right center-midfield, to help find the run of Haaland and rotate on the right-wing with Phil Foden (RW). Foden gets the nod ahead of Riyad Mahrez on the right-wing for two reasons. One, he has been performing well the past two matches, with three goals and two assist, so Pep will want likely want to keep that rhythm going. Two, he has a higher defensive work-rate and is better in the tackle, which will be important out of possession when helping mark either Joelinton (LCM) or Saint-Maximin (LW). Jack Grealish (LW) was rested midweek, and only played 72 minutes on the weekend, in Man City's 4-1 win over Bournemouth. 
+Pep Guardiola will want to control this match, but I think Kevin De Bruyne will get the start in right center-midfield, to help find the run of Haaland and rotate on the right-wing with Phil Foden (RW). 
+
+Foden gets the nod ahead of Riyad Mahrez on the right-wing for three reasons. 
+
+1. He has been performing well the past two matches, with three goals and two assist, Pep will want likely want to keep that rhythm going. 
+2. He has a higher defensive work-rate and is better in the tackle, which will be important out of possession when helping mark either Joelinton (LCM) or Saint-Maximin (LW). 
+3. Newcastle like to sit deep at times, when out of possession, and as a “runner” he will be more effective in tight spaces out wide against Dan Burn (LB), who is lanky and a good tackler, or in the right half-space when he rotates with De Bruyne (RCM). 
+
+Jack Grealish (LW) was rested midweek, and only played 72 minutes on the weekend, in Man City's 4-1 win over Bournemouth. 
 
 > Pep Guardiola: "If I need for example, build-up from left-back is most important, then Aymeric Laporte is going to play every game. But sometimes I need a defender, defender, defender in the box, and [Nathan] Ake and Ruben [Dias] are the best..."
 
-Ruben Dias (RCB) and Kyle Walker (RB) are in the lineup to stop Allan Saint-Maximin (LW). The speedy and agile Allan Saint-Maximin will try to dribble past the equally quick Kyle Walker, to get inside the box. Saint-Maximin had a lot of success in their first head-to-head on August 21, 2022, so Man City should look to neutralize him without sacrificing the effectiveness of the press from Aymeric Laporte (LCB) and Nathan Ake (LB) on Newcastle's right-wing. 
+Ruben Dias (RCB) and Kyle Walker (RB) are in the lineup to stop Allan Saint-Maximin (LW). The speedy and agile left-winger will try to dribble past the equally quick Kyle Walker, to get inside the box. Saint-Maximin had a lot of success in their first head-to-head on August 21, 2022, Man City should look to neutralize him without sacrificing the effectiveness of the press from Aymeric Laporte (LCB) and Nathan Ake (LB) on Newcastle's right-wing. 
 
 Man City has the qualitative superiority, but Newcastle plays better as a unit. They have a deeper understanding of where each player should be and their role because of the simplicity of their structure, and their lineups are more consistent. You can see their chemistry at play when they counter-press.
 
-![_config.yml]({{ site.baseurl }}/images/7197AA47-4204-4A20-B796-031821DD89BD.jpeg)
+![_config.yml]({{ site.baseurl }}/images/21E9DFA8-719A-4FA1-B81D-D2927BB03881.jpeg)
 
-![](/images/7197AA47-4204-4A20-B796-031821DD89BD.jpeg)
+![](/images/21E9DFA8-719A-4FA1-B81D-D2927BB03881.jpeg)
+
 
 The Newcastle front-three of Allan Saint-Maximin (LW), Callum Wilson (CF), and Miguel Almiron (RW) will be right in the face of Man City, zipping around, trying to force them into errors. Joelinton (LCM) will closely mark De Bruyne (RCM), and Bruno Guimaraes (CM) should also closely mark Rodri (DM). Kieran Trippier (RB) will be pushed forward to help intercept any direct passes into Gundogan (LCM) or Grealish (RW).
 
 Aymeric Laporte (LCB) and Ruben Dias (RCB) will be on either side of Ederson (GK), with Nathan Ake (LB) closer to the box compared to Kyle Walker (RB), who will be further forward up the right-wing.
 
-Phil Foden (RW) will move into the right half-space to provide more room for Walker (RB) on the right-wing. Ilkay Gundogan (LCM) and Kevin De Bruyne (RCM) will drop back to receive a short pass and move the ball out of their own half. If the short pass is not on, Ederson (GK) will pass long to either Walker (RB), Haaland (CF), or Grealish (LW).
+Phil Foden (RW) will move into the right half-space to provide more room for Walker (RB) on the right-wing, then drop back with Ilkay Gundogan (LCM) to receive a short pass and move the ball out of their own half. Kevin De Bruyne (RCM) will either drop back to help or stay further forward with Haaland (CF). If the short pass is not on, Ederson (GK) will pass long to either Walker (RB), De Bruyne (RCM), Haaland (CF), or Grealish (LW).
 
 ![_config.yml]({{ site.baseurl }}/images/868AD575-F267-4439-AE33-07928A056461.jpeg)
 
 ![](/images/868AD575-F267-4439-AE33-07928A056461.jpeg)
 
-Once Man City get past the counter-press, Newcastle will settle into a 4-4-2 mid-block with Man City playing in a lopsided 4-3-3. Walker (RB) will push higher and Ake (LB) will tuck in to form a back three at times. 
+Once Man City get past the counter-press, Newcastle will settle into a 4-4-2 mid or low block with Man City playing in a lopsided 4-3-3. Walker (RB) will push higher and Ake (LB) will tuck in to form a back three at times. 
 
-Rodri (DM) will play as the single pivot, and Gundogan (LCM) will assist in the build-up if Newcastle press higher to maintain a numerical advantage versus Newcastle's inital press of Saint-Maximin (LW) and Wilson (CF). Grealish (LW) will stay on the touch-line, while Foden (RW) will invert into the right half-space to provide Walker (RB) with more space on the right-wing. Also, in the past few matches there's been an effort made to give the left-winger, either Jack Grealish or Phil Foden, more freedom to move around the field, so I wouldn't be surprised if we see that versus Newcastle. 
+Rodri (DM) will play as the single pivot, and Gundogan (LCM) will assist in the build-up if Newcastle press higher, to maintain a numerical advantage versus Newcastle's inital press of Saint-Maximin (LW) and Wilson (CF). Grealish (LW) will stay on the touch-line, while Foden (RW) inverting into the right half-space to provide Walker (RB) with more space on the right-wing. Also, in the past few matches there's been an effort made to give the left-winger, either Jack Grealish or Phil Foden, more freedom to move around the field, so I wouldn't be surprised if we see Grealish (LW) move infield when he receives the ball.
 
 De Bruyne (RCM), Foden (RW), and Walker (RB) will form a triangle on the right-wing and try to work the ball into the corner. The goal being to switch create a high quality chance for Grealish (LW) on the back post, or play Gundogan (LCM) or Haaland (CF) behind Newcastle's backline. 
 
@@ -157,4 +166,4 @@ Tactical Previews/Untitled 2.jpeg
 
 Silva (CM) lost the ball to Luiz, and Akanji was caught out too wide rather than centrally where he should have been, leaving Watkins free in an acre of space. He was played in by Luiz, and Watkins dribbled past Akanji to score. This is the type of chance Newcastle will attempt to recreate. 
 
-Man City is second in the league table, just two points behind Arsenal. Newcastle is 5th, trying to claw their way back into the top four with two games in hand, only 4 points separating them and Tottenham. Newcastle is also trying to bounce back from their loss to Man United in the Carabao Cup Final on the weekend.
+Man City are second in the league table, just two points behind Arsenal. Newcastle are 5th, trying to claw their way back into the top four with two games in hand, only 4 points separating them and Tottenham. Newcastle are also trying to bounce back from their loss to Man United in the Carabao Cup Final on the weekend. 
