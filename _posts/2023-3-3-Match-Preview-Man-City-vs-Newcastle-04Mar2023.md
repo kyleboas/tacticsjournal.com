@@ -80,9 +80,6 @@ Mahrez (RW) then played the perfect pass to the back post for Foden (LW) to tap 
 
 ![_config.yml]({{ site.baseurl }}/images/B7CA1990-C1F4-428A-A19C-7266A7292956.jpeg)
 
-
-MCI Counter Press vs NEW.jpeg
-
 For Man City's counter-press, they'll mark man-to-man and position themselves to force Newcastle into the wide areas, preferably herding them into Newcastle's left-wing, while still maintaining the correct structure to deal with long balls to Newcastle's forwards. The trigger for the counter-press will come when Newcastle plays the ball out wide.
 
 ![_config.yml]({{ site.baseurl }}/images/3A263C93-3BEB-4FF9-88C0-210FD8422FDD.jpeg)
