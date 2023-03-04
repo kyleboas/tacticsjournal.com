@@ -11,7 +11,7 @@ tags:
 image: /images/06F937CD-95DB-4542-A786-B3CC636D029C.jpeg
 ---
 
-I would give Man United the edge over Liverpool in the match if what I outlined comes true. They will have the numerical superiority on the far-side of play and are superior pressing when in defense. I’d expect it to be a loud and frantic fast-paced match. 
+I would give Man United the edge over Liverpool in this match if what I outlined comes true. They will have the numerical superiority out wide and are superior in pressing when out of possession. I’d expect it to be a loud, frantic, and fast-paced match. 
 
 If it were up to me, this is the starting eleven I would pick for both Liverpool and Manchester United in their match on Sunday, March 5, 2023. Please note that while this lineup is not a prediction, my expectations for how the teams will react and perform in this configuration are.
 
@@ -21,7 +21,7 @@ Since this is a derby at Anfield, when Man United is in possession, you would ex
 
 ![_config.yml]({{ site.baseurl }}/images/873D0C28-A9C4-4630-B849-B584EC3A8835.jpeg)
 
-When counter-pressing, Liverpool should look to press high to pin Man United back into their own defensive end and force them to play the ball directly in the air, rather than on the ground, to quickly win back the ball. 
+When Liverpool counter-press they should look to defend high to pin Man United back into their own defensive end and force them to play the ball directly in the air, rather than on the ground, to quickly win back the ball. 
 
 ![_config.yml]({{ site.baseurl }}/images/6D69685E-FA85-49BA-8418-171E4EB95F06.jpeg)
 
@@ -41,9 +41,9 @@ Anthony Elanga (LW) and Christian Eriksen (CM) played a one-two out of the 6v5, 
 
 Marcus Rashford (CF) and Jadon Sancho (RW) were loosely marked 2v2, centrally, inside the box. Elanga found Sancho for the goal.
 
-I'll get to this when I talk about Man United's out-of-possession shape, but I would assume that Fred will likely operate in the left half-space, aiding in the overload on the left-wing and staying further forward to get onto the end of balls on the edge of the box.
+I would assume that Fred will likely operate in the left half-space, aiding in the overload on the left-wing and staying further forward to get onto the end of balls on the edge of the box.
 
-Man United should overload the left-wing, which then opens up two options.
+Man United should overload the left-wing, which then opens up two options: 
 
  - Switch the play to the right-wing to isolate Anthony Robertson (RB) 1v1 and put crosses into the box from Diego Dalot (RB) or Antony (RW).
  - Work the ball into the corner out of the overload, so they can drive at goal or play a ball centrally, inside the box.
@@ -74,6 +74,6 @@ Darwin Nunez (LW), or whoever plays at left-wing since there is a chance Nunez w
 
 If Sancho (LW) gets caught further out wide marking Alexander-Arnold, Matip should look to advance the ball into the open space on the right-wing to help overload Man United 4v3. Matip has been known to do this in the past to great effect.
 
-Liverpool are in seventh in the league, trying to get back into form and push for a top four spot. Man United are third in third with a game in hand with Arsenal and Man City, who they are trying to chase for their first Premier League league title since 2012. 
+Liverpool are seventh in the league, trying to get back into form and push for a top four spot. Man United are third in third with a game in hand with Arsenal and Man City, who they are trying to chase for their first Premier League league title since 2012. 
 
 Man United will be riding a high off their Carabao Cup final win versus Newcastle, and their win over West Ham, to advance to the FA Cup quarter-final. Liverpool have struggled finishing their chances but they've kept consecutive clean sheets in their past five Premier League matches. 
