@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-2-20 07:30:00 -0500
+date: 2023-3-4 9:30:00 -0500
 title: "Match Preview: Liverpool vs Man United 05MAR2023" 
 categories: 
 - "Premier League"
@@ -8,10 +8,8 @@ categories:
 tags: 
 - "Man United" 
 - "Liverpool"
-image: /images/CD081601-6273-4467-862E-9DB481189025.jpeg
+image: /images/06F937CD-95DB-4542-A786-B3CC636D029C.jpeg
 ---
-
-Match-Preview-Liverpool-vs-Man-United-05MAR2023
 
 I would give Man United the edge over Liverpool in the match if what I outlined comes true. They will have the numerical superiority on the far-side of play and are superior pressing when in defense. I’d expect it to be a loud and frantic fast-paced match. 
 
@@ -19,33 +17,17 @@ If it were up to me, this is the starting eleven I would pick for both Liverpool
 
 ![_config.yml]({{ site.baseurl }}/images/06F937CD-95DB-4542-A786-B3CC636D029C.jpeg)
 
-![](/images/06F937CD-95DB-4542-A786-B3CC636D029C.jpeg)
-
-Untitled 17.jpeg
-
 Since this is a derby at Anfield, when Man United is in possession, you would expect Liverpool to press relentlessly. However, there is a chance they will choose to sit in a mid block and allow Man United to advance into their own half, defending in a narrow 4-4-2 out of possession. 
 
 ![_config.yml]({{ site.baseurl }}/images/873D0C28-A9C4-4630-B849-B584EC3A8835.jpeg)
-
-![](/images/873D0C28-A9C4-4630-B849-B584EC3A8835.jpeg)
-
-Untitled 23.jpeg
 
 When counter-pressing, Liverpool should look to press high to pin Man United back into their own defensive end and force them to play the ball directly in the air, rather than on the ground, to quickly win back the ball. 
 
 ![_config.yml]({{ site.baseurl }}/images/6D69685E-FA85-49BA-8418-171E4EB95F06.jpeg)
 
-![](/images/6D69685E-FA85-49BA-8418-171E4EB95F06.jpeg)
-
-Untitled 18.jpeg
-
 Man United should look to take advantage of Liverpool's narrowness by overloading either wing, specifically the left-wing. That's why I would like to see Jadon Sancho at left-wing because as of late, the overloads that both Sancho and Marcus Rashford (CF) have created have caused other teams problems when both were on the pitch. Luke Shaw and Fred will both help in that overload, with Shaw being the safe pass out as the free man on the touch-line.
 
 ![_config.yml]({{ site.baseurl }}/images/AAF36766-7D64-4A0B-ABF7-9F8C8A6EA648.jpeg)
-
-![](/images/AAF36766-7D64-4A0B-ABF7-9F8C8A6EA648.jpeg)
-
-Untitled 19.jpeg
 
 Bruno Fernandes would shift forward into the space that Rashford occupied, and Antony at right-wing would lurk behind left-back Andrew Robertson.
 
@@ -53,17 +35,9 @@ Man United did something similar for their first goal in their last encounter wi
 
 ![_config.yml]({{ site.baseurl }}/images/F8A72A9C-B06B-4874-93B8-1D69FEE626C5.jpeg)
 
-![](/images/F8A72A9C-B06B-4874-93B8-1D69FEE626C5.jpeg)
-
-Untitled 20.jpeg
-
 Anthony Elanga (LW) and Christian Eriksen (CM) played a one-two out of the 6v5, setting Elanga off into the corner.
 
 ![_config.yml]({{ site.baseurl }}/images/072BCDB6-F328-47C6-94A7-AA65F1864EA0.jpeg)
-
-![](/images/072BCDB6-F328-47C6-94A7-AA65F1864EA0.jpeg)
-
-Untitled 21.jpeg
 
 Marcus Rashford (CF) and Jadon Sancho (RW) were loosely marked 2v2, centrally, inside the box. Elanga found Sancho for the goal.
 
@@ -76,25 +50,13 @@ Man United should overload the left-wing, which then opens up two options.
 
 ![_config.yml]({{ site.baseurl }}/images/CDEB5120-00D1-4757-9B1F-FD7DFB608980.jpeg)
 
-![](/images/CDEB5120-00D1-4757-9B1F-FD7DFB608980.jpeg)
-
-Untitled 22.jpeg
-
 If Liverpool can press Man United man-to-man high and hard, they'll have a more difficult time advancing the ball into the Liverpool's half. Liverpool tend to play better when they're not reactionary and force the other team back into their own defensive end, especially against a team like Man United who like fashioning chances from passes from their back-line. It will be a game won out wide because that will be the path of least resistance for Man United if Liverpool setup narrow with minimal pressing. If Liverpool sit back they'll need to keep the pressure on Man United's wingers. 
 
 ![_config.yml]({{ site.baseurl }}/images/AE9615AA-EC6E-40DE-A0F0-B9D2176A8C2A.jpeg)
 
-![](/images/AE9615AA-EC6E-40DE-A0F0-B9D2176A8C2A.jpeg)
-
-Untitled 24.jpeg
-
 Liverpool should be counter-pressed high by Man United with forwards Fernandes and Rashford curving their runs, with Antony and Sancho man-to-man out wide. Fred will be tight to Henderson, as he is the most important player for Liverpool in transition, but he should get further forward to mark whoever sits in front of the backline. In this case, defensive-midfielder Keita.
 
 ![_config.yml]({{ site.baseurl }}/images/DA776C73-032D-48F2-B202-06815C8727E9.jpeg)
-
-![](/images/DA776C73-032D-48F2-B202-06815C8727E9.jpeg)
-
-Untitled 27.jpeg
 
 When Liverpool is in possession, I'd expect them to be pressed aggressively by Man United, not allowing them any time or space on the ball. Fernandes will look to curve his run and be the head of the press when center-backs Virgil van Dijk or Joel Matip have the ball. Fred is a key figure for Man United because he will, as Erik Ten Hag likes to say, be playing the part of a “mosquito.”
 
@@ -108,14 +70,10 @@ Darwin Nunez (LW), or whoever plays at left-wing since there is a chance Nunez w
 
 ![_config.yml]({{ site.baseurl }}/images/7C79A0BC-9EA6-4E22-80A0-EB93605FF9E6.jpeg)
 
-![](/images/7C79A0BC-9EA6-4E22-80A0-EB93605FF9E6.jpeg)
-
-Untitled 25.jpeg
-
 ![_config.yml]({{ site.baseurl }}/images/FA7879E0-C592-46B1-BD92-3DB7F68D5C2B.jpeg)
 
-![](/images/FA7879E0-C592-46B1-BD92-3DB7F68D5C2B.jpeg)
-
-Untitled 26.jpeg
-
 If Sancho (LW) gets caught further out wide marking Alexander-Arnold, Matip should look to advance the ball into the open space on the right-wing to help overload Man United 4v3. Matip has been known to do this in the past to great effect.
+
+Liverpool are in seventh in the league, trying to get back into form and push for a top four spot. Man United are third in third with a game in hand with Arsenal and Man City, who they are trying to chase for their first Premier League league title since 2012. 
+
+Man United will be riding a high off their Carabao Cup final win versus Newcastle, and their win over West Ham, to advance to the FA Cup quarter-final. Liverpool have struggled finishing their chances but they've kept consecutive clean sheets in their past five Premier League matches. 
