@@ -15,7 +15,7 @@ Match-Preview-Liverpool-vs-Man-United-05MAR2023
 
 I would give Man United the edge over Liverpool in the match if what I outlined comes true. They will have the numerical superiority on the far-side of play and are superior pressing when in defense. I’d expect it to be a loud and frantic fast-paced match. 
 
-If it were up to me, this is the starting eleven I would pick for both Liverpool and Manchester United in their match on Sunday, March 5, 2023. Please note that while this lineup is not a prediction, my expectations for how the teams will react and perform in this configuration are.
+This is the starting eleven I would pick for both Liverpool and Manchester United for their match on Sunday, March 5, 2023. My expectations for how the teams will react and perform in this configuration are a prediction based on past performances and both manager's words in interviews or press conferences. 
 
 ![_config.yml]({{ site.baseurl }}/images/E53B4558-26BA-415F-B4FF-A5F5594C0C96.jpeg)
 
