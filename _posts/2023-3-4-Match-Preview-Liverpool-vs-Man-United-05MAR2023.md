@@ -50,7 +50,7 @@ Man United should overload the left-wing, which then opens up two options:
 
 ![_config.yml]({{ site.baseurl }}/images/CDEB5120-00D1-4757-9B1F-FD7DFB608980.jpeg)
 
-If Liverpool can press Man United man-to-man high and hard, they'll have a more difficult time advancing the ball into the Liverpool's half. Liverpool tend to play better when they're not reactionary and force the other team back into their own defensive end, especially against a team like Man United who like fashioning chances from passes from their back-line. It will be a game won out wide because that will be the path of least resistance for Man United if Liverpool setup narrow with minimal pressing. If Liverpool sit back they'll need to keep the pressure on Man United's wingers. 
+If Liverpool can press Man United man-to-man high and hard, they'll have a more difficult time advancing the ball into Liverpool's half. Liverpool tend to play better when they're not reactionary and force the other team back into their own defensive end, especially against a team like Man United who like fashioning chances from passes from their back-line. It will be a game won out wide because that will be the path of least resistance for Man United if Liverpool setup narrow with minimal pressing. If Liverpool sit back they'll need to keep the pressure on Man United's wingers. 
 
 ![_config.yml]({{ site.baseurl }}/images/AE9615AA-EC6E-40DE-A0F0-B9D2176A8C2A.jpeg)
 
