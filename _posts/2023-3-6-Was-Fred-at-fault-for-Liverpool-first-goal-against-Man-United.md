@@ -81,7 +81,7 @@ Robertson played an incredibly well-weighted and placed pass through the space. 
 
 Tactic board what happened.jpeg
 
-[Going into the match](https://tacticsjournal.com/Match-Preview-Liverpool-vs-Man-United-05MAR2023/), I expected Manchester United to press Liverpool high and hard, with Bruno Fernandes leading the charge, chasing after Liverpool's center-back pair. He's been good at pressing the back-line previously and has a higher defensive work-rate then Marcus Rashford. This was not the case, though; he was played at left-wing, marking right-back Trent Alexander Arnold, with Marcus Rashford down the middle as the number 9. 
+[Going into the match](https://tacticsjournal.com/Match-Preview-Liverpool-vs-Man-United-05MAR2023/), I expected Manchester United to press Liverpool high and hard, with Bruno Fernandes leading the charge, chasing after Liverpool's center-back pair. He's been good at pressing the back-line previously and has a higher defensive work-rate then Marcus Rashford. This was not the case, though; he was played at left-wing, marking right-back Trent Alexander-Arnold, with Marcus Rashford down the middle as the number 9. 
 
 This change pushed Fred higher, making him the one responsible for closely man-marking Jordan Henderson (LCM), pressing Liverpool's back-line when they were trying to build-up and covering the large space behind him for which Gakpo liked to drop into. It was too much responsibility for one player with how quick and direct Liverpool like to play. Also, once they pressed Liverpool's back-line and Antony joined in that press, Robertson was often out-wide unmarked as the free man. 
 
