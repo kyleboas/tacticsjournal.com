@@ -83,7 +83,7 @@ In past matches, like the above example from their match against Southampton on 
 
 Chelsea can take advantage of Leicester City's lack of numbers in defense by having wing-backs Ben Chilwell and Ruben Loftus-Cheek push higher up the pitch. Their wing-backs pushed high in their 2-0 win over Borussia Dortmund on Tuesday, March 7, 2023. The forwards and midfield remained narrow to give the wing-backs space up and down the wings.
 
-![](/images/728FD16F-770F-48B4-AA72-6FA55FB8B373.jpeg)
+![](/images/FD901984-9374-4B31-9A8D-86454BFD8062.jpeg)
 
 Chelsea should feel safe to push the wing-backs forward because they will always match Leicester's rest-offense 3v3 to 4v4. If either one of Enzo or Kovacic gets further forward, the other can shift over to cover Maddison. Joao Felix can drop deeper if needed to overload 3v2 the double pivot of Nampalys Mendy and Kiernan Dewsbury-Hall. Hakim Ziyech will be useful out-wide to help Loftus-Cheek advance the ball down the right-wing. 
 
