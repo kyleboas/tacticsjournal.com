@@ -51,13 +51,13 @@ If Chelsea plays it short, Leicester City will rely on their close man-to-man ma
 
 TOT vs LEI.jpeg
 
-Leicester City closely marked Tottenham man-to-man, allowing the ball to be played short out-wide to Davies.
+They closely marked Tottenham man-to-man, allowing the ball to be played short out-wide to Ben Davies.
 
 ![](/images/D092E181-0F6B-4764-876B-B07F1D02F0B6.jpeg)
 
 Untitled 28.jpeg
 
-Ben Davies' pass was off the mark, and center-back Wout Faes followed center-forward Harry Kane into the left half-space to make the tackle and win Leicester City the ball.
+Davies' pass was off the mark, and center-back Wout Faes followed center-forward Harry Kane into the left half-space to make the tackle and force a turnover.
 
 ![](/images/19D27A78-EC3C-4F2D-BE90-595C3C55B672.jpeg)
 
@@ -67,7 +67,7 @@ Untitled 29.jpeg
 
 Untitled 30.jpeg
 
-Tottenham's second-line was caught flat-footed, allowing Kelechi Iheanacho and James Maddison to easily work their way into the box 2v1, on the counter versus Japhet Tanganga, for the goal.
+Tottenham's second-line was caught flat-footed, allowing Kelechi Iheanacho and James Maddison to easily work their way into the box 2v1, on the counter versus Japhet Tanganga, for the Leicester City goal.
 
 ![](/images/945333C6-A8D2-4F8A-BDD4-8C52B19D3689.jpeg)
 
@@ -81,18 +81,18 @@ CHE DOR Map.jpeg
 
 <small><a href="https://twitter.com/datobhj">Chelsea vs Dortmund Territory Map by DatoBHJ</a></small>
 
-Chelsea can take advantage of Leicester City's lack of numbers in defense by having wing-backs Ben Chilwell and Reece James push higher up the pitch. Their wing-backs pushed high in their 2-0 win over Borussia Dortmund on Tuesday, March 7, 2023. The forwards remained central to give the wing-backs space up and down the wings.
+Chelsea can take advantage of Leicester City's lack of numbers in defense by having wing-backs Ben Chilwell and Reece James push higher up the pitch. Their wing-backs pushed high in their 2-0 win over Borussia Dortmund on Tuesday, March 7, 2023. The forwards and midfield remained narrow to give the wing-backs space up and down the wings.
 
 ![](/images/753B9B91-8876-4121-AE39-CE4536966748.jpeg)
 
 CHE poss.jpeg
 
+Chelsea should feel safe to push the wing-backs forward because they will always match Leicester's rest-offense 3v3 to 4v4. If Zakaria gets further forward, Enzo can shift over to cover Maddison. Joao Felix can drop deeper if needed to overload 3v2 the double pivot of Nampalys Mendy and Kiernan Dewsbury-Hall.
+
 Enzo Fernandez is on the left side of the pivot for two reasons:
 
 1. The pocket of space behind Kelechi Iheanacho should be large, so that will give him extra room to operate within.
-2. Dennis Zakaria will push forward to help overload Leicester City's backline in the right half-space, [as he has before](https://tacticsjournal.com/Zakaria-positional-movement-was-key-to-Chelsea-fluidity-vs-Bournemouth/). His defensive instincts, strength in the tackle, and ability to dribble out of trouble when he wins the ball will be important when he marks either Kieran Dewsbury-Hall or James Madison.
-
-Chelsea should feel safe to push the wing-backs forward because they will always match Leicester's rest-offense 3v3 to 4v4. If Zakaria gets further forward, Enzo can shift over to cover Maddison. Joao Felix can drop deeper if needed to overload 3v2 the double pivot of Nampalys Mendy and Kiernan Dewsbury-Hall. 
+2. Dennis Zakaria will push forward to help overload Leicester City's backline in the right half-space, [as he has before](https://tacticsjournal.com/Zakaria-positional-movement-was-key-to-Chelsea-fluidity-vs-Bournemouth/). His defensive instincts, strength in the tackle, and ability to dribble out of trouble when he wins the ball will be important when he marks either Kieran Dewsbury-Hall or James Madison. 
 
 ![](/images/127DFF2D-6F9A-4D43-9FF0-82C74EB9E517.jpeg)
 
@@ -102,7 +102,7 @@ Move 1 CHE LEI.jpeg
 
 Move 2 CHE LEI.jpeg
 
-Chelsea should take advantage of Leicester's man-to-man marking scheme by having the wing-backs, midfielders, and forwards rotate and change position to cause confusion and open up spaces between the lines. In the past couple of matches, they've been playing incredibly quickly, almost like the ball is a "hot potato"; the ball carrier seems anxious to get the ball out of their feet. If they can play a bit slower and advance the ball methodically into Leicester's defensive end, with some positional rotation, they should be able to create high-quality chances.
+Chelsea should take advantage of Leicester's man-to-man marking scheme by having the wing-backs, midfielders, and forwards rotate and change position to cause confusion and open up spaces between the lines. In the past couple of matches, they've been playing incredibly quickly, almost like the ball is a "hot potato"; the ball carrier seems anxious to get the ball out of their feet. If they can play a bit slower and advance the ball methodically into Leicester City's defensive end, with some positional rotation, they should be able to create high-quality chances.
 
 Leicester City should look to commit more numbers from their rest-offense to defense to avoid these overloads in the midfield and on their backline.
 
@@ -114,7 +114,7 @@ To counteract the lack of a counter-press; once the ball gets into the middle th
 
 BOR CHE PRESS 1.1.jpeg
 
-The ball is played forward into the middle third, then both Mateo Kovacic and Marc Cucurella rush to win back the ball. They successfully win the ball and play it to Sterling. 
+The ball is played forward into the middle third, then both Mateo Kovacic and Marc Cucurella rush to win back the ball. They successfully win the ball and play it to Raheem Sterling. 
 
 ![](/images/D6478DE7-4E3F-41C3-BCFB-38C04693F3E2.jpeg)
 
@@ -142,15 +142,13 @@ Chelsea should look to replicate that double-team pressure in the middle third. 
 
 Kiernan Dewsbury-Hall (LDM) in particular is incredibly shifty and press-resistant so it will be difficult to stop him from progressing the ball forward. The four forwards in Leicester's rest-offense don't normally drop back to help in the buildup, if Chelsea takes both of Leicester's defensive midfielders out of the game, Leicester will find it difficult to create any chances.
 
-CHE out of possession.jpeg
-
 Once the ball is worked into Chelsea’s defensive end, I would expect them to stay in a low block, inviting pressure and clogging the midfield to maintain a numerical advantage in the middle. That will force Leicester City wide, where the wing-backs will attempt to win back the ball 1v1 or 2v1 with the help of the ball-side center-back.
 
 ![](/images/4007B0D8-E882-4B94-9C5E-C5AE3220599A.jpeg)
 
 Untitled 33.jpeg
 
-In this example, Dewsbury-Hall plays the ball out to Praet, who is closed down by James. Iheanacho will begin his run to the back post, anticipating a cross, while Maddison will check to the ball to help provide an outlet.
+In this example, Dewsbury-Hall plays the ball out to Praet, who is closed down by Reece James. Iheanacho will begin his run to the back post, anticipating a cross, while Maddison will check to the ball to help provide an outlet.
 
 ![](/images/C12EA0CA-30CC-4AB6-92C5-CB0983F7A731.jpeg)
 
@@ -162,14 +160,14 @@ If Wesley Fofana, the right center-back, helps close down Praet, there will be a
 
 DOR CHE 2v1.jpeg 
 
-The ball was played down the right-wing, and both Marc Cucurella (LCB) and Ben Chilwell closed down the ball carrier. Cucurella left to help Chilwell double-team the player out wide because he knew they matched Dortmund 3v3 inside the box.
+The ball was played down the right-wing, and both Marc Cucurella (LCB) and Ben Chilwell (LB) closed down the ball carrier. Cucurella left to help Chilwell double-team the player out wide because he knew they matched Dortmund 3v3 inside the box.
 
 I like the idea of forcing Leicester City out wide and clogging the middle because both James Maddison and Kelechi Iheanacho are their most dangerous offensive threats, and they like to work the ball through the middle. Dennis Praet and Tete aren't the most effective crossers of the ball, and Tete likes running at defenders, so if Chelsea can force them to cross instead of trying to play through them, they should find more success.
 
 Keys to the game: 
 
 - How effectively can Chelsea work the ball out of their own half when pressed? 
-- Will Chelsea turn the ball over often because they are trying to play too quickly?
+- Will Chelsea turn the ball over too easily because they are trying to play too quickly?
 - Will we see positional rotation from Chelsea to confuse Leicester City's defenders? 
 - Can Chelsea close down the ball carrier in the middle third to not allow Leicester to retain possession?
 - Will Leicester City be effective enough offensively if they're forced out wide by the narrowness of Chelsea out of possession? 
