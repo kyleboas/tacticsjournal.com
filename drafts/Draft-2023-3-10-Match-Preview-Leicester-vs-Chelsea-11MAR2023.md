@@ -7,13 +7,13 @@ categories:
 - "Match Preview"
 tags: 
 - "Chelsea"
-- "Leicester"
+- "Leicester City"
 image: /images/8AD5EC7F-C348-41A4-9486-3B43A943EF5A.jpeg
 ---
 
 2023-3-10-Match-Preview-Leicester-vs-Chelsea-11MAR2023.md
 
-Chelsea should remain consistent and play in the 5-2-3 formation that has brought them success in their past two matches, while Leicester will look to tightly man-to-man mark in a 4-2-4 and force turnovers, so they can unleash their talented forwards against Chelsea's solid back-line.
+Chelsea should remain consistent and play in the 5-2-3 formation that has brought them success in their past two matches, while Leicester City will look to tightly man-to-man mark in a 4-2-4 and force turnovers, so they can unleash their talented forwards against Chelsea's solid back-line.
 
 If it were up to me, this is the starting eleven I would pick for both Leicester City and Chelsea in their match at the King Power Stadium on Saturday, March 11, 2023. Please note that while this lineup is not a prediction, it is influenced by past team selections and recent minutes played. However, my expectations for how the teams will react and perform in this configuration are a prediction.
 
