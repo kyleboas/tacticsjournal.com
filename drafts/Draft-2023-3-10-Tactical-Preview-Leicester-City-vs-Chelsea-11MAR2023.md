@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-3-10 10:00:00 -0500
-title: "Match Preview: Leicester City vs Chelsea 11MAR2023"
+title: "Tactical Preview: Leicester City vs Chelsea 11MAR2023"
 categories: 
 - "Premier League"
 - "Match Preview"
@@ -124,8 +124,8 @@ I like the idea of forcing Leicester City out wide and clogging the middle becau
 
 Keys to the game: 
 
-- How effectively can Chelsea work the ball out of their own half when pressed? 
+- How effectively can Chelsea build-up in their own half when pressed man-to-man? 
 - Will Chelsea turn the ball over too easily because they are trying to play too quickly?
-- Will we see positional rotation from Chelsea to confuse Leicester City's defenders? 
-- Can Chelsea close down the ball carrier in the middle third to not allow Leicester to retain possession?
+- Will we see positional rotation from Chelsea to take advantage Leicester City's man-to-man marking scheme? 
+- Can Chelsea close down the ball carrier in the middle-third to not allow Leicester City to retain possession?
 - Will Leicester City be effective enough offensively if they're forced out wide by the narrowness of Chelsea out of possession? 
