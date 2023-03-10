@@ -19,7 +19,15 @@ This is the starting eleven I would pick for both Leicester City and Chelsea in 
 
 To establish and maintain a winning rhythm, Chelsea needs to have a more consistent starting eleven, like they have in the past two matches. They have a very large squad, and the schedule will require them to rotate the lineup due to the short turnaround between matches, but it would help if they could get away with only making two to three or fewer changes.
 
-The 5-2-3 formation fits Chelsea perfectly because it’s straightforward and easy to understand for the players. It's the same formation in and out of possession, everyone knows their role without thinking or providing the more complicated instructions they've deployed in past matches, such as having a right wing-back play as a right center-back and the right-wing fall back into the space the right wing-back occupied, out of possession. This simplicity is important when the lineup constantly changes match-to-match.
+The 5-2-3 formation fits Chelsea perfectly because it’s straightforward and easy to understand for the players. It's the same formation in and out of possession, everyone knows their role without thinking or providing the more complicated instructions they've had to deploy in past matches when they were in a 4-2-1-3 formation.
+
+![](/images/CAA1E727-766A-452D-A87E-3E2CB0CB77F3.jpeg)
+
+![](/images/39A1BF76-A751-47AE-BF6F-8B17A2F93414.jpeg)
+
+To switch from a 4-2-1-3 formation in possession to a 5-2-3 or 5-3-2 formation out of possession shape, they had the right wing-back shift back to play as a right center-back and the right-wing fell back into the space the right wing-back occupied. 
+
+The simplicity of the 5-2-3 formation in possession is important when the lineup constantly changes from match to match because there are only a limited number of players capable of rotating to fill the defensive positions. The double pivot, right wing-back, and right-winger can focus on attack, while the three center-backs will always be there to defend and help outnumber the opposing team's front line during build-up play. One of the two midfielders in the double pivot, [especially Enzo Fernandez](https://tacticsjournal.com/Enzo-Fernandez-should-not-be-the-one-to-drop-between-the-center-backs-in-the-buildup-for-Chelsea/), won't need to worry about falling back into the defensive line to assist in build-up play.
 
 Graham Potter, Chelsea manager, made only two changes on Tuesday in their 2-0 win against Borussia Dortmund in the Champions League after their 1-0 win against Leeds United. To keep that consistency going while giving players a rest, I chose to use Denis Zakaria instead of Mateo Kovacic and  Benoit Badishile instead of Marc Cucurella. 
 
