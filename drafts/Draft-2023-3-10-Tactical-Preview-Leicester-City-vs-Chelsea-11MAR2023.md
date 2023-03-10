@@ -128,4 +128,4 @@ Keys to the game:
 - Will Chelsea turn the ball over too easily because they are trying to play too quickly?
 - Will we see positional rotation from Chelsea to take advantage Leicester City's man-to-man marking scheme? 
 - Can Chelsea close down the ball carrier in the middle-third to not allow Leicester City to retain possession?
-- Will Leicester City be effective enough offensively if they're forced out wide by the narrowness of Chelsea out of possession? 
+- Will Leicester City be hampered offensively if they're forced out wide by the narrowness of Chelsea out of possession? 
