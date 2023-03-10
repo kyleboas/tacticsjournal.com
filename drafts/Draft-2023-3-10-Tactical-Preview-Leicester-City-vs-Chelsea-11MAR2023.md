@@ -19,6 +19,8 @@ This is the starting eleven I would pick for both Leicester City and Chelsea in 
 
 To establish and maintain a winning rhythm, Chelsea needs to have a more consistent starting eleven, like they have in the past two matches. They have a very large squad, and the schedule will require them to rotate the lineup due to the short turnaround between matches, but it would help if they could get away with only making two to three or fewer changes.
 
+The 5-2-3 formation fits Chelsea perfectly because it’s straightforward and easy to understand for the players. It's the same formation in and out of possession, everyone knows their role without thinking or providing the more complicated instructions they've deployed in past matches, such as having a right wing-back play as a right center-back and the right-wing fall back into the space the right wing-back occupied, out of possession. This simplicity is important when the lineup constantly changes match-to-match.
+
 Graham Potter, Chelsea manager, made only two changes on Tuesday in their 2-0 win against Borussia Dortmund in the Champions League after their 1-0 win against Leeds United. To keep that consistency going while giving players a rest, I chose to use Denis Zakaria instead of Mateo Kovacic and  Benoit Badishile instead of Marc Cucurella. 
 
 Leicester City will be missing the following key players due to injury:
