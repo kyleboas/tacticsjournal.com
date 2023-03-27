@@ -1,16 +1,16 @@
 ---
-layout: post
-date: 2022-12-28T00:00:00.000+00:00
 title: Zakaria’s positional movement was key to Chelsea’s fluidity vs Bournemouth
+date: 2022-12-28 00:00:00 Z
 categories:
 - Premier League
 - Player Profiles
 tags:
 - Chelsea
 - Dennis Zakaria
+layout: post
 image: "/images/9A26E3EE-704F-4F20-806F-DB55E93E3986.webp"
-
 ---
+
 Chelsea are the most tactically interesting team in the Premier League. The rotations in possession with the quick change in formation out of possession.
 
 It all feels planned based on game state yet fluid and unpredictable based off what the other team is doing. Players roam but still have zonal assignments and instructions when in/out of possession.
