@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Post
 hide_body: false
 fields:
@@ -25,3 +22,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/Test.md
