@@ -79,6 +79,7 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag # Adds SEO metadata
   - jekyll-admin # Admin
+  - decap
 
 # Posts
 
@@ -97,17 +98,6 @@ defaults:
       type: category
     values:
       layout: "category"
-
-# Admin
-
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
 
 # Exclude these files from your production _site
 exclude:
