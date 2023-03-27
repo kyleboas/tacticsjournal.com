@@ -1,14 +1,14 @@
 ---
+title: 'Tactical Preview: Leicester City vs Chelsea 11MAR2023'
+date: 2023-03-10 15:00:00 Z
 layout: post
-date: 2023-3-10 10:00:00 -0500
-title: "Tactical Preview: Leicester City vs Chelsea 11MAR2023"
-categories: 
-- "Premier League"
-- "Match Preview"
-tags: 
-- "Chelsea"
-- "Leicester City"
-image: /images/8AD5EC7F-C348-41A4-9486-3B43A943EF5A.jpeg
+categories:
+- Premier League
+- Match Preview
+tags:
+- Chelsea
+- Leicester City
+image: "/images/8AD5EC7F-C348-41A4-9486-3B43A943EF5A.jpeg"
 ---
 
 Chelsea should remain consistent and play in the 5-2-3 formation that has brought them success in their past two matches, while Leicester City will look to tightly man-to-man mark in a 4-2-4 out of possession and force turnovers, so they can unleash their talented forwards against Chelsea's solid back-line.

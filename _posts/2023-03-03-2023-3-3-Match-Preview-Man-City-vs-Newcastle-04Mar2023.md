@@ -1,14 +1,14 @@
 ---
+title: 'Match Preview: Man City vs Newcastle 04Mar2023'
+date: 2023-03-03 14:00:00 Z
+categories:
+- Premier League
+- Match Preview
+tags:
+- Man City
+- Newcastle
 layout: post
-date: 2023-3-3 09:00:00 -0500
-title: "Match Preview: Man City vs Newcastle 04Mar2023" 
-categories: 
-- "Premier League"
-- "Match Preview"
-tags: 
-- "Man City" 
-- "Newcastle"
-image: /images/46DE27A3-9FE1-433E-A2DD-5CE3CC943795.jpeg
+image: "/images/46DE27A3-9FE1-433E-A2DD-5CE3CC943795.jpeg"
 ---
 
 This should be a fairly even match, and it is an early kickoff on Saturday, so it has the potential to be cagey. While Man City's lineup is not predictable, Newcastle's lineup is predictable because they don't rotate, so I would be surprised if they alter their usual lineup for such a big game.  

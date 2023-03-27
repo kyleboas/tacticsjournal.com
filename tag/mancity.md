@@ -1,6 +1,7 @@
 ---
+title: Posts about Manchester City
+permalink: "/teams/mancity/"
 layout: tag
-title: "Posts about Manchester City"
 tag: Man City
-permalink: /teams/mancity/
 ---
+

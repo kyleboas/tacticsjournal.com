@@ -1,13 +1,13 @@
 ---
+title: Was Fred at fault for Liverpool's first goal against Man United
+date: 2023-03-06 10:35:00 Z
+categories:
+- Premier League
+tags:
+- Manchester United
+- Liverpool
 layout: post
-date: 2023-3-6 5:35:00 -0500
-title: "Was Fred at fault for Liverpool's first goal against Man United"
-categories: 
-- "Premier League"
-tags: 
-- "Manchester United"
-- "Liverpool" 
-image: /images/AE9500EA-20F6-49A8-8B9A-8969745A5981.jpeg 
+image: "/images/AE9500EA-20F6-49A8-8B9A-8969745A5981.jpeg"
 ---
 
 I'm going to go over the first goal Liverpool scored in Manchester United's 7-0 defeat at Anfield because it summed up their defensive vulnerabilities. Was it Fred's fault, or could Manchester United have been structured better as a whole?

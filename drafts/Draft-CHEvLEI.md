@@ -1,14 +1,14 @@
 ---
+title: 'Match Preview: Leicester vs Chelsea 11MAR2023'
+date: 2023-03-10 15:00:00 Z
 layout: post
-date: 2023-3-10 10:00:00 -0500
-title: "Match Preview: Leicester vs Chelsea 11MAR2023"
-categories: 
-- "Premier League"
-- "Match Preview"
-tags: 
-- "Chelsea"
-- "Leicester City"
-image: /images/8AD5EC7F-C348-41A4-9486-3B43A943EF5A.jpeg
+categories:
+- Premier League
+- Match Preview
+tags:
+- Chelsea
+- Leicester City
+image: "/images/8AD5EC7F-C348-41A4-9486-3B43A943EF5A.jpeg"
 ---
 
 2023-3-10-Match-Preview-Leicester-vs-Chelsea-11MAR2023.md

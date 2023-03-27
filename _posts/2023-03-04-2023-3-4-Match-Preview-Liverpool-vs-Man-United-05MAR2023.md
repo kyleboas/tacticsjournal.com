@@ -1,14 +1,14 @@
 ---
+title: 'Match Preview: Liverpool vs Man United 05MAR2023'
+date: 2023-03-04 14:30:00 Z
+categories:
+- Premier League
+- Match Preview
+tags:
+- Man United
+- Liverpool
 layout: post
-date: 2023-3-4 9:30:00 -0500
-title: "Match Preview: Liverpool vs Man United 05MAR2023" 
-categories: 
-- "Premier League"
-- "Match Preview"
-tags: 
-- "Man United" 
-- "Liverpool"
-image: /images/06F937CD-95DB-4542-A786-B3CC636D029C.jpeg
+image: "/images/06F937CD-95DB-4542-A786-B3CC636D029C.jpeg"
 ---
 
 I would give Man United the edge over Liverpool in this match if what I outlined comes true. They will have the numerical superiority out wide and are superior in pressing when out of possession. I’d expect it to be a loud, frantic, and fast-paced match. 
