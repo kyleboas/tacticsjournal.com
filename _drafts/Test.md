@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 date: 2023-03-27 19:58:00 +0000
 title: Test
 categories:
