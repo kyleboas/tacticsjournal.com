@@ -47,7 +47,7 @@ function copyToClipboard() {
 </div>
 
 {% for image in page.images %}
-  <img src="{{ site.image_path }}{{ image.url }}" alt="{{ image.alt }}">
+  <img src="{{ site.baseurl }}{{ image.url }}" alt="{{ image.alt }}">
 {% endfor %}
 
 
