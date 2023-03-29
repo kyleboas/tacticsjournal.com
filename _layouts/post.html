@@ -10,8 +10,9 @@ layout: default
   </div>
 
   <div class="entry">
-    {{ content }}
+  {{ content | replace: 'src="/', 'src="' | replace: 'src=\'/', 'src=\'', | replace: 'src="http', 'src="{{ site.image_path }}http' }}
   </div>
+
 
   <div class="post-navigation">
   <a href="#top">Back to top</a>
