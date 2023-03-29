@@ -69,11 +69,8 @@ kramdown:
     css_class: 'highlight'
 
 # Set the default image path for your blog
-defaults:
-  - scope:
-      path: ""
-    values:
-      image_path: "https://tacticsjournal.com/images/"
+image_path: https://tacticsjournal.com/
+
 
 # Set the Sass partials directory, as we're using @imports
 sass:
