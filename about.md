@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-Some information about you!
+Some information about you
 
 ### More Information
 
