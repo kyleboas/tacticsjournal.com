@@ -37,20 +37,10 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
-            <a id="copy-link" href="https://tacticsjournal.com/feed.xml/">RSS</a>
-<button onclick="copyToClipboard()">Copy to clipboard</button>
-
-<script>
-function copyToClipboard() {
-  var copyText = document.getElementById("copy-link");
-  copyText.select();
-  document.execCommand("copy");
-  alert("Link copied to clipboard!");
-}
-</script>
-
+            <a href="https://tacticsjournal.com/feed.xml/" onclick="copyToClipboard(); return false;">RSS</a>
             <a href="https://twitter.com/tacticsjournal/">Twitter</a>
             <a href="https://tacticsjournal.com/archive/">Archive</a>
+            {% include copylink.html %}
           </nav>
         </header>
       </div>
