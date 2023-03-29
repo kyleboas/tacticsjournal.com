@@ -12,15 +12,15 @@ image: "/images/AE9500EA-20F6-49A8-8B9A-8969745A5981.jpeg"
 
 I'm going to go over the first goal Liverpool scored in Manchester United's 7-0 defeat at Anfield because it summed up their defensive vulnerabilities. Was it Fred's fault, or could Manchester United have been structured better as a whole?
 
-![_config.yml]({{ site.baseurl }}/images/2EF8633E-B949-435A-A69A-D5C9D5D3F971.jpeg)
+![](/images/2EF8633E-B949-435A-A69A-D5C9D5D3F971.jpeg)
 
 The ball was played out from Alisson (GK) to Andrew Robertson (LB), dragging Diogo Dalot (RB) out wide to challenge Robertson. This left a huge space open behind Dalot, which Cody Gakpo ran into.
 
-![_config.yml]({{ site.baseurl }}/images/D63266A3-7DAC-4F3E-8CE9-6973C999B68B.jpeg)
+![](/images/D63266A3-7DAC-4F3E-8CE9-6973C999B68B.jpeg)
 
 This move by Dalot forced Fred to cover a large amount of ground to mark Gakpo far up the field. Robertson then drove into the open space in their left half-space. 
 
-![_config.yml]({{ site.baseurl }}/images/A3B9F5DA-E44E-478A-BCF3-07E4284CF286.jpeg)
+![](/images/A3B9F5DA-E44E-478A-BCF3-07E4284CF286.jpeg)
 
 Once Robertson entered their left half-space, two important things happened:
 
@@ -29,7 +29,7 @@ Once Robertson entered their left half-space, two important things happened:
 
 Varane did not move, though, and stayed central with Martinez and Nunez.
 
-![_config.yml]({{ site.baseurl }}/images/AE9500EA-20F6-49A8-8B9A-8969745A5981.jpeg)
+![](/images/AE9500EA-20F6-49A8-8B9A-8969745A5981.jpeg)
 
 Fred overcommitted when he challenged Gakpo before the ball was played by Robertson, leaving the space wide open for Robertson to play the ball behind Fred. 
 
