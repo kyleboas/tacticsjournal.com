@@ -1,0 +1,8 @@
+<script>
+  var copyLink = document.getElementById("copy-link");
+  copyLink.addEventListener("click", function(event) {
+    event.preventDefault();
+    navigator.clipboard.writeText("https://tacticsjournal.com/feed.xml/");
+    copyLink.innerText = "Link copied!";
+  });
+</script>
