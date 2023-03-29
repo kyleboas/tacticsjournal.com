@@ -46,9 +46,16 @@ function copyToClipboard() {
 {% endif %}
 </div>
 
-{% for image in page.images %}
-  <img src="{{ site.baseurl }}{{ image.url }}" alt="{{ image.alt }}">
-{% endfor %}
+ {% assign images = site.static_files | where: "path", "/images" | where_exp: "item", "item.basename contains 'img_'" %}
+  {% if images.size > 0 %}
+    <div class="post-images">
+      {% for image in images %}
+        {% assign image_url = image.path %}
+        {% assign image_alt = image.basename | replace: 'img_', '' | replace: '_', ' ' | replace: '-', ' ' | capitalize %}
+        <img src="{{ site.baseurl }}{{ image_url }}" alt="{{ image_alt }}">
+      {% endfor %}
+    </div>
+  {% endif %}
 
 
 {% include related.html %}
