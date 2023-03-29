@@ -33,21 +33,21 @@ Varane did not move, though, and stayed central with Martinez and Nunez.
 
 Fred overcommitted when he challenged Gakpo before the ball was played by Robertson, leaving the space wide open for Robertson to play the ball behind Fred. 
 
-![_config.yml]({{ site.baseurl }}/images/3BFC5158-7C2D-492C-ADE9-5BCCC8D65D96.jpeg)
+![](/images/3BFC5158-7C2D-492C-ADE9-5BCCC8D65D96.jpeg)
 
 One could argue that Fred is to blame because of his poor positioning, leaving United's defensive structure too vulnerable by overcommitting. I would argue that Fred felt comfortable committing to blocking off the pass to Gakpo because he expected Varane to shift over to cover the space behind him.
 
-![_config.yml]({{ site.baseurl }}/images/2AEA7AAE-9BA6-47D6-BFCD-981063FA7AF6.jpeg)
+![](/images/2AEA7AAE-9BA6-47D6-BFCD-981063FA7AF6.jpeg)
 
 Everyone is responsible for the goal, but Varane bears a large part of the blame because he did not shift over to cover the space Fred occupied once Martinez moved over to mark Nunez. All Varane had to do was move 5 yards to his right, and he would have blocked off the passing lane, not allowing Robertson to play the ball behind Fred.
 
 Robertson likely would have been forced to play the ball backward or directly into Gakpo out wide. Once that happened, Dalot would have recovered, and Manchester United's defensive structure would have been restored.
 
-![_config.yml]({{ site.baseurl }}/images/A65887F3-0C6E-4698-8C86-74ABCB240E7F.jpeg)
+![](/images/A65887F3-0C6E-4698-8C86-74ABCB240E7F.jpeg)
 
 Robertson played an incredibly well-weighted and placed pass through the space. Gakpo got the ball in stride putting him into the box with only Varane separating him from the goal. Varane should have shown Gakpo to the corner, not allowing him to cut in for a shot, but Gakpo cut across Varane to score Liverpool's first goal. 
 
-![_config.yml]({{ site.baseurl }}/images/93DE24BF-FCD6-434E-852D-F5FA7A0D26D4.jpeg)
+![](/images/93DE24BF-FCD6-434E-852D-F5FA7A0D26D4.jpeg)
 
 [Going into the match](https://tacticsjournal.com/Match-Preview-Liverpool-vs-Man-United-05MAR2023/), I expected Manchester United to press Liverpool high and hard, with Bruno Fernandes leading the charge, chasing after Liverpool's center-back pair. He's been good at pressing the back-line previously and has a higher defensive work-rate then Marcus Rashford. This was not the case, though; he was played at left-wing, marking right-back Trent Alexander-Arnold, with Marcus Rashford down the middle as the number 9. 
 
@@ -55,13 +55,13 @@ This change pushed Fred higher, making him the one responsible for closely man-m
 
 Manchester United's manager, Erik Ten Hag, is very matchup-oriented when choosing who goes where, which isn't a bad thing. On the other hand, Liverpool's manager, Jurgen Klopp, will position players the same regardless of matchups. There are examples of this in every match Manchester United play, but one such example came [when they played Manchester City on January 14, 2023](https://tacticsjournal.com/Man-City-2-3-with-inverted-lb-or-rb-leaves-them-too-vulnerable/).  
 
-![_config.yml]({{ site.baseurl }}/images/C681952B-B862-4DE5-ABA8-8A6992EE9ACB.jpeg)
+![](/images/C681952B-B862-4DE5-ABA8-8A6992EE9ACB.jpeg)
 
 Manchester United pressed Manchester City high in a 4-2-4 formation, with Fred closely marking Kevin De Bruyne. As De Bruyne played higher up the pitch, Fred stayed deeper, following him wherever he went.
 
 Ten Hag found Joao Cancelo (LB) to be more threatening than Kyle Walker (RB), so Bruno Fernandes played on the right-wing. Christen Eriksen sat in front of the pivot, blocking off that passing lane, allowing Anthony Martial and Fernandes to press Manchester City's backline. They caused them a lot of trouble, forcing several turnovers, and completely controlled the midfield, not allowing City to create many high-quality chances.
 
-![_config.yml]({{ site.baseurl }}/images/DCD8A106-065F-44A6-9D42-2A5FD9495E74.jpeg) 
+![](/images/DCD8A106-065F-44A6-9D42-2A5FD9495E74.jpeg) 
 
 If Manchester United applied a similar pressing structure to the one they used against Manchester City when they played Liverpool, I think they would have seen more success. Liverpool would have had less space behind United's frontline, and they would have been able to apply better pressure to Liverpool's center-back pair because Fernandes is a better presser of the ball than Rashford.
 
