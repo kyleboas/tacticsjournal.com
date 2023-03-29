@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="entry">
-    {{ content | replace: 'src="/', 'src="' | replace: 'href="/', 'href="' | prepend: site.baseurl | replace: 'src="{{', 'src="{{ image_path | prepend: site.baseurl }}{{' | replace: 'href="{{', 'href="{{ image_path | prepend: site.baseurl }}{{' }}
+    {{ content }}
   </div>
 
 
