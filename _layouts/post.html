@@ -46,6 +46,11 @@ function copyToClipboard() {
 {% endif %}
 </div>
 
+{% for image in page.images %}
+  <img src="{{ site.image_path }}{{ image.url }}" alt="{{ image.alt }}">
+{% endfor %}
+
+
 {% include related.html %}
 
   {% include disqus.html %}
