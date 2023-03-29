@@ -68,6 +68,12 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
+# Set the default image path for your blog
+defaults:
+  - scope:
+      path: ""
+    values:
+      image_path: "https://tacticsjournal.com/images/"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -95,6 +101,13 @@ defaults:
       type: category
     values:
       layout: "category"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image_path: "https://tacticsjournal.com/images/"
+
 
 # Exclude these files from your production _site
 exclude:
