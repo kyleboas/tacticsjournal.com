@@ -6,6 +6,7 @@ categories:
 - Premier League
 tags:
 - Chelsea
+- CHE
 layout: post
 image: "/images/4B15F5A1-ECD0-4F15-8F77-F2A0C18C3698.webp"
 ---
