@@ -162,6 +162,23 @@ img {
     }
 }
 
+#copy-link {
+  position: relative;
+}
+
+.popup {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.8); /* Set background color with 80% opacity */
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  z-index: 9999;
+}
+
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
