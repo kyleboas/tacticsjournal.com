@@ -7,13 +7,10 @@
     var popup = document.createElement("div");
     popup.setAttribute("class", "popup");
     popup.innerText = "Link copied!";
-    document.body.appendChild(popup);
+    copyLink.appendChild(popup); /* Append the popup to the link */
     
     setTimeout(function() {
       popup.parentNode.removeChild(popup);
     }, 2000); // remove the popup after 2 seconds
   });
 </script>
-
-
-
