@@ -7,6 +7,8 @@ categories:
 tags:
 - Man City
 - Newcastle
+- MCI
+- NEW
 layout: post
 image: "/images/46DE27A3-9FE1-433E-A2DD-5CE3CC943795.jpeg"
 ---
