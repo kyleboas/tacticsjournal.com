@@ -80,6 +80,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-seo-tag # Adds SEO metadata
+  - jekyll-feed # RSS feed
 
 # Posts
 
