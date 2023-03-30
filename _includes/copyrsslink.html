@@ -2,15 +2,10 @@
   var copyLink = document.getElementById("copy-link");
   copyLink.addEventListener("click", function(event) {
     event.preventDefault();
-    navigator.clipboard.writeText("https://tacticsjournal.com/feed.xml/");
-    
-    var popup = document.createElement("div");
-    popup.setAttribute("class", "popup");
-    popup.innerText = "Link copied!";
-    copyLink.appendChild(popup); /* Append the popup to the link */
-    
+    navigator.clipboard.writeText("{{ site.url }}{{ page.url }}");
+    copyLink.innerText = "Link copied!";
     setTimeout(function() {
-      popup.parentNode.removeChild(popup);
-    }, 2000); // remove the popup after 2 seconds
+      copyLink.innerText = "RSS";
+    }, 2000); // change back to "RSS" after 2 seconds
   });
 </script>
