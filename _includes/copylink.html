@@ -4,5 +4,9 @@
     event.preventDefault();
     navigator.clipboard.writeText("{{ site.url }}{{ page.url }}");
     copyLink.innerText = "Link copied!";
+    setTimeout(function() {
+      copyLink.innerText = "Copy link";
+    }, 2000); // change back to "Copy link" after 2 seconds
   });
 </script>
+
