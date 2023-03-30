@@ -426,7 +426,7 @@ cite {
 }
 
 .front-page-content {
-  margin: 30px auto;
+  margin: 40px auto;
   position: relative;
 }
 
@@ -435,11 +435,10 @@ cite {
   top: -50px;
   right: 0;
   font-size: 0.8em;
-  
+}
 
-   a {
-    text-decoration: none;  
-  }
+.filter a {
+ text-decoration: none;  
 }
 
 .topic:first-child {
