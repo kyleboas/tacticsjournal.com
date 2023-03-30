@@ -1,4 +1,4 @@
-<a href="" id="copy-link">Copy link</a>
+<a href="#" id="copy-link">Copy link</a>
 
 <script>
   var copyLink = document.getElementById("copy-link");
@@ -6,9 +6,5 @@
     event.preventDefault();
     navigator.clipboard.writeText("{{ site.url }}{{ page.url }}");
     copyLink.innerText = "Link copied!";
-    
-    setTimeout(function() {
-      copyLink.innerText = "Copy link";
-    }, 3000);
   });
 </script>
