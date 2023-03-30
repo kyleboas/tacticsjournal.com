@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     
@@ -20,43 +20,26 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
-
   <body>
-    <a id="top"></a>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+    <div id="outer-wrapper">
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="https://tacticsjournal.com/feed.xml">RSS</a>
-            <a href="https://twitter.com/tacticsjournal/">Twitter</a>
-            <a href="https://tacticsjournal.com/archive/">Archive</a>
-          </nav>
-        </header>
+      <div id="wrapper">
+
+        {% include header.html %}
+
+        <div class="front-page-content">
+          {{ content }}
+        </div>
+
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+    {% include footer.html %}
 
     {% include analytics.html %}
+
+    <script src="/js/master.js"></script>
   </body>
 </html>
