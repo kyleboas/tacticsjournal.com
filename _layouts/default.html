@@ -25,8 +25,10 @@
 
   <body>
     <a id="top"></a>
-    <div class="wrapper-masthead">
-      <div class="container">
+    <div id="outer-wrapper">
+
+      <div id="wrapper">
+
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
@@ -42,12 +44,14 @@
             <a href="https://tacticsjournal.com/archive/">Archive</a>
           </nav>
         </header>
+        
+       <div class="front-page-content">
+          {{ content }}
+       </div>
+
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
 
     <div class="wrapper-footer">
       <div class="container">
