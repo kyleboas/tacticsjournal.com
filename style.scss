@@ -534,6 +534,9 @@ cite {
     font-style: italic;
     border-bottom: 1px solid #AAAAAA;
     border-style: dashed; 
+    border-left: none; 
+    border-right: none;
+    border-top: none;
      
     a { 
   display: block;
