@@ -3,9 +3,17 @@
   copyLink.addEventListener("click", function(event) {
     event.preventDefault();
     navigator.clipboard.writeText("https://tacticsjournal.com/feed.xml/");
-    copyLink.innerText = "Link copied!";
+    
+    var popup = document.createElement("div");
+    popup.setAttribute("class", "popup");
+    popup.innerText = "Link copied!";
+    document.body.appendChild(popup);
+    
     setTimeout(function() {
-      copyLink.innerText = "RSS";
-    }, 2000); // change back to "RSS" after 2 seconds
+      popup.parentNode.removeChild(popup);
+    }, 2000); // remove the popup after 2 seconds
   });
 </script>
+
+
+
