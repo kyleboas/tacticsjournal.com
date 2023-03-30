@@ -78,12 +78,14 @@ gems:
   - jekyll-seo-tag # Adds SEO metadata
   - jekyll-feed # RSS feed
 
-# Posts
+# Feed
+feed:
+  path: /feed
 
+# Posts
 future: false
 
 # Categories 
-
 collections:
   category:
     output: true
