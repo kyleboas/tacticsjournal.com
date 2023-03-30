@@ -2,9 +2,19 @@
 
 <script>
   var copyLink = document.getElementById("copy-link");
-  copyLink.addEventListener("click", function(event) {
-    event.preventDefault();
-    navigator.clipboard.writeText("{{ site.url }}{{ page.url }}");
-    copyLink.innerText = "Link copied!";
-  });
+  
+  if (!copyLink) {
+    console.error("Unable to find link element with ID 'copy-link'");
+  } else {
+    copyLink.addEventListener("click", function(event) {
+      event.preventDefault();
+      console.log("Link clicked");
+      navigator.clipboard.writeText("{{ site.url }}{{ page.url }}");
+      copyLink.innerText = "Link copied!";
+      
+      setTimeout(function() {
+        copyLink.innerText = "Copy link";
+      }, 3000);
+    });
+  }
 </script>
