@@ -7,6 +7,8 @@ categories:
 tags:
 - Chelsea
 - Leicester City
+- CHE 
+- LEI
 layout: post
 image: "/images/6E3852B2-4369-453E-8C7F-3F73E66921A1.jpeg"
 ---
