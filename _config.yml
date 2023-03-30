@@ -80,7 +80,7 @@ gems:
 
 # Feed
 feed:
-  path: /feed
+  path: /feed/
 
 # Posts
 future: false
