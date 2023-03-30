@@ -195,19 +195,9 @@ cite {
   color: #777;
   margin-top: 22px;
   margin-bottom: 22px;
-  width: 100%;
+  margin-left: 10px;
+  border-left: 1px solid rgb(119, 119, 199);
   line-height: 1.4
-}
-
-blockquote:before {
-  content: open-quote;
-  float: left;
-  font-size: 4em;
-  margin-left: -45px;
-  margin-top: -10px;
-  font-family: "times new roman";
-  color: #faa;
-  font-weight: bold;
 }
 
 blockquote p {
