@@ -3,27 +3,25 @@ layout: default
 image: "/images/AFFB1761-E5AA-4594-BEE3-D9BF52A01D59.jpeg"
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="filter">
+  Read about
 
-        {% if post.image %}
-    <div class="post-image">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <img src="{{ post.image }}" alt="{{ post.title }}">
-      </a>
-    </div>
-  {% endif %}
-
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="post-date">{{ post.date | date: "%B %-d, %Y" }}</p>
-
-  <div class="entry">
-    {{ post.excerpt }}
-  </div>
-
-  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-</article>
-
-  {% endfor %}
+  <span>
+    <a href="#" class="topic" data-name="CHE">CHE</a> |
+    <a href="#" class="topic" data-name="ARS">ARS</a> |
+    <a href="#" class="topic" data-name="MCI">MCI</a> |
+    <a href="#" class="topic" data-name="MUN">MUN</a> |
+    <a href="#" class="topic" data-name="other">Other</a>
+  </span>
 </div>
+
+<ul class="posts">
+{% for post in site.posts %}
+  <li class="{{ post.popular }} {{ post.new }}">
+    <span class="tags" style="display: none">{{ post.tags | jsonify }}</span>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
+    <span class="num-words"><em>{{ post.content | number_of_words }}</em> words</span>
+  </li>
+{% endfor %}
+</ul>
