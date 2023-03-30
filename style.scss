@@ -7,6 +7,16 @@
 site-avatar img { 
   width: 100px;
 }
+
+.site-avatar {
+  float: left;
+  margin-right: 10px;
+}
+
+.site-info {
+  overflow: hidden;
+}
+
 body {
   margin: 0;
   font-family: 'Palatino Linotype', 'Book Antiqua', 'Palatino', serif;
