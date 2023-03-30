@@ -7,6 +7,8 @@ categories:
 tags:
 - Man United
 - Liverpool
+- MUN
+- LIV
 layout: post
 image: "/images/06F937CD-95DB-4542-A786-B3CC636D029C.jpeg"
 ---
