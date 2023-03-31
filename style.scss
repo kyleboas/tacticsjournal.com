@@ -35,10 +35,14 @@ nav {
    font-size: 20px;
    width: fit-content;
   }
+}
+
+@media screen and (min-width: 570px) {
   .post-title {
    font-size: 2em;
   }
 }
+
 .site-avatar img { 
   width: 80px;
 }
