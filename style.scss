@@ -1,9 +1,10 @@
----
-# Front matter comment to ensure Jekyll properly reads file.
----
+//
+// IMPORTS
+//
 
-// 16px = 1em
-
+@import "reset";
+@import "variables";
+// Syntax highlighting @import is at the bottom of this file
 
 header { 
   padding-bottom: 10px;
