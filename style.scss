@@ -469,7 +469,7 @@ cite {
 }
 
 .front-page-content {
-  margin: 40px auto;
+  margin: 10px auto;
   position: relative;
 }
 
@@ -478,13 +478,18 @@ cite {
   top: -50px;
   right: 0;
   font-size: 0.8em;
+  border-bottom: 1px dashed #A9A9A9;
+  padding-bottom: 10px;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));
+  text-align: center;
+  justify-items: center;
 }
 
 .filter a {
  text-decoration: none;  
  color: #A9A9A9;
- border-radius: 5px;
- padding-right: 10px;
  font-weight: bold;
 }
 
