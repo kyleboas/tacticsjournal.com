@@ -24,28 +24,6 @@
   }
 })();
 
-// (function(){
-//   var z = document.createElement("script");
-//   z.type = "text/javascript";
-//   z.async = true;
-//   z.src = "http://engine.carbonads.com/z/12089/carbon_2_1_0_VERT";
-//   var s = document.getElementsByTagName("script")[0];
-//   s.parentNode.insertBefore(z, s);
-// })();
-
-var _gaq = [
-  ['_setAccount', 'UA-1128111-11'],
-  ['_setCustomVar', 1, 'document.querySelector', document.querySelector + '', 3],
-  ['_trackPageview']
-];
-(function(d) {
-  var script = d.createElement('script'),
-      head   = d.getElementsByTagName('head')[0];
-  script.async = true;
-  script.src = 'http://www.google-analytics.com/ga.js';
-  head.insertBefore(script, head.firstChild);
-})(document);
-
 document.documentElement.onclick = function(e) {
   e = e || window.event;
   var target = e.target || e.srcElement;
