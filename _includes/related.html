@@ -5,11 +5,11 @@
 {% if related_posts.size > 1 %}
 <div class="related-posts">
   <h3>Latest posts about {{ first_tag }}</h3>
-  <p>View all posts about {{ first_tag }} <a href="https://tacticsjournal.com/teams/{{ first_tag | downcase | replace: ' ', '-' }}/">here</a>.</p>
-  <ul>
+  <ul class="posts">
     {% for post in related_posts %}
       {% if post.url != page.url %}
-        <li>{{ post.date | date: "%d %B %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
       {% endif %}
     {% endfor %}
   </ul>
