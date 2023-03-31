@@ -27,10 +27,6 @@ nav {
     font-size: 14px;
   }  
 
-  @include middle {
-    font-size: 16px;
-  }
-
   a {
     margin-left: 20px;
     color: $darkGray;
