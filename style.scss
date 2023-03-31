@@ -2,14 +2,6 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-//
-// IMPORTS
-//
-
-@import "reset";
-@import "variables";
-// Syntax highlighting @import is at the bottom of this file
-
 header { 
   padding-bottom: 10px;
   border-bottom: 1px rgb(170, 170, 170);
@@ -22,7 +14,8 @@ header {
 nav {
   text-align: center;
   width: 100%;
-  font-size: 18px;
+  font-size: 15px;
+  margin-bottom: 10px;
 
   a {
     margin-left: 20px;
@@ -30,6 +23,7 @@ nav {
     text-align: right;
     font-weight: 300;
     margin: 0px 10px;
+    text-decoration: none;
     }
 }
 
