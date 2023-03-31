@@ -24,7 +24,7 @@ nav {
     color: #333;
     text-align: right;
     font-weight: 300;
-    margin: 0px 10px;
+    margin: 0px 5px;
     text-decoration: none;
     }
 }
@@ -46,7 +46,7 @@ nav {
 
 body {
   margin: 0;
-  font-family: 'Palatino Linotype', 'Book Antiqua', 'Palatino', serif;
+  font-family: helvetica, serif;
   color: #333;
   font-size: 1em;
   background: #fff;
@@ -64,7 +64,7 @@ body {
   padding-bottom: 0;
   margin-right: 8px;
   display: inline;
-  font-size: 22px;
+  font-size: 20px;
   margin: 0;
 
   a {
@@ -83,6 +83,7 @@ body {
   vertical-align: baseline;
   font-style: italic;
   margin: 0;
+  font-size: 15px;
 }
 
 .blog-slogan {
