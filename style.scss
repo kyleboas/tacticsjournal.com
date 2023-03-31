@@ -620,6 +620,9 @@ cite {
    .posts { 
      font-weight: bold;
      text-decoration: none;
+      a { 
+        text-decoration: none;
+      }
    }
    .date { 
      padding-bottom: 20px;
