@@ -35,6 +35,9 @@ nav {
    font-size: 20px;
    width: fit-content;
   }
+  .post-title {
+   font-size: 2em;
+  }
 }
 .site-avatar img { 
   width: 80px;
@@ -311,7 +314,8 @@ cite {
 }
 
 .post-title {
-   font-size: 20px;
+   font-size: 1.25em;
+   margin-bottom: 5px;
 }
 
 #carbonads-container {
@@ -658,7 +662,7 @@ body {
   .date {
     display: block;
     margin-left: 0 !important;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 15px;
   }
 
