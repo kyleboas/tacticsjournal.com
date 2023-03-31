@@ -17,7 +17,6 @@
 {% else %}
  <div class="related-posts">
     <h3>Latest posts about other {{ page.categories.first }} teams</h3>
-    <p>View all posts about the {{ page.categories.first }} <a href="https://tacticsjournal.com/categories/{{ page.categories.first | downcase | replace: ' ', '-' }}">here</a>.</p>
     <ul>
       {% for post in site.categories[page.categories.first] limit:5 %}
         {% if post.url != page.url %}
