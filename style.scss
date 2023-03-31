@@ -8,10 +8,13 @@ header {
   padding-bottom: 10px;
   border-bottom: 1px rgb(170, 170, 170);
   border-style: none none dashed;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .site-avatar img { 
-  width: 100px;
+  width: 80px;
 }
 
 .site-info {
@@ -39,6 +42,7 @@ body {
   margin-right: 8px;
   display: inline;
   font-size: 22px;
+  margin: 0;
 
   a {
     color: #333;
@@ -55,6 +59,7 @@ body {
   display: inline;
   vertical-align: baseline;
   font-style: italic;
+  margin: 0;
 }
 
 .blog-slogan {
@@ -63,6 +68,7 @@ body {
   color: #848484;
   margin-left: 2px;
   margin-bottom: 60px;
+  marg
 }
 
 h2,
@@ -686,7 +692,7 @@ and (max-device-width : 480px) {
   }
 
   .blog-slogan {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
   }
 }
 
