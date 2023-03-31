@@ -345,8 +345,6 @@ cite {
 
 .posts .date,
 .posts .num-words {
-  color: #888;
-  font-size: 90%;
   margin-left: 5px;
 }
 
@@ -356,7 +354,7 @@ cite {
   list-style-position: inside;
 
   li {
-    margin-bottom: 12px;
+    margin-bottom: 16px;
     list-style: none;
     transition: all 0.1s;
 
@@ -369,6 +367,7 @@ cite {
      a { 
       color: #000;
       text-decoration: none;
+      font-weight: bold;
     }
   }
 
