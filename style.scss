@@ -616,6 +616,10 @@ cite {
 .related-posts {
    h3 { 
      margin-bottom: 10px;
+     background: rgb(255, 0, 0, 0.3);
+     padding-top: 10px;
+     padding-bottom: 10px;
+     text-shadow: 2px 2px white;
    }
    .posts { 
      font-weight: bold;
