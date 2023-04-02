@@ -10,7 +10,7 @@ Jürgen Klopp, Liverpool's manager, indicated what their defensive philosophy wo
 
 > “The main thing against City is to cut off the passing options between the lines.”
 
-![Figure 1.1 - Liverpool’s initial out of possession structure; Alvarez should drop to help overload the midfield and escape the 2v1](https://tacticsjournal.com/uploads/2023/04/01/LIV_narrow_out_of_possession_vs_Man_City_01_Apr_2023_09_03_42.jpeg)
+![Figure 1.1 - Liverpool’s initial out of possession structure; Alvarez should drop to help overload the midfield and escape the 2v1](https://tacticsjournal.com/uploads/2023/04/01/LIV_narrow_out_of_possession_vs_Man_City_01_Apr_2023_09_03_42.jpeg "Figure 1.1 - Liverpool’s initial out of possession structure; Alvarez should drop to help overload the midfield and escape the 2v1")
 
 From a static view, Liverpool accomplished what they initially set out to do. The double pivot and two central midfielders are being man-marked, and the passing lanes into the midfielders are completely blocked. To achieve this, they have to leave the wide spaces completely open with both full-backs, Trent Alexander-Arnold and Andrew Robertson, and central midfielders, Harvey Elliot and Jordan Henderson, tucked in. However, problems begin to arise once the ball is moved past Liverpool's first and second line. 
 
