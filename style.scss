@@ -193,6 +193,17 @@ img {
   height: auto;
 }
 
+.caption {
+   font-style: italic;
+   padding-top: 10px;
+   text-align: center;
+   font-size: 15px;
+}
+
+.figure {
+  margin: 0;
+}
+
 strong code {
   background: #ffc;
 }
