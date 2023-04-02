@@ -102,6 +102,22 @@ body {
   margin: 0;
 }
 
+.post-info {
+  display: flex;
+  align-items: center;
+}
+
+.post-image {
+  width: 100px; /* adjust to desired size */
+  height: auto; /* maintain aspect ratio */
+  margin-right: 10px;
+}
+
+.title-and-date {
+  display: flex;
+  flex-direction: column;
+}
+
 h2,
 h3,
 h4,
