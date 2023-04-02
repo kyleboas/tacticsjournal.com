@@ -24,12 +24,29 @@
   }
 })();
 
+var otherLink = document.querySelector('.topic[data-name="other"]');
+otherLink.addEventListener('click', function(e) {
+  e.preventDefault();
+
+  var topicEls = [].slice.call(document.getElementsByClassName('topic'));
+  for (var i = 0, len = topicEls.length; i < len; i++) {
+    topicEls[i].className = topicEls[i].className.replace('selected', '');
+  }
+
+  var liEls = document.getElementsByClassName('posts')[0].getElementsByTagName('li');
+  for (var i = 0, len = liEls.length; i < len; i++) {
+    liEls[i].className = liEls[i].className.replace(/hidden/g, '');
+  }
+
+  document.getElementById('shown').innerHTML = liEls.length;
+});
+
 document.documentElement.onclick = function(e) {
   e = e || window.event;
   var target = e.target || e.srcElement;
   var clearAll;
 
-  if (target.className.indexOf('topic') > -1) {
+  if (target.className.indexOf('topic') > -1 && target.getAttribute('data-name') !== 'other') {
 
     // only add class if not clicking on the same one
     if (target.className.indexOf('selected') === -1) {
