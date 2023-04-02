@@ -8,8 +8,13 @@
   <ul class="posts">
     {% for post in related_posts %}
       {% if post.url != page.url %}
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
+        <div class="post-info">
+            <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
+           <div class="title-and-date">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
+           </div>
+         </div>
       {% endif %}
     {% endfor %}
   </ul>
