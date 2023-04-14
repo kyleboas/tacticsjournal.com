@@ -33,6 +33,7 @@
 {% for post in site.posts limit:1 %}
 {% if post.image %}
 <meta property="og:image" content="{{ post.image }}" />
+<meta name="twitter:image" content="{{ post.image }}">
 {% endif %}
 <meta property="og:title" content="{{ post.title }}" />
 {% endfor %} 
