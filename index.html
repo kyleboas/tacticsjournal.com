@@ -29,6 +29,18 @@ image: "/images/AFFB1761-E5AA-4594-BEE3-D9BF52A01D59.jpeg"
 
 <ul class="posts">
 {% for post in site.posts %}
+  {% if post.link %}
+  <li class="{{ post.popular }} {{ post.new }}">
+    <span class="tags" style="display: none">{{ post.tags | jsonify }}</span>
+    <div class="post-info">
+      <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
+      <div class="title-and-date">
+        <a href="{{ post.link }}" target="_blank">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
+      </div>
+    </div>
+  </li>
+  {% else %}
   <li class="{{ post.popular }} {{ post.new }}">
     <span class="tags" style="display: none">{{ post.tags | jsonify }}</span>
     <div class="post-info">
@@ -39,5 +51,6 @@ image: "/images/AFFB1761-E5AA-4594-BEE3-D9BF52A01D59.jpeg"
       </div>
     </div>
   </li>
+  {% endif %}
 {% endfor %}
 </ul>
