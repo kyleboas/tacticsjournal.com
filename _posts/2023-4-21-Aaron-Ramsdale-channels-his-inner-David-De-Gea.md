@@ -8,7 +8,7 @@ tags:
 - "Arsenal"
 - "Southampton"
 - "ARS"
-- "SOU"
+- "SOT"
 image: /uploads/2023/04/21/Image-21Apr2023_19:44:35.jpeg
 --- 
 
