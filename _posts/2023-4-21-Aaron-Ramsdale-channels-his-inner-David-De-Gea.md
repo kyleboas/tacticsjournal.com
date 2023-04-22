@@ -56,24 +56,24 @@ After one pass from Rob Holding over the top to Bukayo Saka, Southampton began t
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/21/Pass_plot-21Apr2023_18:54:18.jpeg">
-    <figcaption>Figure 3.1 - Progressive pass attempts plot from <a href="https://twitter.com/markstatsbot/status/1649521920646447105?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Markrstats on Twitter</a></figcaption>
+    <figcaption>Figure 4.1 - Progressive pass attempts plot from <a href="https://twitter.com/markstatsbot/status/1649521920646447105?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Markrstats on Twitter</a></figcaption>
 </figure> 
 
 This progressive passing plot shows how pinned back Arsenal was, forcing them to play long passes by Gabriel and Holding deep from their half into tight spaces on the wings and half-spaces. When the ball was received in those tight spaces, they were quickly closed down. 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/21/Image-21Apr2023_20:06:27.jpeg">
-    <figcaption>Figure 4.1 - Southampton defends compact, and Partey is closed down</figcaption>
+    <figcaption>Figure 5.1 - Southampton defends compact, and Partey is closed down</figcaption>
 </figure> 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/21/Image-21Apr2023_20:07:11.jpeg">
-    <figcaption>Figure 4.2 - Southampton wins back the ball and starts a quick counter</figcaption>
+    <figcaption>Figure 5.2 - Southampton wins back the ball and starts a quick counter</figcaption>
 </figure> 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/21/Image-21Apr2023_20:09:43.jpeg">
-    <figcaption>Figure 4.3 - Alcarez plays Walcott in for the second goal</figcaption>
+    <figcaption>Figure 5.3 - Alcarez plays Walcott in for the second goal</figcaption>
 </figure> 
 
 The same compact and close-distanced defense forced Thomas Partey into a turnover, starting the quick counter ending in the second goal.
