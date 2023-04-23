@@ -75,12 +75,17 @@ Instead of being higher up the pitch, the wing-backs are now further back, and t
     <figcaption>Figure 3.2 - Mazraoui challenges the ball carrier leaving Caricol free. The ball is passed to Hanche-Olsen</figcaption>
 </figure> 
 
+<figure>
+    <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_21:19:20.jpeg">
+    <figcaption>Figure 3.3 - Andreas Hanche-Olsen passes to Aaron Caricol</figcaption>
+</figure> 
+
 **Noussair Mazraoui**, who has recently [complained that he hasn’t been getting as much playing time](https://twitter.com/fabrizioromano/status/1648993403013668867?s=46&t=EwWKBMyY400eGGXYwoRkiw), wandered too far inside leaving Aaron Caricol free on the far side of the box behind him. An unnecessary risk with the numbers Bayern had surrounding the ball carrier. 
 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_20:44:18.jpeg">
-    <figcaption>Figure 3.3 - Caricol shot to the bottom right corner across goal for Mainz’s third goal</figcaption>
+    <figcaption>Figure 3.4 - Caricol shot to the bottom right corner across goal for Mainz’s third goal</figcaption>
 </figure> 
 
-An incredible shot from Caricol puts Bayern Munich second in the table behind Borussia Dortmund, who won 4-0 against Frankfurt today. 
+An incredible shot from Caricol puts **Bayern Munich second in the table behind Borussia Dortmund**, who won 4-0 against Frankfurt today. 
