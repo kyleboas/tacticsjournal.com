@@ -577,14 +577,15 @@ cite {
   }
 }
 
+.footer .container { 
+   background: rgb(238, 238, 238);
+}
+
+
 .footer {
   background: #eee;
   line-height: 40px;
   font-size: 0.8em;
-
-  .container { 
-   background: rgb(238, 238, 238);
- }
 
   .wrapper {
     width: 860px;
