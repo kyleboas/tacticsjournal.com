@@ -22,12 +22,12 @@ April 23, 2023 — Brighton’s normal buildup was nullified by Manchester Unite
  
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/1st_Half_1.1-24Apr2023_12:56:52.jpeg">
-    <figcaption>Figure 1.1 - Brighton’s in-possession structure in the second half</figcaption>
+    <figcaption>Figure 1.1 - Brighton’s in-possession structure in the first half</figcaption>
 </figure> 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/Tactics_1.2-24Apr2023_13:15:47.jpeg">
-    <figcaption>Figure 1.2 - Second half tactics board</figcaption>
+    <figcaption>Figure 1.2 - First half tactics board</figcaption>
 </figure> 
 
 In the first half, Brighton built up in a 4-2 sub-structure, and Manchester United man-marked throughout the pitch, except for **Anthony Martial** whose job was to press both **Lewis Dunk and Adam Webster**. 
@@ -45,7 +45,7 @@ It played perfectly into Manchester United’s hands, and they always had the nu
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/Tactic_2.2-24Apr2023_13:17:44.jpeg">
-    <figcaption>Figure 2.2 - First half tactics board</figcaption>
+    <figcaption>Figure 2.2 - Second half tactics board</figcaption>
 </figure> 
 
 Robert De Zerbi countered this by having **Estupinan and Gross invert** in the second half, and Brighton switched to a 2-3 sub-structure. 
