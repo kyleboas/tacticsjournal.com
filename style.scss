@@ -582,9 +582,14 @@ cite {
   line-height: 40px;
   font-size: 0.8em;
 
+  .container { 
+   background: rgb(238, 238, 238);
+ }
+
   .wrapper {
     width: 860px;
     margin: 0 auto;
+    background: rgb(238, 238, 238);
   }
 
   iframe {
@@ -597,6 +602,19 @@ cite {
     float: right;
   }
 }
+
+.discord-logo {
+   display: inline-block; 
+   float: left; 
+   margin-right: 0px;
+}
+
+.discord-footer
+   display: flex;
+   align-items: center;
+   padding-bottom: 30px;
+}
+      
 
 // Post Navigation 
 
@@ -704,8 +722,8 @@ body {
   }
 
   .footer .wrapper {
-    margin: 0 20px;
     width: auto;
+    background: rgb(238, 238, 238);
   }
 
   .footer .donations {
