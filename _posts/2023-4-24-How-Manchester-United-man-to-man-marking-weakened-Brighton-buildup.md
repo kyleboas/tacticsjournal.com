@@ -18,7 +18,7 @@ April 23, 2023 — Brighton’s normal buildup was nullified by Manchester Unite
 <figure>
     <img src="https://tacticsjournal.com/images/0B1B427D-6D6F-4CCA-AC0F-BF8D626C30F3.webp">
     <figcaption>Figure 2.2 - Manchester United’s man-marking against Manchester City on January 14, 2023</figcaption>
-</figure> 
+</figure>
  
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/1st_Half_1.1-24Apr2023_12:56:52.jpeg">
