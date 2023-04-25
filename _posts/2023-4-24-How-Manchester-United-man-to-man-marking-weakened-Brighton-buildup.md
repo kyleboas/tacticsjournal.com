@@ -67,7 +67,7 @@ The negative to this run was that it left space open for Antony on the right win
     <figcaption>Figure 4.1 - Estupinan dismarks from Antony to make a run into the right half-space in the second half</figcaption>
 </figure> 
 
-Estupinan did the same in the second half, but now that Brighton we're more compact, **the threat of Antony on the right wing was limited**.
+Estupinan did the same in the second half, but now that Brighton were more compact, **the threat of Antony on the right wing was limited**.
 
 
 <figure>
