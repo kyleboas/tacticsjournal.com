@@ -75,7 +75,7 @@ Estupinan did the same in the second half, but now that Brighton were more compa
     <figcaption>Figure 5.1 - Webster passes to Welbeck, who dropped, then Welbeck passes to Dunk</figcaption>
 </figure> 
 
-This move by **Estupinan paired with Welbeck dropping** began to cause Manchester United problems. 
+This move by **Estupinan paired with Welbeck dropping** began to cause Manchester United problems. Brighton began to gain numerical superiority versus United’s back-line and with Mitoma more free, their attacks became more potent then they were in the first half. Brighton could now create transitional threats through simple movement in their buildup. 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/Caicedo_3.2-24Apr2023_13:28:42.jpeg">
