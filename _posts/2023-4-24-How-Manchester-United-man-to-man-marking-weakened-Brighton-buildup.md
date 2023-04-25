@@ -30,11 +30,11 @@ April 23, 2023 — Brighton’s normal buildup was nullified by Manchester Unite
     <figcaption>Figure 1.2 - First half tactics board</figcaption>
 </figure> 
 
-In the first half, Brighton built up in a 4-2 sub-structure, and Manchester United man-marked throughout the pitch, except for **Anthony Martial** whose job was to press both **Lewis Dunk and Adam Webster**. 
+In the first half, Brighton built up in a 4-2 sub-structure, and Manchester United man-marked throughout the pitch, except for Anthony Martial whose job was to press both Lewis Dunk and Adam Webster. 
 
-This created no room for their supporting creators **Caicedo, Mac Allister, and Enciso**, which made the lives of their transition players **Mitoma, March, and Welbeck** very hard. The transition players are reliant on those supporting players to progress the ball into the final third, so if you remove that outlet, then it’s hard to create numerical advantages in transition. 
+This created no room for their supporting creators Caicedo, Mac Allister, and Enciso, which made the lives of their transition players Mitoma, March, and Welbeck very hard. The transition players are reliant on those supporting players to progress the ball into the final third, so if you remove that outlet, then it’s hard to create numerical advantages in transition. 
 
-It played perfectly into Manchester United’s hands, and they always had the numbers back to match **Mitoma, March, Enciso, and Welbeck** 4v4 with **Casemiro** as the plus one. 
+It played perfectly into Manchester United’s hands, and they always had the numbers back to match Mitoma, March, Enciso, and Welbeck 4v4 with Casemiro as the plus one. 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/2.1-24Apr2023_14:20:00.jpeg">
@@ -48,16 +48,16 @@ It played perfectly into Manchester United’s hands, and they always had the nu
     <figcaption>Figure 2.2 - Second half tactics board</figcaption>
 </figure> 
 
-Robert De Zerbi countered this by having **Estupinan and Gross invert** in the second half, and Brighton switched to a 2-3 sub-structure. 
+Robert De Zerbi countered this by having Estupinan and Gross invert in the second half, and Brighton switched to a 2-3 sub-structure. 
 
-Estupinan inverting allowed **Mitoma**, who had a difficult job separating from Aaron Wan-Bissaka, more space on the left wing. This change also allowed **Mac Allister** to push forward, disrupting the pressing assignments of Manchester United’s first line. 
+Estupinan inverting allowed Mitoma, who had a difficult job separating from Aaron Wan-Bissaka, more space on the left wing. This change also allowed Mac Allister to push forward, disrupting the pressing assignments of Manchester United’s first line. 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/1st_Half_Estupinan_3.1-24Apr2023_13:57:09.jpeg">
     <figcaption>Figure 3.1 - Estupinan makes a run in behind Antony in the first half</figcaption>
 </figure> 
 
-The most interesting Brighton player was **Pervis Estupinan**. In the first half, he unlocked Manchester United’s right side with his runs inside into the left half-space to help the team transition out of the buildup. 
+The most interesting Brighton player was Pervis Estupinan. In the first half, he unlocked Manchester United’s right side with his runs inside into the left half-space to help the team transition out of the buildup. 
 
 The negative to this run was that it left space open for Antony on the right wing, for which Manchester United attacked unsuccessfully on two or three counterattacks. 
 
@@ -67,7 +67,7 @@ The negative to this run was that it left space open for Antony on the right win
     <figcaption>Figure 4.1 - Estupinan dismarks from Antony to make a run into the right half-space in the second half</figcaption>
 </figure> 
 
-Estupinan did the same in the second half, but now that Brighton were more compact, **the threat of Antony on the right wing was limited**.
+Estupinan did the same in the second half, but now that Brighton were more compact, the threat of Antony on the right wing was limited.
 
 
 <figure>
@@ -75,7 +75,7 @@ Estupinan did the same in the second half, but now that Brighton were more compa
     <figcaption>Figure 5.1 - Webster passes to Welbeck, who dropped, then Welbeck passes to Dunk</figcaption>
 </figure> 
 
-This move by **Estupinan paired with Welbeck dropping** began to cause Manchester United problems. Brighton began to gain numerical superiority versus United’s back-line making their attacks in the second half more potent then they were in the first half. Brighton could now create transitional threats through simple movements in their buildup. They were unable to convert the chances that superiority created.
+This move by Estupinan paired with Welbeck dropping began to cause Manchester United problems. Brighton began to gain numerical superiority versus United’s back-line making their attacks in the second half more potent then they were in the first half. Brighton could now create transitional threats through simple movements in their buildup. They were unable to convert the chances that superiority created.
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/Caicedo_3.2-24Apr2023_13:28:42.jpeg">
