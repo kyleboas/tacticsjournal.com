@@ -57,7 +57,7 @@ Estupinan inverting allowed **Mitoma**, who had a difficult job separating from 
     <figcaption>Figure 3.1 - Estupinan makes a run in behind Antony in the first half</figcaption>
 </figure> 
 
-The most interesting Brighton player was **Pervis Estupinan**. In the first half, he unlocked Manchester United’s with his runs inside into the right half-space to help the team transition out of the buildup. 
+The most interesting Brighton player was **Pervis Estupinan**. In the first half, he unlocked Manchester United’s right side with his runs inside into the left half-space to help the team transition out of the buildup. 
 
 The negative to this run was that it left space open for Antony on the right wing, for which Manchester United attacked unsuccessfully on two or three counterattacks. 
 
