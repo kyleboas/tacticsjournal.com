@@ -64,7 +64,7 @@ The negative to this run was that it left space open for Antony on the right win
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/Estupinan_3.1-24Apr2023_13:55:39.jpeg">
-    <figcaption>Figure 4.1 - Estupinan dismarks from Antony to make a run into the right half-space in the second half</figcaption>
+    <figcaption>Figure 4.1 - Estupinan dismarks from Antony to make a run into the left half-space in the second half</figcaption>
 </figure> 
 
 Estupinan did the same in the second half, but now that Brighton were more compact, the threat of Antony on the right wing was limited.
@@ -79,7 +79,7 @@ This move by Estupinan paired with Welbeck dropping began to cause Manchester Un
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/24/Caicedo_3.2-24Apr2023_13:28:42.jpeg">
-    <figcaption>Figure 5.2 - Estupinan makes the run behind Antony into the right half-space, and Dunk passes him the ball</figcaption>
+    <figcaption>Figure 5.2 - Estupinan makes the run behind Antony into the left half-space, and Dunk passes him the ball</figcaption>
 </figure> 
 
 <figure>
