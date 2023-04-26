@@ -59,7 +59,7 @@ I have a theory why this was tested.
 
 With Nathan Ake injured, this could potentially be the backline City use when they face Real Madrid in the Champions League semi-final match on May 9th. Pep needed a strong opponent to test this lineup for the first time to get a good sample to see if it would work. 
 
-Kyle Walker at right-back will mark Vinicus Junior and Manuel Akanji will mark Rodrygo at left-back. That’s likely what will happen. Akanji versus Vinicus Junior was always going to be a mismatch for speed, Walker is a logical choice due to his pace, paired with John Stones at right center-back to double team Vinicus. Ruben Dias at left centre-back would likely mark Karim Benzma. Today was the first trial. 
+Kyle Walker at right-back will mark Vinicus Junior and Manuel Akanji will mark Rodrygo at left-back. That’s likely what will happen. Akanji versus Vinicus Junior was always going to be a mismatch for speed, Walker is a logical choice due to his pace, paired with John Stones at right center-back to double team Vinicus. Ruben Dias at left centre-back would likely mark Karim Benzema. Today was the first trial. 
 
 But I didn’t feel Arsenal stress tested Manuel Akanji enough for me to form a full opinion on if it would work or not against the likes of Rodrygo, Fredrico Valverde, or Marco Ascensio. Bukayo Saka was not up to the quality of Rodrygo today, nor was Odegaard up to the quality of Valverde. My worry is that Saka played poorly today, which made Akanji look very good, whereas Nathan Ake took Saka out of the game in their last meeting. 
 
