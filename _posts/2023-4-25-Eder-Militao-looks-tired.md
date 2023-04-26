@@ -8,10 +8,10 @@ tags:
 - "Real Madrid"
 - "Girona"
 - "Other"
-image: /uploads/2023/04/25/Militao_1.1-25Apr2023_18:48:00.jpeg
+image: /uploads/2023/04/25/Militão_1.1-25Apr2023_18:48:00.jpeg
 ---
 
-April 25, 2023 — I will highlight three of the four goals Valentin Castellano’s scored for Girona against Real Madrid today, focusing on Éder Militão’s role in each goal.
+April 25, 2023 — I will highlight three of the four goals Valentin Castellanos scored for Girona against Real Madrid today in their 4-1 loss, focusing on Éder Militão’s role in each goal.
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/25/Militao_1.1-25Apr2023_18:48:00.jpeg">
@@ -35,6 +35,7 @@ The domino effect from Militão jumping in Figure 1.1 ends with a headed goal an
     <img src="https://tacticsjournal.com/uploads/2023/04/25/Militao_2.1-25Apr2023_18:59:03.jpeg">
     <figcaption>Figure 2.1 - Searching ball over Real Madrid’s back-line to Valentin Castellanos.</figcaption>
 </figure>
+
 There was nothing structurally wrong with how Real Madrid set up for Girona’s second goal; it all came down to how Militão took on Castellanos when the ball was played over his head. Militão is a physically adept defender who can bully forwards off the ball, but today he was off.
 
 <figure>
