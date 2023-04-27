@@ -14,6 +14,7 @@ tags:
 image: /uploads/2023/04/27/Akanji_1.1-27Apr2023_10:01:31.jpeg
 ---
 
+
 April 27, 2023 — Manuel Akanji, for Manchester City, was trialed at left-back when they faced Arsenal yesterday, and some of the habits he had on the right were transferred over when he played on the left.
 
 Akanji is a highly intelligent defender and is elite in 1v1 situations, but he has two weaknesses:
