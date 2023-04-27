@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-4-27 11:10:00 -0500
+date: 2023-4-27 08:10:00 -0500
 title: "The space Manuel Akanji's positioning creates"
 categories: 
 - "Premier League"
@@ -13,7 +13,6 @@ tags:
 - "ARS"
 image: /uploads/2023/04/27/Akanji_1.1-27Apr2023_10:01:31.jpeg
 ---
-
 
 April 27, 2023 — Manuel Akanji, for Manchester City, was trialed at left-back when they faced Arsenal yesterday, and some of the habits he had on the right were transferred over when he played on the left.
 
