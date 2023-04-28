@@ -1,0 +1,8 @@
+{% if include.tweet_id %}
+<div class="tweet">
+  <blockquote class="twitter-tweet" data-lang="en" data-theme="light">
+    <a href="https://twitter.com/{{ include.tweet_id }}" data-conversation="none"></a>
+  </blockquote>
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% endif %}
