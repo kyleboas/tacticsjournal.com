@@ -9,7 +9,7 @@ tags:
 - "Mainz"
 - "BAY"
 - "M05"
-- "Other"
+- "other"
 image: /uploads/2023/04/22/Image-22Apr2023_20:41:08.jpeg
 --- 
 
