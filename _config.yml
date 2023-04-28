@@ -84,7 +84,9 @@ feed:
 
 
 # Posts
+show_drafts: false
 future: false
+timezone: America/New_York
 
 # Categories 
 collections:
