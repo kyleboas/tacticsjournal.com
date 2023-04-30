@@ -2,17 +2,19 @@ name: Schedule Posts
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 19 * * *'
 
 jobs:
   curl:
     runs-on: ubuntu-latest
+    env:
+      TZ: America/New_York
     steps:
-      - name: Trigger GitHub Pages build
-        uses: wei/curl@master
-        with:
-          args: |
-            -X POST
-            -H 'Authorization: token ${{ secrets.PAGES_ACCESS_TOKEN }}'
-            -H 'Accept: application/vnd.github.ant-man-preview+json'
-            https://api.github.com/repos/kyleboas/tacticsjournal.com/pages/builds
+  - name: Trigger GitHub Pages build
+    uses: wei/curl@master
+    with:
+      args: |
+        -X POST
+        -H "Authorization: token ${{ secrets.PAGES_ACCESS_TOKEN }}"
+        -H "Accept: application/vnd.github.ant-man-preview+json"
+        "https://api.github.com/repos/kyleboas/tacticsjournal.com/pages/builds"
