@@ -4,7 +4,104 @@ title: Preview
 permalink: "/preview/"
 ---
 
-{% include tweet.html tweet_id="1651680575659425792" %}
+<div class="filter">
+    <a href="#" class="league" data-name="premier-league">Premier League</a> 
+    <a href="#" class="league" data-name="la-liga">La Liga</a> 
+    <a href="#" class="topic premier-league-team" data-name="ARS">ARS</a> 
+    <a href="#" class="topic premier-league-team" data-name="AVL">AVL</a>
+    <a href="#" class="topic la-liga-team" data-name="BAR">BAR</a> 
+    <a href="#" class="topic la-liga-team" data-name="MAD">MAD</a>
+    <a href="#" class="topic hidden" data-name="other">...</a>
+</div>
 
+<script>
+(function(){
+  function addPermalinkToHeader(header) {
+    if (header.id) {
+      var permalink = document.createElement('a');
+      permalink.href = '#' + header.id;
+      permalink.innerHTML = '&sect;';
+      header.appendChild(permalink);
+      header.tabIndex = 0;
+      permalink.onfocus = function() { this.style.display = 'block' };
+      permalink.onblur = function() { this.style.display = '' };
+    }
+  }
+  var headers = document.getElementsByTagName('h3');
+  for (var i = headers.length; i--; ) {
+    addPermalinkToHeader(headers[i]);
+  }
+  headers = document.getElementsByTagName('h4');
+  for (var i = headers.length; i--; ) {
+    addPermalinkToHeader(headers[i]);
+  }
+  headers = document.getElementsByTagName('h5');
+  for (var i = headers.length; i--; ) {
+    addPermalinkToHeader(headers[i]);
+  }
+})();
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">All Heung-Min Son or Harry Kane for Tottenham has to do is make the run to the far post once the ball enters Man United&#39;s box on the LW. Both have been making a run to the near post, and all three times, there&#39;s been no one on the end of the pass across goal on the ground.</p>&mdash; Tactics Journal (@TacticsJournal) <a href="https://twitter.com/TacticsJournal/status/1651680575659425792?ref_src=twsrc%5Etfw">April 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+document.documentElement.onclick = function(e) {
+  e = e || window.event;
+  var target = e.target || e.srcElement;
+  var clearAll;
+
+  if (target.className.indexOf('topic') > -1) {
+
+    // only add class if not clicking on the same one
+    if (target.className.indexOf('selected') === -1) {
+      clearAll = false;
+    }
+    else {
+      clearAll = true;
+    }
+
+    var topicEls = [].slice.call(document.getElementsByClassName('topic'));
+    for (var i = 0, len = topicEls.length; i < len; i++) {
+      topicEls[i].className = topicEls[i].className.replace('selected', '');
+    }
+
+    if (!clearAll) {
+      target.className += ' selected';
+    }
+
+    var tagName = target.getAttribute('data-name');
+    var liEls = document.getElementsByClassName('posts')[0].getElementsByTagName('li');
+
+    var numShown = 0;
+
+    for (var i = 0, len = liEls.length; i < len; i++) {
+      var content = liEls[i].getElementsByClassName('tags')[0].textContent;
+      if (content.indexOf(tagName) > -1 || clearAll) {
+        liEls[i].className = liEls[i].className.replace(/hidden/g, '');
+        numShown++;
+      }
+      else {
+        liEls[i].className += ' hidden';
+      }
+    }
+
+    document.getElementById('shown').innerHTML = numShown;
+
+    return false;
+  }
+  
+  // Add this block of code
+  var leagueEls = [].slice.call(document.getElementsByClassName('league'));
+  if (target.className.indexOf('league') > -1) {
+    for (var i = 0, len = leagueEls.length; i < len; i++) {
+      leagueEls[i].className = leagueEls[i].className.replace('selected', '');
+      var leagueId = leagueEls[i].getAttribute('data-id');
+      var teamEls = document.querySelectorAll('[data-league="' + leagueId + '"]');
+      for (var j = 0, teamLen = teamEls.length; j < teamLen; j++) {
+        teamEls[j].className += ' hidden';
+      }
+    }
+    target.className += ' selected';
+    var leagueId = target.getAttribute('data-id');
+    var teamEls = document.querySelectorAll('[data-league="' + leagueId + '"]');
+    for (var j = 0, teamLen = teamEls.length; j < teamLen; j++) {
+      teamEls[j].className = teamEls[j].className.replace('hidden', '');
+    }
+  }
+</script>
