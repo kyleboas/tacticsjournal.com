@@ -2,13 +2,11 @@ name: Schedule Posts
 
 on:
   schedule:
-    - cron: '38 22 * * *'
+    - cron: '43 21 * * *'
 
 jobs:
   curl:
     runs-on: ubuntu-latest
-    env:
-      TZ: America/New_York
     steps:
       - name: Trigger GitHub Pages build
         uses: wei/curl@master
