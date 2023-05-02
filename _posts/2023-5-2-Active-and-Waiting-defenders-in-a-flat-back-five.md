@@ -15,6 +15,7 @@ tags:
 - "INT"
 - "Chelsea"
 - "CHE"
+- "other"
 image: /uploads/2023/05/01/Image-01May2023_19:29:32.jpeg
 ---
 
@@ -105,7 +106,7 @@ Notice how flat the three Inter Milan waiting defenders are, ball-watching. The 
     <figcaption>Figure 4.3 - Rabiot passes to Cuadrado who is free on the far side.</figcaption>
 </figure>
 
-It's a mad scramble, Inter contract on the remaining forwards. No one checked over their shoulder and Cuadrado is left free in space.
+It's a mad scramble. Inter contract on the remaining forwards. No one checked over their shoulder and Cuadrado is left free in space.
 
 - Space behind the active defenders who have jumped to challenge the ball.
 - Space in-between waiting defenders, with a cross from a half-space.
