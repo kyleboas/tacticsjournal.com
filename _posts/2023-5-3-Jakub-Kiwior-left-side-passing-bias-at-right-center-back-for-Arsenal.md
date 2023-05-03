@@ -20,7 +20,7 @@ His positioning when defending in settled play is excellent, and his timing to b
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/02/Image-02May2023_18:46:58.jpeg">
-    <figcaption>Figure 1.1 - Jakub Kiwior pass map against Chelsea. Image from [McLachBot](https://twitter.com/mclachbot/status/1653506172207415303?s=46&t=YC8lQJTh43E_mBQW40Ct2g).</figcaption>
+    <figcaption>Figure 1.1 - Jakub Kiwior pass map against Chelsea. Image from <a href="https://twitter.com/mclachbot/status/1653506172207415303?s=46&t=YC8lQJTh43E_mBQW40Ct2g">McLachBot</a>.</figcaption>
 </figure>
 
 Kiwior favors passing to his left, which is a big exploitable issue. Of the 57 attempted passes, very few were passed to the right.
