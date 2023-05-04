@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-5-4 08:00:00 UTC
+date: 2023-5-4 07:00:00 UTC
 title: "Manchester City needed more runners against West Ham"
 categories: 
 - "Premier League"
@@ -12,7 +12,7 @@ tags:
 image: /uploads/2023/05/03/Image-03May2023_21:50:45.jpeg
 ---
 
-May 4, 2023 — Julian Alvarez wasn’t the runner Manchester City needed yesterday against West Ham. 
+May 4, 2023 — Julian Alvarez didn't put in the performance of a runner, the runner Manchester City needed yesterday against West Ham. 
 
 To fill Kevin De Bruyne’s boots in right center-midfield you must make runs off-the-ball, even if you know you won’t get the ball. Those runs open up space for others which allows City to progress the ball forward. 
 
