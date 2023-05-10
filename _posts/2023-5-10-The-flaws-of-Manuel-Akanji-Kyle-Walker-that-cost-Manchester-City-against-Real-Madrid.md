@@ -33,11 +33,11 @@ The issues in the buildup continued during yesterday's match, but Real Madrid di
 
 It was confirmed today through City's performance; had Arsenal pressured City (and it's not hard to do), they would have likely beaten them and stayed top of the league. 
 
-Akanji didn't look any more comfortable on the ball they he did during the Arsenal or Fulham match recently, and several of his passes were miscued, ruining the rhythm and flow of City's buildup, making it easier for Real Madrid to win back the ball.
+Akanji didn't look any more comfortable on the ball than he did during the Arsenal or Fulham match recently, and several of his passes were miscued, ruining the rhythm and flow of City's buildup, making it easier for Real Madrid to win back the ball and cover the spaces.0
 
 The distribution into Jack Grealish from Akanji, in particular, was poor. Akanji's passes weren't accurate, and when the ball would be played to Grealish, he'd have to stretch to collect the ball.
 
-Ederson, Ruben Dias, Gundogan, and Rodri all avoided playing the ball to Akanji, which limited the number of amounts they could use to get into Real Madrid's half of the field. 
+Ederson, Ruben Dias, Gundogan, and Rodri all avoided playing the ball to Akanji, which limited their options when they attempted to play into Real Madrid's half of the field. 
 
 Pep Guardiola after the match:
 
@@ -45,10 +45,10 @@ Pep Guardiola after the match:
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_21:02:12.jpeg">
-    <figcaption>Figure 1.1 - Illustration before the match to show an example of the numerical disadvantage Kyle Walker creates when he gets too high up the pitch.</figcaption>
+    <figcaption>Figure 1.1 - Illustration made before the match to show an example of the numerical disadvantage Kyle Walker creates for Manchester City, when he gets too high up the pitch.</figcaption>
 </figure> 
 
-Before the match, I mentioned that Kyle Walker likes to get further forward than any other Manchester City defender. To compensate for this, John Stones would rotate back to cover for Walker, but sometimes he didn't, as shown in the following example.
+Before the match, I mentioned that Kyle Walker likes to get further forward than any other Manchester City defender. To compensate for Walker getting forward, John Stones would rotate back to cover for Walker, but sometimes he didn't, as shown in the following example.
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:32:46.jpeg">
@@ -58,22 +58,20 @@ Before the match, I mentioned that Kyle Walker likes to get further forward than
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:33:06.jpeg">
     <figcaption>Figure 2.2 - Walker makes a run down the wing to the corner, and Rodri plays him the ball.</figcaption>
-</figure> 
+</figure>
 
-
-Real Madrid did the same against Chelsea, where Camavinga left the space open on the right wing to trap Manchester City in the corner and win back the ball quickly, enabling them to launch a counter. 
+Real Madrid did the same against Chelsea, where Camavinga left the space open on the right wing to trap Manchester City in the corner and win back the ball quickly, enabling them to launch a quick counter after dispossessing Walkwr.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;d expect Real Madrid to crowd around Haaland, like they packed the middle against Chelsea, and funnel the ball into the wide areas. Camavinga vs Bernardo Silva for Man City is going to be an interesting matchup with Silva isolated. <a href="https://t.co/sK7Fos8TF9">pic.twitter.com/sK7Fos8TF9</a></p>&mdash; Tactics Journal (@TacticsJournal) <a href="https://twitter.com/TacticsJournal/status/1655984153014173708?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:33:29.jpeg">
-    <figcaption>Figure 2.3 - Walker misplaced his first touch and Camavinga recovers the ball. Camavinga passes the ball up the left-wing.</figcaption>
+    <figcaption>Figure 2.3 - Walker misplaced his first touch and Camavinga recovers the ball. Camavinga passes up the left-wing.</figcaption>
 </figure> 
 
 Once Walker loses the ball, City is left with only Ruben Dias and Manuel Akanji back to defend against Vinicius Jr., Kareem Benzema, Rodrygo, and Valverde. Not good.
 
 Ruben Dias and John Stones play the part of worried parents watching over their children, Kyle Walker and Manuel Akanji. Sometimes, the children wander off, act aloof, and they bear the responsibility to come to their rescue and clean up the mess. It's an exhausting task. 
-
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:54:07.jpeg">
@@ -104,10 +102,10 @@ Figure 1.3 is a direct copy of the situation in which Manchester City found them
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/27/Akanji_1.1-27Apr2023_10:01:31.jpeg">
-    <figcaption>Figure 4.2 - (26 April vs Arsenal) Ball is played over Akanji and Dias.</figcaption>
+    <figcaption>Figure 4.2 - (26 April vs Arsenal) Ball is played over Akanji and Dias is forced to cover.</figcaption>
 </figure> 
 
-And Figure 1.4 is a direct copy of Figure 2.2, with the same setup and the same amount of space for a Real Madrid forward to run into.
+And Figure 1.4 is a direct copy of Figure 2.2, with the same setup and the same amount of space for a Real Madrid forward to run into behind Dias.
 
 Overall, Kyle Walker was very good when he positioned himself correctly. However, when he's out of position up the wing without adequate cover from Stones, overcommits to challenge the ball, or fails to commit to a tackle when he should, he becomes a liability.
 
