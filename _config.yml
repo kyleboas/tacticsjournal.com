@@ -107,6 +107,14 @@ defaults:
     values:
       image_path: "https://tacticsjournal.com/images/"
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: "post"
+      excerpt_separator: "<!--more-->"
 
 # Exclude these files from your production _site
 exclude:
