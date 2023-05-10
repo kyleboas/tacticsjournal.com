@@ -16,6 +16,8 @@ image: /uploads/2023/05/09/Image-09May2023_20:31:35.jpeg
 
 May 10, 2023 — Manchester City will need to make changes in the second leg against Real Madrid because there were several defensive flaws in yesterday's performance. Here I'll focus on the roles of Kyle Walker and Manuel Akanji and their impact on the match.
 
+<!--more-->
+
 Before the match, I outlined my concerns:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Concerns for Man City today vs Real Madrid:<br><br>- Poor positioning from Walker; he gets forward too much, leaving space for Vinicius Jr.<br>- Akanji&#39;s right-foot angles in the buildup when pressed; he looks uncomfortable at LCB<br>- Akanji&#39;s lack of spacial awarness and body positioning <a href="https://t.co/60Vo3dDN6U">pic.twitter.com/60Vo3dDN6U</a></p>&mdash; Tactics Journal (@TacticsJournal) <a href="https://twitter.com/TacticsJournal/status/1655893739473174528?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
