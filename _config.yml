@@ -88,6 +88,8 @@ show_drafts: false
 future: false
 timezone: America/New_York
 
+excerpt_ separator: <!--more-->
+
 # Categories 
 collections:
   category:
