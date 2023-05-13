@@ -14,6 +14,8 @@ image: /uploads/2023/05/12/Image-12May2023_18:54:58.jpeg
 
 May 13, 2023 — I'm watching Reims more for 23-year-old French goalkeeper Yehvann Diouf now than manager Will Still. I don't think their structure played to their strengths when they played Lens yesterday.
 
+<!---more--->
+
 Reims' back-four, made up of Thomas Foket, Yunis Abdelhamid, Emmanuel Agnadou, and Maxime Busi, are not the most proficient passers. Their midfield and forwards consist of decent dribblers. If they can get the ball, they know how to quickly fashion a chance.
 
 <figure>
