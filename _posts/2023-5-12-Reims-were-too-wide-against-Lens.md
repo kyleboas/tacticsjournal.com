@@ -85,5 +85,6 @@ Yehvann Diouf is having an incredible season, leading Ligue 1 in save percentage
     </div>
     <div style="text-align: center; margin: auto"></div>
 </div>
+<small>Would recommend muting the audio on the video because the song isn't very good. There's not many good compilations for Yehvann Diouf yet, and this is the best one I could find.</small>
 
 Throughout Europe, teams are actively seeking goalkeepers, and those teams should be knocking on Reims' door to inquire about Yehvann Diouf.
