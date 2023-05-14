@@ -10,7 +10,7 @@ tags:
 - "ARS"
 - "CHE"
 image: /uploads/2023/05/02/Image-02May2023_21:57:11.jpeg
-permalink: /Jakub-Kiwior-left-side-passing-bias-at-right-center-back-for-Arsenal
+permalink: /Jakub-Kiwior-left-side-passing-bias-at-right-center-back-for-Arsenal/
 ---
 
 May 3, 2023 — Rob Holding was benched, and Jakub Kiwior came into Arsenal's lineup to face Chelsea yesterday at right center-back. The problem is that Kiwior and Gabriel are both left-footed.
