@@ -10,7 +10,7 @@ tags:
 - "ARS"
 - "SOT"
 image: /uploads/2023/04/21/Image-21Apr2023_19:44:35.jpeg
-permalink: /Aaron-Ramsdale-channels-his-inner-David-De-Gea
+permalink: /Aaron-Ramsdale-channels-his-inner-David-De-Gea/
 --- 
 
 April 21, 2023 — Yesterday, I talked about [David De Gea’s mistake](https://tacticsjournal.com/David-De-Gea-risky-pass-to-Maguire-facing-goal-costs-Manchester-United/), which cost Manchester United their win, and Aaron Ramsdale made a similar mistake for Arsenal today that could potentially cost them the title. One mistake is all it takes. 
