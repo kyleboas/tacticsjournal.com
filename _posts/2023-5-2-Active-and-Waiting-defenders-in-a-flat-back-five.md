@@ -17,6 +17,7 @@ tags:
 - "CHE"
 - "other"
 image: /uploads/2023/05/01/Image-01May2023_19:29:32.jpeg
+permalink: /Active-and-Waiting-defenders-in-a-flat-back-five
 ---
 
 May 2, 2023 — Tottenham throughout the season, like Chelsea and Inter Milan, have used a flat-back-five out of possession, to their detriment. Here are three examples that showcase the ways a team can exploit this structure. 
