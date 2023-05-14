@@ -11,6 +11,7 @@ tags:
 - "Sevilla"
 - "MUN"
 image: /uploads/2023/04/20/De_Gea_1.3-20Apr2023_22:06:16.jpeg
+permalink: /David-De-Gea-risky-pass-to-Maguire-facing-goal-costs-Manchester-United
 ---
 
 April 20, 2023 — A fairly routine play was turned complicated by David De Gea in Manchester United’s Europa League quarter-final match against Sevilla. 
