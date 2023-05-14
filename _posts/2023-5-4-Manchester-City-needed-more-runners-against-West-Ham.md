@@ -10,6 +10,7 @@ tags:
 - "MCI"
 - "WHU"
 image: /uploads/2023/05/03/Image-03May2023_21:50:45.jpeg
+permalink: /Manchester-City-needed-more-runners-against-West-Ham
 ---
 
 May 4, 2023 — Julian Alvarez didn't put in the performance of a runner, the runner Manchester City needed yesterday against West Ham. 
