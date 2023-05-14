@@ -10,7 +10,7 @@ tags:
 - "WOL"
 - "LEI"
 image: /uploads/2023/04/22/Image-22Apr2023_17:41:38.jpeg
-permalink: /Wolves-pounce-on-a-flat-footed-Youri-Tielemans-and-unprepared-Leicester
+permalink: /Wolves-pounce-on-a-flat-footed-Youri-Tielemans-and-unprepared-Leicester/
 --- 
 
 April 22, 2023 — This has not been a good week for those passing forward to flat-footed defenders or midfielders facing goal.
