@@ -10,7 +10,7 @@ tags:
 - MCI
 - LIV
 image: /uploads/2023/04/01/LIV_narrow_out_of_possession_vs_Man_City_01_Apr_2023_09_03_42.jpeg
-permalink: /Liverpool-narrow-442-the-space-it-creates-with-expansion-and-contraction
+permalink: /Liverpool-narrow-442-the-space-it-creates-with-expansion-and-contraction/
 ---
 
 April 1, 2023 — Liverpool defended too narrowly against Manchester City when out of possession, which led to large amounts of space being open in the wide areas. Liverpool's front six midfielders and forwards often became detached from their backline once the ball was played wide to either one of Man City's center-midfielders or wingers.
