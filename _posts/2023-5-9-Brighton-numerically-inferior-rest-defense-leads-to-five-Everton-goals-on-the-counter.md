@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Everton"
 - "Brighton"
-- "BHI"
+- "BHA"
 - "EVE"
 image: /uploads/2023/05/08/Image-08May2023_21:08:06.jpeg
 permalink: /Brighton-numerically-inferior-rest-defense-leads-to-five-Everton-goals-on-the-counter/
