@@ -10,7 +10,7 @@ tags:
 - "BHI"
 - "EVE"
 image: /uploads/2023/05/08/Image-08May2023_21:08:06.jpeg
-permalink: /brighton-numerically-inferior-rest-defense-leads-to-five-Everton-goals-on-the-counter
+permalink: /Brighton-numerically-inferior-rest-defense-leads-to-five-Everton-goals-on-the-counter
 ---
 
 May 9, 2023 — Brighton leak goals because they don't commit enough players to their rest defense. Everton took advantage of this and scored five goals, all on the counter.
