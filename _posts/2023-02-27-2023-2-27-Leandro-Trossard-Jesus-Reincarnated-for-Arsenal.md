@@ -12,7 +12,7 @@ tags:
 - AVL
 layout: post
 image: "/images/62192BF9-F5BF-4157-BE1E-08A607887F72.jpeg"
-permalink: /Was-Fred-at-fault-for-Liverpool-first-goal-against-Man-United
+permalink: /Was-Fred-at-fault-for-Liverpool-first-goal-against-Man-United/
 ---
 
 When Gabriel Jesus got injured, Arsenal lost the unpredictability and positional rotation that created chances for Gabriel Martinelli and others. But, they regained it on Saturday versus Aston Villa when Leandro Trossard played as a false 9.
