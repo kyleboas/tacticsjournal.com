@@ -10,7 +10,7 @@ tags:
 - "WHU"
 - "CRY"
 image: /uploads/2023/04/29/Image-29Apr2023_19:15:53.jpeg 
-permalink: /West-Ham-and-Emperor-Penguins
+permalink: /West-Ham-and-Emperor-Penguins/
 ---
 
 April 29, 2023 — West Ham's defense has a tendency to be too compact, which gives space to attackers on the far-side. There has been a trend of back post goals over several matches with the same compact shape.
