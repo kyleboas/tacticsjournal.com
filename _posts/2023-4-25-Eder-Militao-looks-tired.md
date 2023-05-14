@@ -9,7 +9,7 @@ tags:
 - "Girona"
 - "other"
 image: /uploads/2023/04/25/Militao_1.1-25Apr2023_18:48:00.jpeg
-permalink: /Eder-Militao-looks-tired
+permalink: /Eder-Militao-looks-tired/
 ---
 
 April 25, 2023 — I will highlight three of the four goals Valentin Castellanos scored for Girona against Real Madrid today in their 4-2 loss, focusing on Éder Militão’s role in each goal.
