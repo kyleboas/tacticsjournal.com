@@ -10,6 +10,7 @@ tags:
 - "Inter"
 - "ACM"
 - "INT"
+- "other"
 image: /uploads/2023/05/10/Image-10May2023_18:29:09.jpeg
 ---
 
