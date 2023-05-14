@@ -62,7 +62,7 @@ Before the match, I mentioned that Kyle Walker likes to get further forward than
     <figcaption>Figure 2.2 - Walker makes a run down the wing to the corner, and Rodri plays him the ball.</figcaption>
 </figure>
 
-Real Madrid did the same against Chelsea, where Camavinga left the space open on the right wing to trap Manchester City in the corner and win back the ball quickly, enabling them to launch a quick counter after dispossessing Walkwr.
+Real Madrid did the same against Chelsea, with Camavinga leaving the space open on the right wing to trap Manchester City in the corner and quickly win back the ball, enabling them to launch a counterattack after dispossessing Walker.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;d expect Real Madrid to crowd around Haaland, like they packed the middle against Chelsea, and funnel the ball into the wide areas. Camavinga vs Bernardo Silva for Man City is going to be an interesting matchup with Silva isolated. <a href="https://t.co/sK7Fos8TF9">pic.twitter.com/sK7Fos8TF9</a></p>&mdash; Tactics Journal (@TacticsJournal) <a href="https://twitter.com/TacticsJournal/status/1655984153014173708?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
