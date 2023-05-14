@@ -10,7 +10,7 @@ tags:
 - CHE
 layout: post
 image: "/images/9A26E3EE-704F-4F20-806F-DB55E93E3986.webp"
-permalink: /Zakaria-positional-movement-was-key-to-Chelsea-fluidity-vs-Bournemouth
+permalink: /Zakaria-positional-movement-was-key-to-Chelsea-fluidity-vs-Bournemouth/
 ---
 
 Chelsea are the most tactically interesting team in the Premier League. The rotations in possession with the quick change in formation out of possession.
