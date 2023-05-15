@@ -1,4 +1,4 @@
-(function(){
+(function() {
   function addPermalinkToHeader(header) {
     if (header.id) {
       var permalink = document.createElement('a');
@@ -6,8 +6,8 @@
       permalink.innerHTML = '&sect;';
       header.appendChild(permalink);
       header.tabIndex = 0;
-      permalink.onfocus = function() { this.style.display = 'block' };
-      permalink.onblur = function() { this.style.display = '' };
+      permalink.onfocus = function() { this.style.display = 'block'; };
+      permalink.onblur = function() { this.style.display = ''; };
     }
   }
   var headers = document.getElementsByTagName('h3');
@@ -68,10 +68,52 @@ document.documentElement.onclick = function(e) {
 
     return false;
   }
-  
-  // Add this block of code
-  if (target.id === 'shown') {
-    var liEls = document.getElementsByClassName('posts')[0].getElementsByTagName('li');
-    document.getElementById('shown').innerHTML = liEls.length;
-  }
 };
+
+// Add the search functionality code here
+window.addEventListener('DOMContentLoaded', () => {
+  const searchInput = document.getElementById('search-input');
+  const searchResults = document.getElementById('search-results');
+  const searchIndex = [
+    {% for post in site.posts %}
+      {
+        "title": "{{ post.title | escape }}",
+        "url": "{{ post.url | absolute_url }}",
+        "content": "{{ post.content | strip_html | escape }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
+  const index = lunr(function() {
+    this.field('title', { boost: 10 });
+    this.field('content');
+
+    for (const doc of searchIndex) {
+      this.add(doc);
+    }
+  });
+
+  const performSearch = (query) => {
+    const results = index.search(query);
+    searchResults.innerHTML = '';
+
+    if (results.length === 0) {
+      searchResults.innerHTML = 'No results found.';
+      return;
+    }
+
+    for (const result of results) {
+      const item = searchIndex.find((doc) => doc.url === result.ref);
+      const searchItem = document.createElement('div');
+      searchItem.innerHTML = `<a href="${item.url}">${item.title}</a>`;
+      searchResults.appendChild(searchItem);
+    }
+  };
+
+  const handleSearch = () => {
+    const query = searchInput.value.trim();
+    performSearch(query);
+  };
+
+  searchInput.addEventListener('input', handleSearch);
+});
+
