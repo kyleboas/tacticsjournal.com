@@ -15,6 +15,8 @@ permalink: /Wolves-pounce-on-a-flat-footed-Youri-Tielemans-and-unprepared-Leices
 
 April 22, 2023 — This has not been a good week for those passing forward to flat-footed defenders or midfielders facing goal.
 
+<!---more--->
+
 First, we had [David De Gea to Harry Maguire for Manchester United](https://tacticsjournal.com/David-De-Gea-risky-pass-to-Maguire-facing-goal-costs-Manchester-United/) on Thursday, then [Aaron Ramsdale to Zinchenko for Arsenal](https://tacticsjournal.com/Aaron-Ramsdale-channels-his-inner-David-De-Gea/) on Friday, and Wout Faes to Youri Tielemans for Leicester today. 
 
 <figure>
