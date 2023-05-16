@@ -15,6 +15,8 @@ permalink: /Low-Viscosity-Bayern-Munich/
 
 May 14, 2023 — In low-viscosity liquids, the intermolecular forces between molecules are relatively weak, allowing the molecules to move more freely. That's a good way to describe both water and Bayern Munich now under Thomas Tuchel.
 
+<!---more--->
+
 They had their best game with Tuchel yesterday in a 6-0 win against Schlake due to their fluidity. You can't avoid watching them; their play is too attractive.
 
 I love the way the players immediately move when they make a pass. Pass and move, pass and move, create space, continued movement.
