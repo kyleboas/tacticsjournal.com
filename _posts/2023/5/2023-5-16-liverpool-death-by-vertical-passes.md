@@ -14,6 +14,8 @@ image: /uploads/2023/05/15/Image-15May2023_21:05:38.jpeg
 
 May 16, 2023 — For most teams, it's death by passes, but for Liverpool, it's death by vertical passes. Any chance they got against Leicester, it was vertical over the top.
 
+<!---more--->
+
 Liverpool's identity is speed and verticality, and it plays right into Leicester's weakness that I identified two months ago.
 
 <blockquote class="twitter-tweet">
