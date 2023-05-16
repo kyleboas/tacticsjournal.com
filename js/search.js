@@ -56,7 +56,7 @@
     postList.innerHTML = '';
 
     if (results.length === 0) {
-      searchResults.innerHTML = '<p>No results found.</p>';
+      searchResults.innerHTML = '<li>No results found.</li>';
     } else {
       for (var i = 0; i < results.length; i++) {
         var result = results[i];
