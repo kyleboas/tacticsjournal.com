@@ -14,6 +14,8 @@ image: /uploads/2023/05/14/Image-14May2023_20:58:47.jpeg
 
 May 15, 2023 – Brentford are experts at set-pieces, but their long throw-ins are executed to perfection, and teams should copy this routine they used against West Ham yesterday.
 
+<!---more--->
+
 The requirement is that you have a player like Mathias Jensen who can throw the ball long and accurately.
 
 <figure>
