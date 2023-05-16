@@ -1,6 +1,3 @@
----
----
-
 (function () {
   var searchInput = document.getElementById('search-input');
   var searchResults = document.getElementById('search-results');
@@ -49,7 +46,7 @@
   }
 
   function renderResults(results) {
-    searchResults.innerHTML = '';
+    postList.innerHTML = '';
 
     if (results.length === 0) {
       searchResults.innerHTML = '<li>No results found.</li>';
@@ -64,7 +61,7 @@
         var p = document.createElement('p');
         p.innerHTML = result.excerpt;
         li.appendChild(p);
-        searchResults.appendChild(li);
+        postList.appendChild(li);
       }
     }
   }
@@ -74,4 +71,7 @@
     var results = search(query);
     renderResults(results);
   });
+
+  // Initial render of all posts
+  renderResults(posts);
 })();
