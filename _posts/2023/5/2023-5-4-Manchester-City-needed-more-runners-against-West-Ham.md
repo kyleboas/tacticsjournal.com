@@ -15,6 +15,8 @@ permalink: /Manchester-City-needed-more-runners-against-West-Ham/
 
 May 4, 2023 — Julian Alvarez didn't put in the performance of a runner, the runner Manchester City needed yesterday against West Ham. 
 
+<!---more--->
+
 To fill Kevin De Bruyne’s boots in right center-midfield you must make runs off-the-ball, even if you know you won’t get the ball. Those runs open up space for others which allows City to progress the ball forward. 
 
 <figure>
