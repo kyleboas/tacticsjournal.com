@@ -1,28 +1,37 @@
 ---
 ---
   
-(function() {
+(function () {
   var searchInput = document.getElementById('search-input');
   var searchResults = document.getElementById('search-results');
   var postList = document.getElementById('post-list');
+  var selectedFilter = null;
 
   var posts = [
-    // Posts data...
+    {% for post in site.posts %}
+      {
+        title: "{{ post.title | xml_escape }}",
+        url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
+        excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
+        tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
   ];
 
   function search(query) {
     var results = [];
 
     if (!query || query.trim() === '') {
-      return posts;
+      return posts; // Return all posts if no query is provided or if it's blank
     }
 
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
 
       if (
-        post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase())
+        (selectedFilter === null || post.tags.includes(selectedFilter)) && // Check if the post matches the selected filter (if any)
+        (post.title.toLowerCase().includes(query.toLowerCase()) ||
+        post.excerpt.toLowerCase().includes(query.toLowerCase()))
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
@@ -40,13 +49,13 @@
 
   function highlightMatch(text, query) {
     var regex = new RegExp(query, 'gi');
-    return text.replace(regex, function(match) {
+    return text.replace(regex, function (match) {
       return '<span class="highlight">' + match + '</span>';
     });
   }
 
   function renderResults(results) {
-        postList.innerHTML = '';
+    postList.innerHTML = '';
 
     if (results.length === 0 && searchInput.value !== '') {
       searchResults.innerHTML = '<p>No results found.</p>';
@@ -67,61 +76,36 @@
         postList.appendChild(li);
       }
     }
+
+    selectedFilter = null; // Clear the selected filter
   }
 
-  function clearFilterSelection() {
-    var topicEls = document.getElementsByClassName('topic');
+  var filterLinks = document.querySelectorAll('.topic');
 
-    for (var i = 0; i < topicEls.length; i++) {
-      topicEls[i].classList.remove('selected');
-    }
-  }
+  for (var i = 0; i < filterLinks.length; i++) {
+    filterLinks[i].addEventListener('click', function (event) {
+      event.preventDefault();
 
-  function filterPostsByTag(tagName) {
-    var liEls = document.getElementsByClassName('post-item');
-    var numShown = 0;
+      var selectedTag = this.getAttribute('data-name');
 
-    for (var i = 0; i < liEls.length; i++) {
-      var content = liEls[i].getElementsByClassName('tags')[0].textContent;
-
-      if (content.indexOf(tagName) > -1 || tagName === 'all') {
-        liEls[i].classList.remove('hidden');
-        numShown++;
+      if (selectedFilter === selectedTag) {
+        selectedFilter = null; // Deselect the filter if it's already selected
       } else {
-        liEls[i].classList.add('hidden');
+        selectedFilter = selectedTag; // Select the clicked filter
+        searchInput.value = ''; // Clear the search input
       }
-    }
 
-    document.getElementById('shown').innerHTML = numShown;
+      var results = search(searchInput.value);
+      renderResults(results);
+    });
   }
 
-  searchInput.addEventListener('input', function() {
+  searchInput.addEventListener('input', function () {
     var query = searchInput.value;
+    selectedFilter = null; // Clear the selected filter when a search is performed
     var results = search(query);
     renderResults(results);
   });
-
-  document.documentElement.onclick = function(e) {
-    e = e || window.event;
-    var target = e.target || e.srcElement;
-
-    if (target.className.indexOf('topic') > -1) {
-      clearFilterSelection();
-
-      if (target.className.indexOf('selected') === -1) {
-        target.classList.add('selected');
-        var tagName = target.getAttribute('data-name');
-        filterPostsByTag(tagName);
-        searchInput.value = '';
-        renderResults(posts);
-      } else {
-        filterPostsByTag('all');
-        renderResults(posts);
-      }
-
-      return false;
-    }
-  };
 
   // Initial render of all posts
   renderResults(posts);
