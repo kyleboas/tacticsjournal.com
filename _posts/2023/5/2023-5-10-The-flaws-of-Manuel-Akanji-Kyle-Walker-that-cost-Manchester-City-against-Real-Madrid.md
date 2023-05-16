@@ -17,7 +17,7 @@ permalink: /The-flaws-of-Manuel-Akanji-Kyle-Walker-that-cost-Manchester-City-aga
 
 May 10, 2023 — Manchester City will need to make changes in the second leg against Real Madrid because there were several defensive flaws in yesterday's performance. Here I'll focus on the roles of Kyle Walker and Manuel Akanji and their impact on the match.
 
-<!--more-->
+<!---more--->
 
 Before the match, I outlined my concerns:
 
