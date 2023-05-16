@@ -15,6 +15,8 @@ permalink: /Arsenal-is-emotionally-exhausted-and-didnt-press-Manchester-City/
 
 April 26, 2023 — There are certain matches where it’s almost pointless to dive in too deep into the structure of a team when you can see that they’re emotionally exhausted. Arsenal in this game was exhausted, but they were instructed not to press which compounded the overly emotional aspect of their team.
 
+<!---more--->
+
 I can talk about the structure, who did what better, when and where, but mentality is just as much a part of tactics as structure is. If the mental part goes then reviewing the play is a waste of time. There’s no point in critiquing how they played or how well City played. 
 
 Similar to how it’s hard to critique teams like Chelsea right now who are not there mentally, their season has ended in their mind. Arsenal’s season isn’t over but their bodies are giving out to the demand of the schedule. 
