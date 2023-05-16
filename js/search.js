@@ -1,61 +1,51 @@
-(function() {
-  function displaySearchResults(results, store) {
-    var searchResults = document.getElementById('search-results');
+(function () {
+  var searchInput = document.getElementById('search-input');
+  var searchResults = document.getElementById('search-results');
 
-    if (results.length) { // Are there any results?
-      var appendString = '';
+  var pages = [
+    {% for page in site.pages %}
+      {
+        title: "{{ page.title | xml_escape }}",
+        url: "{{ site.baseurl }}{{ page.url | xml_escape }}",
+        content: "{{ page.content | strip_html | strip_newlines | escape }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
 
-      for (var i = 0; i < results.length; i++) {  // Iterate over the results
-        var item = store[results[i].ref];
-        appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-        appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+  function search(query) {
+    var results = [];
+
+    for (var i = 0; i < pages.length; i++) {
+      var page = pages[i];
+      if (page.title.toLowerCase().includes(query.toLowerCase()) || page.content.toLowerCase().includes(query.toLowerCase())) {
+        results.push(page);
       }
+    }
 
-      searchResults.innerHTML = appendString;
+    return results;
+  }
+
+  function renderResults(results) {
+    searchResults.innerHTML = '';
+
+    if (results.length === 0) {
+      searchResults.innerHTML = '<li>No results found.</li>';
     } else {
-      searchResults.innerHTML = '<li>No results found</li>';
-    }
-  }
-
-  function getQueryVariable(variable) {
-    var query = window.location.search.substring(1);
-    var vars = query.split('&');
-
-    for (var i = 0; i < vars.length; i++) {
-      var pair = vars[i].split('=');
-
-      if (pair[0] === variable) {
-        return decodeURIComponent(pair[1].replace(/\+/g, '%20'));
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
+        var li = document.createElement('li');
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerText = result.title;
+        li.appendChild(a);
+        searchResults.appendChild(li);
       }
     }
   }
 
-  var searchTerm = getQueryVariable('query');
-
-  if (searchTerm) {
-    document.getElementById('search-box').setAttribute("value", searchTerm);
-
-    // Initalize lunr with the fields it will be searching on. I've given title
-    // a boost of 10 to indicate matches on this field are more important.
-    var idx = lunr(function () {
-      this.field('id');
-      this.field('title', { boost: 10 });
-      this.field('author');
-      this.field('category');
-      this.field('content');
-    });
-
-    for (var key in window.store) { // Add the data to lunr
-      idx.add({
-        'id': key,
-        'title': window.store[key].title,
-        'author': window.store[key].author,
-        'category': window.store[key].category,
-        'content': window.store[key].content
-      });
-
-      var results = idx.search(searchTerm); // Get lunr to perform a search
-      displaySearchResults(results, window.store); // We'll write this in the next section
-    }
-  }
+  searchInput.addEventListener('input', function () {
+    var query = searchInput.value;
+    var results = search(query);
+    renderResults(results);
+  });
 })();
