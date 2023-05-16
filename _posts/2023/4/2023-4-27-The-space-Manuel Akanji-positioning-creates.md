@@ -17,6 +17,8 @@ permalink: /The-space-Manuel Akanji-positioning-creates/
 
 April 27, 2023 — Manuel Akanji, for Manchester City, was trialed at left-back when they faced Arsenal yesterday, and some of the habits he had on the right were transferred over when he played on the left.
 
+<!---more--->
+
 Akanji is a highly intelligent defender and is elite in 1v1 situations, but he has three weaknesses:
 
 - Poor positioning before the ball is played over his head down the line.
