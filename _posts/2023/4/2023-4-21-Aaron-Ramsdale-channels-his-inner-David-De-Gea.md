@@ -15,6 +15,8 @@ permalink: /Aaron-Ramsdale-channels-his-inner-David-De-Gea/
 
 April 21, 2023 — Yesterday, I talked about [David De Gea’s mistake](https://tacticsjournal.com/David-De-Gea-risky-pass-to-Maguire-facing-goal-costs-Manchester-United/), which cost Manchester United their win, and Aaron Ramsdale made a similar mistake for Arsenal today that could potentially cost them the title. One mistake is all it takes. 
 
+<!---more--->
+
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/21/Image-21Apr2023_19:38:21.jpeg">
     <figcaption>Figure 1.1 - Gabriel passes back to Ramsdale to recycle the ball</figcaption>
