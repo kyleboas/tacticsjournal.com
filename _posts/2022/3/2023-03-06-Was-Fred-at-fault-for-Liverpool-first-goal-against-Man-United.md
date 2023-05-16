@@ -15,6 +15,8 @@ permalink: /Was-Fred-at-fault-for-Liverpool-first-goal-against-Man-United/
 
 I'm going to go over the first goal Liverpool scored in Manchester United's 7-0 defeat at Anfield because it summed up their defensive vulnerabilities. Was it Fred's fault, or could Manchester United have been structured better as a whole?
 
+<!---more--->
+
 ![](/images/2EF8633E-B949-435A-A69A-D5C9D5D3F971.jpeg)
 
 The ball was played out from Alisson (GK) to Andrew Robertson (LB), dragging Diogo Dalot (RB) out wide to challenge Robertson. This left a huge space open behind Dalot, which Cody Gakpo ran into.
