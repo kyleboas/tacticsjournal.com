@@ -58,7 +58,7 @@
   if (results.length === 0 && searchInput.value !== '') {
     searchResults.innerHTML = '<p>No results found.</p>';
   } else {
-    var postsToRender = results.length === 0 ? posts : results;
+    var postsToRender = searchInput.value === '' ? posts : results;
 
     for (var i = 0; i < postsToRender.length; i++) {
       var result = postsToRender[i];
@@ -75,6 +75,7 @@
     }
   }
 }
+
 
 
   searchInput.addEventListener('input', function () {
