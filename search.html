@@ -8,3 +8,14 @@ layout: default
 <ul id="search-results"></ul>
 
 <script src="/js/search.js"></script>
+
+<!-- Display all posts initially -->
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
