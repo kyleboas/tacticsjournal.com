@@ -52,23 +52,26 @@
   }
 
   function renderResults(results) {
-    searchResults.innerHTML = '';
+  searchResults.innerHTML = '';
 
-    if (results.length === 0) {
-      searchResults.innerHTML = '<li>No results found.</li>';
-    } else {
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-        var li = document.createElement('li');
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        li.innerHTML = result.excerpt;
-        li.insertBefore(a, li.firstChild);
-        searchResults.appendChild(li);
-      }
+  if (results.length === 0) {
+    searchResults.innerHTML = '<p>No results found.</p>';
+  } else {
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+      searchResults.appendChild(li);
     }
   }
+}
+
 
   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
