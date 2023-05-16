@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Preview
-permalink: "/preview/"
+layout: default
+permalink: /preview/
 ---
 
 <div class="filter">
