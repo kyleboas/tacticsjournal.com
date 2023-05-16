@@ -15,6 +15,8 @@ permalink: /Liverpool-narrow-442-the-space-it-creates-with-expansion-and-contrac
 
 April 1, 2023 — Liverpool defended too narrowly against Manchester City when out of possession, which led to large amounts of space being open in the wide areas. Liverpool's front six midfielders and forwards often became detached from their backline once the ball was played wide to either one of Man City's center-midfielders or wingers.
 
+<!---more--->
+
 Jürgen Klopp, Liverpool's manager, indicated what their defensive philosophy would be pre-match: 
 
 > “The main thing against City is to cut off the passing options between the lines.”
