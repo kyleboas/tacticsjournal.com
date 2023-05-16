@@ -384,6 +384,24 @@ cite {
   font-weight: bold;
 }
 
+.post-list {
+  padding-left: 0px;
+}
+
+.post-item {
+  padding-left: 0px;
+  
+    a {
+      font-weight: bold;
+      text-decoration: none;
+    }
+    p {
+      margin-top: 5px;
+      font-family: pt-serif-pro, serif;
+  }
+}
+
+
 // NEW STYLES
 
 .posts .date,
