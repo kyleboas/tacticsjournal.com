@@ -15,6 +15,8 @@ permalink: /Rico-Lewis-deserves-to-start-regularly/
 
 May 7, 2023 - 67 days since his last start, 18-year-old Rico Lewis reminded everyone why he deserves to start regularly for Manchester City when they played Leeds yesterday. 
 
+<!---more--->
+
 I forgot how crisp his touches were and how good he is at moving to open space for others. His spatial awareness, tight control, and agility set him apart from other options in that inverted full-back position.
 
 I'd put him above John Stones in quality *for that position*, but Stones has years more experience, so he edges out Lewis in the short-term. Stones is playing out of position, so the fact that he is even considered an option is remarkable.
