@@ -55,31 +55,41 @@
     });
   }
 
-  function renderResults(results) {
-    postList.innerHTML = '';
+  // ...
 
-    if (results.length === 0 && searchInput.value !== '') {
-      searchResults.innerHTML = '<p>No results found.</p>';
-    } else {
-      searchResults.innerHTML = ''; // Clear the search results
-      var postsToRender = searchInput.value === '' ? posts : results;
+function renderResults(results) {
+  postList.innerHTML = '';
 
-      for (var i = 0; i < postsToRender.length; i++) {
-        var result = postsToRender[i];
-        var li = document.createElement('li');
-        li.classList.add('post-item'); // Add a custom class for styling purposes
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        li.appendChild(a);
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        li.appendChild(p);
-        postList.appendChild(li);
-      }
+  if (results.length === 0 && searchInput.value !== '') {
+    searchResults.innerHTML = '<p>No results found.</p>';
+  } else {
+    searchResults.innerHTML = ''; // Clear the search results
+    var postsToRender = searchInput.value === '' ? posts : results;
+
+    for (var i = 0; i < postsToRender.length; i++) {
+      var result = postsToRender[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item'); // Add a custom class for styling purposes
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+
+      // Add tags for the post
+      var tags = document.createElement('span');
+      tags.classList.add('tags');
+      tags.style.display = 'none'; // Hide the tags initially
+      tags.innerHTML = result.tags.join(', '); // Assuming the tags are an array of strings
+      li.appendChild(tags);
+
+      postList.appendChild(li);
     }
+  }
 
-    selectedFilter = null; // Clear the selected filter
+      selectedFilter = null; // Clear the selected filter
   }
 
   var filterLinks = document.querySelectorAll('.topic');
