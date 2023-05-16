@@ -13,6 +13,8 @@ permalink: /Man-City-2–3-with-inverted-lb-or-rb-leaves-them-too-vulnerable/
 
 January 1, 2023 — Inverting the left-back (LB) or right-back (RB) in Manchester City’s favored 4-1-2-3 formation to operate in a 2–3 in-possession shape is a death sentence when playing against teams who sit back and look to spring counter attacks because of the numerical disadvantage it creates.
 
+<!---more--->
+
 ![](/images/05576B30-454C-41C0-92FB-A5474FF5EA49.webp)
 
 Before the World Cup break, they would often operate in this 2–2 or 2–3 shape at the back. It left them too vulnerable on the wing behind the inverted RB or LB on the counter when they turned over the ball in the final or middle third.
