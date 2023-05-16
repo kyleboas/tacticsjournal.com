@@ -16,6 +16,8 @@ permalink: /David-De-Gea-risky-pass-to-Maguire-facing-goal-costs-Manchester-Unit
 
 April 20, 2023 — A fairly routine play was turned complicated by David De Gea in Manchester United’s Europa League quarter-final match against Sevilla. 
 
+<!---more--->
+
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/20/De_Gea_1.1-20Apr2023_22:03:20.jpeg">
     <figcaption>Figure 1.1 - Harry Maguire passes back to David De Gea</figcaption>
