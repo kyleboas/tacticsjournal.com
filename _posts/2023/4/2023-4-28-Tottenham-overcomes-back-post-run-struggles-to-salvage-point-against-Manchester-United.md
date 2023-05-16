@@ -15,6 +15,8 @@ permalink: /Tottenham-overcomes-back-post-run-struggles-to-salvage-point-against
 
 April 28, 2023 — During the first half, Manchester United's back post was open for Tottenham to attack, and passes were being played into dangerous areas, but no one was making the run to the back post. In the second half, Tottenham made those runs and scored two goals but they could have had more. 
 
+<!---more--->
+
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:27:04.jpeg">
     <figcaption>Figure 1.1 - Richarlison takes the ball to the corner, Heung-Min Son can choose to make the run into space towards the back post.</figcaption>
