@@ -12,9 +12,7 @@
         title: "{{ post.title | xml_escape }}",
         url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
         excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
-        content: "{{ post.content | strip_html | strip_newlines | escape }}",
-        tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
-        categories: "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
+        tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
       }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ];
@@ -27,16 +25,15 @@
 
       if (
         post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.tags.toLowerCase().includes(query.toLowerCase()) ||
-        post.categories.toLowerCase().includes(query.toLowerCase()) ||
-        post.content.toLowerCase().includes(query.toLowerCase())
+        post.excerpt.toLowerCase().includes(query.toLowerCase())
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
         results.push({
           title: highlightedTitle,
           url: post.url,
-          excerpt: highlightedExcerpt
+          excerpt: highlightedExcerpt,
+          tags: post.tags
         });
       }
     }
@@ -52,26 +49,25 @@
   }
 
   function renderResults(results) {
-  searchResults.innerHTML = '';
+    searchResults.innerHTML = '';
 
-  if (results.length === 0) {
-    searchResults.innerHTML = '<p>No results found.</p>';
-  } else {
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-      searchResults.appendChild(li);
+    if (results.length === 0) {
+      searchResults.innerHTML = '<li>No results found.</li>';
+    } else {
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
+        var li = document.createElement('li');
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+        searchResults.appendChild(li);
+      }
     }
   }
-}
-
 
   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
