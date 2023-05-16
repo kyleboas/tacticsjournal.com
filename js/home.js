@@ -1,6 +1,7 @@
 ---
 ---
   
+
 (function () {
   var searchInput = document.getElementById('search-input');
   var searchResults = document.getElementById('search-results');
@@ -13,7 +14,7 @@
         title: "{{ post.title | xml_escape }}",
         url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
         excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
-        tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
+        tags: [{% for tag in post.tags %}"{{ tag }}"{% unless forloop.last %}, {% endunless %}{% endfor %}]
       }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ];
@@ -60,6 +61,7 @@
     if (results.length === 0 && searchInput.value !== '') {
       searchResults.innerHTML = '<p>No results found.</p>';
     } else {
+      searchResults.innerHTML = ''; // Clear the search results
       var postsToRender = searchInput.value === '' ? posts : results;
 
       for (var i = 0; i < postsToRender.length; i++) {
@@ -102,7 +104,6 @@
 
   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
-    selectedFilter = null; // Clear the selected filter when a search is performed
     var results = search(query);
     renderResults(results);
   });
