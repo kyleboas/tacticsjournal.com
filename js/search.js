@@ -53,26 +53,29 @@
   }
 
   function renderResults(results) {
-    postList.innerHTML = '';
+  postList.innerHTML = '';
 
-    if (results.length === 0) {
-      searchResults.innerHTML = '<li>No results found.</li>';
-    } else {
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-        var li = document.createElement('li');
-        li.classList.add('post-item'); // Add a custom class for styling purposes
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        li.appendChild(a);
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        li.appendChild(p);
-        postList.appendChild(li);
-      }
+  if (results.length === 0 && searchInput.value !== '') {
+    searchResults.innerHTML = '<p>No results found.</p>';
+  } else {
+    var postsToRender = results.length === 0 ? posts : results;
+
+    for (var i = 0; i < postsToRender.length; i++) {
+      var result = postsToRender[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item'); // Add a custom class for styling purposes
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+      postList.appendChild(li);
     }
   }
+}
+
 
   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
