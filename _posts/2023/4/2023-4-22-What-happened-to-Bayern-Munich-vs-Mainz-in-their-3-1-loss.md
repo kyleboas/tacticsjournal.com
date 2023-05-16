@@ -16,6 +16,8 @@ permalink: /What-happened-to-Bayern-Munich-vs-Mainz-in-their-3-1-loss/
 
 April 22, 2023 — This match against Mainz is the first of seven matches that Thomas Tuchel tinkered with the structure of Bayern Munich since becoming their manager on March 25, 2023. 
 
+<!---more--->
+
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_19:24:44.jpeg">
     <figcaption>Figure 1.1 - Bayern Munich 5-2-1-2</figcaption>
