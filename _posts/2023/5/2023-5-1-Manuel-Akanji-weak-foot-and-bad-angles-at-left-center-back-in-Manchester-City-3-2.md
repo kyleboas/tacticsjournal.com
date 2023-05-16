@@ -15,6 +15,8 @@ permalink: /Manuel-Akanji-weak-foot-and-bad-angles-at-left-center-back-in-Manche
 
 May 1, 2023 — Manuel Akanji was used as a left center-back in a 3-2 sub-structure for Manchester City yesterday when they played Fulham, and it did not work due to the poor angles and his right footedness. 
 
+<!---more--->
+
 Akanji is right footed. To use his favored right foot, and avoid using his weaker left foot, he has to perform two touches. For example, if he were to receive the ball from Ruben Dias: 
 
 1. He has to take a touch with his left foot to switch the ball to his right foot.
