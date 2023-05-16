@@ -20,33 +20,34 @@
   ];
 
   function search(query) {
-    var results = [];
+  var results = [];
 
-    if (!query || query.trim() === '') {
-      return posts; // Return all posts if no query is provided or if it's blank
-    }
-
-    for (var i = 0; i < posts.length; i++) {
-      var post = posts[i];
-
-      if (
-        (selectedFilter === null || post.tags.includes(selectedFilter)) && // Check if the post matches the selected filter (if any)
-        (post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase()))
-      ) {
-        var highlightedTitle = highlightMatch(post.title, query);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query);
-        results.push({
-          title: highlightedTitle,
-          url: post.url,
-          excerpt: highlightedExcerpt,
-          tags: post.tags
-        });
-      }
-    }
-
-    return results;
+  if (!query || query.trim() === '') {
+    return posts; // Return all posts if no query is provided or if it's blank
   }
+
+  for (var i = 0; i < posts.length; i++) {
+    var post = posts[i];
+
+    if (
+      (selectedFilter === null || post.tags.includes(selectedFilter)) && // Check if the post matches the selected filter (if any)
+      (post.title.toLowerCase().includes(query.toLowerCase()) ||
+        post.excerpt.toLowerCase().includes(query.toLowerCase()))
+    ) {
+      var highlightedTitle = highlightMatch(post.title, query);
+      var highlightedExcerpt = highlightMatch(post.excerpt, query);
+      results.push({
+        title: highlightedTitle,
+        url: post.url,
+        excerpt: highlightedExcerpt,
+        tags: post.tags,
+      });
+    }
+  }
+
+  return results;
+}
+
 
   function highlightMatch(text, query) {
     var regex = new RegExp(query, 'gi');
