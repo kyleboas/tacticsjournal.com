@@ -1,13 +1,17 @@
+---
+---
+
 (function () {
   var searchInput = document.getElementById('search-input');
   var searchResults = document.getElementById('search-results');
+  var postList = document.getElementById('post-list');
 
   var pages = [
-    {% for page in site.pages %}
+    {% for post in site.posts %}
       {
-        title: "{{ page.title | xml_escape }}",
-        url: "{{ site.baseurl }}{{ page.url | xml_escape }}",
-        content: "{{ page.content | strip_html | strip_newlines | escape }}"
+        title: "{{ post.title | xml_escape }}",
+        url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
+        content: "{{ post.content | strip_html | strip_newlines | escape }}"
       }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ];
