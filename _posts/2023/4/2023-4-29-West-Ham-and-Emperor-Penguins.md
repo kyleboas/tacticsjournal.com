@@ -15,6 +15,8 @@ permalink: /West-Ham-and-Emperor-Penguins/
 
 April 29, 2023 — West Ham's defense has a tendency to be too compact, which gives space to attackers on the far-side. There has been a trend of back post goals over several matches with the same compact shape.
 
+<!---more--->
+
 They have the numbers to plug the spaces with bodies but they huddle together like a pack of Emperor Penguins seeking warmth. 
 
 <figure>
