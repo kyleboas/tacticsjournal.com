@@ -1,3 +1,6 @@
+---
+---
+  
 (function () {
   var searchInput = document.getElementById('search-input');
   var searchResults = document.getElementById('search-results');
