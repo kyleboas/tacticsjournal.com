@@ -89,7 +89,7 @@ show_drafts: false
 future: false
 timezone: America/New_York
 
-excerpt_separator: <!--more-->
+excerpt_separator: "<!---more--->"
 
 # Categories 
 collections:
@@ -109,15 +109,6 @@ defaults:
       path: ""
     values:
       image_path: "https://tacticsjournal.com/images/"
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: "post"
-      excerpt_separator: "<!--more-->"
 
 # Exclude these files from your production _site
 exclude:
