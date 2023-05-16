@@ -15,6 +15,8 @@ permalink: /Brighton-numerically-inferior-rest-defense-leads-to-five-Everton-goa
 
 May 9, 2023 — Brighton leak goals because they don't commit enough players to their rest defense. Everton took advantage of this and scored five goals, all on the counter.
 
+<!---more--->
+
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/08/Image-08May2023_21:07:15.jpeg">
     <figcaption>Figure 1.1 - Everton win the ball back and the ball is played to Calvert-Lewin.</figcaption>
