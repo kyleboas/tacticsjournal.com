@@ -17,6 +17,8 @@ permalink: /Was-Fred-at-fault-for-Liverpool-first-goal-against-Man-United/
 
 When Gabriel Jesus got injured, Arsenal lost the unpredictability and positional rotation that created chances for Gabriel Martinelli and others. But, they regained it on Saturday versus Aston Villa when Leandro Trossard played as a false 9.
 
+<!---more--->
+
 ![](/images/62192BF9-F5BF-4157-BE1E-08A607887F72.jpeg) 
 
 Eddie Nketiah filled in at center-forward in the beginning of December, when Jesus got injured. He stepped up to the tall task of filling Jesus' shoes by netting 7 goals. He's a pure goalscorer, great striker of the ball and knows where to position himself in the box to be available for scoring opportunities. However, he doesn't create chances for others, through his off the ball movement and passing ability, like Jesus does. 
