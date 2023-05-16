@@ -15,6 +15,8 @@ permalink: /Jakub-Kiwior-left-side-passing-bias-at-right-center-back-for-Arsenal
 
 May 3, 2023 — Rob Holding was benched, and Jakub Kiwior came into Arsenal's lineup to face Chelsea yesterday at right center-back. The problem is that Kiwior and Gabriel are both left-footed.
 
+<!---more--->
+
 Jakub Kiwior is a talented 23-year old who is athletic and looks very comfortable on the ball. At 182cm, he's not the tallest, and he doesn't look the strongest. He looks like he could be easily bullied by most forwards, which would make him a liability in aerial duels, especially when the ball is kicked long from the opponent's end with his back to goal, and maybe even on corners as well. His heading doesn’t look strong. 
 
 His positioning when defending in settled play is excellent, and his timing to block or tackle is good. He's very mobile and built more like a full-back or outside center-back than a central center-back. He will be a good backup to Oleksandr Zinchenko at inverted left-back or Gabriel at left center-back, but I think they will need more cover at the right center-back position. 
