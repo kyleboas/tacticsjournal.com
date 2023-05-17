@@ -135,9 +135,9 @@ searchInput.addEventListener('input', function () {
   var query = searchInput.value;
   var results = search(query);
 
-  // Check if the search input is empty
-  if (query.trim() === '') {
-    selectedFilter = null; // Clear the selected filter if the search input is empty
+  // Check if the search input is empty or has only one letter
+  if (query.trim() === '' || query.trim().length === 1) {
+    selectedFilter = null; // Clear the selected filter
   }
 
   // Initial render of all posts
