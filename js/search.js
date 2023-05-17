@@ -54,11 +54,12 @@
 
   function renderResults(results) {
   postList.innerHTML = '';
+  searchResults.innerHTML = ''; // Clear any previous messages
 
-  if (results.length === 0 && searchInput.value !== '') {
-    searchResults.innerHTML = '<p>No results found.</p>';
+  if (results.length === 0 && searchInput.value.trim() !== '') {
+    searchResults.innerHTML = '<p>No results found.</p>'; // Show message only when there are no results and the search input is not empty
   } else {
-    var postsToRender = searchInput.value === '' ? posts : results;
+    var postsToRender = searchInput.value.trim() === '' ? posts : results;
 
     for (var i = 0; i < postsToRender.length; i++) {
       var result = postsToRender[i];
