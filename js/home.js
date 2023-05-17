@@ -69,29 +69,33 @@ function renderResults(results) {
 
     for (var i = 0; i < postsToRender.length; i++) {
       var result = postsToRender[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item'); // Add a custom class for styling purposes
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
+      
+      // Check if the post's tags include the selected filter (if any)
+      if (selectedFilter === null || result.tags.includes(selectedFilter)) {
+        var li = document.createElement('li');
+        li.classList.add('post-item'); // Add a custom class for styling purposes
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
 
-      // Add tags for the post
-      var tags = document.createElement('span');
-      tags.classList.add('tags');
-      tags.style.display = 'none'; // Hide the tags initially
-      tags.innerHTML = result.tags.join(', '); // Assuming the tags are an array of strings
-      li.appendChild(tags);
+        // Add tags for the post
+        var tags = document.createElement('span');
+        tags.classList.add('tags');
+        tags.style.display = 'none'; // Hide the tags initially
+        tags.innerHTML = result.tags.join(', '); // Assuming the tags are an array of strings
+        li.appendChild(tags);
 
-      postList.appendChild(li);
+        postList.appendChild(li);
+      }
     }
   }
 
-      selectedFilter = null; // Clear the selected filter
-  }
+  selectedFilter = null; // Clear the selected filter
+}
 
   var filterLinks = document.querySelectorAll('.topic');
 
