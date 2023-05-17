@@ -113,7 +113,12 @@ function renderResults(results) {
       event.preventDefault();
 
       var selectedTag = this.getAttribute('data-name');
-      selectedFilter = selectedFilter === selectedTag ? null : selectedTag; // Update the selected filter
+
+      if (selectedFilter === selectedTag) {
+        selectedFilter = null; // Deselect the filter if it's already selected
+      } else {
+        selectedFilter = selectedTag; // Select the clicked filter
+      }
 
       searchInput.value = ''; // Clear the search input
 
