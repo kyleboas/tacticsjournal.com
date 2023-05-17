@@ -19,39 +19,35 @@
   ];
 
   function search(query) {
-    var results = [];
+  var results = [];
 
-    if (!query || query.trim() === '') {
-      return posts; // Return all posts if no query is provided or if it's blank
-    }
-
-    for (var i = 0; i < posts.length; i++) {
-      var post = posts[i];
-
-      if (
-        post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase())
-      ) {
-        var highlightedTitle = highlightMatch(post.title, query);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query);
-        results.push({
-          title: highlightedTitle,
-          url: post.url,
-          excerpt: highlightedExcerpt,
-          tags: post.tags
-        });
-      }
-    }
-
-    return results;
+  if (!query || query.trim() === '') {
+    return posts; // Return all posts if no query is provided or if it's blank
   }
 
-  function highlightMatch(text, query) {
-    var regex = new RegExp(query, 'gi');
-    return text.replace(regex, function (match) {
-      return '<span class="highlight">' + match + '</span>';
-    });
+  for (var i = 0; i < posts.length; i++) {
+    var post = posts[i];
+
+    if (
+      post.title.toLowerCase().includes(query.toLowerCase()) ||
+      post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+      post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
+      post.category.toLowerCase().includes(query.toLowerCase()) // Add search in category
+    ) {
+      var highlightedTitle = highlightMatch(post.title, query);
+      var highlightedExcerpt = highlightMatch(post.excerpt, query);
+      results.push({
+        title: highlightedTitle,
+        url: post.url,
+        excerpt: highlightedExcerpt,
+        tags: post.tags
+      });
+    }
   }
+
+  return results;
+}
+
 
   function renderResults(results) {
   postList.innerHTML = '';
