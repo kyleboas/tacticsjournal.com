@@ -1,6 +1,7 @@
 ---
 ---
   
+
 (function () {
   var searchInput = document.getElementById('search-input');
   var searchResults = document.getElementById('search-results');
@@ -99,12 +100,12 @@
     var filterLink = filterLinks[i];
 
     filterLink.addEventListener('click', function (event) {
-      event.preventDefault();
+          event.preventDefault();
 
       var selectedTag = this.getAttribute('data-name');
       clickCount++;
 
-       if (clickCount % 2 === 1) {
+      if (clickCount % 2 === 1) {
         selectedFilter = selectedTag; // Select the filter on odd click count
       } else {
         selectedFilter = null; // Deselect the filter on even click count
@@ -122,14 +123,13 @@
 
   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
-    var results = search(query);
 
     // Check if the search input is empty or has only one letter
     if (query.trim() === '' || query.trim().length === 1) {
       selectedFilter = null; // Clear the selected filter
     }
 
-    var results = search(searchInput.value);
+    var results = search(query);
     renderResults(results);
   });
 
