@@ -106,18 +106,22 @@ function renderResults(results) {
 }
 
 
-  var filterLinks = document.querySelectorAll('.topic');
+ var filterLinks = document.querySelectorAll('.topic');
 
   for (var i = 0; i < filterLinks.length; i++) {
-    filterLinks[i].addEventListener('click', function (event) {
+    var filterLink = filterLinks[i];
+    var clickCount = 0;
+
+    filterLink.addEventListener('click', function (event) {
       event.preventDefault();
 
       var selectedTag = this.getAttribute('data-name');
+      clickCount++;
 
-      if (selectedFilter === selectedTag) {
-        selectedFilter = null; // Deselect the filter if it's already selected
+      if (clickCount % 2 === 1) {
+        selectedFilter = selectedTag; // Select the filter on odd click count
       } else {
-        selectedFilter = selectedTag; // Select the clicked filter
+        selectedFilter = null; // Deselect the filter on even click count
       }
 
       searchInput.value = ''; // Clear the search input
