@@ -8,43 +8,47 @@
   var postList = document.getElementById('post-list');
 
   var posts = [
-    {% for post in site.posts %}
-      {
-        title: "{{ post.title | xml_escape }}",
-        url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
-        excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
-        tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
-      }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ];
+  {% for post in site.posts %}
+    {
+      title: "{{ post.title | xml_escape }}",
+      url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
+      excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
+      tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
+      category: "{{ post.category | xml_escape }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+   ];
+
 
   function search(query) {
-    var results = [];
+  var results = [];
 
-    if (!query || query.trim() === '') {
-      return posts; // Return all posts if no query is provided or if it's blank
-    }
-
-    for (var i = 0; i < posts.length; i++) {
-      var post = posts[i];
-
-      if (
-        post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase())
-      ) {
-        var highlightedTitle = highlightMatch(post.title, query);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query);
-        results.push({
-          title: highlightedTitle,
-          url: post.url,
-          excerpt: highlightedExcerpt,
-          tags: post.tags
-        });
-      }
-    }
-
-    return results;
+  if (!query || query.trim() === '') {
+    return posts; // Return all posts if no query is provided or if it's blank
   }
+
+  for (var i = 0; i < posts.length; i++) {
+    var post = posts[i];
+
+    if (
+      post.title.toLowerCase().includes(query.toLowerCase()) ||
+      post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+      post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
+      post.category.toLowerCase().includes(query.toLowerCase()) // Add search in category
+    ) {
+      var highlightedTitle = highlightMatch(post.title, query);
+      var highlightedExcerpt = highlightMatch(post.excerpt, query);
+      results.push({
+        title: highlightedTitle,
+        url: post.url,
+        excerpt: highlightedExcerpt,
+        tags: post.tags
+      });
+    }
+  }
+
+  return results;
+}
 
   function highlightMatch(text, query) {
     var regex = new RegExp(query, 'gi');
