@@ -133,11 +133,12 @@ function renderResults(results) {
 
 searchInput.addEventListener('input', function () {
   var query = searchInput.value;
-  selectedFilter = null; // Clear the selected filter
   var results = search(query);
-  renderResults(results);
-});
 
+  // Check if the search input is empty
+  if (query.trim() === '') {
+    selectedFilter = null; // Clear the selected filter if the search input is empty
+  }
 
   // Initial render of all posts
   renderResults(posts);
