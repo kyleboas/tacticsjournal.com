@@ -112,24 +112,22 @@ function renderResults(results) {
       event.preventDefault();
 
       var selectedTag = this.getAttribute('data-name');
+      selectedFilter = selectedFilter === selectedTag ? null : selectedTag; // Update the selected filter
 
-      if (selectedFilter === selectedTag) {
-        selectedFilter = null; // Deselect the filter if it's already selected
-      } else {
-        selectedFilter = selectedTag; // Select the clicked filter
-        searchInput.value = ''; // Clear the search input
-      }
+      searchInput.value = ''; // Clear the search input
 
       var results = search(searchInput.value);
       renderResults(results);
     });
   }
 
-  searchInput.addEventListener('input', function () {
-    var query = searchInput.value;
-    var results = search(query);
-    renderResults(results);
-  });
+searchInput.addEventListener('input', function () {
+  var query = searchInput.value;
+  selectedFilter = null; // Clear the selected filter
+  var results = search(query);
+  renderResults(results);
+});
+
 
   // Initial render of all posts
   renderResults(posts);
