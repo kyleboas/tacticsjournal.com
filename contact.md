@@ -1,6 +1,6 @@
 ---
 title: Contact
-layout: default
+layout: page
 ---
 
 If you have any questions or want to get in touch with me, I check all direct messages on Twitter at <a href="https://twitter.com/tacticsjournal">@TacticsJournal</a> or <a href="https://twitter.com/kyleboas_">@KyleBoas</a>. 
