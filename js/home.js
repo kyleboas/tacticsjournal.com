@@ -23,7 +23,11 @@
   var results = [];
 
   if (!query || query.trim() === '') {
-    return posts; // Return all posts if no query is provided or if it's blank
+    if (selectedFilter === null) {
+      return posts; // Return all posts if no query, no filter, and no search query
+    }
+    // Apply filter if a search query is present
+    query = '';
   }
 
   for (var i = 0; i < posts.length; i++) {
@@ -47,6 +51,7 @@
 
   return results;
 }
+
 
 
   function highlightMatch(text, query) {
