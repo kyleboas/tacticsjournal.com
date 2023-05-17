@@ -67,7 +67,14 @@
           li.appendChild(a);
           var p = document.createElement('p');
           p.innerHTML = result.excerpt;
-          li.appendChild(p);
+          
+          // Add tags for the post
+          var tags = document.createElement('span');
+          tags.classList.add('tags');
+          tags.style.display = 'none'; // Hide the tags initially
+          tags.innerHTML = result.tags.join(', '); // Assuming the tags are an array of strings
+           li.appendChild(tags);
+          
           postList.appendChild(li);
         }
       }
