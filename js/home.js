@@ -65,45 +65,46 @@
   // ...
 
 function renderResults(results) {
-    postList.innerHTML = '';
+  postList.innerHTML = '';
 
-    if (results.length === 0 && searchInput.value !== '') {
-      searchResults.innerHTML = '<p>No results found.</p>';
-    } else {
-      searchResults.innerHTML = ''; // Clear the search results
-      var postsToRender = searchInput.value === '' ? posts : results;
+  if (results.length === 0 && searchInput.value !== '') {
+    searchResults.innerHTML = '<p>No results found.</p>';
+  } else {
+    searchResults.innerHTML = ''; // Clear the search results
+    var postsToRender = searchInput.value === '' ? posts : results;
 
-      for (var i = 0; i < postsToRender.length; i++) {
-        var result = postsToRender[i];
-        
-        // Check if the post's tags include the selected filter (if any)
-        if (selectedFilter === null || result.tags.includes(selectedFilter)) {
-          var li = document.createElement('li');
-          li.classList.add('post-item'); // Add a custom class for styling purposes
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          li.appendChild(a);
-          var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
-          li.appendChild(p);
+    for (var i = 0; i < postsToRender.length; i++) {
+      var result = postsToRender[i];
+      
+      // Check if the post's tags include the selected filter (if any)
+      if (selectedFilter === null || result.tags.includes(selectedFilter)) {
+        var li = document.createElement('li');
+        li.classList.add('post-item'); // Add a custom class for styling purposes
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
 
-          // Add tags for the post
-          var tags = document.createElement('span');
-          tags.classList.add('tags');
-          tags.style.display = 'none'; // Hide the tags initially
-          tags.innerHTML = result.tags.join(', '); // Assuming the tags are an array of strings
-          li.appendChild(tags);
+        // Add tags for the post
+        var tags = document.createElement('span');
+        tags.classList.add('tags');
+        tags.style.display = 'none'; // Hide the tags initially
+        tags.innerHTML = result.tags.join(', '); // Assuming the tags are an array of strings
+        li.appendChild(tags);
 
-          postList.appendChild(li);
-        }
+        postList.appendChild(li);
       }
     }
-
-    if (selectedFilter === null) {
-      selectedFilter = document.querySelector('.topic.selected') ? document.querySelector('.topic.selected').getAttribute('data-name') : null;
-    }
   }
+
+  if (selectedFilter === null) {
+    selectedFilter = document.querySelector('.topic.selected') ? document.querySelector('.topic.selected').getAttribute('data-name') : null;
+  }
+}
+
 
   var filterLinks = document.querySelectorAll('.topic');
 
