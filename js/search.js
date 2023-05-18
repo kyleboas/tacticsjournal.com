@@ -43,62 +43,75 @@
   }
 
   function renderSuggestions(suggestions) {
-  suggestionList.innerHTML = ''; // Clear previous suggestions
+    suggestionList.innerHTML = ''; // Clear previous suggestions
 
-  if (suggestions.length === 0 || searchInput.value.trim() === '') {
-    suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
-    return;
-  }
+    if (suggestions.length === 0 || searchInput.value.trim() === '') {
+      suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
+      return;
+    }
 
-  suggestionList.style.display = 'block';
+    suggestionList.style.display = 'block';
 
-  var uniqueSuggestions = [...new Set(suggestions)]; // Remove duplicate suggestions
+    var uniqueSuggestions = [...new Set(suggestions)]; // Remove duplicate suggestions
 
-  for (var i = 0; i < uniqueSuggestions.length; i++) {
-    var suggestion = uniqueSuggestions[i];
-    if (suggestion.toLowerCase().includes(searchInput.value.trim().toLowerCase())) {
-      var li = document.createElement('li');
-      li.textContent = suggestion;
-      suggestionList.appendChild(li);
+    for (var i = 0; i < uniqueSuggestions.length; i++) {
+      var suggestion = uniqueSuggestions[i];
+      if (suggestion.toLowerCase().includes(searchInput.value.trim().toLowerCase())) {
+        var li = document.createElement('li');
+        li.textContent = suggestion;
+        li.addEventListener('click', function() {
+          searchInput.value = this.textContent;
+          suggestionList.style.display = 'none';
+          handleInput(); // Autocomplete the suggestion and trigger search
+        });
+        suggestionList.appendChild(li);
+      }
     }
   }
-}
-
-
-
-
 
   function renderResults(results) {
-  postList.innerHTML = '';
+    postList.innerHTML = '';
 
-  if (results.length === 0 && searchInput.value.trim() !== '') {
-    searchResults.innerHTML = '<p>No results found.</p>';
-  } else {
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item'); // Add "post-item" class
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-      postList.appendChild(li);
+    if (results.length === 0 && searchInput.value.trim() !== '') {
+      postList.innerHTML = '<p>No results found.</p>';
+    } else {
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item'); // Add "post-item" class
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+        postList.appendChild(li);
+      }
     }
   }
-}
-
 
   function handleInput() {
-    var query = searchInput.value.trim();
-    var results = search(query);
+  var query = searchInput.value.trim();
+  var results = search(query);
+
+  if (query === '') {
+    renderResults(posts); // Display all posts if the search input is empty
+  } else {
     renderSuggestions(results.map(function(post) { return post.tags.concat(post.categories); }));
     renderResults(results);
   }
+}
 
-  searchInput.addEventListener('input', handleInput);
+
+  searchInput.addEventListener('input', function() {
+    if (searchInput.value.trim() === '') {
+      suggestionList.style.display = 'none';
+      renderResults(posts);
+    } else {
+      handleInput();
+    }
+  });
 
   // Initial render of all posts
   renderResults(posts);
