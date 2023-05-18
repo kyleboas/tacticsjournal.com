@@ -43,31 +43,33 @@
   }
 
   function renderSuggestions(suggestions) {
-    suggestionList.innerHTML = ''; // Clear previous suggestions
+  suggestionList.innerHTML = ''; // Clear previous suggestions
 
-    if (suggestions.length === 0 || searchInput.value.trim() === '') {
-      suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
-      return;
-    }
+  var query = searchInput.value.trim().toLowerCase();
+  var filteredSuggestions = suggestions.filter(function(suggestion) {
+    return suggestion.toLowerCase().includes(query);
+  });
 
-    suggestionList.style.display = 'block';
-
-    var uniqueSuggestions = [...new Set(suggestions)]; // Remove duplicate suggestions
-
-    for (var i = 0; i < uniqueSuggestions.length; i++) {
-      var suggestion = uniqueSuggestions[i];
-      if (suggestion.toLowerCase().includes(searchInput.value.trim().toLowerCase())) {
-        var li = document.createElement('li');
-        li.textContent = suggestion;
-        li.addEventListener('click', function() {
-          searchInput.value = this.textContent;
-          suggestionList.style.display = 'none';
-          handleInput(); // Autocomplete the suggestion and trigger search
-        });
-        suggestionList.appendChild(li);
-      }
-    }
+  if (filteredSuggestions.length === 0 || query === '') {
+    suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
+    return;
   }
+
+  suggestionList.style.display = 'block';
+
+  for (var i = 0; i < filteredSuggestions.length; i++) {
+    var suggestion = filteredSuggestions[i];
+    var li = document.createElement('li');
+    li.textContent = suggestion;
+    li.addEventListener('click', function() {
+      searchInput.value = this.textContent;
+      suggestionList.style.display = 'none';
+      handleInput(); // Autocomplete the suggestion and trigger search
+    });
+    suggestionList.appendChild(li);
+  }
+}
+
 
   function renderResults(results) {
     postList.innerHTML = '';
@@ -92,20 +94,19 @@
   }
 
   function handleInput() {
-  var query = searchInput.value.trim();
+  var query = searchInput.value.trim().toLowerCase();
   var results = search(query);
 
   if (query === '') {
     renderResults(posts); // Display all posts if the search input is empty
   } else {
-    renderSuggestions(results.map(function(post) { return post.tags.concat(post.categories); }));
     renderResults(results);
   }
-  
+
   if (results.length === 0 && query !== '') {
     postList.innerHTML = '<p>No results found.</p>'; // Display "No results found" message if there are no matching posts
   }
-  
+
   if (suggestionList.style.display === 'none' && query !== '') {
     suggestionList.style.display = 'block'; // Show suggestions if they were hidden and there is a query
   }
