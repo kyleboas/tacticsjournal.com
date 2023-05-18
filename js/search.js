@@ -1,7 +1,7 @@
 ---
 ---
 
-    
+
 (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
@@ -32,10 +32,10 @@
       if (
         post.title.toLowerCase().includes(query.toLowerCase()) ||
         post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-        post.tags.toLowerCase().includes(query.toLowerCase()) ||
-        post.categories.toLowerCase().includes(query.toLowerCase()) // Include search in categories
+        post.tags.some(tag => tag.toLowerCase().includes(query.toLowerCase())) ||
+        post.categories.some(category => category.toLowerCase().includes(query.toLowerCase()))
       ) {
-        results.push(post.title);
+        results.push(post);
       }
     }
 
@@ -44,20 +44,32 @@
 
   function renderResults(results) {
     postList.innerHTML = '';
-
-    var suggestionList = document.getElementById('autocomplete-list');
     suggestionList.innerHTML = ''; // Clear previous suggestions
 
     if (results.length === 0 && searchInput.value.trim() !== '') {
       suggestionList.innerHTML = '<li>No results found.</li>'; // Show message only when there are no results and the search input is not empty
     } else {
-      var suggestionsToRender = searchInput.value.trim() === '' ? [] : results;
+      var suggestionsToRender = searchInput.value.trim() === '' ? [] : results.map(post => post.title);
 
       for (var i = 0; i < suggestionsToRender.length; i++) {
         var suggestion = suggestionsToRender[i];
         var li = document.createElement('li');
         li.innerHTML = suggestion;
         suggestionList.appendChild(li);
+      }
+
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item'); // Add a custom class for styling purposes
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+        postList.appendChild(li);
       }
     }
   }
@@ -162,10 +174,7 @@ function getTagsAndCategories() {
 
   for (var i = 0; i < posts.length; i++) {
     var post = posts[i];
-    var tags = post.tags.split(", ");
-    var categories = post.categories.split(", ");
-
-    tagsAndCategories = tagsAndCategories.concat(tags, categories);
+    tagsAndCategories = tagsAndCategories.concat(post.tags, post.categories);
   }
 
   return Array.from(new Set(tagsAndCategories));
