@@ -43,28 +43,33 @@
   }
 
   function renderSuggestions(suggestions) {
-  suggestionList.innerHTML = ''; // Clear previous suggestions
+  suggestionList.innerHTML = '';
 
   if (suggestions.length === 0 || searchInput.value.trim() === '') {
-    suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
+    suggestionList.style.display = 'none';
     return;
   }
 
   suggestionList.style.display = 'block';
 
-  var uniqueSuggestions = [...new Set(suggestions.flat())]; // Flatten the array and remove duplicate suggestions
+  var uniqueSuggestions = new Set();
 
-  for (var i = 0; i < uniqueSuggestions.length; i++) {
-    var suggestion = uniqueSuggestions[i];
-    if (suggestion.toLowerCase().includes(searchInput.value.toLowerCase())) { // Check if suggestion matches the search query
-      var li = document.createElement('li');
-      li.textContent = suggestion;
-      suggestionList.appendChild(li);
-    }
-  }
+  suggestions.forEach(function(post) {
+    post.tags.forEach(function(tag) {
+      uniqueSuggestions.add(tag);
+    });
+
+    post.categories.forEach(function(category) {
+      uniqueSuggestions.add(category);
+    });
+  });
+
+  uniqueSuggestions.forEach(function(suggestion) {
+    var li = document.createElement('li');
+    li.textContent = suggestion;
+    suggestionList.appendChild(li);
+  });
 }
-
-
 
   function renderResults(results) {
   postList.innerHTML = '';
