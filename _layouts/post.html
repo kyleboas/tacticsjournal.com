@@ -42,16 +42,15 @@ function copyToClipboard() {
 {% endif %}
 </div>
 
- {% assign images = site.static_files | where: "path", "/images" | where_exp: "item", "item.basename contains 'img_'" %}
-  {% if images.size > 0 %}
-    <div class="post-images">
-      {% for image in images %}
-        {% assign image_url = image.path %}
-        {% assign image_alt = image.basename | replace: 'img_', '' | replace: '_', ' ' | replace: '-', ' ' | capitalize %}
-        <img src="{{ site.baseurl }}{{ image_url }}" alt="{{ image_alt }}">
-      {% endfor %}
-    </div>
-  {% endif %}
+<input type="text" id="search-input" placeholder="Search...">
+<button onclick="goToHomePage()">Go</button>
+
+<script>
+  function goToHomePage() {
+    var searchTerm = document.getElementById("search-input").value;
+    window.location.href = "/?search=" + encodeURIComponent(searchTerm);
+  }
+</script>
 
 
 {% include related.html %}
