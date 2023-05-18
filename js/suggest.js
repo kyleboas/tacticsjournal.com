@@ -3,34 +3,7 @@
     
 
 // Array of suggestions
-let suggestions = [
-  "Channel",
-  "CodingLab",
-  "CodingNepal",
-  "YouTube",
-  "YouTuber",
-  "YouTube Channel",
-  "Blogger",
-  "Bollywood",
-  "Vlogger",
-  "Vehicles",
-  "Facebook",
-  "Freelancer",
-  "Facebook Page",
-  "Designer",
-  "Developer",
-  "Web Designer",
-  "Web Developer",
-  "Login Form in HTML & CSS",
-  "How to learn HTML & CSS",
-  "How to learn JavaScript",
-  "How to become a Freelancer",
-  "How to become a Web Designer",
-  "How to start a Gaming Channel",
-  "How to start a YouTube Channel",
-  "What does HTML stand for?",
-  "What does CSS stand for?",
-];
+let suggestions = TagsCategories;
 
 // Getting all required elements
 const searchInput = document.querySelector(".searchInput");
