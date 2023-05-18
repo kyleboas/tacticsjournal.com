@@ -3,14 +3,11 @@ layout: default
 permalink: /preview/
 ---
 
-<div class="container">
-  <div class="searchInput">
-    <input type="text" placeholder="Saisir une adresse..">
+<input type="text" id="search-input" placeholder="Search...">
     <div class="resultBox">
       <!-- here list are inserted from javascript -->
     </div>
-    <div class="icon"><i class="fas fa-search"></i></div>
-  </div>
-</div>
+
+<ul id="post-list"></ul>
 
 <script src="/js/suggest.js"></script>
