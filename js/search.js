@@ -52,7 +52,11 @@
 
   suggestionList.style.display = 'block';
 
-  var uniqueSuggestions = [...new Set(suggestions)]; // Remove duplicate suggestions
+  var uniqueSuggestions = suggestions.reduce(function(a, b) {
+    return a.concat(b);
+  }, []);
+
+  uniqueSuggestions = [...new Set(uniqueSuggestions)]; // Remove duplicate suggestions
 
   for (var i = 0; i < uniqueSuggestions.length; i++) {
     var suggestion = uniqueSuggestions[i];
@@ -61,6 +65,8 @@
     suggestionList.appendChild(li);
   }
 }
+
+
 
 
   function renderResults(results) {
