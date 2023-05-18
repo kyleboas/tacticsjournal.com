@@ -54,22 +54,20 @@
   }
 
   function renderSuggestions(suggestions) {
-    suggestionsList.innerHTML = '';
+  suggestionsList.innerHTML = ''; // Clear previous suggestions
 
-    if (suggestions.length === 0 || searchInput.value.trim() === '') {
-      return; // Return early if there are no suggestions or the search input is empty
-    }
-
-    for (var i = 0; i < suggestions.length; i++) {
-      var suggestion = suggestions[i];
-      var li = document.createElement('li');
-      var a = document.createElement('a');
-      a.href = suggestion.url;
-      a.textContent = suggestion.title;
-      li.appendChild(a);
-      suggestionsList.appendChild(li);
-    }
+  if (suggestions.length === 0 || searchInput.value.trim() === '') {
+    return; // Don't render suggestions if there are none or if the search input is empty
   }
+
+  for (var i = 0; i < suggestions.length; i++) {
+    var suggestion = suggestions[i];
+    var li = document.createElement('li');
+    li.textContent = suggestion.tags; // Display the tags or categories in the suggestion
+    suggestionsList.appendChild(li);
+  }
+}
+
 
   function renderResults(results) {
     postList.innerHTML = '';
