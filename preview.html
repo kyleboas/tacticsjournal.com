@@ -3,8 +3,12 @@ layout: default
 permalink: /preview/
 ---
 
-<form autocomplete="off"><input type="text" name="q" id="q" onKeyUp="showResults(this.value)" />
-<div id="result"></div>
-</form>
-
-<script src="/js/suggest.js"></script>
+<div class="container">
+  <div class="searchInput">
+    <input type="text" placeholder="Saisir une adresse..">
+    <div class="resultBox">
+      <!-- here list are inserted from javascript -->
+    </div>
+    <div class="icon"><i class="fas fa-search"></i></div>
+  </div>
+</div>
