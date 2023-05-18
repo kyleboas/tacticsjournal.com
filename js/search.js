@@ -4,7 +4,7 @@
   
 (function () {
   var searchInput = document.getElementById('search-input');
-  var suggestionList = document.getElementById('suggestion-list');
+  var searchResults = document.getElementById('search-results');
   var postList = document.getElementById('post-list');
 
   var posts = [
@@ -23,7 +23,7 @@
     var results = [];
 
     if (!query || query.trim() === '') {
-      return results; // Return empty array if no query is provided or if it's blank
+      return posts; // Return all posts if no query is provided or if it's blank
     }
 
     for (var i = 0; i < posts.length; i++) {
@@ -33,65 +33,58 @@
         post.title.toLowerCase().includes(query.toLowerCase()) ||
         post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
         post.tags.toLowerCase().includes(query.toLowerCase()) ||
-        post.categories.toLowerCase().includes(query.toLowerCase())
+        post.categories.toLowerCase().includes(query.toLowerCase()) // Include search in categories
       ) {
-        results.push(post);
+        var highlightedTitle = highlightMatch(post.title, query);
+        var highlightedExcerpt = highlightMatch(post.excerpt, query);
+        results.push({
+          title: highlightedTitle,
+          url: post.url,
+          excerpt: highlightedExcerpt,
+          tags: post.tags
+        });
       }
     }
 
-    return results.slice(0, 5); // Return top 5 matching posts
+    return results;
   }
 
-  function renderSuggestions(results) {
-    suggestionList.innerHTML = '';
-
-    if (results.length === 0) {
-      return; // Do not show suggestions if there are no results
-    }
-
-    for (var i = 0; i < results.length; i++) {
-      var suggestion = results[i];
-      var li = document.createElement('li');
-      var a = document.createElement('a');
-      a.href = suggestion.url;
-      a.textContent = suggestion.title;
-      li.appendChild(a);
-      suggestionList.appendChild(li);
-    }
-  }
-
-  function renderPosts(results) {
+  function renderResults(results) {
     postList.innerHTML = '';
+    searchResults.innerHTML = ''; // Clear any previous messages
 
-    if (results.length === 0) {
-      postList.innerHTML = '<p>No results found.</p>';
-      return;
-    }
+    if (results.length === 0 && searchInput.value.trim() !== '') {
+      searchResults.innerHTML = '<p>No results found.</p>'; // Show message only when there are no results and the search input is not empty
+    } else {
+      var postsToRender = searchInput.value.trim() === '' ? posts : results;
 
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.textContent = result.title;
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.textContent = result.excerpt;
-      li.appendChild(p);
-      postList.appendChild(li);
+      for (var i = 0; i < postsToRender.length; i++) {
+        var result = postsToRender[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item'); // Add a custom class for styling purposes
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+        postList.appendChild(li);
+      }
     }
   }
 
-  function handleInput() {
-    var query = searchInput.value.trim();
+  function highlightMatch(text, query) {
+    // Add your highlighting logic here
+    return text;
+  }
+
+  searchInput.addEventListener('input', function () {
+    var query = searchInput.value;
     var results = search(query);
-    renderSuggestions(results);
-    renderPosts(results);
-  }
-
-  searchInput.addEventListener('input', handleInput);
+    renderResults(results);
+  });
 
   // Initial render of all posts
-  renderPosts(posts);
+  renderResults(posts);
 })();
