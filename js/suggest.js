@@ -1,27 +1,27 @@
 ---
 ---
 
+var search_terms = ['apple', 'apple watch', 'apple macbook', 'apple macbook pro', 'iphone', 'iphone 12'];
+
 function autocompleteMatch(input) {
-  if (input === '') {
+  if (input == '') {
     return [];
   }
   var reg = new RegExp(input);
-  var matchingTerms = [];
+  return search_terms.filter(function(term) {
+    if (term.match(reg)) {
+      return term;
+    }
+  });
+}
 
-  // Replace search_terms with your blog post tags and categories
-  {% for post in site.posts %}
-    {% for tag in post.tags %}
-      if (tag.match(reg)) {
-        matchingTerms.push(tag);
-      }
-    {% endfor %}
-
-    {% for category in post.categories %}
-      if (category.match(reg)) {
-        matchingTerms.push(category);
-      }
-    {% endfor %}
-  {% endfor %}
-
-  return matchingTerms;
+function showResults(val) {
+  res = document.getElementById("result");
+  res.innerHTML = '';
+  let list = '';
+  let terms = autocompleteMatch(val);
+  for (i = 0; i < terms.length; i++) {
+    list += '<li>' + terms[i] + '</li>';
+  }
+  res.innerHTML = '<ul>' + list + '</ul>';
 }
