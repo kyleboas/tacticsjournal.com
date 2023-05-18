@@ -81,8 +81,12 @@
     }
   }
 }
-
-
+ 
+ // Get the search query from the URL
+  var searchQuery = new URLSearchParams(window.location.search).get('search');
+  if (searchQuery) {
+    searchInput.value = searchQuery;
+  }
 
   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
