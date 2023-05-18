@@ -406,6 +406,55 @@ cite {
   border: 0;
 }
 
+.container .searchInput{
+  background: #fff;
+  width: 100%;
+  border-radius: 5px;
+  position: relative;
+}
+
+.searchInput input{
+  width: 100%;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.searchInput.active input{
+  border-radius: 5px 5px 0 0;
+}
+
+.searchInput .resultBox{
+  padding: 0;
+  opacity: 0;
+  pointer-events: none;
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+.searchInput.active .resultBox{
+  padding: 10px 8px;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.resultBox li{
+  list-style: none;
+  padding: 8px 12px;
+  display: none;
+  width: 100%;
+  cursor: default;
+  border-radius: 3px;
+}
+
+.searchInput.active .resultBox li{
+  display: block;
+  font-size: 12px;
+}
+.resultBox li:hover{
+  background: #efefef;
+}
+
 
 // NEW STYLES
 
