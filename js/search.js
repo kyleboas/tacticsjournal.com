@@ -20,100 +20,153 @@
   ];
 
   function search(query) {
-  var results = [];
+    var results = [];
 
-  if (!query || query.trim() === '') {
+    if (!query || query.trim() === '') {
+      return posts; // Return all posts if no query is provided or if it's blank
+    }
+
+    for (var i = 0; i < posts.length; i++) {
+      var post = posts[i];
+
+      if (
+        post.title.toLowerCase().includes(query.toLowerCase()) ||
+        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+        post.tags.toLowerCase().includes(query.toLowerCase()) ||
+        post.categories.toLowerCase().includes(query.toLowerCase()) // Include search in categories
+      ) {
+        results.push(post.title);
+      }
+    }
+
     return results;
   }
 
-  var queryLower = query.toLowerCase();
-
-  for (var i = 0; i < posts.length; i++) {
-    var post = posts[i];
-
-    if (
-      post.title.toLowerCase().startsWith(queryLower) ||
-      post.excerpt.toLowerCase().includes(queryLower) ||
-      post.tags.some(function(tag) { return tag.toLowerCase().startsWith(queryLower); }) ||
-      post.categories.some(function(category) { return category.toLowerCase().startsWith(queryLower); })
-    ) {
-      results.push(post);
-    }
-  }
-
-  return results.slice(0, 5);
-}
-
-
-  function renderSuggestions(suggestions) {
-  suggestionList.innerHTML = '';
-
-  if (suggestions.length === 0 || searchInput.value.trim() === '') {
-    suggestionList.style.display = 'none';
-    return;
-  }
-
-  suggestionList.style.display = 'block';
-
-  var uniqueSuggestions = new Set();
-
-  suggestions.forEach(function(post) {
-    post.tags.forEach(function(tag) {
-      uniqueSuggestions.add(tag);
-    });
-
-    post.categories.forEach(function(category) {
-      uniqueSuggestions.add(category);
-    });
-  });
-
-  uniqueSuggestions.forEach(function(suggestion) {
-    var li = document.createElement('li');
-    li.textContent = suggestion;
-    suggestionList.appendChild(li);
-  });
-}
-
   function renderResults(results) {
-  postList.innerHTML = '';
+    postList.innerHTML = '';
 
-  if (results.length === 0 && searchInput.value.trim() !== '') {
-    searchResults.innerHTML = '<p>No results found.</p>';
-  } else {
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item'); // Add "post-item" class
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-      postList.appendChild(li);
+    var suggestionList = document.getElementById('autocomplete-list');
+    suggestionList.innerHTML = ''; // Clear previous suggestions
+
+    if (results.length === 0 && searchInput.value.trim() !== '') {
+      suggestionList.innerHTML = '<li>No results found.</li>'; // Show message only when there are no results and the search input is not empty
+    } else {
+      var suggestionsToRender = searchInput.value.trim() === '' ? [] : results;
+
+      for (var i = 0; i < suggestionsToRender.length; i++) {
+        var suggestion = suggestionsToRender[i];
+        var li = document.createElement('li');
+        li.innerHTML = suggestion;
+        suggestionList.appendChild(li);
+      }
     }
   }
-}
 
-
-  function handleInput() {
-    var query = searchInput.value.trim();
-    var results = search(query);
-    renderSuggestions(results.map(function(post) { return post.tags.concat(post.categories); }));
-    renderResults(results);
+  function highlightMatch(text, query) {
+    // Add your highlighting logic here
+    return text;
   }
 
-  searchInput.addEventListener('input', handleInput);
+  searchInput.addEventListener('input', function () {
+    var query = searchInput.value;
+    var results = search(query);
+    renderResults(results);
+  });
 
   // Initial render of all posts
   renderResults(posts);
+})();
 
-  // Clear search results and suggestions when the search input is empty
-  searchInput.addEventListener('focus', function() {
-    if (searchInput.value.trim() === '') {
-      suggestionList.style.display = 'none';
-      renderResults(posts);
+function autocomplete(inp, arr) {
+  var currentFocus;
+
+  inp.addEventListener("input", function(e) {
+    var a, b, i, val = this.value;
+    closeAllLists();
+
+    if (!val) { return false; }
+    currentFocus = -1;
+
+    a = document.createElement("DIV");
+    a.setAttribute("id", this.id + "autocomplete-list");
+    a.setAttribute("class", "autocomplete-items");
+    this.parentNode.appendChild(a);
+
+    for (i = 0; i < arr.length; i++) {
+      if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+        b = document.createElement("DIV");
+        b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
+        b.innerHTML += arr[i].substr(val.length);
+        b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
+        b.addEventListener("click", function(e) {
+          inp.value = this.innerText;
+          closeAllLists();
+        });
+        a.appendChild(b);
+      }
     }
   });
-})();
+
+  inp.addEventListener("keydown", function(e) {
+    var x = document.getElementById(this.id + "autocomplete-list");
+    if (x) x = x.getElementsByTagName("div");
+    if (e.keyCode == 40) {
+      currentFocus++;
+      addActive(x);
+    } else if (e.keyCode == 38) {
+      currentFocus--;
+      addActive(x);
+    } else if (e.keyCode == 13) {
+      e.preventDefault();
+      if (currentFocus > -1) {
+        if (x) x[currentFocus].click();
+      }
+    }
+  });
+
+  function addActive(x) {
+    if (!x) return false;
+    removeActive(x);
+    if (currentFocus >= x.length) currentFocus = 0;
+    if (currentFocus < 0) currentFocus = (x.length - 1);
+    x[currentFocus].classList.add("autocomplete-active");
+  }
+
+  function removeActive(x) {
+    for (var i = 0; i < x.length; i++) {
+      x[i].classList.remove("autocomplete-active");
+    }
+  }
+
+  function closeAllLists(elmnt) {
+    var x = document.getElementsByClassName("autocomplete-items");
+    for (var i = 0; i < x.length; i++) {
+      if (elmnt != x[i] && elmnt != inp) {
+        x[i].parentNode.removeChild(x[i]);
+      }
+    }
+  }
+
+  document.addEventListener("click", function (e) {
+    closeAllLists(e.target);
+  });
+}
+
+var tagsAndCategories = getTagsAndCategories();
+
+// Call the autocomplete function with the search input element and the tags and categories array
+autocomplete(document.getElementById("search-input"), tagsAndCategories);
+
+function getTagsAndCategories() {
+  var tagsAndCategories = [];
+
+  for (var i = 0; i < posts.length; i++) {
+    var post = posts[i];
+    var tags = post.tags.split(", ");
+    var categories = post.categories.split(", ");
+
+    tagsAndCategories = tagsAndCategories.concat(tags, categories);
+  }
+
+  return Array.from(new Set(tagsAndCategories));
+}
