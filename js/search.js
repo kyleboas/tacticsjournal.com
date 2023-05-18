@@ -43,22 +43,25 @@
   }
 
   function renderSuggestions(suggestions) {
-    suggestionList.innerHTML = ''; // Clear previous suggestions
+  suggestionList.innerHTML = ''; // Clear previous suggestions
 
-    if (suggestions.length === 0 || searchInput.value.trim() === '') {
-      suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
-      return;
-    }
-
-    suggestionList.style.display = 'block';
-
-    for (var i = 0; i < suggestions.length; i++) {
-      var suggestion = suggestions[i];
-      var li = document.createElement('li');
-      li.textContent = suggestion;
-      suggestionList.appendChild(li);
-    }
+  if (suggestions.length === 0 || searchInput.value.trim() === '') {
+    suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
+    return;
   }
+
+  suggestionList.style.display = 'block';
+
+  var uniqueSuggestions = [...new Set(suggestions)]; // Remove duplicate suggestions
+
+  for (var i = 0; i < uniqueSuggestions.length; i++) {
+    var suggestion = uniqueSuggestions[i];
+    var li = document.createElement('li');
+    li.textContent = suggestion;
+    suggestionList.appendChild(li);
+  }
+}
+
 
   function renderResults(results) {
     postList.innerHTML = ''; // Clear previous posts
