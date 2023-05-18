@@ -1,28 +1,6 @@
 ---
 ---
 
-(function () {
-  var searchInput = document.getElementById('search-input');
-  var searchResults = document.getElementById('search-results');
-  var postList = document.getElementById('post-list');
-
-  var posts = [
-    {% for post in site.posts %}
-    {
-      title: "{{ post.title | xml_escape }}",
-      url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
-      excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
-      tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
-      categories: "{{ post.categories | xml_escape }}"
-    }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ];
-
-  function search(query) {
-    var results = [];
----
----
-
   
 (function () {
   var searchInput = document.getElementById('search-input');
