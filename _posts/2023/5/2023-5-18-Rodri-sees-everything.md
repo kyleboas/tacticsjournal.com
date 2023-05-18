@@ -15,6 +15,8 @@ image: /uploads/2023/05/17/Image-17May2023_20:56:47.jpeg
 
 May 18, 2023 — Rodri, for Manchester City against Real Madrid, shows why he is one of the world's best defensive midfielders with his ability to see the entire field and pick the right pass.
 
+<!---more--->
+
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/17/Image-17May2023_20:56:01.jpeg">
     <figcaption>Figure 1.1 - Rodri is passed the ball.</figcaption>
