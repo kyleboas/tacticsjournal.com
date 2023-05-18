@@ -7,7 +7,7 @@ layout: default
 
 <script>
   function goToHomePage() {
-    var searchTerm = document.getElementById("search-bar-about").value;
+    var searchTerm = document.getElementById("search-input").value;
     window.location.href = "/?search=" + encodeURIComponent(searchTerm);
   }
 </script>
