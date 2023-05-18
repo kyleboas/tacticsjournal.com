@@ -10,14 +10,15 @@ image: "/images/AFFB1761-E5AA-4594-BEE3-D9BF52A01D59.jpeg"
 
 <script>
   window.addEventListener("DOMContentLoaded", function() {
-    var queryString = window.location.search;
-    var urlParams = new URLSearchParams(queryString);
-    var searchQuery = urlParams.get("search");
-    
-    if (searchQuery) {
-      var searchInput = document.getElementById("search-input");
-      searchInput.value = searchQuery;
-    }
-  });
+  var queryString = window.location.search;
+  var urlParams = new URLSearchParams(queryString);
+  var searchQuery = urlParams.get("search");
+
+  if (searchQuery) {
+    var searchInput = document.getElementById("search-input");
+    searchInput.value = searchQuery;
+    searchInput.dispatchEvent(new Event("input"));
+  }
+});
 </script>
 <script src="/js/search.js"></script>
