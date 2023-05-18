@@ -2,11 +2,13 @@
 layout: default
 ---
 
-<h1>Search</h1>
+<input type="text" id="search-bar-about" placeholder="Search...">
+<button onclick="goToHomePage()">Go</button>
 
-<input type="text" id="search-input" placeholder="Search...">
-<ul id="search-results"></ul>
+<script>
+  function goToHomePage() {
+    var searchTerm = document.getElementById("search-bar-about").value;
+    window.location.href = "home.html?search=" + encodeURIComponent(searchTerm);
+  }
+</script>
 
-<ul id="post-list"></ul>
-
-<script src="/js/home.js"></script>
