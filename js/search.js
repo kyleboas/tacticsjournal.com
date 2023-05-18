@@ -1,7 +1,8 @@
 ---
 ---
 
-(function () {
+
+ (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
   var postList = document.getElementById('post-list');
@@ -48,8 +49,6 @@
       suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
       return;
     }
-
-    suggestionList.style.display = 'block';
 
     var uniqueSuggestions = [...new Set(suggestions)]; // Remove duplicate suggestions
 
