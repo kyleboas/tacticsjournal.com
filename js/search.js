@@ -4,7 +4,7 @@
   
 (function () {
   var searchInput = document.getElementById('search-input');
-  var searchResults = document.getElementById('search-results');
+  var suggestionList = document.getElementById('suggestion-list');
   var postList = document.getElementById('post-list');
 
   var posts = [
@@ -23,7 +23,7 @@
     var results = [];
 
     if (!query || query.trim() === '') {
-      return posts; // Return all posts if no query is provided or if it's blank
+      return results; // Return empty array if no query is provided or if it's blank
     }
 
     for (var i = 0; i < posts.length; i++) {
@@ -33,7 +33,7 @@
         post.title.toLowerCase().includes(query.toLowerCase()) ||
         post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
         post.tags.toLowerCase().includes(query.toLowerCase()) ||
-        post.categories.toLowerCase().includes(query.toLowerCase()) // Include search in categories
+        post.categories.toLowerCase().includes(query.toLowerCase())
       ) {
         results.push(post);
       }
@@ -42,48 +42,55 @@
     return results.slice(0, 5); // Return top 5 matching posts
   }
 
-  function renderSuggestions(suggestions) {
-    searchResults.innerHTML = '';
+  function renderSuggestions(results) {
+    suggestionList.innerHTML = '';
 
-    for (var i = 0; i < suggestions.length; i++) {
-      var suggestion = suggestions[i];
+    if (results.length === 0) {
+      return; // Do not show suggestions if there are no results
+    }
+
+    for (var i = 0; i < results.length; i++) {
+      var suggestion = results[i];
       var li = document.createElement('li');
-      li.textContent = suggestion.tags;
-      li.addEventListener('click', function () {
-        searchInput.value = this.textContent; // Autocomplete the search field with the clicked suggestion
-        searchInput.focus(); // Set focus back to the search input
-      });
-      searchResults.appendChild(li);
+      var a = document.createElement('a');
+      a.href = suggestion.url;
+      a.textContent = suggestion.title;
+      li.appendChild(a);
+      suggestionList.appendChild(li);
     }
   }
 
-  function renderPosts(posts) {
+  function renderPosts(results) {
     postList.innerHTML = '';
 
-    for (var i = 0; i < posts.length; i++) {
-      var post = posts[i];
+    if (results.length === 0) {
+      postList.innerHTML = '<p>No results found.</p>';
+      return;
+    }
+
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
       var li = document.createElement('li');
-      li.classList.add('post-item'); // Add a custom class for styling purposes
+      li.classList.add('post-item');
       var a = document.createElement('a');
-      a.href = post.url;
-      a.innerHTML = post.title;
+      a.href = result.url;
+      a.textContent = result.title;
       li.appendChild(a);
       var p = document.createElement('p');
-      p.innerHTML = post.excerpt;
+      p.textContent = result.excerpt;
       li.appendChild(p);
       postList.appendChild(li);
     }
   }
 
-  function handleSearchInput() {
+  function handleInput() {
     var query = searchInput.value.trim();
     var results = search(query);
-
     renderSuggestions(results);
     renderPosts(results);
   }
 
-  searchInput.addEventListener('input', handleSearchInput);
+  searchInput.addEventListener('input', handleInput);
 
   // Initial render of all posts
   renderPosts(posts);
