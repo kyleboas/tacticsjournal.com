@@ -31,45 +31,41 @@ let suggestions = [
 ];
 
 // getting all required elements
-const searchInput = document.querySelector(".searchInput");
+const searchInput = document.querySelector("#search-input");
 const input = searchInput.querySelector("input");
 const resultBox = searchInput.querySelector(".resultBox");
 const icon = searchInput.querySelector(".icon");
 let linkTag = searchInput.querySelector("a");
 let webLink;
 
-// if user press any key and release
-input.onkeyup = (e)=>{
-    let userData = e.target.value; //user enetered data
+// if user presses any key and releases
+input.onkeyup = (e) => {
+    let userData = e.target.value; // user entered data
     let emptyArray = [];
-    if(userData){
-        emptyArray = suggestions.filter((data)=>{
-            //filtering array value and user characters to lowercase and return only those words which are start with user enetered chars
-            return data.toLocaleLowerCase().startsWith(userData.toLocaleLowerCase()); 
-        });
-        emptyArray = emptyArray.map((data)=>{
-            // passing return data inside li tag
-            return data = '<li>'+ data +'</li>';
-        });
-        searchInput.classList.add("active"); //show autocomplete box
+    if (userData) {
+        emptyArray = suggestions.filter((data) =>
+            data.toLowerCase().startsWith(userData.toLowerCase())
+        );
+        emptyArray = emptyArray.map(
+            (data) => `<li>${data}</li>`
+        );
+        searchInput.classList.add("active"); // show autocomplete box
         showSuggestions(emptyArray);
         let allList = resultBox.querySelectorAll("li");
         for (let i = 0; i < allList.length; i++) {
-            //adding onclick attribute in all li tag
             allList[i].setAttribute("onclick", "select(this)");
         }
-    }else{
-        searchInput.classList.remove("active"); //hide autocomplete box
+    } else {
+        searchInput.classList.remove("active"); // hide autocomplete box
     }
-}
+};
 
-function showSuggestions(list){
+function showSuggestions(list) {
     let listData;
-    if(!list.length){
-        userValue = inputBox.value;
-        listData = '<li>'+ userValue +'</li>';
-    }else{
-        listData = list.join('');
+    if (!list.length) {
+        listData = `<li>${input.value}</li>`;
+    } else {
+        listData = list.join("");
     }
     resultBox.innerHTML = listData;
 }
