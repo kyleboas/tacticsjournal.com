@@ -21,3 +21,7 @@ TagsCategories.push(...categories.split(","));
 
 // Remove duplicates from the TagsCategories array
 TagsCategories = [...new Set(TagsCategories)];
+
+console.log("TagsCategories:", TagsCategories);
+console.log("Tags:", allTags);
+console.log("Categories:", allCategories);
