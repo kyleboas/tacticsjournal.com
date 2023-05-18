@@ -1,107 +1,103 @@
 ---
 ---
 
-document.addEventListener('DOMContentLoaded', function () {
+  
+(function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
   var postList = document.getElementById('post-list');
-  var posts = []; // Replace this with your actual array of posts
 
-  // Function to render the posts
-  function renderPosts(posts) {
-    postList.innerHTML = '';
-    if (posts.length === 0) {
-      postList.innerHTML = '<li class="post-item">No posts found.</li>';
-    } else {
-      posts.forEach(function (post) {
-        var postItem = document.createElement('li');
-        postItem.className = 'post-item';
-        var postLink = document.createElement('a');
-        postLink.href = post.url;
-        postLink.textContent = post.title;
-        var postExcerpt = document.createElement('p');
-        postExcerpt.textContent = post.excerpt;
-        postItem.appendChild(postLink);
-        postItem.appendChild(postExcerpt);
-        postList.appendChild(postItem);
-      });
+  var posts = [
+    {% for post in site.posts %}
+    {
+      title: "{{ post.title | xml_escape }}",
+      url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
+      excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
+      tags: [{% for tag in post.tags %}"{{ tag }}"{% unless forloop.last %}, {% endunless %}{% endfor %}],
+      categories: [{% for category in post.categories %}"{{ category }}"{% unless forloop.last %}, {% endunless %}{% endfor %}]
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
+
+  function search(query) {
+    var results = [];
+
+    if (!query || query.trim() === '') {
+      return results; // Return empty array if no query is provided or if it's blank
     }
-  }
 
-  // Function to filter posts based on search
-  function filterPosts(searchText) {
-    var filteredPosts = posts.filter(function (post) {
-      // Perform your search logic here, e.g., title, excerpt, tags, and categories matching
-      return (
-        post.title.toLowerCase().includes(searchText.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(searchText.toLowerCase()) ||
-        post.tags.includes(searchText.toLowerCase()) ||
-        post.categories.includes(searchText.toLowerCase())
-      );
-    });
-    renderPosts(filteredPosts);
-  }
+    for (var i = 0; i < posts.length; i++) {
+      var post = posts[i];
 
-  // Function to display suggestions based on search
-  function displaySuggestions(searchText) {
-    var suggestions = [];
-    posts.forEach(function (post) {
       if (
-        post.title.toLowerCase().startsWith(searchText.toLowerCase()) &&
-        suggestions.length < 5
+        post.title.toLowerCase().includes(query.toLowerCase()) ||
+        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+        post.tags.some(function(tag) { return tag.toLowerCase().includes(query.toLowerCase()); }) ||
+        post.categories.some(function(category) { return category.toLowerCase().includes(query.toLowerCase()); })
       ) {
-        suggestions.push(post.title);
+        results.push(post);
       }
-      post.tags.forEach(function (tag) {
-        if (
-          tag.toLowerCase().startsWith(searchText.toLowerCase()) &&
-          suggestions.indexOf(tag) === -1 &&
-          suggestions.length < 5
-        ) {
-          suggestions.push(tag);
-        }
-      });
-      post.categories.forEach(function (category) {
-        if (
-          category.toLowerCase().startsWith(searchText.toLowerCase()) &&
-          suggestions.indexOf(category) === -1 &&
-          suggestions.length < 5
-        ) {
-          suggestions.push(category);
-        }
-      });
-    });
-
-    suggestionList.innerHTML = '';
-    suggestions.forEach(function (suggestion) {
-      suggestionList.innerHTML +=
-        '<li onclick="autocompleteSearch(\'' +
-        suggestion +
-        '\')" class="suggestion-item">' +
-        suggestion +
-        '</li>';
-    });
-  }
-
-  // Function to autocomplete search field
-  function autocompleteSearch(text) {
-    searchInput.value = text;
-    filterPosts(text);
-    suggestionList.innerHTML = '';
-  }
-
-  // Event listeners
-  searchInput.addEventListener('input', function () {
-    var searchText = searchInput.value.trim();
-    if (searchText.length === 0) {
-      renderPosts(posts);
-      suggestionList.innerHTML = '';
-    } else {
-      filterPosts(searchText);
-      displaySuggestions(searchText);
     }
-  });
+
+    return results.slice(0, 5); // Return top 5 matching posts
+  }
+
+  function renderSuggestions(suggestions) {
+    suggestionList.innerHTML = ''; // Clear previous suggestions
+
+    if (suggestions.length === 0 || searchInput.value.trim() === '') {
+      suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
+      return;
+    }
+
+    suggestionList.style.display = 'block';
+
+    for (var i = 0; i < suggestions.length; i++) {
+      var suggestion = suggestions[i];
+      var li = document.createElement('li');
+      li.textContent = suggestion;
+      suggestionList.appendChild(li);
+    }
+  }
+
+  function renderResults(results) {
+    postList.innerHTML = ''; // Clear previous posts
+
+    if (results.length === 0 && searchInput.value.trim() !== '') {
+      postList.innerHTML = '<p>No results found.</p>'; // Show message only when there are no results and the search input is not empty
+    } else {
+      for (var i = 0; i < results.length; i++) {
+        var post = results[i];
+        var li = document.createElement('li');
+        var a = document.createElement('a');
+        a.href = post.url;
+        a.textContent = post.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.textContent = post.excerpt;
+        li.appendChild(p);
+        postList.appendChild(li);
+      }
+    }
+  }
+
+  function handleInput() {
+    var query = searchInput.value.trim();
+    var results = search(query);
+    renderSuggestions(results.map(function(post) { return post.tags.concat(post.categories); }));
+    renderResults(results);
+  }
+
+  searchInput.addEventListener('input', handleInput);
 
   // Initial render of all posts
-  renderPosts(posts);
-});
+  renderResults(posts);
+
+  // Clear search results and suggestions when the search input is empty
+  searchInput.addEventListener('focus', function() {
+    if (searchInput.value.trim() === '') {
+      suggestionList.style.display = 'none';
+      renderResults(posts);
+    }
+  });
+})();
