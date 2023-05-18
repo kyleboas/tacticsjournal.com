@@ -9,16 +9,26 @@ document.addEventListener('DOMContentLoaded', function () {
   var posts = []; // Replace this with your actual array of posts
 
   // Function to render the posts
-  function renderPosts(posts) {
-    postList.innerHTML = '';
-    if (posts.length === 0) {
-      postList.innerHTML = '<li class="post-item">No posts found.</li>';
-    } else {
-      posts.forEach(function (post) {
-        postList.innerHTML += '<li class="post-item">' + post.title + '</li>';
-      });
-    }
+function renderPosts(posts) {
+  postList.innerHTML = '';
+  if (posts.length === 0) {
+    postList.innerHTML = '<li class="post-item">No posts found.</li>';
+  } else {
+    posts.forEach(function (post) {
+      var postItem = document.createElement('li');
+      postItem.className = 'post-item';
+      var postLink = document.createElement('a');
+      postLink.href = post.url;
+      postLink.textContent = post.title;
+      var postExcerpt = document.createElement('p');
+      postExcerpt.textContent = post.excerpt;
+      postItem.appendChild(postLink);
+      postItem.appendChild(postExcerpt);
+      postList.appendChild(postItem);
+    });
   }
+}
+
 
   // Function to filter posts based on search
   function filterPosts(searchText) {
