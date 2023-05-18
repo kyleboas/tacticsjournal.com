@@ -101,7 +101,12 @@
     renderSuggestions(results.map(function(post) { return post.tags.concat(post.categories); }));
     renderResults(results);
   }
+  
+  if (suggestionList.style.display === 'none') {
+    suggestionList.style.display = 'block'; // Show suggestions if they were hidden
+  }
 }
+
 
 
   searchInput.addEventListener('input', function() {
