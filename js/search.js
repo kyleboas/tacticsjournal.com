@@ -64,25 +64,27 @@
 
 
   function renderResults(results) {
-    postList.innerHTML = ''; // Clear previous posts
+  postList.innerHTML = '';
 
-    if (results.length === 0 && searchInput.value.trim() !== '') {
-      postList.innerHTML = '<p>No results found.</p>'; // Show message only when there are no results and the search input is not empty
-    } else {
-      for (var i = 0; i < results.length; i++) {
-        var post = results[i];
-        var li = document.createElement('li');
-        var a = document.createElement('a');
-        a.href = post.url;
-        a.textContent = post.title;
-        li.appendChild(a);
-        var p = document.createElement('p');
-        p.textContent = post.excerpt;
-        li.appendChild(p);
-        postList.appendChild(li);
-      }
+  if (results.length === 0 && searchInput.value.trim() !== '') {
+    searchResults.innerHTML = '<p>No results found.</p>';
+  } else {
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item'); // Add "post-item" class
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+      postList.appendChild(li);
     }
   }
+}
+
 
   function handleInput() {
     var query = searchInput.value.trim();
