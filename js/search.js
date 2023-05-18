@@ -1,7 +1,7 @@
 ---
 ---
 
-  
+    
 (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
@@ -43,43 +43,48 @@
   }
 
   function renderSuggestions(suggestions) {
-    suggestionList.innerHTML = ''; // Clear previous suggestions
+  suggestionList.innerHTML = ''; // Clear previous suggestions
 
-    if (suggestions.length === 0 || searchInput.value.trim() === '') {
-      suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
-      return;
-    }
-
-    suggestionList.style.display = 'block';
-
-    for (var i = 0; i < suggestions.length; i++) {
-      var suggestion = suggestions[i];
-      var li = document.createElement('li');
-      li.textContent = suggestion;
-      suggestionList.appendChild(li);
-    }
+  if (suggestions.length === 0 || searchInput.value.trim() === '') {
+    suggestionList.style.display = 'none'; // Hide suggestion list if there are no suggestions or the search input is empty
+    return;
   }
+
+  suggestionList.style.display = 'block';
+
+  var uniqueSuggestions = [...new Set(suggestions)]; // Remove duplicate suggestions
+
+  for (var i = 0; i < uniqueSuggestions.length; i++) {
+    var suggestion = uniqueSuggestions[i];
+    var li = document.createElement('li');
+    li.textContent = suggestion;
+    suggestionList.appendChild(li);
+  }
+}
+
 
   function renderResults(results) {
-    postList.innerHTML = ''; // Clear previous posts
+  postList.innerHTML = '';
 
-    if (results.length === 0 && searchInput.value.trim() !== '') {
-      postList.innerHTML = '<p>No results found.</p>'; // Show message only when there are no results and the search input is not empty
-    } else {
-      for (var i = 0; i < results.length; i++) {
-        var post = results[i];
-        var li = document.createElement('li');
-        var a = document.createElement('a');
-        a.href = post.url;
-        a.textContent = post.title;
-        li.appendChild(a);
-        var p = document.createElement('p');
-        p.textContent = post.excerpt;
-        li.appendChild(p);
-        postList.appendChild(li);
-      }
+  if (results.length === 0 && searchInput.value.trim() !== '') {
+    searchResults.innerHTML = '<p>No results found.</p>';
+  } else {
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item'); // Add "post-item" class
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+      postList.appendChild(li);
     }
   }
+}
+
 
   function handleInput() {
     var query = searchInput.value.trim();
