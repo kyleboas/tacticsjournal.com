@@ -20,27 +20,30 @@
   ];
 
   function search(query) {
-    var results = [];
+  var results = [];
 
-    if (!query || query.trim() === '') {
-      return results; // Return empty array if no query is provided or if it's blank
-    }
-
-    for (var i = 0; i < posts.length; i++) {
-      var post = posts[i];
-
-      if (
-        post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-        post.tags.some(function(tag) { return tag.toLowerCase().includes(query.toLowerCase()); }) ||
-        post.categories.some(function(category) { return category.toLowerCase().includes(query.toLowerCase()); })
-      ) {
-        results.push(post);
-      }
-    }
-
-    return results.slice(0, 5); // Return top 5 matching posts
+  if (!query || query.trim() === '') {
+    return results;
   }
+
+  var queryLower = query.toLowerCase();
+
+  for (var i = 0; i < posts.length; i++) {
+    var post = posts[i];
+
+    if (
+      post.title.toLowerCase().startsWith(queryLower) ||
+      post.excerpt.toLowerCase().includes(queryLower) ||
+      post.tags.some(function(tag) { return tag.toLowerCase().startsWith(queryLower); }) ||
+      post.categories.some(function(category) { return category.toLowerCase().startsWith(queryLower); })
+    ) {
+      results.push(post);
+    }
+  }
+
+  return results.slice(0, 5);
+}
+
 
   function renderSuggestions(suggestions) {
   suggestionList.innerHTML = '';
