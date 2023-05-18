@@ -52,15 +52,18 @@
 
   suggestionList.style.display = 'block';
 
-  var uniqueSuggestions = [...new Set(suggestions)]; // Remove duplicate suggestions
+  var uniqueSuggestions = [...new Set(suggestions.flat())]; // Flatten the array and remove duplicate suggestions
 
   for (var i = 0; i < uniqueSuggestions.length; i++) {
     var suggestion = uniqueSuggestions[i];
-    var li = document.createElement('li');
-    li.textContent = suggestion;
-    suggestionList.appendChild(li);
+    if (suggestion.toLowerCase().includes(searchInput.value.toLowerCase())) { // Check if suggestion matches the search query
+      var li = document.createElement('li');
+      li.textContent = suggestion;
+      suggestionList.appendChild(li);
+    }
   }
 }
+
 
 
   function renderResults(results) {
