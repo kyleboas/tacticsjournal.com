@@ -102,12 +102,14 @@
     renderResults(results);
   }
   
-  if (suggestionList.style.display === 'none') {
-    suggestionList.style.display = 'block'; // Show suggestions if they were hidden
+  if (results.length === 0 && query !== '') {
+    postList.innerHTML = '<p>No results found.</p>'; // Display "No results found" message if there are no matching posts
+  }
+  
+  if (suggestionList.style.display === 'none' && query !== '') {
+    suggestionList.style.display = 'block'; // Show suggestions if they were hidden and there is a query
   }
 }
-
-
 
   searchInput.addEventListener('input', function() {
     if (searchInput.value.trim() === '') {
