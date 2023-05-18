@@ -4,7 +4,7 @@
   
 (function () {
   var searchInput = document.getElementById('search-input');
-  var searchResults = document.getElementById('search-results');
+  var suggestionList = document.getElementById('suggestion-list');
   var postList = document.getElementById('post-list');
 
   var posts = [
@@ -51,8 +51,8 @@
 
   function renderResults(results) {
     postList.innerHTML = '';
-    searchResults.innerHTML = ''; // Clear any previous messages
-
+    suggestionList.innerHTML = ''; // Clear any previous messages
+    
     if (results.length === 0 && searchInput.value.trim() !== '') {
       searchResults.innerHTML = '<p>No results found.</p>'; // Show message only when there are no results and the search input is not empty
     } else {
