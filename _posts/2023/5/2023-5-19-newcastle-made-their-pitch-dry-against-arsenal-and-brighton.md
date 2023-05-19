@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-5-19 07:00:00 UTC
+date: 2023-5-2 07:00:00 UTC
 title: "Newcastle made their pitch dry against Arsenal and Brighton"
 categories: 
 - "Premier League" 
@@ -17,9 +17,7 @@ May 19, 2023 — The rule is that the home team gets to choose how tall and wate
 
 You can tell almost immediately by the way the ball moves.
 
-When the pitch is wet and cut low, the ball glides across the pitch quickly, perfect for high possession teams who want to play fast and short. 
-
-On a dry pitch, with longer grass, the ball moves slower, bobbles up and down, putting off passing and receiving, and often gets caught underneath dribblers' feet.
+When the pitch is wet and cut low, the ball glides across the pitch quickly, perfect for high possession teams who want to play fast and short. On a dry pitch, with longer grass, the ball moves slower, bobbles up and down, putting off passing and receiving, and often gets caught underneath dribblers' feet.
 
 Managers always complain about the state of the away pitch: 
 
@@ -87,9 +85,13 @@ They found themselves caught in situations like this.
 
 You have to put more power into the pass. It's a challenging aspect to judge, especially with the ball moving unpredictably. If you're not fully focused, you risk losing possession.
 
-The Brighton players weren't applying the correct amount of weight to their passes, which allowed Newcastle to close them down effectively during counter-pressing situations.
+The Brighton players weren't applying the correct amount of weight to their passes, which allowed Newcastle to close them down effectively when they counter-pressed them.
 
-These pitch conditions favor Newcastle because they prefer longer, more direct vertical passes over short ones, and this is their home field. They know precisely how much weight to put on the pass to make it effective.
+The ball's slow and sometimes erratic movement is all that I could focus on for the entire first half. It was distracting. You could never tell what it was going to do. You knew Brighton weren't going to advance the ball.
+
+There was no point in nit-picking their structure or the individual performances of players. It was all down to inexperience. 
+
+These pitch conditions favor Newcastle because they prefer longer, more direct vertical passes over short ones, and this is their home field. They know precisely how much weight to put on the pass to make it work. 
 
 Around the 43rd minute, Brighton started playing more direct passes and gradually grew into the game. However, by the time they adjusted, they were already trailing 2-0. They managed to score one goal, but the game ended 4-1. 
 
