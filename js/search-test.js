@@ -81,6 +81,9 @@
 
   if (searchQuery === '') {
     countElement.textContent = '';
+    
+     // Hide the <p> tag with id "p-result-count"
+    pResultCount.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
