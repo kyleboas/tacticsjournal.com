@@ -107,7 +107,7 @@
     var postsShown = results.length;
     var totalCount = posts.length;
     var countElement = document.getElementById('result-count');
-    countElement.innerHTML = postsShown + ' posts shown';
+    countElement.innerHTML = postsShown === 1 ? 'Past post' : 'Past ' + postsShown + ' posts';
     noResultsMessage.style.display = 'none';
     
     for (var i = 0; i < results.length; i++) {
