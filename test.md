@@ -3,7 +3,7 @@ layout: default
 ---
 
 <input type="text" id="search-input" placeholder="Search...">
-<p style="margin-top: -20px;"><span id="result-count"></span></p>
+<p id="p-result-count" style="margin-top: -20px;"><span id="result-count"></span></p>
 <ul id="suggestion-list"></ul>
 
 <ul id="post-list"></ul>
