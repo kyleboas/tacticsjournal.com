@@ -7,4 +7,4 @@ layout: default
 
 <ul id="post-list"></ul>
 
-<script src="/js/search-post.js"></script>
+<script src="/js/search-test.js"></script>
