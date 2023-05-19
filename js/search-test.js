@@ -12,10 +12,6 @@
     noResultsMessage = document.createElement('div');
     noResultsMessage.id = 'no-results-message';
 
-    var noResultsText = document.createElement('p');
-    noResultsText.textContent = 'No results found.';
-    noResultsMessage.appendChild(noResultsText);
-
     var imageLink = document.createElement('a');
     imageLink.href = '{{ site.baseurl }}/';
     var image = document.createElement('img');
@@ -83,14 +79,14 @@
 
   if (results.length === 0) {
     noResultsMessage.style.display = 'block'; // Show the message
-    document.getElementById('result-count').style.display = 'none'; // Hide the result count
+    document.getElementById('result-count').textContent = 'No posts found'; // Update the text
   } else {
     noResultsMessage.style.display = 'none'; // Hide the message
 
     var resultCount = results.length;
     var countElement = document.getElementById('result-count');
     countElement.style.display = 'inline'; // Show the result count
-    countElement.textContent = resultCount + ' posts'; // Update the count
+    countElement.textContent = resultCount + ' posts found.'; // Update the count
 
     for (var i = 0; i < results.length; i++) {
         var result = results[i];
