@@ -1,6 +1,7 @@
 ---
 ---
 
+
 (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
@@ -80,9 +81,6 @@
 
   if (searchQuery === '') {
     countElement.textContent = '';
-    
-     // Hide the <p> tag with id "p-result-count"
-    pResultCount.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
@@ -98,7 +96,6 @@
       postList.appendChild(li);
     }
   } else if (results.length === 0) {
-    noResultsMessage.style.display = 'block'; // Show the message
     countElement.textContent = 'No posts found';
   } else {
     var resultCount = results.length;
