@@ -100,7 +100,7 @@
     noResultsMessage.style.display = 'block'; // Show the message
   } else {
     var resultCount = results.length;
-    countElement.textContent = resultCount + ' posts found.'; // Update the count
+    countElement.textContent = resultCount + ' posts found'; // Update the count
 
     for (var i = 0; i < results.length; i++) {
         var result = results[i];
