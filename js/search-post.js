@@ -88,7 +88,7 @@
   var countElement = document.getElementById('result-count');
 
   if (searchQuery === '') {
-    countElement.textContent = 'Past 5 posts';
+    countElement.innerHTML = 'Past 5 posts. <a href="https://tacticsjournal.com/">View all ' + totalCount + ' posts</a>';
     noResultsMessage.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
@@ -105,13 +105,15 @@
       postList.appendChild(li);
     }
   } else if (results.length === 0) {
-    countElement.textContent = 'No posts found';
+    countElement.innerHTML = 'No posts found. <a href="https://tacticsjournal.com/">View all ' + totalCount + ' posts</a>';
     noResultsMessage.style.display = 'block'; // Show the message
   } else {
-    var resultCount = results.length;
-    countElement.textContent = resultCount + ' posts found'; // Update the count
+    var postsShown = results.length;
+    var totalCount = posts.length;
+    var countElement = document.getElementById('result-count');
+    countElement.innerHTML = postsShown + ' posts shown. <a href="https://tacticsjournal.com/">View all ' + totalCount + ' posts</a>';
     noResultsMessage.style.display = 'none';
-
+    
     for (var i = 0; i < results.length; i++) {
         var result = results[i];
         var li = document.createElement('li');
