@@ -48,7 +48,6 @@
 
     // Check if the post URL or title matches the query
     if (
-      post.title.toLowerCase().includes(query.toLowerCase()) ||
       post.url.toLowerCase().includes(query.toLowerCase())
     ) {
       continue; // Ignore the post and continue to the next iteration
