@@ -88,7 +88,7 @@
   var countElement = document.getElementById('result-count');
 
   if (searchQuery === '') {
-    countElement.textContent = 'All Posts';
+    countElement.textContent = 'Past 5 posts';
     noResultsMessage.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
