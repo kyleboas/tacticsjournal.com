@@ -11,10 +11,6 @@
     noResultsMessage = document.createElement('div');
     noResultsMessage.id = 'no-results-message';
 
-    var noResultsText = document.createElement('p');
-    noResultsText.textContent = 'No results found.';
-    noResultsMessage.appendChild(noResultsText);
-
     var imageLink = document.createElement('a');
     imageLink.href = '{{ site.baseurl }}/';
     var image = document.createElement('img');
@@ -88,7 +84,7 @@
   var countElement = document.getElementById('result-count');
 
   if (searchQuery === '') {
-    countElement.innerHTML = 'Past 5 posts. <a href="https://tacticsjournal.com/">View all ' + totalCount + ' posts</a>';
+    countElement.innerHTML = 'Past 5 posts — <a href="https://tacticsjournal.com/">View all posts</a>';
     noResultsMessage.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
@@ -105,13 +101,13 @@
       postList.appendChild(li);
     }
   } else if (results.length === 0) {
-    countElement.innerHTML = 'No posts found. <a href="https://tacticsjournal.com/">View all ' + totalCount + ' posts</a>';
+    countElement.innerHTML = 'No posts found — <a href="https://tacticsjournal.com/">View all posts</a>';
     noResultsMessage.style.display = 'block'; // Show the message
   } else {
     var postsShown = results.length;
     var totalCount = posts.length;
     var countElement = document.getElementById('result-count');
-    countElement.innerHTML = postsShown + ' posts shown. <a href="https://tacticsjournal.com/">View all ' + totalCount + ' posts</a>';
+    countElement.innerHTML = postsShown + ' posts shown — <a href="https://tacticsjournal.com/">View all posts</a>';
     noResultsMessage.style.display = 'none';
     
     for (var i = 0; i < results.length; i++) {
