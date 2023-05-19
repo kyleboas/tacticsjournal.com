@@ -96,6 +96,7 @@
       postList.appendChild(li);
     }
   } else if (results.length === 0) {
+    noResultsMessage.style.display = 'block'; // Show the message
     countElement.textContent = 'No posts found';
   } else {
     var resultCount = results.length;
