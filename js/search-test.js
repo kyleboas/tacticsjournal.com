@@ -79,13 +79,17 @@
   }
 
   function renderResults(results) {
-    postList.innerHTML = '';
+  postList.innerHTML = '';
 
-    if (results.length === 0) {
-      noResultsMessage.style.display = 'block'; // Show the message
-    } else {
-      noResultsMessage.style.display = 'none'; // Hide the message
+  if (results.length === 0) {
+    noResultsMessage.style.display = 'block'; // Show the message
+  } else {
+    noResultsMessage.style.display = 'none'; // Hide the message
 
+    var resultCount = results.length;
+    var countElement = document.getElementById('result-count');
+    countElement.textContent = resultCount + ' posts found.'; // Update the count
+    
       for (var i = 0; i < results.length; i++) {
         var result = results[i];
         var li = document.createElement('li');
