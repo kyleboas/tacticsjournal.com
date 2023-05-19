@@ -3,6 +3,7 @@ layout: default
 ---
 
 <input type="text" id="search-input" placeholder="Search...">
+<span id="result-count"></span>
 <ul id="suggestion-list"></ul>
 
 <ul id="post-list"></ul>
