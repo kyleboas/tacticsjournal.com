@@ -1,7 +1,6 @@
 ---
 ---
 
-
 (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
@@ -30,7 +29,7 @@
   }
 
   var posts = [
-  {% for post in site.posts %}
+    {% for post in site.posts %}
     {
       title: "{{ post.title | xml_escape }}",
       url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
@@ -38,89 +37,41 @@
       tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
       category: "{{ post.category | xml_escape }}"
     }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-   ];
+    {% endfor %}
+  ];
 
   function search(query) {
-  var results = [];
+    var results = [];
 
-  if (!query || query.trim() === '') {
-    return posts.slice(0, 5); // Return the first 5 posts if no query is provided or if it's blank
-  }
+    if (!query || query.trim() === '') {
+      return posts.slice(0, 5); // Return the first 5 posts if no query is provided or if it's blank
+    }
 
-  for (var i = 0; i < posts.length; i++) {
-    var post = posts[i];
+    for (var i = 0; i < posts.length; i++) {
+      var post = posts[i];
 
-    if (
-function search(query) {
-  var results = [];
+      if (
+        post.title.toLowerCase().includes(query.toLowerCase()) ||
+        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+        post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
+        post.category.toLowerCase().includes(query.toLowerCase()) // Add search in category
+      ) {
+        var highlightedTitle = highlightMatch(post.title, query);
+        var highlightedExcerpt = highlightMatch(post.excerpt, query);
+        results.push({
+          title: highlightedTitle,
+          url: post.url,
+          excerpt: highlightedExcerpt,
+          tags: post.tags
+        });
 
-  if (!query || query.trim() === '') {
-    return posts.slice(0, 5); // Return the first 5 posts if no query is provided or if it's blank
-  }
-
-  for (var i = 0; i < posts.length; i++) {
-    var post = posts[i];
-
-    if (
-      post.title.toLowerCase().includes(query.toLowerCase()) ||
-      post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-      post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-      post.category.toLowerCase().includes(query.toLowerCase()) // Add search in category
-    ) {
-      var highlightedTitle = highlightMatch(post.title, query);
-      var highlightedExcerpt = highlightMatch(post.excerpt, query);
-      results.push({
-        title: highlightedTitle,
-        url: post.url,
-        excerpt: highlightedExcerpt,
-        tags: post.tags
-      });
-
-      if (results.length === 5) { // Limit the number of results to 5
-        break;
+        if (results.length === 5) { // Limit the number of results to 5
+          break;
+        }
       }
     }
-  }
 
-  return results;
-}
-
-function renderResults(results) {
-  postList.innerHTML = '';
-
-  if (results.length === 0) {
-    noResultsMessage.style.display = 'block'; // Show the message
-  } else {
-    noResultsMessage.style.display = 'none'; // Hide the message
-
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item'); // Add a custom class for styling purposes
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-      postList.appendChild(li);
-
-      if (i === 4) { // Limit the number of rendered posts to 5
-        break;
-      }
-    }
-  }
-}
-
-
-
-  function highlightMatch(text, query) {
-    var regex = new RegExp(query, 'gi');
-    return text.replace(regex, function (match) {
-      return '<span class="highlight">' + match + '</span>';
-    });
+    return results;
   }
 
   function renderResults(results) {
@@ -147,6 +98,13 @@ function renderResults(results) {
     }
   }
 
+  function highlightMatch(text, query) {
+    var regex = new RegExp(query, 'gi');
+    return text.replace(regex, function (match) {
+      return '<span class="highlight">' + match + '</span>';
+    });
+  }
+
   // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
   if (searchQuery) {
@@ -159,6 +117,6 @@ function renderResults(results) {
     renderResults(results);
   });
 
-  // Initial render of all posts
-  renderResults(posts);
+  // Initial render of the first 5 posts
+  renderResults(posts.slice(0, 5));
 })();
