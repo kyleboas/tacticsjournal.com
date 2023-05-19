@@ -1,7 +1,7 @@
 ---
 ---
 
-  
+
 (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
@@ -9,9 +9,28 @@
   var noResultsMessage = document.getElementById('no-results-message');
 
   if (!noResultsMessage) {
-    noResultsMessage = document.createElement('p');
+    noResultsMessage = document.createElement('div');
     noResultsMessage.id = 'no-results-message';
-    noResultsMessage.textContent = 'No results found.';
+
+    var quoteBlock = document.createElement('blockquote');
+    var quoteParagraph = document.createElement('p');
+    quoteParagraph.textContent =
+      'All the managers in the world, it doesn\'t matter how good you are, if your players don\'t understand what you are looking for or what you want, it makes no sense. - Pep Guardiola';
+    quoteBlock.appendChild(quoteParagraph);
+    noResultsMessage.appendChild(quoteBlock);
+
+    var imageLink = document.createElement('a');
+    imageLink.href = '{{ site.baseurl }}/';
+    var image = document.createElement('img');
+    image.src = '/images/FE0024A5-5B8C-4CB7-84A7-0A88C8801B63.jpeg';
+    image.style.width = '100px';
+    imageLink.appendChild(image);
+    noResultsMessage.appendChild(imageLink);
+
+    var noResultsText = document.createElement('p');
+    noResultsText.textContent = 'No results found.';
+    noResultsMessage.appendChild(noResultsText);
+
     noResultsMessage.style.display = 'none'; // Initially hide the message
     postList.parentNode.insertBefore(noResultsMessage, postList); // Insert the message above the post-list
   }
