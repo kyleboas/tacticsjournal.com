@@ -81,6 +81,7 @@
 
   if (searchQuery === '') {
     countElement.textContent = '';
+    noResultsMessage.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
@@ -101,6 +102,7 @@
   } else {
     var resultCount = results.length;
     countElement.textContent = resultCount + ' posts found'; // Update the count
+    noResultsMessage.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
         var result = results[i];
