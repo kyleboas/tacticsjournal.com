@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-5-2 07:00:00 UTC
+date: 2023-5-19 07:00:00 UTC
 title: "Newcastle made their pitch dry against Arsenal and Brighton"
 categories: 
 - "Premier League" 
