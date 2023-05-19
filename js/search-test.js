@@ -83,14 +83,16 @@
 
   if (results.length === 0) {
     noResultsMessage.style.display = 'block'; // Show the message
+    document.getElementById('result-count').style.display = 'none'; // Hide the result count
   } else {
     noResultsMessage.style.display = 'none'; // Hide the message
 
     var resultCount = results.length;
     var countElement = document.getElementById('result-count');
-    countElement.textContent = resultCount + ' posts found.'; // Update the count
-    
-      for (var i = 0; i < results.length; i++) {
+    countElement.style.display = 'inline'; // Show the result count
+    countElement.textContent = resultCount + ' posts'; // Update the count
+
+    for (var i = 0; i < results.length; i++) {
         var result = results[i];
         var li = document.createElement('li');
         li.classList.add('post-item'); // Add a custom class for styling purposes
