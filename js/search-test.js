@@ -78,7 +78,8 @@
 
   var searchQuery = searchInput.value.trim();
   var countElement = document.getElementById('result-count');
-
+  var pResultCount = document.getElementById('p-result-count');
+    
   if (searchQuery === '') {
     countElement.textContent = '';
     
