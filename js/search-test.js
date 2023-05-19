@@ -103,10 +103,12 @@
   } else if (results.length === 0) {
     noResultsMessage.style.display = 'block'; // Show the message
     countElement.textContent = 'No posts found';
+    pResultCount.style.display = 'block';
   } else {
     var resultCount = results.length;
     countElement.textContent = resultCount + ' posts found.'; // Update the count
     noResultsMessage.style.display = 'none';
+    pResultCount.style.display = 'block';
     
     for (var i = 0; i < results.length; i++) {
         var result = results[i];
