@@ -97,6 +97,7 @@
     }
   } else if (results.length === 0) {
     countElement.textContent = 'No posts found';
+    noResultsMessage.style.display = 'block'; // Show the message
   } else {
     var resultCount = results.length;
     countElement.textContent = resultCount + ' posts found.'; // Update the count
