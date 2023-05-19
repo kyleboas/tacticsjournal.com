@@ -8,7 +8,7 @@
   var postList = document.getElementById('post-list');
   var noResultsMessage = document.createElement('p');
   noResultsMessage.textContent = 'No results found.';
-  noResultsMessage.style.display = 'none'; // Initially hide the message
+  noResultsMessage.classList.add('no-results-message'); // Add a class for styling purposes
 
   var posts = [
     // Posts data here
@@ -53,12 +53,11 @@
 
   function renderResults(results) {
     postList.innerHTML = '';
-    suggestionList.innerHTML = ''; // Clear any previous messages
 
     if (results.length === 0 && searchInput.value.trim() !== '') {
-      noResultsMessage.style.display = 'block'; // Show the message
+      postList.parentNode.insertBefore(noResultsMessage, postList); // Insert the message above the post-list
     } else {
-      noResultsMessage.style.display = 'none'; // Hide the message
+      noResultsMessage.remove(); // Remove the message if it was previously added
 
       var postsToRender = searchInput.value.trim() === '' ? posts : results;
 
@@ -77,9 +76,6 @@
       }
     }
   }
-
-  // Append the "No Results Found" message to the document
-  postList.parentNode.insertBefore(noResultsMessage, postList);
 
   // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
