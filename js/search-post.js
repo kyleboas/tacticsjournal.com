@@ -93,14 +93,14 @@
   if (searchQuery === '') {
     countElement.innerHTML = 'Past 5 posts';
     noResultsMessage.style.display = 'none';
-     
-    var filteredResults = results.filter(function(result) {
-    // Filter out posts that have a URL matching the search query 
-    return !result.url.toLowerCase().includes(searchQuery.toLowerCase());
-   });
 
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
+    var filteredResults = results.filter(function(result) {
+      // Filter out posts that have a URL matching the search query
+      return !result.url.toLowerCase().includes(searchQuery.toLowerCase());
+    });
+
+    for (var i = 0; i < filteredResults.length; i++) {
+      var result = filteredResults[i];
       var li = document.createElement('li');
       li.classList.add('post-item');
       var a = document.createElement('a');
