@@ -17,7 +17,9 @@ May 19, 2023 — The rule is that the home team gets to choose how tall and wate
 
 You can tell almost immediately by the way the ball moves.
 
-When the pitch is wet and cut low, the ball glides across the pitch quickly, perfect for high possession teams who want to play fast and short. On a dry pitch, with longer grass, the ball moves slower, bobbles up and down, putting off passing and receiving, and often gets caught underneath dribblers' feet.
+When the pitch is wet and cut low, the ball glides across the pitch quickly, perfect for high possession teams who want to play fast and short. 
+
+On a dry pitch, with longer grass, the ball moves slower, bobbles up and down, putting off passing and receiving, and often gets caught underneath dribblers' feet.
 
 Managers always complain about the state of the away pitch: 
 
