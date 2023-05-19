@@ -82,6 +82,7 @@
     
   if (searchQuery === '') {
     countElement.textContent = '';
+    noResultsMessage.style.display = 'none';
     
      // Hide the <p> tag with id "p-result-count"
     pResultCount.style.display = 'none';
@@ -105,7 +106,8 @@
   } else {
     var resultCount = results.length;
     countElement.textContent = resultCount + ' posts found.'; // Update the count
-
+    noResultsMessage.style.display = 'none';
+    
     for (var i = 0; i < results.length; i++) {
         var result = results[i];
         var li = document.createElement('li');
