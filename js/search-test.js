@@ -76,16 +76,16 @@
   function renderResults(results) {
   postList.innerHTML = '';
 
-  if (results.length === 0) {
-    noResultsMessage.style.display = 'block'; // Show the message
-    document.getElementById('result-count').textContent = 'No posts found'; // Update the text
-  } else {
-    noResultsMessage.style.display = 'none'; // Hide the message
+  var searchQuery = searchInput.value.trim();
+  var countElement = document.getElementById('result-count');
 
+  if (searchQuery === '') {
+    countElement.textContent = 'All posts'; // Display "All posts"
+  } else if (results.length === 0) {
+    countElement.textContent = 'No posts found'; // Display "No posts found"
+  } else {
     var resultCount = results.length;
-    var countElement = document.getElementById('result-count');
-    countElement.style.display = 'inline'; // Show the result count
-    countElement.textContent = resultCount + ' posts found'; // Update the count
+    countElement.textContent = resultCount + ' posts found.'; // Update the count
 
     for (var i = 0; i < results.length; i++) {
         var result = results[i];
@@ -104,25 +104,17 @@
   }
 
   // Get the search query from the URL
-  var searchQuery = new URLSearchParams(window.location.search).get('search');
-  if (searchQuery) {
+    var searchQuery = new URLSearchParams(window.location.search).get('search');
+   if (searchQuery) {
     searchInput.value = searchQuery;
   }
 
-  searchInput.addEventListener('input', function () {
-  var query = searchInput.value;
-  var results = search(query);
-  renderResults(results);
-
-  var countElement = document.getElementById('result-count');
-  if (query.trim() === '') {
-    countElement.style.display = 'none'; // Hide the result count
-  } else {
-    countElement.style.display = 'inline'; // Show the result count
-  }
-});
-
-
+   searchInput.addEventListener('input', function () {
+    var query = searchInput.value;
+    var results = search(query);
+    renderResults(results);
+   });
+   
   // Initial render of all posts
   renderResults(posts);
 })();
