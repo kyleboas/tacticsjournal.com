@@ -30,8 +30,16 @@
   }
 
   var posts = [
-    // Posts data here
-  ];
+  {% for post in site.posts %}
+    {
+      title: "{{ post.title | xml_escape }}",
+      url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
+      excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
+      tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
+      category: "{{ post.category | xml_escape }}"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+   ];
 
   function search(query) {
     var results = [];
