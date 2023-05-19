@@ -27,25 +27,11 @@ function copyToClipboard() {
   </div>
 
 <div class="PageNavigation">
-{% if page.next.url %}
-<div class="PageNavigation-Next">
-    <p>Next</p>
-    <a class="next" href="{{page.next.url}}">{{page.next.title}}</a><br>
-</div>
-{% endif %}
+   <input type="text" id="search-input" placeholder="Search...">
+   <ul id="suggestion-list"></ul>
 
-{% if page.previous.url %}
-<div class="PageNavigation-Previous">
-    <p>Previous</p>
-    <a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a>
+   <ul id="post-list"></ul>
 </div>
-{% endif %}
-</div>
-
-  <div class="Post-Search">
-    <input type="text" id="search-input" placeholder="Search...">
-    <button onclick="goToHomePage()">Go</button>
-  </div>
 
 <script>
   function goToHomePage() {
@@ -53,7 +39,7 @@ function copyToClipboard() {
     window.location.href = "/?search=" + encodeURIComponent(searchTerm);
   }
 </script>
-
+<script src="/js/search-post.js"></script>
   {% include disqus.html %}
 </article>
 
