@@ -73,16 +73,46 @@
 
     return results;
   }
+  
+  function highlightMatch(text, query) {
+    var regex = new RegExp(query, 'gi');
+    return text.replace(regex, function (match) {
+      return '<span class="highlight">' + match + '</span>';
+    });
+  }
 
   function renderResults(results) {
-    postList.innerHTML = '';
+  postList.innerHTML = '';
 
-    if (results.length === 0) {
-      noResultsMessage.style.display = 'block'; // Show the message
-    } else {
-      noResultsMessage.style.display = 'none'; // Hide the message
+  var searchQuery = searchInput.value.trim();
+  var countElement = document.getElementById('result-count');
 
-      for (var i = 0; i < results.length; i++) {
+  if (searchQuery === '') {
+    countElement.textContent = 'All Posts';
+    noResultsMessage.style.display = 'none';
+
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+      postList.appendChild(li);
+    }
+  } else if (results.length === 0) {
+    countElement.textContent = 'No posts found';
+    noResultsMessage.style.display = 'block'; // Show the message
+  } else {
+    var resultCount = results.length;
+    countElement.textContent = resultCount + ' posts found'; // Update the count
+    noResultsMessage.style.display = 'none';
+
+    for (var i = 0; i < results.length; i++) {
         var result = results[i];
         var li = document.createElement('li');
         li.classList.add('post-item'); // Add a custom class for styling purposes
@@ -96,13 +126,6 @@
         postList.appendChild(li);
       }
     }
-  }
-
-  function highlightMatch(text, query) {
-    var regex = new RegExp(query, 'gi');
-    return text.replace(regex, function (match) {
-      return '<span class="highlight">' + match + '</span>';
-    });
   }
 
   // Get the search query from the URL
