@@ -80,7 +80,7 @@
   var countElement = document.getElementById('result-count');
 
   if (searchQuery === '') {
-    countElement.textContent = '';
+    countElement.textContent = 'All Posts';
     noResultsMessage.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
