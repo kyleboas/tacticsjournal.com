@@ -110,10 +110,18 @@
   }
 
   searchInput.addEventListener('input', function () {
-    var query = searchInput.value;
-    var results = search(query);
-    renderResults(results);
-  });
+  var query = searchInput.value;
+  var results = search(query);
+  renderResults(results);
+
+  var countElement = document.getElementById('result-count');
+  if (query.trim() === '') {
+    countElement.style.display = 'none'; // Hide the result count
+  } else {
+    countElement.style.display = 'inline'; // Show the result count
+  }
+});
+
 
   // Initial render of all posts
   renderResults(posts);
