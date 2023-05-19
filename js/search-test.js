@@ -80,9 +80,23 @@
   var countElement = document.getElementById('result-count');
 
   if (searchQuery === '') {
-    countElement.textContent = 'All posts'; // Display "All posts"
+    countElement.textContent = 'All posts';
+
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+      postList.appendChild(li);
+    }
   } else if (results.length === 0) {
-    countElement.textContent = 'No posts found'; // Display "No posts found"
+    countElement.textContent = 'No posts found';
   } else {
     var resultCount = results.length;
     countElement.textContent = resultCount + ' posts found.'; // Update the count
