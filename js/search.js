@@ -1,7 +1,6 @@
 ---
 ---
 
-
 (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
@@ -12,15 +11,10 @@
     noResultsMessage = document.createElement('div');
     noResultsMessage.id = 'no-results-message';
 
-    var noResultsText = document.createElement('p');
-    noResultsText.textContent = 'No results found.';
-    noResultsMessage.appendChild(noResultsText);
-
     var imageLink = document.createElement('a');
     imageLink.href = '{{ site.baseurl }}/';
     var image = document.createElement('img');
     image.src = '{{ site.baseurl }}/images/FE0024A5-5B8C-4CB7-84A7-0A88C8801B63.jpeg';
-    image.alt = 'Constructocat by https://github.com/jasoncostello';
     image.style.width = '100px';
     imageLink.appendChild(image);
     noResultsMessage.appendChild(imageLink);
@@ -79,14 +73,38 @@
   }
 
   function renderResults(results) {
-    postList.innerHTML = '';
+  postList.innerHTML = '';
 
-    if (results.length === 0) {
-      noResultsMessage.style.display = 'block'; // Show the message
-    } else {
-      noResultsMessage.style.display = 'none'; // Hide the message
+  var searchQuery = searchInput.value.trim();
+  var countElement = document.getElementById('result-count');
 
-      for (var i = 0; i < results.length; i++) {
+  if (searchQuery === '') {
+    countElement.textContent = '';
+    
+     // Hide the <p> tag with id "p-result-count"
+    pResultCount.style.display = 'none';
+
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+      postList.appendChild(li);
+    }
+  } else if (results.length === 0) {
+    noResultsMessage.style.display = 'block'; // Show the message
+    countElement.textContent = 'No posts found';
+  } else {
+    var resultCount = results.length;
+    countElement.textContent = resultCount + ' posts found.'; // Update the count
+
+    for (var i = 0; i < results.length; i++) {
         var result = results[i];
         var li = document.createElement('li');
         li.classList.add('post-item'); // Add a custom class for styling purposes
@@ -103,17 +121,17 @@
   }
 
   // Get the search query from the URL
-  var searchQuery = new URLSearchParams(window.location.search).get('search');
-  if (searchQuery) {
+    var searchQuery = new URLSearchParams(window.location.search).get('search');
+   if (searchQuery) {
     searchInput.value = searchQuery;
   }
 
-  searchInput.addEventListener('input', function () {
+   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
     var results = search(query);
     renderResults(results);
-  });
-
+   });
+   
   // Initial render of all posts
   renderResults(posts);
 })();
