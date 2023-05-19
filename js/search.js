@@ -6,9 +6,15 @@
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
   var postList = document.getElementById('post-list');
-  var noResultsMessage = document.createElement('p');
-  noResultsMessage.textContent = 'No results found.';
-  noResultsMessage.classList.add('no-results-message'); // Add a class for styling purposes
+  var noResultsMessage = document.getElementById('no-results-message');
+
+  if (!noResultsMessage) {
+    noResultsMessage = document.createElement('p');
+    noResultsMessage.id = 'no-results-message';
+    noResultsMessage.textContent = 'No results found.';
+    noResultsMessage.style.display = 'none'; // Initially hide the message
+    postList.parentNode.insertBefore(noResultsMessage, postList); // Insert the message above the post-list
+  }
 
   var posts = [
     // Posts data here
@@ -55,9 +61,9 @@
     postList.innerHTML = '';
 
     if (results.length === 0 && searchInput.value.trim() !== '') {
-      postList.parentNode.insertBefore(noResultsMessage, postList); // Insert the message above the post-list
+      noResultsMessage.style.display = 'block'; // Show the message
     } else {
-      noResultsMessage.remove(); // Remove the message if it was previously added
+      noResultsMessage.style.display = 'none'; // Hide the message
 
       var postsToRender = searchInput.value.trim() === '' ? posts : results;
 
