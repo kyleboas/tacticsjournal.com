@@ -86,6 +86,10 @@
       return '<span class="highlight">' + match + '</span>';
     });
   }
+
+function getCurrentPageUrl() {
+    return window.location.href;
+  }
      
 function renderResults(results) {
   postList.innerHTML = '';
@@ -141,10 +145,6 @@ function renderResults(results) {
   }
 }
 
-
-  function getCurrentPageUrl() {
-    return window.location.href;
-  }
 
   // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
