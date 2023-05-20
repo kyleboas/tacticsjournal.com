@@ -45,20 +45,22 @@ Smaller distances, easier to quickly connect short passes, to pass out and progr
 
 Real Madrid were not prepared structurally to pressure Manchester City but if you compare and contrast this with what we saw [when City faced Fulham](https://tacticsjournal.com/Manuel-Akanji-weak-foot-and-bad-angles-at-left-center-back-in-Manchester-City-3-2), it’s night and day. 
 
-There was more than one option out when Manuel Akanji received the ball. 
+The pass back to Ruben Dias was almost always the only positive option, or a forced pass wide to Jack Grealish. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/30/Image-30Apr2023_19:09:42.jpeg">
-    <figcaption>Figure 4.1 - (30 April 2023 against Fulham) Akanji readies the pass but all the passing lanes are blocked off except for the pass to Jack Grealish, who is out of picture. </figcaption>
+    <img src="https://tacticsjournal.com/uploads/2023/04/30/Image-30Apr2023_19:09:23.jpeg">
+    <figcaption>Figure 4.1 - (30 April 2023 against Fulham) Akanji takes his first touch with his left foot to switch the ball to his right foot.</figcaption>
 </figure> 
 
-Manuel Akanji now had more options to connect play: the lateral pass to Rodri or Stones, and the back pass to Ruben Dias. Two options. 
+Manuel Akanji now had more options to connect play, with more comfortable angles to pass and receive the ball: 
+
+The lateral pass to Rodri or Stones, and the back pass to Ruben Dias. Two options. 
 
 Manuel Akanji inverting opens the pass out to Jack Grealish on the wing. A third option. 
 
 If Manchester City could manipulate Real Madrid's press by staggering players, it would open up space for Kyle Walker to be free on the far side. A fourth option. 
 
-More options, less problems. 
+And so on. More options, less problems. 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/19/Image-19May2023_20:37:01.jpeg">
