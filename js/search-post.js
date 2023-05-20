@@ -47,7 +47,7 @@
   for (var i = 0; i < posts.length; i++) {
     var post = posts[i];
 
-    // Check if the post URL or title matches the query
+    // Check if the post URL or title matches the query or current page's URL
     if (
       post.url.toLowerCase().includes(query.toLowerCase()) ||
       post.url === currentPageUrl
@@ -76,9 +76,9 @@
     }
   }
 
+  return results;
+}
 
-    return results;
-  }
   
   function highlightMatch(text, query) {
     var regex = new RegExp(query, 'gi');
