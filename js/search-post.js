@@ -86,55 +86,61 @@
       return '<span class="highlight">' + match + '</span>';
     });
   }
+     
+function renderResults(results) {
+  postList.innerHTML = '';
 
-  function renderResults(results) {
-    postList.innerHTML = '';
+  var searchQuery = searchInput.value.trim();
+  var countElement = document.getElementById('result-count');
 
-    var searchQuery = searchInput.value.trim();
+  if (searchQuery === '') {
+    countElement.innerHTML = 'Past 5 posts';
+    noResultsMessage.style.display = 'none';
+
+    // Filter out posts that match the current page's URL
+    var filteredResults = results.filter(function (post) {
+      return post.url !== getCurrentPageUrl();
+    });
+
+    for (var i = 0; i < filteredResults.length; i++) {
+      var result = filteredResults[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+      postList.appendChild(li);
+    }
+  } else if (results.length === 0) {
+    countElement.innerHTML = 'No posts found';
+    noResultsMessage.style.display = 'block'; // Show the message
+  } else {
+    var postsShown = results.length;
+    var totalCount = posts.length;
     var countElement = document.getElementById('result-count');
+    countElement.innerHTML = postsShown === 1 ? 'Past post' : 'Past ' + postsShown + ' posts';
+    noResultsMessage.style.display = 'none';
 
-    if (searchQuery === '') {
-      countElement.innerHTML = 'Past 5 posts';
-      noResultsMessage.style.display = 'none';
-
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-        var li = document.createElement('li');
-        li.classList.add('post-item');
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        li.appendChild(a);
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        li.appendChild(p);
-        postList.appendChild(li);
-      }
-    } else if (results.length === 0) {
-      countElement.innerHTML = 'No posts found';
-      noResultsMessage.style.display = 'block'; // Show the message
-    } else {
-      var postsShown = results.length;
-      var totalCount = posts.length;
-      var countElement = document.getElementById('result-count');
-      countElement.innerHTML = postsShown === 1 ? 'Past post' : 'Past ' + postsShown + ' posts';
-      noResultsMessage.style.display = 'none';
-
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-        var li = document.createElement('li');
-        li.classList.add('post-item'); // Add a custom class for styling purposes
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        li.appendChild(a);
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        li.appendChild(p);
-        postList.appendChild(li);
-      }
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item'); // Add a custom class for styling purposes
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      li.appendChild(a);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+      postList.appendChild(li);
     }
   }
+}
+
 
   function getCurrentPageUrl() {
     return window.location.href;
