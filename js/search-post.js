@@ -1,5 +1,6 @@
 ---
 ---
+  
 
 (function () {
   var searchInput = document.getElementById('search-input');
@@ -37,49 +38,48 @@
   ];
 
   function search(query) {
-  var results = [];
-  var currentPageUrl = getCurrentPageUrl(); // Get the URL of the current page
+    var results = [];
+    var currentPageUrl = getCurrentPageUrl(); // Get the URL of the current page
 
-  if (!query || query.trim() === '') {
-    return posts.slice(0, 5); // Return the first 5 posts if no query is provided or if it's blank
-  }
-
-  for (var i = 0; i < posts.length; i++) {
-    var post = posts[i];
-
-    // Check if the post URL or title matches the query or current page's URL
-    if (
-      post.url.toLowerCase().includes(query.toLowerCase()) ||
-      post.url === currentPageUrl
-    ) {
-      continue; // Ignore the post and continue to the next iteration
+    if (!query || query.trim() === '') {
+      return posts.slice(0, 5); // Return the first 5 posts if no query is provided or if it's blank
     }
 
-    if (
-      post.title.toLowerCase().includes(query.toLowerCase()) ||
-      post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-      post.tags.toLowerCase().includes(query.toLowerCase()) ||
-      post.category.toLowerCase().includes(query.toLowerCase())
-    ) {
-      var highlightedTitle = highlightMatch(post.title, query);
-      var highlightedExcerpt = highlightMatch(post.excerpt, query);
-      results.push({
-        title: highlightedTitle,
-        url: post.url,
-        excerpt: highlightedExcerpt,
-        tags: post.tags
-      });
+    for (var i = 0; i < posts.length; i++) {
+      var post = posts[i];
 
-      if (results.length === 5) { // Limit the number of results to 5
-        break;
+      // Check if the post URL or title matches the query or current page's URL
+      if (
+        post.url.toLowerCase().includes(query.toLowerCase()) ||
+        post.url === currentPageUrl
+      ) {
+        continue; // Ignore the post and continue to the next iteration
+      }
+
+      if (
+        post.title.toLowerCase().includes(query.toLowerCase()) ||
+        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+        post.tags.toLowerCase().includes(query.toLowerCase()) ||
+        post.category.toLowerCase().includes(query.toLowerCase())
+      ) {
+        var highlightedTitle = highlightMatch(post.title, query);
+        var highlightedExcerpt = highlightMatch(post.excerpt, query);
+        results.push({
+          title: highlightedTitle,
+          url: post.url,
+          excerpt: highlightedExcerpt,
+          tags: post.tags
+        });
+
+        if (results.length === 5) { // Limit the number of results to 5
+          break;
+        }
       }
     }
+
+    return results;
   }
 
-  return results;
-}
-
-  
   function highlightMatch(text, query) {
     var regex = new RegExp(query, 'gi');
     return text.replace(regex, function (match) {
@@ -88,39 +88,39 @@
   }
 
   function renderResults(results) {
-  postList.innerHTML = '';
+    postList.innerHTML = '';
 
-  var searchQuery = searchInput.value.trim();
-  var countElement = document.getElementById('result-count');
-
-  if (searchQuery === '') {
-    countElement.innerHTML = 'Past 5 posts';
-    noResultsMessage.style.display = 'none';
-
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-      postList.appendChild(li);
-    }
-  } else if (results.length === 0) {
-    countElement.innerHTML = 'No posts found';
-    noResultsMessage.style.display = 'block'; // Show the message
-  } else {
-    var postsShown = results.length;
-    var totalCount = posts.length;
+    var searchQuery = searchInput.value.trim();
     var countElement = document.getElementById('result-count');
-    countElement.innerHTML = postsShown === 1 ? 'Past post' : 'Past ' + postsShown + ' posts';
-    noResultsMessage.style.display = 'none';
-    
-    for (var i = 0; i < results.length; i++) {
+
+    if (searchQuery === '') {
+      countElement.innerHTML = 'Past 5 posts';
+      noResultsMessage.style.display = 'none';
+
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item');
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+        postList.appendChild(li);
+      }
+    } else if (results.length === 0) {
+      countElement.innerHTML = 'No posts found';
+      noResultsMessage.style.display = 'block'; // Show the message
+    } else {
+      var postsShown = results.length;
+      var totalCount = posts.length;
+      var countElement = document.getElementById('result-count');
+      countElement.innerHTML = postsShown === 1 ? 'Past post' : 'Past ' + postsShown + ' posts';
+      noResultsMessage.style.display = 'none';
+
+      for (var i = 0; i < results.length; i++) {
         var result = results[i];
         var li = document.createElement('li');
         li.classList.add('post-item'); // Add a custom class for styling purposes
@@ -134,6 +134,10 @@
         postList.appendChild(li);
       }
     }
+  }
+
+  function getCurrentPageUrl() {
+    return window.location.href;
   }
 
   // Get the search query from the URL
