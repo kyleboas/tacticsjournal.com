@@ -103,8 +103,9 @@ function renderResults(results) {
 
     // Filter out posts that match the current page's URL
     var filteredResults = results.filter(function (post) {
-      return post.url !== getCurrentPageUrl();
-    });
+    return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
+   });
+
 
     for (var i = 0; i < filteredResults.length; i++) {
       var result = filteredResults[i];
