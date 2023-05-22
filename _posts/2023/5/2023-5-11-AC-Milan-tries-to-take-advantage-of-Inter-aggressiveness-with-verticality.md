@@ -8,9 +8,6 @@ categories:
 tags: 
 - "AC Milan"
 - "Inter"
-- "ACM"
-- "INT"
-- "other"
 image: /uploads/2023/05/10/Image-10May2023_18:29:09.jpeg
 permalink: /AC-Milan-tries-to-take-advantage-of-Inter-aggressiveness-with-verticality/
 ---
