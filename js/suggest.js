@@ -3,7 +3,14 @@
     
 
 // Array of suggestions
-let suggestions = TagsCategories;
+let suggestions = [
+  {% for post in site.posts %}
+      {% assign post_tags = post.tags | join: '", "' %}
+      "{{ post_tags }}"{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
+
+console.log(tags);
 
 // Getting all required elements
 const searchInput = document.querySelector(".searchInput");
@@ -18,41 +25,43 @@ function select(element) {
   let selectedSuggestion = element.textContent;
   input.value = selectedSuggestion; // Autocomplete the search input field
   searchInput.classList.remove("active"); // Hide autocomplete box
+  resultBox.innerHTML = ""; // Clear the suggestion list
 }
 
-// Event listener for keyup event on the input field
-input.onkeyup = (e) => {
-  let userData = e.target.value; // User entered data
+
+
+// Event listener for input event on the input field
+input.addEventListener("input", (e) => {
+  let userData = e.target.value.trim(); // User entered data with leading/trailing whitespace removed
   let emptyArray = [];
   if (userData) {
     emptyArray = suggestions.filter((data) => {
-      // Filtering array value and user characters to lowercase and return only those words which start with user entered chars
-      return data.toLocaleLowerCase().startsWith(userData.toLocaleLowerCase());
+      return data.toLowerCase().startsWith(userData.toLowerCase());
     });
     emptyArray = emptyArray.map((data) => {
-      // Passing return data inside li tag
-      return (data = "<li>" + data + "</li>");
+      return "<li class='suggestion-item'>" + data + "</li>";
     });
-    searchInput.classList.add("active"); // Show autocomplete box
+    searchInput.classList.add("active");
     showSuggestions(emptyArray);
     let allList = resultBox.querySelectorAll("li");
     for (let i = 0; i < allList.length; i++) {
-      // Adding onclick attribute in all li tags
       allList[i].setAttribute("onclick", "select(this)");
     }
   } else {
-    searchInput.classList.remove("active"); // Hide autocomplete box
+    searchInput.classList.remove("active");
+    resultBox.innerHTML = ""; // Clear the suggestions
   }
-};
+});
+
 
 // Function to display the suggestions
 function showSuggestions(list) {
   let listData;
   if (!list.length) {
-    userValue = inputBox.value;
-    listData = "<li>" + userValue + "</li>";
+    listData = "<li class='suggestion-item'>" + userValue + "</li>";
   } else {
-    listData = list.join("");
+    let slicedArray = list.slice(0, 5); // Slice the array to include only the first 5 elements
+    listData = slicedArray.map((data) => "<li class='suggestion-item'>" + data + "</li>").join("");
   }
   resultBox.innerHTML = listData;
 }
