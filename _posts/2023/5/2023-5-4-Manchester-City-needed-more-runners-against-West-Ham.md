@@ -7,8 +7,6 @@ categories:
 tags: 
 - "Manchester City"
 - "West Ham"
-- "MCI"
-- "WHU"
 image: /uploads/2023/05/03/Image-03May2023_21:50:45.jpeg
 permalink: /Manchester-City-needed-more-runners-against-West-Ham/
 ---
