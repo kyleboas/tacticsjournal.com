@@ -9,13 +9,8 @@ categories:
 tags: 
 - "Tottenham"
 - "Liverpool"
-- "TOT"
-- "LIV"
-- "Inter Milan"
-- "INT"
+- "Inter"
 - "Chelsea"
-- "CHE"
-- "other"
 image: /uploads/2023/05/01/Image-01May2023_19:29:32.jpeg
 permalink: /Active-and-Waiting-defenders-in-a-flat-back-five/
 ---
