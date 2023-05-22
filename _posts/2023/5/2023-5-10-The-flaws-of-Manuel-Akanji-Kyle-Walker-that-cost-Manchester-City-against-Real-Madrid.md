@@ -9,8 +9,6 @@ categories:
 tags: 
 - "Manchester City"
 - "Real Madrid"
-- "MCI"
-- "MAD"
 image: /uploads/2023/05/09/Image-09May2023_20:31:35.jpeg
 permalink: /The-flaws-of-Manuel-Akanji-Kyle-Walker-that-cost-Manchester-City-against-Real-Madrid/
 ---
