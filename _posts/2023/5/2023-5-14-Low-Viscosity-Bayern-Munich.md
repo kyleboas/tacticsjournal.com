@@ -7,8 +7,6 @@ categories:
 tags: 
 - "Bayern Munich"
 - "Schalke"
-- "BAY"
-- "other"
 image: /uploads/2023/05/13/Image-13May2023_18:16:20.jpeg
 permalink: /Low-Viscosity-Bayern-Munich/
 ---
