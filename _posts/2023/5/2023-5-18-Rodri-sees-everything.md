@@ -9,7 +9,6 @@ categories:
 tags: 
 - "Manchester City"
 - "Real Madrid"
-- "MCI"
 image: /uploads/2023/05/17/Image-17May2023_20:56:47.jpeg
 ---
 
