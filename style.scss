@@ -432,8 +432,8 @@ cite {
 }
 
 .searchInput.active .resultBox{
-  padding: 10px 8px;
-  opacity: 1;
+  padding: 5px 5px;
+  opacity: 96%;
   pointer-events: auto;
 }
 
@@ -444,14 +444,40 @@ cite {
   width: 100%;
   cursor: default;
   border-radius: 3px;
+  list-style-type: none;
 }
 
 .searchInput.active .resultBox li{
   display: block;
   font-size: 12px;
 }
-.resultBox li:hover{
-  background: #efefef;
+
+.suggestion-item {
+  font-size: 10px;
+  margin-top: -10px;
+  padding-bottom: 0px;
+}
+
+.searchInput {
+  position: relative;
+}
+
+.resultBox {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 9999;
+  background-color: #Fecccc;
+  border-top: none;
+  max-height: 250px;
+  overflow-y: auto;
+  width: 150px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.resultBox:empty {
+  display: none;
 }
 
 .Post-Search {
