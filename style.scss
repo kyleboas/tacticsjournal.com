@@ -385,6 +385,7 @@ cite {
 #post-list {
   padding-left: 0px;
   list-style-type: none;
+  margin-top: 0;
 }
 
 .post-item {
@@ -418,6 +419,10 @@ cite {
   border: none;
   border-radius: 5px;
 }
+
+.searchInput.active {
+  padding-bottom: 10px;
+} 
 
 .searchInput.active input{
   border-radius: 5px 5px 0 0;
