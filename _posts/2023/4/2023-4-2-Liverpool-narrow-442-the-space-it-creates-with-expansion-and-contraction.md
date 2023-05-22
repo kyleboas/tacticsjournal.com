@@ -7,8 +7,6 @@ categories:
 tags: 
 - Manchester City 
 - Liverpool
-- MCI
-- LIV
 image: /uploads/2023/04/01/LIV_narrow_out_of_possession_vs_Man_City_01_Apr_2023_09_03_42.jpeg
 permalink: /Liverpool-narrow-442-the-space-it-creates-with-expansion-and-contraction/
 ---
