@@ -7,8 +7,6 @@ categories:
 tags:
 - "Arsenal"
 - "Southampton"
-- "ARS"
-- "SOT"
 image: /uploads/2023/04/21/Image-21Apr2023_19:44:35.jpeg
 permalink: /Aaron-Ramsdale-channels-his-inner-David-De-Gea/
 --- 
