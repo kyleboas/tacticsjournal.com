@@ -12,7 +12,7 @@ let suggestions = [
 {% assign unique_tags = all_tags | split: '", "' | uniq %}
 {% for tag in unique_tags %}
   "{{ tag }}"{% unless forloop.last %},{% endunless %}
-{% endfor %}
+{% endfor %},
 
 {% assign all_categories = "" %}
 {% for post in site.posts %}
@@ -22,7 +22,7 @@ let suggestions = [
 {% assign unique_categories = all_categories | split: '", "' | uniq %}
 {% for category in unique_categories %}
   "{{ category }}"{% unless forloop.last %},{% endunless %}
-{% endfor %}
+{% endfor %},
 ];
 
 
