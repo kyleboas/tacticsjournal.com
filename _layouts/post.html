@@ -27,12 +27,15 @@ function copyToClipboard() {
   </div>
 
 <div class="PageNavigation">
-   <input type="text" id="search-input" placeholder="Search...">
-   <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
-   <p id="p-all-posts-link" style="margin-top: -20px;"><span id="all-posts-link"><a href="https://tacticsjournal.com/">View all posts</a></span></p>
-   <ul id="suggestion-list"></ul>
-
-   <ul id="post-list"></ul>
+  <div class="searchInput">
+  <input type="text" id="search-input" placeholder="Search...">
+    <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
+    <p id="p-all-posts-link" style="margin-top: -20px;"><span id="all-posts-link"><a href="https://tacticsjournal.com/">View all posts</a></span></p>
+    <div class="resultBox">
+      <!-- here list are inserted from javascript -->
+   </div>
+  </div>
+    <ul id="post-list"></ul>
 </div>
 
 
@@ -41,7 +44,13 @@ function copyToClipboard() {
     var searchTerm = document.getElementById("search-input").value;
     window.location.href = "/?search=" + encodeURIComponent(searchTerm);
   }
+
+  document.getElementById("all-posts-link").addEventListener("click", function(e) {
+    e.preventDefault(); // Prevent the default link behavior
+    goToHomePage(); // Call the function to redirect to the homepage
+  });
 </script>
+<script src="/js/suggest.js"></script>
 <script src="/js/search-post.js"></script>
   {% include disqus.html %}
 </article>
