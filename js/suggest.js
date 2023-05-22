@@ -5,23 +5,21 @@
 // Array of suggestions
 let suggestions = [
 {% assign all_tags = "" %}
-{% assign all_categories = "" %}
-
 {% for post in site.posts %}
   {% assign post_tags = post.tags | join: '", "' %}
   {% assign all_tags = all_tags | append: '", "' | append: post_tags %}
-
-  {% assign post_categories = post.categories | join: '", "' %}
-  {% assign all_categories = all_categories | append: '", "' | append: post_categories %}
 {% endfor %}
-
 {% assign unique_tags = all_tags | split: '", "' | uniq %}
-{% assign unique_categories = all_categories | split: '", "' | uniq %}
-
 {% for tag in unique_tags %}
   "{{ tag }}"{% unless forloop.last %},{% endunless %}
 {% endfor %}
 
+{% assign all_categories = "" %}
+{% for post in site.posts %}
+  {% assign post_categories = post.categories | join: '", "' %}
+  {% assign all_categories = all_categories | append: '", "' | append: post_categories %}
+{% endfor %}
+{% assign unique_categories = all_categories | split: '", "' | uniq %}
 {% for category in unique_categories %}
   "{{ category }}"{% unless forloop.last %},{% endunless %}
 {% endfor %}
