@@ -1,54 +1,76 @@
 ---
 ---
+    
 
-(function () {
-  var searchInput = document.getElementById('search-input');
-  var suggestionList = document.getElementById('suggestion-list');
+// Array of suggestions
+let suggestions = [
+  {% assign all_tags = "" %}
+  {% for post in site.posts %}
+    {% assign post_tags = post.tags | join: '", "' %}
+    {% assign all_tags = all_tags | append: '", "' | append: post_tags %}
+  {% endfor %}
+  {% assign unique_tags = all_tags | split: '", "' | uniq %}
+  {% for tag in unique_tags %}
+    "{{ tag }}"{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+];
 
-  var posts = [
-    {% for post in site.posts %}
-      {
-        title: "{{ post.title | xml_escape }}",
-        url: "{{ site.baseurl }}{{ post.url | xml_escape }}"
-      }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ];
 
-  function getSuggestions(query) {
-    if (!query || query.trim() === '') {
-      return [];
+// Getting all required elements
+const searchInput = document.querySelector(".searchInput");
+const input = searchInput.querySelector("input");
+const resultBox = searchInput.querySelector(".resultBox");
+const icon = searchInput.querySelector(".icon");
+let linkTag = searchInput.querySelector("a");
+let webLink;
+
+// Function to handle suggestion selection
+function select(element) {
+  let selectedSuggestion = element.textContent;
+  input.value = selectedSuggestion;
+  searchInput.value = selectedSuggestion; // Set the value of the search input field in search.js
+
+  // Trigger the 'input' event to perform the search
+  var inputEvent = new InputEvent('input', { bubbles: true });
+  searchInput.dispatchEvent(inputEvent);
+
+  searchInput.classList.remove('active');
+  resultBox.innerHTML = "";
+}
+
+
+// Event listener for input event on the input field
+input.addEventListener("input", (e) => {
+  let userData = e.target.value.trim(); // User entered data with leading/trailing whitespace removed
+  let emptyArray = [];
+  if (userData) {
+    emptyArray = suggestions.filter((data) => {
+      return data.toLowerCase().startsWith(userData.toLowerCase());
+    });
+    emptyArray = emptyArray.map((data) => {
+      return "<li class='suggestion-item'>" + data + "</li>";
+    });
+    searchInput.classList.add("active");
+    showSuggestions(emptyArray);
+    let allList = resultBox.querySelectorAll("li");
+    for (let i = 0; i < allList.length; i++) {
+      allList[i].setAttribute("onclick", "select(this)");
     }
-
-    var lowerCaseQuery = query.toLowerCase();
-    var suggestions = posts
-      .filter(function (post) {
-        return post.title.toLowerCase().includes(lowerCaseQuery);
-      })
-      .map(function (post) {
-        return post.title;
-      });
-
-    return suggestions;
+  } else {
+    searchInput.classList.remove("active");
+    resultBox.innerHTML = ""; // Clear the suggestions
   }
+});
 
-  function showSuggestions() {
-    var query = searchInput.value;
-    var suggestions = getSuggestions(query);
-    var listData = '';
 
-    if (!suggestions.length) {
-      suggestionList.innerHTML = '';
-      return;
-    }
-
-    listData = suggestions
-      .map(function (data) {
-        return "<li class='suggestion-item'>" + data + '</li>';
-      })
-      .join('');
-
-    suggestionList.innerHTML = listData;
+// Function to display the suggestions
+function showSuggestions(list) {
+  let listData;
+  if (!list.length) {
+    listData = "<li class='suggestion-item'>" + userValue + "</li>";
+  } else {
+    let slicedArray = list.slice(0, 5); // Slice the array to include only the first 5 elements
+    listData = slicedArray.map((data) => "<li class='suggestion-item'>" + data + "</li>").join("");
   }
-
-  searchInput.addEventListener('input', showSuggestions);
-})();
+  resultBox.innerHTML = listData;
+}
