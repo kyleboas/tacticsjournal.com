@@ -9,7 +9,6 @@ categories:
 tags: 
 - "Manchester United"
 - "Sevilla"
-- "MUN"
 image: /uploads/2023/04/20/De_Gea_1.3-20Apr2023_22:06:16.jpeg
 permalink: /David-De-Gea-risky-pass-to-Maguire-facing-goal-costs-Manchester-United/
 ---
