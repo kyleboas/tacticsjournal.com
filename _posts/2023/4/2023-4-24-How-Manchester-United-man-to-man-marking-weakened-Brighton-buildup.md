@@ -8,8 +8,6 @@ categories:
 tags: 
 - "Manchester United"
 - "Brighton"
-- "MUN"
-- "BHA"
 image: /uploads/2023/04/24/1st_Half_1.1-24Apr2023_12:56:52.jpeg
 permalink: /How-Manchester-United-man-to-man-marking-weakened-Brighton-buildup/
 ---
