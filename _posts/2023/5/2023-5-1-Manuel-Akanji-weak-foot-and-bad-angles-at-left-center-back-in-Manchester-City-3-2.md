@@ -7,8 +7,6 @@ categories:
 tags: 
 - "Manchester City" 
 - "Fulham"
-- "MCI"
-- "FUL"
 image: /uploads/2023/04/30/Image-30Apr2023_19:09:42.jpeg
 permalink: /Manuel-Akanji-weak-foot-and-bad-angles-at-left-center-back-in-Manchester-City-3-2
 ---
