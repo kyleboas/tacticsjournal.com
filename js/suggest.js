@@ -4,13 +4,15 @@
 
 // Array of suggestions
 let suggestions = [
+  {% assign unique_tags = "" %}
   {% for post in site.posts %}
-      {% assign post_tags = post.tags | join: '", "' %}
+    {% assign post_tags = post.tags | join: '", "' %}
+    {% unless unique_tags contains post_tags %}
       "{{ post_tags }}"{% unless forloop.last %},{% endunless %}
+      {% assign unique_tags = unique_tags | append: post_tags | append: "," %}
+    {% endunless %}
   {% endfor %}
 ];
-
-console.log(tags);
 
 // Getting all required elements
 const searchInput = document.querySelector(".searchInput");
