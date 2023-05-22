@@ -30,9 +30,10 @@ function select(element) {
   searchInput.value = selectedSuggestion; // Set the value of the search input field in search.js
   searchInput.classList.remove('active');
   resultBox.innerHTML = "";
-  
-  // Trigger the 'input' event to perform the search
-  element.dispatchEvent(new Event('input', { bubbles: true }));
+
+  // Call the search function with the selected suggestion
+  var results = search(selectedSuggestion);
+  renderResults(results);
 }
 
 // Event listener for input event on the input field
