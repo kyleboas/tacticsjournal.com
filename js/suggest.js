@@ -28,6 +28,8 @@ let webLink;
 function select(element) {
   let selectedSuggestion = element.textContent;
   input.value = selectedSuggestion;
+  
+  var searchInput = document.getElementById("search-input");
   searchInput.value = selectedSuggestion; // Set the value of the search input field in search.js
 
   // Trigger the 'input' event to perform the search
@@ -37,6 +39,7 @@ function select(element) {
   searchInput.classList.remove('active');
   resultBox.innerHTML = "";
 }
+
 
 
 // Event listener for input event on the input field
