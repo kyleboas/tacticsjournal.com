@@ -5,7 +5,6 @@ categories:
 - Premier League
 tags:
 - Arsenal
-- ARS
 layout: post
 image: "/images/59F39F8D-5FC1-4887-B944-CA61FC2073E9.jpeg"
 permalink: /Arsenal-wide-4-4-2-out-of-possession-leads-to-open-space-between-the-lines/
