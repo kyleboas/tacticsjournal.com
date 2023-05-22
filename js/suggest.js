@@ -33,6 +33,8 @@ function select(element) {
   searchInput.classList.remove('active');
   resultBox.innerHTML = "";
 }
+   
+searchInput.dispatchEvent(new Event('input'));
 
 // Event listener for input event on the input field
 input.addEventListener("input", (e) => {
