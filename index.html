@@ -4,8 +4,11 @@ image: "/images/AFFB1761-E5AA-4594-BEE3-D9BF52A01D59.jpeg"
 ---
 
 <input type="text" id="search-input" placeholder="Search...">
-<p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
-<ul id="suggestion-list"></ul>
+  <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
+  <div class="resultBox">
+      <!-- here list are inserted from javascript -->
+  </div>
+    
 
 <ul id="post-list"></ul>
 
@@ -23,3 +26,4 @@ image: "/images/AFFB1761-E5AA-4594-BEE3-D9BF52A01D59.jpeg"
 });
 </script>
 <script src="/js/search.js"></script>
+<script src="/js/suggest.js"></script>
