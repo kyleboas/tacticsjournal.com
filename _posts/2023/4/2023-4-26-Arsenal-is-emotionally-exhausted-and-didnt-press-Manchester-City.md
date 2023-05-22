@@ -7,8 +7,6 @@ categories:
 tags: 
 - "Manchester City"
 - "Arsenal"
-- "MCI"
-- "ARS"
 image: /uploads/2023/04/26/Arsenal_low-block_1.1-26Apr2023_17:35:33.jpeg
 permalink: /Arsenal-is-emotionally-exhausted-and-didnt-press-Manchester-City/
 ---
