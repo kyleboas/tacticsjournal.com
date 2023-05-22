@@ -6,10 +6,6 @@ categories:
 tags:
 - Arsenal
 - Aston Villa
-- Leandro Trossard
-- Gabriel Jesus
-- ARS
-- AVL
 layout: post
 image: "/images/62192BF9-F5BF-4157-BE1E-08A607887F72.jpeg"
 permalink: /Was-Fred-at-fault-for-Liverpool-first-goal-against-Man-United/
