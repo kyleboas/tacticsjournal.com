@@ -32,7 +32,7 @@
       url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
       excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
       tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
-      category: "{{ post.category | xml_escape }}"
+      categories: "{{ post.categories | xml_escape }}"
     }{% unless forloop.last %},{% endunless %}
   {% endfor %}
    ];
@@ -51,7 +51,7 @@
         post.title.toLowerCase().includes(query.toLowerCase()) ||
         post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
         post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-        post.category.toLowerCase().includes(query.toLowerCase()) // Add search in category
+        post.categories.toLowerCase().includes(query.toLowerCase()) // Add search in categories
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
@@ -59,7 +59,8 @@
           title: highlightedTitle,
           url: post.url,
           excerpt: highlightedExcerpt,
-          tags: post.tags
+          tags: post.tags,
+          categories: post.categories
         });
       }
     }
