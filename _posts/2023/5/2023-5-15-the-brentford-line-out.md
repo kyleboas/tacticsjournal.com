@@ -7,8 +7,6 @@ categories:
 tags: 
 - "Brentford"
 - "West Ham"
-- "BRE"
-- "WHU"
 image: /uploads/2023/05/14/Image-14May2023_20:58:47.jpeg
 ---
 
