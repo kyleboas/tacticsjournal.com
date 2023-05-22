@@ -7,8 +7,6 @@ categories:
 tags: 
 - "Manchester City"
 - "Leeds United"
-- "MCI"
-- "LEE"
 image: /uploads/2023/05/06/Image-06May2023_20:28:29.jpeg
 permalink: /Rico-Lewis-deserves-to-start-regularly/
 ---
