@@ -18,6 +18,9 @@ let suggestions = [
 {% assign unique_tags = all_tags | split: '", "' | uniq %}
 {% assign unique_categories = all_categories | split: '", "' | uniq %}
 
+{% assign unique_tags = unique_tags | where: 'size', '!=', 0 %}
+{% assign unique_categories = unique_categories | where: 'size', '!=', 0 %}
+
 {% for tag in unique_tags %}
   "{{ tag }}"{% unless forloop.last %},{% endunless %}
 {% endfor %}
