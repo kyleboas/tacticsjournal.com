@@ -4,8 +4,7 @@ date: 2023-01-20 00:00:00 Z
 categories:
 - Premier League
 tags:
-- Man City
-- MCI
+- Manchester City
 layout: post
 image: "/images/3FD68650-B90A-46A8-9AEC-E25BA2635879.webp"
 permalink: /Man-City-2–3-with-inverted-lb-or-rb-leaves-them-too-vulnerable/
