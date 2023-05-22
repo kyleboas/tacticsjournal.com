@@ -7,8 +7,6 @@ categories:
 tags: 
 - "West Ham"
 - "Crystal Palace"
-- "WHU"
-- "CRY"
 image: /uploads/2023/04/29/Image-29Apr2023_19:15:53.jpeg 
 permalink: /West-Ham-and-Emperor-Penguins/
 ---
