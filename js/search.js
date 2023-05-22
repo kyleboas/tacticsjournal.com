@@ -1,7 +1,3 @@
----
----
-
-
 (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
@@ -26,16 +22,16 @@
   }
 
   var posts = [
-  {% for post in site.posts %}
-    {
-      title: "{{ post.title | xml_escape }}",
-      url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
-      excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
-      tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
-      category: "{{ post.category | xml_escape }}"
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-   ];
+    {% for post in site.posts %}
+      {
+        title: "{{ post.title | xml_escape }}",
+        url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
+        excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
+        tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
+        category: "{{ post.category | xml_escape }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
 
   function search(query) {
     var results = [];
@@ -50,8 +46,8 @@
       if (
         post.title.toLowerCase().includes(query.toLowerCase()) ||
         post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-        post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-        post.category.toLowerCase().includes(query.toLowerCase()) // Add search in category
+        post.tags.toLowerCase().includes(query.toLowerCase()) ||
+        post.category.toLowerCase().includes(query.toLowerCase())
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
@@ -74,41 +70,20 @@
     });
   }
 
-  function renderResults(results) {
-  postList.innerHTML = '';
+  function renderResults(results, query) {
+    postList.innerHTML = '';
 
-  var searchQuery = searchInput.value.trim();
-  var countElement = document.getElementById('result-count');
+    var searchQuery = searchInput.value.trim();
+    var countElement = document.getElementById('result-count');
 
-  if (searchQuery === '') {
-    countElement.textContent = 'All Posts';
-    noResultsMessage.style.display = 'none';
+    if (searchQuery === '') {
+      countElement.textContent = 'All Posts';
+      noResultsMessage.style.display = 'none';
 
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-      postList.appendChild(li);
-    }
-  } else if (results.length === 0) {
-    countElement.textContent = 'No posts found';
-    noResultsMessage.style.display = 'block'; // Show the message
-  } else {
-    var resultCount = results.length;
-    countElement.textContent = resultCount + ' posts found'; // Update the count
-    noResultsMessage.style.display = 'none';
-
-    for (var i = 0; i < results.length; i++) {
+      for (var i = 0; i < results.length; i++) {
         var result = results[i];
         var li = document.createElement('li');
-        li.classList.add('post-item'); // Add a custom class for styling purposes
+        li.classList.add('post-item');
         var a = document.createElement('a');
         a.href = result.url;
         a.innerHTML = result.title;
@@ -118,24 +93,77 @@
         li.appendChild(p);
         postList.appendChild(li);
       }
+    } else {
+      countElement.textContent = 'Search Results for "' + query + '"';
+      if (results.length === 0) {
+        noResultsMessage.style.display = 'block';
+      } else {
+        noResultsMessage.style.display = 'none';
+        for (var i = 0; i < results.length; i++) {
+          var result = results[i];
+          var li = document.createElement('li');
+          li.classList.add('post-item');
+          var a = document.createElement('a');
+          a.href = result.url;
+          a.innerHTML = result.title;
+          li.appendChild(a);
+          var p = document.createElement('p');
+          p.innerHTML = result.excerpt;
+          li.appendChild(p);
+          postList.appendChild(li);
+        }
+      }
     }
   }
-   
-   // Get the search query from the URL
+
+  function showSuggestions(list) {
+    var userValue = searchInput.value;
+    var listData;
+
+    if (!list.length) {
+      listData = "<li class='suggestion-item'>" + userValue + "</li>";
+    } else {
+      var slicedArray = list.slice(0, 5); // Slice the array to include only the first 5 elements
+      listData = slicedArray
+        .map(function (data) {
+          return "<li class='suggestion-item'>" + data + '</li>';
+        })
+        .join('');
+    }
+
+    suggestionList.innerHTML = listData;
+
+    var suggestionItems = suggestionList.querySelectorAll('.suggestion-item');
+    suggestionItems.forEach(function (item) {
+      item.addEventListener('click', function () {
+        select(item); // Call the select function when a suggestion is clicked
+      });
+    });
+  }
+
+  // Function to handle suggestion selection
+  function select(element) {
+    var selectedSuggestion = element.textContent;
+    searchInput.value = selectedSuggestion;
+
+    // Trigger the 'input' event to perform the search
+    var inputEvent = new InputEvent('input', { bubbles: true });
+    searchInput.dispatchEvent(inputEvent);
+  }
+
+  // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
   if (searchQuery) {
     searchInput.value = searchQuery;
-    var results = search(searchQuery); // Perform search with the query
-    renderResults(results, searchQuery); // Pass the results and query to render
+
+    // Trigger the 'input' event to perform the search
+    var inputEvent = new InputEvent('input', { bubbles: true });
+    searchInput.dispatchEvent(inputEvent);
   }
 
-  // Event listener for input event on the searchInput element
   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
     var results = search(query);
-    renderResults(results, query); // Pass the results and query to render
+    renderResults(results, query);
   });
-   
-  // Initial render of all posts
-  renderResults(posts);
 })();
