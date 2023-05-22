@@ -27,12 +27,12 @@ let webLink;
 // Function to handle suggestion selection
 function select(element) {
   let selectedSuggestion = element.textContent;
-  input.value = selectedSuggestion; // Autocomplete the search input field
-  searchInput.classList.remove("active"); // Hide autocomplete box
-  resultBox.innerHTML = ""; // Clear the suggestion list
+  input.value = selectedSuggestion;
+  searchInput.value = selectedSuggestion; // Set the value of the search input field in search.js
+  searchInput.dispatchEvent(new Event('input')); // Trigger the 'input' event to perform the search
+  searchInput.classList.remove('active');
+  resultBox.innerHTML = "";
 }
-
-
 
 // Event listener for input event on the input field
 input.addEventListener("input", (e) => {
