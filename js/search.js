@@ -120,18 +120,21 @@
       }
     }
   }
-
-  // Get the search query from the URL
-    var searchQuery = new URLSearchParams(window.location.search).get('search');
-   if (searchQuery) {
+   
+   // Get the search query from the URL
+  var searchQuery = new URLSearchParams(window.location.search).get('search');
+  if (searchQuery) {
     searchInput.value = searchQuery;
+    var results = search(searchQuery); // Perform search with the query
+    renderResults(results, searchQuery); // Pass the results and query to render
   }
 
-   searchInput.addEventListener('input', function () {
+  // Event listener for input event on the searchInput element
+  searchInput.addEventListener('input', function () {
     var query = searchInput.value;
     var results = search(query);
-    renderResults(results);
-   });
+    renderResults(results, query); // Pass the results and query to render
+  });
    
   // Initial render of all posts
   renderResults(posts);
