@@ -7,9 +7,6 @@ categories:
 tags:
 - "Bayern Munich"
 - "Mainz"
-- "BAY"
-- "M05"
-- "other"
 image: /uploads/2023/04/22/Image-22Apr2023_20:41:08.jpeg
 permalink: /What-happened-to-Bayern-Munich-vs-Mainz-in-their-3-1-loss/
 --- 
