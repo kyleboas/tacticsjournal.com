@@ -7,8 +7,6 @@ categories:
 tags: 
 - "Manchester United"
 - "Brighton"
-- "MUN"
-- "BHA"
 image: /uploads/2023/05/04/Image-04May2023_19:47:47.jpeg
 permalink: /Manchester-United-are-too-good-at-maintaining-numerical-superiority-in-transition/
 ---
