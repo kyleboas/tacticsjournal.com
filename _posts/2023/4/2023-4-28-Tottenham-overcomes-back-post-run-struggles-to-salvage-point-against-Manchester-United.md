@@ -7,8 +7,6 @@ categories:
 tags: 
 - "Tottenham"
 - "Manchester United"
-- "TOT"
-- "MUN"
 image: /uploads/2023/04/28/Image-28Apr2023_15:27:35.jpeg
 permalink: /Tottenham-overcomes-back-post-run-struggles-to-salvage-point-against-Manchester-United/
 ---
