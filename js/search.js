@@ -1,3 +1,6 @@
+---
+---
+  
 (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
