@@ -12,6 +12,40 @@ permalink: /preview/
   <p>Hello</p>
 
 <ul id="post-list"></ul>
-    
+
+
+<style>
+.suggestion-item {
+  font-size: 12px;
+  padding-top: 1px;
+  padding-bottom: 5px;
+}
+
+.resultBox li {
+  list-style-type: none;
+}
+
+.searchInput {
+  position: relative;
+}
+
+.resultBox {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 9999;
+  background-color: #fff;
+  border-top: none;
+  max-height: 250px;
+  overflow-y: auto;
+  width: 145px;
+  font-family:  pt-serif-pro, sans-serif;
+  padding-left: 10px;
+  font-weight: bold;
+}
+.resultBox:empty {
+  display: none;
+}
+</style>
 <script src="/js/suggest.js"></script>
 <script src="/js/TagsCategories.js"></script>
