@@ -9,8 +9,6 @@ tags:
 - "Arsenal"
 - "Liverpool"
 - "Aston Villa"
-- "MCI"
-- "ARS"
 image: /uploads/2023/04/27/Akanji_1.1-27Apr2023_10:01:31.jpeg
 permalink: /The-space-Manuel Akanji-positioning-creates/
 ---
