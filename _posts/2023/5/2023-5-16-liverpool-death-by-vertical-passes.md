@@ -6,9 +6,7 @@ categories:
 - "Premier League"
 tags: 
 - "Liverpool"
-- "Leicester"
-- "LIV"
-- "LEI"
+- "Leicester City"
 image: /uploads/2023/05/15/Image-15May2023_21:05:38.jpeg
 ---
 
