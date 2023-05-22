@@ -24,17 +24,20 @@ const icon = searchInput.querySelector(".icon");
 let linkTag = searchInput.querySelector("a");
 let webLink;
 
+// Function to handle suggestion selection
 function select(element) {
   let selectedSuggestion = element.textContent;
   input.value = selectedSuggestion;
   searchInput.value = selectedSuggestion; // Set the value of the search input field in search.js
+
+  // Trigger the 'input' event to perform the search
+  var inputEvent = new InputEvent('input', { bubbles: true });
+  searchInput.dispatchEvent(inputEvent);
+
   searchInput.classList.remove('active');
   resultBox.innerHTML = "";
-
-  // Call the search function with the selected suggestion
-  var results = search(selectedSuggestion);
-  renderResults(results);
 }
+
 
 // Event listener for input event on the input field
 input.addEventListener("input", (e) => {
