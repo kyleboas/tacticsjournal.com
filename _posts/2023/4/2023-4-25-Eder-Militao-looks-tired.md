@@ -7,7 +7,6 @@ categories:
 tags: 
 - "Real Madrid"
 - "Girona"
-- "other"
 image: /uploads/2023/04/25/Militao_1.1-25Apr2023_18:48:00.jpeg
 permalink: /Eder-Militao-looks-tired/
 ---
