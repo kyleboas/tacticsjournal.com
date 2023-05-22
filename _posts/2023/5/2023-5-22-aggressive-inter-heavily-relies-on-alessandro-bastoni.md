@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-5-22 05:30:00 -0500
+date: 2023-5-22 08:00:00 UTC
 title: "Aggressive Inter heavily relies on Alessandro Bastoni"
 categories: 
 - "Serie A"
