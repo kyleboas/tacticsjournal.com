@@ -7,8 +7,6 @@ categories:
 tags: 
 - "Arsenal"
 - "Chelsea"
-- "ARS"
-- "CHE"
 image: /uploads/2023/05/02/Image-02May2023_21:57:11.jpeg
 permalink: /Jakub-Kiwior-left-side-passing-bias-at-right-center-back-for-Arsenal/
 ---
