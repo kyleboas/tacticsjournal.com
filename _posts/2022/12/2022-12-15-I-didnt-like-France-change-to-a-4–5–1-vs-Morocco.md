@@ -7,7 +7,6 @@ categories:
 tags:
 - France
 - Morocco
-- other
 layout: post
 image: "/images/40085DA8-FA26-4A83-B8A3-00A3C9E65BB4.jpeg"
 permalink: /I-didnt-like-France-change-to-a-4–5–1-vs-Morocco/
