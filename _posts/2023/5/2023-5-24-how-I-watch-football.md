@@ -111,7 +111,7 @@ If I'm watching a match to scout a specific player, I'll follow them, but otherw
 
 And then I'll try to spot players that are free, looking for lapses in judgment from defenders that allow space to open up. Watching player movement off-the-ball to see plays before they develop. I'm looking at who the ball could be played to, putting myself in the shoes of the player with the ball. 
 
-Every player and team is different, but most teams will stick with the same shapes. I'm looking for deviations from that shape, who moves where, when, and then trying to identify why. Try to find up things players aren’t doing. 
+Every player and team is different, but most teams will stick with the same shapes. I'm looking for deviations from that shape, who moves where, when, and then trying to identify why. Try to find the things players aren’t doing. 
 
 I never comment on a team unless I have watched them play several times, several matches. I can have initial simple thoughts, but it's impossible to have a full developed opinion without knowing the players. 
 
