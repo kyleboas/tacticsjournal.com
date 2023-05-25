@@ -106,4 +106,6 @@ Inter allows space wide and packs the middle out of possession. Their strength i
 
 They want you to play out wide because they will win the headers when the ball is crossed in. They are sure of themselves and confident. Every tackle is assertive and accurate. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pep Guardiola starts by referencing Inter&#39;s body language when discussing his initial review of their recent matches before Man City&#39;s Champions League final match. He consistently gives priority to details pertaining to the players before addressing any other aspects. <a href="https://t.co/Kh8D3tHb0M">pic.twitter.com/Kh8D3tHb0M</a></p>&mdash; Tactics Journal (@TacticsJournal) <a href="https://twitter.com/TacticsJournal/status/1661139238287540224?ref_src=twsrc%5Etfw">May 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Inter looked sharp and resolute. 
