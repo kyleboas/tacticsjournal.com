@@ -12,6 +12,8 @@ image: /uploads/2023/05/26/Image-26May2023_14:24:58.jpeg
 
 May 27, 2023 — Jan Paul van Hecke and Levi Colwill were the stars of Brighton's aggressive and brave man-to-man marking counter-press, putting pressure on Manchester City's midfielders and Erling Haaland.
 
+<!---more--->
+
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/26/Image-26May2023_14:24:58.jpeg">
     <figcaption>Figure 1.1 - Brighton man-to-man mark allowing Jan Paul van Hecke to challenge the ball.</figcaption>
