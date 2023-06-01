@@ -33,7 +33,7 @@ Some may see Nemanja Matic injured and hobbling around the pitch as a deficit. J
 
 Start the clock. 
 
-Nemanja Matic hobbled around the pitch for a total of time before finally dropping and requesting attention from Roma's medical staff. 
+Nemanja Matic hobbled around the pitch before finally dropping and requesting attention from Roma's medical staff. 
 
 From the way he was moving before and then, he clearly couldn't continue. But to everyone's surprise, he came back on. 
 
