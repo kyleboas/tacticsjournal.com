@@ -24,7 +24,7 @@ From the start of the 2nd half onwards, Roma were in full low-block mode, the lo
 
 The dark arts. Time wasting.
 
-Some may see Mateo Kovacic injured and hobbling around the pitch as a deficit. José sees an opportunity. 
+Some may see Nemanja Matic injured and hobbling around the pitch as a deficit. José sees an opportunity. 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/31/Image-31May2023_20:51:42.jpeg">
