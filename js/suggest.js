@@ -38,6 +38,7 @@ let webLink;
 function select(element) {
   let selectedSuggestion = element.textContent;
   input.value = selectedSuggestion;
+  resultBox.innerHTML = ""; // Clear the suggestions
   
   var searchInput = document.getElementById("search-input");
   searchInput.value = selectedSuggestion; // Set the value of the search input field in search.js
