@@ -41,16 +41,25 @@ function select(element) {
   input.value = selectedSuggestion;
   resultBox.innerHTML = ""; // Clear the suggestions
   
+  // Set the value of the search input field in search.js
   var searchInput = document.getElementById("search-input");
-  searchInput.value = selectedSuggestion; // Set the value of the search input field in search.js
+  searchInput.value = selectedSuggestion;
 
   // Trigger the 'input' event to perform the search
-  var inputEvent = new InputEvent('input', { bubbles: true });
+  var inputEvent = new Event('input');
   searchInput.dispatchEvent(inputEvent);
 
   searchInput.classList.remove('active');
   resultBox.innerHTML = "";
 }
+
+// Event listener for suggestion item clicks
+resultBox.addEventListener("click", function(e) {
+  if (e.target && e.target.matches("li.suggestion-item")) {
+    select(e.target);
+  }
+});
+
 
 
 // Event listener for input event on the input field
