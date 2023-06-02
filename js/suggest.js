@@ -58,16 +58,16 @@ input.addEventListener("input", (e) => {
   let emptyArray = [];
   if (userData) {
     emptyArray = suggestions.filter((data) => {
-      return data.toLowerCase().startsWith(userData.toLowerCase());
+      return data.toLowerCase().includes(userData.toLowerCase());
     });
-    emptyArray = emptyArray.map((data) => {
-      return "<li class='suggestion-item'>" + data + "</li>";
-    });
-    searchInput.classList.add("active");
-    showSuggestions(emptyArray);
-    let allList = resultBox.querySelectorAll("li");
-    for (let i = 0; i < allList.length; i++) {
-      allList[i].setAttribute("onclick", "select(this)");
+
+    if (emptyArray.length > 0) {
+      searchInput.classList.add("active");
+      let listData = emptyArray.map((data) => "<li class='suggestion-item'>" + data + "</li>").join("");
+      resultBox.innerHTML = listData;
+    } else {
+      searchInput.classList.remove("active");
+      resultBox.innerHTML = ""; // Clear the suggestions
     }
   } else {
     searchInput.classList.remove("active");
