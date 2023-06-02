@@ -33,7 +33,8 @@ const resultBox = searchInput.querySelector(".resultBox");
 const icon = searchInput.querySelector(".icon");
 let linkTag = searchInput.querySelector("a");
 let webLink;
-
+ 
+ 
 // Function to handle suggestion selection
 function select(element) {
   let selectedSuggestion = element.textContent;
@@ -50,7 +51,6 @@ function select(element) {
   searchInput.classList.remove('active');
   resultBox.innerHTML = "";
 }
-
 
 
 // Event listener for input event on the input field
