@@ -27,7 +27,7 @@ let suggestions = [
 
 
 // Getting all required elements
-const searchInput = document.querySelector(".searchInput");
+const searchInput = document.getElementById("search-input");
 const input = searchInput.querySelector("input");
 const resultBox = searchInput.querySelector(".resultBox");
 const icon = searchInput.querySelector(".icon");
