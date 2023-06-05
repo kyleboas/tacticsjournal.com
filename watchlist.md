@@ -69,6 +69,7 @@ layout: page
     const closeBtn = popup.querySelector('.popup-close');
 
     closeBtn.addEventListener('click', function () {
+      popup.classList.remove('popup-active');
       popupWrapper.style.display = 'none';
       document.body.style.overflow = 'auto';
     });
@@ -84,6 +85,7 @@ layout: page
       document.body.style.overflow = 'hidden';
     });
   });
+});
 });
 
   </script>
