@@ -9,6 +9,92 @@ layout: page
 
 ### U20
 
+<style>
+    .popup {
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: #fff;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      z-index: 9999;
+    }
+
+    .popup-close {
+      position: absolute;
+      top: 5px;
+      right: 10px;
+      cursor: pointer;
+    }
+  </style>
+  <script>
+    window.addEventListener('DOMContentLoaded', function () {
+      const popups = document.querySelectorAll('.popup');
+
+      popups.forEach(function (popup) {
+        const name = popup.id;
+        const link = document.querySelector('a[name="' + name + '"]');
+        const closeBtn = popup.querySelector('.popup-close');
+
+        link.addEventListener('click', function (e) {
+          e.preventDefault();
+          popup.style.display = 'block';
+        });
+
+        closeBtn.addEventListener('click', function () {
+          popup.style.display = 'none';
+        });
+      });
+    });
+  </script>
+</head>
+<body>
+  <table>
+    <tr>
+      <th></th>
+      <th>Name</th>
+      <th>Team</th>
+      <th>Added</th>
+    </tr>
+    <tr>
+      <td><strong>1</strong></td>
+      <td><a href="#" name="Youssoufa Moukoko">Youssoufa Moukoko</a></td>
+      <td>Dortmund</td>
+      <td>4/23/23</td>
+    </tr>
+    <tr>
+      <td><strong>2</strong></td>
+      <td><a href="#" name="Evan Ferguson">Evan Ferguson</a></td>
+      <td>Brighton</td>
+      <td>4/23/23</td>
+    </tr>
+    <tr>
+      <td><strong>3</strong></td>
+      <td><a href="#" name="Benjamin Šeško">Benjamin Šeško</a></td>
+      <td>Red Bull Salzburg</td>
+      <td>4/23/23</td>
+    </tr>
+    <tr>
+      <td><strong>4</strong></td>
+      <td><a href="#" name="Divin Mubama">Divin Mubama</a></td>
+      <td>West Ham</td>
+      <td>4/23/23</td>
+    </tr>
+  </table>
+
+  <div class="popup" id="Youssoufa Moukoko">
+    <h2>Youssoufa Moukoko</h2>
+    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/SmHJ3219P-0?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="https://snabblån5000.com/lana-8000/">låna 8000</a></small></div></iframe>
+    <p>Notes: Hello</p>
+    <span class="popup-close">X</span>
+  </div>
+
+
+
+
 | | Name | Team | Added | 
 | --- | --- | --- | --- |
 | **1** | [Youssoufa Moukoko](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | Dortmund | 4/23/23 |
