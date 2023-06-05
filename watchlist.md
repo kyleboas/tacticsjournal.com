@@ -9,18 +9,31 @@ layout: page
 
 ### U20
 
+
 <style>
-.popup {
-      display: none;
+    body {
+      overflow: hidden;
+    }
+
+    .popup-wrapper {
       position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .popup {
+      position: relative;
       background-color: #fff;
       padding: 20px;
       border: 1px solid #ccc;
       border-radius: 5px;
-      z-index: 9999;
       max-width: 100%;
       width: 90%;
       max-height: 80vh;
@@ -33,29 +46,34 @@ layout: page
       right: 10px;
       cursor: pointer;
     }
-    
+
     @media (min-width: 768px) {
       .popup {
         width: 50%;
       }
     }
-</style>
+  </style>
   <script>
     window.addEventListener('DOMContentLoaded', function () {
       const popups = document.querySelectorAll('.popup');
+      const popupWrapper = document.querySelector('.popup-wrapper');
 
       popups.forEach(function (popup) {
-        const name = popup.id;
-        const link = document.querySelector('a[name="' + name + '"]');
         const closeBtn = popup.querySelector('.popup-close');
 
+        closeBtn.addEventListener('click', function () {
+          popupWrapper.style.display = 'none';
+          document.body.style.overflow = 'auto';
+        });
+      });
+
+      document.querySelectorAll('a[name]').forEach(function (link) {
         link.addEventListener('click', function (e) {
           e.preventDefault();
-          popup.style.display = 'block';
-        });
-
-        closeBtn.addEventListener('click', function () {
-          popup.style.display = 'none';
+          const popupId = this.getAttribute('name');
+          const popup = document.getElementById(popupId);
+          popupWrapper.style.display = 'flex';
+          document.body.style.overflow = 'hidden';
         });
       });
     });
