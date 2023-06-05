@@ -9,113 +9,121 @@ layout: page
 
 ### U20
 
-
 <style>
-.popup {
-      display: none;
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background-color: #fff;
-      padding: 20px;
-      z-index: 9999;
-      max-width: 100%;
-      width: 90%;
-      max-height: 80vh;
-      overflow: auto;
-    }
-  
-  .team { 
-     margin-bottom: 0px;font-size: 14px;margin-top: 0px;
-}
+  .popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    z-index: 9999;
+    max-width: 100%;
+    width: 90%;
+    max-height: 80vh;
+    overflow: auto;
+  }
+
+  .team {
+    margin-bottom: 0px;
+    font-size: 14px;
+    margin-top: 0px;
+  }
 
   .added {
-    margin-top: 0px;font-size: 14px;
-}
+    margin-top: 0px;
+    font-size: 14px;
+  }
 
-    .popup-close {
-      position: absolute;
-      top: 50px;
-      right: 10px;
-      cursor: pointer;
+  .popup-close {
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    cursor: pointer;
+  }
+
+  @media (min-width: 768px) {
+    .popup {
+      width: 50%;
     }
-    
-    @media (min-width: 768px) {
-      .popup {
-        width: 50%;
-      }
-    }
+  }
 </style>
 <script>
-    window.addEventListener('DOMContentLoaded', function () {
-      const popups = document.querySelectorAll('.popup');
+  window.addEventListener('DOMContentLoaded', function () {
+    const popups = document.querySelectorAll('.popup');
 
-      popups.forEach(function (popup) {
-        const name = popup.id;
-        const link = document.querySelector('a[name="' + name + '"]');
-        const closeBtn = popup.querySelector('.popup-close');
+    popups.forEach(function (popup) {
+      const name = popup.id;
+      const link = document.querySelector('a[name="' + name + '"]');
+      const closeBtn = popup.querySelector('.popup-close');
 
-        link.addEventListener('click', function (e) {
-          e.preventDefault();
-          popup.style.display = 'block';
-        });
+      link.addEventListener('click', function (e) {
+        e.preventDefault();
+        popup.style.display = 'block';
+      });
 
-        closeBtn.addEventListener('click', function () {
-          popup.style.display = 'none';
-        });
+      closeBtn.addEventListener('click', function () {
+        popup.style.display = 'none';
       });
     });
-  </script>
+  });
+</script>
 
- <table>
-    <tr>
-      <th></th>
-      <th>Name</th>
-      <th>Team</th> 
-      <th>Added</th>
-    </tr>
-    <tr>
-      <td><strong>1</strong></td>
-      <td><a href="#" name="Youssoufa Moukoko">Youssoufa Moukoko</a></td>
-      <td>Dortmund</td>
-      <td>4/23/23</td>
-    </tr>
-    <tr>
-      <td><strong>2</strong></td>
-      <td><a href="#" name="Evan Ferguson">Evan Ferguson</a></td>
-      <td>Brighton</td>
-      <td>4/23/23</td>
-    </tr>
-    <tr>
-      <td><strong>3</strong></td>
-      <td><a href="#" name="Benjamin Šeško">Benjamin Šeško</a></td>
-      <td>Red Bull Salzburg</td>
-      <td>4/23/23</td>
-    </tr>
-    <tr>
-      <td><strong>4</strong></td>
-      <td><a href="#" name="Divin Mubama">Divin Mubama</a></td>
-      <td>West Ham</td>
-      <td>4/23/23</td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <th></th>
+    <th>Name</th>
+    <th>Team</th>
+    <th>Added</th>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td><a href="#" name="Youssoufa Moukoko">Youssoufa Moukoko</a></td>
+    <td>Dortmund</td>
+    <td>4/23/23</td>
+  </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td><a href="#" name="Evan Ferguson">Evan Ferguson</a></td>
+    <td>Brighton</td>
+    <td>4/23/23</td>
+  </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td><a href="#" name="Benjamin Šeško">Benjamin Šeško</a></td>
+    <td>Red Bull Salzburg</td>
+    <td>4/23/23</td>
+  </tr>
+  <tr>
+    <td><strong>4</strong></td>
+    <td><a href="#" name="Divin Mubama">Divin Mubama</a></td>
+    <td>West Ham</td>
+    <td>4/23/23</td>
+  </tr>
+</table>
 
-   <div class="popup" id="Youssoufa Moukoko" style="display: block;">
-     <div clas="player-info">
+<div class="popup" id="Youssoufa Moukoko">
+  <div clas="player-info">
     <h3 class="player-name">Youssoufa Moukoko</h3>
     <p class="team"><strong>Team:</strong> Dortmund</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-      </div>
-   <div class="player-notes">
-     <h3>Notes:</h3>
-     <p>
+  </div>
+  <div class="player-notes">
+    <h3>Notes:</h3>
+    <p>
       <iframe width="100%" height="200" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen=""></iframe>
-      </p>
-    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-    <span class="popup-close">X</span>
-    </div>
-   </div>
+    </p>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+      standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
+      a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
+      remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing
+      Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
+      of Lorem Ipsum.</p>
+  </div>
+ <span class="popup-close">X</span>  
+</div>
+
 
 
 ### U23
