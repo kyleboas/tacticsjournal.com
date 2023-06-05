@@ -8,7 +8,8 @@ layout: page
 ## Center-Forwards 
 
 ### U20
-|  | Name | Team | fbref | Compilation | Added | 
+
+| Rank | Name | Team | fbref | Compilation | Added | 
 | --- | --- | --- | --- | --- | --- |
 | 1 | Youssoufa Moukoko | Dortmund | fbref | comp | added |
 | 2 | Evan Ferguson | Brighton | fbref | comp | added |
@@ -20,7 +21,8 @@ layout: page
 
 
 ### U23
-|  | Name | Team | fbref | Compilation | Added | 
+
+| Rank  | Name | Team | fbref | Compilation | Added | 
 | --- | --- | --- | --- | --- | --- |
 | 1 | Loïs Openda | RB Leipzig | fbref | comp | added |
 | 2 | Anastasios Douvikas | FC Utrecht | fbref | comp | added |
