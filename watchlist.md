@@ -10,6 +10,11 @@ layout: page
 ### U20
 
 <style>
+  .table {
+    width: 100%;
+    font-size: 14px;
+  }
+
   .popup {
     display: none;
     position: fixed;
