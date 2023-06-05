@@ -9,7 +9,7 @@ layout: page
 
 ### U20
 |  | Name | Team | fbref | Compilation | Added | 
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1 | Youssoufa Moukoko | Dortmund | fbref | comp | added |
 | 2 | Evan Ferguson | Brighton | fbref | comp | added |
 | 3 | Benjamin Sesko | Team | fbref | comp | added |
@@ -20,6 +20,8 @@ layout: page
 
 
 ### U23
+|  | Name | Team | fbref | Compilation | Added | 
+| --- | --- | --- | --- | --- | --- |
 | 1 | Loïs Openda | RB Leipzig | fbref | comp | added |
 | 2 | Anastasios Douvikas | FC Utrecht | fbref | comp | added |
 | 3 | Sepe Elye Wahi | Montpellier | fbref | comp | added |
@@ -39,7 +41,7 @@ layout: page
 
 ### Senior 
 |  | Name | Team | fbref | Compilation | Added | 
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1 | Name | Team | fbref | comp | added |
 | 2 | Name | Team | fbref | comp | added |
 | 3 | Name | Team | fbref | comp | added |
