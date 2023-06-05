@@ -37,8 +37,7 @@ layout: page
     font-size: 14px;
   }
   
-  .player-name { 
-    margin-top: 20px;
+  .player-name {
     margin-bottom: 0px;
   }
 
