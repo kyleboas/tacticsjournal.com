@@ -11,121 +11,57 @@ layout: page
 
 
 <style>
- body {
-  overflow: auto;
-}
-
-.popup-wrapper {
-  display: none;
-  position: fixed;
-body {
-  overflow: auto;
-}
-
-.popup-wrapper {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
-  z-index: 9999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow-y: auto;
-}
-
 .popup {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #fff;
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  max-width: 100%;
-  max-height: 100%;
-  overflow: auto;
-  z-index: 9999;
-}
+      display: none;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: #fff;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      z-index: 9999;
+      max-width: 100%;
+      width: 90%;
+      max-height: 80vh;
+      overflow: auto;
+    }
 
+    .popup-close {
+      position: absolute;
+      top: 5px;
+      right: 10px;
+      cursor: pointer;
+    }
+    
+    @media (min-width: 768px) {
+      .popup {
+        width: 50%;
+      }
+    }
+</style>
+<script>
+    window.addEventListener('DOMContentLoaded', function () {
+      const popups = document.querySelectorAll('.popup');
 
-.popup-active {
-  display: block;
-}
+      popups.forEach(function (popup) {
+        const name = popup.id;
+        const link = document.querySelector('a[name="' + name + '"]');
+        const closeBtn = popup.querySelector('.popup-close');
 
-.popup-close {
-  position: absolute;
-  top: 5px;
-  right: 10px;
-  cursor: pointer;
-}
+        link.addEventListener('click', function (e) {
+          e.preventDefault();
+          popup.style.display = 'block';
+        });
 
-.noscroll {
-  overflow: hidden;
-}
-
-
-@media (max-width: 768px) {
-  .popup {
-    width: 90%;
-  }
-}
-  </style>
-  <script>
-window.addEventListener('DOMContentLoaded', function () {
-  const popups = document.querySelectorAll('.popup');
-  const popupWrapper = document.querySelector('.popup-wrapper');
-  const body = document.body;
-  let scrollPosition = 0;
-
-  popups.forEach(function (popup) {
-    const closeBtn = popup.querySelector('.popup-close');
-
-    closeBtn.addEventListener('click', function () {
-      closePopup(popup);
+        closeBtn.addEventListener('click', function () {
+          popup.style.display = 'none';
+        });
+      });
     });
-  });
-
-  document.querySelectorAll('a[name]').forEach(function (link) {
-    link.addEventListener('click', function (e) {
-      e.preventDefault();
-      const popupId = this.getAttribute('name');
-      const popup = document.getElementById(popupId);
-      openPopup(popup);
-    });
-  });
-
-  function openPopup(popup) {
-    scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
-    body.style.position = 'fixed';
-    body.style.top = `-${scrollPosition}px`;
-    body.style.width = '100%';
-    body.classList.add('noscroll');
-
-    popup.classList.add('popup-active');
-    popupWrapper.style.display = 'flex';
-  }
-
-  function closePopup(popup) {
-    popup.classList.remove('popup-active');
-    popupWrapper.style.display = 'none';
-
-    body.classList.remove('noscroll');
-    body.style.position = 'static';
-    body.style.top = 'auto';
-    body.style.width = 'auto';
-    window.scrollTo(0, scrollPosition);
-  }
-});
-
   </script>
-  
+
  <table>
     <tr>
       <th></th>
@@ -163,8 +99,8 @@ window.addEventListener('DOMContentLoaded', function () {
     <strong>Youssoufa Moukoko</strong>
     <p><strong>Team:</strong> Dortmund</p>
     <p><strong>Added:</strong> 4/23/23</p>
-      <iframe width="80%" height="150" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen></iframe>
-    <p></strong>Notes</strong></p>
+      <iframe width="100%" height="200" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen></iframe>
+    <p><strong>Notes</strong></p>
     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
     <span class="popup-close">X</span>
    </div>
