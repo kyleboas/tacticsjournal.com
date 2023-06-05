@@ -17,6 +17,7 @@ layout: page
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #fff;
+    border: 1px solid rgb(169, 169, 169);
     padding: 20px;
     z-index: 9999;
     max-width: 100%;
