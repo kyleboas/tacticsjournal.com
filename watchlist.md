@@ -20,19 +20,6 @@ layout: page
 
 
 ### U23
-|  | Name | Team | fbref | Compilation | Added | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | Name | Team | fbref | comp | added |
-| 2 | Name | Team | fbref | comp | added |
-| 3 | Name | Team | fbref | comp | added |
-| 4 | Name | Team | fbref | comp | added |
-| 5 | Name | Team | fbref | comp | added |
-| 6 | Name | Team | fbref | comp | added |
-| 7 | Name | Team | fbref | comp | added |
-| 8 | Name | Team | fbref | comp | added |
-| 9 | Name | Team | fbref | comp | added |
-| 10 | Name | Team | fbref | comp | added |
-
 | 1 | Loïs Openda | RB Leipzig | fbref | comp | added |
 | 2 | Anastasios Douvikas | FC Utrecht | fbref | comp | added |
 | 3 | Sepe Elye Wahi | Montpellier | fbref | comp | added |
