@@ -11,7 +11,14 @@ layout: page
 
 
 <style>
-    body {
+ body {
+  overflow: auto;
+}
+
+.popup-wrapper {
+  display: none;
+  position: fixed;
+body {
   overflow: auto;
 }
 
@@ -32,16 +39,21 @@ layout: page
 
 .popup {
   display: none;
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   background-color: #fff;
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
   max-width: 100%;
-  width: 90%;
-  max-height: 80vh;
+  max-height: 100%;
   overflow: auto;
+  z-index: 9999;
 }
+
 
 .popup-active {
   display: block;
@@ -54,24 +66,29 @@ layout: page
   cursor: pointer;
 }
 
-@media (min-width: 768px) {
+.noscroll {
+  overflow: hidden;
+}
+
+
+@media (max-width: 768px) {
   .popup {
-    width: 50%;
+    width: 90%;
   }
 }
   </style>
   <script>
-    window.addEventListener('DOMContentLoaded', function () {
+window.addEventListener('DOMContentLoaded', function () {
   const popups = document.querySelectorAll('.popup');
   const popupWrapper = document.querySelector('.popup-wrapper');
+  const body = document.body;
+  let scrollPosition = 0;
 
   popups.forEach(function (popup) {
     const closeBtn = popup.querySelector('.popup-close');
 
     closeBtn.addEventListener('click', function () {
-      popup.classList.remove('popup-active');
-      popupWrapper.style.display = 'none';
-      document.body.style.overflow = 'auto';
+      closePopup(popup);
     });
   });
 
@@ -80,12 +97,33 @@ layout: page
       e.preventDefault();
       const popupId = this.getAttribute('name');
       const popup = document.getElementById(popupId);
-      popup.classList.add('popup-active');
-      popupWrapper.style.display = 'flex';
-      document.body.style.overflow = 'hidden';
+      openPopup(popup);
     });
   });
+
+  function openPopup(popup) {
+    scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+    body.style.position = 'fixed';
+    body.style.top = `-${scrollPosition}px`;
+    body.style.width = '100%';
+    body.classList.add('noscroll');
+
+    popup.classList.add('popup-active');
+    popupWrapper.style.display = 'flex';
+  }
+
+  function closePopup(popup) {
+    popup.classList.remove('popup-active');
+    popupWrapper.style.display = 'none';
+
+    body.classList.remove('noscroll');
+    body.style.position = 'static';
+    body.style.top = 'auto';
+    body.style.width = 'auto';
+    window.scrollTo(0, scrollPosition);
+  }
 });
+
   </script>
   
  <table>
