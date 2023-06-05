@@ -39,33 +39,7 @@ layout: page
         const link = document.querySelector('a[name="' + name + '"]');
         const closeBtn = popup.querySelector('.popup-close');
 
-        link.addEventListener('click', function (e) {
-          e.preventDefault();
-          popup.style.display = 'block';
-        });
-
-        closeBtn.addEventListener('click', function () {
-          popup.style.display = 'none';
-        });
-      });
-    });
-  </script>
-  <table>
-    <tr>
-      <th></th>
-      <th>Name</th>
-      <th>Team</th>
-      <th>Added</th>
-    </tr>
-    <tr>
-      <td><strong>1</strong></td>
-      <td><a href="#" name="Youssoufa Moukoko">Youssoufa Moukoko</a></td>
-      <td>Dortmund</td>
-      <td>4/23/23</td>
-    </tr>
-    <tr>
-      <td><strong>2</strong></td>
-      <td><a href="#" name="Evan Ferguson">Evan Ferguson</a></td>
+<style>
       <td>Brighton</td>
       <td>4/23/23</td>
     </tr>
@@ -84,12 +58,15 @@ layout: page
   </table>
 
   <div class="popup" id="Youssoufa Moukoko">
-    <h2>Youssoufa Moukoko</h2>
-    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/SmHJ3219P-0?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="https://snabblån5000.com/lana-8000/">låna 8000</a></small></div></iframe>
-    <p>Notes: Hello</p>
+    <strong>Youssoufa Moukoko</strong>
+    <p><strong>Team:</strong> Dortmund</p>
+    <p><strong>Added:</strong> 4/23/23</p>
+    <p>
+      <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="200" height="150" type="text/html" src="https://www.youtube.com/embed/SmHJ3219P-0?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/de/">youtubeembedcode.com/de/</a></small></div><div><small><a href="https://xn--snabbln5000-28a.com/lana-2000/">låna 2000</a></small></div></iframe>
+    </p>
+    <p>Notes:</p>
     <span class="popup-close">X</span>
   </div>
-
 
 
 
