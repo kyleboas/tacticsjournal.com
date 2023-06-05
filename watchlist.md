@@ -103,7 +103,7 @@ layout: page
 
    <div class="popup" id="Youssoufa Moukoko" style="display: block;">
      <div clas="player-info">
-    <h3 class="player-name"<strong>Youssoufa Moukoko</strong></h3>
+    <h3 class="player-name">Youssoufa Moukoko</h3>
     <p class="team"><strong>Team:</strong> Dortmund</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
    <div class="player-notes">
