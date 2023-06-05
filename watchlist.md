@@ -36,6 +36,11 @@ layout: page
     margin-top: 0px;
     font-size: 14px;
   }
+  
+  .player-name { 
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
 
   .popup-close {
     position: absolute;
