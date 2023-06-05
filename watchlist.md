@@ -13,7 +13,7 @@ layout: page
 | --- | --- | --- | --- | --- |
 | 1 | [Youssoufa Moukoko](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Dortmund | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | 2 | [Evan Ferguson](https://fbref.com/en/players/4596da74/Evan-Ferguson) | Brighton | <a href="https://youtu.be/Ygmyrdk8rkE"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| 3 | [Benjamin Šeško]([https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko](https://fbref.com/en/players/3260690c/Benjamin-Sesko)) | Red Bull Salzburg | <a href="https://youtu.be/xOaszv-jFDY"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 3 | [Benjamin Šeško](https://fbref.com/en/players/3260690c/Benjamin-Sesko) | Red Bull Salzburg | <a href="https://youtu.be/xOaszv-jFDY"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | 4 | [Divin Mubama](https://fbref.com/en/players/92868cb5/Divin-Mubama) | West Ham | <a href="https://youtu.be/hQ3gd4mU4Ew"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 
 
