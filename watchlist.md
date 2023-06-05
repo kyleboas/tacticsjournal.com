@@ -98,7 +98,7 @@ layout: page
     <strong>Youssoufa Moukoko</strong>
     <p><strong>Team:</strong> Dortmund</p>
     <p><strong>Added:</strong> 4/23/23</p>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen></iframe>
+      <iframe width="80%" height="150" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen></iframe>
     <p>Notes:</p>
     <span class="popup-close">X</span>
    </div>
