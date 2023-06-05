@@ -9,7 +9,7 @@ layout: page
 
 ### U20
 
-| Rank | Name | Team | 🎥 | Added | 
+| | Name | Team | 🎥 | Added | 
 | --- | --- | --- | --- | --- |
 | 1 | Youssoufa Moukoko | Dortmund | comp | added |
 | 2 | Evan Ferguson | Brighton | comp | added |
@@ -22,7 +22,7 @@ layout: page
 
 ### U23
 
-| Rank | Name | Team | 🎥 | Added | 
+| | Name | Team | 🎥 | Added | 
 | --- | --- | --- | --- | --- |
 | 1 | Loïs Openda | RB Leipzig | comp | added |
 | 2 | Anastasios Douvikas | FC Utrecht | comp | added |
