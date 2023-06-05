@@ -52,6 +52,10 @@ layout: page
     .popup {
       width: 50%;
     }
+    .table {
+      font-size: 1.5em;
+      width: 60%;
+    }
   }
 </style>
 <script>
