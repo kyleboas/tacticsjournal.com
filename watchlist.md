@@ -50,8 +50,6 @@ layout: page
       });
     });
   </script>
-</head>
-<body>
   <table>
     <tr>
       <th></th>
