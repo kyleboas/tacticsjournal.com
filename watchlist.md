@@ -9,9 +9,8 @@ layout: page
 
 ### U20
 
-**#1 [Youssoufa Moukoko](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko)**
-**Team:** Dortmund 
-**Video:** <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> 
+#### #1 [Youssoufa Moukoko](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> 
+**Team:** Dortmund
 **Added:** 4/23/23
 
 | | Name | Team | | Added | 
