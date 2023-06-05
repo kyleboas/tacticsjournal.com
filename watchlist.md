@@ -12,71 +12,80 @@ layout: page
 
 <style>
     body {
-      overflow: hidden;
-    }
+  overflow: auto;
+}
 
-    .popup-wrapper {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.5);
-      z-index: 9999;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
+.popup-wrapper {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-y: auto;
+}
 
-    .popup {
-      position: relative;
-      background-color: #fff;
-      padding: 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      max-width: 100%;
-      width: 90%;
-      max-height: 80vh;
-      overflow: auto;
-    }
+.popup {
+  display: none;
+  position: relative;
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-width: 100%;
+  width: 90%;
+  max-height: 80vh;
+  overflow: auto;
+}
 
-    .popup-close {
-      position: absolute;
-      top: 5px;
-      right: 10px;
-      cursor: pointer;
-    }
+.popup-active {
+  display: block;
+}
 
-    @media (min-width: 768px) {
-      .popup {
-        width: 50%;
-      }
-    }
+.popup-close {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .popup {
+    width: 50%;
+  }
+}
   </style>
   <script>
     window.addEventListener('DOMContentLoaded', function () {
-      const popups = document.querySelectorAll('.popup');
-      const popupWrapper = document.querySelector('.popup-wrapper');
+  const popups = document.querySelectorAll('.popup');
+  const popupWrapper = document.querySelector('.popup-wrapper');
 
-      popups.forEach(function (popup) {
-        const closeBtn = popup.querySelector('.popup-close');
+  popups.forEach(function (popup) {
+    const closeBtn = popup.querySelector('.popup-close');
 
-        closeBtn.addEventListener('click', function () {
-          popupWrapper.style.display = 'none';
-          document.body.style.overflow = 'auto';
-        });
-      });
-
-      document.querySelectorAll('a[name]').forEach(function (link) {
-        link.addEventListener('click', function (e) {
-          e.preventDefault();
-          const popupId = this.getAttribute('name');
-          const popup = document.getElementById(popupId);
-          popupWrapper.style.display = 'flex';
-          document.body.style.overflow = 'hidden';
-        });
-      });
+    closeBtn.addEventListener('click', function () {
+      popupWrapper.style.display = 'none';
+      document.body.style.overflow = 'auto';
     });
+  });
+
+  document.querySelectorAll('a[name]').forEach(function (link) {
+    link.addEventListener('click', function (e) {
+      e.preventDefault();
+      const popupId = this.getAttribute('name');
+      const popup = document.getElementById(popupId);
+      popup.classList.add('popup-active');
+      popupWrapper.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    });
+  });
+});
+
   </script>
   
  <table>
