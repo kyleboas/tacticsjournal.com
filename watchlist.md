@@ -36,7 +36,7 @@ layout: page
 
     .popup-close {
       position: absolute;
-      top: 5px;
+      top: 50px;
       right: 10px;
       cursor: pointer;
     }
