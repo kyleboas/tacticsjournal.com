@@ -10,7 +10,7 @@ layout: page
 ### U20
 
 <style>
-    .popup {
+.popup {
       display: none;
       position: fixed;
       top: 50%;
@@ -21,6 +21,10 @@ layout: page
       border: 1px solid #ccc;
       border-radius: 5px;
       z-index: 9999;
+      max-width: 100%;
+      width: 90%;
+      max-height: 80vh;
+      overflow: auto;
     }
 
     .popup-close {
@@ -29,7 +33,13 @@ layout: page
       right: 10px;
       cursor: pointer;
     }
-  </style>
+    
+    @media (min-width: 768px) {
+      .popup {
+        width: 50%;
+      }
+    }
+</style>
   <script>
     window.addEventListener('DOMContentLoaded', function () {
       const popups = document.querySelectorAll('.popup');
@@ -39,7 +49,34 @@ layout: page
         const link = document.querySelector('a[name="' + name + '"]');
         const closeBtn = popup.querySelector('.popup-close');
 
-<style>
+        link.addEventListener('click', function (e) {
+          e.preventDefault();
+          popup.style.display = 'block';
+        });
+
+        closeBtn.addEventListener('click', function () {
+          popup.style.display = 'none';
+        });
+      });
+    });
+  </script>
+  
+ <table>
+    <tr>
+      <th></th>
+      <th>Name</th>
+      <th>Team</th> 
+      <th>Added</th>
+    </tr>
+    <tr>
+      <td><strong>1</strong></td>
+      <td><a href="#" name="Youssoufa Moukoko">Youssoufa Moukoko</a></td>
+      <td>Dortmund</td>
+      <td>4/23/23</td>
+    </tr>
+    <tr>
+      <td><strong>2</strong></td>
+      <td><a href="#" name="Evan Ferguson">Evan Ferguson</a></td>
       <td>Brighton</td>
       <td>4/23/23</td>
     </tr>
@@ -66,8 +103,7 @@ layout: page
     </p>
     <p>Notes:</p>
     <span class="popup-close">X</span>
-  </div>
-
+   </div>
 
 
 | | Name | Team | Added | 
