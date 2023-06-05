@@ -98,20 +98,11 @@ layout: page
     <strong>Youssoufa Moukoko</strong>
     <p><strong>Team:</strong> Dortmund</p>
     <p><strong>Added:</strong> 4/23/23</p>
-    <p>
-      <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="200" height="150" type="text/html" src="https://www.youtube.com/embed/SmHJ3219P-0?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=http://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/de/">youtubeembedcode.com/de/</a></small></div><div><small><a href="https://xn--snabbln5000-28a.com/lana-2000/">låna 2000</a></small></div></iframe>
-    </p>
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen></iframe>
     <p>Notes:</p>
     <span class="popup-close">X</span>
    </div>
 
-
-| | Name | Team | Added | 
-| --- | --- | --- | --- |
-| **1** | [Youssoufa Moukoko](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | Dortmund | 4/23/23 |
-| **2** | [Evan Ferguson](https://fbref.com/en/players/4596da74/Evan-Ferguson) <a href="https://youtu.be/Ygmyrdk8rkE"><i class="fa-solid fa-video"></i></a> | Brighton | 4/23/23 |
-| **3** | [Benjamin Šeško](https://fbref.com/en/players/3260690c/Benjamin-Sesko) <a href="https://youtu.be/xOaszv-jFDY"><i class="fa-solid fa-video"></i></a> | Red Bull Salzburg | 4/23/23 |
-| **4** | [Divin Mubama](https://fbref.com/en/players/92868cb5/Divin-Mubama) <a href="https://youtu.be/hQ3gd4mU4Ew"><i class="fa-solid fa-video"></i></a> | West Ham | 4/23/23 |
 
 ### U23
 
