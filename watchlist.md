@@ -44,11 +44,12 @@ layout: page
   
   .player-name {
     margin-bottom: 0px;
+    margin-top: 20px; 
   }
 
   .popup-close {
     position: absolute;
-    top: 50px;
+    top: 39px;
     right: 10px;
     cursor: pointer;
   }
