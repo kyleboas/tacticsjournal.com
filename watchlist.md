@@ -9,51 +9,42 @@ layout: page
 
 ### U20
 
-| | Name | Team | 🎥 | Added | 
+| | Name | Team | | Added | 
 | --- | --- | --- | --- | --- |
-| 1 | [Youssoufa Moukoko](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Dortmund | <a href="https://youtu.be/SmHJ3219P-0"><i class="fas fa-link"></i></a> | 4/23/23 |
-| 2 | Evan Ferguson | Brighton | comp | 4/23/23 |
-| 3 | Benjamin Sesko | Team | comp | 4/23/23 |
-| 4 | Sebastiano Esposito | Team | comp | 4/23/23 |
-| 5 | Divin Mubama | West Ham | comp | 4/23/23 |
-| 6 | Tom Cannon | Team | comp | 4/23/23 |
-| 7 | Joe Hugill | Team | comp | 4/23/23 |
+| 1 | [Youssoufa Moukoko](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Dortmund | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 2 | [Evan Ferguson](https://fbref.com/en/players/4596da74/Evan-Ferguson) | Team | <a href="https://youtu.be/Ygmyrdk8rkE"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 3 | [Benjamin Šeško]([https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko](https://fbref.com/en/players/3260690c/Benjamin-Sesko)) | Red Bull Salzburg | <a href="https://youtu.be/xOaszv-jFDY"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 4 | [Divin Mubama](https://fbref.com/en/players/92868cb5/Divin-Mubama) | Team | <a href="https://youtu.be/hQ3gd4mU4Ew"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 
 
 ### U23
 
-| | Name | Team | 🎥 | Added | 
+| | Name | Team | | Added | 
 | --- | --- | --- | --- | --- |
-| 1 | Loïs Openda | RB Leipzig | comp | 4/23/23 |
-| 2 | Anastasios Douvikas | FC Utrecht | comp | 4/23/23 |
-| 3 | Sepe Elye Wahi | Montpellier | comp | 4/23/23 |
-| 4 | Terem Moffi | Nice | comp | 4/23/23 |
-| 5 | Gift Orban | Gent | comp | 4/23/23 |
-| 6 | Nicolas Jackson | Villarreal | comp | 4/23/23 |
-| 7 | Carlos Alcaraz | Southampton | comp | 4/23/23 |
-| 8 | Ricardo Pepi | FC Groningen | comp | 4/23/23 |
-| 9 | Jonathan David | Lille | comp | 4/23/23 |
-| 10 | Sydney van Hooijdonk | SC Heerenveen | comp | 4/23/23 |
-| 11 | Abel Ruiz | Braga | comp | added |
-| 12 | Armindo Sieb | Greuther Furth | comp | 4/23/23 |
-| 13 | Sebastiano Esposito | Bari | comp | 4/23/23 |
-| 14 | El Bilal Touré | Almeria | comp | 4/23/23 |
-| 15 | Sekou Mara | Southampton | comp | added |
-| 16 | Ibrahima Koné | Lorient | comp | 4/23/23 |
+| 1 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 2 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 3 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 4 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 5 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 6 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 7 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 8 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 9 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 10 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 
 ### Senior 
-| Rank | Name | Team | 🎥 | Added | 
+| | Name | Team | | Added | 
 | --- | --- | --- | --- | --- |
-| 1 | Name | Team | comp | 4/23/23 |
-| 2 | Name | Team | comp | 4/23/23 |
-| 3 | Name | Team | comp | 4/23/23 |
-| 4 | Name | Team | comp | 4/23/23 |
-| 5 | Name | Team | comp | 4/23/23 |
-| 6 | Name | Team | comp | 4/23/23 |
-| 7 | Name | Team | comp | 4/23/23 |
-| 8 | Name | Team | comp | 4/23/23 |
-| 9 | Name | Team | comp | 4/23/23 |
-| 10 | Name | Team | comp | 4/23/23 |
+| 1 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 2 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 3 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 4 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 5 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 6 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 7 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 8 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 9 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 10 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 
 ## Left-Wing
 
