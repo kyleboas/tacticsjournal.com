@@ -102,13 +102,18 @@ layout: page
   </table>
 
    <div class="popup" id="Youssoufa Moukoko" style="display: block;">
-    <strong>Youssoufa Moukoko</strong>
+     <div clas="player-info">
+    <h3 class="player-name"<strong>Youssoufa Moukoko</strong></h3>
     <p class="team"><strong>Team:</strong> Dortmund</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
+   <div class="player-notes">
+     <h3>Notes:</h3>
+     <p>
       <iframe width="100%" height="200" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen=""></iframe>
-    <p><strong>Notes</strong></p>
+      </p>
     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
     <span class="popup-close">X</span>
+    </div>
    </div>
 
 
