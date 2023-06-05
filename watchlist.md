@@ -86,8 +86,6 @@ layout: page
     });
   });
 });
-});
-
   </script>
   
  <table>
