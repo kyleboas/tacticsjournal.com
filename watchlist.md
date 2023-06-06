@@ -218,6 +218,72 @@ layout: page
 |[Ruben Neves](https://fbref.com/en/players/44bfb6c5/Ruben-Neves)|Wolves|<a href="https://youtu.be/21IXJH9H15Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[João Palhinha](https://fbref.com/en/players/a78ff07f/Joao-Palhinha)|Fulham|<a href="https://youtu.be/s_RcDEOU7z0"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
+## Left-Back 
 
+### U20 
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Valentín Barco](https://fbref.com/en/players/b9f282ec/Valentin-Barco)|Boca Juniors|<a href="https://youtu.be/0xXzYEXGwgk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+### U23
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Khephren Thuram](https://fbref.com/en/players/7d9397f8/Khephren-Thuram)|Nice|<a href="https://youtu.be/W-BTqU9fDz4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Antonee Robinson](https://fbref.com/en/players/289601e6/Antonee-Robinson)|Fulham|<a href="https://youtu.be/7U0VskXTLI8"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Ainsley Maitland-Niles](https://fbref.com/en/players/e3a5814e/Ainsley-Maitland-Niles)|Southampton|<a href="https://youtu.be/Zic57UgVLZI"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Melvin Bard](https://fbref.com/en/players/1ddbc7ca/Melvin-Bard)|Nice| |4/23/23|
+|[Victor Kristiansen](https://fbref.com/en/players/505486d6/Victor-Bernth-Kristiansen)|Leicester |<a href="https://youtu.be/gTJxbYEuXwA"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+### Senior 
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Kostas Tsimikas](https://fbref.com/en/players/f315ca93/Kostas-Tsimikas)|Liverpool|<a href="https://youtu.be/ffteOGo-DbI"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+
+
+## Right-Back 
+
+### U20 
+
+### U23 
+
+### Senior 
+
+
+
+## Left Center-Back 
+
+### U23 
+
+
+### Senior 
+
+
+
+## Center Center-Back 
+
+### U23
+
+### Senior 
+
+
+
+## Right Center-Back 
+
+### U20 
+
+### U23
+
+### Senior 
+
+
+## Goalkeeper 
+
+### U23
+
+### Senior 
 
 
