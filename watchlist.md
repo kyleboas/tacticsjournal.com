@@ -23,7 +23,7 @@ layout: page
     transform: translate(-50%, -50%);
     background-color: #fff;
     border: 1px solid rgb(169, 169, 169);
-    padding: 40px;
+    padding: 30px;
     z-index: 9999;
     max-width: 100%;
     width: 90%;
