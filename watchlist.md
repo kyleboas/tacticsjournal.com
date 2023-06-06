@@ -5,6 +5,20 @@ layout: page
 
 *last updated: June 5, 2023* 
 
+<style>
+  table {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  @media (min-width: 768px) {
+    table {
+      font-size: 1.5em;
+      width: 70%;
+    }
+  }
+</style>
+
 ## Center-Forwards 
 
 ### U20
