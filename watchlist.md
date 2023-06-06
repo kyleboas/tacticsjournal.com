@@ -32,44 +32,10 @@ layout: page
 | **9** | [Sydney van Hooijdonk](https://fbref.com/en/players/5b418e15/Sydney-van-Hooijdonk) | Heerenveen | <a href="https://youtu.be/Bvybn8pU0qk"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | **10** | [Abel Ruiz](https://fbref.com/en/players/6cbf8d0d/Abel-Ruiz) | Braga | <a href="https://youtu.be/taSxEl9zk_U"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 
-
-
-| **1** | [Loïs Openda](https://fbref.com/en/players/8652a85c/Lois-Openda) | RB Leipzig | <a href="https://youtu.be/TPNudMfYzkk"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-    <th></th>
-    <th>Name</th>
-    <th>Team</th>
-    <th>Added</th>
-  </tr>
-  <tr>
-    <td><strong>1</strong></td>
-    <td><a href="#" name="Loïs Openda">Loïs Openda</a></td>
-    <td>RB Leipzig</td>
-    <td>4/23/23</td>
-  </tr>
-  <tr>
-    <td><strong>2</strong></td>
-    <td><a href="#" name="Anastasios Douvikas">Anastasios Douvikas</a></td>
-    <td>FC Utrecht</td>
-    <td>4/23/23</td>
-  </tr>
-  <tr>
-    <td><strong>3</strong></td>
-    <td><a href="#" name="Elye Wahi">Elye Wahi</a></td>
-    <td>Red Bull Salzburg</td>
-    <td>4/23/23</td>
-  </tr>
-  <tr>
-    <td><strong>4</strong></td>
-    <td><a href="#" name="Divin Mubama">Divin Mubama</a></td>
-    <td>West Ham</td>
-    <td>4/23/23</td>
-  </tr>
-</table>
-
 ### Senior 
 | | Name | Team | | Added | 
 | --- | --- | --- | --- | --- |
-| 1 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 1 | [Ivan Toney](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | **2** | [Terem Moffi](https://fbref.com/en/players/065dc209/Terem-Moffi) | Nice | <a href="https://youtu.be/tBO4-O5X6A4"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | 3 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | 4 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
