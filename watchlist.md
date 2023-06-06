@@ -175,7 +175,7 @@ layout: page
       <iframe width="100%" height="200px" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen=""></iframe>
     </p>
   </div>
- <span class="popup-close">X</span>  
+ <span class="popup-close"><i class="fa-solid fa-x"></i></span>  
 </div>
 
 <div class="popup" id="Evan Ferguson">
@@ -190,7 +190,7 @@ layout: page
       <iframe width="100%" height="200px" src="https://www.youtube.com/embed/Ygmyrdk8rkE" frameborder="0" allowfullscreen=""></iframe>
     </p>
   </div>
- <span class="popup-close">X</span>  
+ <span class="popup-close"><i class="fa-solid fa-x"></i></span>  
 </div>
 
 <div class="popup" id="Benjamin Šeško">
@@ -205,7 +205,7 @@ layout: page
       <iframe width="100%" height="200px" src="https://www.youtube.com/embed/xOaszv-jFDY" frameborder="0" allowfullscreen=""></iframe>
     </p>
   </div>
- <span class="popup-close">X</span>  
+ <span class="popup-close"><i class="fa-solid fa-x"></i></span>  
 </div>
   
 <div class="popup" id="Divin Mubama">
@@ -220,7 +220,7 @@ layout: page
       <iframe width="100%" height="200px" src="https://www.youtube.com/embed/hQ3gd4mU4Ew" frameborder="0" allowfullscreen=""></iframe>
     </p>
   </div>
- <span class="popup-close">X</span>  
+ <span class="popup-close"><i class="fa-solid fa-x"></i></span>  
 </div>
 
 ### U23
