@@ -88,3 +88,16 @@ layout: page
 |9|[Tiago Gouveia](https://fbref.com/en/players/68cf59f0/Tiago-Gouveia)|Estriol|<a href="https://youtu.be/htNLnYOjLc4"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |10|[Dwight McNeil](https://fbref.com/en/players/fc15fb84/Dwight-McNeil)|Everton|<a href="https://youtu.be/yvqajyWLrbA"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |11|[Jack Clarke](https://fbref.com/en/players/e16932d8/Jack-Clarke)|Sunderland|<a href="https://youtu.be/574o0TxwZto"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+### Senior 
+
+| |Name|Team| |Added|
+|:----|:----|:----|:----|:----|
+|1|[Karou Mitoma](https://fbref.com/en/players/74618572/Kaoru-Mitoma)|Brighton|<a href="https://youtu.be/E1pXADmALVc"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|2|[Harvey Barnes](https://fbref.com/en/players/3ea50f67/Harvey-Barnes)|Leicester City|<a href="https://youtu.be/-Eci9FIZSC8"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|3|[Demarai Gray](https://fbref.com/en/players/4468ec10/Demarai-Gray)|Everton|<a href="https://youtu.be/buMPzrYC8vk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+## Right-Wing 
+
+### U20 
+
