@@ -128,3 +128,12 @@ layout: page
 |15|[Mouhamadou Diarra](https://fbref.com/en/players/6d0fe035/Mouhamadou-Diarra)|Strasbourg|<a href="https://youtu.be/0OMQdvfCtaM"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |16|[Saumuel Edozie](https://fbref.com/en/players/007414dd/Samuel-Edozie)|Southampton|<a href="https://youtu.be/S6RMi8TrK3U"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |17|[Tetê](https://fbref.com/en/players/7120a04d/Tete)|Leicester City|<a href="https://youtu.be/ybgfxLDT8Zs"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+### Senior 
+
+| |Name|Team| |Added|
+|:----|:----|:----|:----|:----|
+|1|[Dejan Kulusevski](https://fbref.com/en/players/df3cda47/Dejan-Kulusevski)|Tottenham|<a href="https://youtu.be/fNB-hvsjXCU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|2|[Brahim Diaz](https://fbref.com/en/players/407feb71/Brahim-Diaz)|Real Madrid|<a href="https://youtu.be/gRYRzpY247Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+## Center-Midfield
