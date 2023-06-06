@@ -23,7 +23,7 @@ layout: page
     transform: translate(-50%, -50%);
     background-color: #fff;
     border: 1px solid rgb(169, 169, 169);
-    padding: 20px;
+    padding: 40px;
     z-index: 9999;
     max-width: 100%;
     width: 90%;
@@ -44,13 +44,13 @@ layout: page
   
   .player-name {
     margin-bottom: 0px;
-    margin-top: 20px; 
+    margin-top: 0px; 
   }
 
   .popup-close {
     position: absolute;
     top: 39px;
-    right: 10px;
+    right: 40px;
     cursor: pointer;
   }
 
