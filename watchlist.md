@@ -9,217 +9,13 @@ layout: page
 
 ### U20
 
-<style>
-  table {
-    width: 100%;
-    font-size: 14px;
-  }
-
-  .popup {
-    display: none;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #fff;
-    border: 1px solid rgb(169, 169, 169);
-    padding: 30px;
-    z-index: 9999;
-    max-width: 100%;
-    width: 90%;
-    max-height: 80vh;
-    overflow: auto;
-  }
-
-  .team {
-    margin-bottom: 0px;
-    font-size: 14px;
-    margin-top: 0px;
-  }
-
-  .added {
-    margin-top: 0px;
-    font-size: 14px;
-    margin-bottom: 0px;
-  }
-   
-  .fbref {
-    font-size: 14px;
-    margin-top: 0px;
-  } 
+| | Name | Team | | Added | 
+| --- | --- | --- | --- | --- |
+| **1** | [Youssoufa Moukoko](https://fbref.com/en/players/8652a85c/Lois-Openda) | Dortmund | <a href="https://youtu.be/YH7trzgmo0Y"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| **2** | [Evan Ferguson](https://fbref.com/en/players/4596da74/Evan-Ferguson) | Brighton | <a href="https://youtu.be/Ygmyrdk8rkE"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| **3** | [Benjamin Šeško](https://fbref.com/en/players/3260690c/Benjamin-Sesko) | Red Bull Salzburg | <a href="https://youtu.be/xOaszv-jFDY"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| **4** | [Divin Mubama](https://fbref.com/en/players/92868cb5/Divin-Mubama) | West Ham | <a href="https://youtu.be/hQ3gd4mU4Ew"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
   
-  .player-name {
-    margin-bottom: 0px;
-    margin-top: 0px; 
-  }
-
-  .popup-close {
-    position: absolute;
-    top: 39px;
-    right: 40px;
-    cursor: pointer;
-  }
-
-  @media (min-width: 768px) {
-    .popup {
-      width: 50%;
-    }
-    table {
-      font-size: 1.5em;
-      width: 70%;
-    }
-  }
-</style>
-<script>
-  
-window.addEventListener('DOMContentLoaded', function () {
-  const popups = document.querySelectorAll('.popup');
-  const popupWrapper = document.querySelector('.popup-wrapper');
-  const body = document.body;
-  let scrollPosition = 0;
-
-  popups.forEach(function (popup) {
-    const name = popup.id;
-    const link = document.querySelector('a[name="' + name + '"]');
-    const closeBtn = popup.querySelector('.popup-close');
-
-    link.addEventListener('click', function (e) {
-      e.preventDefault();
-      openPopup(popup);
-    });
-
-    closeBtn.addEventListener('click', function () {
-      closePopup(popup);
-    });
-  });
-
-  function openPopup(popup) {
-    scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
-    body.style.position = 'fixed';
-    body.style.top = `-${scrollPosition}px`;
-    body.style.width = '100%';
-    body.classList.add('noscroll');
-
-    popup.classList.add('popup-active');
-    popupWrapper.style.display = 'flex';
-
-    const video = popup.querySelector('iframe');
-    const videoSrc = video.getAttribute('src');
-    video.setAttribute('src', videoSrc);
-  }
-
-  function closePopup(popup) {
-    popup.classList.remove('popup-active');
-    popupWrapper.style.display = 'none';
-
-    body.classList.remove('noscroll');
-    body.style.position = 'static';
-    body.style.top = 'auto';
-    body.style.width = 'auto';
-    window.scrollTo(0, scrollPosition);
-
-    const video = popup.querySelector('iframe');
-    const videoSrc = video.getAttribute('src');
-    video.setAttribute('src', '');
-    video.setAttribute('src', videoSrc);
-  }
-});
-
-  
-</script>
-
-<table>
-  <tr>
-    <th></th>
-    <th>Name</th>
-    <th>Team</th>
-    <th>Added</th>
-  </tr>
-  <tr>
-    <td><strong>1</strong></td>
-    <td><a href="#" name="Youssoufa Moukoko">Youssoufa Moukoko</a></td>
-    <td>Dortmund</td>
-    <td>4/23/23</td>
-  </tr>
-  <tr>
-    <td><strong>2</strong></td>
-    <td><a href="#" name="Evan Ferguson">Evan Ferguson</a></td>
-    <td>Brighton</td>
-    <td>4/23/23</td>
-  </tr>
-  <tr>
-    <td><strong>3</strong></td>
-    <td><a href="#" name="Benjamin Šeško">Benjamin Šeško</a></td>
-    <td>Red Bull Salzburg</td>
-    <td>4/23/23</td>
-  </tr>
-  <tr>
-    <td><strong>4</strong></td>
-    <td><a href="#" name="Divin Mubama">Divin Mubama</a></td>
-    <td>West Ham</td>
-    <td>4/23/23</td>
-  </tr>
-</table>
-
-<div class="popup" id="Youssoufa Moukoko">
-  <div clas="player-info">
-    <h3 class="player-name">Youssoufa Moukoko</h3>
-    <p class="team"><strong>Team:</strong> Dortmund</p>
-    <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko" target="_blank">FBref</a></p>
-  </div>
-  <div class="player-notes">
-    <p>
-      <iframe width="100%" height="200px" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen=""></iframe>
-    </p>
-  </div>
- <span class="popup-close"><i class="fa-solid fa-x"></i></span>  
-</div>
-
-<div class="popup" id="Evan Ferguson">
-  <div clas="player-info">
-    <h3 class="player-name">Evan Ferguson</h3>
-    <p class="team"><strong>Team:</strong> Brighton</p>
-    <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/4596da74/Evan-Ferguson" target="_blank">FBref</a></p>
-  </div>
-  <div class="player-notes">
-    <p>
-      <iframe width="100%" height="200px" src="https://www.youtube.com/embed/Ygmyrdk8rkE" frameborder="0" allowfullscreen=""></iframe>
-    </p>
-  </div>
- <span class="popup-close"><i class="fa-solid fa-x"></i></span>  
-</div>
-
-<div class="popup" id="Benjamin Šeško">
-  <div clas="player-info">
-    <h3 class="player-name">Benjamin Šeško</h3>
-    <p class="team"><strong>Team:</strong> Red Bull Salzburg</p>
-    <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/3260690c/Benjamin-Sesko" target="_blank">FBref</a></p>
-  </div>
-  <div class="player-notes">
-    <p>
-      <iframe width="100%" height="200px" src="https://www.youtube.com/embed/xOaszv-jFDY" frameborder="0" allowfullscreen=""></iframe>
-    </p>
-  </div>
- <span class="popup-close"><i class="fa-solid fa-x"></i></span>  
-</div>
-  
-<div class="popup" id="Divin Mubama">
-  <div clas="player-info">
-    <h3 class="player-name">Divin Mubama</h3>
-    <p class="team"><strong>Team:</strong> West Ham</p>
-    <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/92868cb5/Divin-Mubama" target="_blank">FBref</a></p>
-  </div>
-  <div class="player-notes">
-    <p>
-      <iframe width="100%" height="200px" src="https://www.youtube.com/embed/hQ3gd4mU4Ew" frameborder="0" allowfullscreen=""></iframe>
-    </p>
-  </div>
- <span class="popup-close"><i class="fa-solid fa-x"></i></span>  
-</div>
 
 ### U23
 
@@ -235,6 +31,40 @@ window.addEventListener('DOMContentLoaded', function () {
 | **8** | [Jonathan David](https://fbref.com/en/players/ce50fd99/Jonathan-David) | Lille | <a href="https://youtu.be/Cn4h1L9cVQY"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | **9** | [Sydney van Hooijdonk](https://fbref.com/en/players/5b418e15/Sydney-van-Hooijdonk) | Heerenveen | <a href="https://youtu.be/Bvybn8pU0qk"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | **10** | [Abel Ruiz](https://fbref.com/en/players/6cbf8d0d/Abel-Ruiz) | Braga | <a href="https://youtu.be/taSxEl9zk_U"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+
+
+
+| **1** | [Loïs Openda](https://fbref.com/en/players/8652a85c/Lois-Openda) | RB Leipzig | <a href="https://youtu.be/TPNudMfYzkk"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+    <th></th>
+    <th>Name</th>
+    <th>Team</th>
+    <th>Added</th>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td><a href="#" name="Loïs Openda">Loïs Openda</a></td>
+    <td>RB Leipzig</td>
+    <td>4/23/23</td>
+  </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td><a href="#" name="Anastasios Douvikas">Anastasios Douvikas</a></td>
+    <td>FC Utrecht</td>
+    <td>4/23/23</td>
+  </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td><a href="#" name="Elye Wahi">Elye Wahi</a></td>
+    <td>Red Bull Salzburg</td>
+    <td>4/23/23</td>
+  </tr>
+  <tr>
+    <td><strong>4</strong></td>
+    <td><a href="#" name="Divin Mubama">Divin Mubama</a></td>
+    <td>West Ham</td>
+    <td>4/23/23</td>
+  </tr>
+</table>
 
 ### Senior 
 | | Name | Team | | Added | 
