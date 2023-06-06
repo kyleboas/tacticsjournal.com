@@ -109,3 +109,22 @@ layout: page
 |4|[Ben Doak](https://fbref.com/en/players/733f1a7d/Ben-Doak)|Liverpool|<a href="https://youtu.be/Jloy8u7k-ek"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 ### U23
+
+| |Name|Team| |Added|
+|:----|:----|:----|:----|:----|
+|1|[Moussa Diaby](https://fbref.com/en/players/aeed5c06/Moussa-Diaby)|Leverkusen|<a href="https://youtu.be/X3NOJpqW5EM"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|2|[Karim Adeyemi](https://fbref.com/en/players/501055d8/Karim-Adeyemi)|Dortmund|<a href="https://youtu.be/LIIbZzMy_Hk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|3|[Crysencio Summerville](https://fbref.com/en/players/df04eb4b/Crysencio-Summerville)|Leeds United|<a href="https://youtu.be/MiyhLlQj9IU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|4|[Neco Williams](https://fbref.com/en/players/afdc14d7/Nico-Williams)|Athletic Club|<a href="https://youtu.be/UPCrolKIEII"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|5|[Gabriel Veiga](https://fbref.com/en/players/35a6e5c7/Gabriel-Veiga)|Celta Vigo|<a href="https://youtu.be/R0nIQVJXb8E"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|6|[Michael Olise](https://fbref.com/en/players/c4486bac/Michael-Olise)|Crystal Palace|<a href="https://youtu.be/9mbD_nG4AHw"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|7|[Noni Madueke](https://fbref.com/en/players/bf34eebd/Noni-Madueke)|Chelsea|<a href="https://youtu.be/12jNrj3okWE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|8|[Nathan Tella](https://fbref.com/en/players/f1e94cd6/Nathan-Tella)|Burnley|<a href="https://youtu.be/CCY9F9k422E"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|9|[Brennan Johnson](https://fbref.com/en/players/0cd31129/Brennan-Johnson)|Nottignham Forrest|<a href="https://youtu.be/t7cUXSmEg3Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|10|[Yeremi Pino](https://fbref.com/en/players/540ec57b/Yeremi-Pino)|Villarreal|<a href="https://youtu.be/DXT30redP5I"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|11|[Reiss Nelson](https://fbref.com/en/players/c5bdb6e3/Reiss-Nelson)|Arsenal|<a href="https://youtu.be/9NMJ3UJ_o64"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|12|[Dango Ouattara](https://fbref.com/en/players/2f9e4435/Dango-Ouattara)|Bournemouth|<a href="https://youtu.be/xJpb4fA9tgs"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|13|[Samuel Chukwueze](https://fbref.com/en/players/b8a642fc/Samuel-Chukwueze)|Villarreal|<a href="https://youtu.be/wXaCgVfA1Og"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|15|[Mouhamadou Diarra](https://fbref.com/en/players/6d0fe035/Mouhamadou-Diarra)|Strasbourg|<a href="https://youtu.be/0OMQdvfCtaM"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|16|[Saumuel Edozie](https://fbref.com/en/players/007414dd/Samuel-Edozie)|Southampton|<a href="https://youtu.be/S6RMi8TrK3U"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|17|[Tetê](https://fbref.com/en/players/7120a04d/Tete)|Leicester City|<a href="https://youtu.be/ybgfxLDT8Zs"><i class="fa-solid fa-video"></i></a>|4/23/23|
