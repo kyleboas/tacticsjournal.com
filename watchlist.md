@@ -54,14 +54,8 @@ layout: page
 ### Senior 
 | | Name | Team | | Added | 
 | --- | --- | --- | --- | --- |
-| 1 | [Ivan Toney](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 1 | [Ivan Toney](https://fbref.com/en/players/e09f279b/Ivan-Toney) | Team | <a href="https://youtu.be/fYgaHT1wj3s"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | **2** | [Terem Moffi](https://fbref.com/en/players/065dc209/Terem-Moffi) | Nice | <a href="https://youtu.be/tBO4-O5X6A4"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| 3 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| 4 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| 5 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| 6 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| 7 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| 8 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| 9 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| 10 | [Youssoufa](https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko) | Team | <a href="https://youtu.be/SmHJ3219P-0"><i class="fa-solid fa-video"></i></a> | 4/23/23 
-      |
+| 3 | [Patson Daka](https://fbref.com/en/players/ca45605e/Patson-Daka) | Leicester City | <a href="https://youtu.be/eO58oDHsEp0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 4 | [Rodrigo](https://fbref.com/en/players/1fb1c435/Rodrigo) | Leeds | <a href="https://youtu.be/bK2Q-teKn4o"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| 5 | [Valentín Castellanos](https://fbref.com/en/players/da76bab4/Valentin-Castellanos) | Girona | <a href="https://youtu.be/IdoBKeERRfg"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
