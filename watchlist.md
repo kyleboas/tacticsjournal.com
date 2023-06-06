@@ -8,7 +8,8 @@ layout: page
 <style>
   table {
     width: 100%;
-    font-size: 16px;
+    font-size: 15px;
+    font-family: helvetica;
   }
   
   .fa-video-camera::before, .fa-video::before {
