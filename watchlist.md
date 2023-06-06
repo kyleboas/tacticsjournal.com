@@ -72,23 +72,62 @@ layout: page
 </style>
 <script>
   window.addEventListener('DOMContentLoaded', function () {
-    const popups = document.querySelectorAll('.popup');
+  const popups = document.querySelectorAll('.popup');
 
-    popups.forEach(function (popup) {
-      const name = popup.id;
-      const link = document.querySelector('a[name="' + name + '"]');
-      const closeBtn = popup.querySelector('.popup-close');
+  let scrollPosition = 0;
+  const body = document.body;
 
-      link.addEventListener('click', function (e) {
-        e.preventDefault();
-        popup.style.display = 'block';
-      });
+  popups.forEach(function (popup) {
+    const name = popup.id;
+    const link = document.querySelector('a[name="' + name + '"]');
+    const closeBtn = popup.querySelector('.popup-close');
+    const video = popup.querySelector('iframe');
 
-      closeBtn.addEventListener('click', function () {
-        popup.style.display = 'none';
-      });
+    link.addEventListener('click', function (e) {
+      e.preventDefault();
+      openPopup(popup);
+    });
+
+    closeBtn.addEventListener('click', function () {
+      closePopup(popup);
+    });
+
+    popup.addEventListener('click', function (e) {
+      e.stopPropagation();
     });
   });
+
+  function openPopup(popup) {
+    scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+    body.style.position = 'fixed';
+    body.style.top = `-${scrollPosition}px`;
+    body.style.width = '100%';
+    body.classList.add('noscroll');
+
+    popup.style.display = 'block';
+
+    const video = popup.querySelector('iframe');
+    if (video && video.contentWindow && video.contentWindow.postMessage) {
+      video.contentWindow.postMessage('{"event":"command","func":"' + 'playVideo' + '","args":""}', '*');
+    }
+  }
+
+  function closePopup(popup) {
+    popup.style.display = 'none';
+
+    body.classList.remove('noscroll');
+    body.style.position = 'static';
+    body.style.top = 'auto';
+    body.style.width = 'auto';
+    window.scrollTo(0, scrollPosition);
+
+    const video = popup.querySelector('iframe');
+    if (video && video.contentWindow && video.contentWindow.postMessage) {
+      video.contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
+    }
+  }
+});
+  
 </script>
 
 <table>
