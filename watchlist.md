@@ -71,17 +71,17 @@ layout: page
   }
 </style>
 <script>
-  window.addEventListener('DOMContentLoaded', function () {
+  
+window.addEventListener('DOMContentLoaded', function () {
   const popups = document.querySelectorAll('.popup');
-
-  let scrollPosition = 0;
+  const popupWrapper = document.querySelector('.popup-wrapper');
   const body = document.body;
+  let scrollPosition = 0;
 
   popups.forEach(function (popup) {
     const name = popup.id;
     const link = document.querySelector('a[name="' + name + '"]');
     const closeBtn = popup.querySelector('.popup-close');
-    const video = popup.querySelector('iframe');
 
     link.addEventListener('click', function (e) {
       e.preventDefault();
@@ -90,10 +90,6 @@ layout: page
 
     closeBtn.addEventListener('click', function () {
       closePopup(popup);
-    });
-
-    popup.addEventListener('click', function (e) {
-      e.stopPropagation();
     });
   });
 
@@ -104,16 +100,17 @@ layout: page
     body.style.width = '100%';
     body.classList.add('noscroll');
 
-    popup.style.display = 'block';
+    popup.classList.add('popup-active');
+    popupWrapper.style.display = 'flex';
 
     const video = popup.querySelector('iframe');
-    if (video && video.contentWindow && video.contentWindow.postMessage) {
-      video.contentWindow.postMessage('{"event":"command","func":"' + 'playVideo' + '","args":""}', '*');
-    }
+    const videoSrc = video.getAttribute('src');
+    video.setAttribute('src', videoSrc);
   }
 
   function closePopup(popup) {
-    popup.style.display = 'none';
+    popup.classList.remove('popup-active');
+    popupWrapper.style.display = 'none';
 
     body.classList.remove('noscroll');
     body.style.position = 'static';
@@ -122,11 +119,12 @@ layout: page
     window.scrollTo(0, scrollPosition);
 
     const video = popup.querySelector('iframe');
-    if (video && video.contentWindow && video.contentWindow.postMessage) {
-      video.contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
-    }
+    const videoSrc = video.getAttribute('src');
+    video.setAttribute('src', '');
+    video.setAttribute('src', videoSrc);
   }
 });
+
   
 </script>
 
@@ -168,7 +166,7 @@ layout: page
     <h3 class="player-name">Youssoufa Moukoko</h3>
     <p class="team"><strong>Team:</strong> Dortmund</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko">FBref</a></p>
+    <p class="fbref"><a href="https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko" target="_blank">FBref</a></p>
   </div>
   <div class="player-notes">
     <p>
@@ -183,7 +181,7 @@ layout: page
     <h3 class="player-name">Evan Ferguson</h3>
     <p class="team"><strong>Team:</strong> Brighton</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/4596da74/Evan-Ferguson">FBref</a></p>
+    <p class="fbref"><a href="https://fbref.com/en/players/4596da74/Evan-Ferguson" target="_blank">FBref</a></p>
   </div>
   <div class="player-notes">
     <p>
@@ -198,7 +196,7 @@ layout: page
     <h3 class="player-name">Benjamin Šeško</h3>
     <p class="team"><strong>Team:</strong> Red Bull Salzburg</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/3260690c/Benjamin-Sesko">FBref</a></p>
+    <p class="fbref"><a href="https://fbref.com/en/players/3260690c/Benjamin-Sesko" target="_blank">FBref</a></p>
   </div>
   <div class="player-notes">
     <p>
@@ -213,7 +211,7 @@ layout: page
     <h3 class="player-name">Divin Mubama</h3>
     <p class="team"><strong>Team:</strong> West Ham</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/92868cb5/Divin-Mubama">FBref</a></p>
+    <p class="fbref"><a href="https://fbref.com/en/players/92868cb5/Divin-Mubama" target="_blank">FBref</a></p>
   </div>
   <div class="player-notes">
     <p>
