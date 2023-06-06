@@ -138,3 +138,21 @@ layout: page
 |2|[Brahim Diaz](https://fbref.com/en/players/407feb71/Brahim-Diaz)|Real Madrid|<a href="https://youtu.be/gRYRzpY247Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 ## Center-Midfield
+
+### U20
+
+| |Name|#|Team| |Added|
+|:----|:----|:----|:----|:----|:----|
+|1|[Lamine Yamal](https://fbref.com/en/players/82ec26c1/Lamine-Yamal)|10|Manchester City|<a href="https://youtu.be/wIJRDH8bskM"><i class="fa-solid fa-video"></i></a>|6/6/23|
+|2|[Oscar Bobb](https://fbref.com/en/players/eed2427e/Oscar-Bobb)|10|Manchester City|<a href="https://youtu.be/5uSGhKavddQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|3|[Julio Enciso](https://fbref.com/en/players/9cfbad36/Julio-Cesar-Enciso)|10|Brighton|<a href="https://youtu.be/xJpo6qWemPc"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|4|[Andrey Santos](https://fbref.com/en/players/dd745366/Andrey-Santos)|8|Chelsea|<a href="https://youtu.be/0xSPNsmQpzQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|5|[Lewis Hall](https://fbref.com/en/players/da011f18/Lewis-Hall)|8|Chelsea|<a href="https://youtu.be/ySbcCz-FG_U"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|6|[Carney Chukwuemeka](https://fbref.com/en/players/b2f9c73e/Carney-Chukwuemeka)|8|Chelsea|<a href="https://youtu.be/4TvKKmtGSNA"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|7|[James McAtee](https://fbref.com/en/players/96593e89/James-Mcatee)|10|Manchester City|<a href="https://youtu.be/Rd8am8F7vpg"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|8|[Ilias Akhomach](https://fbref.com/en/players/b8bd60fe/Ilias-Akhomach)|10|Barcelona|<a href="https://youtu.be/4-AkK3qwb3k"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|9|[Andreas Schjelderup](https://fbref.com/en/players/a427724f/Andreas-Schjelderup)|10|Benfica|<a href="https://youtu.be/cEeLqzTU8CM"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|10|[Charlie Patino](https://fbref.com/en/players/e71aac2c/Charlie-Patino)|8|Arsenal|<a href="https://youtu.be/GdliaeciG2I"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+### U23
+
