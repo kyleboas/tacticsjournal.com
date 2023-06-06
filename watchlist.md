@@ -10,6 +10,11 @@ layout: page
     width: 100%;
     font-size: 14px;
   }
+  
+  .fa-video-camera::before, .fa-video::before {
+    color: rgb(169, 169, 169);
+    padding-right: 10px;
+ }
 
   @media (min-width: 768px) {
     table {
