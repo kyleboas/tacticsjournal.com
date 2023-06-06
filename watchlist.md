@@ -172,7 +172,7 @@ layout: page
   </div>
   <div class="player-notes">
     <p>
-      <iframe width="100%" height="200" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen=""></iframe>
+      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen=""></iframe>
     </p>
   </div>
  <span class="popup-close">X</span>  
@@ -187,7 +187,7 @@ layout: page
   </div>
   <div class="player-notes">
     <p>
-      <iframe width="100%" height="200" src="https://www.youtube.com/embed/Ygmyrdk8rkE" frameborder="0" allowfullscreen=""></iframe>
+      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Ygmyrdk8rkE" frameborder="0" allowfullscreen=""></iframe>
     </p>
   </div>
  <span class="popup-close">X</span>  
@@ -202,7 +202,7 @@ layout: page
   </div>
   <div class="player-notes">
     <p>
-      <iframe width="100%" height="200" src="https://www.youtube.com/embed/xOaszv-jFDY" frameborder="0" allowfullscreen=""></iframe>
+      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/xOaszv-jFDY" frameborder="0" allowfullscreen=""></iframe>
     </p>
   </div>
  <span class="popup-close">X</span>  
@@ -217,7 +217,7 @@ layout: page
   </div>
   <div class="player-notes">
     <p>
-      <iframe width="100%" height="200" src="https://www.youtube.com/embed/hQ3gd4mU4Ew" frameborder="0" allowfullscreen=""></iframe>
+      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/hQ3gd4mU4Ew" frameborder="0" allowfullscreen=""></iframe>
     </p>
   </div>
  <span class="popup-close">X</span>  
