@@ -143,7 +143,7 @@ layout: page
 
 | |Name|#|Team| |Added|
 |:----|:----|:----|:----|:----|:----|
-|1|[Lamine Yamal](https://fbref.com/en/players/82ec26c1/Lamine-Yamal)|10|Manchester City|<a href="https://youtu.be/wIJRDH8bskM"><i class="fa-solid fa-video"></i></a>|6/6/23|
+|1|[Lamine Yamal](https://fbref.com/en/players/82ec26c1/Lamine-Yamal)|10|Barcelona|<a href="https://youtu.be/wIJRDH8bskM"><i class="fa-solid fa-video"></i></a>|6/6/23|
 |2|[Oscar Bobb](https://fbref.com/en/players/eed2427e/Oscar-Bobb)|10|Manchester City|<a href="https://youtu.be/5uSGhKavddQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |3|[Julio Enciso](https://fbref.com/en/players/9cfbad36/Julio-Cesar-Enciso)|10|Brighton|<a href="https://youtu.be/xJpo6qWemPc"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |4|[Andrey Santos](https://fbref.com/en/players/dd745366/Andrey-Santos)|8|Chelsea|<a href="https://youtu.be/0xSPNsmQpzQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
