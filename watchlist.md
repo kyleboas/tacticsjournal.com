@@ -125,7 +125,6 @@ layout: page
     <p class="added"><strong>Added:</strong> 4/23/23</p>
   </div>
   <div class="player-notes">
-    <h3>Notes:</h3>
     <p>
       <iframe width="100%" height="200" src="https://www.youtube.com/embed/SmHJ3219P-0" frameborder="0" allowfullscreen=""></iframe>
     </p>
