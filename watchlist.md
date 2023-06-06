@@ -78,13 +78,13 @@ layout: page
 | |Name|Team| |Added|
 |:----|:----|:----|:----|:----|
 |1|[Jacob Ramsey](https://fbref.com/en/players/1544f145/Jacob-Ramsey)|Aston Villa|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|2|Igor Paixão|Feyenoord|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|3|Luis Sinisterra|Leeds|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|4|Dani Olmo|RB Leipzig |<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|5|Anass Zaroury|Burnley|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|6|Morgan Gibbs-White|Nottingham Forrest|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|7|Romaine Mundle|Tottenham|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|8|Tiago Gouveia|Estriol|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|9|Dwight McNeil|Everton|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|10|Kamaldeen Sulemana|Southampton|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|11|Jack Clarke|Sunderland|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|2|[Igor Paixão](https://fbref.com/en/players/089c7323/Igor-Paixao)|Feyenoord|<a href="https://youtu.be/SCuK425t3L0"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|3|[Luis Sinisterra](https://fbref.com/en/players/8e16dd48/Luis-Sinisterra)|Leeds United|<a href="https://youtu.be/O433z2mX8-8"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|4|[Dani Olmo](https://fbref.com/en/players/ae44e8e2/Dani-Olmo)|RB Leipzig |<a href="https://youtu.be/Vv6tN3q5pUw"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|5|[Anass Zaroury](https://fbref.com/en/players/07d65234/Anass-Zaroury)|Burnley|<a href="https://youtu.be/UhJncwDEjD0"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|6|[Morgan Gibbs-White](https://fbref.com/en/players/32f60ed8/Morgan-Gibbs-White)|Nottingham Forrest|<a href="https://youtu.be/vBbqKXmD8mQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|7|[Kamaldeen Sulemana](https://fbref.com/en/players/a62f8bf1/Kamaldeen-Sulemana)|Southampton|<a href="https://youtu.be/cQFjSOUhRrU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|8|[Romaine Mundle](https://fbref.com/en/players/597610cd/Romaine-Mundle)|Tottenham| |4/23/23|
+|9|[Tiago Gouveia](https://fbref.com/en/players/68cf59f0/Tiago-Gouveia)|Estriol|<a href="https://youtu.be/htNLnYOjLc4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|10|[Dwight McNeil](https://fbref.com/en/players/fc15fb84/Dwight-McNeil)|Everton|<a href="https://youtu.be/yvqajyWLrbA"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|11|[Jack Clarke](https://fbref.com/en/players/e16932d8/Jack-Clarke)|Sunderland|<a href="https://youtu.be/574o0TxwZto"><i class="fa-solid fa-video"></i></a>|4/23/23|
