@@ -168,7 +168,7 @@ layout: page
     <h3 class="player-name">Youssoufa Moukoko</h3>
     <p class="team"><strong>Team:</strong> Dortmund</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko</a>FBref</a></p>
+    <a class="fbref" href="https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko</a>FBref</a>
   </div>
   <div class="player-notes">
     <p>
