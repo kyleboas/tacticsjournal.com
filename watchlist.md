@@ -68,21 +68,23 @@ layout: page
 
 | | Name | Team | | Added | 
 | --- | --- | --- | --- | --- |
-| **1** | [Wilfried Gnonto](https://fbref.com/en/players/75fdd638/Degnand-Gnonto) | Leeds United | <a href="https://youtu.be/DWEfw0fobzw"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **2** | [Carlos Borges](https://fbref.com/en/players/8a310070/Carlos-Borges) | Manchester City | <a href="https://youtu.be/RPMSaHtT8GU"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **3** | Joel Ndala | Manchester City | <a href="https://youtu.be/CQNrwVZOknU"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| **1** | [Alejandro Garnacho](https://fbref.com/en/players/7aa8adfe/Alejandro-Garnacho) | Leeds United | <a href="https://youtu.be/DWEfw0fobzw"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| **2** | [Wilfried Gnonto](https://fbref.com/en/players/75fdd638/Degnand-Gnonto) | Leeds United | <a href="https://youtu.be/DWEfw0fobzw"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| **3** | [Carlos Borges](https://fbref.com/en/players/8a310070/Carlos-Borges) | Manchester City | <a href="https://youtu.be/RPMSaHtT8GU"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| **4** | Joel Ndala | Manchester City | <a href="https://youtu.be/CQNrwVZOknU"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 
 ### U23
 
-| | Name | Team | | Added | 
-| --- | --- | --- | --- | --- |
-| **1** | [Loïs Openda](https://fbref.com/en/players/8652a85c/Lois-Openda) | RB Leipzig | <a href="https://youtu.be/TPNudMfYzkk"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **2** | [Anastasios Douvikas](https://fbref.com/en/players/853ca71c/Anastasios-Douvikas) | FC Utrecht | <a href="https://youtu.be/qcuwT5usgu0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **3** | [Elye Wahi](https://fbref.com/en/players/0d7b6576/Elye-Wahi) | Montpellier | <a href="https://youtu.be/bLt6L0v7qg8"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **4** | [Nicolas Jackson](https://fbref.com/en/players/9c36ed83/Nicolas-Jackson) | Villarreal | <a href="https://youtu.be/sQD6sNd1Kmw"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **5** | [Gift Orban](https://fbref.com/en/players/de17db90/Gift-Orban) | Gent | <a href="https://youtu.be/Klsm-f7_kJ4"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **6** | [Carlos Alcaraz](https://fbref.com/en/players/4abac767/Carlos-Alcaraz) | Southampton | <a href="https://youtu.be/utGMkJeR2QQ"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **7** | [Ricardo Pepi](https://fbref.com/en/players/a2b1ed42/Ricardo-Pepi) | Groningen | <a href="https://youtu.be/d6RB9EFQIGM"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **8** | [Jonathan David](https://fbref.com/en/players/ce50fd99/Jonathan-David) | Lille | <a href="https://youtu.be/Cn4h1L9cVQY"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **9** | [Sydney van Hooijdonk](https://fbref.com/en/players/5b418e15/Sydney-van-Hooijdonk) | Heerenveen | <a href="https://youtu.be/Bvybn8pU0qk"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| **10** | [Abel Ruiz](https://fbref.com/en/players/6cbf8d0d/Abel-Ruiz) | Braga | <a href="https://youtu.be/taSxEl9zk_U"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| |Name|Team| |Added|
+|:----|:----|:----|:----|:----|
+|1|[Jacob Ramsey](https://fbref.com/en/players/1544f145/Jacob-Ramsey)|Aston Villa|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|2|Igor Paixão|Feyenoord|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|3|Luis Sinisterra|Leeds|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|4|Dani Olmo|RB Leipzig |<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|5|Anass Zaroury|Burnley|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|6|Morgan Gibbs-White|Nottingham Forrest|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|7|Romaine Mundle|Tottenham|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|8|Tiago Gouveia|Estriol|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|9|Dwight McNeil|Everton|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|10|Kamaldeen Sulemana|Southampton|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|11|Jack Clarke|Sunderland|<a href="https://youtu.be/RZiZ4_EBcUE"><i class="fa-solid fa-video"></i></a>|4/23/23|
