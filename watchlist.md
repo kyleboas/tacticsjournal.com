@@ -193,6 +193,31 @@ layout: page
 |[Eberechi Eze](https://fbref.com/en/players/ae4fc6a4/Eberechi-Eze)|Crystal Palace|<a href="https://youtu.be/h0s_RUJygZU"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Kiernan Dewsbury-Hall](https://fbref.com/en/players/5c74c0f5/Kiernan-Dewsbury-Hall)|Leicester City|<a href="https://youtu.be/T8ebHGPH-p4"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
+## Defensive Midfield
+
+### U20 
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Romeo Lavia](https://fbref.com/en/players/ecad9aa5/Romeo-Lavia)|Southampton|<a href="https://youtu.be/m7un1EAEDhY"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+### U23 
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Federico Redondo](|Argentinos Juniors|<a href="https://youtu.be/m7un1EAEDhY"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Nico González](https://fbref.com/en/players/2c56a792/Nicolas-Gonzalez)|Valenica|<a href="https://youtu.be/QIcbpc_KLN4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Jordan Teze](https://fbref.com/en/players/82e9b1bb/Jordan-Teze)|PSV|<a href="https://youtu.be/6YIaGYmK0h4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[James Garner](https://fbref.com/en/players/4e015693/James-Garner)|Everton|<a href="https://youtu.be/eelDUMkF98k"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+### Senior 
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Sofyan Amrabat](https://fbref.com/en/players/5a2cb25d/Sofyan-Amrabat)|Fiorentina|<a href="https://youtu.be/fu4oA8un9KI"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Ruben Neves](https://fbref.com/en/players/44bfb6c5/Ruben-Neves)|Wolves|<a href="https://youtu.be/21IXJH9H15Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[João Palhinha](https://fbref.com/en/players/a78ff07f/Joao-Palhinha)|Fulham|<a href="https://youtu.be/s_RcDEOU7z0"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
 
 
 
