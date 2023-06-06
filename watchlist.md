@@ -144,39 +144,55 @@ layout: page
 
 ### U20
 
-|Name|#|Team| |Added|
-|:----|:----|:----|:----|:----|
-|[Lamine Yamal](https://fbref.com/en/players/82ec26c1/Lamine-Yamal)|10|Manchester City|<a href="https://youtu.be/wIJRDH8bskM"><i class="fa-solid fa-video"></i></a>|6/6/23|
-|[Oscar Bobb](https://fbref.com/en/players/eed2427e/Oscar-Bobb)|10|Manchester City|<a href="https://youtu.be/5uSGhKavddQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Julio Enciso](https://fbref.com/en/players/9cfbad36/Julio-Cesar-Enciso)|10|Brighton|<a href="https://youtu.be/xJpo6qWemPc"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Andrey Santos](https://fbref.com/en/players/dd745366/Andrey-Santos)|8|Chelsea|<a href="https://youtu.be/0xSPNsmQpzQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Lewis Hall](https://fbref.com/en/players/da011f18/Lewis-Hall)|8|Chelsea|<a href="https://youtu.be/ySbcCz-FG_U"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Carney Chukwuemeka](https://fbref.com/en/players/b2f9c73e/Carney-Chukwuemeka)|8|Chelsea|<a href="https://youtu.be/4TvKKmtGSNA"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[James McAtee](https://fbref.com/en/players/96593e89/James-Mcatee)|10|Manchester City|<a href="https://youtu.be/Rd8am8F7vpg"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Ilias Akhomach](https://fbref.com/en/players/b8bd60fe/Ilias-Akhomach)|10|Barcelona|<a href="https://youtu.be/4-AkK3qwb3k"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Andreas Schjelderup](https://fbref.com/en/players/a427724f/Andreas-Schjelderup)|10|Benfica|<a href="https://youtu.be/cEeLqzTU8CM"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Charlie Patino](https://fbref.com/en/players/e71aac2c/Charlie-Patino)|8|Arsenal|<a href="https://youtu.be/GdliaeciG2I"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Lamine Yamal](https://fbref.com/en/players/82ec26c1/Lamine-Yamal)|Barcelona|<a href="https://youtu.be/wIJRDH8bskM"><i class="fa-solid fa-video"></i></a>|6/6/23|
+|[Oscar Bobb](https://fbref.com/en/players/eed2427e/Oscar-Bobb)|Manchester City|<a href="https://youtu.be/5uSGhKavddQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Julio Enciso](https://fbref.com/en/players/9cfbad36/Julio-Cesar-Enciso)|Brighton|<a href="https://youtu.be/xJpo6qWemPc"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Andrey Santos](https://fbref.com/en/players/dd745366/Andrey-Santos)|Chelsea|<a href="https://youtu.be/0xSPNsmQpzQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Lewis Hall](https://fbref.com/en/players/da011f18/Lewis-Hall)|Chelsea|<a href="https://youtu.be/ySbcCz-FG_U"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Carney Chukwuemeka](https://fbref.com/en/players/b2f9c73e/Carney-Chukwuemeka)|Chelsea|<a href="https://youtu.be/4TvKKmtGSNA"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[James McAtee](https://fbref.com/en/players/96593e89/James-Mcatee)|Manchester City|<a href="https://youtu.be/Rd8am8F7vpg"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Ilias Akhomach](https://fbref.com/en/players/b8bd60fe/Ilias-Akhomach)|Barcelona|<a href="https://youtu.be/4-AkK3qwb3k"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Andreas Schjelderup](https://fbref.com/en/players/a427724f/Andreas-Schjelderup)|Benfica|<a href="https://youtu.be/cEeLqzTU8CM"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Charlie Patino](https://fbref.com/en/players/e71aac2c/Charlie-Patino)|Arsenal|<a href="https://youtu.be/GdliaeciG2I"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
 
 ### U23
 
-|Name|#|Team| |Added|
-|:----|:----|:----|:----|:----|
-|[Jamal Musiala](https://fbref.com/en/players/2c0558b8/Jamal-Musiala)|10|Bayern Munich|<a href="https://youtu.be/KNHi0wYYpP0"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Nicolo Fagioli](https://fbref.com/en/players/366be751/Nicolo-Fagioli)|8|Juventus|<a href="https://youtu.be/cxmW-h5WSzI"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Dominik Szoboszlai](https://fbref.com/en/players/934e1968/Dominik-Szoboszlai)|10|RB Leipzig |<a href="https://youtu.be/CrWChoV5rOQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Enzo Le Fée](https://fbref.com/en/players/6f806d99/Enzo-Le-Fee)|10|Lorient|<a href="https://youtu.be/qnCByqJoWKk"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Johan Bakayoko](https://fbref.com/en/players/0caa2fd4/Johan-Bakayoko)|10|PSV|<a href="https://youtu.be/hUd-aBnBLBY"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Patrick Wimmer](https://fbref.com/en/players/cb11b429/Patrick-Wimmer)|10|Wolfsburg|<a href="https://youtu.be/i0fg_r29Lvw"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Amad Diallo](https://fbref.com/en/players/9dc96f10/Amad-Diallo)|10|Sunderland|<a href="https://youtu.be/wZjBBuyt4QQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Tom Krauss](https://fbref.com/en/players/9f77012e/Tom-Krauss)|8|RB Leipzig |<a href="https://youtu.be/bd9NocYbCEU"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Bradley Barcola](https://fbref.com/en/players/a0d55a09/Bradley-Barcola)|8|Lyon|<a href="https://youtu.be/wM-oLO3XvfQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Sebastian Szymański](https://fbref.com/en/players/bb718263/Sebastian-Szymanski)|8|Feyenoord|<a href="https://youtu.be/MyjiAFtovXA"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Brenden Aaronson](https://fbref.com/en/players/5bc43860/Brenden-Aaronson)|10|Leeds|<a href="https://youtu.be/o4JzGLSe4MM"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Amadou Onana](https://fbref.com/en/players/828657ff/Amadou-Onana)|8|Everton|<a href="https://youtu.be/6dmuAfIklX8"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Santiago Giménez](https://fbref.com/en/players/37337aea/Santiago-Gimenez)|8|Feyenoord|<a href="https://youtu.be/KL-FGR95swU"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Alex Robertson](https://fbref.com/en/players/3434ac72/Alexander-Robertson)|10|Manchester City|<a href="https://youtu.be/qW3hyPzHsvU"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Yasin Ayari](https://fbref.com/en/players/f173303a/Yasin-Ayari)|8|Brighton|<a href="https://youtu.be/pvWrEclsJCU"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Elliot Anderson](https://fbref.com/en/players/de31038e/Elliot-Anderson)|8|Newcastle United|<a href="https://youtu.be/oXHV-4yUz4Q"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Jamal Musiala](https://fbref.com/en/players/2c0558b8/Jamal-Musiala)|Bayern Munich|<a href="https://youtu.be/KNHi0wYYpP0"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Nicolo Fagioli](https://fbref.com/en/players/366be751/Nicolo-Fagioli)|Juventus|<a href="https://youtu.be/cxmW-h5WSzI"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Jadon Sancho](https://fbref.com/en/players/dbf053da/Jadon-Sancho)|Manchester United| |4/23/23|
+|[Dominik Szoboszlai](https://fbref.com/en/players/934e1968/Dominik-Szoboszlai)|RB Leipzig |<a href="https://youtu.be/CrWChoV5rOQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Enzo Le Fée](https://fbref.com/en/players/6f806d99/Enzo-Le-Fee)|Lorient|<a href="https://youtu.be/qnCByqJoWKk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Johan Bakayoko](https://fbref.com/en/players/0caa2fd4/Johan-Bakayoko)|PSV|<a href="https://youtu.be/hUd-aBnBLBY"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Boubacar Kamara](https://fbref.com/en/players/cc77354e/Boubacar-Kamara)|Aston Villa| |4/23/23|
+|[Patrick Wimmer](https://fbref.com/en/players/cb11b429/Patrick-Wimmer)|Wolfsburg|<a href="https://youtu.be/i0fg_r29Lvw"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Amad Diallo](https://fbref.com/en/players/9dc96f10/Amad-Diallo)|Sunderland|<a href="https://youtu.be/wZjBBuyt4QQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Tom Krauss](https://fbref.com/en/players/9f77012e/Tom-Krauss)|RB Leipzig |<a href="https://youtu.be/bd9NocYbCEU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Bradley Barcola](https://fbref.com/en/players/a0d55a09/Bradley-Barcola)|Lyon|<a href="https://youtu.be/wM-oLO3XvfQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Sebastian Szymański](https://fbref.com/en/players/bb718263/Sebastian-Szymanski)|Feyenoord|<a href="https://youtu.be/MyjiAFtovXA"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Brenden Aaronson](https://fbref.com/en/players/5bc43860/Brenden-Aaronson)|Leeds|<a href="https://youtu.be/o4JzGLSe4MM"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Amadou Onana](https://fbref.com/en/players/828657ff/Amadou-Onana)|Everton|<a href="https://youtu.be/6dmuAfIklX8"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Santiago Giménez](https://fbref.com/en/players/37337aea/Santiago-Gimenez)|Feyenoord|<a href="https://youtu.be/KL-FGR95swU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Alex Robertson](https://fbref.com/en/players/3434ac72/Alexander-Robertson)|Manchester City|<a href="https://youtu.be/qW3hyPzHsvU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Yasin Ayari](https://fbref.com/en/players/f173303a/Yasin-Ayari)|Brighton|<a href="https://youtu.be/pvWrEclsJCU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Elliot Anderson](https://fbref.com/en/players/de31038e/Elliot-Anderson)|Newcastle United|<a href="https://youtu.be/oXHV-4yUz4Q"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+### Senior 
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[James Maddison](https://fbref.com/en/players/ee38d9c5/James-Maddison)|Leciester City|<a href="https://youtu.be/9J4ymxYpoOs"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Azzedine Ounahi](https://fbref.com/en/players/83299cc0/Azzedine-Ounahi)|Marseille|<a href="https://youtu.be/Wtt3tMAqvxw"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Youri Tielemans](https://fbref.com/en/players/56f7a928/Youri-Tielemans)|Leicester City|<a href="https://youtu.be/GzJYsvqg3Ls"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[James Ward-Prowse](https://fbref.com/en/players/3515d404/James-Ward-Prowse)|Southampton|<a href="https://youtu.be/-6w8kkgI4nM"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[João Mário](https://fbref.com/en/players/f0021247/Joao-Mario)|Benfica|<a href="https://youtu.be/srw0t50NA9M"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Eberechi Eze](https://fbref.com/en/players/ae4fc6a4/Eberechi-Eze)|Crystal Palace|<a href="https://youtu.be/h0s_RUJygZU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Kiernan Dewsbury-Hall](https://fbref.com/en/players/5c74c0f5/Kiernan-Dewsbury-Hall)|Leicester City|<a href="https://youtu.be/T8ebHGPH-p4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
 
 
 
