@@ -156,3 +156,23 @@ layout: page
 
 ### U23
 
+| |Name|#|Team| |Added|
+|:----|:----|:----|:----|:----|:----|
+|1|[Jamal Musiala](https://fbref.com/en/players/2c0558b8/Jamal-Musiala)|10|Bayern Munich|<a href="https://youtu.be/KNHi0wYYpP0"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|2|[Nicolo Fagioli](https://fbref.com/en/players/366be751/Nicolo-Fagioli)|8|Juventus|<a href="https://youtu.be/cxmW-h5WSzI"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|3|[Dominik Szoboszlai](https://fbref.com/en/players/934e1968/Dominik-Szoboszlai)|10|RB Leipzig |<a href="https://youtu.be/CrWChoV5rOQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|4|[Enzo Le Fée](https://fbref.com/en/players/6f806d99/Enzo-Le-Fee)|10|Lorient|<a href="https://youtu.be/qnCByqJoWKk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|5|[Johan Bakayoko](https://fbref.com/en/players/0caa2fd4/Johan-Bakayoko)|10|PSV|<a href="https://youtu.be/hUd-aBnBLBY"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|6|[Patrick Wimmer](https://fbref.com/en/players/cb11b429/Patrick-Wimmer)|10|Wolfsburg|<a href="https://youtu.be/i0fg_r29Lvw"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|7|[Amad Diallo](https://fbref.com/en/players/9dc96f10/Amad-Diallo)|10|Sunderland|<a href="https://youtu.be/wZjBBuyt4QQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|8|[Tom Krauss](https://fbref.com/en/players/9f77012e/Tom-Krauss)|8|RB Leipzig |<a href="https://youtu.be/bd9NocYbCEU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|9|[Bradley Barcola](https://fbref.com/en/players/a0d55a09/Bradley-Barcola)|8|Lyon|<a href="https://youtu.be/wM-oLO3XvfQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|10|[Sebastian Szymański](https://fbref.com/en/players/bb718263/Sebastian-Szymanski)|8|Feyenoord|<a href="https://youtu.be/MyjiAFtovXA"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|11|[Brenden Aaronson](https://fbref.com/en/players/5bc43860/Brenden-Aaronson)|10|Leeds|<a href="https://youtu.be/o4JzGLSe4MM"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|12|[Amadou Onana](https://fbref.com/en/players/828657ff/Amadou-Onana)|8|Everton|<a href="https://youtu.be/6dmuAfIklX8"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|13|[Santiago Giménez](https://fbref.com/en/players/37337aea/Santiago-Gimenez)|8|Feyenoord|<a href="https://youtu.be/KL-FGR95swU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|15|[Alex Robertson](https://fbref.com/en/players/3434ac72/Alexander-Robertson)|10|Manchester City|<a href="https://youtu.be/qW3hyPzHsvU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|16|[Yasin Ayari](https://fbref.com/en/players/f173303a/Yasin-Ayari)|8|Brighton|<a href="https://youtu.be/pvWrEclsJCU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|17|[Elliot Anderson](https://fbref.com/en/players/de31038e/Elliot-Anderson)|8|Newcastle United|<a href="https://youtu.be/oXHV-4yUz4Q"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+
