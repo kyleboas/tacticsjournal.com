@@ -10,7 +10,7 @@ layout: page
 ### U20
 
 <style>
-  .table {
+  table {
     width: 100%;
     font-size: 14px;
   }
@@ -64,9 +64,9 @@ layout: page
     .popup {
       width: 50%;
     }
-    .table {
+    table {
       font-size: 1.5em;
-      width: 60%;
+      width: 70%;
     }
   }
 </style>
