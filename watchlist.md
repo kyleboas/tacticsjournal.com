@@ -168,7 +168,7 @@ layout: page
     <h3 class="player-name">Youssoufa Moukoko</h3>
     <p class="team"><strong>Team:</strong> Dortmund</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko"</a>FBref</a>
+    <p class="fbref"><a href="https://fbref.com/en/players/6ce43701/Youssoufa-Moukoko"</a>FBref</a></p>
   </div>
   <div class="player-notes">
     <p>
@@ -183,7 +183,7 @@ layout: page
     <h3 class="player-name">Evan Ferguson</h3>
     <p class="team"><strong>Team:</strong> Brighton</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/4596da74/Evan-Ferguson"</a>FBref</a>
+    <p class="fbref"><a href="https://fbref.com/en/players/4596da74/Evan-Ferguson"</a>FBref</a></p>
   </div>
   <div class="player-notes">
     <p>
@@ -198,7 +198,7 @@ layout: page
     <h3 class="player-name">Benjamin Šeško</h3>
     <p class="team"><strong>Team:</strong> Red Bull Salzburg</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/3260690c/Benjamin-Sesko"</a>FBref</a>
+    <p class="fbref"><a href="https://fbref.com/en/players/3260690c/Benjamin-Sesko"</a>FBref</a></p>
   </div>
   <div class="player-notes">
     <p>
@@ -207,16 +207,13 @@ layout: page
   </div>
  <span class="popup-close">X</span>  
 </div>
-
-Divin Mubama</a></td>
-    <td>West Ham
   
 <div class="popup" id="Divin Mubama">
   <div clas="player-info">
     <h3 class="player-name">Divin Mubama</h3>
     <p class="team"><strong>Team:</strong> West Ham</p>
     <p class="added"><strong>Added:</strong> 4/23/23</p>
-    <p class="fbref"><a href="https://fbref.com/en/players/92868cb5/Divin-Mubama"</a>FBref</a>
+    <p class="fbref"><a href="https://fbref.com/en/players/92868cb5/Divin-Mubama"</a>FBref</a></p>
   </div>
   <div class="player-notes">
     <p>
@@ -224,6 +221,7 @@ Divin Mubama</a></td>
     </p>
   </div>
  <span class="popup-close">X</span>  
+</div>
 
 ### U23
 
