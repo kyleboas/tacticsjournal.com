@@ -178,7 +178,52 @@ layout: page
  <span class="popup-close">X</span>  
 </div>
 
+<div class="popup" id="Evan Ferguson">
+  <div clas="player-info">
+    <h3 class="player-name">Evan Ferguson</h3>
+    <p class="team"><strong>Team:</strong> Brighton</p>
+    <p class="added"><strong>Added:</strong> 4/23/23</p>
+    <p class="fbref"><a href="https://fbref.com/en/players/4596da74/Evan-Ferguson"</a>FBref</a>
+  </div>
+  <div class="player-notes">
+    <p>
+      <iframe width="100%" height="200" src="https://www.youtube.com/embed/Ygmyrdk8rkE" frameborder="0" allowfullscreen=""></iframe>
+    </p>
+  </div>
+ <span class="popup-close">X</span>  
+</div>
 
+<div class="popup" id="Benjamin Šeško">
+  <div clas="player-info">
+    <h3 class="player-name">Benjamin Šeško</h3>
+    <p class="team"><strong>Team:</strong> Red Bull Salzburg</p>
+    <p class="added"><strong>Added:</strong> 4/23/23</p>
+    <p class="fbref"><a href="https://fbref.com/en/players/3260690c/Benjamin-Sesko"</a>FBref</a>
+  </div>
+  <div class="player-notes">
+    <p>
+      <iframe width="100%" height="200" src="https://www.youtube.com/embed/xOaszv-jFDY" frameborder="0" allowfullscreen=""></iframe>
+    </p>
+  </div>
+ <span class="popup-close">X</span>  
+</div>
+
+Divin Mubama</a></td>
+    <td>West Ham
+  
+<div class="popup" id="Divin Mubama">
+  <div clas="player-info">
+    <h3 class="player-name">Divin Mubama</h3>
+    <p class="team"><strong>Team:</strong> West Ham</p>
+    <p class="added"><strong>Added:</strong> 4/23/23</p>
+    <p class="fbref"><a href="https://fbref.com/en/players/92868cb5/Divin-Mubama"</a>FBref</a>
+  </div>
+  <div class="player-notes">
+    <p>
+      <iframe width="100%" height="200" src="https://www.youtube.com/embed/hQ3gd4mU4Ew" frameborder="0" allowfullscreen=""></iframe>
+    </p>
+  </div>
+ <span class="popup-close">X</span>  
 
 ### U23
 
