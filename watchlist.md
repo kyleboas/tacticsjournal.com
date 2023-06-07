@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p>*last updated: June 5, 2023*</p>
+<p><em>last updated: June 5, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
