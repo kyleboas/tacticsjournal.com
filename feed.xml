@@ -17,9 +17,13 @@ layout: null
         <link>{{ site.url }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <author>Kyle Boas</author> <!-- Add the author's name here -->
+        <author>Kyle Boas</author>
         <description>{{ post.excerpt | xml_escape }}</description>
-        <content:encoded>{{ post.content | xml_escape }}</content:encoded>
+        <content:encoded>
+          <![CDATA[
+            {% raw %}{{ post.content }}{% endraw %}
+          ]]>
+        </content:encoded>
       </item>
     {% endfor %}
   </channel>
