@@ -16,12 +16,13 @@ layout: null
     {% for post in site.posts %}
       <item>
         <title>{{ post.title }}</title>
-        <link>{{ site.url }}{{ post.url }}</link>
-        <guid>{{ site.url }}{{ post.url }}</guid>
+        <link>{{ site.url }}{{ post.url | uri_escape }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url | uri_escape }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <author>{{ post.author }}</author>
         <description>{{ post.excerpt | xml_escape }}</description>
         <content:encoded><![CDATA[
-          {{ post.content }}
+          {{ post.content | xml_escape }}
         ]]></content:encoded>
       </item>
     {% endfor %}
