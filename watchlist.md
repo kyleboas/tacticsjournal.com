@@ -361,7 +361,6 @@ layout: page
 |:----|:----|:----|:----|
 |[Yehvann Diouf](https://fbref.com/en/players/eedea60b/Yehvann-Diouf)|Reims|<a href="https://youtu.be/RSgDIklLwdo"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Andrew Silva](https://fbref.com/en/players/40406a00/Andrew)|Gil Vicente|<a href="https://youtu.be/3TbX9lRwjXY"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Diogo Costa](https://fbref.com/en/players/93fffbcf/Diogo-Costa)|FC Porto|<a href="https://youtu.be/5_UGC0raHCk"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Bart Verbruggen](https://fbref.com/en/players/cf134113/Bart-Verbruggen)|Anderlecht|<a href="https://youtu.be/j7OF6Q92I_M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Lucas Chevalier](https://fbref.com/en/players/b3d76d84/Lucas-Chevalier)|Lille|<a href="https://youtu.be/9hq0t1oR2rY"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Giorgi Mamardashvili](https://fbref.com/en/players/d4b73232/Giorgi-Mamardashvili)|Valencia|<a href="https://youtu.be/sMtErGEuBb8"><i class="fa-solid fa-video"></i></a>|4/23/23|
