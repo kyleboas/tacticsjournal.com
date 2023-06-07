@@ -7,7 +7,7 @@ categories:
 image: /uploads/2023/06/07/Image-07Jun2023_05:42:33.jpeg
 ---
 
-I have decided to create a public watchlist of players whom I think are undervalued, separated by position and age, with links to both their FBref page and a YouTube compilation.
+June 7, 2023 — I have decided to create a public watchlist of players whom I think are undervalued, separated by position and age, with links to both their FBref page and a YouTube compilation.
 
 <!---more--->
 
