@@ -79,10 +79,8 @@ gems:
   - jekyll-seo-tag # Adds SEO metadata
   - jekyll-feed # RSS feed
 
-# RSS Feed
-feed:
-  path: feed.xml
-
+permalink_defaults:
+  feed: '/feed.xml'
 
 # Posts
 show_drafts: false
