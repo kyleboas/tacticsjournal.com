@@ -20,9 +20,11 @@ layout: null
         <guid>{{ site.url }}{{ post.url }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <description>{{ post.excerpt | xml_escape }}</description>
-        <content:encoded><![CDATA[
-          {{ post.content | xml_escape }}
-        ]]></content:encoded>
+        <content:encoded>
+          <![CDATA[
+            {{ post.content }}
+          ]]>
+        </content:encoded>
       </item>
     {% endfor %}
   </channel>
