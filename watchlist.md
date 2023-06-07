@@ -16,6 +16,11 @@ layout: page
     font-family: helvetica;
   }
   
+  .dashed {
+    border-style: none none dashed;
+    margin-top: 40px;
+  }
+  
   .fa-video-camera::before, .fa-video::before {
     color: rgb(169, 169, 169);
     padding-right: 10px;
