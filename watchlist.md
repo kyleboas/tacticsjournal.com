@@ -294,7 +294,7 @@ layout: page
 |:----|:----|:----|:----|
 |[Aaron Wan-Bissaka](https://fbref.com/en/players/9e525177/Aaron-Wan-Bissaka)|Manchester United|<a href="https://youtu.be/8G0jm5I_xT8"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Thilo Kehrer](https://fbref.com/en/players/51dbeea9/Thilo-Kehrer)|West Ham|<a href="https://youtu.be/IwGqrVmSvXk"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|Timothy Castagne|Leicester|<a href="https://youtu.be/7eOudrOjh8M"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Timothy Castagne](https://fbref.com/en/players/197640fd/Timothy-Castagne)|Leicester|<a href="https://youtu.be/7eOudrOjh8M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 <hr class="dashed">
 
