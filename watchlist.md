@@ -179,7 +179,6 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[Jamal Musiala](https://fbref.com/en/players/2c0558b8/Jamal-Musiala)|Bayern Munich|<a href="https://youtu.be/KNHi0wYYpP0"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Nicolo Fagioli](https://fbref.com/en/players/366be751/Nicolo-Fagioli)|Juventus|<a href="https://youtu.be/cxmW-h5WSzI"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Jadon Sancho](https://fbref.com/en/players/dbf053da/Jadon-Sancho)|Manchester United| |4/23/23|
 |[Dominik Szoboszlai](https://fbref.com/en/players/934e1968/Dominik-Szoboszlai)|RB Leipzig |<a href="https://youtu.be/CrWChoV5rOQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
