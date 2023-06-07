@@ -306,6 +306,7 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Levi Colwill](https://fbref.com/en/players/700783e7/Levi-Colwill)|Brighton|<a href="https://youtu.be/8QkIry5TGOk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Benoît Badiashile](https://fbref.com/en/players/06df8256/Benoit-Badiashile)|Chelsea|<a href="https://youtu.be/Hng9H_RZgsk"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Marc Guéhi](https://fbref.com/en/players/d0706b27/Marc-Guehi)|Crystal Palace|<a href="https://youtu.be/vBJMeDJa82c"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |Brian Plat|FC Volendam|<a href="https://youtu.be/8iUCw0xcr7M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
@@ -342,7 +343,6 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[Benoît Badiashile](https://fbref.com/en/players/06df8256/Benoit-Badiashile)|Chelsea|<a href="https://youtu.be/Hng9H_RZgsk"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Devyne Rensch](https://fbref.com/en/players/c5cbbcff/Devyne-Rensch)|Ajax|<a href="https://youtu.be/uFMzO6SoF34"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 ### Senior 
