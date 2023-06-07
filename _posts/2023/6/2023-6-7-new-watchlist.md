@@ -4,7 +4,7 @@ date: 2023-6-7 07:00:00 UTC
 title: "New Watchlist" 
 categories: 
 - "Update" 
-image: /uploads/2023/06/06/Image-06Jun2023_21:35:23.jpeg
+image: /uploads/2023/06/07/Image-07Jun2023_05:42:33.jpeg
 ---
 
 June 7, 2023 — I have decided to create a public watchlist of players whom I think are undervalued, separated by position and age, with links to both their FBref page and a YouTube compilation.
@@ -16,7 +16,7 @@ June 7, 2023 — I have decided to create a public watchlist of players whom I t
 > I will be updating this frequently so check back or bookmark it. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/06/Image-06Jun2023_21:35:23.jpeg">
+    <img src="https://tacticsjournal.com/uploads/2023/06/07/Image-07Jun2023_05:42:33.jpeg">
     <figcaption>Figure 1.1 - Undervalued XI 2022/2023</figcaption>
 </figure> 
 
