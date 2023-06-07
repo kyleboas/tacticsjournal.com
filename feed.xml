@@ -6,12 +6,12 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
   <channel>
-    <title>{{ site.title }}</title>
-    <link>{{ site.url }}</link>
-    <description>{{ site.description }}</description>
+    <title>Tactics Journal</title>
+    <link>https://tacticsjournal.com/</link>
+    <description>Analyzing football tactics by Kyle Boas</description>
     <language>en-us</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <atom:link href="{{ site.url }}/feed" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tacticsjournal.com/feed" rel="self" type="application/rss+xml" />
 
     {% for post in site.posts %}
       <item>
