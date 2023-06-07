@@ -242,42 +242,85 @@ layout: page
 |:----|:----|:----|:----|
 |[Kostas Tsimikas](https://fbref.com/en/players/f315ca93/Kostas-Tsimikas)|Liverpool|<a href="https://youtu.be/ffteOGo-DbI"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
-
-
 ## Right-Back 
 
 ### U20 
 
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Arnau Martinez](https://fbref.com/en/players/c3e66ffe/Arnau-Martinez)|Girona|<a href="https://youtu.be/MwrB_qkZBf8"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Malo Gusto](https://fbref.com/en/players/d56b9520/Malo-Gusto)|Lyon|<a href="https://youtu.be/SfP7km82iJM"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Iván Fresneda](https://fbref.com/en/players/29d0f2ac/Ivan-Fresneda)|Valladolid|<a href="https://youtu.be/u1gO6xlPiuc"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
 ### U23 
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Vanderson](https://fbref.com/en/players/ee45fd85/Vanderson)|Monaco|<a href="https://youtu.be/kuJyNy6E6G4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Luiz Henrique](https://fbref.com/en/players/8059806f/Luiz-Henrique)|Real Betis|<a href="https://youtu.be/jf0yWTm_25g"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Kyle Walker-Peters](https://fbref.com/en/players/984a5a64/Kyle-Walker-Peters)|Southampton|<a href="https://youtu.be/fhuc8bO-LBQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Nathan Patterson](https://fbref.com/en/players/230f0471/Nathan-Patterson)|Everton|<a href="https://youtu.be/O-dXe_EhUUk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|Liam van Gelderen|FC Groningen| |4/23/23|
 
 ### Senior 
 
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Aaron Wan-Bissaka](https://fbref.com/en/players/9e525177/Aaron-Wan-Bissaka)|Manchester United|<a href="https://youtu.be/8G0jm5I_xT8"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Thilo Kehrer](https://fbref.com/en/players/51dbeea9/Thilo-Kehrer)|West Ham|<a href="https://youtu.be/IwGqrVmSvXk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|Timothy Castagne|Leicester|<a href="https://youtu.be/7eOudrOjh8M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 
 ## Left Center-Back 
 
 ### U23 
 
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Levi Colwill](https://fbref.com/en/players/700783e7/Levi-Colwill)|Brighton|<a href="https://youtu.be/8QkIry5TGOk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Marc Guéhi](https://fbref.com/en/players/d0706b27/Marc-Guehi)|Crystal Palace|<a href="https://youtu.be/vBJMeDJa82c"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|Brian Plat|FC Volendam|<a href="https://youtu.be/8iUCw0xcr7M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 ### Senior 
 
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Declan Rice](https://fbref.com/en/players/1c7012b8/Declan-Rice)|West Ham|<a href="https://youtu.be/nRbBVVPRBmw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 
 ## Center Center-Back 
 
 ### U23
 
-### Senior 
-
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Vinicius Souza](https://fbref.com/en/players/6a8a7af8/Vinicius-Souza)|Espanoyl|<a href="https://youtu.be/iOr-y-_SU3A"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Mees Hilgers](https://fbref.com/en/players/4eb00fda/Mees-Hilgers)|FC Twente|<a href="https://youtu.be/VpaENvjKr5A"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Eric Martel](https://fbref.com/en/players/92a16062/Eric-Martel)|1. FC Koln| |4/23/23|
 
 
 ## Right Center-Back 
 
 ### U20 
 
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Shea Charles](https://fbref.com/en/players/5cc3ce65/Shea-Charles)|Manchester City|<a href="https://youtu.be/33NXwUfLRF4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Bashir Humphreys](https://fbref.com/en/players/d2b32e91/Bashir-Humphreys)|Chelsea|<a href="https://youtu.be/7HLkCoA3gUI"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
 ### U23
 
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Benoît Badiashile](https://fbref.com/en/players/06df8256/Benoit-Badiashile)|Chelsea|<a href="https://youtu.be/Hng9H_RZgsk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Devyne Rensch](https://fbref.com/en/players/c5cbbcff/Devyne-Rensch)|Ajax|<a href="https://youtu.be/uFMzO6SoF34"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
 ### Senior 
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Nayef Aguerd](https://fbref.com/en/players/288e1e13/Nayef-Aguerd)|West Ham|<a href="https://youtu.be/NrEyySd231s"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Joachim Andersen](https://fbref.com/en/players/e34fc66d/Joachim-Andersen)|Crystal Palace| |4/23/23|
 
 
 ## Goalkeeper 
