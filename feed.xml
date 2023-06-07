@@ -22,7 +22,7 @@ layout: null
         <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
         <description>{{ post.excerpt | xml_escape }}</description>
         <content:encoded><![CDATA[
-          {{ post.content | xml_escape }}
+          {{ post.content }}
         ]]></content:encoded>
       </item>
     {% endfor %}
