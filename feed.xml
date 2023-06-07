@@ -4,17 +4,22 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-    <title>{{ site.name }}</title>
-    <link>{{ site.url }}</link>
-    <description>{{ site.description }}</description>
-    <language>en-us</language>
+    <title>Tactics Journal</title>
+    <subtitle>Analyzing football tactics by Kyle Boas</subtitle>
+    <link rel="alternate" type="text/html" href="https://tacticsjournal.com/" />
+    <link rel="self" type="application/atom+xml" href="https://tacticsjournal.com/feed.xml" />
+    <id>https://tacticsjournal.com/feed.xml</id>
     {% for post in site.posts %}
     <item>
+        <link rel="alternate" type="text/html" href="{{ site.url }}{{ post.url }}" />
         <title>{{ post.title }}</title>
-        <content><![CDATA[{{ post.content | xml_escape | replace: 'javascript||' | replace: 'shell||' | replace: 'ruby||' | replace: 'html||' | replace: 'src=&quot;/', 'src=&quot;https://tacticsjournal.com/' | replace: 'href=&quot;/', 'href=&quot;https://tacticsjournal.com/' }}]]></content>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ site.url }}{{ post.url }}</link>
-        <guid>{{ site.url }}{{ post.url }}</guid>
+        <published>{{ post.date | date_to_rfc822 }}</published>
+        <author>
+          <name>Kyle Boas</name>
+          <uri>http://tacticsjournal.com/</uri>
+        </author>
+        <summary type="text">{{ post.excerpt | xml_escape }}</summary>
+        <content type="html" xml:base="https://tacticsjournal.com/" xml:lang="en"><![CDATA[{{ post.content | xml_escape | replace: 'javascript||' | replace: 'shell||' | replace: 'ruby||' | replace: 'html||' | replace: 'src=&quot;/', 'src=&quot;https://tacticsjournal.com/' | replace: 'href=&quot;/', 'href=&quot;https://tacticsjournal.com/' }}]]></content>
     </item>
     {% endfor %}
 </channel>
