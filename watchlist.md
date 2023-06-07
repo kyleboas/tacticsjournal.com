@@ -208,6 +208,7 @@ layout: page
 |[João Mário](https://fbref.com/en/players/f0021247/Joao-Mario)|Benfica|<a href="https://youtu.be/srw0t50NA9M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Eberechi Eze](https://fbref.com/en/players/ae4fc6a4/Eberechi-Eze)|Crystal Palace|<a href="https://youtu.be/h0s_RUJygZU"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Kiernan Dewsbury-Hall](https://fbref.com/en/players/5c74c0f5/Kiernan-Dewsbury-Hall)|Leicester City|<a href="https://youtu.be/T8ebHGPH-p4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Junior Firpo](https://fbref.com/en/players/24f59bb2/Junior-Firpo)|Leeds United|<a href="https://youtu.be/iojHLKaQLC4"><i class="fa-solid fa-video"></i></a>|6/7/23|
 
 
 <hr class="dashed">
