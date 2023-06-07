@@ -25,6 +25,8 @@ layout: page
   }
 </style>
 
+<hr class="dashed">
+
 ## Center-Forwards 
 
 ### U20
@@ -62,6 +64,7 @@ layout: page
 | [Rodrigo](https://fbref.com/en/players/1fb1c435/Rodrigo) | Leeds | <a href="https://youtu.be/bK2Q-teKn4o"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Valentín Castellanos](https://fbref.com/en/players/da76bab4/Valentin-Castellanos) | Girona | <a href="https://youtu.be/IdoBKeERRfg"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 
+<hr class="dashed">
 
 ## Left-Wing
 
@@ -98,6 +101,10 @@ layout: page
 |[Karou Mitoma](https://fbref.com/en/players/74618572/Kaoru-Mitoma)|Brighton|<a href="https://youtu.be/E1pXADmALVc"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Harvey Barnes](https://fbref.com/en/players/3ea50f67/Harvey-Barnes)|Leicester City|<a href="https://youtu.be/-Eci9FIZSC8"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Demarai Gray](https://fbref.com/en/players/4468ec10/Demarai-Gray)|Everton|<a href="https://youtu.be/buMPzrYC8vk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+
+<hr class="dashed">
+
 
 ## Right-Wing 
 
@@ -139,6 +146,7 @@ layout: page
 |[Dejan Kulusevski](https://fbref.com/en/players/df3cda47/Dejan-Kulusevski)|Tottenham|<a href="https://youtu.be/fNB-hvsjXCU"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Brahim Diaz](https://fbref.com/en/players/407feb71/Brahim-Diaz)|Real Madrid|<a href="https://youtu.be/gRYRzpY247Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
+<hr class="dashed">
 
 ## Center-Midfield
 
@@ -193,6 +201,10 @@ layout: page
 |[Eberechi Eze](https://fbref.com/en/players/ae4fc6a4/Eberechi-Eze)|Crystal Palace|<a href="https://youtu.be/h0s_RUJygZU"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Kiernan Dewsbury-Hall](https://fbref.com/en/players/5c74c0f5/Kiernan-Dewsbury-Hall)|Leicester City|<a href="https://youtu.be/T8ebHGPH-p4"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
+
+<hr class="dashed">
+
+
 ## Defensive Midfield
 
 ### U20 
@@ -218,6 +230,10 @@ layout: page
 |[Ruben Neves](https://fbref.com/en/players/44bfb6c5/Ruben-Neves)|Wolves|<a href="https://youtu.be/21IXJH9H15Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[João Palhinha](https://fbref.com/en/players/a78ff07f/Joao-Palhinha)|Fulham|<a href="https://youtu.be/s_RcDEOU7z0"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
+
+<hr class="dashed">
+
+
 ## Left-Back 
 
 ### U20 
@@ -241,6 +257,8 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Kostas Tsimikas](https://fbref.com/en/players/f315ca93/Kostas-Tsimikas)|Liverpool|<a href="https://youtu.be/ffteOGo-DbI"><i class="fa-solid fa-video"></i></a>|4/23/23|
+
+<hr class="dashed">
 
 ## Right-Back 
 
@@ -270,6 +288,7 @@ layout: page
 |[Thilo Kehrer](https://fbref.com/en/players/51dbeea9/Thilo-Kehrer)|West Ham|<a href="https://youtu.be/IwGqrVmSvXk"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |Timothy Castagne|Leicester|<a href="https://youtu.be/7eOudrOjh8M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
+<hr class="dashed">
 
 ## Left Center-Back 
 
@@ -287,6 +306,7 @@ layout: page
 |:----|:----|:----|:----|
 |[Declan Rice](https://fbref.com/en/players/1c7012b8/Declan-Rice)|West Ham|<a href="https://youtu.be/nRbBVVPRBmw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
+<hr class="dashed">
 
 ## Center Center-Back 
 
@@ -298,6 +318,7 @@ layout: page
 |[Mees Hilgers](https://fbref.com/en/players/4eb00fda/Mees-Hilgers)|FC Twente|<a href="https://youtu.be/VpaENvjKr5A"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Eric Martel](https://fbref.com/en/players/92a16062/Eric-Martel)|1. FC Koln| |4/23/23|
 
+<hr class="dashed">
 
 ## Right Center-Back 
 
@@ -322,6 +343,7 @@ layout: page
 |[Nayef Aguerd](https://fbref.com/en/players/288e1e13/Nayef-Aguerd)|West Ham|<a href="https://youtu.be/NrEyySd231s"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Joachim Andersen](https://fbref.com/en/players/e34fc66d/Joachim-Andersen)|Crystal Palace| |4/23/23|
 
+<hr class="dashed">
 
 ## Goalkeeper 
 
