@@ -5,7 +5,7 @@ layout: page
 
 <p>*last updated: June 5, 2023*</p>
 
-<p>Here is my watchlist of players, listed in order by position, split into three age groups. I have included both a link to their FBref page and a video compilation for each player.</p>
+<p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
 <p>Some players are "out of position," or rather, in the position I believe they are best suited to play. Many can play multiple positions.</p>
 
