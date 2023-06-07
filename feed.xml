@@ -29,7 +29,7 @@ xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
         <guid isPermaLink="true">{{ site.url }}{{ post.url | uri_escape }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
-        <description><![CDATA[{{ post.excerpt }}]]></description>
+        <description><![CDATA[ {{ post.excerpt }} ]]></description>
         <content:encoded><![CDATA[
           {{ post.content }}
         ]]></content:encoded>
