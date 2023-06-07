@@ -19,7 +19,7 @@ layout: null
         <link>{{ site.url }}{{ post.url | uri_escape }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url | uri_escape }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <author>{{ post.author }}</author>
+        <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
         <description>{{ post.excerpt | xml_escape }}</description>
         <content:encoded><![CDATA[
           {{ post.content | xml_escape }}
