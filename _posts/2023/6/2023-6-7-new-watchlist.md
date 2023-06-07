@@ -30,6 +30,6 @@ Declan Rice at left center-back, Devyn Rensch at right center-back, and Jadon Sa
 
 It all depends on the system they play in. 
 
-I will be updating this watchlist whenever I find a new player to add. I'll post updates on Twitter [@TacticsJournal](https://twitter.com/tacticsjournal) when I add someone new. 
+I will be updating this watchlist whenever I find a new player to add. It's never a complete list. I'm constantly looking for new additions. I'll post updates on Twitter [@TacticsJournal](https://twitter.com/tacticsjournal) when I add someone new.
 
 You'll know if I add them because I won't stop talking about them.
