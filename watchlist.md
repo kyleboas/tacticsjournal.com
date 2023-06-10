@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: June 7, 2023</em></p>
+<p><em>last updated: June 10, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -372,8 +372,7 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[David Raya](https://fbref.com/en/players/98ea5115/David-Raya)|Brentford|<a href="https://youtu.be/u1Dd4QL4dDw"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Gianluigi Donnarumma](https://fbref.com/en/players/08f5afaa/Gianluigi-Donnarumma)|PSG|<a href="https://youtu.be/1Zk7uZ2knBs"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Kepa Arrizabalaga](https://fbref.com/en/players/98ea5115/David-Raya)|Chelsea|<a href="https://youtu.be/Tdq0Udsg9XU"><i class="fa-solid fa-video"></i></a>|6/10/23|
+|[Gianluigi Donnarumma](https://fbref.com/en/players/08f5afaa/Gianluigi-Donnarumma)|PSG|https://youtu.be/1Zk7uZ2knBs<a href="https://youtu.be/1Zk7uZ2knBs"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Wladimiro Falcone](https://fbref.com/en/players/9f5a610b/Wladimiro-Falcone)|Lecce|<a href="https://youtu.be/I_5pGvDXmnA"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Alban Lafont](https://fbref.com/en/players/4e7db402/Alban-Lafont)|Nantes|<a href="https://youtu.be/4Z-s8szl2Ic"><i class="fa-solid fa-video"></i></a>|4/23/23|
-
-
