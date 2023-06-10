@@ -164,7 +164,7 @@ Inter's center-backs are very strong in the air, so they will man-mark to force 
 
 If Manchester City get past Inter's counter-press, they will be met by the obvious 5-3-2 shape you've heard many talk about leading up to the match.
 
-Inter is organized. They will always leave enough men back to maintain numerical superiority over the opposition's center-forward. Erling Haaland will have little to no room to operate in.
+Inter is organized. They will always leave enough men back to maintain numerical superiority over the opposition's center-forward. Erling Haaland will have little to no room to operate in, and if he receives the ball he will be immediately closed down by at least two strong defenders.
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/24/Image-24May2023_22:09:22.jpeg">
