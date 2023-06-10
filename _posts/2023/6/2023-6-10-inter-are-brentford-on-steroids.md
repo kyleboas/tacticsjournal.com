@@ -79,7 +79,7 @@ To control the center, Manchester City will need to stop:
     <figcaption>Figure 5.1 - Tactics board showing the tight man-marking of Marcelo Brozovic and Nicolo Barella, with pressure on Alessandro Bastoni.</figcaption>
 </figure> 
 
-Manchester City will likely counter-press in a 4-2-4 shape, as seen in Figure 1.1. If they can take Barella, Brozovic, and Bastoni out of the match, they should be able to quickly win back the ball. Brozovic and Bastoni are important outlets for the wing-backs and forwards. Limit their creativity. 
+Manchester City will likely counter-press in a 4-2-4 shape, as seen in Figure 5.1. If they can take Barella, Brozovic, and Bastoni out of the match, they should be able to quickly win back the ball. Brozovic and Bastoni are important outlets for the wing-backs and forwards. Limit their creativity. 
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/24/Image-24May2023_22:06:47.jpeg">
