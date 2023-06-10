@@ -145,7 +145,7 @@ Inter will provide little to no space for Manchester City to advance on the grou
     <figcaption>Figure 10.1 - Illustration of Inter's out-of-possession shape against AC Milan. </figcaption>
 </figure>
 
-Once the ball is played wide, Inter should press the ball carrier aggressively with two to three men.
+Inter's first and second line will form a rigid and compact 3-2 sub-structure, overloading the middle. Once the ball is played wide, they should press the ball carrier aggressively with two to three men.
 
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/10/Image-10May2023_18:26:19.jpeg">
