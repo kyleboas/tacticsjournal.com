@@ -39,28 +39,19 @@
 
   function search(query) {
     var results = [];
-    var currentPageUrl = getCurrentPageUrl(); // Get the URL of the current page
 
     if (!query || query.trim() === '') {
-      return posts.slice(0, 5); // Return the first 5 posts if no query is provided or if it's blank
+      return posts; // Return all posts if no query is provided or if it's blank
     }
 
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
 
-      // Check if the post URL or title matches the query or current page's URL
-      if (
-        post.url.toLowerCase().includes(query.toLowerCase()) ||
-        post.url === currentPageUrl
-      ) {
-        continue; // Ignore the post and continue to the next iteration
-      }
-
       if (
         post.title.toLowerCase().includes(query.toLowerCase()) ||
         post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-        post.tags.toLowerCase().includes(query.toLowerCase()) ||
-        post.categories.toLowerCase().includes(query.toLowerCase())
+        post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
+        post.categories.toLowerCase().includes(query.toLowerCase()) // Add search in categories
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
@@ -71,10 +62,6 @@
           tags: post.tags,
           categories: post.categories
         });
-
-        if (results.length === 5) { // Limit the number of results to 5
-          break;
-        }
       }
     }
 
