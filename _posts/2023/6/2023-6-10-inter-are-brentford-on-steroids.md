@@ -86,7 +86,7 @@ Manchester City will likely counter-press in a 4-2-4 shape, as seen in Figure 1.
     <figcaption>Figure 6.1 - Denzel Dumfries pins Fiorentina's left-back, Biraghi. The ball is played to Lautaro Martinez in space.</figcaption>
 </figure>
 
-If they do not control those three players, Inter will be able to obtain numerical superiority when they transition into attack.
+If they do not control those three players, Inter will be able to obtain numerical superiority when they transition into attack and connect the play when the ball is forced direct. 
 
 ## Ignore Inter's wing-backs
 
