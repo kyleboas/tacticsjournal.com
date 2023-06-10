@@ -166,6 +166,9 @@ If Manchester City get past Inter's counter-press, they will be met by the obvio
 
 Inter is organized. They will always leave enough men back to maintain numerical superiority over the opposition's center-forward. Erling Haaland will have little to no room to operate in, and if he receives the ball he will be immediately closed down by at least two strong defenders.
 
+> [Inter Bulwark](https://tacticsjournal.com/2023/05/25/inter-bulwark/)
+> May 25, 2023 — Inter is a very compact and strong side. Their entire team is composed of rocks. They are a collection of very tough and confident players. Inter controlled the middle of the pitch against Fiorentina to win the Coppa Italia.
+
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/05/24/Image-24May2023_22:09:22.jpeg">
     <figcaption>Figure 13.1 - Inter's 5-3-2 low block.</figcaption>
