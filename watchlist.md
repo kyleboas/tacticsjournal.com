@@ -373,6 +373,6 @@ layout: page
 |:----|:----|:----|:----|
 |[David Raya](https://fbref.com/en/players/98ea5115/David-Raya)|Brentford|<a href="https://youtu.be/u1Dd4QL4dDw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Kepa Arrizabalaga](https://fbref.com/en/players/98ea5115/David-Raya)|Chelsea|<a href="https://youtu.be/Tdq0Udsg9XU"><i class="fa-solid fa-video"></i></a>|6/10/23|
-|[Gianluigi Donnarumma](https://fbref.com/en/players/08f5afaa/Gianluigi-Donnarumma)|PSG|https://youtu.be/1Zk7uZ2knBs<a href="https://youtu.be/1Zk7uZ2knBs"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Gianluigi Donnarumma](https://fbref.com/en/players/08f5afaa/Gianluigi-Donnarumma)|PSG|<a href="https://youtu.be/1Zk7uZ2knBs"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Wladimiro Falcone](https://fbref.com/en/players/9f5a610b/Wladimiro-Falcone)|Lecce|<a href="https://youtu.be/I_5pGvDXmnA"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Alban Lafont](https://fbref.com/en/players/4e7db402/Alban-Lafont)|Nantes|<a href="https://youtu.be/4Z-s8szl2Ic"><i class="fa-solid fa-video"></i></a>|4/23/23|
