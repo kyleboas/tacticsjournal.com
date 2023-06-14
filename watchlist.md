@@ -362,19 +362,22 @@ layout: page
 |:----|:----|:----|:----|
 |[Yehvann Diouf](https://fbref.com/en/players/eedea60b/Yehvann-Diouf)|Reims|<a href="https://youtu.be/RSgDIklLwdo"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Andrew Silva](https://fbref.com/en/players/40406a00/Andrew)|Gil Vicente|<a href="https://youtu.be/3TbX9lRwjXY"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Diogo Costa](https://fbref.com/en/players/93fffbcf/Diogo-Costa)|FC Porto|<a href="https://youtu.be/5_UGC0raHCk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Gianluigi Donnarumma](https://fbref.com/en/players/08f5afaa/Gianluigi-Donnarumma)|PSG|<a href="https://youtu.be/1Zk7uZ2knBs"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Bart Verbruggen](https://fbref.com/en/players/cf134113/Bart-Verbruggen)|Anderlecht|<a href="https://youtu.be/j7OF6Q92I_M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Lucas Chevalier](https://fbref.com/en/players/b3d76d84/Lucas-Chevalier)|Lille|<a href="https://youtu.be/9hq0t1oR2rY"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Giorgi Mamardashvili](https://fbref.com/en/players/d4b73232/Giorgi-Mamardashvili)|Valencia|<a href="https://youtu.be/sMtErGEuBb8"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Maarten Vandevoordt](https://fbref.com/en/players/f9e0c603/Maarten-Vandevoordt)|Genk|<a href="https://youtu.be/i8Mt-AoFyqc"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
+
 ### Senior 
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Alex Meret](https://fbref.com/en/players/9413b19f/Alex-Meret)|Napoli |<a href="https://youtu.be/a2xw-R0KOtk"><i class="fa-solid fa-video"></i></a>|6/14/23|
 |[André Onana](https://fbref.com/en/players/e9c0c1b2/Andre-Onana)|Inter|<a href="https://youtu.be/2SPrCW5EPss"><i class="fa-solid fa-video"></i></a>|6/11/23|
 |[David Raya](https://fbref.com/en/players/98ea5115/David-Raya)|Brentford|<a href="https://youtu.be/u1Dd4QL4dDw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Kepa Arrizabalaga](https://fbref.com/en/players/98ea5115/David-Raya)|Chelsea|<a href="https://youtu.be/Tdq0Udsg9XU"><i class="fa-solid fa-video"></i></a>|6/10/23|
-|[Gianluigi Donnarumma](https://fbref.com/en/players/08f5afaa/Gianluigi-Donnarumma)|PSG|<a href="https://youtu.be/1Zk7uZ2knBs"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Wladimiro Falcone](https://fbref.com/en/players/9f5a610b/Wladimiro-Falcone)|Lecce|<a href="https://youtu.be/I_5pGvDXmnA"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Alban Lafont](https://fbref.com/en/players/4e7db402/Alban-Lafont)|Nantes|<a href="https://youtu.be/4Z-s8szl2Ic"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Mike Maignan](https://fbref.com/en/players/fcb38f57/Mike-Maignan)|AC Milan|<a href="https://youtu.be/a1CV72Vp4wU"><i class="fa-solid fa-video"></i></a>|6/11/23|
