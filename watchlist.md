@@ -59,7 +59,7 @@ layout: page
 | [Gift Orban](https://fbref.com/en/players/de17db90/Gift-Orban) | Gent | <a href="https://youtu.be/Klsm-f7_kJ4"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Carlos Alcaraz](https://fbref.com/en/players/4abac767/Carlos-Alcaraz) | Southampton | <a href="https://youtu.be/utGMkJeR2QQ"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Ricardo Pepi](https://fbref.com/en/players/a2b1ed42/Ricardo-Pepi) | Groningen | <a href="https://youtu.be/d6RB9EFQIGM"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| [Florian Balogun](https://fbref.com/en/players/31822f8c/Folarin-Balogun) | Arsenal | <a href="https://youtu.be/rTdYibIlw-k"><i class="fa-solid fa-video"></i></a> | 6/18/23 |
+| [Folarin Balogun](https://fbref.com/en/players/31822f8c/Folarin-Balogun) | Arsenal | <a href="https://youtu.be/rTdYibIlw-k"><i class="fa-solid fa-video"></i></a> | 6/18/23 |
 | [Jonathan David](https://fbref.com/en/players/ce50fd99/Jonathan-David) | Lille | <a href="https://youtu.be/Cn4h1L9cVQY"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Sydney van Hooijdonk](https://fbref.com/en/players/5b418e15/Sydney-van-Hooijdonk) | Heerenveen | <a href="https://youtu.be/Bvybn8pU0qk"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Abel Ruiz](https://fbref.com/en/players/6cbf8d0d/Abel-Ruiz) | Braga | <a href="https://youtu.be/taSxEl9zk_U"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
