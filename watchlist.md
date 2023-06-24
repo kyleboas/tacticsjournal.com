@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: June 21, 2023</em></p>
+<p><em>last updated: June 23, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -237,8 +237,8 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Sofyan Amrabat](https://fbref.com/en/players/5a2cb25d/Sofyan-Amrabat)|Fiorentina|<a href="https://youtu.be/fu4oA8un9KI"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Ruben Neves](https://fbref.com/en/players/44bfb6c5/Ruben-Neves)|Wolves|<a href="https://youtu.be/21IXJH9H15Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[João Palhinha](https://fbref.com/en/players/a78ff07f/Joao-Palhinha)|Fulham|<a href="https://youtu.be/s_RcDEOU7z0"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Martín Zubimendi](https://fbref.com/en/players/3ee0dd59/Martin-Zubimendi)|Real Sociedad|<a href="https://youtu.be/dMUdey6I3ms"><i class="fa-solid fa-video"></i></a>|6/23/23|
 
 
 <hr class="dashed">
