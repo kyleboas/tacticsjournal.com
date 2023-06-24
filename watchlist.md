@@ -71,7 +71,6 @@ layout: page
 | [Ivan Toney](https://fbref.com/en/players/e09f279b/Ivan-Toney) | Brentford | <a href="https://youtu.be/fYgaHT1wj3s"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Terem Moffi](https://fbref.com/en/players/065dc209/Terem-Moffi) | Nice | <a href="https://youtu.be/tBO4-O5X6A4"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Patson Daka](https://fbref.com/en/players/ca45605e/Patson-Daka) | Leicester City | <a href="https://youtu.be/eO58oDHsEp0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
-| [Rodrigo](https://fbref.com/en/players/1fb1c435/Rodrigo) | Leeds | <a href="https://youtu.be/bK2Q-teKn4o"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Valentín Castellanos](https://fbref.com/en/players/da76bab4/Valentin-Castellanos) | Girona | <a href="https://youtu.be/IdoBKeERRfg"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 
 <hr class="dashed">
