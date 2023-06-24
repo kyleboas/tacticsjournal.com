@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: June 23, 2023</em></p>
+<p><em>last updated: June 24, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -135,7 +135,6 @@ layout: page
 |[Karim Adeyemi](https://fbref.com/en/players/501055d8/Karim-Adeyemi)|Dortmund|<a href="https://youtu.be/LIIbZzMy_Hk"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Crysencio Summerville](https://fbref.com/en/players/df04eb4b/Crysencio-Summerville)|Leeds United|<a href="https://youtu.be/MiyhLlQj9IU"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Neco Williams](https://fbref.com/en/players/afdc14d7/Nico-Williams)|Athletic Club|<a href="https://youtu.be/UPCrolKIEII"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Gabriel Veiga](https://fbref.com/en/players/35a6e5c7/Gabriel-Veiga)|Celta Vigo|<a href="https://youtu.be/R0nIQVJXb8E"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Michael Olise](https://fbref.com/en/players/c4486bac/Michael-Olise)|Crystal Palace|<a href="https://youtu.be/9mbD_nG4AHw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Noni Madueke](https://fbref.com/en/players/bf34eebd/Noni-Madueke)|Chelsea|<a href="https://youtu.be/12jNrj3okWE"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Nathan Tella](https://fbref.com/en/players/f1e94cd6/Nathan-Tella)|Burnley|<a href="https://youtu.be/CCY9F9k422E"><i class="fa-solid fa-video"></i></a>|4/23/23|
@@ -180,9 +179,11 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Jamal Musiala](https://fbref.com/en/players/2c0558b8/Jamal-Musiala)|Bayern Munich|<a href="https://youtu.be/KNHi0wYYpP0"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Nicolo Fagioli](https://fbref.com/en/players/366be751/Nicolo-Fagioli)|Juventus|<a href="https://youtu.be/cxmW-h5WSzI"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Jadon Sancho](https://fbref.com/en/players/dbf053da/Jadon-Sancho)|Manchester United| |4/23/23|
 |[Dominik Szoboszlai](https://fbref.com/en/players/934e1968/Dominik-Szoboszlai)|RB Leipzig |<a href="https://youtu.be/CrWChoV5rOQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Gabriel Veiga](https://fbref.com/en/players/35a6e5c7/Gabriel-Veiga)|Celta Vigo|<a href="https://youtu.be/R0nIQVJXb8E"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Enzo Le Fée](https://fbref.com/en/players/6f806d99/Enzo-Le-Fee)|Lorient|<a href="https://youtu.be/qnCByqJoWKk"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Johan Bakayoko](https://fbref.com/en/players/0caa2fd4/Johan-Bakayoko)|PSV|<a href="https://youtu.be/hUd-aBnBLBY"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Boubacar Kamara](https://fbref.com/en/players/cc77354e/Boubacar-Kamara)|Aston Villa| |4/23/23|
