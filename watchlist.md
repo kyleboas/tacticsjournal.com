@@ -317,6 +317,8 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Declan Rice](https://fbref.com/en/players/1c7012b8/Declan-Rice)|West Ham|<a href="https://youtu.be/nRbBVVPRBmw"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Gonçalo Inácio](https://fbref.com/en/players/33651873/Goncalo-Inacio)|Sporting CP|<a href="https://youtu.be/KRq5I3IxF2U"><i class="fa-solid fa-video"></i></a>|6/24/23|
+
 
 <hr class="dashed">
 
