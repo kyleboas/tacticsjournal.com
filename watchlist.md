@@ -163,9 +163,10 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[Lamine Yamal](https://fbref.com/en/players/82ec26c1/Lamine-Yamal)|Barcelona|<a href="https://youtu.be/wIJRDH8bskM"><i class="fa-solid fa-video"></i></a>|6/6/23|
+|[Lamine Yamal](https://fbref.com/en/players/82ec26c1/Lamine-Yamal)|Manchester City|<a href="https://youtu.be/wIJRDH8bskM"><i class="fa-solid fa-video"></i></a>|6/6/23|
 |[Oscar Bobb](https://fbref.com/en/players/eed2427e/Oscar-Bobb)|Manchester City|<a href="https://youtu.be/5uSGhKavddQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Julio Enciso](https://fbref.com/en/players/9cfbad36/Julio-Cesar-Enciso)|Brighton|<a href="https://youtu.be/xJpo6qWemPc"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Rayan Cherki](https://fbref.com/en/players/b34c63a5/Rayan-Cherki)|Lyon|<a href="https://youtu.be/GJLkdYRO0vw"><i class="fa-solid fa-video"></i></a>|6/25/23|
 |[Andrey Santos](https://fbref.com/en/players/dd745366/Andrey-Santos)|Chelsea|<a href="https://youtu.be/0xSPNsmQpzQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Lewis Hall](https://fbref.com/en/players/da011f18/Lewis-Hall)|Chelsea|<a href="https://youtu.be/ySbcCz-FG_U"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Carney Chukwuemeka](https://fbref.com/en/players/b2f9c73e/Carney-Chukwuemeka)|Chelsea|<a href="https://youtu.be/4TvKKmtGSNA"><i class="fa-solid fa-video"></i></a>|4/23/23|
