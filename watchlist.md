@@ -108,6 +108,7 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Karou Mitoma](https://fbref.com/en/players/74618572/Kaoru-Mitoma)|Brighton|<a href="https://youtu.be/E1pXADmALVc"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Federico Chiesa](https://fbref.com/en/players/b0f7e36c/Federico-Chiesa)|Juventus|<a href="https://youtu.be/WLGgWKpAGrs"><i class="fa-solid fa-video"></i></a>|6/25/23|
 |[Harvey Barnes](https://fbref.com/en/players/3ea50f67/Harvey-Barnes)|Leicester City|<a href="https://youtu.be/-Eci9FIZSC8"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Demarai Gray](https://fbref.com/en/players/4468ec10/Demarai-Gray)|Everton|<a href="https://youtu.be/buMPzrYC8vk"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
