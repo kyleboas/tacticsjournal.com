@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: June 24, 2023</em></p>
+<p><em>last updated: June 25, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -315,8 +315,10 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Aymeric Laporte](https://fbref.com/en/players/119b9a8e/Aymeric-Laporte)|Man City|<a href="https://youtu.be/Tr8491ceTlo"><i class="fa-solid fa-video"></i></a>|6/25/23|
 |[Declan Rice](https://fbref.com/en/players/1c7012b8/Declan-Rice)|West Ham|<a href="https://youtu.be/nRbBVVPRBmw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Gonçalo Inácio](https://fbref.com/en/players/33651873/Goncalo-Inacio)|Sporting CP|<a href="https://youtu.be/KRq5I3IxF2U"><i class="fa-solid fa-video"></i></a>|6/24/23|
+
 
 
 <hr class="dashed">
