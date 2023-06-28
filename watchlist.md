@@ -38,7 +38,7 @@ layout: page
 
 ## Center-Forwards 
 
-### U20
+### U21
 
 | Name | Team | | Added | 
 | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ layout: page
 
 ## Left-Wing
 
-### U20
+### U21
 
 | Name | Team | | Added | 
 | --- | --- | --- | --- |
@@ -120,7 +120,7 @@ layout: page
 
 ## Right-Wing 
 
-### U20 
+### U21
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
@@ -161,7 +161,7 @@ layout: page
 
 ## Center-Midfield
 
-### U20
+### U21
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
@@ -221,7 +221,7 @@ layout: page
 
 ## Defensive Midfield
 
-### U20 
+### U21
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
@@ -250,7 +250,7 @@ layout: page
 
 ## Left-Back 
 
-### U20 
+### U21
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
@@ -276,7 +276,7 @@ layout: page
 
 ## Right-Back 
 
-### U20 
+### U21
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
@@ -306,7 +306,7 @@ layout: page
 
 ## Left Center-Back 
 
-### U23 
+### U23
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
@@ -329,7 +329,7 @@ layout: page
 
 ## Center Center-Back 
 
-### U23
+### U21
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
@@ -341,7 +341,7 @@ layout: page
 
 ## Right Center-Back 
 
-### U20 
+### U21
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
@@ -364,6 +364,12 @@ layout: page
 <hr class="dashed">
 
 ## Goalkeeper 
+
+### U21
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[James Trafford](https://fbref.com/en/players/259fea27/James-Trafford)|Bolton Wanderers|<a href="https://youtu.be/yiAL74N6wJI"><i class="fa-solid fa-video"></i></a>|6/28/23|
 
 ### U23
 
