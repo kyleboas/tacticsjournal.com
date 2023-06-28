@@ -231,6 +231,7 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Aurélien Tchouaméni](https://fbref.com/en/players/4f255115/Aurelien-Tchouameni)|Real Madrid|<a href="https://youtu.be/L2agGYRzsgQ"><i class="fa-solid fa-video"></i></a>|6/28/23|
 |[Federico Redondo](https://fbref.com/en/players/b7b9c8ce/Federico-Redondo)|Argentinos Juniors|<a href="https://youtu.be/m7un1EAEDhY"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Nico González](https://fbref.com/en/players/2c56a792/Nicolas-Gonzalez)|Valenica|<a href="https://youtu.be/QIcbpc_KLN4"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Jordan Teze](https://fbref.com/en/players/82e9b1bb/Jordan-Teze)|PSV|<a href="https://youtu.be/6YIaGYmK0h4"><i class="fa-solid fa-video"></i></a>|4/23/23|
