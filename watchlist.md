@@ -206,7 +206,7 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[James Maddison](https://fbref.com/en/players/ee38d9c5/James-Maddison)|Leciester City|<a href="https://youtu.be/9J4ymxYpoOs"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Tijjani Reijnders](https://fbref.com/en/players/afb61630/Tijjani-Reijnders)|AZ Alkmaar|<a href="https://youtu.be/SxqHF6YiRiI"><i class="fa-solid fa-video"></i></a>|6/28/23|
 |[Azzedine Ounahi](https://fbref.com/en/players/83299cc0/Azzedine-Ounahi)|Marseille|<a href="https://youtu.be/Wtt3tMAqvxw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Youri Tielemans](https://fbref.com/en/players/56f7a928/Youri-Tielemans)|Leicester City|<a href="https://youtu.be/GzJYsvqg3Ls"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[James Ward-Prowse](https://fbref.com/en/players/3515d404/James-Ward-Prowse)|Southampton|<a href="https://youtu.be/-6w8kkgI4nM"><i class="fa-solid fa-video"></i></a>|4/23/23|
