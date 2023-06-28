@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: June 25, 2023</em></p>
+<p><em>last updated: June 27, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -44,6 +44,7 @@ layout: page
 | --- | --- | --- | --- |
 | [Youssoufa Moukoko](https://fbref.com/en/players/8652a85c/Lois-Openda) | Dortmund | <a href="https://youtu.be/YH7trzgmo0Y"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Evan Ferguson](https://fbref.com/en/players/4596da74/Evan-Ferguson) | Brighton | <a href="https://youtu.be/Ygmyrdk8rkE"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
+| [Vitor Roque](https://fbref.com/en/players/cb00f1e6/Vitor-Roque) | Athletico Paranaense | <a href="https://youtu.be/yIJJ2b3hEsc"><i class="fa-solid fa-video"></i></a> | 6/27/23 |
 | [Benjamin Šeško](https://fbref.com/en/players/3260690c/Benjamin-Sesko) | Red Bull Salzburg | <a href="https://youtu.be/xOaszv-jFDY"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Divin Mubama](https://fbref.com/en/players/92868cb5/Divin-Mubama) | West Ham | <a href="https://youtu.be/hQ3gd4mU4Ew"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
   
