@@ -19,4 +19,4 @@ There’s no active posting, but you can find my daily blog post republished at 
 
 **RSS**
 
-The main feed for everything on Tactics Journal: [https://tacticsjournal.com/feed/](https://tacticsjournal.com/feed/)
+The main feed for everything on Tactics Journal: [https://tacticsjournal.com/feed](https://tacticsjournal.com/feed)
