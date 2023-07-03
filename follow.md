@@ -1,21 +1,19 @@
 ---
-title: Follow on Social Media
+title: Follow
 layout: page
 ---
 
 Any other accounts not listed are not run by me and are not being truthful. If you’d like to follow my work online here’s where you can find me:
 
-**Twitter** 
+If you’d like to follow my work online, here’s where you can find me:
 
-I post everyday to Twitter, live commentating during games, but you can find my daily blog post republished at [@tacticsjournal](https://twitter.com/tacticsjournal). 
+**Social Media**
 
-**Mastodon**
+*[Twitter - @tacticsjournal](https://twitter.com/tacticsjournal)*
 
-There’s no active posting, but you can find my daily blog post republished at [@tacticsjournal.mas.to](https://mas.to/@tacticsjournal). 
+*[Mastodon - @tacticsjournal.mas.to](https://mas.to/@tacticsjournal)*
 
-**FaceBook**
-
-*Coming soon*
+*[Facebook- https://www.facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal)*
 
 **RSS**
 
