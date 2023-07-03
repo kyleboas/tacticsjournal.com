@@ -7,6 +7,8 @@ image: /uploads/2023/07/02/Image-02Jul2023_20:50:37.jpeg
 
 July 3, 2023 — To start next season off right, I'm doing a little housekeeping. Here is what I have planned for the season.
 
+<!---more--->
+
 The [latest issues with Twitter](https://www.theverge.com/2023/7/1/23781198/twitter-daily-reading-limit-elon-musk-verified-paywall) have aligned my thinking. This blog will be my main focus above all other mediums. 
 
 I will be posting once a day, every day, to this blog. No character limit, no rate limits, no restrictions, and forever free to read. All attention and effort will go here. 
