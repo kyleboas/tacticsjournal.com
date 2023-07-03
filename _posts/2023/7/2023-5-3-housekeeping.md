@@ -50,7 +50,7 @@ If you’d like to follow my work online, here’s where you can find me:
 
 *[Mastodon - @tacticsjournal.mas.to](https://mas.to/@tacticsjournal)*
 
-*[Facebook](https://www.facebook.com/TacticsJournal)*
+*[Facebook- https://www.facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal)*
 
 *[RSS - https://tacticsjournal.com/feed](https://tacticsjournal.com/feed)*
 
