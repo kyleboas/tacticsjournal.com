@@ -24,7 +24,7 @@ Statman Dave in this video highlights four things I took note of:
 
 He's returning to what worked for him at Ajax, that landed him the Manchester United job.
 
-Sébastian Haller is a target man. Erik Ten Hag signed Wout Weghorst, a target man, and is now linked with Rasmus Højbjerg, who is more than just a target man but is a physical presence. That clears that up as to what profile he's looking for.
+Sébastian Haller is a target man. Erik Ten Hag signed Wout Weghorst, a target man, and is now linked with Rasmus Hojlund, who is more than just a target man but is a physical presence. That clears that up as to what profile he's looking for.
 
 What does that leave for new signing Mason Mount? Neither Mount nor Bruno Fernandes are first phase midfielders; they're both more useful further forward.
 
