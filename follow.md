@@ -5,8 +5,6 @@ layout: page
 
 Any other accounts not listed are not run by me and are not being truthful. If you’d like to follow my work online here’s where you can find me:
 
-If you’d like to follow my work online, here’s where you can find me:
-
 **Social Media**
 
 *[Twitter - @tacticsjournal](https://twitter.com/tacticsjournal)*
