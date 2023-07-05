@@ -222,6 +222,21 @@ figcaption {
    font-size: 15px;
 }
 
+.video-holder {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+.video-holder iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 figure {
   margin: 0;
   padding-top: 10px;
