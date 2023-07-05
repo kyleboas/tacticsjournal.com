@@ -8,7 +8,7 @@ tags:
 - "Arsenal"
 - "Liverpool"
 image: /uploads/2023/07/05/Image-05Jul2023_16:42:20.jpeg
---
+---
 
 July 6, 2023 — A box midfield is inferior to a diamond in possession, but teams have been forced to use a box last season due to a lack of sufficient profiles for a diamond. They now have the profiles and should make the switch next season.
 
