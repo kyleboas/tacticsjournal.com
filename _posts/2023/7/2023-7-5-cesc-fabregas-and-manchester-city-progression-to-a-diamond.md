@@ -34,7 +34,7 @@ Ilkay Gündoğan plays high up the pitch in the left half-space, making runs off
 
 Slowly Rico Lewis and John Stones have been trialed in a more advanced right center-midfield position. Not high and not deep, but in the middle, between the central number 10, Kevin De Bruyne, and Rodri, the defensive midfielder.
 
-They didn't have the profiles to commit to a 3-4-3 diamond in settled play. John Stones was still just getting used to playing in the midfield, to the right of Rodri in the double pivot. At the time, they had no confident backup to Stones for that more advanced role. Pep Guardiola made several remarks saying that he [wasn't comfortable playing Phil Foden centrally yet](https://www.dailymail.co.uk/sport/football/article-11280489/Pep-Guardiola-agrees-Phil-Foden-eventually-central-midfielder-Manchester-City.html). It wasn't feasible.
+They didn't have the profiles to commit to a 3-4-3 diamond in settled play, in Feburary. John Stones was still just getting used to playing in the midfield, to the right of Rodri in the double pivot. At the time, they had no confident backup to Stones for that more advanced role. Pep Guardiola made several remarks saying that he [wasn't comfortable playing Phil Foden centrally yet](https://www.dailymail.co.uk/sport/football/article-11280489/Pep-Guardiola-agrees-Phil-Foden-eventually-central-midfielder-Manchester-City.html). It wasn't feasible.
 
 To ease into the change, Manchester City in their second phase play, over the past few months, began shifting from a 3-2-2-3 box midfield to a diamond when they rotated in possession. Rather than trying to play through teams with a static box, that shift opens up angles and triangles.
 
