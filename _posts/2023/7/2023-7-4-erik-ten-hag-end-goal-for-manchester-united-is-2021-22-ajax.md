@@ -13,7 +13,7 @@ July 4, 2023 — I was becoming both confused and frustrated trying to figure ou
 
 <!---more--->
 
-<iframe src="https://www.youtube.com/embed/HmqfOSPmcTg"></iframe>
+{% include video.html url="https://www.youtube.com/embed/HmqfOSPmcTg" %}
 
 Statman Dave in this video highlights four things I took note of:
 
