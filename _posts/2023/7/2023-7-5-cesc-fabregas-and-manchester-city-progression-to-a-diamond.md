@@ -13,29 +13,7 @@ July 5, 2023 — Cesc Fàbregas is going to be an incredible manager. He has a c
 
 <!---more--->
 
-<style>
-.video-holder {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
-  overflow: hidden;
-}
-.video-holder iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
-<div class="video-holder">
-  <iframe width="560"
-          height="315" 
-          src="https://www.youtube.com/embed/yIHnusixSgA" 
-          frameborder="0" 
-          allowfullscreen></iframe>
-</div>
+{% include helpers/video.html url="https://www.youtube.com/embed/yIHnusixSgA" %}
 
 When I hear Cesc describe what Dennis Bergkamp's role was for Arsenal, that's the role I expect Kai Havertz to take up. He's not a number 9, but someone to play behind within the pockets. 
 
