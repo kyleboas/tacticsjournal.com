@@ -13,6 +13,8 @@ Mastodon: *[@tacticsjournal.mas.to](https://mas.to/@tacticsjournal)*
 
 Facebook: *[https://www.facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal)*
 
+Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
+
 **RSS**
 
 The main feed for everything on Tactics Journal: [https://tacticsjournal.com/feed](https://tacticsjournal.com/feed)
