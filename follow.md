@@ -18,3 +18,7 @@ Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
 **RSS**
 
 The main feed for everything on Tactics Journal: [https://tacticsjournal.com/feed](https://tacticsjournal.com/feed)
+
+**Discord**
+
+Join and then go to the #blogs channel: [https://discord.gg/7fhGJAZjwB](https://discord.gg/7fhGJAZjwB) 
