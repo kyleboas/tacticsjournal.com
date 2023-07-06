@@ -15,6 +15,8 @@ Facebook: *[https://www.facebook.com/TacticsJournal](https://www.facebook.com/Ta
 
 Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
 
+YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
+
 **RSS**
 
 The main feed for everything on Tactics Journal: [https://tacticsjournal.com/feed](https://tacticsjournal.com/feed)
