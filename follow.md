@@ -13,9 +13,9 @@ Mastodon: *[@tacticsjournal.mas.to](https://mas.to/@tacticsjournal)*
 
 Facebook: *[https://www.facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal)*
 
-Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
+Threads: *[@tacticsjournal](https://www.threads.net/@tacticsjournal)*
 
-YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
+YouTube: *[https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)*
 
 **RSS**
 
