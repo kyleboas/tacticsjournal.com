@@ -111,7 +111,7 @@ This is not a formation for every team. It is a very delicate structure. If one 
 
 It requires highly technical midfielders who can work in tight spaces and execute the short passes perfectly. The backline needs to be rock solid because the areas out wide will initially be exposed in transition. Teams need elite positioning and awareness to remain resolute and perform at the level required to make this formation successful.
 
-{% include video.html url="https://www.youtube.com/embed/https://youtu.be/7NZ0byEyeOA" %}
+{% include video.html url="https://www.youtube.com/embed/7NZ0byEyeOA" %}
 
 In this video Johan Cruyff explains *his* 3-4-3 diamond, which he used frequently throughout his managerial career, most notably at Barcelona in the 90s. 
 
