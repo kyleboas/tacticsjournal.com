@@ -19,4 +19,4 @@ English is not everyone's first language. Only 19% of the world's population spe
 
 I can't imagine what it would be like to try to learn and absorb written, audio, or video content about the complexities of football without examples. 
 
-It's okay to think complicated because this is a very complicated game, but football should be conveyed in the simplest terms possible so that everyone can understand and pick up on the unnoticed things as quickly as possible.
+It's okay to think complicated; everyone does because this is a very complicated game. But football should be conveyed in the simplest terms possible so that everyone can understand and quickly pick up on the unnoticed things.
