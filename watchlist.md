@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: June 28, 2023</em></p>
+<p><em>last updated: July 8, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -226,6 +226,7 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Romeo Lavia](https://fbref.com/en/players/ecad9aa5/Romeo-Lavia)|Southampton|<a href="https://youtu.be/m7un1EAEDhY"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Angel Gomes](https://fbref.com/en/players/645a3363/Angel-Gomes)|Lille|<a href="https://youtu.be/I9ORV0g0jdw"><i class="fa-solid fa-video"></i></a>|7/8/23|
 
 ### U23 
 
