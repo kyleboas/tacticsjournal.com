@@ -34,9 +34,9 @@ He's great with his feet, but his passing towards the end of the season and in t
 
 {% include video.html url="https://www.youtube.com/embed/lWnEe2gHu18" %}
 
-People get very excited when he comes out of his net, which allows them to look past the odd wayward pass. It only takes one or three errors.
+People get very excited when he comes out of his net, which allows them to look past the odd wayward pass. It only takes one or three errors. In the final he had nine, and it gifted Manchester City possesion, but that's a small sample size. 
 
-The positive is that he will be a significant upgrade from David De Gea on the ball. It's like having an extra holding midfielder in goal. Vital and necessary, as he explained in the interview. 
+The positive is that he will be a significant upgrade from David De Gea on the ball. It's like having an extra holding midfielder. Vital and necessary, as he explained in the interview. 
 
 He would be in net to face Tottenham, Arsenal, and Brighton in his first five matches if he signs for United. That is a lot of pressure, huge matches, but he seems like the type of person who can handle what comes. 
 
@@ -44,7 +44,7 @@ He would be in net to face Tottenham, Arsenal, and Brighton in his first five ma
 
 Not enough of his passes are driven. He likes playing these high looping passes made for taller and stronger forwards to bring down. Manchester United doesn't currently have forwards like Lautaro Martinez, Romelu Lukaku, and Edin Dzeko who can bring down physically demanding long passes. They may be bullied off the ball. 
 
-He won't have a short pass outlet to lean on like Alessandro Bastoni at Inter. Onana completed 9.33 short passes per 90 at Inter. To put that into perspective, Ederson only completed 6.77 for Manchester City, and David De Gea completed only 5.24 for Manchester United. It's a lot of short passes.  
+He won't have a short pass outlet to lean on like Alessandro Bastoni at Inter. Onana completed 9.33 short passes per 90 at Inter. To put that into perspective, Ederson only completed 6.77 for Manchester City, and David De Gea completed only 5.24 for Manchester United. Above average amount of short passes from the goalkeeper. 
 
 How will he adjust? Will Casemiro need to drop more frequently? How will the wingers cope with the added pressure of recieving with their back to goal. 
 
