@@ -48,6 +48,6 @@ He won't have a short pass outlet to lean on like Alessandro Bastoni at Inter. O
 
 How will he adjust? Will Casemiro need to drop more frequently? How will the wingers cope with the added pressure of recieving with their back to goal? He should be able to handle the change but it's a significant change.
 
-An overconfident goalkeeper who likes to dribble, with fewer outlets, is not a good mix on paper. I'd like to see how he handles Arsenal and Brighton's counter-press before getting excited.
+An overconfident goalkeeper who likes to dribble, with fewer outlets, is not a good mix on paper. I'd like to see how he deals with Arsenal and Brighton's counter-press before getting excited.
 
 Hopefully for United, he can get off on the right foot and preserve his poise, or else it will be very hard to recover because Old Trafford is an unforgiving place. They've endured years of errors. They won't put up with any more.
