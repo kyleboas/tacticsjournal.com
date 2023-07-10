@@ -14,7 +14,7 @@ July 11, 2023 — There is a strange phenomenon where people overlook or cast to
 
 <!---more--->
 
-Sounds strange but it's true sadly. The perfect example is André Onana versus Kepa Arrizabalaga. Here is a basic comparison to prove my point. 
+Sounds strange but it's true sadly. The perfect example is André Onana versus Kepa Arrizabalaga. Here is a basic comparison.
 
 Inter Milan scored 71 goals last season, and Chelsea scored 38 goals. 
 
