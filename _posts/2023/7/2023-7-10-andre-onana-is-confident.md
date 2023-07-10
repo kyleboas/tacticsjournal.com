@@ -50,4 +50,4 @@ He won't have a short pass outlet to lean on like Alessandro Bastoni at Inter. B
 
 An overconfident goalkeeper who likes to dribble, with fewer outlets, is not a good mix on paper. I'd like to see how he handles Arsenal and Brighton's counter-press before getting excited.
 
-Hopefully for United, he can get off on the right foot and preserve his poise, or else it will be very hard to recover because Old Trafford is an unforgiving place. They've endured years of errors. They won't be able to handle any more.
+Hopefully for United, he can get off on the right foot and preserve his poise, or else it will be very hard to recover because Old Trafford is an unforgiving place. They've endured years of errors. They won't put up with any more.
