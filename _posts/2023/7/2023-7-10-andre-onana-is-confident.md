@@ -20,7 +20,7 @@ Onana has all of those qualities. Supreme confidence.
 
 > "And having this goalkeeper would be an advantage for your team because in the end, you would always have numerical superiority. If the opposing team comes one on one, you have the numerical superiority only with the goalkeeper." 
 
-The bare minimum requirement for a goalkeeper is that they must be good with their feet and be able to pass accurately. I can't think of any S-tier, world-class shot-stoppers who aren't also above average on-the-ball. They need to be. 
+The bare minimum requirement for a goalkeeper is that they must be able to pass accurately. I can't think of any S-tier, world-class shot-stoppers who aren't also above average passers. They need to be. 
 
 You can view the full interview with English subtitles here:
 
