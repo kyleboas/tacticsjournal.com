@@ -32,7 +32,7 @@ You can view the video regarding Onana's potential transfer [here](https://www.y
 
 That is a high price tag for a goalkeeper, and there is a lot of hype building. Too much hype possibly. 
 
-He's great with his feet, but his passing towards the end of the season and in the [Champions League final](https://tacticsjournal.com/2023/06/11/manchester-city-pass-their-final-test/) was inconsistent. He's well above average at passing, but he's not on the same level as Ederson, Gianluigi Donnarumma, or Alisson. He's a tier below. 
+He's great with his feet, but his passing towards the end of the season and in the [Champions League final](https://tacticsjournal.com/2023/06/11/manchester-city-pass-their-final-test/) was inconsistent. He's well above average at passing, but he's not on the same level as Ederson, Gianluigi Donnarumma, or Alisson. He's a tier below, A tier. Still world-class but not S tier. 
 
 {% include video.html url="https://www.youtube.com/embed/lWnEe2gHu18" %}
 
