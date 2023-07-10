@@ -34,7 +34,7 @@ He's great with his feet, but his passing towards the end of the season and in t
 
 {% include video.html url="https://www.youtube.com/embed/lWnEe2gHu18" %}
 
-People get very excited when he comes out of his net, which allows them to look past the passing errors. 
+People get very excited when he comes out of his net, which allows them to look past the odd wayward pass. It only takes one or three errors.
 
 The positive is that he will be a significant upgrade from David De Gea on the ball. It's like having an extra holding midfielder in goal. Vital and necessary, as he explained in the interview. 
 
