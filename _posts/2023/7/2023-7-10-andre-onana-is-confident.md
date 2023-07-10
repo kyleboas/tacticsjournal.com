@@ -46,7 +46,9 @@ He would be in net to face Tottenham, Arsenal, and Brighton in his first five ma
 
 Not enough of his passes are driven. He likes playing these high looping passes made for taller and stronger forwards to bring down. Manchester United doesn't currently have forwards like Lautaro Martinez, Romelu Lukaku, and Edin Dzeko who can bring down physically demanding long passes. They may be bullied off the ball. 
 
-He won't have a short pass outlet to lean on like Alessandro Bastoni at Inter. Bastoni completed 9.33 short passes per 90 at Inter. To put that into perspective, Ederson only completed 6.77 for Manchester City, and David De Gea completed only 5.24 for Manchester United. How will he adjust? Will Casemiro need to drop more frequently? How will the wingers cope with the added pressure of recieving with their back to goal. 
+He won't have a short pass outlet to lean on like Alessandro Bastoni at Inter. Onana completed 9.33 short passes per 90 at Inter. To put that into perspective, Ederson only completed 6.77 for Manchester City, and David De Gea completed only 5.24 for Manchester United. It's a lot of short passes.  
+
+How will he adjust? Will Casemiro need to drop more frequently? How will the wingers cope with the added pressure of recieving with their back to goal. 
 
 An overconfident goalkeeper who likes to dribble, with fewer outlets, is not a good mix on paper. I'd like to see how he handles Arsenal and Brighton's counter-press before getting excited.
 
