@@ -28,8 +28,6 @@ You can view the full interview with English subtitles here:
 
 Manchester United are inching closer to signing the Cameroonian from Inter Milan this summer to make him their new number one, as David De Gea departs after 12 years of service at the club. Inter reportedly [want €55m for Onana](https://twitter.com/fabrizioromano/status/1677061211051917313?s=46&t=YC8lQJTh43E_mBQW40Ct2g). 
 
-You can view the video regarding Onana's potential transfer [here](https://www.youtube.com/embed/lWnEe2gHu18).
-
 That is a high price tag for a goalkeeper, and there is a lot of hype building. Too much hype possibly. 
 
 He's great with his feet, but his passing towards the end of the season and in the [Champions League final](https://tacticsjournal.com/2023/06/11/manchester-city-pass-their-final-test/) was inconsistent. He's well above average at passing, but he's not on the same level as Ederson, Gianluigi Donnarumma, or Alisson. He's a tier below, A tier. Still world-class but not S tier. 
