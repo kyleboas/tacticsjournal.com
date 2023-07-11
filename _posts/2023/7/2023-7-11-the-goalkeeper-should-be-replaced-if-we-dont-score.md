@@ -50,8 +50,10 @@ I reckon Manchester City would have wrapped up the Premier League three weeks so
 
 A defense made up of Ruben Dias, John Stones, Nathan Aké, Manuel Akanji, and Kyle Walker should set records, not concede 39 goals. 
 
-I'm not saying Ederson is a bad goalkeeper, he's in the S tier, but he has been in a bad period. I'm using this as an example to highlight the hypocrisy of goalkeeping analysis within the public. It's illogical to judge a goalkeeper's performance based on the offensive output of a team. 
+I'm not saying Ederson is a bad goalkeeper, he's in the S tier, but he has been in a bad period.
 
 Goalkeepers are built on form. You need to have a short-term memory when evaluating them or you'll get stuck behind the curve. All three will dip and peak at different times. 
 
 I'd like to see what the reaction will be if Andre Onana performs the same as he did at Inter, but United score close to or fewer goals than last season, 58. Will they shine the spotlight brighter on him or will they be able to ignore the errors? 
+
+It's illogical to judge a goalkeeper's performance based on the offensive output of a team. They shouldn't be replaced if the team can't score goals.
