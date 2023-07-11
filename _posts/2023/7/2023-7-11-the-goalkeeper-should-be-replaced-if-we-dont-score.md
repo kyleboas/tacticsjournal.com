@@ -46,11 +46,13 @@ Why did Thomas Tuchel, Graham Potter, Bruno Saltor, Frank Lampard, and now Mauri
 
 If you want to go to an extreme, look at Ederson for Manchester City. He had a career worst 62.3% save percentage from only 2.20 shots per 90, with a -4.8 PSxG+/-. But they scored 94 goals so no one cares. 
 
-I reckon Manchester City would have wrapped up the Premier League three weeks sooner if they had a better performing goalkeeper who is a comparable passer, allowing them to rest their players for the final matches of the season. 
+I reckon Manchester City would have wrapped up the Premier League three weeks sooner if they had a better performing goalkeeper who is a comparable passer, allowing them to rest their players for the final matches of the season. [Alternatives exist](https://tacticsjournal.com/watchlist/).
 
 A defense made up of Ruben Dias, John Stones, Nathan Aké, Manuel Akanji, and Kyle Walker should set records, not concede 39 goals. 
 
-I'm not saying Ederson is a bad goalkeeper, he's in the S tier, but he has been in a bad period. Goalkeepers are built on form. You need to have a short-term memory when evaluating them or you'll get stuck behind the curve. All three will dip and peak at different times. 
+I'm not saying Ederson is a bad goalkeeper; he's in the S tier. However, he has been going through a rough patch recently. He started performing better towards the end of the season and was a completely different goalkeeper in the Champions League compared to the Premier League. 
+
+Goalkeepers are built on form. You need to have a short-term memory when evaluating them or you'll get stuck behind the curve. All three will dip and peak at different times. 
 
 I'd like to see what the reaction will be if Andre Onana performs the same as he did at Inter, but United score close to or fewer goals than last season, 58. Will they shine the spotlight brighter on him or will they be able to ignore the errors? 
 
