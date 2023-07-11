@@ -44,7 +44,7 @@ The scapegoat for poor attacking returns is the defense, and whether they're per
 
 Why did Thomas Tuchel, Graham Potter, Bruno Saltor, Frank Lampard, and now Mauricio Pochettino all say 'Kepa is still Chelsea's number one goalkeeper'? Because he's been performing well. There was and is no reason to replace someone who's performing at that high a level. 
 
-If you want to go to an extreme, look at Ederson for Manchester City. He had a career-worst 62.3% save percentage from only 2.20 shots per 90, with a -4.8 PSxG+/-. But they scored 94 goals, so no one cares. 
+If you want to go to an extreme, look at Ederson for Manchester City. He had a career-worst 62.3% save percentage from only 2.20 shots per 90, with a -4.8 PSxG+/-. But they scored 94 goals, so no one notices. 
 
 I reckon Manchester City would have wrapped up the Premier League three weeks sooner if they had a better-performing goalkeeper who is a comparable passer, allowing them to rest their players for the final matches of the season. [Alternatives exist](https://tacticsjournal.com/watchlist/).
 
