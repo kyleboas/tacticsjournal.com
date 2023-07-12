@@ -47,6 +47,8 @@ Both looked like they could be given a chance; they didn't look out of place on 
 
 United's midfield structure was very fluid. Constantly rotating, never static, like a spring. When one player enters a space, another fills the space. 
 
+This is good news for Casemiro. That rotation will give him the cover to get forward. There's always someone sitting in front of the back-line to protect at least two midfielders can attack. 
+
 <figure>
     <img src="https://tacticsjournal.com/uploads/2023/07/12/Image-12Jul2023_14:47:29.jpeg">
     <figcaption>Figure 3.1 - Omari Forson inverts as Álvaro Fernández makes a run up the left-wing.</figcaption>
@@ -83,3 +85,7 @@ They are the [masters of rest defense](https://tacticsjournal.com/Manchester-Uni
 Finally, the thing all Manchester United fans wanted to see: a Mason Mount through ball. I can picture him making these types of passes into Antony and Marcus Rashford this season. 
 
 His chance creation, paired with his intensity and proficiency when pressing, will be a game-changer. Christian Eriksen can pass, but he can't press like Mount. High work-rate and an even higher IQ.
+
+The fact that they could not score at least one goal in the first half was a bad look. They had no bite in attack. They should be able to bury one. I love seeing Jadon Sancho in the central position, but not as a false 9; it doesn't work. Shows the desperation of the situation right now. Even if you were to add Bruno Fernandes, Luke Shaw, and Antony to that squad, I don't think that would elevate them enough to a level where they could be considered 'threatening.'
+
+They must sign a more reliable, non-injury-prone, clinical number 9 to be an outlet for Mason Mount, Bruno Fernandes, and Jadon Sancho.
