@@ -5,7 +5,7 @@ title: "André Onana is confident"
 tags: 
 - "Inter"
 - "Manchester United" 
-image: /uploads/2023/07/09/Image-09Jul2023_17:39:23.jpeg
+image: /uploads/2023/07/12/Image-12Jul2023_12:10:00.jpeg
 --- 
 
 July 10, 2023 — André Onana explains what a modern goalkeeper means to him, thus essentially describing himself.
