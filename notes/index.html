@@ -1,30 +1,18 @@
 ---
 layout: default
-image: /images/AFFB1761-E5AA-4594-BEE3-D9BF52A01D59.jpeg
 ---
 
-<div class="searchInput">
-  <input type="text" id="search-input" placeholder="Search...">
-    <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
-    <div class="resultBox">
-      <!-- here list are inserted from javascript -->
-  </div>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
-
-<ul id="post-list"></ul>
-
-<script>
-  window.addEventListener("DOMContentLoaded", function() {
-  var queryString = window.location.search;
-  var urlParams = new URLSearchParams(queryString);
-  var searchQuery = urlParams.get("search");
-
-  if (searchQuery) {
-    var searchInput = document.getElementById("search-input");
-    searchInput.value = searchQuery;
-    searchInput.dispatchEvent(new Event("input"));
-  }
-});
-</script>
-<script src="/js/search.js"></script>
-<script src="/js/suggest.js"></script>
