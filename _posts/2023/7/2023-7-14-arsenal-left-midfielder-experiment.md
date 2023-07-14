@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2023-7-14 07:00:00 UTC
-title: "Arsenal's left midfielder experiment“
-categories: 
-- "Premier League" 
+title: "Arsenal's left midfielder experiment"
+categories:
+- "Premier League"
 tags: 
-- "Arsenal" 
+- "Arsenal"
 image: /uploads/2023/07/13/Image-13Jul2023_20:38:45.jpeg
 ---
 
