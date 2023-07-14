@@ -2,7 +2,7 @@
 {% assign height = include.height | times: 1.0 %}
 {% assign paddingBottom = height | divided_by: width | times: 100 %}
 <div class="video-holder" style="padding-bottom: {{ paddingBottom }}%">
-  <video width="560" height="315" controls>
+  <video width="560" height="315" controls style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <source src="{{ include.url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
