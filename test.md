@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<video width="640" height="480" controls>
+      <source src="https://i.imgur.com/Sr3yxVR.mp4" type="video/mp4">
+      Your browser does not support the video tag. 
+</video>
+
 <input type="text" id="search-input" placeholder="Search...">
 <p id="p-result-count" style="margin-top: -20px;"><span id="result-count"></span></p>
 <ul id="suggestion-list"></ul>
