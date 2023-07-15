@@ -18,7 +18,7 @@ July 12, 2023 — Pep Guardiola describes his first impressions of Andrés Inies
 > “But later,” Guardiola admits, “I came to really value something else Andrés does, something that he had made me see with time: the importance of attacking the centre-backs. No one does it. But watch and you see it. If the central defender has to step out, everything opens up; the whole defence becomes disorganised and spaces appear that weren’t there before. It’s all about breaking through lines to find space behind them. Open, then find."
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/07/10/Image-10Jul2023_22:25:47.jpeg">
+    <img src="https://i.imgur.com/OypbOJJ.jpg">
     <figcaption>Figure 1.1 - Example of the space created when Andrés Iniesta draws a center-back out.</figcaption>
 </figure> 
 
