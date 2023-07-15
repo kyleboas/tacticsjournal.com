@@ -112,7 +112,7 @@ defaults:
 defaults:
   - scope:
       path: ""
-      type: "category"
+      type: "categories"
       values:
         category: "notes"
     values:
