@@ -27,7 +27,6 @@
 
   var posts = [
     {% for post in site.posts %}
-      {% unless post.categories contains 'Notes' %}
         {
           title: "{{ post.title | xml_escape }}",
           url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
@@ -35,7 +34,6 @@
           tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
           categories: "{{ post.categories | xml_escape }}"
         }{% unless forloop.last %},{% endunless %}
-      {% endunless %}
     {% endfor %}
   ];
 
@@ -91,13 +89,24 @@
       var result = results[i];
       var li = document.createElement('li');
       li.classList.add('post-item');
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
+
+      // Check if the post has the category "Notes"
+      if (result.categories.includes('Notes')) {
+        // Display the post without the title
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+      } else {
+        // Display the post with the title and excerpt
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+      }
+
       postList.appendChild(li);
     }
   } else if (results.length === 0) {
@@ -109,9 +118,18 @@
     noResultsMessage.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-        var li = document.createElement('li');
-        li.classList.add('post-item'); // Add a custom class for styling purposes
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item'); // Add a custom class for styling purposes
+
+      // Check if the post has the category "Notes"
+      if (result.categories.includes('Notes')) {
+        // Display the post without the title
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+      } else {
+        // Display the post with the title and excerpt
         var a = document.createElement('a');
         a.href = result.url;
         a.innerHTML = result.title;
@@ -119,10 +137,13 @@
         var p = document.createElement('p');
         p.innerHTML = result.excerpt;
         li.appendChild(p);
-        postList.appendChild(li);
       }
+
+      postList.appendChild(li);
     }
   }
+}
+
    
    // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
