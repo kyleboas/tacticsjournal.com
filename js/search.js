@@ -85,6 +85,8 @@
     countElement.textContent = 'All Posts';
     noResultsMessage.style.display = 'none';
 
+    var currentDate = null; // Track the current date
+
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
       var li = document.createElement('li');
@@ -105,6 +107,22 @@
         var p = document.createElement('p');
         p.innerHTML = result.excerpt;
         li.appendChild(p);
+      }
+
+      // Check if the current date is different from the previous post's date
+      if (result.date !== currentDate) {
+        currentDate = result.date;
+
+        // Add a separator element
+        var separator = document.createElement('hr');
+        separator.classList.add('post-separator');
+        postList.appendChild(separator);
+
+        // Add a date header
+        var dateHeader = document.createElement('div');
+        dateHeader.classList.add('date-header');
+        dateHeader.textContent = currentDate;
+        postList.appendChild(dateHeader);
       }
 
       postList.appendChild(li);
@@ -139,10 +157,27 @@
         li.appendChild(p);
       }
 
+      // Check if the current date is different from the previous post's date
+      if (result.date !== currentDate) {
+        currentDate = result.date;
+
+        // Add a separator element
+        var separator = document.createElement('hr');
+        separator.classList.add('post-separator');
+        postList.appendChild(separator);
+
+        // Add a date header
+        var dateHeader = document.createElement('div');
+        dateHeader.classList.add('date-header');
+        dateHeader.textContent = currentDate;
+        postList.appendChild(dateHeader);
+      }
+
       postList.appendChild(li);
     }
   }
 }
+
 
    
    // Get the search query from the URL
