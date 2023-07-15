@@ -75,7 +75,7 @@
     });
   }
 
-  function renderResults(results) {
+   function renderResults(results) {
   postList.innerHTML = '';
 
   var searchQuery = searchInput.value.trim();
@@ -181,6 +181,7 @@
     }
   }
 }
+
    
    // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
