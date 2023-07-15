@@ -146,6 +146,9 @@
     countElement.textContent = resultCount + ' posts found'; // Update the count
     noResultsMessage.style.display = 'none';
 
+    // Track the current day
+    var currentDay = null;
+
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
       var li = document.createElement('li');
@@ -168,39 +171,44 @@
         li.appendChild(p);
       }
 
-      // Check if the current date is different from the previous post's date
-if (result.date !== currentDate) {
-  currentDate = result.date;
+      // Check if the current day is different from the previous post's day
+      if (new Date(result.date).getDate() !== currentDay) {
+        currentDay = new Date(result.date).getDate();
 
-  // Add a date header
-  var dateHeader = document.createElement('div');
-  dateHeader.classList.add('date-header');
-  var dateParagraph = document.createElement('p');
+        // Find the first post in the current day group
+        var firstPostInDayGroup = results.find(post => new Date(post.date).getDate() === currentDay);
 
-  // Convert the currentDate value to a formatted date string
-  var formattedDate = new Date(currentDate).toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric'
-  });
+        if (firstPostInDayGroup) {
+          // Add a date header
+          var dateHeader = document.createElement('div');
+          dateHeader.classList.add('date-header');
+          var dateParagraph = document.createElement('p');
 
-  dateParagraph.textContent = formattedDate;
-  dateHeader.appendChild(dateParagraph);
-  postList.appendChild(dateHeader);
+          // Convert the date of the first post in the day group to a formatted date string
+          var formattedDate = new Date(firstPostInDayGroup.date).toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+          });
 
-  // Add a separator element between date groups, except for the first group
-  if (i > 0) {
-    var separator = document.createElement('hr');
-    separator.classList.add('date-separator');
-    postList.appendChild(separator);
-  }
-}
+          dateParagraph.textContent = formattedDate;
+          dateHeader.appendChild(dateParagraph);
+          postList.appendChild(dateHeader);
 
+          // Add a separator element between date groups, except for the first group
+          if (i > 0) {
+            var separator = document.createElement('hr');
+            separator.classList.add('date-separator');
+            postList.appendChild(separator);
+          }
+        }
+      }
 
       postList.appendChild(li);
     }
   }
 }
+
 
 
    
