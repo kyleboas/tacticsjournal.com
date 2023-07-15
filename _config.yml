@@ -113,7 +113,7 @@ defaults:
       path: ""
       type: "posts"
       values:
-        categories: "notes"
+        category: "notes"
     values:
       permalink: "/notes/:year/:month/:day/:title/"
 
