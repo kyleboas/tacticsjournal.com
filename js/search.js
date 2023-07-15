@@ -35,9 +35,8 @@
       categories: "{{ post.categories | xml_escape }}",
       date: "{{ post.date | date: "%B %d, %Y" }}"
     }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-];
-
+    {% endfor %}
+  ];
 
   function search(query) {
     var results = [];
