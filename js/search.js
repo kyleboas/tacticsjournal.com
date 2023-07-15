@@ -176,17 +176,17 @@
         postList.appendChild(dateHeader);
 
         // Add a separator element between date groups
-        var separator = document.createElement('hr');
-        separator.classList.add('date-separator');
-        postList.appendChild(separator);
+        if (i > 0 && result.date !== results[i - 1].date) {
+          var separator = document.createElement('hr');
+          separator.classList.add('date-separator');
+          postList.appendChild(separator);
+        }
       }
 
       postList.appendChild(li);
     }
   }
 }
-
-
    
    // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
