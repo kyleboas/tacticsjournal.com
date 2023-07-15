@@ -117,21 +117,21 @@
 
         // Check if the post has the category "Notes"
         if (result.categories.includes('Notes')) {
-          // Display the post without the title
-          var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
-          li.appendChild(p);
+         // Display the post without the title
+          var contentContainer = document.createElement('div');
+          contentContainer.classList.add('post-content'); // Add a custom class for styling purposes
+          contentContainer.innerHTML = result.content; // Assuming `result.content` contains the full post content
+          li.appendChild(contentContainer);
         } else {
-          // Display the post with the title and excerpt
+         // Display the post with the title and excerpt
           var a = document.createElement('a');
           a.href = result.url;
           a.innerHTML = result.title;
           li.appendChild(a);
           var p = document.createElement('p');
           p.innerHTML = result.excerpt;
-          li.appendChild(p);
-        }
-
+        li.appendChild(p);
+       }
         postList.appendChild(li);
       }
     } else if (results.length === 0) {
