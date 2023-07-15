@@ -169,32 +169,33 @@
       }
 
       // Check if the current date is different from the previous post's date
-      if (result.date !== currentDate) {
-        currentDate = result.date;
+if (result.date !== currentDate) {
+  currentDate = result.date;
 
-        // Add a date header
-        var dateHeader = document.createElement('div');
-        dateHeader.classList.add('date-header');
-        var dateParagraph = document.createElement('p');
-        dateParagraph.textContent = currentDate;
-        dateHeader.appendChild(dateParagraph);
-        postList.appendChild(dateHeader);
+  // Add a date header
+  var dateHeader = document.createElement('div');
+  dateHeader.classList.add('date-header');
+  var dateParagraph = document.createElement('p');
 
-        // Add a separator element between date groups
-        if (i > 0 && result.date !== results[i - 1].date) {
-          var separator = document.createElement('hr');
-          separator.classList.add('date-separator');
-          postList.appendChild(separator);
+  // Convert the currentDate value to a formatted date string
+  var formattedDate = new Date(currentDate).toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
 
-          // Add the date of the previous group underneath the separator
-          var previousDateHeader = document.createElement('div');
-          previousDateHeader.classList.add('date-header');
-          var previousDateParagraph = document.createElement('p');
-          previousDateParagraph.textContent = currentDate;
-          previousDateHeader.appendChild(previousDateParagraph);
-          postList.appendChild(previousDateHeader);
-        }
-      }
+  dateParagraph.textContent = formattedDate;
+  dateHeader.appendChild(dateParagraph);
+  postList.appendChild(dateHeader);
+
+  // Add a separator element between date groups, except for the first group
+  if (i > 0) {
+    var separator = document.createElement('hr');
+    separator.classList.add('date-separator');
+    postList.appendChild(separator);
+  }
+}
+
 
       postList.appendChild(li);
     }
