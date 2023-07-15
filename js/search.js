@@ -94,7 +94,9 @@
         if (result.date !== currentDate) {
           var separator = document.createElement('div');
           separator.classList.add('date-separator');
-          separator.textContent = result.date;
+          var p = document.createElement('p');
+          p.textContent = result.date;
+          separator.appendChild(p);
           postList.appendChild(separator);
           currentDate = result.date;
         }
@@ -137,7 +139,9 @@
         if (result.date !== currentDate) {
           var separator = document.createElement('div');
           separator.classList.add('date-separator');
-          separator.textContent = result.date;
+          var p = document.createElement('p');
+          p.textContent = result.date;
+          separator.appendChild(p);
           postList.appendChild(separator);
           currentDate = result.date;
         }
