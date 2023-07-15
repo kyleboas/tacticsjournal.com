@@ -37,19 +37,6 @@
     {% endfor %}
   ];
 
-  function groupPostsByDate(posts) {
-    var groupedPosts = {};
-    for (var i = 0; i < posts.length; i++) {
-      var post = posts[i];
-      if (groupedPosts.hasOwnProperty(post.date)) {
-        groupedPosts[post.date].push(post);
-      } else {
-        groupedPosts[post.date] = [post];
-      }
-    }
-    return groupedPosts;
-  }
-
   function search(query) {
     var results = [];
 
@@ -89,7 +76,7 @@
     });
   }
 
-  function renderResults(results) {
+  function renderResults(results, query) {
     postList.innerHTML = '';
 
     var searchQuery = searchInput.value.trim();
@@ -99,48 +86,84 @@
       countElement.textContent = 'All Posts';
       noResultsMessage.style.display = 'none';
 
-      var groupedPosts = groupPostsByDate(results);
-      var dates = Object.keys(groupedPosts).sort().reverse();
+      var currentDate = null;
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
 
-      for (var i = 0; i < dates.length; i++) {
-        var date = dates[i];
-        var posts = groupedPosts[date];
-
-        var separator = document.createElement('div');
-        separator.classList.add('date-separator');
-        separator.textContent = date;
-        postList.appendChild(separator);
-
-        for (var j = 0; j < posts.length; j++) {
-          var post = posts[j];
-          var li = document.createElement('li');
-          li.classList.add('post-item');
-
-          // Check if the post has the category "Notes"
-          if (post.categories.includes('Notes')) {
-            // Display the post without the title
-            var p = document.createElement('p');
-            p.innerHTML = post.excerpt;
-            li.appendChild(p);
-          } else {
-            // Display the post with the title and excerpt
-            var a = document.createElement('a');
-            a.href = post.url;
-            a.innerHTML = post.title;
-            li.appendChild(a);
-            var p = document.createElement('p');
-            p.innerHTML = post.excerpt;
-            li.appendChild(p);
-          }
-
-          postList.appendChild(li);
+        // Check if the date has changed and add a separator
+        if (result.date !== currentDate) {
+          var separator = document.createElement('div');
+          separator.classList.add('date-separator');
+          separator.textContent = result.date;
+          postList.appendChild(separator);
+          currentDate = result.date;
         }
+
+        var li = document.createElement('li');
+        li.classList.add('post-item');
+
+        // Check if the post has the category "Notes"
+        if (result.categories.includes('Notes')) {
+          // Display the post without the title
+          var p = document.createElement('p');
+          p.innerHTML = result.excerpt;
+          li.appendChild(p);
+        } else {
+          // Display the post with the title and excerpt
+          var a = document.createElement('a');
+          a.href = result.url;
+          a.innerHTML = result.title;
+          li.appendChild(a);
+          var p = document.createElement('p');
+          p.innerHTML = result.excerpt;
+          li.appendChild(p);
+        }
+
+        postList.appendChild(li);
       }
     } else if (results.length === 0) {
       countElement.textContent = 'No posts found';
       noResultsMessage.style.display = 'block'; // Show the message
     } else {
-      // ...
+      var resultCount = results.length;
+      countElement.textContent = resultCount + ' posts found'; // Update the count
+      noResultsMessage.style.display = 'none';
+
+      var currentDate = null;
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
+
+        // Check if the date has changed and add a separator
+        if (result.date !== currentDate) {
+          var separator = document.createElement('div');
+          separator.classList.add('date-separator');
+          separator.textContent = result.date;
+          postList.appendChild(separator);
+          currentDate = result.date;
+        }
+
+        var li = document.createElement('li');
+        li.classList.add('post-item'); // Add a custom class for styling purposes
+
+        // Check if the post has the category "Notes"
+        if (result.categories.includes('Notes')) {
+          // Display the post without the title
+          var p = document.createElement('p');
+          p.innerHTML = result.excerpt;
+          li.appendChild(p);
+        } else {
+          // Display the post with the title and excerpt
+          var a = document.createElement('a');
+          a.href = result.url;
+          a.innerHTML = result.title;
+          li.appendChild(a);
+          var p = document.createElement('p');
+          p.innerHTML = result.excerpt;
+          li.appendChild(p);
+        }
+
+        postList.appendChild(li);
+      }
     }
   }
 
