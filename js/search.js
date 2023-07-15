@@ -1,7 +1,6 @@
 ---
 ---
 
-
 (function () {
   var searchInput = document.getElementById('search-input');
   var suggestionList = document.getElementById('suggestion-list');
@@ -32,10 +31,24 @@
           url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
           excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
           tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
-          categories: "{{ post.categories | xml_escape }}"
+          categories: "{{ post.categories | xml_escape }}",
+          date: "{{ post.date | date: "%B %d, %Y" }}"
         }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ];
+
+  function groupPostsByDate(posts) {
+    var groupedPosts = {};
+    for (var i = 0; i < posts.length; i++) {
+      var post = posts[i];
+      if (groupedPosts.hasOwnProperty(post.date)) {
+        groupedPosts[post.date].push(post);
+      } else {
+        groupedPosts[post.date] = [post];
+      }
+    }
+    return groupedPosts;
+  }
 
   function search(query) {
     var results = [];
@@ -60,7 +73,8 @@
           url: post.url,
           excerpt: highlightedExcerpt,
           tags: post.tags,
-          categories: post.categories
+          categories: post.categories,
+          date: post.date
         });
       }
     }
@@ -75,126 +89,62 @@
     });
   }
 
- function renderResults(results) {
-  postList.innerHTML = '';
+  function renderResults(results) {
+    postList.innerHTML = '';
 
-  var searchQuery = searchInput.value.trim();
-  var countElement = document.getElementById('result-count');
-  var currentDate = null; // Track the current date
+    var searchQuery = searchInput.value.trim();
+    var countElement = document.getElementById('result-count');
 
-  if (searchQuery === '') {
-    countElement.textContent = 'All Posts';
-    noResultsMessage.style.display = 'none';
+    if (searchQuery === '') {
+      countElement.textContent = 'All Posts';
+      noResultsMessage.style.display = 'none';
 
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
+      var groupedPosts = groupPostsByDate(results);
+      var dates = Object.keys(groupedPosts).sort().reverse();
 
-      // Check if the post has the category "Notes"
-      if (result.categories.includes('Notes')) {
-        // Display the post without the title
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        li.appendChild(p);
-      } else {
-        // Display the post with the title and excerpt
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        li.appendChild(a);
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        li.appendChild(p);
-      }
+      for (var i = 0; i < dates.length; i++) {
+        var date = dates[i];
+        var posts = groupedPosts[date];
 
-      // Check if the current date is different from the previous post's date
-      if (result.date !== currentDate) {
-        currentDate = result.date;
-
-        // Add a date header
-        var dateHeader = document.createElement('div');
-        dateHeader.classList.add('date-header');
-        var dateParagraph = document.createElement('p');
-        dateParagraph.textContent = currentDate;
-        dateHeader.appendChild(dateParagraph);
-        postList.appendChild(dateHeader);
-
-        // Add a separator element between date groups, except for the first group
-        if (i > 0) {
-          var separator = document.createElement('hr');
-          separator.classList.add('date-separator');
-          postList.appendChild(separator);
-        }
-      }
-
-      postList.appendChild(li);
-    }
-  } else if (results.length === 0) {
-    countElement.textContent = 'No posts found';
-    noResultsMessage.style.display = 'block'; // Show the message
-  } else {
-    var resultCount = results.length;
-    countElement.textContent = resultCount + ' posts found'; // Update the count
-    noResultsMessage.style.display = 'none';
-
-    var firstPostInGroup = results[0]; // Track the first post in each group
-    currentDate = firstPostInGroup.date;
-
-    // Add a date header for the first group
-    var dateHeader = document.createElement('div');
-    dateHeader.classList.add('date-header');
-    var dateParagraph = document.createElement('p');
-    dateParagraph.textContent = currentDate;
-    dateHeader.appendChild(dateParagraph);
-    postList.appendChild(dateHeader);
-
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item'); // Add a custom class for styling purposes
-
-      // Check if the post has the category "Notes"
-      if (result.categories.includes('Notes')) {
-        // Display the post without the title
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        li.appendChild(p);
-      } else {
-        // Display the post with the title and excerpt
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        li.appendChild(a);
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        li.appendChild(p);
-      }
-
-      // Check if the current date is different from the previous post's date
-      if (result.date !== currentDate) {
-        currentDate = result.date;
-
-        // Add a separator element between date groups
-        var separator = document.createElement('hr');
+        var separator = document.createElement('div');
         separator.classList.add('date-separator');
+        separator.textContent = date;
         postList.appendChild(separator);
 
-        // Add the date header for the new date group
-        var newDateHeader = document.createElement('div');
-        newDateHeader.classList.add('date-header');
-        var newDateParagraph = document.createElement('p');
-        newDateParagraph.textContent = currentDate;
-        newDateHeader.appendChild(newDateParagraph);
-        postList.appendChild(newDateHeader);
-      }
+        for (var j = 0; j < posts.length; j++) {
+          var post = posts[j];
+          var li = document.createElement('li');
+          li.classList.add('post-item');
 
-      postList.appendChild(li);
+          // Check if the post has the category "Notes"
+          if (post.categories.includes('Notes')) {
+            // Display the post without the title
+            var p = document.createElement('p');
+            p.innerHTML = post.excerpt;
+            li.appendChild(p);
+          } else {
+            // Display the post with the title and excerpt
+            var a = document.createElement('a');
+            a.href = post.url;
+            a.innerHTML = post.title;
+            li.appendChild(a);
+            var p = document.createElement('p');
+            p.innerHTML = post.excerpt;
+            li.appendChild(p);
+          }
+
+          postList.appendChild(li);
+        }
+      }
+    } else if (results.length === 0) {
+      countElement.textContent = 'No posts found';
+      noResultsMessage.style.display = 'block'; // Show the message
+    } else {
+      // ...
     }
   }
-}
-   
-   // Get the search query from the URL
+
+  // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
   if (searchQuery) {
     searchInput.value = searchQuery;
@@ -208,7 +158,7 @@
     var results = search(query);
     renderResults(results, query); // Pass the results and query to render
   });
-   
+
   // Initial render of all posts
   renderResults(posts);
 })();
