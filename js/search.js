@@ -87,6 +87,7 @@
       noResultsMessage.style.display = 'none';
 
       var currentDate = null;
+      var firstGroup = true;
       for (var i = 0; i < results.length; i++) {
         var result = results[i];
 
@@ -98,6 +99,13 @@
           p.textContent = result.date;
           separator.appendChild(p);
           postList.appendChild(separator);
+
+          // Add first-date-separator class to the first group of posts
+          if (firstGroup) {
+            separator.classList.add('first-date-separator');
+            firstGroup = false;
+          }
+
           currentDate = result.date;
         }
 
@@ -122,6 +130,12 @@
         }
 
         postList.appendChild(li);
+
+        // Add <hr> separator between posts within the same date
+        if (i < results.length - 1 && results[i + 1].date === result.date) {
+          var hr = document.createElement('hr');
+          postList.appendChild(hr);
+        }
       }
     } else if (results.length === 0) {
       countElement.textContent = 'No posts found';
@@ -143,6 +157,7 @@
           p.textContent = result.date;
           separator.appendChild(p);
           postList.appendChild(separator);
+
           currentDate = result.date;
         }
 
@@ -167,6 +182,12 @@
         }
 
         postList.appendChild(li);
+
+        // Add <hr> separator between posts within the same date
+        if (i < results.length - 1 && results[i + 1].date === result.date) {
+          var hr = document.createElement('hr');
+          postList.appendChild(hr);
+        }
       }
     }
   }
@@ -176,6 +197,15 @@
   if (searchQuery) {
     searchInput.value = searchQuery;
     var results = search(searchQuery); // Perform search with the query
+
+    // Add first-date-separator class to the first group of posts
+    if (results.length > 0) {
+      var firstGroupSeparator = postList.querySelector('.first-date-separator');
+      if (firstGroupSeparator) {
+        firstGroupSeparator.classList.add('first-date-separator');
+      }
+    }
+
     renderResults(results, searchQuery); // Pass the results and query to render
   }
 
@@ -183,6 +213,15 @@
   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
     var results = search(query);
+
+    // Add first-date-separator class to the first group of posts
+    if (results.length > 0) {
+      var firstGroupSeparator = postList.querySelector('.first-date-separator');
+      if (firstGroupSeparator) {
+        firstGroupSeparator.classList.add('first-date-separator');
+      }
+    }
+
     renderResults(results, query); // Pass the results and query to render
   });
 
