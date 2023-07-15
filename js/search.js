@@ -52,6 +52,7 @@
         post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
         post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
         post.categories.toLowerCase().includes(query.toLowerCase()) // Add search in categories
+        post.date.toLowerCase().includes(query.toLowerCase()) // Add search in date
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
