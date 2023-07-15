@@ -86,7 +86,6 @@
     noResultsMessage.style.display = 'none';
 
     var currentDate = null; // Track the current date
-    var isFirstPost = true; // Track if it's the first post in the loop
 
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
@@ -123,14 +122,13 @@
         postList.appendChild(dateHeader);
 
         // Add a separator element between date groups, except for the first group
-        if (!isFirstPost) {
+        if (i > 0) {
           var separator = document.createElement('hr');
           separator.classList.add('date-separator');
           postList.appendChild(separator);
         }
       }
 
-      isFirstPost = false;
       postList.appendChild(li);
     }
   } else if (results.length === 0) {
@@ -187,6 +185,7 @@
     }
   }
 }
+
    
    // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
