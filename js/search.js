@@ -103,6 +103,7 @@
           // Add first-date-separator class to the first group of posts
           if (firstGroup) {
             separator.classList.add('first-date-separator');
+            separator.style.marginTop = '0px'; // Add margin-top: 0px to the first-date-separator
             firstGroup = false;
           }
 
@@ -157,6 +158,7 @@
           // Add first-date-separator class to the first group of posts
           if (firstGroup) {
             separator.classList.add('first-date-separator');
+            separator.style.marginTop = '0px'; // Add margin-top: 0px to the first-date-separator
             firstGroup = false;
           }
 
@@ -193,6 +195,7 @@
     var firstGroupSeparator = postList.querySelector('.first-date-separator');
     if (firstGroupSeparator) {
       firstGroupSeparator.classList.add('first-date-separator');
+      firstGroupSeparator.style.marginTop = '0px'; // Add margin-top: 0px to the first-date-separator
     }
   }
 
@@ -207,6 +210,7 @@
       var firstGroupSeparator = postList.querySelector('.first-date-separator');
       if (firstGroupSeparator) {
         firstGroupSeparator.classList.add('first-date-separator');
+        firstGroupSeparator.style.marginTop = '0px'; // Add margin-top: 0px to the first-date-separator
       }
     }
 
@@ -223,6 +227,7 @@
       var firstGroupSeparator = postList.querySelector('.first-date-separator');
       if (firstGroupSeparator) {
         firstGroupSeparator.classList.add('first-date-separator');
+        firstGroupSeparator.style.marginTop = '0px'; // Add margin-top: 0px to the first-date-separator
       }
     }
 
