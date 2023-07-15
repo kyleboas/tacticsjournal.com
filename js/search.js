@@ -113,16 +113,18 @@
       if (result.date !== currentDate) {
         currentDate = result.date;
 
-        // Add a separator element
-        var separator = document.createElement('hr');
-        separator.classList.add('post-separator');
-        postList.appendChild(separator);
-
         // Add a date header
         var dateHeader = document.createElement('div');
         dateHeader.classList.add('date-header');
         dateHeader.textContent = currentDate;
         postList.appendChild(dateHeader);
+      }
+
+      // Add a separator element between posts posted on the same day
+      if (i + 1 < results.length && results[i + 1].date === currentDate) {
+        var separator = document.createElement('hr');
+        separator.classList.add('post-separator');
+        postList.appendChild(separator);
       }
 
       postList.appendChild(li);
@@ -161,11 +163,6 @@
       if (result.date !== currentDate) {
         currentDate = result.date;
 
-        // Add a separator element
-        var separator = document.createElement('hr');
-        separator.classList.add('post-separator');
-        postList.appendChild(separator);
-
         // Add a date header
         var dateHeader = document.createElement('div');
         dateHeader.classList.add('date-header');
@@ -173,10 +170,18 @@
         postList.appendChild(dateHeader);
       }
 
+      // Add a separator element between posts posted on the same day
+      if (i + 1 < results.length && results[i + 1].date === currentDate) {
+        var separator = document.createElement('hr');
+        separator.classList.add('post-separator');
+        postList.appendChild(separator);
+      }
+
       postList.appendChild(li);
     }
   }
 }
+
 
 
    
