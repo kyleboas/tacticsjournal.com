@@ -117,10 +117,14 @@
 
         // Check if the post has the category "Notes"
         if (result.categories.includes('Notes')) {
-          // Display the post without the title
-          var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
-          li.appendChild(p);
+        // Display the post without the title
+        var p = document.createElement('p');
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        p.appendChild(a);
+        p.innerHTML += result.excerpt;
+        li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
@@ -172,10 +176,14 @@
 
         // Check if the post has the category "Notes"
         if (result.categories.includes('Notes')) {
-          // Display the post without the title
-          var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
-          li.appendChild(p);
+        // Display the post without the title
+        var p = document.createElement('p');
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        p.appendChild(a);
+        p.innerHTML += result.excerpt;
+        li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
