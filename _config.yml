@@ -102,26 +102,27 @@ defaults:
     values:
       layout: "category"
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/:year/:month/:day/:title/"
+
+  - scope:
+      path: ""
+      type: "posts"
+      values:
+        categories: "notes"
+    values:
+      permalink: "/notes/:year/:month/:day/:title/"
+
 
 defaults:
   - scope:
       path: ""
     values:
       image_path: "https://tacticsjournal.com/images/"
-
-defaults:
-  - scope:
-      path: ""
-      type: "categories"
-      values:
-        category: "notes"
-    values:
-      permalink: "/notes/:year/:month/:day/:title/"
-
-collections:
-  notes:
-    output: true
-    permalink: "/notes/:year/:month/:day/:title/"
 
 # Exclude these files from your production _site
 exclude:
