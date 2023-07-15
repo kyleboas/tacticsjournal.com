@@ -9,7 +9,7 @@ tags:
 image: /uploads/2023/07/13/Image-13Jul2023_20:38:45.jpeg
 ---
 
-July 14, 2023 — Leandro Trossard and Kai Havertz both moved wide when Jakub Kiwior or Kieran Tierney inverted from left-back. Arsenal tried complicated solutions to attempt to replace Granit Xhaka.
+Leandro Trossard and Kai Havertz both moved wide when Jakub Kiwior or Kieran Tierney inverted from left-back. Arsenal tried complicated solutions to attempt to replace Granit Xhaka.
 
 <!---more--->
 
