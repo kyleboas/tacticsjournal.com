@@ -80,12 +80,11 @@
 
   var searchQuery = searchInput.value.trim();
   var countElement = document.getElementById('result-count');
+  var currentDate = null; // Track the current date
 
   if (searchQuery === '') {
     countElement.textContent = 'All Posts';
     noResultsMessage.style.display = 'none';
-
-    var currentDate = null; // Track the current date
 
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
@@ -126,6 +125,14 @@
           var separator = document.createElement('hr');
           separator.classList.add('date-separator');
           postList.appendChild(separator);
+
+          // Add the date of the previous group underneath the separator
+          var previousDateHeader = document.createElement('div');
+          previousDateHeader.classList.add('date-header');
+          var previousDateParagraph = document.createElement('p');
+          previousDateParagraph.textContent = currentDate;
+          previousDateHeader.appendChild(previousDateParagraph);
+          postList.appendChild(previousDateHeader);
         }
       }
 
@@ -178,6 +185,14 @@
           var separator = document.createElement('hr');
           separator.classList.add('date-separator');
           postList.appendChild(separator);
+
+          // Add the date of the previous group underneath the separator
+          var previousDateHeader = document.createElement('div');
+          previousDateHeader.classList.add('date-header');
+          var previousDateParagraph = document.createElement('p');
+          previousDateParagraph.textContent = currentDate;
+          previousDateHeader.appendChild(previousDateParagraph);
+          postList.appendChild(previousDateHeader);
         }
       }
 
@@ -185,6 +200,7 @@
     }
   }
 }
+
 
    
    // Get the search query from the URL
