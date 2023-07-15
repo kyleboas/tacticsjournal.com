@@ -125,14 +125,6 @@
           var separator = document.createElement('hr');
           separator.classList.add('date-separator');
           postList.appendChild(separator);
-
-          // Add the date of the previous group underneath the separator
-          var previousDateHeader = document.createElement('div');
-          previousDateHeader.classList.add('date-header');
-          var previousDateParagraph = document.createElement('p');
-          previousDateParagraph.textContent = currentDate;
-          previousDateHeader.appendChild(previousDateParagraph);
-          postList.appendChild(previousDateHeader);
         }
       }
 
@@ -146,8 +138,16 @@
     countElement.textContent = resultCount + ' posts found'; // Update the count
     noResultsMessage.style.display = 'none';
 
-    // Track the current day
-    var currentDay = null;
+    var firstPostInGroup = results[0]; // Track the first post in each group
+    currentDate = firstPostInGroup.date;
+
+    // Add a date header for the first group
+    var dateHeader = document.createElement('div');
+    dateHeader.classList.add('date-header');
+    var dateParagraph = document.createElement('p');
+    dateParagraph.textContent = currentDate;
+    dateHeader.appendChild(dateParagraph);
+    postList.appendChild(dateHeader);
 
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
@@ -171,46 +171,28 @@
         li.appendChild(p);
       }
 
-      // Check if the current day is different from the previous post's day
-      if (new Date(result.date).getDate() !== currentDay) {
-        currentDay = new Date(result.date).getDate();
+      // Check if the current date is different from the previous post's date
+      if (result.date !== currentDate) {
+        currentDate = result.date;
 
-        // Find the first post in the current day group
-        var firstPostInDayGroup = results.find(post => new Date(post.date).getDate() === currentDay);
+        // Add a separator element between date groups
+        var separator = document.createElement('hr');
+        separator.classList.add('date-separator');
+        postList.appendChild(separator);
 
-        if (firstPostInDayGroup) {
-          // Add a date header
-          var dateHeader = document.createElement('div');
-          dateHeader.classList.add('date-header');
-          var dateParagraph = document.createElement('p');
-
-          // Convert the date of the first post in the day group to a formatted date string
-          var formattedDate = new Date(firstPostInDayGroup.date).toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-          });
-
-          dateParagraph.textContent = formattedDate;
-          dateHeader.appendChild(dateParagraph);
-          postList.appendChild(dateHeader);
-
-          // Add a separator element between date groups, except for the first group
-          if (i > 0) {
-            var separator = document.createElement('hr');
-            separator.classList.add('date-separator');
-            postList.appendChild(separator);
-          }
-        }
+        // Add the date header for the new date group
+        var newDateHeader = document.createElement('div');
+        newDateHeader.classList.add('date-header');
+        var newDateParagraph = document.createElement('p');
+        newDateParagraph.textContent = currentDate;
+        newDateHeader.appendChild(newDateParagraph);
+        postList.appendChild(newDateHeader);
       }
 
       postList.appendChild(li);
     }
   }
 }
-
-
-
    
    // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
