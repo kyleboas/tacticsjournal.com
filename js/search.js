@@ -75,7 +75,7 @@
     });
   }
 
-   function renderResults(results) {
+ function renderResults(results) {
   postList.innerHTML = '';
 
   var searchQuery = searchInput.value.trim();
@@ -86,6 +86,7 @@
     noResultsMessage.style.display = 'none';
 
     var currentDate = null; // Track the current date
+    var isFirstPost = true; // Track if it's the first post in the loop
 
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
@@ -116,17 +117,20 @@
         // Add a date header
         var dateHeader = document.createElement('div');
         dateHeader.classList.add('date-header');
-        dateHeader.textContent = currentDate;
+        var dateParagraph = document.createElement('p');
+        dateParagraph.textContent = currentDate;
+        dateHeader.appendChild(dateParagraph);
         postList.appendChild(dateHeader);
+
+        // Add a separator element between date groups, except for the first group
+        if (!isFirstPost) {
+          var separator = document.createElement('hr');
+          separator.classList.add('date-separator');
+          postList.appendChild(separator);
+        }
       }
 
-      // Add a separator element between date groups
-      if (i > 0 && result.date !== results[i - 1].date) {
-        var separator = document.createElement('hr');
-        separator.classList.add('date-separator');
-        postList.appendChild(separator);
-      }
-
+      isFirstPost = false;
       postList.appendChild(li);
     }
   } else if (results.length === 0) {
@@ -166,12 +170,12 @@
         // Add a date header
         var dateHeader = document.createElement('div');
         dateHeader.classList.add('date-header');
-        dateHeader.textContent = currentDate;
+        var dateParagraph = document.createElement('p');
+        dateParagraph.textContent = currentDate;
+        dateHeader.appendChild(dateParagraph);
         postList.appendChild(dateHeader);
-      }
 
-      // Add a separator element between date groups
-      if (i > 0 && result.date !== results[i - 1].date) {
+        // Add a separator element between date groups
         var separator = document.createElement('hr');
         separator.classList.add('date-separator');
         postList.appendChild(separator);
@@ -181,6 +185,7 @@
     }
   }
 }
+
 
    
    // Get the search query from the URL
