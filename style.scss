@@ -424,6 +424,19 @@ cite {
   }
 }
 
+.date-seperator {
+  margin-bottom: 20px;
+  font-size: 15px;
+  color: #848484;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(169, 169, 169);
+  border-style: none none dashed; 
+
+  p {
+    margin: 5px;
+  }
+}
+
 #search-input { 
   border: 0;
 }
