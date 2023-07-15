@@ -86,6 +86,7 @@
     noResultsMessage.style.display = 'none';
 
     var currentDate = null; // Track the current date
+    var isFirstPost = true; // Track if it's the first post
 
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
@@ -118,16 +119,20 @@
         dateHeader.classList.add('date-header');
         dateHeader.textContent = currentDate;
         postList.appendChild(dateHeader);
+
+        isFirstPost = true; // Reset isFirstPost for the new date group
       }
 
       // Add a separator element between posts posted on the same day
-      if (i + 1 < results.length && results[i + 1].date === currentDate) {
+      if (!isFirstPost) {
         var separator = document.createElement('hr');
         separator.classList.add('post-separator');
         postList.appendChild(separator);
       }
 
       postList.appendChild(li);
+
+      isFirstPost = false; // Set isFirstPost to false after the first post in the group
     }
   } else if (results.length === 0) {
     countElement.textContent = 'No posts found';
@@ -168,19 +173,24 @@
         dateHeader.classList.add('date-header');
         dateHeader.textContent = currentDate;
         postList.appendChild(dateHeader);
+
+        isFirstPost = true; // Reset isFirstPost for the new date group
       }
 
       // Add a separator element between posts posted on the same day
-      if (i + 1 < results.length && results[i + 1].date === currentDate) {
+      if (!isFirstPost) {
         var separator = document.createElement('hr');
         separator.classList.add('post-separator');
         postList.appendChild(separator);
       }
 
       postList.appendChild(li);
+
+      isFirstPost = false; // Set isFirstPost to false after the first post in the group
     }
   }
 }
+
 
 
 
