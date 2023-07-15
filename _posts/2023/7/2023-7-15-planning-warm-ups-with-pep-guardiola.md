@@ -9,7 +9,7 @@ tags:
 image: "https://i.imgur.com/K4F84oa.png"
 ---
 
-July 15, 2023 — Manchester City fitness coach Lorenzo Buenaventura recalls how they base upcoming warm-ups around future opponents at the direction of Pep Guardiola. 
+Manchester City fitness coach Lorenzo Buenaventura recalls how they base upcoming warm-ups around future opponents at the direction of Pep Guardiola. 
 
 <!---more--->
 
