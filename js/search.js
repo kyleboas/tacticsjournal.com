@@ -122,6 +122,7 @@
         var a = document.createElement('a');
         a.href = result.url;
         a.innerHTML = result.title;
+        a.classList.add('title');
         p.appendChild(a);
         p.innerHTML += result.excerpt;
         li.appendChild(p);
@@ -181,6 +182,7 @@
         var a = document.createElement('a');
         a.href = result.url;
         a.innerHTML = result.title;
+        a.classList.add('title');
         p.appendChild(a);
         p.innerHTML += result.excerpt;
         li.appendChild(p);
