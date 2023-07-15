@@ -130,12 +130,6 @@
         }
 
         postList.appendChild(li);
-
-        // Add <hr> separator between posts within the same date
-        if (i < results.length - 1 && results[i + 1].date === result.date) {
-          var hr = document.createElement('hr');
-          postList.appendChild(hr);
-        }
       }
     } else if (results.length === 0) {
       countElement.textContent = 'No posts found';
@@ -182,12 +176,6 @@
         }
 
         postList.appendChild(li);
-
-        // Add <hr> separator between posts within the same date
-        if (i < results.length - 1 && results[i + 1].date === result.date) {
-          var hr = document.createElement('hr');
-          postList.appendChild(hr);
-        }
       }
     }
   }
