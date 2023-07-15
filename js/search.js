@@ -173,10 +173,11 @@
 
         // Check if the post has the category "Notes"
         if (result.categories.includes('Notes')) {
-          // Display the post without the title
-          var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
-          li.appendChild(p);
+         // Display the post without the title
+          var contentContainer = document.createElement('div');
+          contentContainer.classList.add('post-content'); // Add a custom class for styling purposes
+          contentContainer.innerHTML = result.content; // Assuming `result.content` contains the full post content
+          li.appendChild(contentContainer);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
