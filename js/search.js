@@ -51,7 +51,7 @@
         post.title.toLowerCase().includes(query.toLowerCase()) ||
         post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
         post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-        post.categories.toLowerCase().includes(query.toLowerCase()) // Add search in categories
+        post.categories.toLowerCase().includes(query.toLowerCase()) || // Add search in categories
         post.date.toLowerCase().includes(query.toLowerCase()) // Add search in date
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
@@ -99,13 +99,14 @@
           var p = document.createElement('p');
           p.textContent = result.date;
           separator.appendChild(p);
-          postList.appendChild(separator);
 
           // Add first-date-separator class to the first group of posts
           if (firstGroup) {
             separator.classList.add('first-date-separator');
             firstGroup = false;
           }
+
+          postList.appendChild(separator);
 
           currentDate = result.date;
         }
@@ -141,6 +142,7 @@
       noResultsMessage.style.display = 'none';
 
       var currentDate = null;
+      var firstGroup = true;
       for (var i = 0; i < results.length; i++) {
         var result = results[i];
 
@@ -151,6 +153,13 @@
           var p = document.createElement('p');
           p.textContent = result.date;
           separator.appendChild(p);
+
+          // Add first-date-separator class to the first group of posts
+          if (firstGroup) {
+            separator.classList.add('first-date-separator');
+            firstGroup = false;
+          }
+
           postList.appendChild(separator);
 
           currentDate = result.date;
@@ -178,6 +187,12 @@
 
         postList.appendChild(li);
       }
+    }
+
+    // Add first-date-separator class to the first group of posts
+    var firstGroupSeparator = postList.querySelector('.first-date-separator');
+    if (firstGroupSeparator) {
+      firstGroupSeparator.classList.add('first-date-separator');
     }
   }
 
