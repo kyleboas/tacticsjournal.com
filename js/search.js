@@ -30,7 +30,7 @@
       title: "{{ post.title | xml_escape }}",
       url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
       excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
-      content: "{{ post.content | strip_newlines }}",
+      content: "{{ post.content }}",
       tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
       categories: "{{ post.categories | xml_escape }}",
       date: "{{ post.date | date: "%B %d, %Y" }}"
@@ -125,7 +125,7 @@
         a.innerHTML = result.title;
         a.classList.add('title');
         p.appendChild(a);
-        p.innerHTML += result.content;
+        p.insertAdjacentHTML('beforeend', result.content);
         li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
@@ -185,7 +185,7 @@
         a.innerHTML = result.title;
         a.classList.add('title');
         p.appendChild(a);
-        p.innerHTML += result.content;
+        p.insertAdjacentHTML('beforeend', result.content);
         li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
