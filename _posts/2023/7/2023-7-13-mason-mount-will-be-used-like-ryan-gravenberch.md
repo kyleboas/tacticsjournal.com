@@ -9,7 +9,7 @@ tags:
 image: "https://i.imgur.com/1MS2gvA.jpg"
 ---
 
-Manchester United's match against Leeds United in a preseason friendly confirmed my suspicion of what Mason Mount's role will be and how they will be structured next season. 
+July 13, 2023 — Manchester United's match against Leeds United in a preseason friendly confirmed my suspicion of what Mason Mount's role will be and how they will be structured next season. 
 
 <!---more--->
 
