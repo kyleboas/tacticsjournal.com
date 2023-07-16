@@ -22,7 +22,7 @@ The transition period he describes where Arsène Wenger began to "build the team
 It is time for Pep Guardiola to try new things, with new profiles. This is why I theorized [in February](https://twitter.com/tacticsjournal/status/1624794051324043266?s=46&t=YC8lQJTh43E_mBQW40Ct2g) that Manchester City might start experimenting with the 3-4-3 diamond formation. The signing of Mateo Kovacic [solidified that thinking](https://twitter.com/tacticsjournal/status/1664038519122149376?s=46&t=YC8lQJTh43E_mBQW40Ct2g).
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/07/04/Image-04Jul2023_12:51:38.jpeg">
+    <img src="https://i.imgur.com/1WfEvlh.jpg">
     <figcaption>Figure 1.1 - Mateo Kovacic poses for pictures, with his new #8 Manchester City jersey, after signing.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ To ease into the change, Manchester City in their second phase play, over the pa
 Then finally in the FA Cup Final against Manchester United and the Champions League Final against Inter, they debuted the 3-4-3 diamond to start, in settled play, to help break down both teams.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/07/04/Image-04Jul2023_12:41:36.jpeg">
+    <img src="https://i.imgur.com/2ktvTY9.jpg">
     <figcaption>Figure 2.1 - Manchester City depth chart, including each player's two best positions. Gabriel Veiga included as they are linked with him.</figcaption>
 </figure>
 
