@@ -2,7 +2,7 @@
 layout: post
 date: 2023-7-7 07:00:00 UTC
 title: "The problem with talking about football" 
-image: /uploads/2023/07/06/Image-06Jul2023_19:58:57.jpeg
+image: "https://i.imgur.com/6qG0SAo.jpg"
 ---
 
 July 7, 2023 — *"The problem with using a word is that everyone interprets it differently" - Johan Cruyff* 
