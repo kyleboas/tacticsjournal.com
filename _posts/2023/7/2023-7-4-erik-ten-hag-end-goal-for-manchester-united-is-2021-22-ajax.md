@@ -6,7 +6,7 @@ categories:
 - "Premier League"
 tags: 
 - "Manchester United" 
-image: /uploads/2023/07/03/Image-03Jul2023_15:15:56.jpeg
+image: "https://i.imgur.com/Jm4FtYT.jpg"
 ---
 
 July 4, 2023 — I was becoming both confused and frustrated trying to figure out what Erik Ten Hag was doing in the January and summer transfer window. What was his end goal? Then it dawned on me; I need to backcheck his past team, the 2021/22 Ajax.
@@ -31,7 +31,7 @@ What does that leave for new signing Mason Mount? Neither Mount nor Bruno Fernan
 He's likely abandoning the double pivot they used last season for a single pivot. Casemiro being the pivot, with Mason Mount and Bruno Fernandes as the center midfielders further forward.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/07/03/Image-03Jul2023_15:15:56.jpeg">
+    <img src="https://i.imgur.com/Jm4FtYT.jpg">
     <figcaption>Figure 1.1 - Manchester United's players' names are listed below the 2021/22 Ajax players they would be replacing in the same roles.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ I don't know what this means for Fred and Christian Eriksen because they're not 
 Maybe they switch back to a double pivot if changes are made? They'll have to remain flexible. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/07/03/Image-03Jul2023_15:15:38.jpeg">
+    <img src="https://i.imgur.com/re04Akf.jpg">
     <figcaption>Figure 2.1 - Potential lineup and player movements when compared to Ajax's 2021/22 lineup.</figcaption>
 </figure>
 
