@@ -2,7 +2,6 @@
 layout: post
 date: 2023-7-3 09:23:00 UTC
 title: "Housekeeping" 
-image: /uploads/2023/07/02/Image-02Jul2023_20:50:37.jpeg
 ---
 
 July 3, 2023 — To start next season off right, I'm doing a little housekeeping. Here is what I have planned for the season.
@@ -20,7 +19,7 @@ This was a nice short off-season break, but I'll be getting back to that the dai
 - - - 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/07/02/Image-02Jul2023_20:22:46.jpeg">
+    <img src="https://i.imgur.com/phj4fbE.jpg">
 </figure>
 
 [Join 740+ other people in our Discord server](https://discord.gg/pdnPS3u5hW) dedicated to discussing football tactics. Tactics Discord! 
