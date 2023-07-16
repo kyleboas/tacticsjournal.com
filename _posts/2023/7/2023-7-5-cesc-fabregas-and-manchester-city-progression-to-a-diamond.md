@@ -9,7 +9,7 @@ tags:
 image: /uploads/2023/07/04/Image-04Jul2023_12:41:36.jpeg
 ---
 
-July 5, 2023 — Cesc Fàbregas is going to be an incredible manager. He has a clear and descriptive way of translating things that happen on the pitch into simple terms.
+Cesc Fàbregas is going to be an incredible manager. He has a clear and descriptive way of translating things that happen on the pitch into simple terms.
 
 <!---more--->
 
