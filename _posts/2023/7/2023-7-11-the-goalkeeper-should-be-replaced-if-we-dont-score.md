@@ -10,7 +10,7 @@ tags:
 image: "https://i.imgur.com/bDQ998a.jpg"
 --- 
 
-There is a strange phenomenon where people overlook or cast too much of a spotlight on a goalkeeper based on the number of goals their team scores, not concedes.
+July 11, 2023 — There is a strange phenomenon where people overlook or cast too much of a spotlight on a goalkeeper based on the number of goals their team scores, not concedes.
 
 <!---more--->
 
