@@ -26,14 +26,14 @@
 
   var posts = [
     {% for post in site.posts %}
-        {
-          title: "{{ post.title | xml_escape }}",
-          url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
-          excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
-          tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
-          categories: "{{ post.categories | xml_escape }}",
-          date: "{{ post.date | date: "%B %d, %Y" }}"
-        }{% unless forloop.last %},{% endunless %}
+      {
+        title: "{{ post.title | xml_escape }}",
+        url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
+        content: "{{ post.content | escape }}",
+        tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
+        categories: "{{ post.categories | xml_escape }}",
+        date: "{{ post.date | date: "%B %d, %Y" }}"
+      }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ];
 
@@ -49,17 +49,17 @@
 
       if (
         post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+        post.content.toLowerCase().includes(query.toLowerCase()) ||
         post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
         post.categories.toLowerCase().includes(query.toLowerCase()) || // Add search in categories
         post.date.toLowerCase().includes(query.toLowerCase()) // Add search in date
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query);
+        var highlightedContent = highlightMatch(post.content, query);
         results.push({
           title: highlightedTitle,
           url: post.url,
-          excerpt: highlightedExcerpt,
+          content: highlightedContent,
           tags: post.tags,
           categories: post.categories,
           date: post.date
@@ -117,15 +117,15 @@
 
         // Check if the post has the category "Notes"
         if (result.categories.includes('Notes')) {
-        // Display the post without the title
-        var p = document.createElement('p');
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        a.classList.add('title');
-        p.appendChild(a);
-        p.innerHTML += result.excerpt;
-        li.appendChild(p);
+          // Display the post without the title
+          var p = document.createElement('p');
+          var a = document.createElement('a');
+          a.href = result.url;
+          a.innerHTML = result.title;
+          a.classList.add('title');
+          p.appendChild(a);
+          p.innerHTML += result.content;
+          li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
@@ -133,7 +133,7 @@
           a.innerHTML = result.title;
           li.appendChild(a);
           var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
+          p.innerHTML = result.content;
           li.appendChild(p);
         }
 
@@ -177,15 +177,15 @@
 
         // Check if the post has the category "Notes"
         if (result.categories.includes('Notes')) {
-        // Display the post without the title
-        var p = document.createElement('p');
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        a.classList.add('title');
-        p.appendChild(a);
-        p.innerHTML += result.excerpt;
-        li.appendChild(p);
+          // Display the post without the title
+          var p = document.createElement('p');
+          var a = document.createElement('a');
+          a.href = result.url;
+          a.innerHTML = result.title;
+          a.classList.add('title');
+          p.appendChild(a);
+          p.innerHTML += result.content;
+          li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
@@ -193,7 +193,7 @@
           a.innerHTML = result.title;
           li.appendChild(a);
           var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
+          p.innerHTML = result.content;
           li.appendChild(p);
         }
 
