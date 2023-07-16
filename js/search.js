@@ -125,7 +125,9 @@
         a.innerHTML = result.title;
         a.classList.add('title');
         p.appendChild(a);
-        p.insertAdjacentHTML('beforeend', result.content);
+        var contentParagraph = document.createElement('p');
+        contentParagraph.innerHTML = result.content; 
+        p.appendChild(contentParagraph);
         li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
@@ -185,7 +187,9 @@
         a.innerHTML = result.title;
         a.classList.add('title');
         p.appendChild(a);
-        p.insertAdjacentHTML('beforeend', result.content);
+        var contentParagraph = document.createElement('p');
+        contentParagraph.innerHTML = result.content; 
+        p.appendChild(contentParagraph);
         li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
