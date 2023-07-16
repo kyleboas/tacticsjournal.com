@@ -8,7 +8,7 @@ tags:
 image: "https://i.imgur.com/T50QmSo.jpg"
 --- 
 
-July 10, 2023 — André Onana explains what a modern goalkeeper means to him, thus essentially describing himself.
+André Onana explains what a modern goalkeeper means to him, thus essentially describing himself.
 
 <!---more---> 
 
