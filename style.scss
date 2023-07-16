@@ -417,14 +417,6 @@ cite {
       font-weight: bold;
       text-decoration: none;
       color: #000;
-
-      title { 
-        font-size: 14px;
-        color: rgb(132, 132, 132);
-        font-family: helvetica;
-        padding-right: 5px;
-        font-weight: 400;
-      }
     }
     p {
       margin-top: 5px;
@@ -432,6 +424,15 @@ cite {
       font-size: 18px;
   }
 }
+
+a.title { 
+  font-size: 14px;
+  color: rgb(132, 132, 132);
+  font-family: helvetica;
+  padding-right: 5px;
+  font-weight: 400;
+}
+
 
 .date-separator first-date-separator {
   margin-top: 0px;
