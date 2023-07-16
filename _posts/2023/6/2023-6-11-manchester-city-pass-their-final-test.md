@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Manchester City"
 - "Inter" 
-image: /uploads/2023/06/10/Image-10Jun2023_22:05:38.jpeg
+image: "https://i.imgur.com/yR6z1hZ.jpg"
 ---
 
 June 11, 2023 — Manchester City passed all seven challenges I set out before the match yesterday to beat Inter in the Champions League Final.
@@ -32,7 +32,7 @@ It's fair to say, that was Manchester City's toughest opponent this season. It w
 Manchester City should be most proud of this. They successfully limited Bastoni's space, making it difficult for Inter to build up from the back.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_18:45:35.jpeg">
+    <img src="https://i.imgur.com/Ujmheml.jpg">
     <figcaption>Figure 1.1 - Tactics board showing Bernardo Silva pressing Alessandro Bastoni, forcing the ball back to Andre Onana.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Andre Onana's distribution was wayward. A lot of his passes were inaccurate, eit
 He completed only 10 of the 21 long balls he attempted, with Ruben Dias coming up big, winning 6 of 11 aerial duels for Manchester City.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_21:46:18.jpeg">
+    <img src="https://i.imgur.com/isL4lgq.jpg">
     <figcaption>Figure 2.1 - Alessandro Bastoni subbed off in the 75th minute.</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Brozovic and Barella receive the ball with their back to goal or on the turn the
 Inter's wing-backs were ignored by Manchester City. Denzel Dumfries, Federico Dimarco, and then later Robin Gosens all hugged the touch-line for the entirety of the match.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:46:44.jpeg">
+    <img src="https://i.imgur.com/22NBMru.jpg">
     <figcaption>Figure 3.1 - Manchester City's 4-2-4 shape with Bernardo Silva curving his run to pressure Alessandro Bastoni.</figcaption>
 </figure>
 
@@ -73,12 +73,12 @@ Bernardo Silva's job was to pressure Bastoni, as mentioned earlier, and neither 
 Both are decoys in the first and second phase. They're of no threat.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:46:57.jpeg">
+    <img src="https://i.imgur.com/kdUVrzG.jpg">
     <figcaption>Figure 3.2 - Manchester City trap Inter on their right-side.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:47:09.jpeg">
+    <img src="https://i.imgur.com/53L88jc.jpg">
     <figcaption>Figure 3.3 - Manchester City close in on Denzel Dumfries 3v2 forcing him to play long, and make a mistake, forcing the turnover.</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Each possession, the ball was pumped up to them, and quickly won back by Manches
 Inter were neither aggressive nor passive; it was sort of in-between. They were reacting and waiting.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:45:29.jpeg">
+    <img src="https://i.imgur.com/eU2tSWu.jpg">
     <figcaption>Figure 4.1 - Inter's man-to-man marking.</figcaption>
 </figure>
 
@@ -118,34 +118,34 @@ They were tempting Manchester City to play long and attempting to block the spac
 Inter did leave space wide because of their tendency to sit narrow, but Manchester City did not take advantage of this deficiency in the first half.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:45:41.jpeg">
+    <img src="https://i.imgur.com/7meETAv.jpg">
     <figcaption>Figure 5.1 - Inter favor the ball side. John Stones is free on the far side in space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:45:54.jpeg">
+    <img src="https://i.imgur.com/t49LNNb.jpg">
     <figcaption>Figure 5.2 - Inter leave John Stones in space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:46:11.jpeg">
+    <img src="https://i.imgur.com/woSygq8.jpg">
     <figcaption>Figure 5.3 - Inter leave Manuel Akanji, Bernardo Silva, and John Stones in space on the far side.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:46:21.jpeg">
+    <img src="https://i.imgur.com/Au5ryDX.jpg">
     <figcaption>Figure 5.4 - Inter leave Bernardo Silva in space on the far side.</figcaption>
 </figure>
 
 On several occasions, the opportunity to switch play to a free man was passed up by Nathan Ake, Ruben Dias, and Ilkay Gündoğan. A quick switch would have opened up space centrally.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:44:21.jpeg">
+    <img src="https://i.imgur.com/6cUmDvj.jpg">
     <figcaption>Figure 6.1 - Inter favor the ball side, leaving space on the far side for Manuel Akanji to be played the ball.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:44:41.jpeg">
+    <img src="https://i.imgur.com/S2LbxXg.jpg">
     <figcaption>Figure 6.2 - Manuel Akanji drives into space and plays Bernardo Silva in on goal.</figcaption>
 </figure>
 
@@ -154,12 +154,12 @@ Manchester City adjusted at halftime and began to use that space more efficientl
 The game's only goal originated from this space and narrowness.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:44:54.jpeg">
+    <img src="https://i.imgur.com/GCFWPfP.jpg">
     <figcaption>Figure 6.3 - Inter protect the goal but leave space behind them at the top of the penalty area. Bernardo Silva passes back.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:45:07.jpeg">
+    <img src="https://i.imgur.com/b5IGKUC.jpg">
     <figcaption>Figure 6.4 - The ball falls to Rodri and he scores.</figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ Pep Guardiola mentioned this in a [post-match interview with CBS Sports](https:/
 In the first half, Manchester City did a good job blocking cross attempts. Ilkay Gündoğan and Rodri were the ones tasked with challenging in-swinging crosses in front of the penalty area.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_20:50:47.jpeg">
+    <img src="https://i.imgur.com/RZTTZTT.jpg">
     <figcaption>Figure 7.1 - Ilkay Gündoğan and Nathan Ake close down Denzel Dumfries, not allowing him to cross the ball.</figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ You can only do so much, though. Crosses are Inter's main source of attack. They
 Two big chances were stopped by Romelu Lukaku's leg and a tremendous save from Ederson. Additionally, Ruben Dias showcased one of the best reflex headers I've ever seen as he cleared the ball out of play.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/06/10/Image-10Jun2023_22:05:38.jpeg">
+    <img src="https://i.imgur.com/yR6z1hZ.jpg">
     <figcaption>Figure 8.1 - Manchester City hoist the Champions League trophy.</figcaption>
 </figure>
 
