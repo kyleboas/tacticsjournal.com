@@ -126,7 +126,7 @@
         a.classList.add('title');
         p.appendChild(a);
         var contentParagraph = document.createElement('p');
-        contentParagraph.innerHTML = result.content; 
+        contentParagraph.textContent = result.content;
         p.appendChild(contentParagraph);
         li.appendChild(p);
         } else {
@@ -188,7 +188,7 @@
         a.classList.add('title');
         p.appendChild(a);
         var contentParagraph = document.createElement('p');
-        contentParagraph.innerHTML = result.content; 
+        contentParagraph.textContent = result.content;
         p.appendChild(contentParagraph);
         li.appendChild(p);
         } else {
