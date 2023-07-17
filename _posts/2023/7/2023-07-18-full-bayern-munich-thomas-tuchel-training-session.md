@@ -13,4 +13,4 @@ July 18, 2023 — Here is a full hour long video of a Bayern Munich training ses
 
 {% include video.html url="https://www.youtube.com/embed/YjH0Ej1Qsqw" %} 
 
-These gems are rarer to find, you need to know where to look for them. I didn't have to look far because [Mazin Mukhtar](https://twitter.com/mazinmmukhtar?s=21&t=YC8lQJTh43E_mBQW40Ct2g) kindly shared it [in our Discord server](https://discord.gg/pQuympz34q). Thanks goes to him. Worth a skim, from start to finish.
+These gems are rarer to find, you need to know where to look for them. I didn't have to look far because [Mazin Mukhtar](https://twitter.com/mazinmmukhtar/status/1681071807799934976?s=46&t=YC8lQJTh43E_mBQW40Ct2g) kindly shared it [in our Discord server](https://discord.gg/pQuympz34q). Thanks goes to him. Worth a skim, from start to finish.
