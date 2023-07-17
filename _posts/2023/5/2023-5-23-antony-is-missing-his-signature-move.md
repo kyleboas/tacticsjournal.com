@@ -6,7 +6,7 @@ categories:
 - "Premier League"
 tags: 
 - "Manchester United"
-image: /uploads/2023/05/22/Image-22May2023_20:37:07.jpeg
+image: "https://i.imgur.com/j2TwucB.jpg"
 --- 
 
 May 23, 2023 — Antony's signature large touch to the left to open up space has been missing since he joined Manchester United, and he missed two opportunities to relive his Ajax years against Bournemouth.
@@ -14,7 +14,7 @@ May 23, 2023 — Antony's signature large touch to the left to open up space has
 <!---more--->
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:37:07.jpeg">
+    <img src="https://i.imgur.com/j2TwucB.jpg">
     <figcaption>Figure 1.1 - Antony is shown outside to the corner by Lloyd Kelly. He has the option to cut inside for a shot at this point.</figcaption>
 </figure> 
 
@@ -23,17 +23,17 @@ Antony in this moment had the opportunity to cut inside. Large touch to the left
 A signature Antony move. One that he passes on for the predictable move to the right. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:37:19.jpeg">
+    <img src="https://i.imgur.com/ZdwtLHM.jpg">
     <figcaption>Figure 1.2 - Lloyd Kelly readies his feet to launch off his back-right foot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:37:32.jpeg">
+    <img src="https://i.imgur.com/4XJlg8l.jpg">
     <figcaption>Figure 1.3 - Antony telegraphs his move to the right by raising his right leg.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:37:46.jpeg">
+    <img src="https://i.imgur.com/DmPpTlj.jpg">
     <figcaption>Figure 1.4 - Lloyd Kelly has enough warning to anticipate the move to the right, and blocks Antony's attempted shot.</figcaption>
 </figure> 
 
@@ -47,17 +47,17 @@ Lloyd Kelly does all of this perfectly.
 As many other defenders do when marking Antony 1v1, they show him outside. Don't let Antony cut in on his favored left foot because he won't use his weak right foot, and when he does it's normally not accurate. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:37:58.jpeg">
+    <img src="https://i.imgur.com/2s0l198.jpg">
     <figcaption>Figure 2.1 - Antony receives the ball and has the opportunity to cut inside on his left foot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:38:09.jpeg">
+    <img src="https://i.imgur.com/wHhbq7l.jpg">
     <figcaption>Figure 2.2 - Antony decides to drive towards Lloyd Kelly, which allows Kelly to ready the lower half of his body for the touch inside.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:38:19.jpeg">
+    <img src="https://i.imgur.com/LVlC6QN.jpg">
     <figcaption>Figure 2.3 - Lloyd Kelly cuts down the distance between him and Antony, and then blocks the attempted shot.</figcaption>
 </figure> 
 
@@ -66,13 +66,13 @@ Not only does Antony ignore Bruno Fernandes and Wout Weghorst; he again makes th
 He had the opportunity to cut left, open up space, and then evaluate whether or not the pass or shot was the best option. An opportunity he would normally take when he played at Ajax, this season and last season. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:54:11.jpeg">
+    <img src="https://i.imgur.com/OqhlURH.jpg">
     <figcaption>Figure 3.1 - Antony drives inside, and then takes a large touch inside, to distance himself from his marker.</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:54:22.jpeg">
+    <img src="https://i.imgur.com/D80YPhK.jpg">
     <figcaption>Figure 3.2 - Antony's touch gives him the room to get off a shot, and scores.</figcaption>
 </figure> 
 
@@ -81,36 +81,36 @@ Vintage Antony. He needs this amount of space to be effective, and he is the one
 Drive with the left foot, large touch to the left with his back right heel used as the spring to accelerate, and then shoot. Repeat. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:54:44.jpeg">
+    <img src="https://i.imgur.com/2wLffEr.jpg">
     <figcaption>Figure 4.1 - Defender cuts off Antony's path inside, and gives him too much room to drive to the front-post.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:54:58.jpeg">
+    <img src="https://i.imgur.com/PWryJg1.jpg">
     <figcaption>Figure 4.2 - Antony takes one step right and then immediately drives a pass across goal for the assist.</figcaption>
 </figure> 
 
 When shown inside, he needs to be quick and decisive. Quick jab movement to the right to open up more room, and then low driven cross across goal. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:55:12.jpeg">
+    <img src="https://i.imgur.com/Sdh2hG7.jpg">
     <figcaption>Figure 5.1 - Antony receives the ball and takes a large touch towards the top of the box, outside the box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:55:23.jpeg">
+    <img src="https://i.imgur.com/No6FKU5.jpg">
     <figcaption>Figure 5.2 - Antony's touch creates sufficient space with his marker.</figcaption>
 </figure> 
 
 Again, angling his touch to an extreme to create space with his marker. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:55:35.jpeg">
+    <img src="https://i.imgur.com/c8LZ8SL.jpg">
     <figcaption>Figure 5.3 - Pass and move attacking the space behind his marker.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/22/Image-22May2023_20:55:50.jpeg">
+    <img src="https://i.imgur.com/7gDb3qF.jpg">
     <figcaption>Figure 5.4 - Antony is played the ball in space behind his original marker.</figcaption>
 </figure> 
 
