@@ -2,7 +2,7 @@
 layout: post
 date: 2023-5-24 07:00:00 UTC
 title: "How I watch football"
-image: /uploads/2023/05/23/Image-23May2023_16:42:26.jpeg
+image: "https://i.imgur.com/Hv5pkLb.jpg"
 ---
 
 May 24, 2023 — This is how I watch a football match. I will take you through the first 15 minutes of the Europa League quarter-final match between Roma and Feyenoord to give you a basic view of what I look for. 
@@ -12,7 +12,7 @@ May 24, 2023 — This is how I watch a football match. I will take you through t
 The first 15 minutes are the most important part of the match for me. This is where I learn the most about both teams. This is when they experiment and reveal their plan. I am looking for patterns and then changes in those patterns. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_15:54:12.jpeg">
+    <img src="https://i.imgur.com/EVNRAEt.jpg">
     <figcaption>Figure 1.1 - Roma's in possession structure.</figcaption>
 </figure> 
 
@@ -21,19 +21,19 @@ The period immediately after kickoff is always hectic, but once play settles dow
 How long I focus on one team depends on how familiar I am with them or if I'm looking for a change in a particular pattern from a past match. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_15:54:26.jpeg">
+    <img src="https://i.imgur.com/DpLm44n.jpg">
     <figcaption>Figure 1.2 - Feyenoord's out of possession structure.</figcaption>
 </figure> 
 
 Once I've got Roma's shape down, I'll then focus on Feyenoord. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_15:54:39.jpeg">
+    <img src="https://i.imgur.com/Ja61IqV.jpg">
     <figcaption>Figure 2.1 - Feyenoord's defensive structure in their own half.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_15:54:51.jpeg">
+    <img src="https://i.imgur.com/znL4j0Q.jpg">
     <figcaption>Figure 2.2 - Roma's attacking structure in Feyenoord's half.</figcaption>
 </figure> 
 
@@ -44,7 +44,7 @@ I split the pitch into three sections:
 3. Final third 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_19:42:05.jpeg">
+    <img src="https://i.imgur.com/XBr5Ty1.jpg">
     <figcaption>Figure 3.1 - Illustration of the three sections of the pitch.</figcaption>
 </figure> 
 
@@ -55,22 +55,22 @@ If there's a break in play or nothing interesting is happening, I'll write a not
 To get all of the smaller details, you have to remain fully focused on the match. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_16:41:05.jpeg">
+    <img src="https://i.imgur.com/mKiNBMp.jpg">
     <figcaption>Figure 4.1 - Feyenoord counter-pressing in the middle third.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_16:42:03.jpeg">
+    <img src="https://i.imgur.com/3x48RWr.jpg">
     <figcaption>Figure 5.1 - Feyenoord throw-in in their own half.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_16:42:14.jpeg">
+    <img src="https://i.imgur.com/g8mwXYy.jpg">
     <figcaption>Figure 5.2 - Feyenoord playing out from the back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_16:41:18.jpeg">
+    <img src="https://i.imgur.com/2ZZTqy3.jpg">
     <figcaption>Figure 6.1 - Roma's defensive structure in their own half.</figcaption>
 </figure> 
 
@@ -86,12 +86,12 @@ Now, we look for changes, new patterns of play, areas of weakness, open space, f
 4. Defense 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_20:49:10.jpeg">
+    <img src="https://i.imgur.com/hEox7Yy.jpg">
     <figcaption>Figure 7.1 - Feyenoord transitioning to attack.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_20:46:35.jpeg">
+    <img src="https://i.imgur.com/hypGuvK.jpg">
     <figcaption>Figure 8.1 - Roma transitioning to attack.</figcaption>
 </figure> 
 
@@ -100,12 +100,12 @@ I zone in and focus on one team. It's too hard to pick up on the specifics if yo
 If I'm watching a match to scout a specific player, I'll follow them, but otherwise, most of the time, I will not look at the ball carrier. I watch the other players who are off-the-ball, keeping the ball in my peripheral vision. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_16:42:26.jpeg">
+    <img src="https://i.imgur.com/FulfhZx.jpg">
     <figcaption>Figure 9.1 - What I'm looking at when viewing play; the ball is with the player close to the touchline.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/23/Image-23May2023_16:42:37.jpeg">
+    <img src="https://i.imgur.com/Hv5pkLb.jpg">
     <figcaption>Figure 9.2 - Spotting a free player in space, unmarked.</figcaption>
 </figure> 
 
