@@ -6,7 +6,7 @@ categories:
 - "Premier League"
 tags:
 - "Chelsea"
-image: "https://i.imgur.com/oujuluQ.jpg"
+image: "https://i.imgur.com/oujuluQ"
 ---
 
 July 17, 2023 — We took Eden Hazard for granted. The little shifts of weight. The small changes of direction to deceive a defender. This being one of those moments. 
