@@ -9,11 +9,11 @@ tags:
 image: "https://i.imgur.com/xlABMVy.jpg"
 ---
 
-July 18, 2023 —  Pep Guardiola on what kind of things he learns from watching Brighton:
+July 18, 2023 — Pep Guardiola talking about the things he learns from watching Brighton:
 
 <!---more--->
 
-> "Especially the time to take decisions. So Brighton is a master to have to pass the ball to the man free, but when I have to pass the ball to the man free, and they had to move in the right time. And this is the best team in the world, the best."
+> "Especially the time to take decisions. So Brighton is a master at having to pass the ball to the man free, but when I have to pass the ball to the man free, and they have to move at the right time. And this is the best team in the world, the best."
 
 <figure>
     <img src="https://i.imgur.com/3maaVEp.jpg">
@@ -25,9 +25,9 @@ July 18, 2023 —  Pep Guardiola on what kind of things he learns from watching 
     <figcaption>Figure 2.1 - Adam Webster waits for the center-backs to jump before playing the ball into Pascal Groß.</figcaption>
 </figure>
 
-Pep knows [from working with Andres Iniesta](https://tacticsjournal.com/2023/07/12/the-importance-of-attacking-the-centre-backs/) how important it is to make defenders jump. Unlock space and then attack that space when they move. 
+Pep knows [from working with Andrés Iniesta](https://tacticsjournal.com/2023/07/12/the-importance-of-attacking-the-centre-backs/) how important it is to make defenders jump, unlock space, and then attack that space when they move. 
 
-> They do the right tempo, the pass to the man free, and the movements altogether. So there is a part that how aggressive they are with the ball is continuing to be with Graham Potter, and I think Graham Potter installed something really good, in terms of responsibility and management. It doesn't matter what happened. But the way they do the process. Use the keeper. They dont pass the ball after the movement of your opponent, the moment you opponent move, I move. I pass the ball. When? It depends who jumps. And this in the right tempo they are the best. The best.
+> They have the right tempo, they pass to the man free, and the movements altogether. So there is a part of how aggressive they are with the ball that continues to be with Graham Potter, and I think Graham Potter has installed something really good in terms of responsibility and management. It doesn't matter what happens, but the way they go through the process. They use the keeper. They don't pass the ball after the movement of their opponent; the moment their opponent moves, they move. They pass the ball. When? It depends on who jumps. And in the right tempo, they are the best. The best.
 
 <figure>
     <img src="https://i.imgur.com/KShopvv.jpg">
