@@ -324,6 +324,7 @@ layout: page
 |[Aymeric Laporte](https://fbref.com/en/players/119b9a8e/Aymeric-Laporte)|Man City|<a href="https://youtu.be/Tr8491ceTlo"><i class="fa-solid fa-video"></i></a>|6/25/23|
 |[Declan Rice](https://fbref.com/en/players/1c7012b8/Declan-Rice)|West Ham|<a href="https://youtu.be/nRbBVVPRBmw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Gonçalo Inácio](https://fbref.com/en/players/33651873/Goncalo-Inacio)|Sporting CP|<a href="https://youtu.be/KRq5I3IxF2U"><i class="fa-solid fa-video"></i></a>|6/24/23|
+|[Nayef Aguerd](https://fbref.com/en/players/288e1e13/Nayef-Aguerd)|West Ham|<a href="https://youtu.be/NrEyySd231s"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 
 
@@ -354,13 +355,13 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Nathan Collins](https://fbref.com/en/players/a8c19eb8/Nathan-Collins)|Brentford|<a href="https://youtu.be/WNhtmlQg47s"><i class="fa-solid fa-video"></i></a>|7/18/23|
 |[Devyne Rensch](https://fbref.com/en/players/c5cbbcff/Devyne-Rensch)|Ajax|<a href="https://youtu.be/uFMzO6SoF34"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 ### Senior 
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[Nayef Aguerd](https://fbref.com/en/players/288e1e13/Nayef-Aguerd)|West Ham|<a href="https://youtu.be/NrEyySd231s"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Joachim Andersen](https://fbref.com/en/players/e34fc66d/Joachim-Andersen)|Crystal Palace| |4/23/23|
 
 <hr class="dashed">
