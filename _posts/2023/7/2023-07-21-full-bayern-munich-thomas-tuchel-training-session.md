@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-07-18 07:00 UTC
+date: 2023-07-21 07:00 UTC
 title: "Full Bayern Munich Thomas Tuchel training session"
 categories:
 - "Bundesliga"
@@ -9,7 +9,7 @@ tags:
 image: "https://i.imgur.com/Hurg53l.jpg"
 ---
 
-July 18, 2023 — Here is a full hour long video of a Bayern Munich training session at the direction of Thomas Tuchel and his coaching staff.
+July 21, 2023 — Here is a full hour long video of a Bayern Munich training session at the direction of Thomas Tuchel and his coaching staff.
 
 {% include video.html url="https://www.youtube.com/embed/YjH0Ej1Qsqw" %} 
 
