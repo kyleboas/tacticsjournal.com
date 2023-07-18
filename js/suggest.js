@@ -95,5 +95,16 @@ function showSuggestions(list) {
     let slicedArray = list.slice(0, 5); // Slice the array to include only the first 5 elements
     listData = slicedArray.map((data) => "<li class='suggestion-item'>" + data + "</li>").join("");
   }
-  resultBox.innerHTML = listData;
+
+  // Clear any previous suggestions
+  resultBox.innerHTML = "";
+
+  // Append only 5 suggestions to the resultBox
+  for (let i = 0; i < 5 && i < list.length; i++) {
+    const suggestionItem = document.createElement("li");
+    suggestionItem.classList.add("suggestion-item");
+    suggestionItem.textContent = list[i];
+    resultBox.appendChild(suggestionItem);
+  }
 }
+
