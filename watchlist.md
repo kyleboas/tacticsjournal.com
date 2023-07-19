@@ -128,6 +128,7 @@ layout: page
 |[Omari Hutchinson](https://fbref.com/en/players/bd9553e6/Omari-Hutchinson)|Chelsea|<a href="https://youtu.be/2XcBmVP3PEw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Facundo Buonanotte](https://fbref.com/en/players/468a7a91/Facundo-Buonanotte)|Brighton|<a href="https://youtu.be/yKGd5KaPx14"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Ben Doak](https://fbref.com/en/players/733f1a7d/Ben-Doak)|Liverpool|<a href="https://youtu.be/Jloy8u7k-ek"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|Kendry Paéz|Chelsea|<a href="https://youtu.be/hXY3I2F3PZk"><i class="fa-solid fa-video"></i></a>|7/19/23|
 
 ### U23
 
