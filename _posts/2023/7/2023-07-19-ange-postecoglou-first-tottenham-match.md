@@ -60,7 +60,7 @@ There was a good balance between all-out attack and security in rest defense due
 All ten outfield players should move as one. It felt like it was a game of 3v2 and 7v8. 
 
 <figure>
-    <img src="https://i.imgur.com/J6xSJn6.jpg">
+    <img src="https://i.imgur.com/patcQnR.jpg">
     <figcaption>Figure 5.1 - Triangles created with connections between players.</figcaption>
 </figure> 
 
