@@ -28,7 +28,7 @@ At first, they do what you'd expect them to: classic 4-3-3, nothing too complica
 
 Wrong. It's not simple. Now things get complicated. 
 
-This is not a "box midfield" as some other Premier League teams used in the second half of last season. The full-backs invert, but they're not in line with Bissouma. 
+This is not a traditional "box midfield" as some other Premier League teams used in the second half of last season. The full-backs invert, but they're not in line with Bissouma. 
 
 It was staggered, which created more triangles and open passing lanes, better angles between defenders. 
 
