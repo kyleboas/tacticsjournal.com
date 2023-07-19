@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: rss
-  twitter: TacticsJournal
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -75,7 +75,6 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-seo-tag # Adds SEO metadata
   - jekyll-feed # RSS feed
   - jekyll-include-cache
 
@@ -101,21 +100,6 @@ defaults:
       type: category
     values:
       layout: "category"
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: "/:year/:month/:day/:title/"
-
-  - scope:
-      path: ""
-      type: category
-      values:
-        category: "notes"
-    values:
-      permalink: "/notes/:year/:month/:day/:hour-:minute/"
 
 defaults:
   - scope:
