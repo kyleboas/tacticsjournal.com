@@ -7,7 +7,7 @@ categories:
 tags:
 - "Liverpool"
 - "Karlsruher"
-image: /uploads/2023/07/19/Image-19Jul2023_22:07:04.jpeg
+image: "https://i.imgur.com/6rqNcy2.jpg"
 ---
 
 July 20, 2023 — Did Liverpool play in a 4-3-3, 4-2-4, 3-2-2-3 box, 3-4-3 diamond, or all of the above in their friendly against Karlsruher? 
