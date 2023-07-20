@@ -40,7 +40,7 @@
 {% for post in site.posts limit:1 %}
 {% if post.image %}
 <meta property="twitter:card" content="summary_large_image">
-<meta property="og:image" content="https://tacticsjournal.com{{ post.image }}" />
-<meta property="twitter:image" content="https://tacticsjournal.com{{ post.image }}">
+<meta property="og:image" content="{{ post.image }}" />
+<meta property="twitter:image" content="{{ post.image }}">
 {% endif %}
 {% endfor %}
