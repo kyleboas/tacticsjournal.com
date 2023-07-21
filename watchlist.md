@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: July 8, 2023</em></p>
+<p><em>last updated: July 21, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -156,6 +156,7 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Dejan Kulusevski](https://fbref.com/en/players/df3cda47/Dejan-Kulusevski)|Tottenham|<a href="https://youtu.be/fNB-hvsjXCU"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Marco Asensio](https://fbref.com/en/players/45af8a54/Marco-Asensio)|PSG|<a href="https://youtu.be/Wwnd3UiMf8M"><i class="fa-solid fa-video"></i></a>|7/21/23|
 |[Brahim Diaz](https://fbref.com/en/players/407feb71/Brahim-Diaz)|Real Madrid|<a href="https://youtu.be/gRYRzpY247Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 <hr class="dashed">
