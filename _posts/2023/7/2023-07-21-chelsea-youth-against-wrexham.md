@@ -12,6 +12,8 @@ image: "https://i.imgur.com/FOcMykR.jpg"
 
 July 21, 2023 — In this order: Malo Gusto, Nicolas Jackson, Andrey Santos, Ian Maatsen, Trevoh Chalobah, Cesare Casadei, Diego Moreira, Carney Chukwuemeka, and Bashir Humphreys. Observations from Chelsea's first half against Wrexham.
 
+<!---more--->
+
 <figure>
     <img src="https://i.imgur.com/FOcMykR.jpg">
     <figcaption>Figure 1.1 - Carney Chukwuemeka gets too close to Marc Cucurella and Andrey Santos.</figcaption>
