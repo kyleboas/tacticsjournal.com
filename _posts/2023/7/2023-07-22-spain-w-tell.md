@@ -10,7 +10,7 @@ tags:
 image: "https://i.imgur.com/bdBFpZf.jpg"
 --- 
 
-July 22, 2023 — Spain (W) has a 'tell'. When Athenea de Castillo is at the right wing and moves inside of right-back Ona Batlle, they either immediately cross or quickly switch play on the ground. If they switch, Castillo is the target on the back-post. 
+July 22, 2023 — Spain has a 'tell'. When Athenea de Castillo at right wing moves inside of right-back Ona Batlle, they either immediately cross or quickly switch play on the ground. If they switch, Castillo is the target on the back-post. 
 
 <!---more--->
 
