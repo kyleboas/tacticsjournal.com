@@ -4,16 +4,15 @@ layout: null
 
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-xmlns:content="http://purl.org/rss/1.0/modules/content/"
-xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-xmlns:dc="http://purl.org/dc/elements/1.1/"
-xmlns:atom="http://www.w3.org/2005/Atom"
-xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-xmlns:georss="http://www.georss.org/georss"
-xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:georss="http://www.georss.org/georss"
+  xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 >
-
   <channel>
     <title>Tactics Journal</title>
     <link>{{ site.url }}</link>
@@ -24,17 +23,28 @@ xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 
     {% for post in site.posts %}
       {% unless post.categories contains 'Notes' %}
-        <item>
-          <title>{{ post.title }}</title>
-          <link>{{ site.url }}{{ post.url | uri_escape }}</link>
-          <guid isPermaLink="true">{{ site.url }}{{ post.url | uri_escape }}</guid>
-          <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-          <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
-          <description><![CDATA[ {{ post.excerpt | strip_html }} ]]></description>
-          <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
-        </item>
+        {% if post.linkpost %}
+          <item>
+            <title>{{ post.title }}</title>
+            <link>{{ post.permalink }}</link>
+            <guid isPermaLink="true">{{ post.permalink }}</guid>
+            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+            <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
+            <description><![CDATA[ {{ post.excerpt | strip_html }} ]]></description>
+            <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+          </item>
+        {% else %}
+          <item>
+            <title>{{ post.title }}</title>
+            <link>{{ site.url }}{{ post.url | uri_escape }}</link>
+            <guid isPermaLink="true">{{ site.url }}{{ post.url | uri_escape }}</guid>
+            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+            <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
+            <description><![CDATA[ {{ post.excerpt | strip_html }} ]]></description>
+            <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+          </item>
+        {% endif %}
       {% endunless %}
     {% endfor %}
   </channel>
-
 </rss>
