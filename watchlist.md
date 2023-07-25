@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: July 21, 2023</em></p>
+<p><em>last updated: July 25, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -396,7 +396,6 @@ layout: page
 |:----|:----|:----|:----|
 |[David Raya](https://fbref.com/en/players/98ea5115/David-Raya)|Brentford|<a href="https://youtu.be/u1Dd4QL4dDw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Kepa Arrizabalaga](https://fbref.com/en/players/98ea5115/David-Raya)|Chelsea|<a href="https://youtu.be/Tdq0Udsg9XU"><i class="fa-solid fa-video"></i></a>|6/10/23|
-|[André Onana](https://fbref.com/en/players/e9c0c1b2/Andre-Onana)|Inter|<a href="https://youtu.be/2SPrCW5EPss"><i class="fa-solid fa-video"></i></a>|6/11/23|
 |[Wladimiro Falcone](https://fbref.com/en/players/9f5a610b/Wladimiro-Falcone)|Lecce|<a href="https://youtu.be/I_5pGvDXmnA"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Alban Lafont](https://fbref.com/en/players/4e7db402/Alban-Lafont)|Nantes|<a href="https://youtu.be/4Z-s8szl2Ic"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Mike Maignan](https://fbref.com/en/players/fcb38f57/Mike-Maignan)|AC Milan|<a href="https://youtu.be/a1CV72Vp4wU"><i class="fa-solid fa-video"></i></a>|6/11/23|
