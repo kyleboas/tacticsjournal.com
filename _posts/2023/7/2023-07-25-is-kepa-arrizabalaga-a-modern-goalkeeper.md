@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-07-24 08:00 UTC
+date: 2023-07-25 08:00 UTC
 title: "Is Kepa Arrizabalaga a modern goalkeeper?"
 categories:
 - "Premier League"
