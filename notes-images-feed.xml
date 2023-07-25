@@ -33,7 +33,7 @@ permalink: /notes/images/feed
           <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
           <description><![CDATA[{{ post.excerpt | strip_html }}]]></description>
           <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
-          <image url="{{ post.image }}" type="image/jpeg" />
+          <content:encoded><![CDATA[<img src="{{ post.image }}" />]]></content:encoded>
         </item>
       {% endif %}
     {% endfor %}
