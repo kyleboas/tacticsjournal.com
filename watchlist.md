@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: July 25, 2023</em></p>
+<p><em>last updated: July 26, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -129,6 +129,7 @@ layout: page
 |[Facundo Buonanotte](https://fbref.com/en/players/468a7a91/Facundo-Buonanotte)|Brighton|<a href="https://youtu.be/yKGd5KaPx14"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Ben Doak](https://fbref.com/en/players/733f1a7d/Ben-Doak)|Liverpool|<a href="https://youtu.be/Jloy8u7k-ek"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |Kendry Paéz|Chelsea|<a href="https://youtu.be/hXY3I2F3PZk"><i class="fa-solid fa-video"></i></a>|7/19/23|
+|Jude Sunday|Trenčín|<a href="https://youtu.be/P-8of6KEJPU"><i class="fa-solid fa-video"></i></a>|7/26/23|
 
 ### U23
 
