@@ -8,7 +8,7 @@ tags:
 - "Newcastle"
 - "Arsenal"
 - "Brighton"
-image: /uploads/2023/05/18/Image-18May2023_22:14:10.jpeg
+image: "https://i.imgur.com/QQPqVKF.jpg"
 ---
 
 May 19, 2023 — The rule is that the home team gets to choose how tall and watered down the grass is. It sounds trivial, but Newcastle made their pitch dry when they faced Arsenal and Brighton.
