@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Manchester United"
 - "Brighton"
-image: /uploads/2023/05/04/Image-04May2023_19:47:47.jpeg
+image: "https://i.imgur.com/WdFFujT.jpg"
 permalink: /Manchester-United-are-too-good-at-maintaining-numerical-superiority-in-transition/
 ---
 
@@ -16,22 +16,22 @@ May 5, 2023 - Manchester United did an incredible job at always maintaining nume
 <!---more--->
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/04/Image-04May2023_19:46:29.jpeg">
+    <img src="https://i.imgur.com/uTek80N.jpg">
     <figcaption>Figure 1.1 - 6v3</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/04/Image-04May2023_19:46:59.jpeg">
+    <img src="https://i.imgur.com/acX4lYn.jpg">
     <figcaption>Figure 2.1 - 5v2 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/04/Image-04May2023_19:47:22.jpeg">
+    <img src="https://i.imgur.com/vydAIa4.jpg">
     <figcaption>Figure 3.1 - 4v2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/04/Image-04May2023_19:47:47.jpeg">
+    <img src="https://i.imgur.com/WdFFujT.jpg">
     <figcaption>Figure 3.2 - 4v2</figcaption>
 </figure>  
 
@@ -40,7 +40,7 @@ Throughout the season Manchester United have had issues in the second half of ma
 This obsession with having a +1 in transition might be contributing to their lack of energy at the end of matches. 90 minutes of full sprinting up and down the pitch is not sustainable. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/04/Image-04May2023_20:26:37.jpeg">
+    <img src="https://i.imgur.com/ZMMHlMx.jpg">
     <figcaption>Figure 4.1 - Out of possession shape of Brighton and Manchester United. Image courtesy <a href="https://twitter.com/datobhj/status/1654276483266019328?s=46&t=YC8lQJTh43E_mBQW40Ct2g">@DatoBHJ</a></figcaption>
 </figure> 
 
