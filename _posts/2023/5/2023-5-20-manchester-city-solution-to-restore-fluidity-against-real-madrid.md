@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Manchester City"
 - "Real Madrid"
-image: /uploads/2023/05/19/Image-19May2023_20:36:35.jpeg
+image: "https://i.imgur.com/BBTLFVQ.jpg"
 ---
 
 May 20, 2023 — Pep Guardiola made a subtle but effective change to improve Manchester City's fluidity against Real Madrid. Ruben Dias moves back to open up space, and either Rodri or John Stones must be parallel to Manuel Akanji at left-back.
