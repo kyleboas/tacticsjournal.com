@@ -15,7 +15,7 @@ May 22, 2023 — Napoli exposed Inter's weakness yesterday. They depend a lot on
 <!---more--->
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/21/Image-21May2023_21:06:08.jpeg">
+    <img src="https://i.imgur.com/UZpao1j.jpg">
     <figcaption>Figure 1.1 - Joaquin Correa cycles back, dragging a defender, as Nicolo Barella makes a run.</figcaption>
 </figure> 
 
