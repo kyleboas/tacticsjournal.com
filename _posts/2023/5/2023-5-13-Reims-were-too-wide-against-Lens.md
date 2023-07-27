@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Reims"
 - "Lens"
-image: /uploads/2023/05/12/Image-12May2023_18:54:58.jpeg
+image: "https://i.imgur.com/LUi6AYC.jpg"
 permalink: /Reims-were-too-wide-against-Lens/
 --- 
 
@@ -18,7 +18,7 @@ May 13, 2023 — I'm watching Reims more for 23-year-old French goalkeeper Yehva
 Reims' back-four, made up of Thomas Foket, Yunis Abdelhamid, Emmanuel Agnadou, and Maxime Busi, are not the most proficient passers. Their midfield and forwards consist of decent dribblers. If they can get the ball, they know how to quickly fashion a chance.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/12/Image-12May2023_18:54:58.jpeg">
+    <img src="https://i.imgur.com/LUi6AYC.jpg">
     <figcaption>Figure 1.1 - Yunis Abdelhamid passes to the left.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ I feel like they're too wide. There's too much space. It would help if that box 
 Reims' back-line isn't good at passing, so the distance the ball has to travel to reach a midfielder or forward is far, and they often misplace passes.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/12/Image-12May2023_20:14:17.jpeg">
+    <img src="https://i.imgur.com/hLwrP0i.jpg">
     <figcaption>Figure 2.1 - Illustration of my suggested changes.</figcaption>
 </figure>
 
@@ -40,41 +40,41 @@ Shorter passes are easier to complete, and you can't trust the Reims defenders t
 Lens went down to 10 men after a red card in the 19th minute. I understand the idea to use maximum width to stretch the pitch to the max but they don't have the personnel to make that much space work. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/12/Image-12May2023_18:55:10.jpeg">
+    <img src="https://i.imgur.com/wBdUedG.jpg">
     <figcaption>Figure 1.2 - The weight of Yunis Abdelhamid's pass was too soft and the ball is intercepted.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/12/Image-12May2023_18:56:13.jpeg">
+    <img src="https://i.imgur.com/ZNdnJHT.jpg">
     <figcaption>Figure 1.3 - Yunis Abdelhamid doesn't cut off the pass behind him to Ilokma Lois Openda.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/12/Image-12May2023_18:56:30.jpeg">
+    <img src="https://i.imgur.com/c7mRMGv.jpg">
     <figcaption>Figure 1.4 - Yehvann Diouf does a good job positioning his body to limit the angles Ilokma Lois Openda has to score. Openda puts his shot wide.</figcaption>
 </figure>
 
 Yehvann Diouf comes to the rescue, as he's often called to do when there's a mistake from sloppiness.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/12/Image-12May2023_18:56:47.jpeg">
+    <img src="https://i.imgur.com/ogi2HQ0.jpg">
     <figcaption>Figure 3.1 - Seko Fofana drives forward with the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/12/Image-12May2023_18:57:04.jpeg">
+    <img src="https://i.imgur.com/I44ho1j.jpg">
     <figcaption>Figure 3.2 - Emmanuel Agbadou comes out to challenge the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/12/Image-12May2023_18:57:18.jpeg">
+    <img src="https://i.imgur.com/Uu7CooZ.jpg">
     <figcaption>Figure 3.3 - Seko Fofana drives past the challenge.</figcaption>
 </figure> 
 
 Emmanuel Agbadou must prevent Seko Fofana from getting past him. If Agbadou can't get a foot on the ball, he should take out the man to avoid allowing Fofana to enter such a dangerous area.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/12/Image-12May2023_18:57:31.jpeg">
+    <img src="https://i.imgur.com/ZoKjwxL.jpg">
     <figcaption>Figure 3.4 - Seko Fofana shoots the ball into the bottom left corner for the goal. Yehvann Diouf is left motionless, with no chance to save the shot.</figcaption>
 </figure>
 
