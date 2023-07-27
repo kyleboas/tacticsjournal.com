@@ -22,12 +22,12 @@ May 2, 2023 — Tottenham throughout the season, like Chelsea and Inter Milan, h
 It might look like an impenetrable wall on paper, but it only takes one or two overeager defenders to jump, and create a space behind.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_19:29:32.jpeg">
+    <img src="https://i.imgur.com/TfOxqow.jpg">
     <figcaption>Figure 1.1 - Dier, Perisic and Davies step out to challenge the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_19:29:55.jpeg">
+    <img src="https://i.imgur.com/5Yx17aX.jpg">
     <figcaption>Figure 1.2 - Salah plays the ball to Gakpo behind Dier.</figcaption>
 </figure> 
 
@@ -43,7 +43,7 @@ This is something commonly seen with a flat-back five. Active defenders jump, sp
 No one is ready for the ball in behind. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_19:32:54.jpeg">
+    <img src="https://i.imgur.com/30y00Xz.jpg">
     <figcaption>Figure 2.1 - An example from Chelsea's Champions League match against Real Madrid.</figcaption>
 </figure> 
 
@@ -54,25 +54,25 @@ Same concept. Two active defenders jump, space opens behind, and waiting defende
 The second example is what I was worried about during the Real Madrid match. It comes from Chelsea's match against Brighton. A cross to a space in the box, from the right half-space. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_19:33:54.jpeg">
+    <img src="https://i.imgur.com/hra8O4j.jpg">
     <figcaption>Figure 3.1 - Mac Allister passes to March, with Gross making a run on the right. Mitoma anticipates the play and peels off to join the forwards, to outnumber Chelsea's remaining four defenders.</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_19:34:16.jpeg">
+    <img src="https://i.imgur.com/ZKObbGB.jpg">
     <figcaption>Figure 3.2 - March passes to Gross.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_19:34:38.jpeg">
+    <img src="https://i.imgur.com/0VXtwWC.jpg">
     <figcaption>Figure 3.3 - Gross crosses to Welbeck for the headed goal.</figcaption>
 </figure> 
 
 Chelsea are flat, Chilwell jumps as the active defender, some chaos ensues in the box with confusion from the waiting defenders on who they should mark. All of those waiting are flat-footed in Figure 3.3.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_20:40:54.jpeg">
+    <img src="https://i.imgur.com/wEuTwjU.jpg">
     <figcaption>Figure 3.4 - What change I would make to improve Chelsea's defensive structure.</figcaption>
 </figure>
 
@@ -86,19 +86,19 @@ There would be less defensive movement, the marking assignments remain clearer.
 The final example comes from the Inter Milan match against Juventus. The free-man on the far side.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_19:31:19.jpeg">
+    <img src="https://i.imgur.com/64jR89u.jpg">
     <figcaption>Figure 4.1 - Rabiot dribbles to his left.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_19:31:41.jpeg">
+    <img src="https://i.imgur.com/ANuzUVV.jpg">
     <figcaption>Figure 4.2 - An active defender jumps to Rabiot.</figcaption>
 </figure>
 
 Notice how flat the three Inter Milan waiting defenders are, ball-watching. The most they can handle is a cross into one of the three Juventus forwards that they're man marking. Outside of that, their body is unprepared for any other pass.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/01/Image-01May2023_19:32:01.jpeg">
+    <img src="https://i.imgur.com/fBhKKW8.jpg">
     <figcaption>Figure 4.3 - Rabiot passes to Cuadrado who is free on the far side.</figcaption>
 </figure>
 
