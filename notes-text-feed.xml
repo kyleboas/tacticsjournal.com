@@ -25,7 +25,7 @@ permalink: /notes/text/feed
 
     {% for post in site.posts %}
       {% if post.categories contains 'Notes' %}
-        {% unless post.image %}
+        {% unless post.content contains '<img' %}
           <item>
             <title>{{ post.title }}</title>
             <link>{{ site.url }}{{ post.url | uri_escape }}</link>
