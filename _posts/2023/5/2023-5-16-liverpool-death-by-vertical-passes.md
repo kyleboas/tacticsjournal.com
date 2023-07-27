@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Liverpool"
 - "Leicester City"
-image: /uploads/2023/05/15/Image-15May2023_21:05:38.jpeg
+image: "https://i.imgur.com/WVLYslE.jpg"
 ---
 
 May 16, 2023 — For most teams, it's death by passes, but for Liverpool, it's death by vertical passes. Any chance they got against Leicester, it was vertical over the top.
@@ -27,48 +27,48 @@ Leicester don't commit everyone back to defend. They lose the ball, and then lea
 2v1s frequently formed on the far-side.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/15/Image-15May2023_21:05:38.jpeg">
+    <img src="https://i.imgur.com/WVLYslE.jpg">
     <figcaption>Figure 1.1 - Alisson kicks the ball over Leicester City's back-line. 2v1 on the far-side.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/15/Image-15May2023_21:05:50.jpeg">
+    <img src=https://i.imgur.com/92mQkjp.jpg"">
     <figcaption>Figure 1.2 - Luis Diaz heads the ball down to Henderson.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/15/Image-15May2023_21:06:01.jpeg">
+    <img src="https://i.imgur.com/IXPbWEG.jpg">
     <figcaption>Figure 1.3 - Mohamed Salah clips the perfect ball to Curtis Jones, who is free on the back post.</figcaption>
 </figure>
 
 Liverpool is too clinical a team to leave a man that free on the back post. Leicester contracts and Liverpool swiftly capitalizes.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/15/Image-15May2023_21:06:14.jpeg">
+    <img src="https://i.imgur.com/SiNUEdR.jpg">
     <figcaption>Figure 1.4 - Curtis Jones scores.</figcaption>
 </figure>
 
 Not only did Liverpool have a high volume of progressive passes, but their passes were varied in terms of location and distance.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/15/Image-15May2023_21:36:58.jpeg">
+    <img src="https://i.imgur.com/6SPFEMV.jpg">
     <figcaption>Figure 2.1 - Clusters of progressive pass attempts from <a href="https://twitter.com/markstatsbot/status/1658217421122203649?s=46&t=EwWKBMyY400eGGXYwoRkiw">@markrstats</a>.</figcaption>
 </figure>
 
 Liverpool only capitalized on that one vertical progressive pass for the first goal. Their second goal came from consecutive passes on the ground, but the same far-side 2v1 overload occurred.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/15/Image-15May2023_21:06:27.jpeg">
+    <img src="https://i.imgur.com/3XVUTKu.jpg">
     <figcaption>Figure 3.1 - Ibrahima Konate passes to Jordan Henderson, who is free. 2v1 forms on the far-side.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/15/Image-15May2023_21:06:40.jpeg">
+    <img src="https://i.imgur.com/AX16j17.jpg">
     <figcaption>Figure 3.2 - As Jordan Henderson plays the ball to Cody Gakpo, Curtis Jones drags a defender infield, leaving Luis Diaz free.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/15/Image-15May2023_21:06:51.jpeg">
+    <img src="https://i.imgur.com/uvGj1JJ.jpg">
     <figcaption>Figure 3.3 - Mohamed Salah passes to Curtis Jones. He turns, shoots, and scores.</figcaption>
 </figure> 
 
