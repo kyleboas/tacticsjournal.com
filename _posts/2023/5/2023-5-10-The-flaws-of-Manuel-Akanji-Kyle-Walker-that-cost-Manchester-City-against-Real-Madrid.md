@@ -9,7 +9,7 @@ categories:
 tags: 
 - "Manchester City"
 - "Real Madrid"
-image: /uploads/2023/05/09/Image-09May2023_20:31:35.jpeg
+image: "https://i.imgur.com/JpcCSFT.jpg"
 permalink: /The-flaws-of-Manuel-Akanji-Kyle-Walker-that-cost-Manchester-City-against-Real-Madrid/
 ---
 
@@ -45,19 +45,19 @@ Pep Guardiola after the match:
 > "We try to adjust something for the second leg to be a bit more fluid, play with a bit more rhythm."
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_21:02:12.jpeg">
+    <img src="https://i.imgur.com/ZxSW49V.jpg">
     <figcaption>Figure 1.1 - Illustration made before the match to show an example of the numerical disadvantage Kyle Walker creates for Manchester City, when he gets too high up the pitch.</figcaption>
 </figure> 
 
 Before the match, I mentioned that Kyle Walker likes to get further forward than any other Manchester City defender. To compensate for Walker getting forward, John Stones would rotate back to cover for Walker, but sometimes he didn't, as shown in the following example.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:32:46.jpeg">
+    <img src="https://i.imgur.com/IDQnS3c.jpg">
     <figcaption>Figure 2.1 - Bernardo Silva has the ball and John Stones makes a run to the corner. Silva passes to Rodri.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:33:06.jpeg">
+    <img src="https://i.imgur.com/1DxRDgQ.jpg">
     <figcaption>Figure 2.2 - Walker makes a run down the wing to the corner, and Rodri plays him the ball.</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Real Madrid did the same against Chelsea, with Camavinga leaving the space open 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;d expect Real Madrid to crowd around Haaland, like they packed the middle against Chelsea, and funnel the ball into the wide areas. Camavinga vs Bernardo Silva for Man City is going to be an interesting matchup with Silva isolated. <a href="https://t.co/sK7Fos8TF9">pic.twitter.com/sK7Fos8TF9</a></p>&mdash; Tactics Journal (@TacticsJournal) <a href="https://twitter.com/TacticsJournal/status/1655984153014173708?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:33:29.jpeg">
+    <img src="https://i.imgur.com/x0Cao2O.jpg">
     <figcaption>Figure 2.3 - Walker misplaced his first touch and Camavinga recovers the ball. Camavinga passes up the left-wing.</figcaption>
 </figure> 
 
@@ -75,34 +75,34 @@ Once Walker loses the ball, City is left with only Ruben Dias and Manuel Akanji 
 Ruben Dias and John Stones play the part of worried parents watching over their children, Kyle Walker and Manuel Akanji. Sometimes, the children wander off, act aloof, and they bear the responsibility to come to their rescue and clean up the mess. It's an exhausting task. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:54:07.jpeg">
+    <img src="https://i.imgur.com/BIPxykR.jpg">
     <figcaption>Figure 3.1 - Modric spots the space behind Akanji and passes wide.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:54:47.jpeg">
+    <img src="https://i.imgur.com/Frb41Kb.jpg">
     <figcaption>Figure 3.2 - Modric begins to run into the space, as Akanji challenges the ball carrier.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:30:26.jpeg">
+    <img src="https://i.imgur.com/PqKKbed.jpg">
     <figcaption>Figure 3.3 - Ball is played to Modric in space behind Akanji, and Dias is forced to cover.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/27/Akanji_2.1-27Apr2023_10:02:01.jpeg">
+    <img src="https://i.imgur.com/qA6OfqX.jpg">
     <figcaption>Figure 4.1 - (26 April vs Arsenal) Akanji steps out leaving space behind him.</figcaption>
 </figure> 
 
 Figure 1.3 is a direct copy of the situation in which Manchester City found themselves in Figure 2.1 when they played against Arsenal.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:55:14.jpeg">
+    <img src="https://i.imgur.com/prjWmzn.jpg">
     <figcaption>Figure 3.4 - Dias stepping out to challenge Modric creates a space behind him, which Stones can't commit to defend because he is marking Benzema.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/27/Akanji_1.1-27Apr2023_10:01:31.jpeg">
+    <img src="https://i.imgur.com/pUT2zvo.jpg">
     <figcaption>Figure 4.2 - (26 April vs Arsenal) Ball is played over Akanji and Dias is forced to cover.</figcaption>
 </figure> 
 
@@ -111,12 +111,12 @@ And Figure 1.4 is a direct copy of Figure 2.2, with the same setup and the same 
 Overall, Kyle Walker was very good when he positioned himself correctly. However, when he's out of position up the wing without adequate cover from Stones, overcommits to challenge the ball, or fails to commit to a tackle when he should, he becomes a liability.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:31:17.jpeg">
+    <img src="https://i.imgur.com/lNVb0UK.jpg">
     <figcaption>Figure 5.1 - Walker overcommits to challenge Vinicius Jr. unnecessarily, and Vinicius dribbles around Walker into space. Stones is forced to cover.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:31:35.jpeg">
+    <img src="https://i.imgur.com/JpcCSFT.jpg">
     <figcaption>Figure 5.2 - Stones covers along with Rodri 3v1, and a 1v3 forms behind them for Vinicius Jr. to pass to.</figcaption>
 </figure> 
 
@@ -125,12 +125,12 @@ This first example shows Walker overcommitting to the ball unnecessarily, forcin
 Walker did not need to close down Vinicius this quickly to win back the ball. He should have been more patient and oriented his body to make it less simple and easy for Vinicius to get around him and into space.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:32:08.jpeg">
+    <img src="https://i.imgur.com/K50ZCwT.jpg">
     <figcaption>Figure 6.1 - Walker doesn't challenge Camavinga, and instead covers the open space to his right.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:32:28.jpeg">
+    <img src="https://i.imgur.com/KbimG3g.jpg">
     <figcaption>Figure 6.2 - Camavinga passes to Vinicus Jr. for the goal.</figcaption>
 </figure> 
 
@@ -139,7 +139,7 @@ The second example shows Walker not committing to challenging the ball when he s
 Kyle Walker's timing and positioning are inconsistent. He doesn't jump, resulting in Vinicius Jr. scoring the first goal. He moves unnecessarily, and the ball is played around him, creating a mess that falls on the shoulders of John Stones and Ruben Dias.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/09/Image-09May2023_20:33:51.jpeg">
+    <img src="https://i.imgur.com/QdogMrW.jpg">
     <figcaption>Figure 7.1 - Manchester City are incredibly compact, and leave three Real Madrid players free on the far side.</figcaption>
 </figure> 
 
