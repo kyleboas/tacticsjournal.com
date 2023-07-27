@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Arsenal"
 - "Chelsea"
-image: /uploads/2023/05/02/Image-02May2023_21:57:11.jpeg
+image: "https://i.imgur.com/Uh2FUOU.jpg"
 permalink: /Jakub-Kiwior-left-side-passing-bias-at-right-center-back-for-Arsenal/
 ---
 
@@ -20,7 +20,7 @@ Jakub Kiwior is a talented 23-year old who is athletic and looks very comfortabl
 His positioning when defending in settled play is excellent, and his timing to block or tackle is good. He's very mobile and built more like a full-back or outside center-back than a central center-back. He will be a good backup to Oleksandr Zinchenko at inverted left-back or Gabriel at left center-back, but I think they will need more cover at the right center-back position. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/02/Image-02May2023_18:46:58.jpeg">
+    <img src="https://i.imgur.com/DZ6brTC.jpg">
     <figcaption>Figure 1.1 - Jakub Kiwior pass map against Chelsea. Image from <a href="https://twitter.com/mclachbot/status/1653506172207415303?s=46&t=YC8lQJTh43E_mBQW40Ct2g">McLachBot</a>.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Kiwior's first touch is to his left, everything is left. Touch with the right fo
 Arsenal's buildup becomes predictable, and like in the match yesterday, they will rely more on the defensive-midfielders dropping to pull the strings and help to get Bukayo Saka involved on the right-wing, whether that be Thomas Partey or Jorginho.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/02/Image-02May2023_18:49:41.jpeg">
+    <img src="https://i.imgur.com/WCHqEMD.jpg">
     <figcaption>Figure 2.1 - Concept to have Chelsea overload the right-wing with Raheem Sterling ready to run behind Kiwior.</figcaption>
 </figure>
 
@@ -42,12 +42,12 @@ Teams can take advantage of Kiwior's left-side bias by overloading the right-win
 With the forwards on the left-wing pushed forward, Sterling in this example, they can look to run behind Kiwior once Chelsea win back the ball. They will be better positioned to take advantage of the space Ben White leaves behind.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/02/Image-02May2023_21:56:48.jpeg">
+    <img src="https://i.imgur.com/mZ3NJqR.jpg">
     <figcaption>Figure 3.1 - White jumps, leaving space behind for the pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/02/Image-02May2023_21:57:11.jpeg">
+    <img src="https://i.imgur.com/Uh2FUOU.jpg">
     <figcaption>Figure 3.2 - Chilwell receives the ball, and Arsenal are left with three left-footed defenders facing the ball, running sideways.</figcaption>
 </figure> 
 
