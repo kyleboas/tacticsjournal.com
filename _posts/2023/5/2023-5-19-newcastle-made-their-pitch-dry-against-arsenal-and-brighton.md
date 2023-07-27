@@ -34,7 +34,7 @@ The ground's crew, in consultation with the staff, determines the amount of wate
 It's part of the tactics of the game, another tool teams can utilize to gain an advantage.  
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/18/Image-18May2023_21:18:07.jpeg">
+    <img src="https://i.imgur.com/797fKtW.jpg">
     <figcaption>Figure 1.1 - Santiago Bernabéu’s pitch being changed for the 5th time this season. Photo credit <a href="https://twitter.com/themadridzone/status/1652656663596285953?s=46&t=YC8lQJTh43E_mBQW40Ct2g">@theMadridZone on Twitter.</a></figcaption>
 </figure> 
 
@@ -42,7 +42,7 @@ It's part of the tactics of the game, another tool teams can utilize to gain an 
 I suspected it when Manchester City played Real Madrid at the Santiago Bernabeu, which is under construction. They underwent their fifth pitch replacement of the season just before the first leg of the Champions League semi-final match. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/18/Image-18May2023_20:39:03.jpeg">
+    <img src="https://i.imgur.com/1duL6Tn.jpg">
     <figcaption>Figure 1.2 - Pep Guardiola inspecting the Santiago Bernabeu pitch before the Champions League first leg match against Real Madrid.</figcaption>
 </figure> 
 
@@ -69,17 +69,17 @@ On the other hand, Brighton doesn't possess the same technical quality and exper
 They found themselves caught in situations like this. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/18/Image-18May2023_21:52:27.jpeg">
+    <img src="https://i.imgur.com/5mqaIpg.jpg">
     <figcaption>Figure 2.1 - Jason Steele passes out to Jan Paul van Hecke. Miguel Almiron curves his run in the press.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/18/Image-18May2023_21:52:39.jpeg">
+    <img src="https://i.imgur.com/QQPqVKF.jpg">
     <figcaption>Figure 2.2 - Jan Paul van Hecke passes to Moises Caicedo.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/18/Image-18May2023_22:14:10.jpeg">
+    <img src="https://i.imgur.com/i9HEYTM.jpg">
     <figcaption>Figure 2.3 - Moises Caicedo passes the ball out of play under pressure from two Newcastle players.</figcaption>
 </figure> 
 
