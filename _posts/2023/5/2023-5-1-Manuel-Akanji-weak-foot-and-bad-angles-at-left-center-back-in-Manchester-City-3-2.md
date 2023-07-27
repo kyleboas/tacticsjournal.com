@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Manchester City" 
 - "Fulham"
-image: /uploads/2023/04/30/Image-30Apr2023_19:09:42.jpeg
+image: "https://i.imgur.com/lBTLRhE.jpg"
 permalink: /Manuel-Akanji-weak-foot-and-bad-angles-at-left-center-back-in-Manchester-City-3-2
 ---
 
@@ -31,17 +31,17 @@ The fact Laporte is left-footed means he can receive the ball on his left, and h
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/30/Image-30Apr2023_19:09:02.jpeg">
+    <img src="https://i.imgur.com/w0NdMZQ.jpg">
     <figcaption>Figure 1.1 - Dias passes to Akanji and Reed curves his run to shadow cover Gundogan.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/30/Image-30Apr2023_19:09:23.jpeg">
+    <img src="https://i.imgur.com/He96NpC.jpg">
     <figcaption>Figure 1.2 - Akanji takes his first touch with his left foot to switch the ball to his right foot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/30/Image-30Apr2023_19:09:42.jpeg">
+    <img src="https://i.imgur.com/lBTLRhE.jpg">
     <figcaption>Figure 1.3 - Akanji readies the pass but all the passing lanes are blocked off except for the pass to Jack Grealish, who is out of picture.</figcaption>
 </figure> 
 
@@ -54,14 +54,14 @@ Akanji has three options:
 The pass to Grealish is a luxury because what if Fulham structured their press to shadow cover Grealish, Gundogan, Rodri, and Stones. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/30/Image-30Apr2023_19:10:04.jpeg">
+    <img src="https://i.imgur.com/N6Z1kUo.jpg">
     <figcaption>Figure 2.1 - Illustration of Fulham blocking off the pass to Grealish, Gundogan, Rodri, and Stones.</figcaption>
 </figure> 
 
 Figure 2.1 is something I could see teams doing to force Akanji to pass back to Dias on every possession. It would force Manchester City to create chances that only originate from their right side. That would make their buildup predictable which in turn would make it easier to stop because there are only so many ways you can create a chance from one side of the pitch and the left side is their stronger side.  
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/30/Image-30Apr2023_19:10:26.jpeg">
+    <img src="https://i.imgur.com/ghbzIGe.jpg">
     <figcaption>Figure 3.1 - Akanji playing in a triangle with Gundogan and Grealish on the left-wing.</figcaption>
 </figure> 
 
