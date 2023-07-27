@@ -28,7 +28,7 @@ Dec 25 – Dec 31	<a href="mailto:kyle@tacticsjournal.com">Available</a>
 
 PRICE: $500
 
-To schedule a sponsorship or for additional information,<a href="mailto:kyle@tacticsjournal.com">email Kyle Boas</a>.
+To schedule a sponsorship or for additional information, <a href="mailto:kyle@tacticsjournal.com">email Kyle Boas</a>.
 
 ---
 
