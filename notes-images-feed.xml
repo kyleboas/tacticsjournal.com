@@ -32,7 +32,7 @@ permalink: /notes/images/feed
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
           <description><![CDATA[{{ post.excerpt | strip_html }}]]></description>
-          <content:encoded><![CDATA[{{ post.content }} <img src="{{ post.image }}" />]]></content:encoded>
+          <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
         </item>
       {% endif %}
     {% endfor %}
