@@ -11,7 +11,7 @@ tags:
 - "Liverpool"
 - "Inter"
 - "Chelsea"
-image: /uploads/2023/05/01/Image-01May2023_19:29:32.jpeg
+image: "https://i.imgur.com/TfOxqow.jpg"
 permalink: /Active-and-Waiting-defenders-in-a-flat-back-five/
 ---
 
