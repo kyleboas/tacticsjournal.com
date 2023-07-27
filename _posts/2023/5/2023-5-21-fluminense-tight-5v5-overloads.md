@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Fluminense"
 - "Botafogo"
-image: /uploads/2023/05/20/Image-20May2023_20:50:06.jpeg
+image: "https://i.imgur.com/rLMj1ZB.jpg"
 ---
 
 May 21, 2023 — Fluminense's possession play is unique due to way they overload tight spaces. Yesterday against Botafogo, they consistently forced 5v5 situations to capitalize on their superior dribbling and ball control. 
