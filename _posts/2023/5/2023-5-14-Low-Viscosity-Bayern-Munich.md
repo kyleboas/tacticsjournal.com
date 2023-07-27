@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Bayern Munich"
 - "Schalke"
-image: /uploads/2023/05/13/Image-13May2023_18:16:20.jpeg
+image: "https://i.imgur.com/OHnR5QY.jpg"
 permalink: /Low-Viscosity-Bayern-Munich/
 ---
 
@@ -20,24 +20,24 @@ They had their best game with Tuchel yesterday in a 6-0 win against Schlake due 
 I love the way the players immediately move when they make a pass. Pass and move, pass and move, create space, continued movement.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:15:19.jpeg">
+    <img src="https://i.imgur.com/OrcuDQB.jpg">
     <figcaption>Figure 1.1 - Thomas Muller passes and immediately moves.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:15:32.jpeg">
+    <img src="https://i.imgur.com/Yvc1oOW.jpg">
     <figcaption>Figure 1.2 - Ball is played to Thomas Muller in space.</figcaption>
 </figure>
 
 Defenses can't cope with this type of quick, constant movement. The space it creates is easily exploitable when the opponent is disoriented, trying to track each individual player.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:15:46.jpeg">
+    <img src="https://i.imgur.com/joY5Fav.jpg">
     <figcaption>Figure 2.1 - Ball is played centrally through to Jamal Musiala.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:16:02.jpeg">
+    <img src="https://i.imgur.com/e3gRyFK.jpg">
     <figcaption>Figure 2.2 - Thomas Muller and Kingsley Coman converge on the ball centrally with Jamal Musiala.</figcaption>
 </figure>
 
@@ -47,34 +47,34 @@ As a unit, all three forwards would converge on the ball centrally. Width to sta
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:16:20.jpeg">
+    <img src="https://i.imgur.com/OHnR5QY.jpg">
     <figcaption>Figure 3.1 - Leon Goretzka makes a run centrally from the left half-space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:26:20.jpeg">
+    <img src="https://i.imgur.com/RtlfgkF.jpg">
     <figcaption>Figure 3.2 - Leon Goretzka splits the defense, and the ball is played through.</figcaption>
 </figure>
 
 Another feature of their attack was the runs in the half-spaces. Schalke did not man-mark these runners; once they made it into the space at speed, they were free to be played the ball unchallenged.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:16:40.jpeg">
+    <img src="https://i.imgur.com/j4RTtY7.jpg">
     <figcaption>Figure 4.1 - Noussair Mazraoui makes a run upfield in the right half-space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:16:56.jpeg">
+    <img src="https://i.imgur.com/POeySsr.jpg">
     <figcaption>Figure 4.2 - Noussair Mazraoui unmarked continues his run as the ball is passed upfield.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:17:12.jpeg">
+    <img src="https://i.imgur.com/d1XFHze.jpg">
     <figcaption>Figure 4.3 - Noussair Mazraoui splits the defense, and the ball is played to him in space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/13/Image-13May2023_18:17:27.jpeg">
+    <img src="https://i.imgur.com/FqPP5iA.jpg">
     <figcaption>Figure 4.5 - Noussair Mazraoui is in on goal.</figcaption>
 </figure> 
 
