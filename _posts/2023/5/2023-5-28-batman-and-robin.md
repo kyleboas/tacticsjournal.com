@@ -6,7 +6,7 @@ categories:
 - "Serie A" 
 tags: 
 - "Inter" 
-image: /uploads/2023/05/27/Image-27May2023_21:04:39.jpeg
+image: "https://i.imgur.com/YdOQueT.jpg"
 ---
 
 May 28, 2023 — Pass into Romelu Lukaku with his back to the goal, hold up play, lay off a simple pass, and play someone into space. This efficient and assertive pattern of play sets Inter apart.
