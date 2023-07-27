@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Manchester City"
 - "West Ham"
-image: /uploads/2023/05/03/Image-03May2023_21:50:45.jpeg
+image: "https://i.imgur.com/NuRyyGk.jpg"
 permalink: /Manchester-City-needed-more-runners-against-West-Ham/
 ---
 
@@ -18,7 +18,7 @@ May 4, 2023 — Julian Alvarez didn't put in the performance of a runner, the ru
 To fill Kevin De Bruyne’s boots in right center-midfield you must make runs off-the-ball, even if you know you won’t get the ball. Those runs open up space for others which allows City to progress the ball forward. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/03/Image-03May2023_21:40:31.jpeg">
+    <img src="https://i.imgur.com/qJP2VX1.jpg">
     <figcaption>Figure 1.1 - West Ham out of position shape in the first half to shadow cover Manchester City’s pivot and center-midfielders.</figcaption>
 </figure> 
 
@@ -29,7 +29,7 @@ It forced Manchester City wide and then trapped them wide, with little options c
 If the center-midfielders didn’t move, West Ham could sit back and wait while applying pressure to force City to pass the ball back to goalkeeper Stefan Ortega and reset. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/03/Image-03May2023_21:50:45.jpeg">
+    <img src="https://i.imgur.com/NuRyyGk.jpg">
     <figcaption>Figure 2.1 - Alvarez passes to Mahrez but Alvarez doesn't make the run into space — pass and go.</figcaption>
 </figure> 
 
@@ -40,18 +40,18 @@ In Figure 2.1, Alvarez should have made the run into space immediately. This typ
 Manchester City needed runners. Alvarez is capable of being a runner, but he didn’t pick up on the queues to make runs when an injection of unpredictability was needed to create space between the lines. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/03/Image-03May2023_21:55:02.jpeg">
+    <img src="https://i.imgur.com/6xFoAPi.jpg">
     <figcaption>Figure 3.1 - Alvarez moves central and Silva moves wide, while Walker dribbles central.</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/03/Image-03May2023_21:57:16.jpeg">
+    <img src="https://i.imgur.com/Bx6eq22.jpg">
     <figcaption>Figure 3.2 - Walker passes to Alvarez.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/03/Image-03May2023_21:57:43.jpeg">
+    <img src="https://i.imgur.com/RlTROKp.jpg">
     <figcaption>Figure 3.3 - Quick two pass exchange from Alvarez, to Rodri, and then to Stones who is free.</figcaption>
 </figure> 
 
@@ -62,18 +62,18 @@ In Figure 3.3, Alvarez's move to the right created the central space for John St
 In the 77th minute, Phil Foden replaced Alvarez, and within a short amount of time, he showed what a runner can do to open up space for others.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/03/Image-03May2023_22:07:59.jpeg">
+    <img src="https://i.imgur.com/baxqd0x.jpg">
     <figcaption>Figure 4.1 - Foden spreads the ball wide to Grealish.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/03/Image-03May2023_22:08:28.jpeg">
+    <img src="https://i.imgur.com/y8VbDx1.jpg">
     <figcaption>Figure 4.2 - Foden immediately begins to make the run into the left half-space.</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/05/03/Image-03May2023_22:08:56.jpeg">
+    <img src="https://i.imgur.com/w3vyfwQ.jpg">
     <figcaption>Figure 4.3 - Foden's run opens up space for Haaland, and Silva passes to Haaland in space.</figcaption>
 </figure> 
 
