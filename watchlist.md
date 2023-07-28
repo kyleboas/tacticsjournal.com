@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: July 26, 2023</em></p>
+<p><em>last updated: July 27, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -341,6 +341,12 @@ layout: page
 |[Vinicius Souza](https://fbref.com/en/players/6a8a7af8/Vinicius-Souza)|Espanoyl|<a href="https://youtu.be/iOr-y-_SU3A"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Mees Hilgers](https://fbref.com/en/players/4eb00fda/Mees-Hilgers)|FC Twente|<a href="https://youtu.be/VpaENvjKr5A"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Eric Martel](https://fbref.com/en/players/92a16062/Eric-Martel)|1. FC Koln| |4/23/23|
+
+### Senior
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Ezri Konsa](https://fbref.com/en/players/0313a347/Ezri-Konsa)|Aston Villa|<a href="https://youtu.be/7HBMDjZNMJ4"><i class="fa-solid fa-video"></i></a>|7/27/23|
 
 <hr class="dashed">
 
