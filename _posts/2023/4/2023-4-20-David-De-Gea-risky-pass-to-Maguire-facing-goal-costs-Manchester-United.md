@@ -9,7 +9,7 @@ categories:
 tags: 
 - "Manchester United"
 - "Sevilla"
-image: /uploads/2023/04/20/De_Gea_1.3-20Apr2023_22:06:16.jpeg
+image: "https://i.imgur.com/7GINsHz.jpg"
 permalink: /David-De-Gea-risky-pass-to-Maguire-facing-goal-costs-Manchester-United/
 ---
 
@@ -18,12 +18,12 @@ April 20, 2023 — A fairly routine play was turned complicated by David De Gea 
 <!---more--->
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/20/De_Gea_1.1-20Apr2023_22:03:20.jpeg">
+    <img src="https://i.imgur.com/gZYOjIF.jpg">
     <figcaption>Figure 1.1 - Harry Maguire passes back to David De Gea</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/20/De_Gea_1.2-20Apr2023_22:04:54.jpeg">
+    <img src="https://i.imgur.com/zRSAJUe.jpg">
     <figcaption>Figure 1.2 - Ocampos curves his run to force De Gea to pass to his right</figcaption>
 </figure> 
 
@@ -35,13 +35,13 @@ In this position, David De Gea has two choices.
 De Gea instead choices to play the ball to Harry Maguire with his back to the goal. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/20/De_Gea_1.3-20Apr2023_22:06:16.jpeg">
+    <img src="https://i.imgur.com/7GINsHz.jpg">
     <figcaption>Figure 1.3 - De Gea passes to Harry Maguire, and Sevilla collapses on the ball</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/20/De_Gea_1.4-20Apr2023_22:07:10.jpeg">
+    <img src="https://i.imgur.com/HnmRcEO.jpg">
     <figcaption>Figure 1.4 - Harry Maguire loses the ball</figcaption>
 </figure> 
 
