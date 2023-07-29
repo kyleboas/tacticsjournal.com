@@ -7,7 +7,7 @@ categories:
 tags: 
 - "West Ham"
 - "Crystal Palace"
-image: /uploads/2023/04/29/Image-29Apr2023_19:15:53.jpeg 
+image: "https://i.imgur.com/qYnBkQs.jpg"
 permalink: /West-Ham-and-Emperor-Penguins/
 ---
 
@@ -18,36 +18,36 @@ April 29, 2023 — West Ham's defense has a tendency to be too compact, which gi
 They have the numbers to plug the spaces with bodies but they huddle together like a pack of Emperor Penguins seeking warmth. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/29/Image-29Apr2023_19:14:59.jpeg">
+    <img src="https://i.imgur.com/6upMwwR.jpg">
     <figcaption>Figure 1.1 - Olise drives to the corner while Zaha runs inside.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/29/Image-29Apr2023_19:15:33.jpeg">
+    <img src="https://i.imgur.com/WyramS9.jpg">
     <figcaption>Figure 1.2 - Zaha's run inside coaxes Coufal inside, creating a large pocket of space behind Zaha.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/29/Image-29Apr2023_19:15:53.jpeg">
+    <img src="https://i.imgur.com/qYnBkQs.jpg">
     <figcaption>Figure 1.3 - Ball is fumbled across goal from Olise to Zaha. He first-time shoots the ball on the volley, into the top right-hand corner, for the goal.</figcaption>
 </figure> 
 
 Here are two examples from their recent matches against Brighton and Arsenal.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/29/Image-29Apr2023_19:17:38.jpeg">
+    <img src="https://i.imgur.com/JsyO015.jpg">
     <figcaption>Figure 2.1 - March plays the ball to Gross.</figcaption>
 </figure> 
 
 Mitoma was smart to move outside then aim his run for the back post, taking advantage of West Ham's narrow defense.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/29/Image-29Apr2023_19:18:03.jpeg">
+    <img src="https://i.imgur.com/bPL6OzV.jpg">
     <figcaption>Figure 2.2 - Gross plays the ball to the back post and Mitoma taps-in the goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/29/Image-29Apr2023_19:17:07.jpeg">
+    <img src="https://i.imgur.com/zKkQOtd.jpg">
     <figcaption>Figure 3.1 - West Ham’s compact six marking only three Arsenal players left Odegaard free on the back-post for the goal. You can see Fabianski noticed and pointed out that imbalance.</figcaption>
 </figure> 
 
