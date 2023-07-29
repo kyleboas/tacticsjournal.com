@@ -7,7 +7,7 @@ categories:
 tags:
 - "Bayern Munich"
 - "Mainz"
-image: /uploads/2023/04/22/Image-22Apr2023_20:41:08.jpeg
+image: "https://i.imgur.com/Te60VTK.jpg"
 permalink: /What-happened-to-Bayern-Munich-vs-Mainz-in-their-3-1-loss/
 --- 
 
@@ -16,7 +16,7 @@ April 22, 2023 — This match against Mainz is the first of seven matches that T
 <!---more--->
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_19:24:44.jpeg">
+    <img src="https://i.imgur.com/rBp2Qgb.jpg">
     <figcaption>Figure 1.1 - Bayern Munich 5-2-1-2</figcaption>
 </figure> 
 
@@ -41,18 +41,18 @@ That one you can look past, that’s football. Unexpected things happen when you
 Watch **Joao Cancelo** on this play closely. He tended to show little awareness defensively and showed the same during this sequence.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_20:07:53.jpeg">
+    <img src="https://i.imgur.com/brhlCuN.jpg">
     <figcaption>Figure 2.1 - Mainz goalkeeper Robin Zenter takes the free-kick and kicks it upfield to the forwards</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_20:40:36.jpeg">
+    <img src="https://i.imgur.com/6qBGJi5.jpg">
     <figcaption>Figure 2.2 - Ajorque heads the ball past Upamecano to Onisiwo</figcaption>
 </figure>  
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_20:41:08.jpeg">
+    <img src="https://i.imgur.com/Te60VTK.jpg">
     <figcaption>Figure 2.3 - Onisiwo wins his header over Stansic and passes to Leandro Barreiro for the goal</figcaption>
 </figure> 
 
@@ -66,18 +66,18 @@ Bayern Munich’s structure was compromised *the second Upamecano didn’t win t
 Instead of being higher up the pitch, the wing-backs are now further back, and the back-line of five is more compact, which is an improvement. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_20:42:07.jpeg">
+    <img src="https://i.imgur.com/Q1odIXq.jpg">
     <figcaption>Figure 3.1 - Cross into the box from Widmer</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_20:42:53.jpeg">
+    <img src="https://i.imgur.com/hxp2vJu.jpg">
     <figcaption>Figure 3.2 - Mazraoui challenges the ball carrier leaving Caricol free. The ball is passed to Hanche-Olsen</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_21:19:20.jpeg">
+    <img src="https://i.imgur.com/LJdUKFt.jpg">
     <figcaption>Figure 3.3 - Andreas Hanche-Olsen passes to Aaron Caricol</figcaption>
 </figure> 
 
@@ -85,7 +85,7 @@ Instead of being higher up the pitch, the wing-backs are now further back, and t
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/22/Image-22Apr2023_20:44:18.jpeg">
+    <img src="https://i.imgur.com/hSL3avZ.jpg">
     <figcaption>Figure 3.4 - Caricol shot to the bottom right corner across goal for Mainz’s third goal</figcaption>
 </figure> 
 
