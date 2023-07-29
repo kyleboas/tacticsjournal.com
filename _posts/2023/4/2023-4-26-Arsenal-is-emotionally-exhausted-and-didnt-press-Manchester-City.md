@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Manchester City"
 - "Arsenal"
-image: /uploads/2023/04/26/Arsenal_low-block_1.1-26Apr2023_17:35:33.jpeg
+image: "https://i.imgur.com/3x035C0.jpg"
 permalink: /Arsenal-is-emotionally-exhausted-and-didnt-press-Manchester-City/
 ---
 
@@ -20,7 +20,7 @@ I can talk about the structure, who did what better, when and where, but mentali
 Similar to how it’s hard to critique teams like Chelsea right now who are not there mentally, their season has ended in their mind. Arsenal’s season isn’t over but their bodies are giving out to the demand of the schedule. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/26/Arsenal_low-block_1.1-26Apr2023_17:35:33.jpeg">
+    <img src="https://i.imgur.com/3x035C0.jpg">
     <figcaption>Figure 1.1 - Arsenal 2-0 down to Manchester City in a 4-4-2 low-block.</figcaption>
 </figure> 
 
@@ -29,13 +29,13 @@ Arsenal deployed the same wide 4-4-2 out of possession that they used [when they
 Manchester City are Manchester City, if you allow them to play their game and maintain possession, they will not make mistakes. Arsenal were setup to wait for City to make mistakes, but they were so sloppy on the ball that it didn’t matter if City ever made one mistake. They’d immediately loose the ball, they couldn’t put more than two passes together.
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/26/Image-26Apr2023_17:58:09.jpeg">
+    <img src="https://i.imgur.com/TCOz8UA.jpg">
     <figcaption>Figure 2.1 - Arsenal waiting stationary as Manchester City built up.</figcaption>
 </figure> 
 In the first and second half, when Manchester City built up, the six Arsenal midfielders and forwards stayed stationary, waiting patiently for City to penetrate. Martin Odegaard or Gabriel Jesus would hint at jumping forward to challenge Dias or Stones, but they’d then hold back and wait, because they were instructed to wait, they had to be. Why would you wait to press Manchester City when they are known to have issues when pressed in their own defensive end?
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/26/Pressure_3.1-26Apr2023_18:58:47.jpeg">
+    <img src="https://i.imgur.com/Ea5OdpJ.jpg">
     <figcaption>Figure 3.1 - An example of Arsenal pressuring Manchester City in their defensive end.</figcaption>
 </figure> 
 I expected Arsenal to press Manchester City relentlessly into their own defensive end, forcing City into errors when they play the ball long. We didn’t see any of that. Sit back and allow City to attack at will was the game-plan.
