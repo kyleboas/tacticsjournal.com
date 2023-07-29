@@ -7,7 +7,7 @@ categories:
 tags: 
 - "Tottenham"
 - "Manchester United"
-image: /uploads/2023/04/28/Image-28Apr2023_15:27:35.jpeg
+image: "https://i.imgur.com/M4HYNmn.jpg"
 permalink: /Tottenham-overcomes-back-post-run-struggles-to-salvage-point-against-Manchester-United/
 ---
 
@@ -16,12 +16,12 @@ April 28, 2023 — During the first half, Manchester United's back post was open
 <!---more--->
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:27:04.jpeg">
+    <img src="https://i.imgur.com/wnlYR84.jpg">
     <figcaption>Figure 1.1 - Richarlison takes the ball to the corner, Heung-Min Son can choose to make the run into space towards the back post.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:27:35.jpeg">
+    <img src="https://i.imgur.com/M4HYNmn.jpg">
     <figcaption>Figure 1.2 - Heung-Min Son makes the near post run instead and no one is there to tap-in the pass across goal from Richarlison.</figcaption>
 </figure> 
 
@@ -31,7 +31,7 @@ This is one example of a Tottenham forward not making the run to the back post. 
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:28:41.jpeg">
+    <img src="https://i.imgur.com/SdPG4yt.jpg">
     <figcaption>Figure 2.1 - Pass into Richarlison and Kane on the back post.</figcaption>
 </figure> 
 
@@ -40,18 +40,18 @@ Tottenham began making that run to the back post in the second half, they capita
 The forwards will always have the upper hand over the defenders when the ball is played to the back post because they can attack the post on their back foot and all they have to do is direct the ball towards the net forward into the goal. The defenders have to sidestep their way into the challenge and time their lunge to either block or direct the ball away from goal, which is a harder task. 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:29:11.jpeg">
+    <img src="https://i.imgur.com/evbF4Fv.jpg">
     <figcaption>Figure 3.1 - Harry Kane takes on both Malacia and Shaw, while Son is 1v1 Lindelof on the far-side.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:29:39.jpeg">
+    <img src="https://i.imgur.com/XL5CoZp.jpg">
     <figcaption>Figure 3.2 - Kane gets past Malacia and Shaw.</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:30:06.jpeg">
+    <img src="https://i.imgur.com/xo9cc9c.jpg">
     <figcaption>Figure 3.3 - Lindelof dismarks from Son, leaving Son free on the far-side to attack the back post.</figcaption>
 </figure> 
 
@@ -59,17 +59,17 @@ Son was unable to convert this chance but the cracks in Manchester United's defe
 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:30:36.jpeg">
+    <img src="https://i.imgur.com/mOKc28p.jpg">
     <figcaption>Figure 4.1 - Cross into Dier but he heads it just wide.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:31:07.jpeg">
+    <img src="https://i.imgur.com/nkfMgCZ.jpg">
     <figcaption>Figure 5.1 - Kane crosses on the ground to Son who is free to attack the back post.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://tacticsjournal.com/uploads/2023/04/28/Image-28Apr2023_15:31:33.jpeg">
+    <img src="https://i.imgur.com/fCq5Usz.jpg">
     <figcaption>Figure 5.2 - Son's shot for the second goal.</figcaption>
 </figure> 
 
