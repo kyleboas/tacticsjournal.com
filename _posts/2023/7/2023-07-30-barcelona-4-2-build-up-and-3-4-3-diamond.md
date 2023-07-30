@@ -59,7 +59,7 @@ All four midfielders would rotate and switch sides to fill empty spaces and main
     <figcaption>Figure 5.1 - Updated Barcelona 3-4-3 diamond depth chart.</figcaption>
 </figure>
 
-This is the blueprint for the upcoming season, and not only for Barcelona. This change to a 3-4-3 diamond is [something I theorized would happen](https://tacticsjournal.com/2023/07/06/the-switch-from-box-to-diamond-next-season/). It’s the logical outcome for the profiles at Barcelona’s disposal.
+This is the blueprint for the upcoming season, and not only for Barcelona. This change to a 3-4-3 diamond is [something I theorized would happen](https://tacticsjournal.com/2023/07/06/the-switch-from-box-to-diamond-next-season/). It’s the logical outcome for the profiles at Barcelona’s disposal. Barcelona are always first to make a change, and then the rest eventually follow.
 
 <figure>
     <img src="https://i.imgur.com/IO7PAeE.jpg">
