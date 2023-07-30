@@ -357,7 +357,8 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[Shea Charles](https://fbref.com/en/players/5cc3ce65/Shea-Charles)|Manchester City|<a href="https://youtu.be/33NXwUfLRF4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Ousmane Diomande](https://fbref.com/en/players/394be156/Ousmane-Diomande)|Sporting CP|<a href="https://youtu.be/GmAw0H815No"><i class="fa-solid fa-video"></i></a>|7/30/23|
+|[Shea Charles](https://fbref.com/en/players/5cc3ce65/Shea-Charles)|Southampton|<a href="https://youtu.be/33NXwUfLRF4"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Bashir Humphreys](https://fbref.com/en/players/d2b32e91/Bashir-Humphreys)|Chelsea|<a href="https://youtu.be/7HLkCoA3gUI"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
 ### U23
