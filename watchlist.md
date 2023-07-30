@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: July 28, 2023</em></p>
+<p><em>last updated: July 30, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -259,6 +259,7 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Valentín Barco](https://fbref.com/en/players/b9f282ec/Valentin-Barco)|Boca Juniors|<a href="https://youtu.be/0xXzYEXGwgk"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Lewis Hall](https://fbref.com/en/players/da011f18/Lewis-Hall)|Chelsea|<a href="https://youtu.be/pATo93WFC5A"><i class="fa-solid fa-video"></i></a>|7/30/23|
 
 ### U23
 
