@@ -55,7 +55,7 @@ All four midfielders would rotate and switch sides to fill empty spaces and main
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/ohuIKEW.jpg">
+    <img src="https://i.imgur.com/1ja4uUv.jpg">
     <figcaption>Figure 5.1 - Updated Barcelona 3-4-3 diamond depth chart.</figcaption>
 </figure>
 
