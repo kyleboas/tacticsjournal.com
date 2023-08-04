@@ -9,7 +9,7 @@ tags:
 image: "https://i.imgur.com/iuegdYf.jpg"
 ---
 
-April 4, 2023 — Burnley used a 3-2-2-3 box midfield with an inverted left-back against Real Betis in a preseason friendly. Goalkeeper James Trafford pushed forward to form a back-four in the first phase.
+August 4, 2023 — Burnley used a 3-2-2-3 box midfield with an inverted left-back against Real Betis in a preseason friendly. Goalkeeper James Trafford pushed forward to form a back-four in the first phase.
 
 <!---more--->
 
