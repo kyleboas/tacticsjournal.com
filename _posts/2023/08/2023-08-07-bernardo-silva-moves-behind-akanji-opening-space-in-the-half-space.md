@@ -66,7 +66,7 @@ If Rice backed off, even an inch, Rodri had the ability to play out and in to Ar
 
 When they played the ball backward or out wide, Rodri or Kovacic would be so far out of the play or behind a cover shadow, so that made it hard to connect play. 
 
-Runs into the half-space Julien Alvarez were missing. He needed to drop to help move the ball forward. 
+Runs into the half-space from Julien Alvarez were missing. He needed to drop to help move the ball forward. 
 
 There wasn't enough triangles being created by City once they broke past that initial press from Arsenal. Everything had to be backward.
 
