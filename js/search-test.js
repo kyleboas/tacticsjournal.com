@@ -177,15 +177,17 @@
 
         // Check if the post has the category "Notes"
         if (result.categories.includes('Notes')) {
-        // Display the post without the title
-        var p = document.createElement('p');
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        a.classList.add('title');
-        p.appendChild(a);
-        p.innerHTML += result.excerpt;
-        li.appendChild(p);
+          // Display the post with the full content, including images
+  var div = document.createElement('div');
+  var a = document.createElement('a');
+  a.href = result.url;
+  a.innerHTML = result.title;
+  a.classList.add('title');
+  div.appendChild(a);
+  var contentDiv = document.createElement('div');
+  contentDiv.innerHTML = '{{' + ' ' + 'result.content' + ' ' + '}}'; // Remove the 'strip_newlines' filter here
+  div.appendChild(contentDiv);
+  li.appendChild(div);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
