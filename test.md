@@ -50,22 +50,33 @@ window.addEventListener("DOMContentLoaded", function() {
   }
 
   var searchInput = document.getElementById("search-input");
-  var postLists = document.querySelectorAll("#post-list ul");
+  var dateSeparators = document.querySelectorAll(".date-separator");
 
   searchInput.addEventListener("input", function() {
     var searchQuery = searchInput.value.toLowerCase();
 
-    postLists.forEach(function(ul) {
+    dateSeparators.forEach(function(separator) {
+      var ul = separator.nextElementSibling; // Get the ul element after the separator
       var postItems = ul.querySelectorAll(".post-item");
+      var anyMatchingPosts = false;
 
       postItems.forEach(function(post) {
         var postTitle = post.querySelector("a").textContent.toLowerCase();
         var postContent = post.querySelector(".content-div").textContent.toLowerCase();
 
-        var isMatch = postTitle.includes(searchQuery) || postContent.includes(searchQuery);
-
-        post.style.display = isMatch ? "block" : "none"; // Show/hide based on match
+        if (postTitle.includes(searchQuery) || postContent.includes(searchQuery)) {
+          post.style.display = "block"; // Show matching post
+          anyMatchingPosts = true;
+        } else {
+          post.style.display = "none"; // Hide non-matching posts
+        }
       });
+
+      if (anyMatchingPosts) {
+        separator.style.display = "block"; // Show date separator
+      } else {
+        separator.style.display = "none"; // Hide date separator
+      }
     });
   });
 });
