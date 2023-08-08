@@ -10,7 +10,7 @@ layout: default
   </div>
 </div>
 
-<div id="post-list">
+<ul id="post-list">
   {% assign current_date = '' %}
   {% for post in site.posts %}
     {% capture post_date %}{{ post.date | date: "%B %d, %Y" }}{% endcapture %}
@@ -18,8 +18,7 @@ layout: default
       {% if current_date != '' %}
         </ul>
       {% endif %}
-      <h2 class="date-separator">{{ post.date | date: "%B %d, %Y" }}</h2>
-      <ul>
+      <div class="date-separator">{{ post.date | date: "%B %d, %Y" }}</div>
     {% assign current_date = post_date %}
     {% endif %}
     <li class="post-item">
@@ -34,9 +33,8 @@ layout: default
     </li>
   {% endfor %}
   {% if current_date != '' %}
-    </ul>
   {% endif %}
-</div>
+</ul>
 
 
 <script>
