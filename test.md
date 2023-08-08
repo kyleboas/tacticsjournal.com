@@ -58,7 +58,7 @@ window.addEventListener("DOMContentLoaded", function() {
 
       postItems.forEach(function(post) {
         var postTitle = post.querySelector("a").textContent.toLowerCase();
-        var postContent = post.querySelector("p").textContent.toLowerCase();
+        var postContent = post.querySelector(".p").textContent.toLowerCase();
 
         if (postTitle.includes(searchQuery) || postContent.includes(searchQuery)) {
           post.style.display = "block"; // Show matching post
