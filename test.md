@@ -53,7 +53,7 @@ window.addEventListener("DOMContentLoaded", function() {
     var searchQuery = searchInput.value.toLowerCase();
 
     postLists.forEach(function(ul) {
-      var postItems = li.querySelectorAll(".post-item");
+      var postItems = ul.querySelectorAll(".post-item");
       var anyMatchingPosts = false;
 
       postItems.forEach(function(post) {
@@ -69,9 +69,9 @@ window.addEventListener("DOMContentLoaded", function() {
       });
 
       if (anyMatchingPosts) {
-        li.previousElementSibling.style.display = "block"; // Show date separator
+        ul.previousElementSibling.style.display = "block"; // Show date separator
       } else {
-        li.previousElementSibling.style.display = "none"; // Hide date separator
+        ul.previousElementSibling.style.display = "none"; // Hide date separator
       }
     });
   });
