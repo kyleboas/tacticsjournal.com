@@ -50,20 +50,22 @@ window.addEventListener("DOMContentLoaded", function() {
   }
 
   var searchInput = document.getElementById("search-input");
-  var postList = document.querySelectorAll(".post-item");
+  var postLists = document.querySelectorAll("#post-list ul");
 
   searchInput.addEventListener("input", function() {
     var searchQuery = searchInput.value.toLowerCase();
 
-    postList.forEach(function(post) {
-      var postTitle = post.querySelector("a").textContent.toLowerCase();
-      var postContent = post.querySelector(".content-div").textContent.toLowerCase();
+    postLists.forEach(function(ul) {
+      var postItems = ul.querySelectorAll(".post-item");
 
-      if (postTitle.includes(searchQuery) || postContent.includes(searchQuery)) {
-        post.style.display = "block"; // Show matching posts
-      } else {
-        post.style.display = "none"; // Hide non-matching posts
-      }
+      postItems.forEach(function(post) {
+        var postTitle = post.querySelector("a").textContent.toLowerCase();
+        var postContent = post.querySelector(".content-div").textContent.toLowerCase();
+
+        var isMatch = postTitle.includes(searchQuery) || postContent.includes(searchQuery);
+
+        post.style.display = isMatch ? "block" : "none"; // Show/hide based on match
+      });
     });
   });
 });
