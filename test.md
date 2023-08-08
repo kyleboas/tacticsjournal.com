@@ -10,8 +10,18 @@ layout: default
   </div>
 </div>
 
-<ul id="post-list">
+<div id="post-list">
+  {% assign current_date = '' %}
   {% for post in site.posts %}
+    {% capture post_date %}{{ post.date | date: "%B %d, %Y" }}{% endcapture %}
+    {% if current_date != post_date %}
+      {% if current_date != '' %}
+        </ul>
+      {% endif %}
+      <h2 class="date-separator">{{ post.date | date: "%B %d, %Y" }}</h2>
+      <ul>
+    {% assign current_date = post_date %}
+    {% endif %}
     <li class="post-item">
       <a href="{{ post.permalink }}">{{ post.title }}</a>
       {% if post.categories contains 'Notes' %}
@@ -21,7 +31,11 @@ layout: default
       {% endif %}
     </li>
   {% endfor %}
-</ul>
+  {% if current_date != '' %}
+    </ul>
+  {% endif %}
+</div>
+
 
 
 <script>
