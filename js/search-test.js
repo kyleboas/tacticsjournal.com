@@ -124,7 +124,7 @@ li.appendChild(a);
 if (result.categories.includes('Notes')) {
   // Display the full content for posts with "Notes" category
   var contentDiv = document.createElement('div');
-  contentDiv.innerHTML = result.excerpt; // Change this line to use full content
+  contentDiv.innerHTML = result.content; // Use full content instead of excerpt
   li.appendChild(contentDiv);
 } else {
   // Display the post with the title and excerpt
@@ -181,7 +181,7 @@ li.appendChild(a);
 if (result.categories.includes('Notes')) {
   // Display the full content for posts with "Notes" category
   var contentDiv = document.createElement('div');
-  contentDiv.innerHTML = result.excerpt; // Change this line to use full content
+  contentDiv.innerHTML = result.content; // Use full content instead of excerpt
   li.appendChild(contentDiv);
 } else {
   // Display the post with the title and excerpt
