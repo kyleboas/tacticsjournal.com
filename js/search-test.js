@@ -185,7 +185,7 @@
   a.classList.add('title');
   div.appendChild(a);
   var contentDiv = document.createElement('div');
-  contentDiv.innerHTML = '{{' + ' ' + 'result.content' + ' ' + '}}'; // Remove the 'strip_newlines' filter here
+  contentDiv.innerHTML = result.content;
   div.appendChild(contentDiv);
   li.appendChild(div);
         } else {
