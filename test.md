@@ -10,7 +10,15 @@ layout: default
   </div>
 </div>
 
-<ul id="post-list"></ul>
+<ul id="post-list">
+  {% for post in site.posts %}
+    <li class="post-item">
+      <a href="{{ post.permalink }}">{{ post.title }}</a>
+      <p>{{ post.content }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
 
 <script>
   window.addEventListener("DOMContentLoaded", function() {
