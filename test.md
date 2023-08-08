@@ -47,13 +47,13 @@ window.addEventListener("DOMContentLoaded", function() {
   }
 
   var searchInput = document.getElementById("search-input");
-  var postLists = document.querySelectorAll("#post-list");
+  var postLists = document.querySelectorAll("#post-list ul");
 
   searchInput.addEventListener("input", function() {
     var searchQuery = searchInput.value.toLowerCase();
 
     postLists.forEach(function(ul) {
-      var postItems = ul.querySelectorAll(".post-item");
+      var postItems = li.querySelectorAll(".post-item");
       var anyMatchingPosts = false;
 
       postItems.forEach(function(post) {
@@ -69,9 +69,9 @@ window.addEventListener("DOMContentLoaded", function() {
       });
 
       if (anyMatchingPosts) {
-        ul.previousElementSibling.style.display = "block"; // Show date separator
+        li.previousElementSibling.style.display = "block"; // Show date separator
       } else {
-        ul.previousElementSibling.style.display = "none"; // Hide date separator
+        li.previousElementSibling.style.display = "none"; // Hide date separator
       }
     });
   });
