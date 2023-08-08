@@ -50,13 +50,12 @@ window.addEventListener("DOMContentLoaded", function() {
   }
 
   var searchInput = document.getElementById("search-input");
-  var dateSeparators = document.querySelectorAll(".date-separator");
+  var postLists = document.querySelectorAll("#post-list ul");
 
   searchInput.addEventListener("input", function() {
     var searchQuery = searchInput.value.toLowerCase();
 
-    dateSeparators.forEach(function(separator) {
-      var ul = separator.nextElementSibling; // Get the ul element after the separator
+    postLists.forEach(function(ul) {
       var postItems = ul.querySelectorAll(".post-item");
       var anyMatchingPosts = false;
 
@@ -73,9 +72,9 @@ window.addEventListener("DOMContentLoaded", function() {
       });
 
       if (anyMatchingPosts) {
-        separator.style.display = "block"; // Show date separator
+        ul.previousElementSibling.style.display = "block"; // Show date separator
       } else {
-        separator.style.display = "none"; // Hide date separator
+        ul.previousElementSibling.style.display = "none"; // Hide date separator
       }
     });
   });
