@@ -14,7 +14,11 @@ layout: default
   {% for post in site.posts %}
     <li class="post-item">
       <a href="{{ post.permalink }}">{{ post.title }}</a>
-      <p>{{ post.content }}</p>
+      {% if post.categories contains 'Notes' %}
+        <div class="content-div">{{ post.content }}</div>
+      {% else %}
+        <p>{{ post.excerpt }}</p>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
