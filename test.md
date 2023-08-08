@@ -40,15 +40,24 @@ layout: default
 
 <script>
   window.addEventListener("DOMContentLoaded", function() {
-  var queryString = window.location.search;
-  var urlParams = new URLSearchParams(queryString);
-  var searchQuery = urlParams.get("search");
+  var searchInput = document.getElementById("search-input");
+  var resultBox = document.querySelector(".resultBox");
+  var postList = document.querySelectorAll(".post-item");
 
-  if (searchQuery) {
-    var searchInput = document.getElementById("search-input");
-    searchInput.value = searchQuery;
-    searchInput.dispatchEvent(new Event("input"));
-  }
+  searchInput.addEventListener("input", function() {
+    var searchQuery = searchInput.value.toLowerCase();
+
+    resultBox.innerHTML = ''; // Clear previous results
+
+    postList.forEach(function(post) {
+      var postTitle = post.querySelector("a").textContent.toLowerCase();
+      var postContent = post.querySelector(".content-div").textContent.toLowerCase();
+
+      if (postTitle.includes(searchQuery) || postContent.includes(searchQuery)) {
+        resultBox.appendChild(post.cloneNode(true));
+      }
+    });
+  });
 });
 </script>
 <script src="/js/suggest.js"></script>
