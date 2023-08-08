@@ -47,7 +47,7 @@ window.addEventListener("DOMContentLoaded", function() {
   }
 
   var searchInput = document.getElementById("search-input");
-  var postLists = document.querySelectorAll("ul");
+  var postLists = document.querySelectorAll("#post-list");
 
   searchInput.addEventListener("input", function() {
     var searchQuery = searchInput.value.toLowerCase();
