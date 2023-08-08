@@ -41,20 +41,19 @@ layout: default
 <script>
   window.addEventListener("DOMContentLoaded", function() {
   var searchInput = document.getElementById("search-input");
-  var resultBox = document.querySelector(".resultBox");
   var postList = document.querySelectorAll(".post-item");
 
   searchInput.addEventListener("input", function() {
     var searchQuery = searchInput.value.toLowerCase();
-
-    resultBox.innerHTML = ''; // Clear previous results
 
     postList.forEach(function(post) {
       var postTitle = post.querySelector("a").textContent.toLowerCase();
       var postContent = post.querySelector(".content-div").textContent.toLowerCase();
 
       if (postTitle.includes(searchQuery) || postContent.includes(searchQuery)) {
-        resultBox.appendChild(post.cloneNode(true));
+        post.style.display = "block"; // Show matching posts
+      } else {
+        post.style.display = "none"; // Hide non-matching posts
       }
     });
   });
