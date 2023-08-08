@@ -58,7 +58,7 @@ window.addEventListener("DOMContentLoaded", function() {
 
       postItems.forEach(function(post) {
         var postTitle = post.querySelector("a").textContent.toLowerCase();
-        var postContent = post.querySelector("p").textContent.toLowerCase();
+        var postContent = post.querySelector("p").textContent.toLowerCase(); // Target <p> tag content
 
         if (postTitle.includes(searchQuery) || postContent.includes(searchQuery)) {
           post.style.display = "block"; // Show matching post
@@ -68,10 +68,10 @@ window.addEventListener("DOMContentLoaded", function() {
         }
       });
 
-      if (anyMatchingPosts) {
-        ul.previousElementSibling.style.display = "block"; // Show date separator
-      } else {
-        ul.previousElementSibling.style.display = "none"; // Hide date separator
+      ul.style.display = anyMatchingPosts ? "block" : "none"; // Show/hide ul
+      var dateSeparator = ul.previousElementSibling;
+      if (dateSeparator.className === "date-separator") {
+        dateSeparator.style.display = anyMatchingPosts ? "block" : "none"; // Show/hide date separator
       }
     });
   });
