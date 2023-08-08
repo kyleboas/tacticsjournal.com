@@ -23,8 +23,8 @@ layout: default
     {% assign current_date = post_date %}
     {% endif %}
     <li class="post-item">
-      <a href="{{ post.permalink }}">{{ post.title }}</a>
       <p>
+      <a href="{{ post.permalink }}">{{ post.title }}</a>
       {% if post.categories contains 'Notes' %}
         {{ post.content }}
       {% else %}
