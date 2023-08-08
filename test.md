@@ -37,9 +37,18 @@ layout: default
 </div>
 
 
-
 <script>
-  window.addEventListener("DOMContentLoaded", function() {
+window.addEventListener("DOMContentLoaded", function() {
+  var queryString = window.location.search;
+  var urlParams = new URLSearchParams(queryString);
+  var searchQuery = urlParams.get("search");
+
+  if (searchQuery) {
+    var searchInput = document.getElementById("search-input");
+    searchInput.value = searchQuery;
+    searchInput.dispatchEvent(new Event("input"));
+  }
+
   var searchInput = document.getElementById("search-input");
   var postList = document.querySelectorAll(".post-item");
 
