@@ -17,7 +17,7 @@ layout: default
     {% if current_date != post_date %}
       {% if current_date != '' %}
       {% endif %}
-      <div class="date-separator">{{ post.date | date: "%B %d, %Y" }}</div>
+      <div class="date-separator"><p>{{ post.date | date: "%B %d, %Y" }}</p></div>
     {% assign current_date = post_date %}
     {% endif %}
     <li class="post-item">
