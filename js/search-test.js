@@ -3,6 +3,7 @@
 
 (function () {
   var searchInput = document.getElementById('search-input');
+  var suggestionList = document.getElementById('suggestion-list');
   var postList = document.getElementById('post-list');
   var noResultsMessage = document.getElementById('no-results-message');
 
@@ -29,7 +30,6 @@
           title: "{{ post.title | xml_escape }}",
           url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
           excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
-          content: "{{ post.content }}",
           tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
           categories: "{{ post.categories | xml_escape }}",
           date: "{{ post.date | date: "%B %d, %Y" }}"
@@ -78,8 +78,6 @@
   }
 
   function renderResults(results, query) {
-    var postItems = postList.querySelectorAll('li.post-item');
-
     postList.innerHTML = '';
 
     var searchQuery = searchInput.value.trim();
@@ -119,17 +117,15 @@
 
         // Check if the post has the category "Notes"
         if (result.categories.includes('Notes')) {
-          // Display the post with the full content, including images
-          var div = document.createElement('div');
+          // Display the post without the title
+          var p = document.createElement('p');
           var a = document.createElement('a');
           a.href = result.url;
           a.innerHTML = result.title;
           a.classList.add('title');
-          div.appendChild(a);
-          var contentDiv = document.createElement('div');
-          contentDiv.innerHTML = result.content;
-          div.appendChild(contentDiv);
-          li.appendChild(div);
+          p.appendChild(a);
+          p.innerHTML += result.excerpt;
+          li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
@@ -181,17 +177,15 @@
 
         // Check if the post has the category "Notes"
         if (result.categories.includes('Notes')) {
-          // Display the post with the full content, including images
-          var div = document.createElement('div');
+          // Display the post without the title
+          var p = document.createElement('p');
           var a = document.createElement('a');
           a.href = result.url;
           a.innerHTML = result.title;
           a.classList.add('title');
-          div.appendChild(a);
-          var contentDiv = document.createElement('div');
-          contentDiv.innerHTML = result.content;
-          div.appendChild(contentDiv);
-          li.appendChild(div);
+          p.appendChild(a);
+          p.innerHTML += result.excerpt;
+          li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
