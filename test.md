@@ -21,14 +21,12 @@ layout: default
     {% assign current_date = post_date %}
     {% endif %}
     <li class="post-item">
-      <p>
-      <a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a>
       {% if post.categories contains 'Notes' %}
-        {{ post.content }}
+       <p><a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a> {{ post.content }}</p>
       {% else %}
-        {{ post.excerpt }}
+       <a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a>
+        <p>{{ post.excerpt }}</p>
       {% endif %}
-        </p>
     </li>
   {% endfor %}
   {% if current_date != '' %}
