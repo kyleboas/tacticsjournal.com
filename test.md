@@ -16,7 +16,6 @@ layout: default
     {% capture post_date %}{{ post.date | date: "%B %d, %Y" }}{% endcapture %}
     {% if current_date != post_date %}
       {% if current_date != '' %}
-        </ul>
       {% endif %}
       <div class="date-separator">{{ post.date | date: "%B %d, %Y" }}</div>
     {% assign current_date = post_date %}
