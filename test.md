@@ -24,13 +24,13 @@ layout: default
     {% endif %}
     <li class="post-item">
       <a href="{{ post.permalink }}">{{ post.title }}</a>
-      <div class="content-div">
+      <p>
       {% if post.categories contains 'Notes' %}
         {{ post.content }}
       {% else %}
         {{ post.excerpt }}
       {% endif %}
-        </div>
+        </p>
     </li>
   {% endfor %}
   {% if current_date != '' %}
