@@ -35,43 +35,21 @@ layout: default
 
 
 <script>
-window.addEventListener("DOMContentLoaded", function() {
-  var queryString = window.location.search;
-  var urlParams = new URLSearchParams(queryString);
-  var searchQuery = urlParams.get("search");
-
-  if (searchQuery) {
-    var searchInput = document.getElementById("search-input");
-    searchInput.value = searchQuery;
-    searchInput.dispatchEvent(new Event("input"));
-  }
-
-  var searchInput = document.getElementById("search-input");
-  var postLists = document.querySelectorAll("#post-list ul");
+document.addEventListener("DOMContentLoaded", function() {
+  const searchInput = document.getElementById("search-input");
+  const postItems = document.querySelectorAll(".post-item");
 
   searchInput.addEventListener("input", function() {
-    var searchQuery = searchInput.value.toLowerCase();
+    const searchTerm = searchInput.value.toLowerCase();
 
-    postLists.forEach(function(ul) {
-      var postItems = ul.querySelectorAll(".post-item");
-      var anyMatchingPosts = false;
+    postItems.forEach(function(postItem) {
+      const postTitle = postItem.querySelector(".title").innerText.toLowerCase();
+      const postContent = postItem.querySelector("p").innerText.toLowerCase();
 
-      postItems.forEach(function(post) {
-        var postTitle = post.querySelector("a").textContent.toLowerCase();
-        var postContent = post.querySelector("p").textContent.toLowerCase(); // Target <p> tag content
-
-        if (postTitle.includes(searchQuery) || postContent.includes(searchQuery)) {
-          post.style.display = "block"; // Show matching post
-          anyMatchingPosts = true;
-        } else {
-          post.style.display = "none"; // Hide non-matching posts
-        }
-      });
-
-      ul.style.display = anyMatchingPosts ? "block" : "none"; // Show/hide ul
-      var dateSeparator = ul.previousElementSibling;
-      if (dateSeparator.className === "date-separator") {
-        dateSeparator.style.display = anyMatchingPosts ? "block" : "none"; // Show/hide date separator
+      if (postTitle.includes(searchTerm) || postContent.includes(searchTerm)) {
+        postItem.style.display = "block"; // Show the post
+      } else {
+        postItem.style.display = "none"; // Hide the post
       }
     });
   });
