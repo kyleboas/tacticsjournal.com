@@ -39,56 +39,46 @@ document.addEventListener("DOMContentLoaded", function() {
   const searchInput = document.getElementById("search-input");
   const postItems = document.querySelectorAll(".post-item");
   const dateSeparators = document.querySelectorAll(".date-separator");
-  let originalPostItemsDisplay = Array.from(postItems).map(item => item.style.display === "none" ? "none" : "block");
+  let originalPostItemsDisplay = Array.from(postItems).map(item => item.style.display);
   let originalDateSeparatorsDisplay = Array.from(dateSeparators).map(item => item.style.display);
+  let displayedDates = {}; // Object to store displayed post items for each date
 
   searchInput.addEventListener("input", function() {
     const searchTerm = searchInput.value.toLowerCase();
 
-    // Reset post items and date separators to their original display states
-    postItems.forEach((postItem, index) => {
-      postItem.style.display = originalPostItemsDisplay[index];
-    });
-
-    dateSeparators.forEach((separator, index) => {
-      separator.style.display = originalDateSeparatorsDisplay[index];
-    });
-
-    if (searchTerm === "") {
-      return; // No need to proceed with filtering if search term is empty
-    }
-
-    let displayedDates = []; // Array to store displayed dates
-
     postItems.forEach(function(postItem, index) {
-  const postTitle = postItem.querySelector("a").innerText.toLowerCase();
-  const postContent = postItem.querySelector("p").innerText.toLowerCase();
-  const postTags = postItem.getAttribute("data-tags").toLowerCase();
-  const postCategories = postItem.getAttribute("data-categories").toLowerCase();
+      const postTitle = postItem.querySelector("a").innerText.toLowerCase();
+      const postContent = postItem.querySelector("p").innerText.toLowerCase();
+      const postTags = postItem.getAttribute("data-tags").toLowerCase();
+      const postCategories = postItem.getAttribute("data-categories").toLowerCase();
 
-  if (
-    postTitle.includes(searchTerm) ||
-    postContent.includes(searchTerm) ||
-    postTags.includes(searchTerm) ||
-    postCategories.includes(searchTerm)
-  ) {
-    const postDate = postItem.querySelector(".date-separator p").innerText;
-    if (!displayedDates.includes(postDate)) {
-      displayedDates.push(postDate);
-    }
-    postItem.style.display = originalPostItemsDisplay[index]; // Show the post
-  } else {
-    postItem.style.display = "none"; // Hide the post
-  }
-});
+      if (
+        postTitle.includes(searchTerm) ||
+        postContent.includes(searchTerm) ||
+        postTags.includes(searchTerm) ||
+        postCategories.includes(searchTerm)
+      ) {
+        const postDate = postItem.querySelector(".date-separator p").innerText;
 
-    // Hide date separators for dates with no displayed posts
+        if (!displayedDates[postDate]) {
+          displayedDates[postDate] = [];
+        }
+
+        displayedDates[postDate].push(postItem);
+        postItem.style.display = originalPostItemsDisplay[index]; // Show the post
+      } else {
+        postItem.style.display = "none"; // Hide the post
+      }
+    });
+
     dateSeparators.forEach(function(separator) {
       const separatorDate = separator.querySelector("p").innerText;
-      if (!displayedDates.includes(separatorDate)) {
-        separator.style.display = "none";
-      } else {
+      const postsForDate = displayedDates[separatorDate];
+
+      if (postsForDate && postsForDate.length > 0) {
         separator.style.display = "block";
+      } else {
+        separator.style.display = "none";
       }
     });
   });
