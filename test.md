@@ -57,7 +57,9 @@ document.addEventListener("DOMContentLoaded", function() {
         postTitle.includes(searchTerm) ||
         postContent.includes(searchTerm) ||
         postTags.includes(searchTerm) ||
-        postCategories.includes(searchTerm)
+        postCategories.includes(searchTerm) ||
+        postTitle.includes(searchTerm) ||
+        postContent.includes(searchTerm)
       ) {
         if (!displayedDates[postDate]) {
           displayedDates[postDate] = [];
