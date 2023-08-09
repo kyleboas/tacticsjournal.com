@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const searchInput = document.getElementById("search-input");
   const postItems = document.querySelectorAll(".post-item");
   const dateSeparators = document.querySelectorAll(".date-separator");
-  let originalPostItemsDisplay = Array.from(postItems).map(item => item.style.display);
+  let originalPostItemsDisplay = Array.from(postItems).map(item => item.style.display === "none" ? "none" : "block");
   let originalDateSeparatorsDisplay = Array.from(dateSeparators).map(item => item.style.display);
 
   searchInput.addEventListener("input", function() {
@@ -60,26 +60,27 @@ document.addEventListener("DOMContentLoaded", function() {
 
     let displayedDates = []; // Array to store displayed dates
 
-    postItems.forEach(function(postItem) {
-      const postTitle = postItem.querySelector("a").innerText.toLowerCase();
-      const postContent = postItem.querySelector("p").innerText.toLowerCase();
-      const postTags = postItem.getAttribute("data-tags").toLowerCase();
-      const postCategories = postItem.getAttribute("data-categories").toLowerCase();
+    postItems.forEach(function(postItem, index) {
+  const postTitle = postItem.querySelector("a").innerText.toLowerCase();
+  const postContent = postItem.querySelector("p").innerText.toLowerCase();
+  const postTags = postItem.getAttribute("data-tags").toLowerCase();
+  const postCategories = postItem.getAttribute("data-categories").toLowerCase();
 
-      if (
-        postTitle.includes(searchTerm) ||
-        postContent.includes(searchTerm) ||
-        postTags.includes(searchTerm) ||
-        postCategories.includes(searchTerm)
-      ) {
-        const postDate = postItem.querySelector(".date-separator p").innerText;
-        if (!displayedDates.includes(postDate)) {
-          displayedDates.push(postDate);
-        }
-      } else {
-        postItem.style.display = "none"; // Hide the post
-      }
-    });
+  if (
+    postTitle.includes(searchTerm) ||
+    postContent.includes(searchTerm) ||
+    postTags.includes(searchTerm) ||
+    postCategories.includes(searchTerm)
+  ) {
+    const postDate = postItem.querySelector(".date-separator p").innerText;
+    if (!displayedDates.includes(postDate)) {
+      displayedDates.push(postDate);
+    }
+    postItem.style.display = originalPostItemsDisplay[index]; // Show the post
+  } else {
+    postItem.style.display = "none"; // Hide the post
+  }
+});
 
     // Hide date separators for dates with no displayed posts
     dateSeparators.forEach(function(separator) {
