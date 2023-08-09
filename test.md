@@ -43,35 +43,26 @@ const dateSeparators = document.querySelectorAll('.date-separator');
 searchInput.addEventListener('input', function () {
   const searchQuery = searchInput.value.toLowerCase();
 
-  const filteredPosts = Array.from(postItems).filter(postItem => {
-    const title = postItem.querySelector('a').textContent.toLowerCase();
+  postItems.forEach(postItem => {
+    const title = postItem.querySelector('.title').textContent.toLowerCase();
     const content = postItem.querySelector('p').textContent.toLowerCase();
     const tags = postItem.getAttribute('data-tags').toLowerCase();
     const categories = postItem.getAttribute('data-categories').toLowerCase();
 
-    return (
+    const isVisible = (
       title.includes(searchQuery) ||
       content.includes(searchQuery) ||
       tags.includes(searchQuery) ||
       categories.includes(searchQuery)
     );
+
+    postItem.style.display = isVisible ? 'block' : 'none';
   });
 
-  // Clear the result box and hide all date separators
-  resultBox.innerHTML = '';
-  dateSeparators.forEach(separator => separator.style.display = 'none');
-
-  // Display the filtered posts and show date separators as needed
-  filteredPosts.forEach(postItem => {
-    resultBox.appendChild(postItem.cloneNode(true));
-    const postDate = postItem.querySelector('p').textContent.trim();
-
-    dateSeparators.forEach(separator => {
-      const separatorDate = separator.querySelector('p').textContent.trim();
-      if (separatorDate === postDate) {
-        separator.style.display = 'block';
-      }
-    });
+  dateSeparators.forEach(separator => {
+    const associatedPosts = separator.nextElementSibling.querySelectorAll('.post-item');
+    const visibleAssociatedPosts = Array.from(associatedPosts).filter(postItem => postItem.style.display !== 'none');
+    separator.style.display = visibleAssociatedPosts.length > 0 ? 'block' : 'none';
   });
 });
 </script>
