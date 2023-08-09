@@ -46,6 +46,19 @@ document.addEventListener("DOMContentLoaded", function() {
   searchInput.addEventListener("input", function() {
     const searchTerm = searchInput.value.toLowerCase();
 
+    if (searchTerm === "") {
+      postItems.forEach(function(postItem, index) {
+        postItem.style.display = originalPostItemsDisplay[index]; // Reset display for all post items
+      });
+
+      dateSeparators.forEach(function(separator, index) {
+        separator.style.display = originalDateSeparatorsDisplay[index]; // Reset display for all date separators
+      });
+
+      displayedDates = {}; // Reset displayedDates object
+      return; // No need to proceed with filtering if search term is empty
+    }
+
     postItems.forEach(function(postItem, index) {
       const postTitle = postItem.querySelector("a").innerText.toLowerCase();
       const postContent = postItem.querySelector("p").innerText.toLowerCase();
