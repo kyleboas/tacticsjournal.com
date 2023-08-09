@@ -38,9 +38,25 @@ layout: default
 document.addEventListener("DOMContentLoaded", function() {
   const searchInput = document.getElementById("search-input");
   const postItems = document.querySelectorAll(".post-item");
+  const dateSeparators = document.querySelectorAll(".date-separator");
+  let originalPostItemsDisplay = Array.from(postItems).map(item => item.style.display);
+  let originalDateSeparatorsDisplay = Array.from(dateSeparators).map(item => item.style.display);
 
   searchInput.addEventListener("input", function() {
     const searchTerm = searchInput.value.toLowerCase();
+
+    // Reset post items and date separators to their original display states
+    postItems.forEach((postItem, index) => {
+      postItem.style.display = originalPostItemsDisplay[index];
+    });
+
+    dateSeparators.forEach((separator, index) => {
+      separator.style.display = originalDateSeparatorsDisplay[index];
+    });
+
+    if (searchTerm === "") {
+      return; // No need to proceed with filtering if search term is empty
+    }
 
     let displayedDates = []; // Array to store displayed dates
 
@@ -56,8 +72,6 @@ document.addEventListener("DOMContentLoaded", function() {
         postTags.includes(searchTerm) ||
         postCategories.includes(searchTerm)
       ) {
-        postItem.style.display = "block"; // Show the post
-
         const postDate = postItem.querySelector(".date-separator p").innerText;
         if (!displayedDates.includes(postDate)) {
           displayedDates.push(postDate);
@@ -68,7 +82,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     // Hide date separators for dates with no displayed posts
-    const dateSeparators = document.querySelectorAll(".date-separator");
     dateSeparators.forEach(function(separator) {
       const separatorDate = separator.querySelector("p").innerText;
       if (!displayedDates.includes(separatorDate)) {
