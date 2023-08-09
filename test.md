@@ -15,12 +15,11 @@ layout: default
   {% for post in site.posts %}
     {% capture post_date %}{{ post.date | date: "%B %d, %Y" }}{% endcapture %}
     {% if current_date != post_date %}
-  {% assign posts_for_current_date = site.posts | where: "date", post.date %}
-  {% if posts_for_current_date.size > 0 and posts_for_current_date | size > postItems | size %}
-    <div class="date-separator"><p>{{ post.date | date: "%B %d, %Y" }}</p></div>
-  {% endif %}
-{% assign current_date = post_date %}
-{% endif %}
+      {% if current_date != '' %}
+      {% endif %}
+      <div class="date-separator"><p>{{ post.date | date: "%B %d, %Y" }}</p></div>
+    {% assign current_date = post_date %}
+    {% endif %}
     <li class="post-item" data-tags="{{ post.tags | join: ' ' }}" data-categories="{{ post.categories | join: ' ' }}">
       {% if post.categories contains 'Notes' %}
        <p><a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a> {{ post.content | remove_first: "<p>" }}
@@ -43,6 +42,8 @@ document.addEventListener("DOMContentLoaded", function() {
   searchInput.addEventListener("input", function() {
     const searchTerm = searchInput.value.toLowerCase();
 
+    let displayedDates = []; // Array to store displayed dates
+
     postItems.forEach(function(postItem) {
       const postTitle = postItem.querySelector("a").innerText.toLowerCase();
       const postContent = postItem.querySelector("p").innerText.toLowerCase();
@@ -56,8 +57,24 @@ document.addEventListener("DOMContentLoaded", function() {
         postCategories.includes(searchTerm)
       ) {
         postItem.style.display = "block"; // Show the post
+
+        const postDate = postItem.querySelector(".date-separator p").innerText;
+        if (!displayedDates.includes(postDate)) {
+          displayedDates.push(postDate);
+        }
       } else {
         postItem.style.display = "none"; // Hide the post
+      }
+    });
+
+    // Hide date separators for dates with no displayed posts
+    const dateSeparators = document.querySelectorAll(".date-separator");
+    dateSeparators.forEach(function(separator) {
+      const separatorDate = separator.querySelector("p").innerText;
+      if (!displayedDates.includes(separatorDate)) {
+        separator.style.display = "none";
+      } else {
+        separator.style.display = "block";
       }
     });
   });
