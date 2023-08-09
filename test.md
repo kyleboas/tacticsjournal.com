@@ -44,7 +44,7 @@ searchInput.addEventListener('input', function () {
   const searchQuery = searchInput.value.toLowerCase();
 
   const filteredPosts = Array.from(postItems).filter(postItem => {
-    const title = postItem.querySelector('.title').textContent.toLowerCase();
+    const title = postItem.querySelector('a').textContent.toLowerCase();
     const content = postItem.querySelector('p').textContent.toLowerCase();
     const tags = postItem.getAttribute('data-tags').toLowerCase();
     const categories = postItem.getAttribute('data-categories').toLowerCase();
