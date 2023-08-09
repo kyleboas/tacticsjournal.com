@@ -22,7 +22,7 @@ layout: default
     {% endif %}
     <li class="post-item">
       {% if post.categories contains 'Notes' %}
-       <p><a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a> {{ post.content }}</p>
+       <p><a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a> {{ post.content | remove_first: "<p>" }}</p>
       {% else %}
        <a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a>
         <p>{{ post.excerpt }}</p>
