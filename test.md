@@ -44,9 +44,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
     postItems.forEach(function(postItem) {
       const postTitle = postItem.querySelector(".title").innerText.toLowerCase();
-      const postContent = postItem.querySelector("p").innerText.toLowerCase();
-
-      if (postTitle.includes(searchTerm) || postContent.includes(searchTerm)) {
+      const postTags = postItem.getAttribute("data-tags").toLowerCase();
+      const postCategories = postItem.getAttribute("data-categories").toLowerCase();
+      
+      if (postTitle.includes(searchTerm) || postTags.includes(searchTerm) || postCategories.includes(searchTerm)) {
         postItem.style.display = "block"; // Show the post
       } else {
         postItem.style.display = "none"; // Hide the post
