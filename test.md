@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const searchTerm = searchInput.value.toLowerCase();
 
     postItems.forEach(function(postItem) {
-      const postTitle = postItem.querySelector(".title").innerText.toLowerCase();
+      const postTitle = postItem.querySelector("a").innerText.toLowerCase();
       const postContent = postItem.querySelector("p").innerText.toLowerCase();
       const postTags = postItem.getAttribute("data-tags").toLowerCase();
       const postCategories = postItem.getAttribute("data-categories").toLowerCase();
