@@ -46,24 +46,12 @@ document.addEventListener("DOMContentLoaded", function() {
   searchInput.addEventListener("input", function() {
     const searchTerm = searchInput.value.toLowerCase();
 
-    if (searchTerm === "") {
-      postItems.forEach(function(postItem, index) {
-        postItem.style.display = originalPostItemsDisplay[index]; // Reset display for all post items
-      });
-
-      dateSeparators.forEach(function(separator, index) {
-        separator.style.display = originalDateSeparatorsDisplay[index]; // Reset display for all date separators
-      });
-
-      displayedDates = {}; // Reset displayedDates object
-      return; // No need to proceed with filtering if search term is empty
-    }
-
     postItems.forEach(function(postItem, index) {
       const postTitle = postItem.querySelector("a").innerText.toLowerCase();
       const postContent = postItem.querySelector("p").innerText.toLowerCase();
       const postTags = postItem.getAttribute("data-tags").toLowerCase();
       const postCategories = postItem.getAttribute("data-categories").toLowerCase();
+      const postDate = postItem.querySelector(".date-separator p").innerText;
 
       if (
         postTitle.includes(searchTerm) ||
@@ -71,8 +59,6 @@ document.addEventListener("DOMContentLoaded", function() {
         postTags.includes(searchTerm) ||
         postCategories.includes(searchTerm)
       ) {
-        const postDate = postItem.querySelector(".date-separator p").innerText;
-
         if (!displayedDates[postDate]) {
           displayedDates[postDate] = [];
         }
@@ -81,6 +67,9 @@ document.addEventListener("DOMContentLoaded", function() {
         postItem.style.display = originalPostItemsDisplay[index]; // Show the post
       } else {
         postItem.style.display = "none"; // Hide the post
+        if (displayedDates[postDate]) {
+          displayedDates[postDate] = displayedDates[postDate].filter(item => item !== postItem);
+        }
       }
     });
 
