@@ -20,7 +20,7 @@ layout: default
       <div class="date-separator"><p>{{ post.date | date: "%B %d, %Y" }}</p></div>
     {% assign current_date = post_date %}
     {% endif %}
-    <li class="post-item">
+    <li class="post-item" data-tags="{{ post.tags | join: ' ' }}" data-categories="{{ post.categories | join: ' ' }}">
       {% if post.categories contains 'Notes' %}
        <p><a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a> {{ post.content | remove_first: "<p>" }}
       {% else %}
@@ -44,10 +44,16 @@ document.addEventListener("DOMContentLoaded", function() {
 
     postItems.forEach(function(postItem) {
       const postTitle = postItem.querySelector(".title").innerText.toLowerCase();
+      const postContent = postItem.querySelector("p").innerText.toLowerCase();
       const postTags = postItem.getAttribute("data-tags").toLowerCase();
       const postCategories = postItem.getAttribute("data-categories").toLowerCase();
-      
-      if (postTitle.includes(searchTerm) || postTags.includes(searchTerm) || postCategories.includes(searchTerm)) {
+
+      if (
+        postTitle.includes(searchTerm) ||
+        postContent.includes(searchTerm) ||
+        postTags.includes(searchTerm) ||
+        postCategories.includes(searchTerm)
+      ) {
         postItem.style.display = "block"; // Show the post
       } else {
         postItem.style.display = "none"; // Hide the post
