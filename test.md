@@ -35,54 +35,41 @@ layout: default
 
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  const searchInput = document.getElementById("search-input");
-  const postItems = document.querySelectorAll(".post-item");
-  const dateSeparators = document.querySelectorAll(".date-separator");
-  let originalPostItemsDisplay = Array.from(postItems).map(item => item.style.display);
-  let originalDateSeparatorsDisplay = Array.from(dateSeparators).map(item => item.style.display);
-  let displayedDates = {}; // Object to store displayed post items for each date
+const searchInput = document.getElementById('search-input');
+const resultBox = document.querySelector('.resultBox');
+const postItems = document.querySelectorAll('.post-item');
+const dateSeparators = document.querySelectorAll('.date-separator');
 
-  searchInput.addEventListener("input", function() {
-    const searchTerm = searchInput.value.toLowerCase();
+searchInput.addEventListener('input', function () {
+  const searchQuery = searchInput.value.toLowerCase();
 
-    postItems.forEach(function(postItem, index) {
-      const postTitle = postItem.querySelector("a").innerText.toLowerCase();
-      const postContent = postItem.querySelector("p").innerText.toLowerCase();
-      const postTags = postItem.getAttribute("data-tags").toLowerCase();
-      const postCategories = postItem.getAttribute("data-categories").toLowerCase();
-      const postDate = postItem.querySelector(".date-separator p").innerText;
+  const filteredPosts = Array.from(postItems).filter(postItem => {
+    const title = postItem.querySelector('.title').textContent.toLowerCase();
+    const content = postItem.querySelector('p').textContent.toLowerCase();
+    const tags = postItem.getAttribute('data-tags').toLowerCase();
+    const categories = postItem.getAttribute('data-categories').toLowerCase();
 
-      if (
-        postTitle.includes(searchTerm) ||
-        postContent.includes(searchTerm) ||
-        postTags.includes(searchTerm) ||
-        postCategories.includes(searchTerm) ||
-        postTitle.includes(searchTerm) ||
-        postContent.includes(searchTerm)
-      ) {
-        if (!displayedDates[postDate]) {
-          displayedDates[postDate] = [];
-        }
+    return (
+      title.includes(searchQuery) ||
+      content.includes(searchQuery) ||
+      tags.includes(searchQuery) ||
+      categories.includes(searchQuery)
+    );
+  });
 
-        displayedDates[postDate].push(postItem);
-        postItem.style.display = originalPostItemsDisplay[index]; // Show the post
-      } else {
-        postItem.style.display = "none"; // Hide the post
-        if (displayedDates[postDate]) {
-          displayedDates[postDate] = displayedDates[postDate].filter(item => item !== postItem);
-        }
-      }
-    });
+  // Clear the result box and hide all date separators
+  resultBox.innerHTML = '';
+  dateSeparators.forEach(separator => separator.style.display = 'none');
 
-    dateSeparators.forEach(function(separator) {
-      const separatorDate = separator.querySelector("p").innerText;
-      const postsForDate = displayedDates[separatorDate];
+  // Display the filtered posts and show date separators as needed
+  filteredPosts.forEach(postItem => {
+    resultBox.appendChild(postItem.cloneNode(true));
+    const postDate = postItem.querySelector('p').textContent.trim();
 
-      if (postsForDate && postsForDate.length > 0) {
-        separator.style.display = "block";
-      } else {
-        separator.style.display = "none";
+    dateSeparators.forEach(separator => {
+      const separatorDate = separator.querySelector('p').textContent.trim();
+      if (separatorDate === postDate) {
+        separator.style.display = 'block';
       }
     });
   });
