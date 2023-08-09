@@ -15,11 +15,12 @@ layout: default
   {% for post in site.posts %}
     {% capture post_date %}{{ post.date | date: "%B %d, %Y" }}{% endcapture %}
     {% if current_date != post_date %}
-      {% if current_date != '' %}
-      {% endif %}
-      <div class="date-separator"><p>{{ post.date | date: "%B %d, %Y" }}</p></div>
-    {% assign current_date = post_date %}
-    {% endif %}
+  {% assign posts_for_current_date = site.posts | where: "date", post.date %}
+  {% if posts_for_current_date.size > 0 and posts_for_current_date | size > postItems | size %}
+    <div class="date-separator"><p>{{ post.date | date: "%B %d, %Y" }}</p></div>
+  {% endif %}
+{% assign current_date = post_date %}
+{% endif %}
     <li class="post-item" data-tags="{{ post.tags | join: ' ' }}" data-categories="{{ post.categories | join: ' ' }}">
       {% if post.categories contains 'Notes' %}
        <p><a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a> {{ post.content | remove_first: "<p>" }}
