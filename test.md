@@ -35,44 +35,34 @@ layout: default
 
 
 <script>
-document.addEventListener('DOMContentLoaded', function () {
-  const searchInput = document.getElementById('search-input');
-  const resultBox = document.querySelector('.resultBox');
-  const postItems = document.querySelectorAll('.post-item');
-  const dateSeparators = document.querySelectorAll('.date-separator');
+const searchInput = document.getElementById('search-input');
+const resultBox = document.querySelector('.resultBox');
+const postItems = document.querySelectorAll('.post-item');
+const dateSeparators = document.querySelectorAll('.date-separator');
 
-  searchInput.addEventListener('input', function () {
-    const searchQuery = searchInput.value.toLowerCase();
+searchInput.addEventListener('input', function () {
+  const searchQuery = searchInput.value.toLowerCase();
 
-    postItems.forEach(postItem => {
-      const titleElement = postItem.querySelector('a');
-      const contentElement = postItem.querySelector('p');
-      if (!titleElement || !contentElement) {
-        return;
-      }
+  postItems.forEach(postItem => {
+    const title = postItem.querySelector('a').textContent.toLowerCase();
+    const content = postItem.querySelector('p').textContent.toLowerCase();
+    const tags = postItem.getAttribute('data-tags').toLowerCase();
+    const categories = postItem.getAttribute('data-categories').toLowerCase();
 
-      const titleText = titleElement.textContent.toLowerCase();
-      const contentText = contentElement.textContent.toLowerCase();
+    const isVisible = (
+      title.includes(searchQuery) ||
+      content.includes(searchQuery) ||
+      tags.includes(searchQuery) ||
+      categories.includes(searchQuery)
+    );
 
-      const isVisible = (
-        titleText.includes(searchQuery) ||
-        contentText.includes(searchQuery)
-      );
+    postItem.style.display = isVisible ? 'block' : 'none';
+  });
 
-      const titleHighlighted = isVisible ? highlightMatch(titleText, searchQuery) : titleText;
-      const contentHighlighted = isVisible ? highlightMatch(contentText, searchQuery) : contentText;
-
-      titleElement.innerHTML = titleHighlighted;
-      contentElement.innerHTML = contentHighlighted;
-
-      postItem.style.display = isVisible ? 'block' : 'none';
-    });
-
-    dateSeparators.forEach(separator => {
-      const associatedPosts = separator.nextElementSibling.querySelectorAll('.post-item');
-      const visibleAssociatedPosts = Array.from(associatedPosts).filter(postItem => postItem.style.display !== 'none');
-      separator.style.display = visibleAssociatedPosts.length > 0 ? 'block' : 'none';
-    });
+  dateSeparators.forEach(separator => {
+    const associatedPosts = separator.nextElementSibling.querySelectorAll('.post-item');
+    const visibleAssociatedPosts = Array.from(associatedPosts).filter(postItem => postItem.style.display !== 'none');
+    separator.style.display = visibleAssociatedPosts.length > 0 ? 'block' : 'none';
   });
 });
 </script>
