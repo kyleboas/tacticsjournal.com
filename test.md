@@ -59,12 +59,6 @@ searchInput.addEventListener('input', function () {
     const titleText = title.textContent.toLowerCase();
     const contentText = content.textContent.toLowerCase();
 
-    const titleHighlighted = highlightMatch(titleText, searchQuery);
-    const contentHighlighted = highlightMatch(contentText, searchQuery);
-
-    title.innerHTML = searchQuery ? titleHighlighted : titleText;
-    content.innerHTML = searchQuery ? contentHighlighted : contentText;
-
     const isVisible = (
       titleText.includes(searchQuery) ||
       contentText.includes(searchQuery) ||
@@ -73,6 +67,17 @@ searchInput.addEventListener('input', function () {
     );
 
     postItem.style.display = isVisible ? 'block' : 'none';
+
+    if (searchQuery) {
+      const titleHighlighted = highlightMatch(titleText, searchQuery);
+      const contentHighlighted = highlightMatch(contentText, searchQuery);
+
+      title.innerHTML = titleHighlighted;
+      content.innerHTML = contentHighlighted;
+    } else {
+      title.innerHTML = titleText;
+      content.innerHTML = contentText;
+    }
   });
 
   dateSeparators.forEach(separator => {
