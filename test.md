@@ -47,26 +47,25 @@ const dateSeparators = document.querySelectorAll('.date-separator');
 
 function filterAndHighlight(searchQuery) {
   postItems.forEach(postItem => {
-    const title = postItem.querySelector('a');
-    const content = postItem.querySelector('p');
-    const tags = postItem.getAttribute('data-tags').toLowerCase();
-    const categories = postItem.getAttribute('data-categories').toLowerCase();
-
-    const titleText = title.textContent.toLowerCase();
-    const contentText = content.textContent.toLowerCase();
+    const titleElement = postItem.querySelector('a');
+    const contentElement = postItem.querySelector('p');
+    if (!titleElement || !contentElement) {
+      return;
+    }
+    
+    const titleText = titleElement.textContent.toLowerCase();
+    const contentText = contentElement.textContent.toLowerCase();
 
     const isVisible = (
       titleText.includes(searchQuery) ||
-      contentText.includes(searchQuery) ||
-      tags.includes(searchQuery) ||
-      categories.includes(searchQuery)
+      contentText.includes(searchQuery)
     );
 
     const titleHighlighted = isVisible ? highlightMatch(titleText, searchQuery) : titleText;
     const contentHighlighted = isVisible ? highlightMatch(contentText, searchQuery) : contentText;
 
-    title.innerHTML = titleHighlighted;
-    content.innerHTML = contentHighlighted;
+    titleElement.innerHTML = titleHighlighted;
+    contentElement.innerHTML = contentHighlighted;
 
     postItem.style.display = isVisible ? 'block' : 'none';
   });
