@@ -36,20 +36,16 @@ layout: default
 
 <script>
 function highlightMatch(text, query) {
-  var regex = new RegExp(query, 'gi');
+  var regex = new RegExp('(' + query + ')', 'gi');
   return text.replace(regex, function (match) {
     return '<span class="highlight">' + match + '</span>';
   });
 }
 
-const searchInput = document.getElementById('search-input');
-const resultBox = document.querySelector('.resultBox');
 const postItems = document.querySelectorAll('.post-item');
 const dateSeparators = document.querySelectorAll('.date-separator');
 
-searchInput.addEventListener('input', function () {
-  const searchQuery = searchInput.value.toLowerCase();
-
+function filterAndHighlight(searchQuery) {
   postItems.forEach(postItem => {
     const title = postItem.querySelector('a');
     const content = postItem.querySelector('p');
@@ -66,18 +62,13 @@ searchInput.addEventListener('input', function () {
       categories.includes(searchQuery)
     );
 
+    const titleHighlighted = isVisible ? highlightMatch(titleText, searchQuery) : titleText;
+    const contentHighlighted = isVisible ? highlightMatch(contentText, searchQuery) : contentText;
+
+    title.innerHTML = titleHighlighted;
+    content.innerHTML = contentHighlighted;
+
     postItem.style.display = isVisible ? 'block' : 'none';
-
-    if (searchQuery) {
-      const titleHighlighted = highlightMatch(titleText, searchQuery);
-      const contentHighlighted = highlightMatch(contentText, searchQuery);
-
-      title.innerHTML = titleHighlighted;
-      content.innerHTML = contentHighlighted;
-    } else {
-      title.innerHTML = titleText;
-      content.innerHTML = contentText;
-    }
   });
 
   dateSeparators.forEach(separator => {
@@ -85,6 +76,12 @@ searchInput.addEventListener('input', function () {
     const visibleAssociatedPosts = Array.from(associatedPosts).filter(postItem => postItem.style.display !== 'none');
     separator.style.display = visibleAssociatedPosts.length > 0 ? 'block' : 'none';
   });
+}
+
+const searchInput = document.getElementById('search-input');
+searchInput.addEventListener('input', function () {
+  const searchQuery = searchInput.value.toLowerCase();
+  filterAndHighlight(searchQuery);
 });
 </script>
 <script src="/js/suggest.js"></script>
