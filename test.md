@@ -77,7 +77,7 @@ function filterAndHighlight(searchQuery) {
   });
 }
 
-const searchInput = document.getElementById('search-input');
+// Use existing searchInput without re-declaring it
 searchInput.addEventListener('input', function () {
   const searchQuery = searchInput.value.toLowerCase();
   filterAndHighlight(searchQuery);
