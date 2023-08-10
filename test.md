@@ -35,46 +35,58 @@ layout: default
 
 
 <script>
-const searchInput = document.getElementById('search-input');
-const resultBox = document.querySelector('.resultBox');
-const postItems = document.querySelectorAll('.post-item');
-const dateSeparators = document.querySelectorAll('.date-separator');
+(function () {
+    var searchInput = document.getElementById('search-input');
+    var postList = document.getElementById('post-list');
+    var allPostItems = postList.querySelectorAll('.post-item');
 
-searchInput.addEventListener('input', function () {
-  const searchQuery = searchInput.value.toLowerCase();
+    function filterPosts(query) {
+      var trimmedQuery = query.trim().toLowerCase();
 
-  // Track visible date separators
-  const visibleDateSeparators = [];
-
-  postItems.forEach(postItem => {
-    const title = postItem.querySelector('a').textContent.toLowerCase();
-    const content = postItem.querySelector('p').textContent.toLowerCase();
-    const tags = postItem.getAttribute('data-tags').toLowerCase();
-    const categories = postItem.getAttribute('data-categories').toLowerCase();
-
-    const isVisible = (
-      title.includes(searchQuery) ||
-      content.includes(searchQuery) ||
-      tags.includes(searchQuery) ||
-      categories.includes(searchQuery)
-    );
-
-    postItem.style.display = isVisible ? 'block' : 'none';
-
-    if (isVisible) {
-      // Keep track of visible date separators
-      const dateSeparator = postItem.closest('.date-separator');
-      if (dateSeparator) {
-        visibleDateSeparators.push(dateSeparator);
+      if (trimmedQuery === '') {
+        // If the query is empty, show all post items
+        allPostItems.forEach(function (item) {
+          item.style.display = 'block';
+        });
+        return;
       }
-    }
-  });
 
-  // Display or hide date separators based on the visibility of associated posts
-  dateSeparators.forEach(separator => {
-    const isAssociatedDateSeparatorVisible = visibleDateSeparators.includes(separator);
-    separator.style.display = isAssociatedDateSeparatorVisible ? 'block' : 'none';
-  });
-});
+      allPostItems.forEach(function (item) {
+        var title = item.querySelector('.title').textContent.toLowerCase();
+        var excerpt = item.querySelector('.excerpt').textContent.toLowerCase();
+        var tags = item.getAttribute('data-tags').toLowerCase();
+        var categories = item.getAttribute('data-categories').toLowerCase();
+        var date = item.getAttribute('data-date').toLowerCase();
+
+        if (
+          title.includes(trimmedQuery) ||
+          excerpt.includes(trimmedQuery) ||
+          tags.includes(trimmedQuery) ||
+          categories.includes(trimmedQuery) ||
+          date.includes(trimmedQuery)
+        ) {
+          item.style.display = 'block';
+          highlightMatch(item.querySelector('.title'), trimmedQuery);
+          highlightMatch(item.querySelector('.excerpt'), trimmedQuery);
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    }
+
+    function highlightMatch(element, query) {
+      var regex = new RegExp(query, 'gi');
+      var content = element.textContent;
+      var highlightedContent = content.replace(regex, function (match) {
+        return '<span class="highlight">' + match + '</span>';
+      });
+      element.innerHTML = highlightedContent;
+    }
+
+    // Event listener for input event on the searchInput element
+    searchInput.addEventListener('input', function () {
+      filterPosts(searchInput.value);
+    });
+  })();
 </script>
 <script src="/js/suggest.js"></script>
