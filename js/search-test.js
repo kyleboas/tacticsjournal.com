@@ -33,7 +33,7 @@
           tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
           categories: "{{ post.categories | xml_escape }}",
           date: "{{ post.date | date: "%B %d, %Y" }}",
-          content: "{{ post.content }}"
+          content: "{{ post.content | escape }}"
         }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ];
