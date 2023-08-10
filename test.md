@@ -22,9 +22,9 @@ layout: default
     {% endif %}
     <li class="post-item" data-tags="{{ post.tags | join: ' ' }}" data-categories="{{ post.categories | join: ' ' }}">
       {% if post.categories contains 'Notes' %}
-       <p><a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a> {{ post.content | remove_first: "<p>" }}
+       <p class="note"><a class="title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a> {{ post.content | remove_first: "<p>" }}
       {% else %}
-       <a href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a>
+       <a class="long-title" href="{{ site.baseurl }}{{ post.url | xml_escape }}">{{ post.title }}</a>
         <p>{{ post.excerpt }}</p>
       {% endif %}
     </li>
@@ -53,13 +53,17 @@ layout: default
 
       allPostItems.forEach(function (item) {
         var title = item.querySelector('.title').textContent.toLowerCase();
+        var long-title = item.querySelector('.long-title').textContent.toLowerCase();
         var excerpt = item.querySelector('.excerpt').textContent.toLowerCase();
+        var note = item.querySelector('.note').textContent.toLowerCase();
         var tags = item.getAttribute('data-tags').toLowerCase();
         var categories = item.getAttribute('data-categories').toLowerCase();
         var date = item.getAttribute('data-date').toLowerCase();
 
         if (
           title.includes(trimmedQuery) ||
+          long-title.includes(trimmedQuery) ||
+          note.includes(trimmedQuery) ||
           excerpt.includes(trimmedQuery) ||
           tags.includes(trimmedQuery) ||
           categories.includes(trimmedQuery) ||
@@ -67,6 +71,10 @@ layout: default
         ) {
           item.style.display = 'block';
           highlightMatch(item.querySelector('.title'), trimmedQuery);
+
+highlightMatch(item.querySelector('.long-title'), trimmedQuery);
+
+highlightMatch(item.querySelector('.note'), trimmedQuery);
           highlightMatch(item.querySelector('.excerpt'), trimmedQuery);
         } else {
           item.style.display = 'none';
@@ -84,7 +92,7 @@ layout: default
     }
 
     // Event listener for input event on the searchInput element
-    searchInput.addEventListener('input', function () {
+    searchInput.addEventListener('search-input', function () {
       filterPosts(searchInput.value);
     });
   })();
