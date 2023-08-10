@@ -35,6 +35,15 @@ layout: default
 
 
 <script>
+// Highlight function
+function highlightMatch(text, query) {
+  var regex = new RegExp(query, 'gi');
+  return text.replace(regex, function (match) {
+    return '<span class="highlight">' + match + '</span>';
+  });
+}
+
+// Input event listener for search
 const searchInput = document.getElementById('search-input');
 const resultBox = document.querySelector('.resultBox');
 const postItems = document.querySelectorAll('.post-item');
@@ -44,14 +53,23 @@ searchInput.addEventListener('input', function () {
   const searchQuery = searchInput.value.toLowerCase();
 
   postItems.forEach(postItem => {
-    const title = postItem.querySelector('a').textContent.toLowerCase();
-    const content = postItem.querySelector('p').textContent.toLowerCase();
+    const title = postItem.querySelector('a');
+    const content = postItem.querySelector('p');
     const tags = postItem.getAttribute('data-tags').toLowerCase();
     const categories = postItem.getAttribute('data-categories').toLowerCase();
 
+    const titleText = title.textContent.toLowerCase();
+    const contentText = content.textContent.toLowerCase();
+
+    const titleHighlighted = highlightMatch(titleText, searchQuery);
+    const contentHighlighted = highlightMatch(contentText, searchQuery);
+
+    title.innerHTML = searchQuery ? titleHighlighted : titleText;
+    content.innerHTML = searchQuery ? contentHighlighted : contentText;
+
     const isVisible = (
-      title.includes(searchQuery) ||
-      content.includes(searchQuery) ||
+      titleText.includes(searchQuery) ||
+      contentText.includes(searchQuery) ||
       tags.includes(searchQuery) ||
       categories.includes(searchQuery)
     );
