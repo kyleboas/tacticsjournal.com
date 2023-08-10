@@ -92,7 +92,7 @@ highlightMatch(item.querySelector('.note'), trimmedQuery);
     }
 
     // Event listener for input event on the searchInput element
-    searchInput.addEventListener('search-input', function () {
+    searchInput.addEventListener('input', function () {
       filterPosts(searchInput.value);
     });
   })();
