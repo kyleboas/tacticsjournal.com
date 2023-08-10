@@ -43,6 +43,9 @@ const dateSeparators = document.querySelectorAll('.date-separator');
 searchInput.addEventListener('input', function () {
   const searchQuery = searchInput.value.toLowerCase();
 
+  // Track visible date separators
+  const visibleDateSeparators = [];
+
   postItems.forEach(postItem => {
     const title = postItem.querySelector('a').textContent.toLowerCase();
     const content = postItem.querySelector('p').textContent.toLowerCase();
@@ -57,12 +60,20 @@ searchInput.addEventListener('input', function () {
     );
 
     postItem.style.display = isVisible ? 'block' : 'none';
+
+    if (isVisible) {
+      // Keep track of visible date separators
+      const dateSeparator = postItem.closest('.date-separator');
+      if (dateSeparator) {
+        visibleDateSeparators.push(dateSeparator);
+      }
+    }
   });
 
+  // Display or hide date separators based on the visibility of associated posts
   dateSeparators.forEach(separator => {
-    const associatedPosts = separator.nextElementSibling.querySelectorAll('.post-item');
-    const visibleAssociatedPosts = Array.from(associatedPosts).filter(postItem => postItem.style.display !== 'none');
-    separator.style.display = visibleAssociatedPosts.length > 0 ? 'block' : 'none';
+    const isAssociatedDateSeparatorVisible = visibleDateSeparators.includes(separator);
+    separator.style.display = isAssociatedDateSeparatorVisible ? 'block' : 'none';
   });
 });
 </script>
