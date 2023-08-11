@@ -51,19 +51,19 @@
       if (
         post.title.toLowerCase().includes(query.toLowerCase()) ||
         post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-        post.note.toLowerCase().includes(query.toLowerCase()) ||
+        post.content.toLowerCase().includes(query.toLowerCase()) ||
         post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
         post.categories.toLowerCase().includes(query.toLowerCase()) || // Add search in categories
         post.date.toLowerCase().includes(query.toLowerCase()) // Add search in date
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
-        var highlightedNote = highlightMatch(post.content, query);
+        var highlightedContent = highlightMatch(post.content, query);
         results.push({
           title: highlightedTitle,
           url: post.url,
           excerpt: highlightedExcerpt,
-          note: highlightedNote,
+          content: highlightedContent,
           tags: post.tags,
           categories: post.categories,
           date: post.date
