@@ -58,12 +58,12 @@
       ) {
         var highlightedTitle = highlightMatch(post.title, query);
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
-        var highlightedContent = highlightMatch(post.content, query);
+        var highlightedNote = highlightMatch(post.content, query);
         results.push({
           title: highlightedTitle,
           url: post.url,
           excerpt: highlightedExcerpt,
-          content: highlightedContent,
+          note: highlightedNote,
           tags: post.tags,
           categories: post.categories,
           date: post.date
