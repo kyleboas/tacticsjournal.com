@@ -39,37 +39,44 @@
   ];
 
   function search(query) {
-    var results = [];
+  var results = [];
 
-    if (!query || query.trim() === '') {
-      return posts; // Return all posts if no query is provided or if it's blank
-    }
-
-    for (var i = 0; i < posts.length; i++) {
-      var post = posts[i];
-
-      if (
-        post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-        post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-        post.categories.toLowerCase().includes(query.toLowerCase()) || // Add search in categories
-        post.date.toLowerCase().includes(query.toLowerCase()) // Add search in date
-      ) {
-        var highlightedTitle = highlightMatch(post.title, query);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query);
-        results.push({
-          title: highlightedTitle,
-          url: post.url,
-          excerpt: highlightedExcerpt,
-          tags: post.tags,
-          categories: post.categories,
-          date: post.date
-        });
-      }
-    }
-
-    return results;
+  if (!query || query.trim() === '') {
+    return posts; // Return all posts if no query is provided or if it's blank
   }
+
+  for (var i = 0; i < posts.length; i++) {
+    var post = posts[i];
+
+    var isNote = post.categories.toLowerCase().includes('notes');
+
+    if (
+      post.title.toLowerCase().includes(query.toLowerCase()) ||
+      post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+      post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
+      post.categories.toLowerCase().includes(query.toLowerCase()) || // Add search in categories
+      post.date.toLowerCase().includes(query.toLowerCase()) || // Add search in date
+      (isNote && post.note.toLowerCase().includes(query.toLowerCase())) // Search in note content for "Notes" category
+    ) {
+      var highlightedTitle = highlightMatch(post.title, query);
+      var highlightedExcerpt = highlightMatch(post.excerpt, query);
+      var highlightedNote = isNote ? highlightMatch(post.note, query) : post.note;
+
+      results.push({
+        title: highlightedTitle,
+        url: post.url,
+        excerpt: highlightedExcerpt,
+        note: highlightedNote, // Include highlighted note content
+        tags: post.tags,
+        categories: post.categories,
+        date: post.date,
+      });
+    }
+  }
+
+  return results;
+}
+
 
   function highlightMatch(text, query) {
     var regex = new RegExp(query, 'gi');
