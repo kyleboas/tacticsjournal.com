@@ -127,13 +127,16 @@
         if (result.categories.includes('Notes')) {
         // Display the post without the title
         var p = document.createElement('p');
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        a.classList.add('title');
-        p.appendChild(a);
-        p.appendChild(document.createTextNode(result.note)); // Use createTextNode to add the note as text
-        li.appendChild(p);
+var a = document.createElement('a');
+a.href = result.url;
+a.innerHTML = result.title;
+a.classList.add('title');
+p.appendChild(a);
+
+var note = document.createTextNode(' ' + result.note);
+p.appendChild(note);
+
+li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
@@ -187,13 +190,16 @@
         if (result.categories.includes('Notes')) {
         // Display the post without the title
         var p = document.createElement('p');
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        a.classList.add('title');
-        p.appendChild(a);
-        p.appendChild(document.createTextNode(result.note)); // Use createTextNode to add the note as text
-        li.appendChild(p);
+var a = document.createElement('a');
+a.href = result.url;
+a.innerHTML = result.title;
+a.classList.add('title');
+p.appendChild(a);
+
+var note = document.createTextNode(' ' + result.note);
+p.appendChild(note);
+
+li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
