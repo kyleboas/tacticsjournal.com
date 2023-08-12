@@ -132,7 +132,7 @@
         a.innerHTML = result.title;
         a.classList.add('title');
         p.appendChild(a);
-        p.innerHTML += result.note;
+        p.appendChild(document.createTextNode(result.note)); // Use createTextNode to add the note as text
         li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
@@ -192,7 +192,7 @@
         a.innerHTML = result.title;
         a.classList.add('title');
         p.appendChild(a);
-        p.innerHTML += result.note;
+        p.appendChild(document.createTextNode(result.note)); // Use createTextNode to add the note as text
         li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
