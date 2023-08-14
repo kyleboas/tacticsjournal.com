@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-08-14 08:00 UTC
-title: "Chelsea Hesitate to Play Nicolas Jackson"
+title: "Chelsea hesitate to play Nicolas Jackson in"
 categories:
 - "Premier League"
 tags:
