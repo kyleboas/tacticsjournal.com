@@ -79,7 +79,7 @@ Once Wolves see this, this triggers their press, because they know that that pas
 
 <figure>
     <img src="https://i.imgur.com/X5apHoT.jpg">
-    <figcaption>Figure 6.2 - </figcaption>
+    <figcaption>Figure 6.2 </figcaption>
 </figure>
 
 By the time Wan-Bisakka is ready to pass, Marcus Rashford (right-wing, out of the picture), Raphael Varane, and Lisandro Martinez are all behind a cover shadow. The ball can't be played to them because there's a defender between them and the ball carrier.
@@ -88,7 +88,7 @@ Wan-Bisakka has only one option, Casemiro.
 
 <figure>
     <img src="https://i.imgur.com/oHuFwAY.jpg">
-    <figcaption>Figure 7.1 - </figcaption>
+    <figcaption>Figure 6.3</figcaption>
 </figure>
 
 A hospital pass is played to Casemiro, one which the Wolves defender easily intercepts because Casemiro doesn't prepare his left hip to shield the attempted tackle.
