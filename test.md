@@ -3,7 +3,7 @@ layout: default
 ---
 
 <figure>
-    <img src="https://i.imgur.com/73UKbil.gifv">
+    <img src="https://i.imgur.com/73UKbil.gif">
     <figcaption>Figure 6.1 - Andre Onana passes to Aaron Wan-Bissaka.</figcaption>
 </figure>
 
