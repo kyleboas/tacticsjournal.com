@@ -69,7 +69,7 @@ The goal for any opposition defense will be to force Onana to play this pass bec
 For that reason, Wolves will force Manchester United to the right with the use of cover shadows, while leaving right-back Aaron Wan-Bisakka free. You leave him free to say 'here you go,' here's your outlet, but it's a trap.
 
 <figure>
-    <img src="https://i.imgur.com/73UKbil.gifv">
+    <img src="https://i.imgur.com/73UKbil.gif">
     <figcaption>Figure 6.1 - Andre Onana passes to Aaron Wan-Bissaka.</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Wan-Bisakka has only one option, Casemiro.
 
 <figure>
     <img src="https://i.imgur.com/oHuFwAY.jpg">
-    <figcaption>Figure 1.1 - </figcaption>
+    <figcaption>Figure 7.1 - </figcaption>
 </figure>
 
 A hospital pass is played to Casemiro, one which the Wolves defender easily intercepts because Casemiro doesn't prepare his left hip to shield the attempted tackle.
