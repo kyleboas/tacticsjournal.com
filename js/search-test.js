@@ -96,29 +96,37 @@
       noResultsMessage.style.display = 'none';
 
       var currentDate = null;
-      var firstGroup = true;
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
+  var firstGroup = true;
 
-        // Check if the date has changed and add a separator
-        if (result.date !== currentDate) {
-          var separator = document.createElement('div');
-          separator.classList.add('date-separator');
-          var p = document.createElement('p');
-          p.textContent = result.date;
-          separator.appendChild(p);
+  for (var i = 0; i < results.length; i++) {
+    var result = results[i];
 
-          // Add first-date-separator class to the first group of posts
-          if (firstGroup) {
-            separator.classList.add('first-date-separator');
-            separator.style.marginTop = '0px'; // Add margin-top: 0px to the first-date-separator
-            firstGroup = false;
-          }
+    // Check if the date has changed and add a separator
+    if (result.date !== currentDate) {
+      var separator = document.createElement('div');
+      separator.classList.add('date-separator');
+      var p = document.createElement('p');
+      p.textContent = result.date;
+      separator.appendChild(p);
 
-          postList.appendChild(separator);
+      // Add first-date-separator class to the first group of posts
+      if (firstGroup) {
+        separator.classList.add('first-date-separator');
+        separator.style.marginTop = '0px'; // Add margin-top: 0px to the first-date-separator
+        firstGroup = false;
+      }
 
-          currentDate = result.date;
-        }
+      // Check if the previous post's date is the same as the current date
+      if (previousPostDate === currentDate && i !== 0) {
+        var hr = document.createElement('hr');
+        separator.appendChild(hr);
+      }
+
+      postList.appendChild(separator);
+
+      previousPostDate = currentDate;
+      currentDate = result.date;
+    }
 
         var li = document.createElement('li');
         li.classList.add('post-item');
@@ -127,16 +135,13 @@
         if (result.categories.includes('Notes')) {
         // Display the post without the title
         var p = document.createElement('p');
-var a = document.createElement('a');
-a.href = result.url;
-a.innerHTML = result.title;
-a.classList.add('title');
-p.appendChild(a);
-
-var note = document.createTextNode(' ' + result.note);
-p.appendChild(note);
-
-li.appendChild(p);
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        a.classList.add('title');
+        p.appendChild(a);
+        p.innerHTML += result.note;
+        li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
@@ -190,16 +195,13 @@ li.appendChild(p);
         if (result.categories.includes('Notes')) {
         // Display the post without the title
         var p = document.createElement('p');
-var a = document.createElement('a');
-a.href = result.url;
-a.innerHTML = result.title;
-a.classList.add('title');
-p.appendChild(a);
-
-var note = document.createTextNode(' ' + result.note);
-p.appendChild(note);
-
-li.appendChild(p);
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        a.classList.add('title');
+        p.appendChild(a);
+        p.innerHTML += result.note;
+        li.appendChild(p);
         } else {
           // Display the post with the title and excerpt
           var a = document.createElement('a');
