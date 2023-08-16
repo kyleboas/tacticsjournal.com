@@ -203,10 +203,10 @@
 
         postList.appendChild(li);
 
-        if (i < results.length - 1 && results[i + 1].date === result.date) {
-          var hr = document.createElement('hr');
-          postList.appendChild(hr);
-        }
+        if (i < results.length - 1 && results[i].date === results[i + 1].date) {
+        var hr = document.createElement('hr');
+        postList.appendChild(hr);
+       }
       }
     }
 
