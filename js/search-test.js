@@ -85,6 +85,8 @@
     });
   }
 
+  var previousPostDate = null;
+
   function renderResults(results, query) {
     postList.innerHTML = '';
 
