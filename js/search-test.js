@@ -143,7 +143,7 @@
         postList.appendChild(li);
 
          // Append an <hr> element before each post (except the first one of the day)
-        if (i > 0 && results[i].date === results[i - 1].date) {
+        if (i < results.length - 1 && results[i].date === results[i + 1].date) {
         var hr = document.createElement('hr');
         postList.appendChild(hr);
         }
