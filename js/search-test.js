@@ -88,64 +88,119 @@
   function renderResults(results, query) {
     postList.innerHTML = '';
 
-    var currentDate = null;
-    var firstGroup = true;
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
+    var searchQuery = searchInput.value.trim();
+    var countElement = document.getElementById('result-count');
 
-      if (result.date !== currentDate) {
-        var separator = document.createElement('div');
-        separator.classList.add('date-separator');
-        var p = document.createElement('p');
-        p.textContent = result.date;
-        separator.appendChild(p);
+    if (searchQuery === '') {
+      countElement.textContent = 'All Posts';
+      noResultsMessage.style.display = 'none';
 
-        if (firstGroup) {
-          separator.classList.add('first-date-separator');
-          separator.style.marginTop = '0px';
-          firstGroup = false;
+      var currentDate = null;
+      var firstGroup = true;
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
+
+        if (result.date !== currentDate) {
+          var separator = document.createElement('div');
+          separator.classList.add('date-separator');
+          var p = document.createElement('p');
+          p.textContent = result.date;
+          separator.appendChild(p);
+
+          if (firstGroup) {
+            separator.classList.add('first-date-separator');
+            separator.style.marginTop = '0px';
+            firstGroup = false;
+          }
+
+          postList.appendChild(separator);
+
+          currentDate = result.date;
         }
 
-        postList.appendChild(separator);
+        var li = document.createElement('li');
+        li.classList.add('post-item');
 
-        currentDate = result.date;
+        if (result.categories.includes('Notes')) {
+          var p = document.createElement('p');
+          var a = document.createElement('a');
+          a.href = result.url;
+          a.innerHTML = result.title;
+          a.classList.add('title');
+          p.appendChild(a);
+          p.innerHTML += result.note;
+          li.appendChild(p);
+        } else {
+          var a = document.createElement('a');
+          a.href = result.url;
+          a.innerHTML = result.title;
+          li.appendChild(a);
+          var p = document.createElement('p');
+          p.innerHTML = result.excerpt;
+          li.appendChild(p);
+        }
+
+        postList.appendChild(li);
       }
+    } else if (results.length === 0) {
+      countElement.textContent = 'No posts found';
+      noResultsMessage.style.display = 'block';
+    } else {
+      var resultCount = results.length;
+      countElement.textContent = resultCount + ' posts found';
+      noResultsMessage.style.display = 'none';
 
-      var li = document.createElement('li');
-      li.classList.add('post-item');
+      var currentDate = null;
+      var firstGroup = true;
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
 
-      var postContent = document.createElement('div');
-      postContent.classList.add('post-content');
+        if (result.date !== currentDate) {
+          var separator = document.createElement('div');
+          separator.classList.add('date-separator');
+          var p = document.createElement('p');
+          p.textContent = result.date;
+          separator.appendChild(p);
 
-      if (result.categories.includes('Notes')) {
-        var p = document.createElement('p');
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        a.classList.add('title');
-        p.appendChild(a);
+          if (firstGroup) {
+            separator.classList.add('first-date-separator');
+            separator.style.marginTop = '0px';
+            firstGroup = false;
+          }
 
-        // Create a text node for the note content
-        var noteText = document.createTextNode(result.note);
-        p.appendChild(noteText);
+          postList.appendChild(separator);
 
-        li.appendChild(p);
-      } else {
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        postContent.appendChild(a);
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        postContent.appendChild(p);
-      }
+          currentDate = result.date;
+        }
 
-      li.appendChild(postContent);
+        var li = document.createElement('li');
+        li.classList.add('post-item');
 
-      // Add a horizontal rule after each post, except the first post of the day
-      if (i < results.length - 1 && results[i + 1].date === result.date) {
-        var hr = document.createElement('hr');
-        postList.appendChild(hr);
+        if (result.categories.includes('Notes')) {
+          var p = document.createElement('p');
+          var a = document.createElement('a');
+          a.href = result.url;
+          a.innerHTML = result.title;
+          a.classList.add('title');
+          p.appendChild(a);
+          p.innerHTML += result.note;
+          li.appendChild(p);
+        } else {
+          var a = document.createElement('a');
+          a.href = result.url;
+          a.innerHTML = result.title;
+          li.appendChild(a);
+          var p = document.createElement('p');
+          p.innerHTML = result.excerpt;
+          li.appendChild(p);
+        }
+
+        postList.appendChild(li);
+
+        if (i < results.length - 1 && results[i + 1].date === result.date) {
+          var hr = document.createElement('hr');
+          postList.appendChild(hr);
+        }
       }
     }
 
