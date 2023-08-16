@@ -88,96 +88,32 @@
   function renderResults(results, query) {
     postList.innerHTML = '';
 
-    var searchQuery = searchInput.value.trim();
-    var countElement = document.getElementById('result-count');
+    var currentDate = null;
+    var firstGroup = true;
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
 
-    if (searchQuery === '') {
-      countElement.textContent = 'All Posts';
-      noResultsMessage.style.display = 'none';
+      if (result.date !== currentDate) {
+        var separator = document.createElement('div');
+        separator.classList.add('date-separator');
+        var p = document.createElement('p');
+        p.textContent = result.date;
+        separator.appendChild(p);
 
-      var currentDate = null;
-      var firstGroup = true;
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-
-        if (result.date !== currentDate) {
-          var separator = document.createElement('div');
-          separator.classList.add('date-separator');
-          var p = document.createElement('p');
-          p.textContent = result.date;
-          separator.appendChild(p);
-
-          if (firstGroup) {
-            separator.classList.add('first-date-separator');
-            separator.style.marginTop = '0px';
-            firstGroup = false;
-          }
-
-          postList.appendChild(separator);
-
-          currentDate = result.date;
+        if (firstGroup) {
+          separator.classList.add('first-date-separator');
+          separator.style.marginTop = '0px';
+          firstGroup = false;
         }
 
-        var li = document.createElement('li');
-        li.classList.add('post-item');
+        postList.appendChild(separator);
 
-        if (result.categories.includes('Notes')) {
-          var p = document.createElement('p');
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          a.classList.add('title');
-          p.appendChild(a);
-          p.innerHTML += result.note;
-          li.appendChild(p);
-        } else {
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          li.appendChild(a);
-          var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
-          li.appendChild(p);
-        }
-
-        postList.appendChild(li);
+        currentDate = result.date;
       }
-    } else if (results.length === 0) {
-      countElement.textContent = 'No posts found';
-      noResultsMessage.style.display = 'block';
-    } else {
-      var resultCount = results.length;
-      countElement.textContent = resultCount + ' posts found';
-      noResultsMessage.style.display = 'none';
 
-      var currentDate = null;
-      var firstGroup = true;
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-
-        if (result.date !== currentDate) {
-          var separator = document.createElement('div');
-          separator.classList.add('date-separator');
-          var p = document.createElement('p');
-          p.textContent = result.date;
-          separator.appendChild(p);
-
-          if (firstGroup) {
-            separator.classList.add('first-date-separator');
-            separator.style.marginTop = '0px';
-            firstGroup = false;
-          }
-
-          postList.appendChild(separator);
-
-          currentDate = result.date;
-        }
-
-        // Create a new li element
       var li = document.createElement('li');
       li.classList.add('post-item');
 
-      // Create a new div for post content
       var postContent = document.createElement('div');
       postContent.classList.add('post-content');
 
@@ -189,30 +125,29 @@
         a.classList.add('title');
         p.appendChild(a);
 
-        // Remove the first and last <p> tags from result.note
-        var noteContent = result.note;
-        noteContent = noteContent.replace(/^<p>/, '').replace(/<\/p>$/, '');
+        // Create a text node for the note content
+        var noteText = document.createTextNode(result.note);
+        p.appendChild(noteText);
 
-        p.innerHTML += noteContent;
-        postContent.appendChild(p);
+        li.appendChild(p);
       } else {
         var a = document.createElement('a');
         a.href = result.url;
         a.innerHTML = result.title;
-        li.appendChild(a);
+        postContent.appendChild(a);
         var p = document.createElement('p');
         p.innerHTML = result.excerpt;
-        li.appendChild(p);
+        postContent.appendChild(p);
       }
 
-      postList.appendChild(li);
+      li.appendChild(postContent);
 
+      // Add a horizontal rule after each post, except the first post of the day
       if (i < results.length - 1 && results[i + 1].date === result.date) {
         var hr = document.createElement('hr');
         postList.appendChild(hr);
       }
     }
-  }
 
     var firstGroupSeparator = postList.querySelector('.first-date-separator');
     if (firstGroupSeparator) {
