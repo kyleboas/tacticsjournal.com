@@ -85,8 +85,6 @@
     });
   }
 
-  var previousPostDate = null;
-
   function renderResults(results, query) {
     postList.innerHTML = '';
 
@@ -97,8 +95,9 @@
       countElement.textContent = 'All Posts';
       noResultsMessage.style.display = 'none';
 
+      var previousPostDate = null;
       var currentDate = null;
-  var firstGroup = true;
+      var firstGroup = true;
 
   for (var i = 0; i < results.length; i++) {
     var result = results[i];
