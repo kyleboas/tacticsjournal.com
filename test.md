@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<figure>
-    <img src="https://i.imgur.com/73UKbil.gif">
-    <figcaption>Figure 6.1 - Andre Onana passes to Aaron Wan-Bissaka.</figcaption>
-</figure>
-
 <div class="searchInput">
   <input type="text" id="search-input" placeholder="Search...">
     <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
