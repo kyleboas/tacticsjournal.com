@@ -173,36 +173,46 @@
           currentDate = result.date;
         }
 
-        var li = document.createElement('li');
-        li.classList.add('post-item');
+        // Create a new li element
+      var li = document.createElement('li');
+      li.classList.add('post-item');
 
-        if (result.categories.includes('Notes')) {
-          var p = document.createElement('p');
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          a.classList.add('title');
-          p.appendChild(a);
-          p.innerHTML += result.note;
-          li.appendChild(p);
-        } else {
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          li.appendChild(a);
-          var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
-          li.appendChild(p);
-        }
+      // Create a new div for post content
+      var postContent = document.createElement('div');
+      postContent.classList.add('post-content');
 
-        postList.appendChild(li);
+      if (result.categories.includes('Notes')) {
+        var p = document.createElement('p');
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        a.classList.add('title');
+        p.appendChild(a);
 
-        if (i < results.length - 1 && results[i + 1].date === result.date) {
-          var hr = document.createElement('hr');
-          postList.appendChild(hr);
-        }
+        // Remove the first and last <p> tags from result.note
+        var noteContent = result.note;
+        noteContent = noteContent.replace(/^<p>/, '').replace(/<\/p>$/, '');
+
+        p.innerHTML += noteContent;
+        postContent.appendChild(p);
+      } else {
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        li.appendChild(a);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+      }
+
+      postList.appendChild(li);
+
+      if (i < results.length - 1 && results[i + 1].date === result.date) {
+        var hr = document.createElement('hr');
+        postList.appendChild(hr);
       }
     }
+  }
 
     var firstGroupSeparator = postList.querySelector('.first-date-separator');
     if (firstGroupSeparator) {
