@@ -139,8 +139,14 @@
           p.innerHTML = result.excerpt;
           li.appendChild(p);
         }
-
+        
         postList.appendChild(li);
+
+         // Append an <hr> element before each post (except the first one of the day)
+        if (i > 0 && results[i].date === results[i - 1].date) {
+        var hr = document.createElement('hr');
+        postList.appendChild(hr);
+        }
       }
     } else if (results.length === 0) {
       countElement.textContent = 'No posts found';
