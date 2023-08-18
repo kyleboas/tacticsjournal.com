@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: August 17, 2023</em></p>
+<p><em>last updated: August 18, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -221,7 +221,7 @@ layout: page
 <hr class="dashed">
 
 
-## Defensive Midfield
+## Holding Midfielder
 
 ### U21
 
@@ -245,8 +245,10 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Djibril Sow](https://fbref.com/en/players/4c6facae/Djibril-Sow)|Sevilla|<a href="https://youtu.be/fx95uxZrw5E"><i class="fa-solid fa-video"></i></a>|8/18/23|
 |[Sofyan Amrabat](https://fbref.com/en/players/5a2cb25d/Sofyan-Amrabat)|Fiorentina|<a href="https://youtu.be/fu4oA8un9KI"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[João Palhinha](https://fbref.com/en/players/a78ff07f/Joao-Palhinha)|Fulham|<a href="https://youtu.be/s_RcDEOU7z0"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Mikel Marino](https://fbref.com/en/players/d080ed5e/Mikel-Merino)|Real Sociedad|<a href="https://youtu.be/l5rpsBs9Tp0"><i class="fa-solid fa-video"></i></a>|8/18/23|
 |[Martín Zubimendi](https://fbref.com/en/players/3ee0dd59/Martin-Zubimendi)|Real Sociedad|<a href="https://youtu.be/dMUdey6I3ms"><i class="fa-solid fa-video"></i></a>|6/23/23|
 
 
