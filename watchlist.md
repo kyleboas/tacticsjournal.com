@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: July 30, 2023</em></p>
+<p><em>last updated: August 17, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -236,6 +236,7 @@ layout: page
 |:----|:----|:----|:----|
 |[Aurélien Tchouaméni](https://fbref.com/en/players/4f255115/Aurelien-Tchouameni)|Real Madrid|<a href="https://youtu.be/L2agGYRzsgQ"><i class="fa-solid fa-video"></i></a>|6/28/23|
 |[Federico Redondo](https://fbref.com/en/players/b7b9c8ce/Federico-Redondo)|Argentinos Juniors|<a href="https://youtu.be/m7un1EAEDhY"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Salis Abdul Samed](https://fbref.com/en/players/82464ce3/Salis-Abdul-Samed)|Lens|<a href="https://youtu.be/VF8DhJzncD0"><i class="fa-solid fa-video"></i></a>|8/17/23|
 |[Nico González](https://fbref.com/en/players/2c56a792/Nicolas-Gonzalez)|Valenica|<a href="https://youtu.be/QIcbpc_KLN4"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Jordan Teze](https://fbref.com/en/players/82e9b1bb/Jordan-Teze)|PSV|<a href="https://youtu.be/6YIaGYmK0h4"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[James Garner](https://fbref.com/en/players/4e015693/James-Garner)|Everton|<a href="https://youtu.be/eelDUMkF98k"><i class="fa-solid fa-video"></i></a>|4/23/23|
