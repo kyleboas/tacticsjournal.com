@@ -2,9 +2,9 @@
 layout: default
 ---
 
-SCHEDULE:
+<p style="font-size: 14px;padding-left: 10px;background-color: #FECCCC;padding-top: 10px;padding-bottom: 10px;margin-bottom: 5px;">🌴 Your ad here.</p>
 
-| | |
+| SCHEDULE: | |
 | --- | --- |
 | Aug 21 – Aug 27 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Aug 28 – Sep 3 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
