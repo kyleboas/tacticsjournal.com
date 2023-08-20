@@ -104,6 +104,7 @@ function renderResults(results) {
       var a = document.createElement('a');
       a.href = result.url;
       a.innerHTML = result.title;
+      a.classList.add('long-title');
       li.appendChild(a);
       var p = document.createElement('p');
       p.innerHTML = result.excerpt;
@@ -127,6 +128,7 @@ function renderResults(results) {
       var a = document.createElement('a');
       a.href = result.url;
       a.innerHTML = result.title;
+      a.classList.add('long-title');
       li.appendChild(a);
       var p = document.createElement('p');
       p.innerHTML = result.excerpt;
