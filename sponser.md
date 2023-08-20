@@ -3,8 +3,9 @@ layout: default
 ---
 
 SCHEDULE:
-| SCHEDULE | |
-|---|---|
+
+| | |
+| --- | --- |
 | Aug 21 – Aug 27 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Aug 28 – Sep 3 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Sep 4 – Sep 10 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
