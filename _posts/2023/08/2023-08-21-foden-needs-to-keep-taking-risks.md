@@ -65,7 +65,7 @@ They need more risk, more threat. He has the ability to beat his marker to the l
     <figcaption>Figure 3.2 - Foden turns.</figcaption>
 </figure> 
 
-Foden is an expert with this specific turn. If he gets to execute this turn, he attacks the space behind him. 
+Foden is an expert with this specific turn. If you allow him to execute this turn, he will attack the space behind him, without any hesitation.
 
 <figure>
     <img src="https://i.imgur.com/Pdosdts.jpg">
