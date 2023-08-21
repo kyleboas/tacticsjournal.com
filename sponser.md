@@ -42,11 +42,11 @@ A post from the sponsor will appear at the start of the week. You, the sponsor, 
 
 About Tactic Journal’s audience:
 
-Typical weekday web page views: 5,000-10,000
+Typical weekday web page views: 2,500-10,500
 
-Estimated monthly web page views: 25,000.
+Estimated monthly web page views: 10,000-27,000
 
-Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, Mastodon accounts: Over 21,500.
+Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, Mastodon accounts: Over 26,000.
 
 Sponsorship is exclusive. Only one sponsor per week.
 
