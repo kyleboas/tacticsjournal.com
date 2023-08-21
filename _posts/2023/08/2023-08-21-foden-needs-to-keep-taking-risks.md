@@ -18,6 +18,11 @@ August 21, 2023 — Phil Foden of Manchester City has had a habit of playing it 
     <figcaption>Figure 1.1 - Manchester City's tight midfield five in possession.</figcaption>
 </figure> 
 
+<figure>
+    <img src="https://i.imgur.com/Qq7csfB.jpg">
+    <figcaption>Figure 1.2 - Manchester City's passing network <a href="https://x.com/mclachbot/status/1693042236437458965?s=46&t=YC8lQJTh43E_mBQW40Ct2g">via McLachBot</a></figcaption>
+</figure> 
+
 Manchester City likes to play in small spaces with a short distance between midfielders, but against Newcastle, that spacing was even smaller. More compact. 
 
 That compactness is made for Phil Foden. Quick technical one-twos to draw the opponent in and then switch to a wing, with Kyle Walker pushed forward on the right-wing. Overload the midfield to isolate the wing. 
