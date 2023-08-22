@@ -29,7 +29,7 @@ layout: default
 | Dec 4 – Dec 10 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Dec 11 – Dec 17 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Dec 18 – Dec 24 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Dec 25 – Dec 31 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Dec 25 – Dec 31 | <a href="mailto:kyle@tacticsjournal.com">Available</a>|
 
 PRICE: $500
 
@@ -55,3 +55,7 @@ Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, Mastodon a
 
 Sponsorship is exclusive. Only one sponsor per week.
 
+<style>
+    .table { font-size: 14px; }
+    .td { padding-left: 10px; }
+</style>
