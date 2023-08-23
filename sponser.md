@@ -53,6 +53,6 @@ About Tactic Journal’s audience:
 Sponsorship is exclusive. Only one sponsor per week. The only rule I have is that I would not take any gambling sponsers.
 
 <style>
-    .table { font-size: 14px; }
-    .td { padding-left: 10px; }
+    table { font-size: 15px; }
+    td { padding-left: 10px; }
 </style>
