@@ -55,4 +55,6 @@ Sponsorship is exclusive. Only one sponsor per week. The only rule I have is tha
 <style>
     table { font-size: 15px; }
     td { padding-left: 10px; }
+    p { font: 18px pt-serif-pro, serif; }
+    ul { font: 18px pt-serif-pro, serif; }
 </style>
