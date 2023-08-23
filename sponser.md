@@ -5,7 +5,7 @@ layout: default
 <div style="display: flex;align-items: center;margin-bottom: 30px;background-color: #FECCCC;">
     <img style="width: 40px;position: relative;margin-left: 5px;" src="https://i.imgur.com/W7MnbOH.png">
     <p style="font-size: 14px;padding-left: 10px;/* background-color: #FECCCC; */margin-right: 10px;">
-        This is what an ad will look like. You get to write what goes here and it will be displayed at the top of every page.
+        This is what an ad banner will look like. You get to write what goes here and it will be displayed at the top of every page.
     </p>
 </div>
 
