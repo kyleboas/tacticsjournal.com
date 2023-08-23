@@ -31,7 +31,7 @@ layout: default
 | Dec 18 – Dec 24 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Dec 25 – Dec 31 | <a href="mailto:kyle@tacticsjournal.com">Available</a>|
 
-PRICE: $400
+PRICE: $300
 
 To schedule a sponsorship or for additional information, <a href="mailto:kyle@tacticsjournal.com">email Kyle Boas</a>.
 
