@@ -413,12 +413,10 @@ cite {
 .post-item {
   padding-left: 0px;
   
-    a {
-      text-decoration: none;
-    }
     .long-title {
       font-weight: bold;
       color: #000;
+      text-decoration: none;
     }
     p {
       margin-top: 5px;
@@ -433,6 +431,7 @@ a.short-title {
   font-family: helvetica;
   padding-right: 5px;
   font-weight: 400;
+  text-decoration: none;
 }
 
 
