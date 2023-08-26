@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-08-16 08:00 UTC
+date: 2023-08-26 08:00 UTC
 title: "Chelsea begin to fix timing issues"
 categories:
 - "Premier League"
