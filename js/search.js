@@ -86,38 +86,43 @@
   }
 
   function renderResults(results, query) {
-    postList.innerHTML = '';
+  postList.innerHTML = '';
 
-    var searchQuery = searchInput.value.trim();
-    var countElement = document.getElementById('result-count');
+  var searchQuery = searchInput.value.trim();
+  var countElement = document.getElementById('result-count');
 
-    if (searchQuery === '') {
-      countElement.textContent = 'All Posts';
-      noResultsMessage.style.display = 'none';
+  if (searchQuery === '') {
+    countElement.textContent = 'All Posts';
+    noResultsMessage.style.display = 'none';
 
-      var currentDate = null;
-      var firstGroup = true;
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
+    var currentDate = null;
+    var firstGroup = true;
+    var previousDate = null; // Initialize previousDate to null
 
-        if (result.date !== currentDate) {
-          var separator = document.createElement('div');
-          separator.classList.add('date-separator');
-          var p = document.createElement('p');
-          p.textContent = result.date;
-          separator.appendChild(p);
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
 
-          if (firstGroup) {
-            separator.classList.add('first-date-separator');
-            separator.style.marginTop = '0px';
-            firstGroup = false;
-          }
+      if (result.date !== currentDate) {
+        var separator = document.createElement('div');
+        separator.classList.add('date-separator');
+        var p = document.createElement('p');
+        p.textContent = result.date;
+        separator.appendChild(p);
 
-          postList.appendChild(separator);
-
-          currentDate = result.date;
+        if (firstGroup) {
+          separator.classList.add('first-date-separator');
+          separator.style.marginTop = '0px';
+          firstGroup = false;
         }
 
+        postList.appendChild(separator);
+
+        currentDate = result.date;
+      }
+
+      // Check if the current post's date is the same as the previous post's date
+      // If it is, add the post under the same date separator
+      if (result.date !== previousDate) {
         var li = document.createElement('li');
         li.classList.add('post-item');
 
@@ -140,15 +145,18 @@
           p.innerHTML = result.excerpt;
           li.appendChild(p);
         }
-        
-        postList.appendChild(li);
 
-         // Append an <hr> element before each post (except the first one of the day)
-        if (i < results.length - 1 && results[i].date === results[i + 1].date) {
+        postList.appendChild(li);
+      } else {
+        // If it's the same date, add an <hr> element to separate posts
         var hr = document.createElement('hr');
         postList.appendChild(hr);
-        }
       }
+
+      // Update previousDate with the current post's date
+      previousDate = result.date;
+    }
+  }
     } else if (results.length === 0) {
       countElement.textContent = 'No posts found';
       noResultsMessage.style.display = 'block';
