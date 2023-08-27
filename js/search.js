@@ -147,16 +147,14 @@
         }
 
         postList.appendChild(li);
-      } else {
+        
         // If it's the same date, add an <hr> element to separate posts
         var hr = document.createElement('hr');
         postList.appendChild(hr);
-      }
 
       // Update previousDate with the current post's date
       previousDate = result.date;
-    }
-  }
+      }
     } else if (results.length === 0) {
       countElement.textContent = 'No posts found';
       noResultsMessage.style.display = 'block';
