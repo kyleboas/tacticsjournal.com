@@ -9,8 +9,6 @@ tags:
 image: "https://i.imgur.com/chq28sR.jpg"
 ---
 
-2023-08-28-matip-positioning-leads-to-newcastle-goal-and-liverpool-red-card.md
-
 August 28, 2023 — Joel Matip's poor positioning played a major role in both Newcastle's first goal and the red card challenge by Virgil Van Dijk that should have cost Liverpool the game.
 
 <!---more--->
