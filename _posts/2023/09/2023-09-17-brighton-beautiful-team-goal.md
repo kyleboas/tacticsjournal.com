@@ -5,11 +5,9 @@ title: "Brighton's beautiful team goal"
 categories:
 - "Premier League"
 tags:
-- "Brighton
+- "Brighton"
 image: "https://i.imgur.com/AfTNZp4.jpg"
 ---
-
-2023-09-17-brighton-beautiful-team-goal.md
 
 September 17, 2023 — Brighton scored one of the cleanest team goals I've seen in the past year against Manchester United. 
 
