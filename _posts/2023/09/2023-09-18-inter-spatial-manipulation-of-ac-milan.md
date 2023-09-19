@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-09-19 08:00 UTC
+date: 2023-09-18 08:00 UTC
 title: "Inter's spatial manipulation of AC Milan"
 categories:
 - "Serie A"
@@ -10,7 +10,7 @@ tags:
 image: "https://i.imgur.com/bMqMLlS.jpg"
 ---
 
-September 19, 2023 — Inter masterfully exploited space by manipulating it, capitalizing on AC Milan's disjointed man-marking.
+September 18, 2023 — Inter masterfully exploited space by manipulating it, capitalizing on AC Milan's disjointed man-marking.
 
 <!---more--->
 
