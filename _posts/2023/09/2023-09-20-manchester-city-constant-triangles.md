@@ -11,8 +11,6 @@ tags:
 image: "https://i.imgur.com/ovYGvqj.jpg"
 ---
 
-2023-09-20-manchester-city-constant-triangles.md
-
 September 20, 2023 — Constant triangles. The full-back pushes forward, and Manchester City forms a 3-4-3 diamond in possession. It was the most enjoyable match of theirs that I have ever watched.
 
 <!---more--->
