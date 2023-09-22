@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: August 31, 2023</em></p>
+<p><em>last updated: September 22, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -187,7 +187,6 @@ layout: page
 |:----|:----|:----|:----|
 |[Jamal Musiala](https://fbref.com/en/players/2c0558b8/Jamal-Musiala)|Bayern Munich|<a href="https://youtu.be/KNHi0wYYpP0"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Nicolo Fagioli](https://fbref.com/en/players/366be751/Nicolo-Fagioli)|Juventus|<a href="https://youtu.be/cxmW-h5WSzI"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Jadon Sancho](https://fbref.com/en/players/dbf053da/Jadon-Sancho)|Manchester United| |4/23/23|
 |[Dominik Szoboszlai](https://fbref.com/en/players/934e1968/Dominik-Szoboszlai)|RB Leipzig |<a href="https://youtu.be/CrWChoV5rOQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Gabriel Veiga](https://fbref.com/en/players/35a6e5c7/Gabriel-Veiga)|Celta Vigo|<a href="https://youtu.be/R0nIQVJXb8E"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Enzo Le Fée](https://fbref.com/en/players/6f806d99/Enzo-Le-Fee)|Lorient|<a href="https://youtu.be/qnCByqJoWKk"><i class="fa-solid fa-video"></i></a>|4/23/23|
