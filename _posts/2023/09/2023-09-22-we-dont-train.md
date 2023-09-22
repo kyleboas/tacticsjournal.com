@@ -39,7 +39,7 @@ This is the type of self-awareness that the Gavi's, Saka's, Pedri's, Rashford's 
 
 <figure>
     <img src="https://i.imgur.com/DfSR7u3.jpg">
-    <figcaption>Figure 1.1 - Premier League team's schedule with European and Cup matches included between September 16th to October 8th. [Visual made by @Legomane_FPL](https://x.com/legomane_fpl/status/1703494051415130404?s=46&t=YC8lQJTh43E_mBQW40Ct2g)</figcaption>
+    <figcaption>Figure 1.1 - Premier League team's schedule with European and Cup matches included between September 16th to October 8th. <a href="https://x.com/legomane_fpl/status/1703494051415130404?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Visual made by @Legomane_FPL</a></figcaption>
 </figure> 
 
 This is the schedule Premier League sides have to face in 22 days. I think Newcastle United has it the worst based on the quality of the opponents. They have to play:
