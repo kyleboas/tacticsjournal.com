@@ -24,7 +24,7 @@ September 22, 2023 — Pep Guardiola, when asked how he works with Oscar Bobb in
 
 <figure>
     <img src="https://i.imgur.com/CePSOrP.jpg">
-    <figcaption>Manchester City FC via Getty Images</figcaption>
+    <figcaption>Erling Haaland (left), Pep Guardiola (center), and Oscar Bobb (right) in training. Manchester City FC via Getty Images</figcaption>
 </figure> 
 
 This is the sad reality of top-flight football in the modern day. Players playing 50, 60, 70 matches a year for club and country. It's not sustainable. No matter how gifted someone is, the human body can only handle so much before it gives out.
