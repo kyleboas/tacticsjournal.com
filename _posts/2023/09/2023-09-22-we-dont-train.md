@@ -18,7 +18,9 @@ September 22, 2023 — Pep Guardiola, when asked how he works with Oscar Bobb in
 > 
 > *shrugs* "Hi, how are you? How was breakfast? Lunchtime, recovery" – we don't train.
 > 
-> He cannot improve with the managers because we don't have training sessions. We have to recover because the schedule is what it is, and we have the game in three days [...]" 
+> He cannot improve with the managers because we don't have training sessions. We have to recover because the schedule is what it is, and we have the game in three days [...]"
+
+*[Watch the full press conference](https://youtu.be/b68NWWAOjtw?si=HrlDbRB2dfThtdeK)*
 
 <figure>
     <img src="https://i.imgur.com/CePSOrP.jpg">
