@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-09-25 08:00 UTC
+date: 2023-09-26 08:00 UTC
 title: "Arsenal's thicket"
 categories:
 - "Premier League"
