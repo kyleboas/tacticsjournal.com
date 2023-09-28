@@ -146,6 +146,6 @@ Palmer turns, Jackson has the full left side of the goal to aim at, goal. It was
 
 It's all good and well to rack up xG through crosses and cut-backs, but those chances need context. They should have been scored, but I need to see them. And the chances I saw prior to today I'd mark as unlucky. 
 
-The shot against Emi Martinez should have been scored, but it was an incredible save. Two goals today from central progression. One well-saved shot that should have been finished. Central progression is the way Chelsea rescues their season. No more Enzo Fernandez as a 10, they need the Cole Palmers to disrupt and create these chances for Jackson or Broja.
+The shot against Emi Martinez should have been scored, but it was an incredible save. Two goals today from central progression. One well-saved shot that should have been finished. Central progression is the way Chelsea rescues their season. No more Enzo Fernandez as a 10, they need the Cole Palmer's of the world to disrupt and create these chances for Jackson or Broja.
 
 If you want a striker to score they need to be played in on goal. 
