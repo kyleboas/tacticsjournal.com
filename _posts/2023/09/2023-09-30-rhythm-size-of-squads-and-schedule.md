@@ -30,7 +30,7 @@ Mikel Arteta stated, "We wanted to build a squad with two quality players in eac
 
 Eddie Howe said his Newcastle side had the "perfect depth" with two players fit to play each position.
 
-They have the depth, now how will they use it? Will they stick to just one or two changes or will they change their goalkeeper every match, like Mikel Arteta has hinted he might do with Aaron Ramsdale and David Raya? 
+They have the depth, how will they use it? Will they stick to just one or two changes or will they make many changes, even changing their goalkeeper, like Mikel Arteta has hinted he might do with Aaron Ramsdale and David Raya? How they cope with necessary rotation determines where they finish this season.
 
 > "If I won less games, go [manage another] team. If they want me not playing European competitions, and after would be long weeks, so that's for sure. But when you're playing top teams, and you are lucky to play European competitions; when that happened and then I'll have to accept it. I put on the table but I'm saying that I know it's not going to be changed, so I accept it. 
 > 
@@ -43,9 +43,9 @@ Two to three changes max and maintain rhythm. Manchester City can be unpredictab
     <figcaption>Figure 1.1 - Premier League, European, and Cup matches for Premier League teams from GW7-GW16. <a href="https://x.com/legomane_fpl/status/1707651879151280363?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Visual made by @Legomane_FPL</a></figcaption>
 </figure>
 
-Manchester City is the Premier League team that is best prepared for this upcoming stretch of matches with 2-3 days rest in between. They have years of experience managing this schedule. It won't affect them as much; this is just another year.
+Manchester City is the Premier League team that is best prepared for this upcoming stretch of matches in the Champions League with 2-3 days rest in between. They have years of experience managing this intense schedule. It won't affect them as much; this is just another year.
 
-The rest of the teams will be either heavily injured like Manchester United, learning as they go like Arsenal and Newcastle, or both injured and learning.
+The rest of the teams will be either heavily injured like Manchester United, learning as they go like Arsenal and Newcastle, or both injured and learning. That's why I think Manchester United, Arsenal, and Newcastle might struggle more than in previous seasons.
 
 <small><em>
 <a href="https://youtu.be/vFGBaVnQuYk?si=wugrhpj5Sd3FASSp">Watch the full Pep Guardiola Press Conference referenced</a>
