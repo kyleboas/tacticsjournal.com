@@ -51,5 +51,4 @@ The rest of the teams will be either heavily injured like Manchester United, lea
 <a href="https://youtu.be/vFGBaVnQuYk?si=wugrhpj5Sd3FASSp">Watch the full Pep Guardiola Press Conference referenced</a>
 
 Preview image by Owen Humphreys/PA via AP
-</em>
-</small>
+</em></small>
