@@ -48,7 +48,7 @@ Manchester City is the Premier League team that is best prepared for this upcomi
 The rest of the teams will be either heavily injured like Manchester United, learning as they go like Arsenal and Newcastle, or both injured and learning. That's why I think Manchester United, Arsenal, and Newcastle might struggle more than in previous seasons.
 
 <small><em>
-<a href="https://youtu.be/vFGBaVnQuYk?si=wugrhpj5Sd3FASSp">Watch the full Pep Guardiola Press Conference referenced</a>
+<a href="https://youtu.be/vFGBaVnQuYk?si=wugrhpj5Sd3FASSp">Watch the full Pep Guardiola Press Conference referenced</a></em></small>
 
-Preview image by Owen Humphreys/PA via AP
+<small><em>Preview image by Owen Humphreys/PA via AP
 </em></small>
