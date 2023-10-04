@@ -9,6 +9,7 @@ categories:
 tags:
 - "Arsenal"
 - "Lens"
+image: "https://i.imgur.com/3CPz7Uy.jpg"
 ---
 
 The battle for Lens is the center of the pitch and they won that battle against Arsenal. Stopping Declan Rice and Martin Ødegaard was the key to haulting Arsenal's progression  into the final third.
@@ -27,7 +28,22 @@ Later in the 2nd half, Leandro Trossard moved to center-forward with Gabriel Jes
 
 Kai Havertz is very stiff and slow to play the ball. He appears like he's playing at half speed, not in sync with the rest of the Arsenal squad. This has begun to improve slowly as each match goes but Fabio Vierira has looked more comfortable in his natural center-mid position in place of Kai Havertz when he has been played there.
 
-This is a game where they missed Ben White's overlapping runs. That run was always on and Takehiro Tomiyasu rarely attempted the overlap. They will need that run if they put a controller like Vieira at right-wing.
+<figure>
+    <img src="https://i.imgur.com/0qOWj32.jpg">
+    <figcaption>Figure 1.1 - Takehiro Tomiyasu starts his overlapping run, behind Bukayo Saka, as two Lens defenders move to challenge Saka.</figcaption>
+</figure> 
+
+<figure>
+    <img src="https://i.imgur.com/3CPz7Uy.jpg">
+    <figcaption>Figure 1.2 - Bukayo Saka sees Takehiro Tomiyasu making the run.</figcaption>
+</figure> 
+
+<figure>
+    <img src="https://i.imgur.com/BkobKbi.jpg">
+    <figcaption>Figure 1.3 - Bukayo Saka passes to an unmarked Takehiro Tomiaysu.</figcaption>
+</figure> 
+
+This is a game where they missed Ben White's overlapping runs. That run was always on and Takehiro Tomiyasu attempted the overlap occasionally. He's not as nimble or accomplished a crosser so these chances were not as menacing. They will need that run if they put a controller like Vieira at right-wing because Vieira will rarely take on his man 1v1.
 
 The overlapping runs from Lens on their right-wing was the main danger when Arsenal turned the ball over. With Zinchenko inverted it’s a 2v1 for Gabriel, and Gabriel normally has to back out of challenging to cover the man behind.
 
