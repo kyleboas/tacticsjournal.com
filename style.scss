@@ -670,9 +670,8 @@ margin-top: -20px;
 .post-date,
 .post-num-words {
   float: right;
-  font-style: italic;
   color: #888;
-  margin-top: 10px;
+  margin-top: 5px;
   font-size: 0.9em;
   
 }
@@ -945,10 +944,6 @@ body {
   .post-date,
   .post-num-words {
     float: none !important;
-  }
-
-  .post-date:after {
-    content: '';
   }
 
   .post-date:before {
