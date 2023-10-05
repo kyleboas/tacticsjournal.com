@@ -16,6 +16,6 @@ jobs:
           blueskyEnable: true
           blueskyPostFormat: "{title}\n\n{link}"
           blueskyHandle: '@tacticsjournal.com'
-          blueskyAppPassword: 'BlueSky'
+          blueskyAppPassword: ${{ secrets.BLUESKY }}
           blueskyOwnerHandle: '@tacticsjournal.com'
           blueskyOwnerContact: 'kyle@tacticsjournal.com'
