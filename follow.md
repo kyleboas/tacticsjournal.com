@@ -13,7 +13,7 @@ Facebook: *[https://www.facebook.com/TacticsJournal](https://www.facebook.com/Ta
 
 Threads: *[@tacticsjournal](https://www.threads.net/@tacticsjournal)*
 
-BlueSky: *[@tacticsjournal.bsky.social](https://bsky.app/profile/tacticsjournal.bsky.social)*
+BlueSky: *[@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)*
 
 YouTube: *[https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)*
 
