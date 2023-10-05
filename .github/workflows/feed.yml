@@ -1,0 +1,21 @@
+name: Feed to social media
+on:
+  workflow_dispatch:
+
+jobs:
+  Feed2SocialMedia:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Feed to social media
+        uses: lwojcik/github-action-feed-to-social-media@v2
+        with:
+          feedUrl: 'https://tacticsjournal.com/feed'
+          newestItemStrategy: 'latestDate'
+          postFormat: "{title}\n\n{link}"
+          # Bluesky settings
+          blueskyEnable: true
+          blueskyPostFormat: "{title}\n\n{link}"
+          blueskyHandle: '@tacticsjournal.com'
+          blueskyAppPassword: 'BlueSky'
+          blueskyOwnerHandle: '@tacticsjournal.com'
+          blueskyOwnerContact: 'kyle@tacticsjournal.com'
