@@ -53,20 +53,20 @@
 
     if (
       post.title.toLowerCase().includes(query.toLowerCase()) ||
-      post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+      post.content.toLowerCase().includes(query.toLowerCase()) ||
       post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
       post.categories.toLowerCase().includes(query.toLowerCase()) || // Add search in categories
       post.date.toLowerCase().includes(query.toLowerCase()) || // Add search in date
       (isNote && post.note.toLowerCase().includes(query.toLowerCase())) // Search in note content for "Notes" category
     ) {
       var highlightedTitle = highlightMatch(post.title, query);
-      var highlightedExcerpt = highlightMatch(post.excerpt, query);
+      var highlightedContent = highlightMatch(post.excerpt, query);
       var highlightedNote = isNote ? highlightMatch(post.note, query) : post.note;
 
       results.push({
         title: highlightedTitle,
         url: post.url,
-        excerpt: highlightedExcerpt,
+        content: highlightedContent,
         note: highlightedNote, // Include highlighted note content
         tags: post.tags,
         categories: post.categories,
