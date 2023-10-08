@@ -60,7 +60,7 @@
       (isNote && post.note.toLowerCase().includes(query.toLowerCase())) // Search in note content for "Notes" category
     ) {
       var highlightedTitle = highlightMatch(post.title, query);
-      var highlightedContent = highlightMatch(post.excerpt, query);
+      var highlightedContent = highlightMatch(post.content, query);
       var highlightedNote = isNote ? highlightMatch(post.note, query) : post.note;
 
       results.push({
