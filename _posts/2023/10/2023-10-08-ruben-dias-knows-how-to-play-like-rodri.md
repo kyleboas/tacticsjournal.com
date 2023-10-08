@@ -72,7 +72,7 @@ Akanji is also another candidate. He has featured in a double pivot with Rodri, 
 
 Knowing what we know from the Community Shield between Arsenal and Manchester City, Bernardo Silva’s role in the first phase was quite important. For that reason, I think they look to replicate it in today’s match.
 
-I'd love to see a back-line of Nathan Ake at left-back to shut down Bukayo Saka, Josip Gvardiol as the center center-back, and Manuel Akanji at right center-back. Then Kyle Walker can push forward to right-wing.
+I'd love to see a back-line of Nathan Ake at left-back to shut down Bukayo Saka, Josko Gvardiol as the center center-back, and Manuel Akanji at right center-back. Then Kyle Walker can push forward to right-wing.
 
 <figure>
     <img src="https://i.imgur.com/IYkid8J.jpg">
