@@ -251,5 +251,5 @@
     renderResults(results, query);
   });
 
-  renderResults(posts);
+  renderResults(posts.slice(0, 20));
 })();
