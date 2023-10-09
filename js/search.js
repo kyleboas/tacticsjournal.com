@@ -86,18 +86,8 @@
     });
   }
 
-  // Calculate the date representing 5 days ago
-  var currentDate = new Date();
-  currentDate.setDate(currentDate.getDate() - 5);
-
   function renderResults(results, query) {
     postList.innerHTML = '';
-
-    // Filter and render posts from the past 5 days
-    var recentPosts = results.filter(function (result) {
-      var postDate = new Date(result.date);
-      return postDate >= currentDate;
-    });
 
     var searchQuery = searchInput.value.trim();
     var countElement = document.getElementById('result-count');
@@ -129,9 +119,6 @@
           currentDate = result.date;
         }
 
-        for (var i = 0; i < recentPosts.length; i++) {
-      var result = recentPosts[i];
-
         var li = document.createElement('li');
         li.classList.add('post-item');
 
@@ -158,7 +145,7 @@
         postList.appendChild(li);
 
          // Append an <hr> element before each post (except the first one of the day)
-        if (i < recentPosts.length - 1 && recentPosts[i].date === recentPosts[i + 1].date) {
+        if (i < results.length - 1 && results[i].date === results[i + 1].date) {
         var hr = document.createElement('hr');
         postList.appendChild(hr);
         }
