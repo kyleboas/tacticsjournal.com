@@ -30,23 +30,23 @@ Real Madrid Manager, Carlo Ancelotti, [in a press conference in April](https://w
 Lazio manager, Maurizio Sarri, [on October 5th](https://theathletic.com/4931366/2023/10/05/lazio-celtic-sarri/):
 
 > “This is no longer the game I love. I wake up in the morning and can’t even remember who we’re playing against. I feel like a movie producer. You should see the condition the players who play every three days are in. Then the international break comes, and I hear the papers saying, ‘Now they get a rest,’ and instead, they continue to play every three days.
-
+> 
 > I hope Serie A, FIFA, UEFA, and the players’ association all do ‘mea culpa’ (express remorse). There have been 50 muscle injuries over this matchday. I’m particularly outraged with the players’ association as they allow their members to go to the slaughterhouse without even a hint of protest.
-
+> 
 > The calendar impacts on quality and causes injuries. If it carries on like this, I’ll stop.”
 
 Pep Guardiola, continued:
 
 > “Honestly, I’m a manager but I’m not a trainer. I don’t have trainings on the pitch, with all the team to improve. Try to impress (things upon) Mateo [Kovacic] and Jeremey [Doku]. You think we give them time, to understand what we want to do, the process? We want results in minutes but the results.
-
+> 
 > Good food needs time to be cooked, you know, need time, time, there. Half an hour, one hour. You put it in the microwave, not the same. So now everything is so quick, we want results immediately when we don’t have time with the players to settle them good, not understand things immediately. Because they are demanding higher.
-
+> 
 > They put more competitions, I’m here, we will play more competitions. What I said [the other day], only the players can stop it.
 
 Pep Guardiola [has called upon the players](https://www.independent.co.uk/sport/football/pep-guardiola-vincent-kompany-luis-rubiales-manchester-city-wolves-b2421319.html) to put up a protest, if they want change:
 
 > "There is only one solution to change something – players decide for themselves, ‘Stop, we have to change something’. FIFA/UEFA will maybe react. This business, the show must go on. Without Pep? Keep going. But without the players, the show will not go on, that’s for sure. So it depends on them, they decide if they accept.
-
+> 
 > Look what happened in Spain with the women’s team. The players decided they had to change something and they changed it. They did it. The best legacy they have done is that. The women’s team in Spain did it. I don’t know [if], in world football, the men’s, they are able to do it."
 
 The point about not being able to train is big and it has an effect on how quickly new structures and systems can be implemented. The match is the training session for the teams that play in Europe.
