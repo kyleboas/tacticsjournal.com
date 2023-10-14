@@ -73,4 +73,6 @@ Until Jack Grealish works up the confidence to attempt some progressive carries 
 
 The fewer touches Grealish takes, the better.
 
+You need variety to keep the defender guessing. Take it up the line once or twice, when you take it inside, there will be more space. Currently Grealish only takes it inside so he is predictable and easy to stop.
+
 *Match: England vs Australia, October 13, 2023*
