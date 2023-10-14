@@ -69,7 +69,7 @@ Jack Grealish is fantastic in the tackle. He's very strong and knows how to time
 
 Until Jack Grealish works up the confidence to attempt some progressive carries to the corner, a runner from the half-space to the space out wide is the only way England and Manchester City will be able to progress the ball and create chances on the left side. 
 
-{% include video.html url="https://www.youtube.com/embed/https://youtu.be/M_ifXxRPa4E?si=NPiZzQR3aYYAFIl6" %}
+{% include video.html url="https://www.youtube.com/embed/M_ifXxRPa4E?si=NPiZzQR3aYYAFIl6" %}
 
 The fewer touches Grealish takes, the better.
 
