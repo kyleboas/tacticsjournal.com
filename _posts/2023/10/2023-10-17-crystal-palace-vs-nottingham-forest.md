@@ -7,6 +7,7 @@ categories:
 tags:
 - "Nottingham Forest"
 - "Crystal Palace"
+image: "https://tacticsjournal.com/assets/49C5CFDB-8903-4364-A836-0A3DE4DB2CD4.jpeg"
 ---
 
 This is a clash of two resolute defenses that offer little threat going forward due to most of their threats being out with injury. On paper, you'd expect neither team to score. The title of this post matches the blandness of this match. 
