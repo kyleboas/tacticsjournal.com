@@ -7,7 +7,7 @@ categories:
 tags:
 - "Fulham"
 - "Tottenham"
-image: "https://i.imgur.com/4D9HgyY.png"
+image: "https://i.imgur.com/4laMrSK.jpg"
 ---
 
 All Fulham have to do is stay narrow in their 4-4-2 out of possession because the distribution into the box for Tottenham isn't consistent enough. And there's no one to head the ball.
@@ -27,13 +27,46 @@ Tottenham's main hope is working it into the final third, wide, and then taking 
 
 Than Fulham make a mistake at the back, allowing Tottenham to counter. The backup, Calvin Bassey, in for Issa Diop, is the weak spot, and he makes the mistake. And then the second goal in the 2nd half resulted from a mistake by Bassey.
 
-Tottenham didn't create a ton of high quality chances outside of capitalizing from those two mistakes. 
-
-James Maddison on Tottenham's work rate:
+James Maddison on Tottenham's work rate, pressing:
 
 > “The gaffer went ballistic at us at half-time in a pre-season game against Shaktar, when we went 1-0 up and then sat off and stopped pressing. He said that’s exactly how Tottenham have been in the past [under previous managers] and that it has cost them, and that we have to keep going and never sit off.”
 
-Credit to Tottenham for putting pressure on Bassey, but they didn't create a ton of high quality chances outside of capitalizing from those two mistakes. 
+<figure>
+    <img src="https://i.imgur.com/hsIWlpT.jpg">
+    <figcaption>Figure 2.1 - Son Hueng-min pressures Bernd Leno as he passes to Calvin Bassey.</figcaption>
+</figure> 
+
+<figure>
+    <img src="https://i.imgur.com/o6f7kj6.jpg">
+    <figcaption>Figure 2.2 - Calvin Bassey passes to no one while James Maddison and Richarlison close in.</figcaption>
+</figure> 
+
+<figure>
+    <img src="https://i.imgur.com/w6qCuMU.jpg">
+    <figcaption>Figure 2.3 - Richarlison intercepts the ball and passes to Son Hueng-min, who is in space, for the goal.</figcaption>
+</figure> 
+
+<figure>
+    <img src="https://i.imgur.com/4laMrSK.jpg">
+    <figcaption>Figure 3.1 - James Maddison pressures Calvin Bassey and Richarlison steps forward to mark Maddison's mark.</figcaption>
+</figure> 
+
+<figure>
+    <img src="https://i.imgur.com/klRUUbP.jpg">
+    <figcaption>Figure 3.2 - Calvin Bassey attempts to clear it up the line under pressure.</figcaption>
+</figure> 
+
+<figure>
+    <img src="https://i.imgur.com/x9Mrd6B.jpg">
+    <figcaption>Figure 3.3 - Pierre-Emile Hojbjerg intercepts the pass and passes to Son Hueng-min.</figcaption>
+</figure> 
+
+<figure>
+    <img src="https://i.imgur.com/esVQQM2.jpg">
+    <figcaption>Figure 3.4 - Son Heung-min passes to James Maddison. Calvin Bassey is keeping everyone onside.</figcaption>
+</figure> 
+
+Identical setup for the first and second goal. Credit to Tottenham for putting pressure on Bassey, but they didn't create a ton of high quality chances outside of capitalizing from those two mistakes. 
 
 That's been the story of Fulham this season. Lots of great individual performances from Paulinha, Willian, Iwobi, Wilson, Pereira, Vinicius, Robinson, Ream, Diop, Castagne, Tete, Leno, and then one or two random players make a mistake.
 
@@ -43,7 +76,9 @@ Cristian Romero and Mickey van de Veen are such a dominant center-back duo. Van 
 
 Tottenham manager Ange Postecoglou after the match:
 
-> "In the second half, we were really wasteful with the ball. We gave it away too much. The positive thing is our workrate was still excellent."
+> "It was a good result obviously against a tough opponent. We maintained our patience, they were not going to open up too much for us. I thought our pressing was really strong.
+> 
+> In the second half, we were really wasteful with the ball. We gave it away too much. The positive thing is our workrate was still excellent."
 
 Tottenham was quite sloppy with their passes, out to in, in the buildup, when they were in the middle third. Kulusevski would pick up the ball on the halfway line wide, dribble inside, and then misplace his pass centrally. It happened a couple of times from different players.
 
