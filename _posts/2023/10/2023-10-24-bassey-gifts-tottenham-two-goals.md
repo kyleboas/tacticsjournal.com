@@ -27,7 +27,13 @@ Tottenham's main hope is working it into the final third, wide, and then taking 
 
 Than Fulham make a mistake at the back, allowing Tottenham to counter. The backup, Calvin Bassey, in for Issa Diop, is the weak spot, and he makes the mistake. And then the second goal in the 2nd half resulted from a mistake by Bassey.
 
-Tottenham didn't create a ton of high quality chances outside of capitalizing from those two mistakes.
+Tottenham didn't create a ton of high quality chances outside of capitalizing from those two mistakes. 
+
+James Maddison on Tottenham's work rate:
+
+> “The gaffer went ballistic at us at half-time in a pre-season game against Shaktar, when we went 1-0 up and then sat off and stopped pressing. He said that’s exactly how Tottenham have been in the past [under previous managers] and that it has cost them, and that we have to keep going and never sit off.”
+
+Credit to Tottenham for putting pressure on Bassey, but they didn't create a ton of high quality chances outside of capitalizing from those two mistakes. 
 
 That's been the story of Fulham this season. Lots of great individual performances from Paulinha, Willian, Iwobi, Wilson, Pereira, Vinicius, Robinson, Ream, Diop, Castagne, Tete, Leno, and then one or two random players make a mistake.
 
