@@ -7,7 +7,7 @@ categories:
 tags:
 - "PSG"
 - "AC Milan"
-image: "https://i.imgur.com/c8MUSC0.jpg"
+image: "https://i.imgur.com/o2XFabL.jpg"
 ---
 
 Rafael Leo and Christian Pulisic weren't involved once PSG got past the first phase. This left midfielders Yunus Musah, Rade Krunic, and Tijani Reijnders on an island in the middle, tasked to run around like chickens with their heads cut off, trying to stop PSG's midfield three and Hakimi.
