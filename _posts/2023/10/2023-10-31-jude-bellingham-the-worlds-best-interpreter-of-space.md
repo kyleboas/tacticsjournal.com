@@ -8,6 +8,7 @@ tags:
 - "Real Madrid"
 - "Barcelona"
 image: "https://i.imgur.com/TYzxlz9.jpg"
+redirect_from: "/2023/10/31/jude-bellingham,-the-worlds-best-interpreter-of-space/"
 ---
 
 
