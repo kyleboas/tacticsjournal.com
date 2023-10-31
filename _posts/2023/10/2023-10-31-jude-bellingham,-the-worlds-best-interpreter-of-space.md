@@ -17,7 +17,7 @@ Timing your run to perfectly arrive in the space when the ball arrives is an art
 
 > *"Ich bin ein Raumdeuter" - [Thomas Muller](https://jobsinfootball.com/blog/raumdeuter-role-explained/)*
 
-Which translates roughly as "I am an interpreter of space", or "I am a space investigator". This is Bellingham. 
+Which translates roughly as "I am an interpreter of space", or "I am a space investigator". This is Bellingham but he has more skill on the ball when compared to Muller. 
 
 <figure>
     <img src="https://i.imgur.com/pnny1Am.jpg">
