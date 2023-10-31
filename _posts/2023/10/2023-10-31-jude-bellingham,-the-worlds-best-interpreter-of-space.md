@@ -56,5 +56,3 @@ The key to this play is the center-forward Joselu pinning center-back Andreas Ch
 Not only does Bellingham have the timing down; he has the poise in front of goal to direct his shot at the ground rather than in the air. No chance for Ter Stegen to make that save.
 
 He is one of the most balanced footballers in the world and he's only 20 years old. 
-
-Thomas Muller is 
