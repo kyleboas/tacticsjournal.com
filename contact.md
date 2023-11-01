@@ -7,6 +7,6 @@ If you have any questions or want to get in touch with me, I check all direct me
 
 If you prefer email: 
 
-<a href="mailto:kyle@tacticsjournal.com">kyle@tacticsjournal.com</a> 
+<a href="mailto:tacticsjournal.com@gmail.com">tacticsjournal.com@gmail.com</a> 
 
 If I don't get back to you within 48 hours, try again. 
