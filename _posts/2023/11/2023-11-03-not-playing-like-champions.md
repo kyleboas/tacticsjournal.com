@@ -58,4 +58,4 @@ In the summer, the recruitment was odd. Ten Hag seemed to be [trying to replicat
 
 If you have the vision, then you can take that team and elevate individual players. Look at Roberto De Zerbi and Ange Postecoglou for inspiration on how to accomplish that. They are the types of managers you need to create a culture of togetherness within the squad like that made by Sir Alex Ferguson, showcased well in the DVD from 2003. 
 
-Erik Ten Hag has begun to slowly create his own culture within the club based on his greater vision for the squad. The execution of how they have built this squad is suspect, but there has been evidence that he knows how to elevate individual players. It feels like the main issues are deeper though.
+Erik Ten Hag has begun to slowly create his own culture within the club based on his greater vision for the squad. The execution of how they have built this squad is suspect, but there has been evidence that he knows how to elevate individual players. It feels like the main issues are deeper though. At times they are a collective and other times they are individuals. The early 2000s teams never were allowed to play like individuals. 
