@@ -56,6 +56,6 @@ If you don't have a clear vision for who you want to target and you lose that cu
 
 In the summer, the recruitment was odd. Ten Hag seemed to be [trying to replicate what he had at Ajax in 2021/22](https://tacticsjournal.com/2023/07/04/erik-ten-hag-end-goal-for-manchester-united-is-2021-22-ajax/). They've built a squad without many first phase midfielders, to play more direct to players who aren't accomplished at winning aerial duels. They might have had a vision but the squad building is suspect. After years of high quality managers coming and going, it's hard to say who's fault that is without being part of the behind the scenes. The scapegoat is the manager though of course. 
 
-If you have the vision, then you can take that team and elevate individual players. Look at Roberto De Zerbi and Ange Postecoglou for inspiration on how to accomplish that. They are the types of managers you need to create a culture of togetherness within the squad like that made by Sir Alex Ferguson, shown in the DVD from 2003. 
+If you have the vision, then you can take that team and elevate individual players. Look at Roberto De Zerbi and Ange Postecoglou for inspiration on how to accomplish that. They are the types of managers you need to create a culture of togetherness within the squad like that made by Sir Alex Ferguson, showcased well in the DVD from 2003. 
 
-20 years later and I don't feel like this club has that same identity.
+Erik Ten Hag has begun to slowly create his own culture within the club based on his greater vision for the squad. The execution of how they have built this squad is suspect, but there has been evidence that he knows how to elevate individual players.
