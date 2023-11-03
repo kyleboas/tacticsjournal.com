@@ -6,7 +6,7 @@ categories:
 - "Premier League"
 tags:
 - "Manchester United"
-image: "https://i.imgur.com/7dbh4En.jpg"
+image: "https://i.imgur.com/A30fpQs.jpg"
 ---
 
 In the United States, in the early 2000s, the only team you knew was Manchester United. They were the main team tapping into that market with summer preseason tours to the states. If you are in the United States, and you wanted to follow an English speaking team at that time, you only knew the Red Devils. 
