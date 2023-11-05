@@ -90,3 +90,5 @@ This change from Arteta allowed Arsenal to create a few high-quality crossing ch
 Now that Arsenal lost, if Liverpool and Aston Villa win their games on Sunday, Arsenal will sit outside the top 4 in 5th place, and Newcastle move up to 6th. The Champions League schedule is beginning to take a toll on these two teams. The top 8 is quite volatile – two losses can drop you to 8th, while two to three wins can propel you to 1st or 2nd. It's the closest the league has ever been.
 
 When I was rudely interrupted by Kai Havertz in the 36th minute, I was going to say that I was disappointed in Newcastle's summer transfer window. They looked exhausted at the end of last season and lacked depth at center-back, as mentioned [here](https://tacticsjournal.com/2023/08/16/18-23/). I believe it's crucial for them to acquire a left-footed center-back in the January transfer window, even if it's just a backup, if they want to compete for a top 4 spot.
+
+*Match: Newcastle vs Arsenal, November 4, 2023*
