@@ -91,4 +91,4 @@ Now that Arsenal lost, if Liverpool and Aston Villa win their games on Sunday, A
 
 When I was rudely interrupted by Kai Havertz in the 36th minute, I was going to say that I was disappointed in Newcastle's summer transfer window. They looked exhausted at the end of last season and lacked depth at center-back, as mentioned [here](https://tacticsjournal.com/2023/08/16/18-23/). I believe it's crucial for them to acquire a left-footed center-back in the January transfer window, even if it's just a backup, if they want to compete for a top 4 spot.
 
-*Match: Newcastle vs Arsenal, November 4, 2023*
+*Match: Newcastle 1-0 Arsenal, November 4, 2023*
