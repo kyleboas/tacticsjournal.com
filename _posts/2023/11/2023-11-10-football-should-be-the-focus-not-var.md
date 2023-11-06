@@ -17,9 +17,9 @@ The only instance where I could say with 100% certainty "that was wrong" was Liv
 
 {% include video.html url="https://www.youtube.com/embed/hhpgelkcnJ8?si=DkdEQM-5phPMrTzy" %}
 
-That is an instance where the integrity of the game comes into question. I've never seen anything like that. I've seen plenty of instances where a video was inconclusive, there's a judgment call that goes wrong. That's different. Nothing compares to a miscommunication of what the ruling was.
+That is an instance where the integrity of the game comes into question. I've never personally seen anything like that. There may be others I'm not aware of or can't remember. I've seen plenty of instances where a video was inconclusive, there's a judgment call that goes wrong, something that's up to interpretation. That's different. Nothing compares to that Liverpool miscommunication.
 
-I watch matches that don't have VAR, and I'm jealous. I'm jealous of the fact that play moves on. There's no 2-minute delay to draw a line off a man's shoulder or zooming in on a hand in the box. You get the call from the referee, live, once, and then you move on. But then there's an offside called that's clearly onside, and you're immediately reminded why VAR was such a good idea.
+I watch matches that don't have VAR, like the Carabao Cup, and I'm jealous. I'm jealous of the fact that play moves on. There's no 2-minute delay to draw a line off a man's shoulder or zooming in on a hand in the box. You get the call from the referee, live, once, and then you move on. But then there's an offside called that's clearly onside, and you're immediately reminded why VAR was such a good idea.
 
 {% include video.html url="https://www.youtube.com/embed/wA_n-04rJDw?si=3Uql9m6GC_uar39G" %}
 
