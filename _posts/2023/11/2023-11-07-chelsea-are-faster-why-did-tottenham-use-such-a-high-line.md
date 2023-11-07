@@ -47,7 +47,7 @@ The first to make a deeper run was Marc Cucurella in the second half.
     <figcaption>Figure 3.1 - Marc Cucurella begins his run while Reece James has the ball on the far side.</figcaption>
 </figure> 
 
-Look at how comically high the high line is from Tottenham. They were down to ten men at that point in the game. The entire team in one line waiting for the pass through. Bizarre. 
+Look at how comically high the high line is from Tottenham. They were down to nine men at that point in the game. The entire team in one line waiting for the pass through. Bizarre. 
 
 <figure>
     <img src="https://i.imgur.com/Wr8ZZEY.jpg">
