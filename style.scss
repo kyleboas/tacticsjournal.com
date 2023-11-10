@@ -41,6 +41,21 @@ nav {
   }
 }
 
+@media screen and (min-width: 370px) {
+  .site-avatar img {
+    width: 110px;
+  }
+  .blog-title {
+    font-size: 30px;
+  }
+  .blog-author { 
+    font-size: 25px;
+  }
+  .blog-slogan {
+    font-size: 26px;
+  }
+}
+
 .site-avatar img { 
   width: 80px;
 }
