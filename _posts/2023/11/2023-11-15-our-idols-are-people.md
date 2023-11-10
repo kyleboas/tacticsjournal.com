@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-11-11 08:00 UTC
+date: 2023-11-15 08:00 UTC
 title: "Our idols are people"
 categories:
 - "La Liga"
