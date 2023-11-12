@@ -29,7 +29,7 @@ They did not have Destiny Udogie when they played Wolves, he will be back from s
 
 They lack depth at several positions, but I feel they need that orchestrator in the middle of the pitch. I attribute a lot of Tottenham's success this season to James Maddison. He can create chances from nothing in a way that Hojbjerg, Sarr, Bentancur, Bissouma, Lo Celso, and Skipp cannot. It's one of the main reasons that they struggled under Antonio Conte last season. Other than Kulusevski, they didn't have a creator who could play inside until they signed James Maddison in the summer.
 
-Dejan Kulusevski has the same attributes that James Maddison has. He can pick out a pass, he has world-class vision, great decision making. He can beat his man 1v1 when he dribbles with the ball. Now would be the time. 
+Dejan Kulusevski has the same attributes that James Maddison has. He can pick out a pass, he has world-class vision, great decision making. He can beat his man 1v1 when he dribbles with the ball. Now would be the time.
 
 <figure>
     <img src="https://i.imgur.com/cwZfXDT.jpg">
