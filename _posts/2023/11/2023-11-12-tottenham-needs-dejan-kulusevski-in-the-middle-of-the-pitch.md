@@ -46,7 +46,7 @@ We might get in a situation where they are "found out" by other teams because of
 
 <figure>
     <img src="https://i.imgur.com/3UbKT23.jpg">
-    <figcaption>Figure 2.1 - Australia's structure in possession in the 2017 Confederations Cup under Ange Postecoglou. [Credit for the image to The Coaches' Voice](https://www.coachesvoice.com/cv/ange-postecoglou-tottenham-celtic/)</figcaption>
+    <figcaption>Figure 2.1 - Australia's structure in possession in the 2017 Confederations Cup under Ange Postecoglou. <a href="https://www.coachesvoice.com/cv/ange-postecoglou-tottenham-celtic/">Credit for the image to The Coaches' Voice</a></figcaption>
 </figure>
 
 <figure>
