@@ -64,4 +64,4 @@ And then you have Brighton and West Ham as wildcards, waiting to chip away at th
 
 There are four teams to watch, lurking outside the top 10. Ivan Toney will be [allowed back to play after suspension on January 17, 2023](https://www.brentfordfc.com/en/news/article/first-team-thomas-frank-ivan-toney-brentford-return) for Brentford (16 points). Wolves (15) are firing under Gary O'Neil, Michael Olise just returned from injury for Crystal Palace (15), and Everton (14) might have [figured out how their manager wants to play](https://tacticsjournal.com/2023/11/11/sean-dyche-has-a-chat-with-dele-alli-about-evertons-direct-play/).
 
-The league race is the closest it has ever been since the 2020-21 season, but these seasons are rare and exciting.
+The league race is the closest it has been since the 2020-21 season, but these seasons are rare when you look at the history in the past 10 years.
