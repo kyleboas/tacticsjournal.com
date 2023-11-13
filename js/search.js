@@ -25,8 +25,8 @@
   }
 
   var posts = [
+    {
     {% for post in site.posts %}
-        {
           title: "{{ post.title | xml_escape }}",
           url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
           excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
@@ -35,8 +35,9 @@
           date: "{{ post.date | date: "%B %d, %Y" }}",
           note: "{{- post.content | replace_first: '<p>', '' | replace: '</p>\\s*<p>', '</p><p>' | replace: '"', '\"' | strip_newlines | strip -}}",
           content: "{{- post.content | replace: '"', '\"' | strip_newlines | strip -}}"
-        {% unless forloop.last %},{% endunless %}
-    {% endfor %}
+     {% unless forloop.last %},{% endunless %} 
+     {% endfor %}
+    }
   ];
 
   function search(query) {
