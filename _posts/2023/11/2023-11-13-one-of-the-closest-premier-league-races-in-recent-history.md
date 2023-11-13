@@ -14,7 +14,7 @@ tags:
 - "Newcastle"
 - "Brighton"
 - "West Ham"
-- Chelsea"
+- "Chelsea"
 image: "https://i.imgur.com/eI3MkNw.jpg"
 ---
 
