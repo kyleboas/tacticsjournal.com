@@ -35,7 +35,7 @@
           date: "{{ post.date | date: "%B %d, %Y" }}",
           note: "{{- post.content | replace_first: '<p>', '' | replace: '</p>\\s*<p>', '</p><p>' | replace: '"', '\"' | strip_newlines | strip -}}",
           content: "{{- post.content | replace: '"', '\"' | strip_newlines | strip -}}"
-        }{% unless forloop.last %},{% endunless %}
+        {% unless forloop.last %},{% endunless %}
     {% endfor %}
   ];
 
