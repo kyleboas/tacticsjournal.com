@@ -35,7 +35,6 @@
           content: "{{ post.content | strip_newlines | strip }}",
           date: "{{ post.date }}"
     }
-     {% unless forloop.last %},{% endunless %} 
      {% endfor %}
   ];
 
@@ -61,13 +60,11 @@
     ) {
       var highlightedTitle = highlightMatch(post.title, query);
       var highlightedExcerpt = highlightMatch(post.excerpt, query);
-      var highlightedNote = isNote ? highlightMatch(post.note, query) : post.note;
 
       results.push({
         title: highlightedTitle,
         url: post.url,
         excerpt: highlightedExcerpt,
-        note: highlightedNote, // Include highlighted note content
         tags: post.tags,
         categories: post.categories,
         date: post.date,
@@ -122,16 +119,6 @@
         var li = document.createElement('li');
         li.classList.add('post-item');
 
-        if (result.categories.includes('Notes')) {
-          var p = document.createElement('p');
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          a.classList.add('short-title');
-          p.appendChild(a);
-          p.innerHTML += result.note;
-          li.appendChild(p);
-        } else {
           var a = document.createElement('a');
           a.href = result.url;
           a.innerHTML = result.title;
@@ -140,7 +127,6 @@
           var p = document.createElement('p');
           p.innerHTML = result.content;
           li.appendChild(p);
-        }
         
         postList.appendChild(li);
 
@@ -184,16 +170,6 @@
         var li = document.createElement('li');
         li.classList.add('post-item');
 
-        if (result.categories.includes('Notes')) {
-          var p = document.createElement('p');
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          a.classList.add('short-title');
-          p.appendChild(a);
-          p.innerHTML += result.note;
-          li.appendChild(p);
-        } else {
           var a = document.createElement('a');
           a.href = result.url;
           a.innerHTML = result.title;
@@ -202,7 +178,6 @@
           var p = document.createElement('p');
           p.innerHTML = result.excerpt;
           li.appendChild(p);
-        }
 
         postList.appendChild(li);
 
