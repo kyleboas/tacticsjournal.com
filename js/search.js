@@ -32,7 +32,7 @@
           excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
           tags: "{{ post.tags | xml_escape }}",
           categories: "{{ post.categories | xml_escape }}",
-          content: "{{ post.content strip_newlines | strip }}",
+          content: "{{ post.content | strip_newlines | strip }}",
           date: "{{ post.date }}"
     }
      {% unless forloop.last %},{% endunless %} 
