@@ -48,9 +48,13 @@ Fixtures will become more and more congested as we progress through December int
 
 Manchester City and Liverpool are the most prepared for this period and fit. They have the most experience knowing how to rotate their lineup with the 2-3 days between matches. Liverpool has the edge because they’re playing in the Europa League. They’ll have less motivation or need to go full strength into those mid-week matches.
 
-Arsenal, like Newcastle, are new to the Champions League. Newcastle is ridden with injuries and already looking like a team plagued by fatigue. It’s only November. Arsenal may be able to rest mid-week because they are topping their Champions League group. Watch for either team to tire and possibly fall into March.
+Arsenal, like Newcastle, are new to the Champions League. Newcastle is ridden with injuries and already looking like a team plagued by fatigue. It’s only November. Arsenal may be able to rest mid-week because they are topping their Champions League group. 
+
+Arsenal's entire season hinges on how swiftly they can adapt to [their new squad dynamics](https://tacticsjournal.com/2023/11/05/arsenal-could-have-walked-away-with-the-league/), reliant on Bukayo Saka and William Saliba staying fit. Their fortune lies in Manchester United's poor start to the season; United's struggle and inability to contend for a top 4 spot increases Arsenal's chances. However, sustained success may require ongoing luck as fatigue clashes with their inexperience.
 
 I don’t think Newcastle have a chance at finishing top 4 with the squad in its current state due to the lack of depth in defense and the strength of the teams above them in the table.
+
+Watch for either Arsenal or Newcastle to tire further and possibly fall into March.
 
 Tottenham had a great start to the season but [they’ve been hit with the wall of injuries](https://tacticsjournal.com/2023/11/12/tottenham-needs-dejan-kulusevski-in-the-middle-of-the-pitch/). When it rains, it pours. They could easily drop out of the top 4. Aston Villa is sitting in 5th, and they’ll only get better when Jacob Ramsey and Álex Moreno eventually reintegrate into the starting eleven.
 
