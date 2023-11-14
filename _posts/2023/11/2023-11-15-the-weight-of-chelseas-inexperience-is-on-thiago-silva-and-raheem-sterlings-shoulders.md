@@ -16,7 +16,7 @@ You can feel the weight of inexperience on the shoulders of the experienced Thia
 A weight you can feel when you watch those first 20 minutes against Tottenham. But you can't just look at age.
 
 <figure>
-    <img src="https://i.imgur.com/sFCJtQH.jpg">
+    <img src="https://i.imgur.com/8WT9s4W.jpg">
     <figcaption>Figure 1.1 - Minutes for Chelsea players with three or more starts, in the Big 5 European Leagues, prior to the 2023/24 season.</figcaption>
 </figure> 
 
