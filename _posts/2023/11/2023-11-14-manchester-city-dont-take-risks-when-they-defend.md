@@ -16,7 +16,7 @@ Manchester doesn't take the risk of attempting a tackle. They put their trust in
 
 <figure>
     <img src="https://i.imgur.com/IdWPdDD.jpg">
-    <figcaption>Figure 1.1 - Buildup Pass Completion of Premier League teams comparing their opponent's buildup completion percentage to their buildup completion percentage. [Visual made by markrstats](https://x.com/markrstats/status/1724122777463198140?s=46&t=YC8lQJTh43E_mBQW40Ct2g)</figcaption>
+    <figcaption>Figure 1.1 - Buildup Pass Completion of Premier League teams comparing their opponent's buildup completion percentage to their buildup completion percentage. <a href="https://x.com/markrstats/status/1724122777463198140?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Visual made by markrstats</a></figcaption>
 </figure> 
 
 They don't lunge at passes. They don't slide into tackles. If they do it's either a mistake or a calculated risk worth taking because they have a numerical advantage. But more often than not, if you get past their counter-press, they will allow you to get a shot off. 
