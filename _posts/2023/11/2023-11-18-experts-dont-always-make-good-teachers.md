@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-11-16 08:00 UTC
+date: 2023-11-18 08:00 UTC
 title: "Experts don't always make good teachers"
 image: "https://i.imgur.com/pIJwvoE.jpg"
 ---
