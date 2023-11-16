@@ -6,7 +6,7 @@ categories:
 - "Premier League"
 tags:
 - "Brighton"
-image: "https://i.imgur.com/B8mrlt7.jpg"
+image: "https://i.imgur.com/Iar7Rkz.jpg"
 ---
 
 I agree with the many that say Roberto De Zerbi is one of the most influential managers in the past 20 years. Watch this [brilliant video by The Purist](https://youtu.be/D8AgTaSShmM?si=L8RackfWNOrWnboD) to see why. He highlights most of my thoughts.
