@@ -3,9 +3,9 @@ layout: default
 permalink: /preview/
 ---
 
-| Sassuolo goals against | |
+| Sassuolo | |
 |---|---|
-| 2018/19 | 60 |
-| 2019/20 | 63 |
-| 2020/21 | 56 |
-| 2021/22 | 66 |
+| 2018/19 | 60 conceded |
+| 2019/20 | 63 conceded |
+| 2020/21 | 56 conceded |
+| 2021/22 | 66 conceded |
