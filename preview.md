@@ -3,7 +3,7 @@ layout: default
 permalink: /preview/
 ---
 
-| Sassuolo | Goals Against |
+| Sassuolo goals against | |
 |---|---|
 | 2018/19 | 60 |
 | 2019/20 | 63 |
