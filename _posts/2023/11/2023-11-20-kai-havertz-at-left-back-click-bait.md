@@ -87,3 +87,5 @@ He did track back all the way to left-back when Germany were out-of-possession. 
 But to say "Havertz played left-back" without providing more context is a little misleading for those who didn't watch live.  
 
 Assigning a position to a player makes players chess pieces. They are not chess pieces. Each player behaves differently when you put them in a specific position. A center midfielder in one team will move and occupy different space when you compare them to a center midfielder in another team.
+
+*Match: Germany 2-3 Turkey, November 18, 2023*
