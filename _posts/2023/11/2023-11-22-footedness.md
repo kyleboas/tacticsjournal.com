@@ -41,3 +41,5 @@ I think this can also apply to players like Kai Havertz, who rely on passing. He
 As I said, [in this post](https://tacticsjournal.com/2023/07/14/arsenal-left-midfielder-experiment/): 
 
 > "Havertz can use both feet, but he’s better at fending off defenders with his hips facing towards the right, instead of his left. Because of this, when he receives the ball on the left side of the pitch, he will always be pointed backward or towards the wing. He’s not quick, so he relies on shielding the ball. For this reason, he’ll always favor passing backward or be forced into the predictable pass wide."
+
+I love a good simple explanation of a complex topic. 
