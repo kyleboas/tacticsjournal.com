@@ -51,9 +51,9 @@ There's an overload, but limited space in the middle, and limited progressive pa
 
 <figure>
     <img src="https://i.imgur.com/cUEYZtv.jpg">
-    <figcaption>Figure 5.1 - Ball is passed to Pervis Estupinan who is on the overlap, then Kaoura Mitoma makes a run to the top of the goal area. <a href="https://tacticsjournal.com/2023/09/25/brighton-move-without-thinking/">Original post</a></figcaption>
+    <figcaption>Figure 5.1 - Ball is passed to Pervis Estupinán who is on the overlap, then Kaoura Mitoma makes a run to the top of the goal area. <a href="https://tacticsjournal.com/2023/09/25/brighton-move-without-thinking/">Original post</a></figcaption>
 </figure> 
 
-This is an issue Brighton is currently facing. Pervis Estupinan's runs at left-back create space for the forwards and subsequently the midfield. With him out injured, Karoru Mitoma isn't as effective without those runs.
+This is an issue Brighton is currently facing. Pervis Estupinán's runs at left-back create space for the forwards and subsequently the midfield. With him out injured, Karoru Mitoma isn't as effective without those runs.
 
 Regardless, Cesc Fàbregas is poised to become a top manager; he has fantastic ideas.
