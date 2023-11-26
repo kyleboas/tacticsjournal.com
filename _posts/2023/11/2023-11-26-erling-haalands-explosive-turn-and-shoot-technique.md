@@ -78,3 +78,5 @@ Then he makes contact with the ball on the inside of the foot, towards the top o
 That contact technique paired with the added power he generates makes it difficult for Alisson, difficult enough that it bundles past his outstretched left hand. He makes contact with the ball but the added spin he generates makes it too much to stop.
 
 He makes it look simple and routine, but nothing about what he just did is simple.
+
+*Match: Manchester City 1-1 Liverpool, November 25, 2023*
