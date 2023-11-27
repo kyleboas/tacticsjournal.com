@@ -47,7 +47,7 @@ Dejan Kulusevski hits the post, but observe Bryan Gil running at speed toward th
 
 <figure>
     <img src="https://i.imgur.com/b6qHggF.jpg">
-    <figcaption>Figure 6.1 - 2v2 on the far-post.</figcaption>
+    <figcaption>Figure 6.1 - 2v1 on the back-post.</figcaption>
 </figure>
 
 <figure>
