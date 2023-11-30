@@ -47,7 +47,7 @@ It's hard to crash a box when you are 30 yards behind the play.
     <figcaption>Figure 2.2 - Ball in the box, McTominay sprints 20 yards to reach the top, out of play.</figcaption>
 </figure>
 
-He has a great engine, which allows him to run up and down the pitch at speed for 90 minutes. That's great. But you want him higher up the pitch. It would be great if he could conserve all that energy for attack, rather than track back to the second line, act like like a traffic cone in defense, and then sprint the full length of the field to attempt to get involved in the attack only to be 30 yards behind the play. 
+He has a great engine, athleticism, which allows him to run up and down the pitch at speed for 90 minutes. That's great. But you want him higher up the pitch. It would be great if he could conserve all that energy for attack, rather than track back to the second line, act like like a traffic cone in defense, and then sprint the full length of the field to attempt to get involved in the attack only to be 30 yards behind the play. 
 
 He must be near the box at the start of Manchester United's attack, not trailing behind the front line but on it. It's a waste of his skillset in attack to have him this far behind the ball. 
 
