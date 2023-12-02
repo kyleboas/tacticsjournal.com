@@ -22,7 +22,7 @@ Ange Postecoglou on the possibility of Eric Dier playing at center-back instead 
 
 > "No. I thought it was one aspect where we struggled last week, maybe around set-pieces. To be fair, [Aston Villa] are very good at them. Overall, I thought our defending was quite good. We were disappointed with the second goal, more than the first. Not just the back four, but defensively, we were really passive in that five to 10-minute spell which we paid a price for. That’s more of a collective thing. They haven’t grown – they are all the same height as last week. We tried to feed them some different stuff but we’ll go with that."
 
-Predictable, Ange is kind of stubborn, but it works, so why change. They should have scored 5 or more goals against Aston Villa, [as I wrote about](https://tacticsjournal.com/2023/11/27/the-battle-of-the-high-lines-and-aston-villas-far-side-weakness/). 
+Predictable, Ange is kind of stubborn, but it works, so why change. I am a massive fan of using strong and quick full-backs like Emerson Royal and Ben Davies at center-back. They should have scored 5 or more goals against Aston Villa, [as I wrote about](https://tacticsjournal.com/2023/11/27/the-battle-of-the-high-lines-and-aston-villas-far-side-weakness/). 
 
 Pep Guardiola on Ange Postecoglou: 
 
