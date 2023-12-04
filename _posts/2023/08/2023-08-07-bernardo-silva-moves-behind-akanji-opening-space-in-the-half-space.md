@@ -4,6 +4,7 @@ date: 2023-08-07 08:00 UTC
 title: "Bernardo Silva moves behind Akanji opening space in the half-space"
 categories:
 - "Premier League"
+- "Community Shield"
 tags:
 - "Arsenal"
 - "Manchester City"
