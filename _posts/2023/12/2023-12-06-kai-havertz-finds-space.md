@@ -9,7 +9,7 @@ tags:
 image: "https://i.imgur.com/04DTsun.jpg"
 ---
 
-Coaches don't care about xG; they care about finding the space. Kai Havertz is sought after by every coach he plays for because of the rare instinct that allows him to read a play and arrive in an open space at the correct time.
+Coaches don't care more about space then they do about xG. Kai Havertz is sought after by every coach he plays for because of the rare instinct that allows him to read a play and arrive in an open space at the correct time.
 
 <!---more--->
 
