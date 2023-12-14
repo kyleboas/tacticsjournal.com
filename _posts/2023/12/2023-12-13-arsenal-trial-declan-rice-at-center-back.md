@@ -16,7 +16,7 @@ Arsenal trialed Declan Rice at right center-back for 30 minutes to rest William 
 
 <figure>
     <img src="https://i.imgur.com/CLKkr9l.jpg">
-    <figcaption>Figure 1.1 - Declan Rice is on the wrong side of the defender.</figcaption>
+    <figcaption>Figure 1.1 - Declan Rice is on the wrong side of the forward.</figcaption>
 </figure> 
 
 <figure>
