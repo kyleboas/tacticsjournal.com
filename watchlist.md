@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: September 22, 2023</em></p>
+<p><em>last updated: December 14, 2023</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -95,7 +95,7 @@ layout: page
 |:----|:----|:----|:----|
 |[Jacob Ramsey](https://fbref.com/en/players/1544f145/Jacob-Ramsey)|Aston Villa| |4/23/23|
 |[Igor Paixão](https://fbref.com/en/players/089c7323/Igor-Paixao)|Feyenoord|<a href="https://youtu.be/SCuK425t3L0"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Luis Sinisterra](https://fbref.com/en/players/8e16dd48/Luis-Sinisterra)|Leeds United|<a href="https://youtu.be/O433z2mX8-8"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Luis Sinisterra](https://fbref.com/en/players/8e16dd48/Luis-Sinisterra)|Bournemouth|<a href="https://youtu.be/O433z2mX8-8"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Dani Olmo](https://fbref.com/en/players/ae44e8e2/Dani-Olmo)|RB Leipzig |<a href="https://youtu.be/Vv6tN3q5pUw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Anass Zaroury](https://fbref.com/en/players/07d65234/Anass-Zaroury)|Burnley|<a href="https://youtu.be/UhJncwDEjD0"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Morgan Gibbs-White](https://fbref.com/en/players/32f60ed8/Morgan-Gibbs-White)|Nottingham Forrest|<a href="https://youtu.be/vBbqKXmD8mQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
@@ -112,8 +112,6 @@ layout: page
 |[Karou Mitoma](https://fbref.com/en/players/74618572/Kaoru-Mitoma)|Brighton|<a href="https://youtu.be/E1pXADmALVc"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Federico Chiesa](https://fbref.com/en/players/b0f7e36c/Federico-Chiesa)|Juventus|<a href="https://youtu.be/WLGgWKpAGrs"><i class="fa-solid fa-video"></i></a>|6/25/23|
 |[Harvey Barnes](https://fbref.com/en/players/3ea50f67/Harvey-Barnes)|Leicester City|<a href="https://youtu.be/-Eci9FIZSC8"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Demarai Gray](https://fbref.com/en/players/4468ec10/Demarai-Gray)|Everton|<a href="https://youtu.be/buMPzrYC8vk"><i class="fa-solid fa-video"></i></a>|4/23/23|
-
 
 <hr class="dashed">
 
@@ -168,7 +166,7 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[Lamine Yamal](https://fbref.com/en/players/82ec26c1/Lamine-Yamal)|Manchester City|<a href="https://youtu.be/wIJRDH8bskM"><i class="fa-solid fa-video"></i></a>|6/6/23|
+|[Lamine Yamal](https://fbref.com/en/players/82ec26c1/Lamine-Yamal)|Barcelona|<a href="https://youtu.be/wIJRDH8bskM"><i class="fa-solid fa-video"></i></a>|6/6/23|
 |[Oscar Bobb](https://fbref.com/en/players/eed2427e/Oscar-Bobb)|Manchester City|<a href="https://youtu.be/5uSGhKavddQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Julio Enciso](https://fbref.com/en/players/9cfbad36/Julio-Cesar-Enciso)|Brighton|<a href="https://youtu.be/xJpo6qWemPc"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Rayan Cherki](https://fbref.com/en/players/b34c63a5/Rayan-Cherki)|Lyon|<a href="https://youtu.be/GJLkdYRO0vw"><i class="fa-solid fa-video"></i></a>|6/25/23|
@@ -313,6 +311,12 @@ layout: page
 <hr class="dashed">
 
 ## Left Center-Back 
+
+### U21
+
+|Name|Team| |Added|
+|:----|:----|:----|:----|
+|[Jorrel Hato](https://fbref.com/en/players/bde35051/Jorrel-Hato)|Ajax|<a href="https://youtu.be/BLJ-Sst9WsQ?si=xMo9uFi6Dm_cH5sC"><i class="fa-solid fa-video"></i></a>|12/14/23|
 
 ### U23
 
