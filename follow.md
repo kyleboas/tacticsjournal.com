@@ -7,15 +7,17 @@ Any other accounts not listed are not run by me and are not being truthful. If y
 
 **Social Media**
 
-Twitter: *[@tacticsjournal](https://twitter.com/tacticsjournal)
+Twitter: [@tacticsjournal](https://twitter.com/tacticsjournal)
 
-Facebook: *[https://www.facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal)*
+Facebook: [https://www.facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal)
 
-Threads: *[@tacticsjournal](https://www.threads.net/@tacticsjournal)*
+YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal) 
 
-BlueSky: *[@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)*
+Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal) 
 
-YouTube: *[https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)*
+BlueSky: [@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)
+
+Once I figure out how to automate the blog posts for Threads and BlueSky, I'll begin posting regurarly there.
 
 **RSS**
 
