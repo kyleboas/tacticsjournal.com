@@ -103,6 +103,6 @@ This is not to place the blame on one player, Wataru Endo. Liverpool needed bett
 
 Would Alexis Mac Allister do a better job at finding those progressive passes than Endo? Potentially, but I'm a fan of Endo. He has a good understanding of where to position himself off the ball in-possession, and he's good at playing simple passes. Just needs to iron out that situation once or twice where he doesn't turn to play the ball forward. 
 
-A lot of Liverpool's lack of bite in the final third was due to a lack of space. Manchester United was very well organized. They need that separation between United's back line and second line. 
+A lot of Liverpool's lack of bite in the final third was due to a lack of space. Manchester United was very well organized. They need that separation between United's back line and second line. [Same concept shown in Manchester City's match against Bournemouth](https://tacticsjournal.com/2023/11/06/manchester-citys-slow-buildup-deep-counters-bournemouths-low-block/).
 
 *Match: Liverpool 0-0 Manchester United, 17 December 2023*
