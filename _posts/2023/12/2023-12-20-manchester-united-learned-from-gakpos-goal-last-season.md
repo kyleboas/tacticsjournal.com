@@ -53,3 +53,5 @@ Then when Van Dijk gets the ball, they immediately switch back to the 4-2-4, and
 </figure> 
 
 This change made it difficult for Liverpool to progress forward quickly and blocked off the direct pass. It was very smart and well-executed. United were very organized out-of-possession and quick to switch between the two formations. [As I discussed yesterday](https://tacticsjournal.com/2023/12/19/liverpool-lacked-coordination-in-the-left-half-space/), the only way forward was progressive passes from Wataru Endo.
+
+Match: Liverpool 0-0 Manchester United, 17 December 2023
