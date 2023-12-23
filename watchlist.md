@@ -122,7 +122,6 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[Exequiel Zeballos](https://fbref.com/en/players/02f9fb61/Exequiel-Zeballos)|Boca Juniors|<a href="https://youtu.be/fZKoJNEMdiY?si=whcn-RZ2Y_ZsMXUo"><i class="fa-solid fa-video"></i></a>|12/23/23|
 |[Adedire Mebude](https://fbref.com/en/players/112bd859/Adedire-Mebude)|Manchester City|<a href="https://youtu.be/gRcUmjzNMyQ"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Omari Hutchinson](https://fbref.com/en/players/bd9553e6/Omari-Hutchinson)|Chelsea|<a href="https://youtu.be/2XcBmVP3PEw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Facundo Buonanotte](https://fbref.com/en/players/468a7a91/Facundo-Buonanotte)|Brighton|<a href="https://youtu.be/yKGd5KaPx14"><i class="fa-solid fa-video"></i></a>|4/23/23|
