@@ -244,7 +244,7 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Djibril Sow](https://fbref.com/en/players/4c6facae/Djibril-Sow)|Sevilla|<a href="https://youtu.be/fx95uxZrw5E"><i class="fa-solid fa-video"></i></a>|8/18/23|
-|[Sofyan Amrabat](https://fbref.com/en/players/5a2cb25d/Sofyan-Amrabat)|Fiorentina|<a href="https://youtu.be/fu4oA8un9KI"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Treovh Chalobah](https://fbref.com/en/players/5515376c/Trevoh-Chalobah)|Chelsea|<a href="https://youtu.be/iqcQ5vFtHo0?si=B_A3sNVOV8U9QyUj"><i class="fa-solid fa-video"></i></a>|12/23/23|
 |[João Palhinha](https://fbref.com/en/players/a78ff07f/Joao-Palhinha)|Fulham|<a href="https://youtu.be/s_RcDEOU7z0"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Mikel Marino](https://fbref.com/en/players/d080ed5e/Mikel-Merino)|Real Sociedad|<a href="https://youtu.be/l5rpsBs9Tp0"><i class="fa-solid fa-video"></i></a>|8/18/23|
 |[Martín Zubimendi](https://fbref.com/en/players/3ee0dd59/Martin-Zubimendi)|Real Sociedad|<a href="https://youtu.be/dMUdey6I3ms"><i class="fa-solid fa-video"></i></a>|6/23/23|
