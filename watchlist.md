@@ -316,6 +316,7 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Mika Màrmol](https://fbref.com/en/players/e7630876/)|FC Andorra|<a href="https://youtu.be/ygMuMXZLDd4?si=qBwdXdtDBCNtCTRf"><i class="fa-solid fa-video"></i></a>|12/23/23|
 |[Jorrel Hato](https://fbref.com/en/players/bde35051/Jorrel-Hato)|Ajax|<a href="https://youtu.be/BLJ-Sst9WsQ?si=xMo9uFi6Dm_cH5sC"><i class="fa-solid fa-video"></i></a>|12/14/23|
 
 ### U23
@@ -381,6 +382,7 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Joachim Andersen](https://fbref.com/en/players/e34fc66d/Joachim-Andersen)|Crystal Palace| |4/23/23|
+|[Riechedly Bazoer](https://fbref.com/en/players/da59a197/Riechedly-Bazoer)|AZ Alkmaar|<a href="https://youtu.be/QnRFN8ZNWGo?si=2gYoXzZHO3DS95se"><i class="fa-solid fa-video"></i></a>|12/23/23|
 
 <hr class="dashed">
 
