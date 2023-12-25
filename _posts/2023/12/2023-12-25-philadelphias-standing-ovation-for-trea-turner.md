@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-12-25 08:00 UTC
-title: "Philadelphia's Standing Ovations for Trea Turner"
+title: "Philadelphia's Standing Ovation for Trea Turner"
 tags:
 - "Chelsea"
 image: "https://i.imgur.com/W7QlGI4.jpg"
