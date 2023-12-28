@@ -82,3 +82,5 @@ Phil Foden drags Jarrad Branthwaite back, which opens up the space for Julian Al
 Smart from Julian Alvarez to curve around to the top of the box, anticipating the clearance. Nine times out of ten, both of those shots go in. 
 
 It's the flexibility that Julian Alvarez provides, dropping into different parts of the pitch, and rotating with Phil Foden that makes a passing sequence like this possible. I talked about that [in this post](https://tacticsjournal.com/2023/12/17/manchester-citys-with-alvarez-foden-grealish-and-lewis/). Erling Haaland would never be in the left half-space, dragging defenders back to create space for Grealish to carry inside.
+
+*Match: Everton 1-3 Manchester City, 27 December 2023* 
