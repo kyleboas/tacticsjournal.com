@@ -152,3 +152,5 @@ Mikel Arteta:
 > He played there before and we have to try in case of an emergency.  I will have to make sure that we can fill the gap in the right way.”
 
 He says it was to try "in case of emergency" but this is the same guy that said there was a competition for the #1 spot in goal. His hairline may be perfect but we can see through you, Mikel. The dynamic works too well to not try it again for fun.
+
+*Match: PSV 1-1 Arsenal, 12 December 2023*
