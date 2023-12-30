@@ -412,7 +412,8 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[David Raya](https://fbref.com/en/players/98ea5115/David-Raya)|Brentford|<a href="https://youtu.be/u1Dd4QL4dDw"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[David Raya](https://fbref.com/en/players/98ea5115/David-Raya)|Arsenal|<a href="https://youtu.be/u1Dd4QL4dDw"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Michele Di Gregorio](https://fbref.com/en/players/4e0c8d66/Michele-Di-Gregorio)|Monza|<a href="https://youtu.be/ulFT5iqx0HM?si=PseU_r8oOGGrfEpF"><i class="fa-solid fa-video"></i></a>|12/29/23|
 |[Kepa Arrizabalaga](https://fbref.com/en/players/98ea5115/David-Raya)|Chelsea|<a href="https://youtu.be/Tdq0Udsg9XU"><i class="fa-solid fa-video"></i></a>|6/10/23|
 |[Wladimiro Falcone](https://fbref.com/en/players/9f5a610b/Wladimiro-Falcone)|Lecce|<a href="https://youtu.be/I_5pGvDXmnA"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Alban Lafont](https://fbref.com/en/players/4e7db402/Alban-Lafont)|Nantes|<a href="https://youtu.be/4Z-s8szl2Ic"><i class="fa-solid fa-video"></i></a>|4/23/23|
