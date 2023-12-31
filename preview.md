@@ -3,4 +3,12 @@ layout: default
 permalink: /preview/
 ---
 
-{% include video.html url="https://www.youtube.com/embed/WvzFao5RnBI?si=Egy1feAzIEl8_Wwe" %}
+<div>
+  <form id="passwordForm">
+    <label for="password">Enter Password:</label>
+    <input type="password" id="password" required>
+    <button type="button" onclick="associatePassword()">Submit</button>
+  </form>
+</div>
+
+<script src="/js/password.js"></script>
