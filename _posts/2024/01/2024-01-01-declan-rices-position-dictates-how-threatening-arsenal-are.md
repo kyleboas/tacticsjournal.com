@@ -73,3 +73,5 @@ Arsenal are reliant on the position of Rice on the pitch. Where he goes, the pla
 Rice favored positioning himself on the right side of the pitch, which forced Arsenal to go through Bukayo Saka.
 
 Pass to Saka, overload the far-side of the box, and pray he can create something out of nothing. Arsenal did not complete a pass into the penalty area between the 67th minute and the 95th.
+
+*Match: Fulham 2-1 Arsenal, 31 December 2023*
