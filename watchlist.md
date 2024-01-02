@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: December 27, 2023</em></p>
+<p><em>last updated: 2 January 2024</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -412,6 +412,7 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Álvaro Vallés](https://fbref.com/en/players/0166a73e/matchlogs/2023-2024/Alvaro-Valles-Match-Logs)|Las Palmas|<a href="https://youtu.be/z4R3PmbzZQo?si=oCARliCnCjt85xZJ"><i class="fa-solid fa-video"></i></a>|1/2/24|
 |[David Raya](https://fbref.com/en/players/98ea5115/David-Raya)|Arsenal|<a href="https://youtu.be/u1Dd4QL4dDw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Michele Di Gregorio](https://fbref.com/en/players/4e0c8d66/Michele-Di-Gregorio)|Monza|<a href="https://youtu.be/ulFT5iqx0HM?si=PseU_r8oOGGrfEpF"><i class="fa-solid fa-video"></i></a>|12/29/23|
 |[Kepa Arrizabalaga](https://fbref.com/en/players/98ea5115/David-Raya)|Chelsea|<a href="https://youtu.be/Tdq0Udsg9XU"><i class="fa-solid fa-video"></i></a>|6/10/23|
