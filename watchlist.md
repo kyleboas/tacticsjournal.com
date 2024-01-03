@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: 2 January 2024</em></p>
+<p><em>last updated: 3 January 2024</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -413,8 +413,16 @@ layout: page
 |Name|Team| |Added|
 |:----|:----|:----|:----|
 |[Álvaro Vallés](https://fbref.com/en/players/0166a73e/matchlogs/2023-2024/Alvaro-Valles-Match-Logs)|Las Palmas|<a href="https://youtu.be/z4R3PmbzZQo?si=oCARliCnCjt85xZJ"><i class="fa-solid fa-video"></i></a>|1/2/24|
+|[Gregor Kobel](https://fbref.com/en/players/cd59b9df/Gregor-Kobel)|Dortmund|<a href="https://youtu.be/4gdO_N7Yz1o?si=L_Fg0lPxSsrbjKkh"><i class="fa-solid fa-video"></i></a>|1/3/24|
+|[Guglielmo Vicario](https://fbref.com/en/players/77d6fd4d/Guglielmo-Vicario)|Tottenham|<a href="https://youtu.be/R-83A_aDtOE?si=8Or3hm08F8diHHi-"><i class="fa-solid fa-video"></i></a>|1/3/24|
+|[Gautier Larsonneur](https://fbref.com/en/players/b49729cb/Gautier-Larsonneur)|Saint-Étienne| |1/3/24|
+|[Rubén Yáñez](https://fbref.com/en/players/039ae103/Ruben-Yanez)|Sporting Gijón| |1/3/24|
+|[Brice Samba](https://fbref.com/en/players/60d90c55/Brice-Samba)|Lens| |1/3/24|
+|[Arthur Desmas](https://fbref.com/en/players/e8c5dd4d/Arthur-Desmas)|Le Havre| |1/3/24|
+|[Paulo Gazzaniga](https://fbref.com/en/players/63d17038/Paulo-Gazzaniga)|Girona| |1/3/24|
+|[Marco Bizot](https://fbref.com/en/players/3d214e5f/Marco-Bizot)|Brest| |1/3/24|
+|[Yann Sommer](https://fbref.com/en/players/420c18a1/Yann-Sommer)|Inter| |1/3/24|
 |[Mike Maignan](https://fbref.com/en/players/fcb38f57/Mike-Maignan)|AC Milan|<a href="https://youtu.be/a1CV72Vp4wU"><i class="fa-solid fa-video"></i></a>|6/11/23|
-|[David Raya](https://fbref.com/en/players/98ea5115/David-Raya)|Arsenal|<a href="https://youtu.be/u1Dd4QL4dDw"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Kepa Arrizabalaga](https://fbref.com/en/players/98ea5115/David-Raya)|Chelsea|<a href="https://youtu.be/Tdq0Udsg9XU"><i class="fa-solid fa-video"></i></a>|6/10/23|
 |[Wladimiro Falcone](https://fbref.com/en/players/9f5a610b/Wladimiro-Falcone)|Lecce|<a href="https://youtu.be/I_5pGvDXmnA"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Alban Lafont](https://fbref.com/en/players/4e7db402/Alban-Lafont)|Nantes|<a href="https://youtu.be/4Z-s8szl2Ic"><i class="fa-solid fa-video"></i></a>|4/23/23|
