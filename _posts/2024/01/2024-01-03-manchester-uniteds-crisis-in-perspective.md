@@ -97,4 +97,4 @@ I think it is partly due to the fact that we don't rate their players. "Who care
 
 Part of it is bad luck, another part is likely mismanagement. Poor training regimen, overworked, etc. Information we don't have. It would be pure guessing to place blame on one person, but it will fall on Erik Ten Hag.
 
-Brighton, Brentford, Chelsea, Bournemouth, and Newcastle are the only teams that could say that they're going through a comparable crisis today. Everyone is struggling, but the expectations need to match the extent of the struggle.
+Brighton, Brentford, Chelsea, Bournemouth, and Newcastle are the only teams that could say that they're going through a comparable crisis today. Every team is struggling, but the expectations need to match the extent of the struggle.
