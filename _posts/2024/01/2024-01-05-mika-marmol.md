@@ -10,7 +10,7 @@ tags:
 image: "https://i.imgur.com/fpHewEG.jpeg"
 ---
 
-Mika Mármol of Las Palamas is a 22-year-old, exciting ball-playing left-footed center-back. Here are the positives and negatives I took from his performance against Barcelona.
+Mika Mármol of Las Palmas is a 22-year-old, exciting ball-playing left-footed center-back. Here are the positives and negatives I took from his performance against Barcelona.
 
 <!---more--->
 
