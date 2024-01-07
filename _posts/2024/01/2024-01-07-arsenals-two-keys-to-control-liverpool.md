@@ -67,9 +67,9 @@ The onus is on Declan Rice to dictate how much control Arsenal have. [His positi
 
 The more support Havertz gets, the more he can roam central, which would allow Jesus to move wide. Havertz has to stay on the left to not over-isolate Martinelli. If Zinchenko is too far back he can't fill in to support Martinelli. 
 
-Liverpool will need to spread the ball around more. They won't have Mohamed Salah as an outlet long on the right-wing. He is away to AFCON. Dominik Szoboszlai is out with a hamstring injury. He won't be marking Havertz or paroling the right-wing, helping Trent Alexander-Arnold. 
+Liverpool won't have Mohamed Salah as an outlet long on the right-wing. He is away to AFCON. Liverpool will need to spread the ball around more. They may even play better when they are forced to quickly circulate from left to right, rather than mostly through the right. Dominik Szoboszlai is out with a hamstring injury. He won't be marking Havertz or paroling the right-wing, helping Trent Alexander-Arnold. 
 
 - Find the free man on the far-side quicker to catch Liverpool when they ball watch and cheat too heavily to one side of the pitch.
 - Keep forcing Declan Rice to move central to avoid dragging Arsenal's midfield back and to the right.
 
-Do those two things, be sharper passing the ball, and Arsenal should have control of the match.
+Do those two things, be sharper passing the ball, and Arsenal should control the match at home.
