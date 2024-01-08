@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: 3 January 2024</em></p>
+<p><em>last updated: 8 January 2024</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -208,8 +208,8 @@ layout: page
 |:----|:----|:----|:----|
 |[Tijjani Reijnders](https://fbref.com/en/players/afb61630/Tijjani-Reijnders)|AZ Alkmaar|<a href="https://youtu.be/SxqHF6YiRiI"><i class="fa-solid fa-video"></i></a>|6/28/23|
 |[Azzedine Ounahi](https://fbref.com/en/players/83299cc0/Azzedine-Ounahi)|Marseille|<a href="https://youtu.be/Wtt3tMAqvxw"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Youri Tielemans](https://fbref.com/en/players/56f7a928/Youri-Tielemans)|Leicester City|<a href="https://youtu.be/GzJYsvqg3Ls"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[James Ward-Prowse](https://fbref.com/en/players/3515d404/James-Ward-Prowse)|Southampton|<a href="https://youtu.be/-6w8kkgI4nM"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Nicolò Barella](https://fbref.com/en/players/6928979a/)|Inter| |1/8/24|
+|[Youri Tielemans](https://fbref.com/en/players/56f7a928/Youri-Tielemans)|Aston Villa|<a href="https://youtu.be/GzJYsvqg3Ls"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[João Mário](https://fbref.com/en/players/f0021247/Joao-Mario)|Benfica|<a href="https://youtu.be/srw0t50NA9M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Eberechi Eze](https://fbref.com/en/players/ae4fc6a4/Eberechi-Eze)|Crystal Palace|<a href="https://youtu.be/h0s_RUJygZU"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Kiernan Dewsbury-Hall](https://fbref.com/en/players/5c74c0f5/Kiernan-Dewsbury-Hall)|Leicester City|<a href="https://youtu.be/T8ebHGPH-p4"><i class="fa-solid fa-video"></i></a>|4/23/23|
@@ -236,6 +236,7 @@ layout: page
 |[Federico Redondo](https://fbref.com/en/players/b7b9c8ce/Federico-Redondo)|Argentinos Juniors|<a href="https://youtu.be/m7un1EAEDhY"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Salis Abdul Samed](https://fbref.com/en/players/82464ce3/Salis-Abdul-Samed)|Lens|<a href="https://youtu.be/VF8DhJzncD0"><i class="fa-solid fa-video"></i></a>|8/17/23|
 |[Nico González](https://fbref.com/en/players/2c56a792/Nicolas-Gonzalez)|Valenica|<a href="https://youtu.be/QIcbpc_KLN4"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Billy Gilmour](https://fbref.com/en/players/df10e27c/)| Brighton |<a href="https://youtu.be/3bfCr-2aTOs?si=HFyNEXG3mXFAvZoy"><i class="fa-solid fa-video"></i></a>|1/8/23|
 |[Jordan Teze](https://fbref.com/en/players/82e9b1bb/Jordan-Teze)|PSV|<a href="https://youtu.be/6YIaGYmK0h4"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[James Garner](https://fbref.com/en/players/4e015693/James-Garner)|Everton|<a href="https://youtu.be/eelDUMkF98k"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
