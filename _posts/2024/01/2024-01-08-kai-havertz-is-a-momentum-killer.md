@@ -190,4 +190,6 @@ Havertz can get in good positions, can win duels, be world-class in the counter-
 - He needs to get his head up when he's dribbling to see the easy cut-back or pass to the man free on the far-side.
 - He has to prepare his body better when he has the opportunity to perform a first-time shot. Arsenal love first-time shots.
 
+Havertz should be someone who plays secondary to the striker. Think Thomas Muller and Miroslav Klose, or Dennis Bergkamp and Thierry Henry. Havertz fits the role of a Muller or Bergkamp, not Klose or Henry.
+
 *Match: Arsenal 0-2 Liverpool, 7 January 2024*
