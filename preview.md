@@ -7,4 +7,4 @@ permalink: /preview/
 - One
 - Three
 
-![](https://i.imgur.com/1mXkWLq.gifv)
+![](https://i.imgur.com/1mXkWLq.gif)
