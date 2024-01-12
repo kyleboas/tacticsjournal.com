@@ -38,7 +38,7 @@ The emotions are spread across the entire team. We no longer rely on one player 
 
 > István: Ideas, formations, principles always come up again in a circulative way, as a natural and constant cycle in different forms. Today’s football is surely heavily affected by Guardiola’s success from the 2010s based on the positional play – what we see is that a lot of teams are (trying) using these principles, creating a quite uniformed way of playing around the world. This has been criticized by Juanma Lillo during the 2022 World Cup, saying basically that we have killed the unique styles by the spreading of the positional play and its training methodology – ’El Dostoquismo’/2 touch football. If we are here – I personally was never a fan of using touch restrictions, as I always found it more reasonable that if you want to control the number of touches you should do it by manipulating the space and therefore the defensive pressure. So why force players into using 1 or touches if it’s not necessary? These methodology trends naturally influenced the way of what kind of footballers we created. I’m not saying that it’s only because of this, but the natural dribblers are becoming less and less.
 
-![](https://i.imgur.com/1mXkWLq.gifv)
+![](https://i.imgur.com/1mXkWLq.gif)
 
 If a play fails, it's not Ronaldinho's fault that he didn't juggle past four players; it's the left-wing, left center-midfielder and left-back's fault for not making that specific runs or playing that pass at this specific time. It is not Messi vs Ronaldo, it is now Pep vs Klopp.
 
