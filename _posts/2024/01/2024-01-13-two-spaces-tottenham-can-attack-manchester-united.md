@@ -7,7 +7,7 @@ categories:
 tags:
 - "Tottenham"
 - "Manchester United"
-image: "https://i.imgur.com/0bjoPLr.jpeg"
+image: "https://i.imgur.com/Bi52DeJ.jpeg"
 ---
 
 Tottenham's left-winger needs to look for the run into the left half-space behind Manchester United's right center-back, and I'd expect at least one high-quality chance for Tottenham at the top of the box.
