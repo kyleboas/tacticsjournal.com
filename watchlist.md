@@ -394,7 +394,6 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[James Trafford](https://fbref.com/en/players/259fea27/James-Trafford)|Bolton Wanderers|<a href="https://youtu.be/yiAL74N6wJI"><i class="fa-solid fa-video"></i></a>|6/28/23|
 
 ### U23
 
@@ -402,12 +401,8 @@ layout: page
 |:----|:----|:----|:----|
 |[Yehvann Diouf](https://fbref.com/en/players/eedea60b/Yehvann-Diouf)|Reims|<a href="https://youtu.be/RSgDIklLwdo"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Andrew Silva](https://fbref.com/en/players/40406a00/Andrew)|Gil Vicente|<a href="https://youtu.be/3TbX9lRwjXY"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Diogo Costa](https://fbref.com/en/players/93fffbcf/Diogo-Costa)|FC Porto|<a href="https://youtu.be/5_UGC0raHCk"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Gianluigi Donnarumma](https://fbref.com/en/players/08f5afaa/Gianluigi-Donnarumma)|PSG|<a href="https://youtu.be/1Zk7uZ2knBs"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Bart Verbruggen](https://fbref.com/en/players/cf134113/Bart-Verbruggen)|Brighton|<a href="https://youtu.be/j7OF6Q92I_M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Lucas Chevalier](https://fbref.com/en/players/b3d76d84/Lucas-Chevalier)|Lille|<a href="https://youtu.be/9hq0t1oR2rY"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Maarten Vandevoordt](https://fbref.com/en/players/f9e0c603/Maarten-Vandevoordt)|Genk|<a href="https://youtu.be/i8Mt-AoFyqc"><i class="fa-solid fa-video"></i></a>|4/23/23|
-
 
 ### Senior 
 
@@ -423,7 +418,3 @@ layout: page
 |[Paulo Gazzaniga](https://fbref.com/en/players/63d17038/Paulo-Gazzaniga)|Girona| |1/3/24|
 |[Marco Bizot](https://fbref.com/en/players/3d214e5f/Marco-Bizot)|Brest| |1/3/24|
 |[Yann Sommer](https://fbref.com/en/players/420c18a1/Yann-Sommer)|Inter| |1/3/24|
-|[Mike Maignan](https://fbref.com/en/players/fcb38f57/Mike-Maignan)|AC Milan|<a href="https://youtu.be/a1CV72Vp4wU"><i class="fa-solid fa-video"></i></a>|6/11/23|
-|[Kepa Arrizabalaga](https://fbref.com/en/players/98ea5115/David-Raya)|Chelsea|<a href="https://youtu.be/Tdq0Udsg9XU"><i class="fa-solid fa-video"></i></a>|6/10/23|
-|[Wladimiro Falcone](https://fbref.com/en/players/9f5a610b/Wladimiro-Falcone)|Lecce|<a href="https://youtu.be/I_5pGvDXmnA"><i class="fa-solid fa-video"></i></a>|4/23/23|
-|[Alban Lafont](https://fbref.com/en/players/4e7db402/Alban-Lafont)|Nantes|<a href="https://youtu.be/4Z-s8szl2Ic"><i class="fa-solid fa-video"></i></a>|4/23/23|
