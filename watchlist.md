@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: 8 January 2024</em></p>
+<p><em>last updated: 17 January 2024</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -244,6 +244,7 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Olivier Boscagli](https://fbref.com/en/players/403f5d20/Olivier-Boscagli)|PSV|<a href="https://youtu.be/FZr9WVRMWF8?si=BoRMzHQsTj3eof2I"><i class="fa-solid fa-video"></i></a>|1/17/23|
 |[Manuel Locatelli](https://fbref.com/en/players/a8a874f1/Manuel-Locatelli)|Juventus| |1/17/24|
 |[Djibril Sow](https://fbref.com/en/players/4c6facae/Djibril-Sow)|Sevilla|<a href="https://youtu.be/fx95uxZrw5E"><i class="fa-solid fa-video"></i></a>|8/18/23|
 |[Treovh Chalobah](https://fbref.com/en/players/5515376c/Trevoh-Chalobah)|Chelsea|<a href="https://youtu.be/iqcQ5vFtHo0?si=B_A3sNVOV8U9QyUj"><i class="fa-solid fa-video"></i></a>|12/23/23|
