@@ -244,6 +244,7 @@ layout: page
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Manuel Locatelli](https://fbref.com/en/players/a8a874f1/Manuel-Locatelli)|Juventus| |1/17/24|
 |[Djibril Sow](https://fbref.com/en/players/4c6facae/Djibril-Sow)|Sevilla|<a href="https://youtu.be/fx95uxZrw5E"><i class="fa-solid fa-video"></i></a>|8/18/23|
 |[Treovh Chalobah](https://fbref.com/en/players/5515376c/Trevoh-Chalobah)|Chelsea|<a href="https://youtu.be/iqcQ5vFtHo0?si=B_A3sNVOV8U9QyUj"><i class="fa-solid fa-video"></i></a>|12/23/23|
 |[João Palhinha](https://fbref.com/en/players/a78ff07f/Joao-Palhinha)|Fulham|<a href="https://youtu.be/s_RcDEOU7z0"><i class="fa-solid fa-video"></i></a>|4/23/23|
