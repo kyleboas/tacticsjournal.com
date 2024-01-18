@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-01-17 08:00 UTC
-title: "Iraola on Adapting Training to his Team"
+title: "Iraola on adapting training to his team"
 categories:
 - "Premier League"
 tags:
