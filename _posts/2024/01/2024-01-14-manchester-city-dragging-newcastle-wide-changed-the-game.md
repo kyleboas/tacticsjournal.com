@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-01-14 08:00 UTC
-title: "Manchester City Dragging Newcastle Wide Changed the Game" 
+title: "Manchester City dragging Newcastle wide changed the game" 
 categories:
 - "Premier League"
 tags:
