@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-01-13 08:00 UTC
-title: "Two Spaces Tottenham Can Attack Manchester United"
+title: "Two spaces Tottenham can attack Manchester United"
 categories:
 - "Premier League"
 tags:
