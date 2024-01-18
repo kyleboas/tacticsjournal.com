@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-01-18 08:00 UTC
-title: "Ange Postecoglu's Tottenham Passing Exercises"
+title: "Ange Postecoglu's Tottenham passing exercises"
 categories:
 - "Premier League"
 tags:
