@@ -13,7 +13,7 @@ Here is a fantastic video breakdown by Raumdeuter13 of the passing drills used i
 
 <!---more--->
 
-{% include video.html url="https://youtu.be/ydPdGxHvID4?si=lRv4mqnHRmgE95az" %}
+{% include video.html url="https://www.youtube.com/embed/ydPdGxHvID4?si=lRv4mqnHRmgE95az" %}
 
 *[Video credit to Raumdeuter13](https://youtu.be/ydPdGxHvID4?si=N0iRMQQIrEAfUBez)* 
 
