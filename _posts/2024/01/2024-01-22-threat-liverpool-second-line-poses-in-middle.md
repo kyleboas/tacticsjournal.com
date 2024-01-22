@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-01-22 08:00 UTC
-title: "Liverpool Win Duels in the Middle"
+title: "The threat Liverpool's second line poses in the middle"
 categories:
 - "Premier League"
 tags:
