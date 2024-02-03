@@ -47,7 +47,7 @@ Joe Gomez did a great job throughout limiting the effectiveness of Bukayo Saka. 
 
 When Liverpool overload the left-wing, it forces both Saka and White to defend deep, helping Liverpool avoid situations with Saka breaking in behind the back-line. Saka breaks in behind the back-line, and then the cross across the ground right to left to Gabriel Jesus or Martinelli is on. 
 
-If both Saka and White are forced to defend deep in Arsenal's own end, Arsenal will have trouble breaking out because a lot of their attack revolves around circulating the ball on the right-wing with Saka and White. 
+You'd rather have Saka 20 yards away from his own goal when Arsenal win back the ball, not on halfway line. Gabriel Jesus and Martinelli will be the outlet but they should be isolated and easy to close down.
 
 <figure>
     <img src="https://i.imgur.com/CmUDS8q.jpeg">
