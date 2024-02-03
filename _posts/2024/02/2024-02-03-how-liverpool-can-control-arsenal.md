@@ -77,7 +77,7 @@ Alexis Mac Allister had a painful-looking knee-to-knee in the match against Chel
 
 I don't think you can drop Conor Bradley right now. He's too good defensively, crossing, a threat on the overlap. We saw that [against Norwich](https://tacticsjournal.com/2024/01/29/conor-bradleys-breakout-match/) and [against Chelsea](https://tacticsjournal.com/2024/02/02/liverpools-negatively-angled-runs-on-the-break/).
 
-I love the idea of Trent Alexander-Arnold, Ibrahima Konate, and Conor Bradley triple-teaming Gabriel Martinelli. Joe Gomez, Alexis Mac Allister, and Virgil Van Dijk can handle Bukayo Saka's side. Mac Allister can man-mark Martin Ødegaard. 
+I love the idea of Dominik Szoboszlai, Ibrahima Konate, and Conor Bradley triple-teaming Gabriel Martinelli. Szoboszlai can track the man in the left half-space. Joe Gomez, Alexis Mac Allister, and Virgil Van Dijk can handle Bukayo Saka's side. Mac Allister can man-mark Martin Ødegaard. Trent Alexander-Arnold can help either side, but mostly the right side. 
 
 Most importantly, Bradley will allow Trent Alexander-Arnold to roam around the pitch. Roam to the left to overload with the left-wing, spray passes from the middle of the pitch. Control the pace and direction of play. Bypass lines of defense. 
 
