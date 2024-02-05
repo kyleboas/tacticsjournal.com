@@ -55,7 +55,7 @@ They wanted Trent on the pitch so badly that they altered each player's normal p
 
 <figure>
     <img src="https://i.imgur.com/5f5Qykq.jpeg">
-    <figcaption>Figure 7.1 - Proposed changes by me that Liverpool could have made to maintain the same structure and dynamics they've used all season.</figcaption>
+    <figcaption>Figure 6.1 - Proposed changes by me that Liverpool could have made to maintain the same structure and dynamics they've used all season.</figcaption>
 </figure> 
 
 This is how Liverpool would normally setup. Can you blame them for not using this same structure that has given them success all season? The change was forced on them.
@@ -70,7 +70,7 @@ No real other choice then to play this sub-optimal structure.
 
 <figure>
     <img src="https://i.imgur.com/bzRSmaA.jpeg">
-    <figcaption>Figure 6.1 - Ryan Gravenberch playing Luis Diaz in behind Gabriel and Oleksandr Zinchenko.</figcaption>
+    <figcaption>Figure 7.1 - Ryan Gravenberch playing Luis Diaz in behind Gabriel and Oleksandr Zinchenko.</figcaption>
 </figure> 
 
 Luis Diaz and Mohamed Salah were so effective at attacking the space behind Gabriel and Zinchenko in the their past meetings against Arsenal this season. Both have been sources of goals in the league and FA Cup. 
