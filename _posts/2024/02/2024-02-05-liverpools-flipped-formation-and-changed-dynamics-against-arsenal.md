@@ -123,7 +123,7 @@ I think Liverpool would have created more chances if they:
 
 The one thing I did like was the use of width on the counter. This was [something I talked about after the Chelsea match](https://tacticsjournal.com/2024/02/02/liverpools-negatively-angled-runs-on-the-break/) where they were too narrow on the break. 
 
-Arsenal were impressive but this is a Liverpool at half-strength. I thought Arsenal played better against a full-strength Liverpool in the FA Cup match, just lacking that cutting edge to finish chances in that game. 
+Arsenal were impressive but this is a Liverpool at half-strength. I thought Arsenal as a team played better against a full-strength Liverpool in the FA Cup match, [just lacking that cutting edge to finish chances in that game](https://tacticsjournal.com/2024/01/08/kai-havertz-is-a-momentum-killer/). 
 
 Not to take away from this performance, but I expected a more dominant style of play considering the circumstances. Had Virgil Van Dijk and Alisson not made that error for the second goal, this could have easily ended in a draw. The third goal came after Liverpool went down to 10 men and they subbed on Thiago for Gomez.
 
