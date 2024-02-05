@@ -123,6 +123,10 @@ I think Liverpool would have created more chances if they:
 
 The one thing I did like was the use of width on the counter. This was [something I talked about after the Chelsea match](https://tacticsjournal.com/2024/02/02/liverpools-negatively-angled-runs-on-the-break/) where they were too narrow on the break. 
 
-Arsenal were impressive but this is a Liverpool at half strength. I thought Arsenal played better against Liverpool in the FA Cup match, but they lacked the cutting edge to finish chances. Not to take away from the performance, but I expected a more dominance considering the circumstances. Had Virgil Van Dijk and Alisson not made that error this could have easily ended in a draw. The final goal came after Liverpool went down to 10 men and the subbed on Thiago for Joe Gomez.
+Arsenal were impressive but this is a Liverpool at half strength. No Salah, Trent not at full-strength, Nunez with a swollen foot, Szoboszlai out, no Endo or Conor Bradley. 
+
+I thought Arsenal played better against Liverpool in the FA Cup match, just lacking that cutting edge to finish chances in that game. 
+
+Not to take away from this performance, but I expected a more dominant style of play considering the circumstances. Had Virgil Van Dijk and Alisson not made that error for the second goal, this could have easily ended in a draw. The third goal came after Liverpool went down to 10 men and they subbed on Thiago for Gomez.
 
 *Match: Arsenal 3-1 Liverpool, 4 February 2024*
