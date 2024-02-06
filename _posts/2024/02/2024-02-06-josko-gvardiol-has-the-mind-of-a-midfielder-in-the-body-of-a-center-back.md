@@ -56,6 +56,6 @@ Training the larger players to play like smaller players is the advantage teams 
 
 This is his main weakness. Crossing and hitting the ball at speed on the move. A simple back-post pass across the ground is on, and it would be dangerous. Erling Haaland is there for the tap-in. If he gets the shot anywhere on goal, maybe it goes in, or maybe it gets saved and falls to a City forward in the box. 
 
-Teams normally wouldn't persist and play him through this period of learning. They'd bench him because it's not perfect, but the only way to iron out the kinks is by getting real minutes in important matches. 
+Teams normally wouldn't persist and play him through this period of learning. They'd bench him because it's not perfect, but the only way to iron out the kinks is by getting real minutes in important matches. When you need a goal he might not be my first choice to operate in that space, but he needs that time. 
 
 *Match: Brentford 1-3 Manchester City, 5 February 2024*
