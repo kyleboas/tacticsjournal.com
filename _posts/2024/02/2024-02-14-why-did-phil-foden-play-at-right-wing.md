@@ -55,21 +55,26 @@ When FC København press high, Pep Guardiola wants to overload the middle of the
 
 For that reason, Foden is on the right-wing, interchanging with Kevin De Bruyne. If FC København sit back, Kyle Walker will come forward from right-back to right-wing, and Foden inverts into the midfield with Bernardo Silva and Kevin De Bruyne. 
 
-When they are sustaining pressure, Foden tends to stay wide, but as the game settles, they were switching positions with De Bruyne moving wide and Foden moving infield. 
+<figure>
+    <img src="https://i.imgur.com/brB5Eb7.jpeg">
+    <figcaption>Figure 4.1 - Kevin De Bruyne and Phil Foden Touchmaps. <a href="https://x.com/4lex_mcfc/status/1757603037118398467?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Credit to 4lex_mcfc</a></figcaption>
+</figure> 
+
+When the team are sustaining pressure, Foden tends to stay wide, but as the game settles, they were switching positions with De Bruyne moving wide and Foden moving infield. 
 
 <figure>
     <img src="https://i.imgur.com/cy6gn30.jpeg">
-    <figcaption>Figure 4.1 - Phil Foden cutting infield as Kevin De Bruyne underlaps towards the byline.</figcaption>
+    <figcaption>Figure 5.1 - Phil Foden cutting infield as Kevin De Bruyne underlaps towards the byline.</figcaption>
 </figure> 
 
 <figure>
     <img src="https://i.imgur.com/Ten2M6d.jpeg">
-    <figcaption>Figure 4.2 - Phil Foden continues his run and Kevin De Bruyne cuts back the ball to the top of the six-yard box.</figcaption>
+    <figcaption>Figure 5.2 - Phil Foden continues his run and Kevin De Bruyne cuts back the ball to the top of the six-yard box.</figcaption>
 </figure> 
 
 <figure>
     <img src="https://i.imgur.com/x6CEXCS.jpeg">
-    <figcaption>Figure 4.3 - Phil Foden scores.</figcaption>
+    <figcaption>Figure 5.3 - Phil Foden scores.</figcaption>
 </figure> 
 
 Foden said after the match, "me and Kevin have made that connection. It’s about building connections. It’s natural." That's another positive. Foden on the right is the chemistry between him and De Bruyne. All three of Manchester City's goals originated from De Bruyne and Foden on that right-wing. 
