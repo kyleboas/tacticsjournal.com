@@ -57,7 +57,7 @@ For that reason, Foden is on the right-wing, interchanging with Kevin De Bruyne.
 
 <figure>
     <img src="https://i.imgur.com/brB5Eb7.jpeg">
-    <figcaption>Figure 4.1 - Kevin De Bruyne and Phil Foden Touchmaps. <a href="https://x.com/4lex_mcfc/status/1757603037118398467?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Credit to 4lex_mcfc</a></figcaption>
+    <figcaption>Figure 4.1 - Kevin De Bruyne and Phil Foden Touchmaps. <a href="https://x.com/4lex_mcfc/status/1757603037118398467?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Credit to 4lex_mcfc, data from WhoScored</a></figcaption>
 </figure> 
 
 When the team are sustaining pressure, Foden tends to stay wide, but as the game settles, they were switching positions with De Bruyne moving wide and Foden moving infield. 
