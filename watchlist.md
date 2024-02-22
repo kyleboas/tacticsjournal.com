@@ -3,7 +3,7 @@ title: Watchlist
 layout: page
 ---
 
-<p><em>last updated: 17 January 2024</em></p>
+<p><em>last updated: 21 February 2024</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -391,11 +391,6 @@ layout: page
 <hr class="dashed">
 
 ## Goalkeeper 
-
-### U21
-
-|Name|Team| |Added|
-|:----|:----|:----|:----|
 
 ### U23
 
