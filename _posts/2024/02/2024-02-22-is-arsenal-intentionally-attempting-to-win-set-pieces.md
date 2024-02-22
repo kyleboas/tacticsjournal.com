@@ -11,7 +11,7 @@ tags:
 image: "https://i.imgur.com/M0rmed9.jpeg"
 ---
 
-Arsenal have a very simple game plan: Win the ball, control possession in the middle third, win a corner or free-kick. Repeat. They only generated 0.13xG from open play against Porto, and I'm beginning to suspect that is intentional.
+Arsenal have a very simple game plan: Win the ball, control possession in the middle third, win a corner or free-kick. Repeat. Zero shots on target with only 0.13xG from open play against Porto. I'm beginning to suspect that lack of open play threat is intentional.
 
 <!---more--->
 
