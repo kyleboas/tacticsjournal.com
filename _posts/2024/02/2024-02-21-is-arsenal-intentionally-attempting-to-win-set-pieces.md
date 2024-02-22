@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-02-21 08:00 UTC
-title: "Is Arsenal intentionally attempting to win corners?"
+title: "Is Arsenal intentionally attempting to win set-pieces?"
 categories:
 - "Champions League"
 - "Premier League"
