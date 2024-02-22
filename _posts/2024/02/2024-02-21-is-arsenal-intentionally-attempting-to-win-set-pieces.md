@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-02-21 08:00 UTC
+date: 2024-02-22 08:00 UTC
 title: "Is Arsenal intentionally attempting to win set-pieces?"
 categories:
 - "Champions League"
