@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-02-26 08:00 UTC
-title: "Frankie De Jong's perfect game"
+title: "Frankie de Jong's perfect game"
 categories:
 - "La Liga"
 - "Premier League"
