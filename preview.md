@@ -19,7 +19,6 @@ permalink: /preview/
     <figcaption>Figure 1.1 - Driven pass, wide right.</figcaption>
 </figure> 
 
-{%- if page.id -%}
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
   data-app-id="e33618fe-cb5b-4e01-b427-9f80a5c6f8b4"
@@ -28,4 +27,3 @@ permalink: /preview/
   data-page-title="{{ PAGE_TITLE }}"
 ></div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-{%- endif -%}
