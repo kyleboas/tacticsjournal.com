@@ -19,22 +19,15 @@ permalink: /preview/
     <figcaption>Figure 1.1 - Driven pass, wide right.</figcaption>
 </figure> 
 
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://tactics-journal.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{%- if page.id -%}
+<!--Every article has a id, but special pages don't unless you set manually.
+This prevents Cusdis from appear everywhere-->
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="YOUR APP ID"
+  data-page-id="{{ page.id }}"
+  data-page-url="{{ site.url }}{{ page.baseurl }}{{ page.url }}"
+  data-page-title="{{ page.title }}"
+></div>
+<script defer src="https://cusdis.com/js/cusdis.es.js"></script>
+{%- endif -%}
