@@ -20,14 +20,12 @@ permalink: /preview/
 </figure> 
 
 {%- if page.id -%}
-<!--Every article has a id, but special pages don't unless you set manually.
-This prevents Cusdis from appear everywhere-->
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
-  data-app-id="YOUR APP ID"
-  data-page-id="{{ page.id }}"
-  data-page-url="{{ site.url }}{{ page.baseurl }}{{ page.url }}"
-  data-page-title="{{ page.title }}"
+  data-app-id="e33618fe-cb5b-4e01-b427-9f80a5c6f8b4"
+  data-page-id="{{ PAGE_ID }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
 ></div>
-<script defer src="https://cusdis.com/js/cusdis.es.js"></script>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 {%- endif -%}
