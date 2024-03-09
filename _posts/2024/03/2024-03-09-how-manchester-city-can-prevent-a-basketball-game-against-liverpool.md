@@ -16,7 +16,7 @@ Once the ball crosses the half-way line, Manchester City must make immediate phy
 
 <figure>
     <img src="https://i.imgur.com/mNrv6ua.jpeg">
-    <figcaption>Figure 1.1 - Bernardo Silva challenges the man receiving as he </figcaption>
+    <figcaption>Figure 1.1 - Bernardo Silva challenges the man receiving as the ball is played past the half-way line. </figcaption>
 </figure> 
 
 When Manchester City get a defender in the back of attacker on that first or second touch, it slows the progression of the play. 
