@@ -74,6 +74,8 @@ Without that long direct pass from Jorginho, Ødegaard would never gain access t
 
 Arsenal made several other smaller changes throughout the game to try to free Rice and Ødegaard. For example, they had Bukayo Saka invert into Ødegaard's position so Ødegaard could drop to receive. Rice moved to the right side of the pitch to overload the right-wing, but that left Kiwior vulnerable at left-back in defensive transition. 
 
+> Arsenal had as many shots on target (4) in the penalty shoot-out as they managed over the 210 minutes of game time, not including added time, played over the two legs.
+
 It takes a lot of focus to constantly have someone in the way of the pass — switch off or lose one header and it's a goal. Credit to Porto for keeping their focus and limiting themselves to that mistake.
 
 *Match: Arsenal 1-0 Porto, 12 March 2024*
