@@ -34,8 +34,8 @@ If you play the ball to the man on the wing, that will draw a defender out to th
 If you never play the ball to the man on the wing, that threat of the pass always remains in the mind of the opposition full-back. They can't move out to mark the man holding width until that ball is played, because that would leave space open in the half-space. They are always ready in space.
 
 <figure>
-    <img src="https://i.imgur.com/IIO5uBb.jpeg">
-    <figcaption>Figure 2.2 - Matheus Silva steps forward to maintain width on the right when Jeremie Frimpong moves into the box.</figcaption>
+    <img src="https://i.imgur.com/WtkY9AF.jpeg">
+    <figcaption>Figure 2.2 - Josip Stanisic steps forward to maintain width on the right when Jeremie Frimpong moves into the box.</figcaption>
 </figure>
 
 That threat always needs to remain, so if Grimaldo or Frimpong get forward, inside, someone should then take their place.
