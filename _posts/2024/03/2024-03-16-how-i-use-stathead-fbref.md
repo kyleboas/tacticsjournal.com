@@ -56,7 +56,7 @@ The full-backs Udogie and Porro are inverted, pushing into the half-spaces. When
 
 When the opposition packs the box, doesn't give them that space, they seem to run out of ideas. They need that free man to take the shot. They look stale. The ball starts getting passed around slower. They look for that through ball to get a shot off closer to goal, but the space never opens. There's no room for the runners. And then when they run out of ideas, they'll take a pot shot from the edge of the box that goes far over the bar. 
 
-Son Heung-Min has 13 goals and assists, 1.47 G+A per 90 minutes, when Tottenham have less than 60% possession. When Tottenham have more than 60% possession, he only had 7 goals and assists, 0.62 G+A per 90. 
+<a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/92e7e919/Son-Heung-min?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-16_fb">Son Heung-min</a> has 13 goals and assists, 1.47 G+A per 90 minutes, when Tottenham have less than 60% possession. When Tottenham have more than 60% possession, he only had 7 goals and assists, 0.62 G+A per 90. 
 
 The output is coming from the basketball games. Back and forth, fast-paced. Tottenham needs to figure out how to replicate that output in the cagey games when teams hunker down and defend first. 
 
