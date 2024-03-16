@@ -22,7 +22,7 @@ layout: null
     <atom:link href="{{ site.url }}/feed" rel="self" type="application/rss+xml" />
 
     {% for post in site.posts %}
-      {% unless post.categories contains 'Test' %}
+      {% unless post.categories contains 'Notes' %}
         {% if post.linkpost %}
           <item>
             <title>{{ post.title }}</title>
