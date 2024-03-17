@@ -8,7 +8,7 @@ tags:
 - "Tottenham"
 - "Fulham"
 image: "https://i.imgur.com/NP9OjJH.jpeg"
---
+---
 
 A high-line requires complete coordination. It's like synchronized swimming. Sub one player in and the timing is thrown off. That's what happened when Tottenham started Radu Drăgușin for the first time. Drăgușin and Cristian Romero were not in sync.
 
