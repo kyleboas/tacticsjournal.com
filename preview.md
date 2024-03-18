@@ -4,7 +4,7 @@ permalink: /preview/
 ---
 
 
-{% include video.html url="https://www.youtube.com/embed/He_L7lOKe5k?t=3535" %}
+{% include video.html url="https://www.youtube.com/embed/He_L7lOKe5k?si=Gda0lQeMtUi8IIUc&amp;start=3536" %}
 
 sjdjsj
 
