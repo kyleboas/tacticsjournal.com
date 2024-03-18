@@ -38,6 +38,10 @@ Second, I don't understand why Manchester United's back line retreats so far bac
 
 It has to be an instruction from the coach. Erik Ten Hag never looked upset with the amount of space being offered. Looked planned. 
 
+> *Clarification, March 18, 2024:* It has been revealed after the game on March 18th that Erik Ten Hag was frustrated at the amount of space afforded to Szoboszlai on the counter:
+> 
+> "Maybe after a free kick, Ten Hag was imploring his defenders to stay high, and they dropped and he slapped his hands together in frustration which led to Szoboszlai having a lot of space in midfield to run through" - [Laurie Whitwell on Talk of the Devils](https://x.com/everydaymufc22/status/1769797741020942482?s=46&t=YC8lQJTh43E_mBQW40Ct2g)
+
 <figure>
     <img src="https://i.imgur.com/n6aQmNk.jpeg">
     <figcaption>Figure 2.1 - Space between the back line and second line.</figcaption>
