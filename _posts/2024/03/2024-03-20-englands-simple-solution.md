@@ -30,6 +30,6 @@ Of the ten outfield players here, ten play for Manchester City, Liverpool, Arsen
 
 Those four teams have used this type of 3-box-3 system. These players are used to how it works. They are more familiar now with inverting wingers, full-backs, center-backs. It is a copy and paste from their clubs. 
 
-I would argue for England you complicate things by simplify them. Anything else would be foreign to them, they'd look awkward, but this they are used to.
+I would argue for England you complicate things by simplifying them. Anything else would be foreign to them, they'd look awkward, but this they are used to.
 
 For me, this is the simplest solution for England to replicate what these players use at their clubs. And to be fair, the only thing that's new that I'm suggesting is Trent Alexander-Arnold inverting from right-back. Everything else has been tried by Gareth Southgate.
