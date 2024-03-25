@@ -45,10 +45,10 @@ He has this habit when he plays for both Arsenal and England.
 
 <figure>
     <img src="https://i.imgur.com/f4zoxc5.gif">
-    <figcaption>Figure 4.1 - Rodri subtilely calling for the ball by moving his arm close to his body. </figcaption>
+    <figcaption>Figure 4.1 - Rodri subtilely calling for the ball by moving his left arm close to his body. </figcaption>
 </figure> 
 
-A quick subtle little hand movement close to the body like this from Rodri would be better, rather than outstretching your arms like a goose running towards the ball. 
+A quick subtle little left hand movement close to the body like this from Rodri would be better, rather than outstretching your arms like a goose running towards the ball. 
 
 *Match: England 0-1 Brazil, 23 March 2024*
 
