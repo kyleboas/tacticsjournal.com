@@ -43,6 +43,13 @@ Even with passers not of the same quality as Pirlo (no one is like Pirlo), the s
 
 He has this habit when he plays for both Arsenal and England.
 
+<figure>
+    <img src="https://i.imgur.com/f4zoxc5.gif">
+    <figcaption>Figure 4.1 - Rodri subtilely calling for the ball by moving his arm close to his body. </figcaption>
+</figure> 
+
+A quick subtle little hand movement close to the body like this from Rodri would be better, rather than outstretching your arms like a goose running towards the ball. 
+
 *Match: England 0-1 Brazil, 23 March 2024*
 
 *Players: <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/1c7012b8/Declan-Rice?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-24_fb">Declan Rice</a>*
