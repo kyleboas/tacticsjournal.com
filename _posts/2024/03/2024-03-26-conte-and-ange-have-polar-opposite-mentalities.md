@@ -13,9 +13,7 @@ The mentality switch for Tottenham from Antonio Conte always having "respect for
 
 <!---more--->
 
-{% include video.html url="https://www.youtube.com/embed/Prp7yp0hLU0?si=1cwB4ClIKQ7o95rl" %}
-
-Former Tottenham manager, Antonio Conte:
+[Former Tottenham manager, Antonio Conte](https://youtu.be/Prp7yp0hLU0?si=wh5mx2uXUz0eURb_):
 
 > I think that in every game it's important to have a plan. It's very important to keep your characteristic, and exploit your characteristic, but at the same time it's important also to have respect for your opponent. 
 > 
