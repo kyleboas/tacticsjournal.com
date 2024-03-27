@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /recommendations/
+permalink: /recommended/
 ---
 
 ## Analysis 
