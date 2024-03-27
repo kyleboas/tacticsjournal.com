@@ -144,3 +144,6 @@ The inability to turn and find the least obvious pass forward inhibits the abili
 Allow Rice to play on the fringes, out wide, carrying infield or down the wing, switching play, playing line-breaking passes facing play. Then let the creatives occupy the middle of the pitch, the players that can turn in the tight spaces: Mainoo, Foden, Bellingham, Alexander-Arnold, Maddison, Palmer, Lewis. 
 
 *Match: England 2-2 Belgium, 26 March 2024*
+
+*Players: <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/1c7012b8/Declan-Rice?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-27_fb">
+Declan Rice</a>, <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/c6220452/Kobbie-Mainoo?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-27_fb">Kobbie Mainoo</a>*
