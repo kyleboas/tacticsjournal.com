@@ -5,24 +5,22 @@ layout: page
 
 Any other accounts not listed are not run by me and are not being truthful. If you’d like to follow my work online here’s where you can find me:
 
-**Social Media**
+### Social Media
 
 Twitter: [@tacticsjournal](https://twitter.com/tacticsjournal)
 
-Facebook: [https://www.facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal)
-
-YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal) 
-
-Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal) 
+Facebook: [https://www.facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal) 
 
 BlueSky: [@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)
 
-Once I figure out how to automate the blog posts for Threads and BlueSky, I'll begin posting regurarly there.
+YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
 
-**RSS**
+Once Meta release an API to post to Threads, I'll begin posting on Threads.
+
+### RSS
 
 The main feed for everything on Tactics Journal: [https://tacticsjournal.com/feed](https://tacticsjournal.com/feed)
 
-**Discord**
+### Discord
 
-Join and then go to the #blogs channel: [https://discord.gg/7fhGJAZjwB](https://discord.gg/7fhGJAZjwB) 
+Join and then go to the #blogs channel: [https://discord.gg/7fhGJAZjwB](https://discord.gg/7fhGJAZjwB)
