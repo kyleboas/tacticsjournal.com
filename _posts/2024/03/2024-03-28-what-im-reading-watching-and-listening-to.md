@@ -72,6 +72,7 @@ I'm sometimes jealous of the club-specific writers because they can dive so deep
 
 #### Arsenal
 
+* [Cannon Stats](https://www.cannonstats.com/)
 * [Edu's BBQ](https://billycarpenter.substack.com)
 
 #### Barcelona
