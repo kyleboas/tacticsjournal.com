@@ -31,6 +31,7 @@
           title: "{{ post.title | xml_escape }}",
           url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
           excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
+          date: "{{ post.date | date: "%B %d, %Y" }}",
           tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
           categories: "{{ post.categories | xml_escape }}"
         }{% unless forloop.last %},{% endunless %}
@@ -96,20 +97,29 @@ function renderResults(results) {
    });
 
 
-    for (var i = 0; i < filteredResults.length; i++) {
-      var result = filteredResults[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      a.classList.add('long-title');
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-      postList.appendChild(li);
-    }
+    for (var i = 0; i < results.length; i++) {
+  var result = results[i];
+  var li = document.createElement('li');
+  li.classList.add('post-item');
+
+  var a = document.createElement('a');
+  a.href = result.url;
+  a.innerHTML = result.title;
+  a.classList.add('long-title');
+  li.appendChild(a);
+
+  var dateElement = document.createElement('p');
+  dateElement.classList.add('post-date');
+  dateElement.innerHTML = result.date; // Assuming result.date holds the date value
+  li.appendChild(dateElement);
+
+  var p = document.createElement('p');
+  p.innerHTML = result.excerpt;
+  li.appendChild(p);
+
+  postList.appendChild(li);
+}
+
   } else if (results.length === 0) {
     countElement.innerHTML = 'No posts found';
     noResultsMessage.style.display = 'block'; // Show the message
