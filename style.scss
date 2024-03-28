@@ -35,7 +35,7 @@ nav {
     }
 }
 
-@media screen and (min-width: 570px) {
+@media only screen and (min-width: 570px) {
   nav { 
    margin-left: auto;
    font-size: 20px;
@@ -43,13 +43,13 @@ nav {
   }
 }
 
-@media screen and (min-width: 570px) {
+@media only screen and (min-width: 570px) {
   .post-title {
    font-size: 2em !important;
   }
 }
 
-@media screen and (max-width: 570px) {
+@media only screen and (min-width: 570px) {
   .site-avatar img {
     width: 80px;
   }
