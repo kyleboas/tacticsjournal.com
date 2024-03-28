@@ -59,6 +59,7 @@
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
         results.push({
           title: highlightedTitle,
+          date: post.date,
           url: post.url,
           excerpt: highlightedExcerpt,
           tags: post.tags,
