@@ -40,6 +40,7 @@ Each individual person listed here has their own style and specialty. Most write
 * [Guillaume on the Grass](https://guillaumevdw.substack.com)
 * [H23Football](https://h23football.substack.com)
 * [Jamie Hamilton](https://medium.com/@stirlingj1982)
+* [jdeposicion](https://eljdp.medium.com/)
 * [John Horstmann](https://medium.com/@horstmann.john)
 * [Jon Mackenzie](https://medium.com/@jonmackenzie)
 * [Liam Tharme](https://theathletic.com/author/liam-tharme/)
@@ -79,6 +80,10 @@ I'm sometimes jealous of the club-specific writers because they can dive so deep
 
 * [BarcaFutbol](https://barcafutbol.substack.com)
 * [Tarek Waffling](https://tarekwaffling.wordpress.com)
+
+#### Charlotte FC 
+
+* [Charlotte Soccer City](https://charlottesoccercity.substack.com)
 
 #### Manchester United
 
@@ -153,6 +158,7 @@ Some of these channels have a video out right after a game so be sure to check t
 * [Football Made Simple](https://youtube.com/@FootballMadeSimple?si=nqy5X2FBn2ikUx59)
 * [Football Meta](https://youtube.com/@FootballMeta?si=o4lZzPb7C2Q-kEEk)
 * [HTO Analysis](https://www.youtube.com/@HTOAnalysis)
+* [Rimedi](https://www.youtube.com/channel/UCpB6dM8UYzHYhxtUd5A4Lxg)
 * [Statman Dave](https://youtube.com/@StatmanDave?si=i1Bpf5iW5IrPa4od)
 * [SpreadSheet Soccer](https://youtube.com/@SpreadSheetSoccer?si=V1NutRJ5KpaS5e_2)
 * [The Footy Doctor](https://www.youtube.com/channel/UC5NzLtPzpr5ac7ebCLwaEwg)
