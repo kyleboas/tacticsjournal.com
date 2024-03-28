@@ -14,7 +14,7 @@
     var imageLink = document.createElement('a');
     imageLink.href = '{{ site.baseurl }}/';
     var image = document.createElement('img');
-    image.src = '{{ site.baseurl }}/images/FE0024A5-5B8C-4CB7-84A7-0A88C8801B63.jpeg';
+    image.src = '{{ site.baseurl }}/assets/C689B127-879F-4B0E-9D00-EDC0D8410697.jpeg';
     image.style.width = '100px';
     image.style.paddingTop = '10px';
     imageLink.appendChild(image);
@@ -33,7 +33,6 @@
           tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
           categories: "{{ post.categories | xml_escape }}",
           date: "{{ post.date | date: "%B %d, %Y" }}",
-          note: "{{- post.content | replace_first: '<p>', '' | replace: '</p>\\s*<p>', '</p><p>' | replace: '"', '\"' | strip_newlines | strip -}}",
           content: "{{- post.content | replace: '"', '\"' | strip_newlines | strip -}}"
         }{% unless forloop.last %},{% endunless %}
     {% endfor %}
@@ -67,7 +66,6 @@
         title: highlightedTitle,
         url: post.url,
         excerpt: highlightedExcerpt,
-        note: highlightedNote, // Include highlighted note content
         tags: post.tags,
         categories: post.categories,
         date: post.date,
@@ -93,7 +91,7 @@
     var countElement = document.getElementById('result-count');
 
     if (searchQuery === '') {
-      countElement.textContent = 'All Posts';
+      countElement.textContent = 'Last 15 posts';
       noResultsMessage.style.display = 'none';
 
       var currentDate = null;
@@ -200,7 +198,7 @@
           a.classList.add('long-title');
           li.appendChild(a);
           var p = document.createElement('p');
-          p.innerHTML = result.content;
+          p.innerHTML = result.excerpt;
           li.appendChild(p);
         }
 
@@ -251,5 +249,6 @@
     renderResults(results, query);
   });
 
-  renderResults(posts);
+  renderResults(posts.slice(0, 15));
 })();
+
