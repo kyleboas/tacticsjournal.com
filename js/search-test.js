@@ -15,7 +15,7 @@
     var imageLink = document.createElement('a');
     imageLink.href = '{{ site.baseurl }}/';
     var image = document.createElement('img');
-    image.src = '{{ site.baseurl }}/images/FE0024A5-5B8C-4CB7-84A7-0A88C8801B63.jpeg';
+    image.src = '{{ site.baseurl }}/assets/C689B127-879F-4B0E-9D00-EDC0D8410697.jpeg';
     image.style.width = '100px';
     imageLink.appendChild(image);
     noResultsMessage.appendChild(imageLink);
