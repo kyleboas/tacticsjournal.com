@@ -87,7 +87,7 @@ function renderResults(results) {
   var countElement = document.getElementById('result-count');
 
   if (searchQuery === '') {
-    countElement.innerHTML = 'Past 5 posts';
+    countElement.innerHTML = 'Past 15 posts';
     noResultsMessage.style.display = 'none';
 
     // Filter out posts that match the current page's URL
