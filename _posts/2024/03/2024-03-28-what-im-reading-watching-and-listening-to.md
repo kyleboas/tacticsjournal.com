@@ -199,6 +199,7 @@ There are many high quality comp channels but if I am looking through the search
 ## Podcasts
 I have to admit, I'm not a big podcast listener right now. I prefer video and I like listening to music. But if I had the time, and the subject interests me, I'd listen to these Podcasts. 
 
+* [And Again with Umir and H](https://podcasts.apple.com/us/podcast/and-again/id1647679967)
 * [Ben Foster - The Cycling GK](https://youtube.com/@thecyclinggk?si=mBpZX0fyeE-VcgM8)
 * [Football Vision](https://podcasts.apple.com/us/podcast/football-vision/id1737070477)
 * [No Ratings Pod](https://podcasts.apple.com/us/podcast/no-ratings-pod/id1636203455)
