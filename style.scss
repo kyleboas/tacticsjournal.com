@@ -975,42 +975,6 @@ body {
     font-size: 15px;
   }
   .blog-slogan {
-    font-size: 26px;
+    font-size: 16px;
   }
-}
-
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
-  .filter {
-    position: static !important;
-  }
-
-  .posts .popular:before {
-    content: 'popular';
-    position: static !important;
-  }
-
-  .posts .new:before {
-    content: 'new';
-    position: static !important;
-  }
-
-  .back-to-front {
-    display: none;
-  }
-
-  #carbonads-container {
-    float: none;
-    margin-left: 0;
-  }
-
-  .blog-slogan {
-    margin-bottom: 0px;
-  }
-}
-
-.innertext code {
-  background: none;
-  padding: 0;
 }
