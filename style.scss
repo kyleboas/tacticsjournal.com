@@ -132,6 +132,7 @@ h4,
 h5 {
   position: relative;
   font-family: helvetica, serif;
+  margin-bottom: -10px;
 }
 
 h2 {
@@ -178,7 +179,7 @@ h5:hover a,
 h3:focus a,
 h4:focus a,
 h5:focus a {
-   display: block;
+   display: none;
 }
 
 ol li,
