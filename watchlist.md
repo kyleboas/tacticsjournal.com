@@ -35,8 +35,6 @@ layout: page
   }
 </style>
 
-<hr class="dashed">
-
 ## Center-Forwards 
 
 ### U21
@@ -76,7 +74,7 @@ layout: page
 | [Patson Daka](https://fbref.com/en/players/ca45605e/Patson-Daka) | Leicester City | <a href="https://youtu.be/eO58oDHsEp0"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 | [Valentín Castellanos](https://fbref.com/en/players/da76bab4/Valentin-Castellanos) | Girona | <a href="https://youtu.be/IdoBKeERRfg"><i class="fa-solid fa-video"></i></a> | 4/23/23 |
 
-<hr class="dashed">
+---
 
 ## Left-Wing
 
@@ -114,8 +112,7 @@ layout: page
 |[Federico Chiesa](https://fbref.com/en/players/b0f7e36c/Federico-Chiesa)|Juventus|<a href="https://youtu.be/WLGgWKpAGrs"><i class="fa-solid fa-video"></i></a>|6/25/23|
 |[Harvey Barnes](https://fbref.com/en/players/3ea50f67/Harvey-Barnes)|Leicester City|<a href="https://youtu.be/-Eci9FIZSC8"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
-<hr class="dashed">
-
+---
 
 ## Right-Wing 
 
@@ -159,7 +156,7 @@ layout: page
 |[Marco Asensio](https://fbref.com/en/players/45af8a54/Marco-Asensio)|PSG|<a href="https://youtu.be/Wwnd3UiMf8M"><i class="fa-solid fa-video"></i></a>|7/21/23|
 |[Brahim Diaz](https://fbref.com/en/players/407feb71/Brahim-Diaz)|Real Madrid|<a href="https://youtu.be/gRYRzpY247Y"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
-<hr class="dashed">
+---
 
 ## Center-Midfield
 
@@ -217,8 +214,7 @@ layout: page
 |[Junior Firpo](https://fbref.com/en/players/24f59bb2/Junior-Firpo)|Leeds United|<a href="https://youtu.be/iojHLKaQLC4"><i class="fa-solid fa-video"></i></a>|6/7/23|
 
 
-<hr class="dashed">
-
+---
 
 ## Holding Midfielder
 
@@ -253,9 +249,7 @@ layout: page
 |[Mikel Marino](https://fbref.com/en/players/d080ed5e/Mikel-Merino)|Real Sociedad|<a href="https://youtu.be/l5rpsBs9Tp0"><i class="fa-solid fa-video"></i></a>|8/18/23|
 |[Martín Zubimendi](https://fbref.com/en/players/3ee0dd59/Martin-Zubimendi)|Real Sociedad|<a href="https://youtu.be/dMUdey6I3ms"><i class="fa-solid fa-video"></i></a>|6/23/23|
 
-
-<hr class="dashed">
-
+---
 
 ## Left-Back 
 
@@ -282,7 +276,7 @@ layout: page
 |:----|:----|:----|:----|
 |[Kostas Tsimikas](https://fbref.com/en/players/f315ca93/Kostas-Tsimikas)|Liverpool|<a href="https://youtu.be/ffteOGo-DbI"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
-<hr class="dashed">
+---
 
 ## Right-Back 
 
@@ -312,7 +306,7 @@ layout: page
 |[Thilo Kehrer](https://fbref.com/en/players/51dbeea9/Thilo-Kehrer)|West Ham|<a href="https://youtu.be/IwGqrVmSvXk"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Timothy Castagne](https://fbref.com/en/players/197640fd/Timothy-Castagne)|Leicester|<a href="https://youtu.be/7eOudrOjh8M"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
-<hr class="dashed">
+---
 
 ## Left Center-Back 
 
@@ -342,9 +336,7 @@ layout: page
 |[Gonçalo Inácio](https://fbref.com/en/players/33651873/Goncalo-Inacio)|Sporting CP|<a href="https://youtu.be/KRq5I3IxF2U"><i class="fa-solid fa-video"></i></a>|6/24/23|
 |[Nayef Aguerd](https://fbref.com/en/players/288e1e13/Nayef-Aguerd)|West Ham|<a href="https://youtu.be/NrEyySd231s"><i class="fa-solid fa-video"></i></a>|4/23/23|
 
-
-
-<hr class="dashed">
+---
 
 ## Center Center-Back 
 
@@ -363,7 +355,7 @@ layout: page
 |:----|:----|:----|:----|
 |[Ezri Konsa](https://fbref.com/en/players/0313a347/Ezri-Konsa)|Aston Villa|<a href="https://youtu.be/7HBMDjZNMJ4"><i class="fa-solid fa-video"></i></a>|7/27/23|
 
-<hr class="dashed">
+---
 
 ## Right Center-Back 
 
@@ -389,7 +381,7 @@ layout: page
 |[Joachim Andersen](https://fbref.com/en/players/e34fc66d/Joachim-Andersen)|Crystal Palace| |4/23/23|
 |[Riechedly Bazoer](https://fbref.com/en/players/da59a197/Riechedly-Bazoer)|AZ Alkmaar|<a href="https://youtu.be/QnRFN8ZNWGo?si=2gYoXzZHO3DS95se"><i class="fa-solid fa-video"></i></a>|12/23/23|
 
-<hr class="dashed">
+---
 
 ## Goalkeeper 
 
