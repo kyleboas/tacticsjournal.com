@@ -154,6 +154,7 @@ Some of these channels have a video out right after a game so be sure to check t
 * [Football Meta](https://youtube.com/@FootballMeta?si=o4lZzPb7C2Q-kEEk)
 * [HTO Analysis](https://www.youtube.com/@HTOAnalysis)
 * [Statman Dave](https://youtube.com/@StatmanDave?si=i1Bpf5iW5IrPa4od)
+* [SpreadSheet Soccer](https://youtube.com/@SpreadSheetSoccer?si=V1NutRJ5KpaS5e_2)
 * [The Footy Doctor](https://www.youtube.com/channel/UC5NzLtPzpr5ac7ebCLwaEwg)
 * [The Purist Football](https://www.youtube.com/channel/UCm_CgAOLSrRBR51XVHQ-Qqw)
 * [Umir](https://youtube.com/@umirf1?si=0-jdAymQ4uKPaTrX)
