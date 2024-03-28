@@ -49,21 +49,6 @@ nav {
   }
 }
 
-@media only screen and (max-width: 570px) {
-  .site-avatar img {
-    width: 80px;
-  }
-  .blog-title {
-    font-size: 20px;
-  }
-  .blog-author { 
-    font-size: 15px;
-  }
-  .blog-slogan {
-    font-size: 26px;
-  }
-}
-
 .site-avatar img { 
   width: 110px;
 }
@@ -978,6 +963,21 @@ body {
 }
 
 // Smartphones (portrait and landscape)
+
+@media only screen and (max-width: 570px) {
+  .site-avatar img {
+    width: 80px;
+  }
+  .blog-title {
+    font-size: 20px;
+  }
+  .blog-author { 
+    font-size: 15px;
+  }
+  .blog-slogan {
+    font-size: 26px;
+  }
+}
 
 @media only screen
 and (min-device-width : 320px)
