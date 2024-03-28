@@ -88,7 +88,7 @@ function renderResults(results) {
   var countElement = document.getElementById('result-count');
 
   if (searchQuery === '') {
-    countElement.innerHTML = 'Past 15 posts';
+    countElement.innerHTML = 'Last 15 posts';
     noResultsMessage.style.display = 'none';
 
     // Filter out posts that match the current page's URL
@@ -127,26 +127,33 @@ function renderResults(results) {
     var postsShown = results.length;
     var totalCount = posts.length;
     var countElement = document.getElementById('result-count');
-    countElement.innerHTML = postsShown === 1 ? 'Past post' : 'Past ' + postsShown + ' posts';
-    noResultsMessage.style.display = 'none';
+    countElement.innerHTML = postsShown + ' posts found';
+      noResultsMessage.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item'); // Add a custom class for styling purposes
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      a.classList.add('long-title');
-      li.appendChild(a);
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-      postList.appendChild(li);
-    }
+  var result = results[i];
+  var li = document.createElement('li');
+  li.classList.add('post-item');
+
+  var a = document.createElement('a');
+  a.href = result.url;
+  a.innerHTML = result.title;
+  a.classList.add('long-title');
+  li.appendChild(a);
+
+  var dateElement = document.createElement('p');
+  dateElement.classList.add('post-date');
+  dateElement.innerHTML = result.date; // Assuming result.date holds the date value
+  li.appendChild(dateElement);
+
+  var p = document.createElement('p');
+  p.innerHTML = result.excerpt;
+  li.appendChild(p);
+
+  postList.appendChild(li);
+}
   }
 }
-
 
   // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
