@@ -20,6 +20,7 @@ I'd love to write for all of these websites one day.
 * [Football Bunseki](https://footballbunsekicom.com)
 * [Futbol Akademi](https://www.futbolakademi.net/)
 * [Spielverlagerung.de](https://spielverlagerung.de)
+* [The Athletic](https://theathletic.com)
 * [The Tactical Times](https://tactical-times.com/)
 * [TheMastermindSite](https://themastermindsite.com)
 * [Ultimo Uomo](https://www.ultimouomo.com/)
