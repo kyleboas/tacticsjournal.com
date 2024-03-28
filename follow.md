@@ -15,8 +15,6 @@ BlueSky: [@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)
 
 YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
 
-Once Meta release an API to post to Threads, I'll begin posting on Threads.
-
 ### RSS
 
 The main feed for everything on Tactics Journal: [https://tacticsjournal.com/feed](https://tacticsjournal.com/feed)
