@@ -1,5 +1,6 @@
 ---
 ---
+  
 
 (function () {
   var searchInput = document.getElementById('search-input');
@@ -16,7 +17,6 @@
     var image = document.createElement('img');
     image.src = '{{ site.baseurl }}/assets/C689B127-879F-4B0E-9D00-EDC0D8410697.jpeg';
     image.style.width = '100px';
-    image.style.paddingTop = '10px';
     imageLink.appendChild(image);
     noResultsMessage.appendChild(imageLink);
 
@@ -26,58 +26,50 @@
 
   var posts = [
     {% for post in site.posts %}
+      {% unless post.categories contains 'Notes' %}
         {
           title: "{{ post.title | xml_escape }}",
           url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
           excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
-          tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
-          categories: "{{ post.categories | xml_escape }}",
           date: "{{ post.date | date: "%B %d, %Y" }}",
-          note: "{{- post.content | replace_first: '<p>', '' | replace: '</p>\\s*<p>', '</p><p>' | replace: '"', '\"' | strip_newlines | strip -}}",
-          content: "{{- post.content | replace: '"', '\"' | strip_newlines | strip -}}"
+          tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
+          categories: "{{ post.categories | xml_escape }}"
         }{% unless forloop.last %},{% endunless %}
+      {% endunless %}
     {% endfor %}
   ];
 
   function search(query) {
-  var results = [];
+    var results = [];
 
-  if (!query || query.trim() === '') {
-    return posts; // Return all posts if no query is provided or if it's blank
-  }
-
-  for (var i = 0; i < posts.length; i++) {
-    var post = posts[i];
-
-    var isNote = post.categories.toLowerCase().includes('notes');
-
-    if (
-      post.title.toLowerCase().includes(query.toLowerCase()) ||
-      post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-      post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-      post.categories.toLowerCase().includes(query.toLowerCase()) || // Add search in categories
-      post.date.toLowerCase().includes(query.toLowerCase()) || // Add search in date
-      (isNote && post.note.toLowerCase().includes(query.toLowerCase())) // Search in note content for "Notes" category
-    ) {
-      var highlightedTitle = highlightMatch(post.title, query);
-      var highlightedExcerpt = highlightMatch(post.excerpt, query);
-      var highlightedNote = isNote ? highlightMatch(post.note, query) : post.note;
-
-      results.push({
-        title: highlightedTitle,
-        url: post.url,
-        excerpt: highlightedExcerpt,
-        note: highlightedNote, // Include highlighted note content
-        tags: post.tags,
-        categories: post.categories,
-        date: post.date,
-      });
+    if (!query || query.trim() === '') {
+      return posts; // Return all posts if no query is provided or if it's blank
     }
+
+    for (var i = 0; i < posts.length; i++) {
+      var post = posts[i];
+
+      if (
+        post.title.toLowerCase().includes(query.toLowerCase()) ||
+        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+        post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
+        post.categories.toLowerCase().includes(query.toLowerCase()) // Add search in categories
+      ) {
+        var highlightedTitle = highlightMatch(post.title, query);
+        var highlightedExcerpt = highlightMatch(post.excerpt, query);
+        results.push({
+          title: highlightedTitle,
+          date: post.date,
+          url: post.url,
+          excerpt: highlightedExcerpt,
+          tags: post.tags,
+          categories: post.categories
+        });
+      }
+    }
+
+    return results;
   }
-
-  return results;
-}
-
 
   function highlightMatch(text, query) {
     var regex = new RegExp(query, 'gi');
@@ -86,170 +78,96 @@
     });
   }
 
-  function renderResults(results, query) {
-    postList.innerHTML = '';
-
-    var searchQuery = searchInput.value.trim();
-    var countElement = document.getElementById('result-count');
-
-    if (searchQuery === '') {
-      countElement.textContent = 'Last 15 posts';
-      noResultsMessage.style.display = 'none';
-
-      var currentDate = null;
-      var firstGroup = true;
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-
-        if (result.date !== currentDate) {
-          var separator = document.createElement('div');
-          separator.classList.add('date-separator');
-          var p = document.createElement('p');
-          p.textContent = result.date;
-          separator.appendChild(p);
-
-          if (firstGroup) {
-            separator.classList.add('first-date-separator');
-            separator.style.marginTop = '0px';
-            firstGroup = false;
-          }
-
-          postList.appendChild(separator);
-
-          currentDate = result.date;
-        }
-
-        var li = document.createElement('li');
-        li.classList.add('post-item');
-
-        if (result.categories.includes('Notes')) {
-          var p = document.createElement('p');
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          a.classList.add('short-title');
-          p.appendChild(a);
-          p.innerHTML += result.note;
-          li.appendChild(p);
-        } else {
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          a.classList.add('long-title');
-          li.appendChild(a);
-          var p = document.createElement('p');
-          p.innerHTML = result.content;
-          li.appendChild(p);
-        }
-        
-        postList.appendChild(li);
-
-         // Append an <hr> element before each post (except the first one of the day)
-        if (i < results.length - 1 && results[i].date === results[i + 1].date) {
-        var hr = document.createElement('hr');
-        postList.appendChild(hr);
-        }
-      }
-    } else if (results.length === 0) {
-      countElement.textContent = 'No posts found';
-      noResultsMessage.style.display = 'block';
-    } else {
-      var resultCount = results.length;
-      countElement.textContent = resultCount + ' posts found';
-      noResultsMessage.style.display = 'none';
-
-      var currentDate = null;
-      var firstGroup = true;
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-
-        if (result.date !== currentDate) {
-          var separator = document.createElement('div');
-          separator.classList.add('date-separator');
-          var p = document.createElement('p');
-          p.textContent = result.date;
-          separator.appendChild(p);
-
-          if (firstGroup) {
-            separator.classList.add('first-date-separator');
-            separator.style.marginTop = '0px';
-            firstGroup = false;
-          }
-
-          postList.appendChild(separator);
-
-          currentDate = result.date;
-        }
-
-        var li = document.createElement('li');
-        li.classList.add('post-item');
-
-        if (result.categories.includes('Notes')) {
-          var p = document.createElement('p');
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          a.classList.add('short-title');
-          p.appendChild(a);
-          p.innerHTML += result.note;
-          li.appendChild(p);
-        } else {
-          var a = document.createElement('a');
-          a.href = result.url;
-          a.innerHTML = result.title;
-          a.classList.add('long-title');
-          li.appendChild(a);
-          var p = document.createElement('p');
-          p.innerHTML = result.excerpt;
-          li.appendChild(p);
-        }
-
-        postList.appendChild(li);
-
-        if (i > 0 && results[i].date !== results[i - 1].date) {
-        var hr = document.createElement('hr');
-        postList.appendChild(hr);
-        }
-      }
-    }
-
-    var firstGroupSeparator = postList.querySelector('.first-date-separator');
-    if (firstGroupSeparator) {
-      firstGroupSeparator.classList.add('first-date-separator');
-      firstGroupSeparator.style.marginTop = '0px';
-    }
+function getCurrentPageUrl() {
+    return window.location.href;
   }
+     
+function renderResults(results) {
+  postList.innerHTML = '';
 
+  var searchQuery = searchInput.value.trim();
+  var countElement = document.getElementById('result-count');
+
+  if (searchQuery === '') {
+    countElement.innerHTML = 'Last 15 posts';
+    noResultsMessage.style.display = 'none';
+
+    // Filter out posts that match the current page's URL
+    var filteredResults = results.filter(function (post) {
+    return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
+   });
+
+
+    for (var i = 0; i < results.length; i++) {
+  var result = results[i];
+  var li = document.createElement('li');
+  li.classList.add('post-item');
+
+  var a = document.createElement('a');
+  a.href = result.url;
+  a.innerHTML = result.title;
+  a.classList.add('long-title');
+  li.appendChild(a);
+
+  var dateElement = document.createElement('p');
+  dateElement.classList.add('post-date');
+  dateElement.innerHTML = result.date; // Assuming result.date holds the date value
+  li.appendChild(dateElement);
+
+  var p = document.createElement('p');
+  p.innerHTML = result.excerpt;
+  li.appendChild(p);
+
+  postList.appendChild(li);
+}
+
+  } else if (results.length === 0) {
+    countElement.innerHTML = 'No posts found';
+    noResultsMessage.style.display = 'block'; // Show the message
+  } else {
+    var postsShown = results.length;
+    var totalCount = posts.length;
+    var countElement = document.getElementById('result-count');
+    countElement.innerHTML = postsShown + ' posts found';
+      noResultsMessage.style.display = 'none';
+
+    for (var i = 0; i < results.length; i++) {
+  var result = results[i];
+  var li = document.createElement('li');
+  li.classList.add('post-item');
+
+  var a = document.createElement('a');
+  a.href = result.url;
+  a.innerHTML = result.title;
+  a.classList.add('long-title');
+  li.appendChild(a);
+
+  var dateElement = document.createElement('p');
+  dateElement.classList.add('post-date');
+  dateElement.innerHTML = result.date; // Assuming result.date holds the date value
+  li.appendChild(dateElement);
+
+  var p = document.createElement('p');
+  p.innerHTML = result.excerpt;
+  li.appendChild(p);
+
+  postList.appendChild(li);
+}
+  }
+}
+
+  // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
   if (searchQuery) {
     searchInput.value = searchQuery;
-    var results = search(searchQuery);
-
-    if (results.length > 0) {
-      var firstGroupSeparator = postList.querySelector('.first-date-separator');
-      if (firstGroupSeparator) {
-        firstGroupSeparator.classList.add('first-date-separator');
-        firstGroupSeparator.style.marginTop = '0px';
-      }
-    }
-
-    renderResults(results, searchQuery);
   }
 
   searchInput.addEventListener('input', function () {
     var query = searchInput.value;
     var results = search(query);
-
-    if (results.length > 0) {
-      var firstGroupSeparator = postList.querySelector('.first-date-separator');
-      if (firstGroupSeparator) {
-        firstGroupSeparator.classList.add('first-date-separator');
-        firstGroupSeparator.style.marginTop = '0px';
-      }
-    }
-
-    renderResults(results, query);
+    renderResults(results);
   });
 
+  // Initial render of the first 5 posts
   renderResults(posts.slice(0, 15));
 })();
