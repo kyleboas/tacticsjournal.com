@@ -14,6 +14,7 @@ layout: page
     width: 100%;
     font-size: 15px;
     font-family: helvetica;
+    padding-top: 15px;
   }
   
   .dashed {
