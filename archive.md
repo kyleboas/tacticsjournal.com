@@ -16,10 +16,10 @@ permalink: /archive/
 {% endif %}
 
 <h2>{{ post_month }}</h2>
-<p><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%B %d, %Y" }}</small></p>
+<p><a href="{{ post.url }}">{{ post.title }}</a><br><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
 {% assign current_month = post_month %}
 {% else %}
-<p><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%B %d, %Y" }}</small></p>
+<p><a href="{{ post.url }}">{{ post.title }}</a><br><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
 {% endif %}
 {% endunless %}
 {% endfor %}
@@ -27,4 +27,4 @@ permalink: /archive/
 {% if current_month != "" %}
 {% endif %}
 
-<style>a{font-family:helvetica; font-size: 16px; text-decoration: none} small{font-family:Helvetica; font-size:14px; margin-left: 7px;}</style>
+<style>a{font-family:helvetica; font-size: 16px; text-decoration: none} small{font-family:Helvetica; font-size:14px;}</style>
