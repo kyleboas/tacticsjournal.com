@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Archive
 permalink: /archive/
 ---
+
+<h1>Archive</h1>
 
 {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 {% assign current_month = "" %}
