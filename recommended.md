@@ -46,6 +46,7 @@ Each individual person listed here has their own style and specialty. Most write
 * [Martin Julliard](https://medium.com/@mjuilliard/)
 * [Maximilian Aichinger](https://medium.com/@max.aichinger0815)
 * [Meringos](https://meringost.substack.com)
+* [Michael Cox](https://theathletic.com/author/michael-cox/)
 * [MinimumWidth](https://minimumwidth.substack.com)
 * [Peter Motzenbecker](https://motz.football/analysis)
 * [Tactically Speaking](https://tacticallyspeaking.co.uk)
