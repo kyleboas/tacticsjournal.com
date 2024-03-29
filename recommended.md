@@ -27,6 +27,7 @@ I'd love to write for all of these websites one day.
 ### Individuals
 Each individual person listed here has their own style and specialty. Most write in English but some post in other languages like Spanish, Italian, Portuguese, German, etc.
 
+* [BallerBantz](https://ballerzbantz.ghost.io/)
 * [Ball Don't Lai](https://marcolai.substack.com)
 * [Caped Corners](https://capedcorners.substack.com)
 * [Christoph](https://footballxplained.de/author/christoph/)
