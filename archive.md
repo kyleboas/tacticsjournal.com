@@ -23,6 +23,8 @@ permalink: /archive/
 {% endif %}
 {% endunless %}
 {% endfor %}
-
+<hr>
 {% if current_month != "" %}
 {% endif %}
+
+<style>a{font-family:helvetica; font-size: 16px; text-decoration: none} small{font-family:Helvetica; font-size:14px; margin-left: 7px;}</style>
