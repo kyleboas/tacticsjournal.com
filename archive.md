@@ -1,15 +1,26 @@
 ---
+layout: page
 title: Archive
-layout: default
+permalink: /archive/
 ---
 
-{% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%B %Y'" %}
-{% for month in postsByMonth %}
-  <h2>{{ month.name }}</h2>
-  <ul>
-    {% for post in month.items %}
-      <li>{{ post.date | date: "%d %B %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+{% assign sorted_posts = site.posts | sort: 'date' %}
+{% assign current_month = "" %}
 
+{% for post in sorted_posts %}
+  {% unless post.categories contains "Notes" %}
+    {% assign post_month = post.date | date: "%B %Y" %}
+
+    {% if current_month != post_month %}
+      {% if current_month != "" %}
+        </ul>
+      {% endif %}
+
+      <h2>{{ post_month }}</h2>
+      <ul>
+      {% assign current_month = post_month %}
+    {% endif %}
+
+    <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
+  {% endunless %}
+{% endfor %}
