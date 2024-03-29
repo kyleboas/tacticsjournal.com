@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: page
 permalink: /preview/
 ---
 
-{% include video.html url="https://www.youtube.com/embed/Z8vc_oIOPn8?si=cHIsJatXlpU6EKtK&amp;start=402" %}
+{% include video.html url="https://www.youtube.com/embed/eeQXvNZVXq8?si=b8w1_aO6AONB99Fp" %}
