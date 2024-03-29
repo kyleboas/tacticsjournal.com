@@ -4,7 +4,7 @@ title: Archive
 permalink: /archive/
 ---
 
-{% assign sorted_posts = site.posts | sort: 'date' %}
+{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 {% assign current_month = "" %}
 
 {% for post in sorted_posts %}
@@ -17,10 +17,15 @@ permalink: /archive/
       {% endif %}
 
       <h2>{{ post_month }}</h2>
-      <ul>
+      <p><a href="{{ post.url }}">{{ post.title }}</a><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
       {% assign current_month = post_month %}
+    {% else %}
+      <p><a href="{{ post.url }}">{{ post.title }}</a><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
     {% endif %}
-
-    <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
   {% endunless %}
 {% endfor %}
+
+{% if current_month != "" %}
+  </ul>
+{% endif %}
+
