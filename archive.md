@@ -8,21 +8,21 @@ permalink: /archive/
 {% assign current_month = "" %}
 
 {% for post in sorted_posts %}
-  {% unless post.categories contains "Notes" %}
-    {% assign post_month = post.date | date: "%B %Y" %}
+{% unless post.categories contains "Notes" %}
+{% assign post_month = post.date | date: "%B %Y" %}
 
 {% if current_month != post_month %}
-      {% if current_month != "" %}
-        </ul>
-      {% endif %}
+{% if current_month != "" %}
+</ul>
+{% endif %}
 
 <h2>{{ post_month }}</h2>
 <p><a href="{{ post.url }}">{{ post.title }}</a><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
 {% assign current_month = post_month %}
 {% else %}
 <p><a href="{{ post.url }}">{{ post.title }}</a><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
-    {% endif %}
-  {% endunless %}
+{% endif %}
+{% endunless %}
 {% endfor %}
 
 {% if current_month != "" %}
