@@ -16,14 +16,13 @@ permalink: /archive/
 {% endif %}
 
 <h2>{{ post_month }}</h2>
-<p class="archive"><a href="{{ post.url }}">{{ post.title }}</a><br><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
+<p class="archive"><a href="{{ post.url }}">{{ post.title }}</a><br><small>{{ post.date | date: "%d %B %Y" }}</small></p>
 {% assign current_month = post_month %}
 {% else %}
-<p class="archive"><a href="{{ post.url }}">{{ post.title }}</a><br><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
+<p class="archive"><a href="{{ post.url }}">{{ post.title }}</a><br><small>{{ post.date | date: "%d %B %Y" }}</small></p>
 {% endif %}
 {% endunless %}
 {% endfor %}
-<hr>
 {% if current_month != "" %}
 {% endif %}
 
