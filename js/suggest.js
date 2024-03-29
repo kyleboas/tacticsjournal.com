@@ -108,3 +108,27 @@ function showSuggestions(list) {
   }
 }
 
+// Sort the suggestions alphabetically
+suggestions.sort();
+
+// Function to display the suggestions
+function showSuggestions(list) {
+  let listData;
+  if (!list.length) {
+    listData = "<li class='suggestion-item'>" + userValue + "</li>";
+  } else {
+    let slicedArray = list.slice(0, 5); // Slice the array to include only the first 5 elements
+    listData = slicedArray.map((data) => "<li class='suggestion-item'>" + data + "</li>").join("");
+  }
+
+  // Clear any previous suggestions
+  resultBox.innerHTML = "";
+
+  // Append only 5 sorted suggestions to the resultBox
+  for (let i = 0; i < 5 && i < suggestions.length; i++) {
+    const suggestionItem = document.createElement("li");
+    suggestionItem.classList.add("suggestion-item");
+    suggestionItem.textContent = suggestions[i];
+    resultBox.appendChild(suggestionItem);
+  }
+}
