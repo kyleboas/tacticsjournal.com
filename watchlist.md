@@ -1,6 +1,7 @@
 ---
 title: Watchlist
 layout: page
+description: "My watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube."
 ---
 
 <p><em>last updated: 21 February 2024</em></p>
