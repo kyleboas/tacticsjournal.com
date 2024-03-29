@@ -13,7 +13,6 @@ permalink: /archive/
 
 {% if current_month != post_month %}
 {% if current_month != "" %}
-</ul>
 {% endif %}
 
 <h2>{{ post_month }}</h2>
@@ -26,5 +25,4 @@ permalink: /archive/
 {% endfor %}
 
 {% if current_month != "" %}
-</ul>
 {% endif %}
