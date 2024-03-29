@@ -159,6 +159,7 @@ Some of these channels have a video out right after a game so be sure to check t
 * [Football Made Simple](https://youtube.com/@FootballMadeSimple?si=nqy5X2FBn2ikUx59)
 * [Football Meta](https://youtube.com/@FootballMeta?si=o4lZzPb7C2Q-kEEk)
 * [HTO Analysis](https://www.youtube.com/@HTOAnalysis)
+* [Positional Play](https://www.youtube.com/@pstionalplay)
 * [Rimedi](https://www.youtube.com/channel/UCpB6dM8UYzHYhxtUd5A4Lxg)
 * [Statman Dave](https://youtube.com/@StatmanDave?si=i1Bpf5iW5IrPa4od)
 * [SpreadSheet Soccer](https://youtube.com/@SpreadSheetSoccer?si=V1NutRJ5KpaS5e_2)
