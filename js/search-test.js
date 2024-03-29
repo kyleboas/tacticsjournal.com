@@ -94,33 +94,34 @@ function renderResults(results) {
 
     // Filter out posts that match the current page's URL
     var filteredResults = results.filter(function (post) {
-    return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
-   });
+      return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
+    });
 
+    // Show only the first 15 posts
+    var slicedResults = filteredResults.slice(0, 15);
 
-    for (var i = 0; i < results.length; i++) {
-  var result = results[i];
-  var li = document.createElement('li');
-  li.classList.add('post-item');
+    for (var i = 0; i < slicedResults.length; i++) {
+      var result = slicedResults[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
 
-  var a = document.createElement('a');
-  a.href = result.url;
-  a.innerHTML = result.title;
-  a.classList.add('long-title');
-  li.appendChild(a);
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      a.classList.add('long-title');
+      li.appendChild(a);
 
-  var dateElement = document.createElement('p');
-  dateElement.classList.add('post-date');
-  dateElement.innerHTML = result.date; // Assuming result.date holds the date value
-  li.appendChild(dateElement);
+      var dateElement = document.createElement('p');
+      dateElement.classList.add('post-date');
+      dateElement.innerHTML = result.date; // Assuming result.date holds the date value
+      li.appendChild(dateElement);
 
-  var p = document.createElement('p');
-  p.innerHTML = result.excerpt;
-  li.appendChild(p);
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
 
-  postList.appendChild(li);
-}
-
+      postList.appendChild(li);
+    }
   } else if (results.length === 0) {
     countElement.innerHTML = 'No posts found';
     noResultsMessage.style.display = 'block'; // Show the message
