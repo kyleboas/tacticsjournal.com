@@ -6,7 +6,7 @@ categories:
 - "Premier League"
 tags:
 - "Manchester City"
-image: "https://i.imgur.com/9jlMJrY.png"
+image: "https://imgur.com/a/PGJiuPs"
 ---
 
 Compare Erling Haaland's ability to control the ball with his feet from last year against Arsenal to this year. It is the area at which the Manchester City forward has seen the most improvement, and an area to focus on during Sunday's match.
