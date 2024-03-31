@@ -98,7 +98,7 @@ You'd rather have someone like a Jack Grealish bursting into the middle of the f
 Have someone like Jérémy Doku or Phil Foden invert from the left-wing, then have Bernardo Silva or Jack Grealish holding width. Overload that left-wing and put a lot of pressure on Ben White's ankles.
 
 <figure>
-    <img src="https://i.imgur.com/XSibbLZ.jpeg">
+    <img src="https://i.imgur.com/iu8Dwhj.jpeg">
     <figcaption>Figure 9.1 - Illustration of a proposed lineup and formation out-of-possession for Manchester City.</figcaption>
 </figure> 
 
