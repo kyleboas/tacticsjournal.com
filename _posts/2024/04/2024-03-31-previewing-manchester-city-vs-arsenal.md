@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-04-01 08:00 UTC
+date: 2024-03-31 08:00 UTC
 title: "Previewing Manchester City vs Arsenal"
 categories:
 - "Premier League"
