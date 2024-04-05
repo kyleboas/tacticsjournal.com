@@ -46,7 +46,7 @@ For example, Chukwuemeka should be passed the ball in **Figure 2.1** because he 
 
 Chelsea have cliques. In the critical phases, certain players only pass to certain players and won't pass to others unless they are wide open, and even that's not a guarantee. 
 
-- Axel Disasi, Enzo Fernandez, Conor Gallagher, and Cole Palmer
+- Axel Disasi, Enzo Fernandez, Conor Gallagher (to a small degree), and Cole Palmer
 - Mykhaylo Mudryk, Nicolas Jackson, Malo Gusto, Marc Cucurella, Carney Chukwuemeka 
 
 The first group of players avoid passing to the second group of players. It's like watching a training game where you have to complete a certain number of passes before passing to the second group. But the second group will work with the first group. 
