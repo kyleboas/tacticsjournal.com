@@ -51,7 +51,7 @@ Chelsea have cliques. In the critical phases, certain players only pass to certa
 
 The first group of players avoid passing to the second group of players. It's like watching a training game where you have to complete a certain number of passes before passing to the second group. But the second group will work with the first group. 
 
-Then there's in-between players like Caicedo, Madueke, Colwill, Thiago Silva, and Badiashille who will pass to everyone. 
+Then there's in-between players like Caicedo, Madueke, Gilchrist, Chalobah, Colwill, Thiago Silva, and Badiashille who will pass to everyone. 
 
 [Raheem Sterling used to belong to that first group](https://tacticsjournal.com/2023/08/14/chelsea-hesitate-to-play-nicolas-jackson-in/) but he has been better lately at spreading the love.
 
