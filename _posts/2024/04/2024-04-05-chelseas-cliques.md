@@ -71,4 +71,6 @@ When the entire team works together, they spread the responsibility of dragging 
 
 But the trust needs to be there to know, if I expend all this energy making a run, I will eventually be rewarded.
 
+They need to work together because they've thrown away too many leads.
+
 *Match: Chelsea 4-3 Manchester United, 4 April 2024*
