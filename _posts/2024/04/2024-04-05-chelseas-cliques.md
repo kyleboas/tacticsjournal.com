@@ -55,7 +55,7 @@ Then there's in-between players like Caicedo, Madueke, Gilchrist, Chalobah, Colw
 
 [Raheem Sterling used to belong to that first group](https://tacticsjournal.com/2023/08/14/chelsea-hesitate-to-play-nicolas-jackson-in/) but he has been better lately at spreading the love.
 
-You'll notice these cliques because the players in the second group won't make runs when the players in the first group have the ball. Why make the run when you know you won't get the ball?  
+You'll notice these cliques because the players in the second group won't make runs when the players in the first group have the ball. Compare it to when a player in the second group has the ball. Their run is purposeful, they're on the same page, the pass arrives in time. When the first group has the ball, why make the run when you know you won't get the ball? 
 
 <figure>
     <img src="https://i.imgur.com/GE3a6r5.jpeg">
