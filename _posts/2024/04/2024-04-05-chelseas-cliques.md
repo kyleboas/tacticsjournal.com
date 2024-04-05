@@ -46,7 +46,7 @@ For example, Chukwuemeka should be passed the ball in **Figure 2.1** because he 
 
 Chelsea have cliques. In the critical phases, certain players only pass to certain players and won't pass to others unless they are wide open, and even that's not a guarantee. 
 
-- Axel Disasi, Enzo Fernandez, Conor Gallagher (to a small degree), and Cole Palmer
+- Axel Disasi, Enzo Fernandez, Conor Gallagher (to a degree), and Cole Palmer
 - Mykhaylo Mudryk, Nicolas Jackson, Malo Gusto, Marc Cucurella, Carney Chukwuemeka 
 
 The first group of players avoid passing to the second group of players. It's like watching a training game where you have to complete a certain number of passes before passing to the second group. But the second group will work with the first group. 
@@ -55,7 +55,7 @@ Then there's in-between players like Caicedo, Colwill, Thiago Silva, and Badiash
 
 [Raheem Sterling used to belong to that first group](https://tacticsjournal.com/2023/08/14/chelsea-hesitate-to-play-nicolas-jackson-in/) but he has been better lately at spreading the love.
 
-You'll notice these cliques because the players in the second group won't make runs when the players in the first group have the ball. Why make the run when you know you won't get the ball? 
+You'll notice these cliques because the players in the second group won't make runs when the players in the first group have the ball. Why make the run when you know you won't get the ball?  
 
 <figure>
     <img src="https://i.imgur.com/GE3a6r5.jpeg">
