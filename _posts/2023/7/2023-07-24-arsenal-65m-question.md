@@ -9,7 +9,7 @@ tags:
 image: "https://i.imgur.com/Zdcpb6g.jpg"
 ---
 
-July 24, 2023 — One of Kai Havertz's only redeeming qualities that he brings to Arsenal is hold-up play. Then why is Kai Havertz dropping wide or into the left half-space, and Eddie Nketiah is the one receiving the ball with his back to goal? That is the £65m question. 
+One of Kai Havertz's only redeeming qualities that he brings to Arsenal is hold-up play. Then why is Kai Havertz dropping wide or into the left half-space, and Eddie Nketiah is the one receiving the ball with his back to goal? That is the £65m question. 
 
 <!---more--->
 
