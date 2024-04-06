@@ -95,7 +95,7 @@ You don't buy a center-forward for £65m if they can't finish. They would need t
 
 Kai Havertz to The Athletic, August 2021: 
 
-> “More or less, I’m a midfield player but I like to go into the box"
+> “More or less, I’m a midfield player but I like to go into the box."
 
 That's a second striker. 
 
