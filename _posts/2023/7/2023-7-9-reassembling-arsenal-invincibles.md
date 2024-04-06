@@ -7,7 +7,7 @@ tags:
 image: "https://i.imgur.com/xmIRHS5.jpg"
 ---
 
-July 9, 2023 — Arsenal played behind closed doors against Watford. Mikel Arteta gave us a first preview into what the second striker role might look like for Kai Havertz and Leandro Trossard.
+Arsenal played behind closed doors against Watford. Mikel Arteta gave us a first preview into what the second striker role might look like for Kai Havertz and Leandro Trossard.
 
 <!---more--->
 
