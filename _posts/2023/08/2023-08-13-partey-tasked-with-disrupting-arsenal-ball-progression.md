@@ -10,7 +10,7 @@ tags:
 image: "https://i.imgur.com/smOylkY.jpg"
 ---
 
-August 13, 2023 — On paper, the difference between Thomas Partey playing at right-back versus right center-back is small, but in practice, it impedes Arsenal's ability to progress the ball into the final third.
+On paper, the difference between Thomas Partey playing at right-back versus right center-back is small, but in practice, it impedes Arsenal's ability to progress the ball into the final third.
 
 <!---more--->
 
