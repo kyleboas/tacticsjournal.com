@@ -73,7 +73,7 @@ In transition to attack, on the counter, Haaland will often run the opposite dir
     <figcaption>Figure 4.2 - Erling Haaland plays a one-touch pass back to Bernardo Silva.</figcaption>
 </figure> 
 
-It's all very choreographed. The only time you'll see him move to receive is when certain players aren't or are occupying certain spaces. Bernardo Silva moves back so he sees the space, and checks to the ball, then helps circulate the ball.
+It's all very choreographed. The only time you'll see him move to receive is when certain players aren't occupying certain spaces. Bernardo Silva moves back so he sees the space, and checks to the ball, then helps circulate the ball.
 
 But notice how congested that right side of the pitch is now. They don't want him doing that movement back because it draws a center-back with him. There's less space, and now there's no one occupying the space central, close to the penalty box.
 
@@ -82,7 +82,7 @@ But notice how congested that right side of the pitch is now. They don't want hi
     <figcaption>Figure 5.1 - Erling Haaland curves his run to the back post for the cross, opening space for Phil Foden in the middle of the box.</figcaption>
 </figure> 
 
-When there's a cross, he'll almost always make the back-post run. That back-post run opens space in the middle for Foden to arrive into. 
+When there's a cross, he'll almost always make the back-post run. That back-post run opens space in the middle for Foden to arrive into.
 
 <figure>
     <img src="https://i.imgur.com/ZI0Vzkp.jpeg">
