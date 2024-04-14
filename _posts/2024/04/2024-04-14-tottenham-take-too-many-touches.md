@@ -25,7 +25,7 @@ When Tottenham are denied the ability to counter, they enter into a strange patt
 
 <figure>
     <img src="https://i.imgur.com/0jfxddC.jpeg">
-    <figcaption>Figure 1.3 - James Maddison's passes to Rodrigo Bentancur.</figcaption>
+    <figcaption>Figure 1.3 - James Maddison passes to Rodrigo Bentancur.</figcaption>
 </figure> 
 
 Rodrigo Bentancur and Timo Werner were both calling for the ball on James Maddison's first touch. By waiting for that third touch to pass, Newcastle can quickly move to anticipate the subsequent passes.
