@@ -151,6 +151,6 @@ I discussed previously that [Tottenham have trouble scoring when they have a lot
 
 They use both an offside trap and a counter trap. They want you to take the bait on the counter to allow them to quickly enter the box, just like how they use an offside trap to bait you to beat their high line. They don't want that battle in-between.
 
-If you want to stop Tottenham; be patient, allow them to have the ball, take all the touches they want, telegraph passes, and then remain patient on the counter when you intercept their pass. 
+If you want to stop Tottenham; be patient, allow them to have the ball, take all the touches they want, they telegraph passes, and then remain patient on the counter when you intercept their pass. 
 
 *Match: Newcastle 4-0 Tottenham, 13 April 2024* 
