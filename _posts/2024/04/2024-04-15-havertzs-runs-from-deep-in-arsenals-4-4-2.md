@@ -24,7 +24,7 @@ Arsenal's 4-4-2 was built to get Kai Havertz in those deeper pockets to try to t
     <figcaption>Figure 1.2 - Arsenal's 4-4-2 versus Aston Villa.</figcaption>
 </figure> 
 
-Arsenal replicated that [classic Invincibles 4-4-2](https://tacticsjournal.com/2023/07/09/reassembling-arsenal-invincibles/). Obviously Trossard is not Pires, Jesus is not Henry, and Zinchenko is not Cole, but those are the roles. 
+Arsenal replicated that [classic Invincibles 4-4-2](https://tacticsjournal.com/2023/07/09/reassembling-arsenal-invincibles/). Obviously Trossard is not Pires, Jesus is not Henry, and Zinchenko is not Cole, but those are the roles.
 
 But to get Kai Havertz in those Denis Bergkamp type spaces, you need a center-forward next to him. Havertz wasn't playing as a midfielder, he was playing as a second striker. Playing deeper than Jesus.
 
