@@ -71,13 +71,17 @@ Chelsea manager, Mauricio Pochettino, addressed the incident after the match:
 > 
 > When you ask me about why we are not consistent, why we are not performing, sometime why we show some good performance, and then we drop in our standards because the standards. The squad need to have very clear that they are a very good, [important part] of the club, but in the same time, they need to perform for the team and they need to really learn quick, because we are in Chelsea and the demand is so high. I think we need to move on.
 
-Pochettinho is spitting facts. Couldn't have said it better. He feels there's no leaders on the pitch for Chelsea, so he wants to take that responsibility away from them to chose, and he has picked Cole Palmer to take penalties. Anyone that doesn't follow that is in the wrong.
+Pochettinho couldn't have said it better. He feels there's no leaders on the pitch for Chelsea, so he wants to take that responsibility away from them to chose, and he has picked Cole Palmer to take penalties. Anyone that doesn't follow that is in the wrong.
 
 But there's a bit but there. Cole Palmer had already scored a hat-trick before taking this penalty. He's on 19 goals, score this penalty and you tie Erling Haaland in the golden boot race at 20 goals. That's the race for the golden boot, an individual award. 
 
 The collective requires everyone. They are only three points from 6th place behind Newcastle and Manchester United, with a game in hand. Nicolas Jackson has been inconsistent in-front of goal. Noni Madueke doesn't get to play every match.
 
 Why not decide as a team, hey, we're comfortable 4-0 up, we as a team need everyone firing to compete for a vital European spot. Spread the confidence to everyone, don't be selfish. I have three goals, I'm going to hand the ball off to someone else who hasn't scored. 
+
+Cole Palmer on the situation:
+
+> I’m the penalty taker. I wanted to take it so I took it. Everyone wants to take responsibility. We ended up laughing and joking about it but the manager has spoken to us about it now.
 
 Conor Gallagher fending off Nicolas Jackson and Noni Madueke is another example of [Chelsea's cliques](https://tacticsjournal.com/2024/04/05/chelseas-cliques/) at work in more plain view then what we see during open play. 
 
