@@ -73,7 +73,7 @@ Chelsea manager, Mauricio Pochettino, addressed the incident after the match:
 
 Pochettinho couldn't have said it better. He feels there's no leaders on the pitch for Chelsea, so he wants to take that responsibility away from them to chose, and he has picked Cole Palmer to take penalties. Anyone that doesn't follow that is in the wrong.
 
-But there's a bit but there. Cole Palmer had already scored a hat-trick before taking this penalty. He's on 19 goals, score this penalty and you tie Erling Haaland in the golden boot race at 20 goals. That's the race for the golden boot, an individual award. 
+But there's a big but there. Cole Palmer had already scored a hat-trick before taking this penalty. He's on 19 goals, score this penalty and you tie Erling Haaland in the golden boot race at 20 goals. That's the race for the golden boot, an individual award. 
 
 The collective requires everyone. They are only three points from 6th place behind Newcastle and Manchester United, with a game in hand. Nicolas Jackson has been inconsistent in-front of goal. Noni Madueke doesn't get to play every match.
 
