@@ -28,7 +28,7 @@ Bayern Munich used clever positioning to pin Jorginho and Ben White high on the 
 
 There is a lot going on in this image. 
 
-De Ligt is by himself, and it looks vulnerable. If Arsenal win back the ball, they have Martinelli, Rice, Ødegaard, and Saka there to counter ahead of Goretzka, Laimer, and Kimmich versus Dier and De Ligt. 4v2.
+De Ligt is by himself, and it looks vulnerable. If Arsenal win back the ball, they have Havertz, Martinelli, Rice, Ødegaard, and Saka there to counter ahead of Goretzka, Laimer, and Kimmich versus Dier and De Ligt. 5v2.
 
 Kimmich high pins Martinelli wide. That forces Rice to mark Goretzka instead of Martinelli. Then there's a domino effect. Ødegaard marks Laimer, instead of Musiala or Dier. That then means Saka has to stay high to press Dier. He could back off but that would make passing out too easy.
 
