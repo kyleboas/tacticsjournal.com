@@ -9,7 +9,7 @@ tags:
 image: "https://i.imgur.com/SYczHa6.jpeg"
 ---
 
-Feyenoord's right center-back positions themselves aggressively, which can leave them vulnerable defending in both settled play and on the counter. And it's not isolated to one defender; it seems to be a systemic issue related to Arne Slot's instructions.
+I went through all of Feyenoord's conceded goals since November 25th. Arne Slot seems to instruct all of their right center-backs to position themselves aggressively wide or to follow the center-forward, which has left them vulnerable in settled play.
 
 <!---more--->
 
@@ -33,9 +33,9 @@ Feyenoord's right center-back positions themselves aggressively, which can leave
     <figcaption>Figure 2.2 - Feyenoord are caught out 2v2 on the counter.</figcaption>
 </figure> 
 
-I went through all of Feyenoord's goals conceded since November 25, 2023. They don't concede very often, but this pattern of Thomas Beelen asserting himself on the right side is prevalent throughout all of their conceded goals. 
+I looked at all 20 goals conceded and this pattern of Thomas Beelen asserting himself on the right side is the most prevalent "issue".
 
-If he doesn't win the ball, the left center-back is normally fairly exposed, and Beelen isn't particularly fast, so he's not going to beat other forwards joining the attack to the box. 
+If he can win the ball, it's effective. If he doesn't win the ball, the left center-back is normally fairly exposed, and Beelen isn't particularly fast, so he's not going to beat other forwards joining the attack to the box. 
 
 He jumps, and then there's a space behind to attack. 
 
@@ -55,17 +55,17 @@ He jumps, and then there's a space behind to attack.
 </figure> 
 <figure>
     <img src="https://i.imgur.com/JDqpHai.jpeg">
-    <figcaption>Figure 4.2 - Thomas Beelen moves over to double-team Álvaro Morata. Atletico Madrid play the ball over the top into the open left half-space.</figcaption>
+    <figcaption>Figure 4.2 - Gernot Trauner moves over to double-team Álvaro Morata. Atletico Madrid play the ball over the top into the open left half-space.</figcaption>
 </figure> 
 
-When Feyenoord use a back four, the left center-back seems to be tasked to mark closely the opposition's center-forward. Regardless of whether or not moving to mark the center-forward would mean there will be a large space free between the ball-side full-back or far-side center-back. 
+It doesn't matter if it's Beelen, Traumer, or Geertruida; the right center-back is tasked with marking closely the opposition's center-forward. Regardless of whether or not moving to mark the center-forward would mean there will be a large space free between the ball-side full-back or far-side center-back. 
 
 <figure>
     <img src="https://i.imgur.com/tE4F04i.jpeg">
     <figcaption>Figure 5.1 - Lutsharel Geertruida is positioned very wide, leaving a large amount of space for Excelsior to play through.</figcaption>
 </figure>
 
-Geertruida likes to carry forward, and he too feels comfortable leaving a large amount of space between him and the left center-back. 
+Geertruida likes to carry forward, and when he's at right center-back, there's often a lot of space between him and the left center-back. 
 
 <figure>
     <img src="https://i.imgur.com/yXTnwL2.jpeg">
