@@ -35,7 +35,7 @@ Think of the best Liverpool strikers; Luis Suarez, Fernando Torres, Ian Rush, Ke
 
 [Michael Owen on Darwin Nunez's finish in the 35th minute against Brentford](https://x.com/themichaelowen/status/1759173574886133890?s=46&t=EwWKBMyY400eGGXYwoRkiw):
 
->  That finish from Darwin Nunez yesterday was insane. I can’t stop watching it. And I can’t begin to explain how difficult a skill that is. Moving at pace, the ball running away from you, being inside the box with no room for error. Incredible. BUT, it is also further proof that if he is to get closer to becoming the great player many people think he can be, he has to adapt his way of thinking. I mean, to even consider that finish is madness. 
+> That finish from Darwin Nunez yesterday was insane. I can’t stop watching it. And I can’t begin to explain how difficult a skill that is. Moving at pace, the ball running away from you, being inside the box with no room for error. Incredible. BUT, it is also further proof that if he is to get closer to becoming the great player many people think he can be, he has to adapt his way of thinking. I mean, to even consider that finish is madness. 
 > 
 > It’s a 1 in 10, 2 in 10 finish at best. Learning to slot, dink or go round the GK is a far more productive way to score and will increase his chances to 4 or 5 in 10, thus massively increasing his end return. I’m really not trying to rain on his parade as that goal was pure class. But I’d rather see it when Liverpool are 3-0 up, not at 0-0.
 
@@ -91,6 +91,8 @@ Jarrad Branthwaite doesn't attempt anything spectacular. He doesn't try to get f
 The smart part is that he aimed his shot towards Alisson's left. If he tries to go for the corner, Alisson has a chance at a fingertip save. When it goes towards him, it slips underneath, and trickles in. The pitch was wet, the shot on the ground was always the preferred method because the ball is slippery. 
 
 Get the ball on the ground, make it awkward for the goalkeeper. Placement and accuracy over power. If Liverpool placed their shots they'd outperform their expected goals. 
+
+*Updated, 25 April 2024, to add the Michael Owen quote on Darwin Nunez.*
 
 *Match: Everton 2-0 Liverpool, 24 April 2024*
 
