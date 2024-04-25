@@ -33,6 +33,12 @@ Darwin Nunez is one of the biggest culprits. Rarely do you see him finesse a sho
 
 Think of the best Liverpool strikers; Luis Suarez, Fernando Torres, Ian Rush, Kenny Dalglish, Michael Owen, etc. They get the ball on the break, size up the goalkeeper, pass the ball into the opposite corner, and then celebrate. They don't need to put a hole net.
 
+[Michael Owen on Darwin Nunez's finish in the 35th minute against Brentford](https://x.com/themichaelowen/status/1759173574886133890?s=46&t=EwWKBMyY400eGGXYwoRkiw):
+
+>  That finish from Darwin Nunez yesterday was insane. I can’t stop watching it. And I can’t begin to explain how difficult a skill that is. Moving at pace, the ball running away from you, being inside the box with no room for error. Incredible. BUT, it is also further proof that if he is to get closer to becoming the great player many people think he can be, he has to adapt his way of thinking. I mean, to even consider that finish is madness. 
+> 
+> It’s a 1 in 10, 2 in 10 finish at best. Learning to slot, dink or go round the GK is a far more productive way to score and will increase his chances to 4 or 5 in 10, thus massively increasing his end return. I’m really not trying to rain on his parade as that goal was pure class. But I’d rather see it when Liverpool are 3-0 up, not at 0-0.
+
 <figure>
     <img src="https://i.imgur.com/c8SmuMI.jpeg">
     <figcaption>Figure 2.1 - Luis Diaz inside the foot volley, on the run, directly at Jordan Pickford. </figcaption>
