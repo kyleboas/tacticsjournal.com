@@ -29,7 +29,7 @@ Bologna's rotations are unique. Defender Riccardo Calafiori likes to carry forwa
     <figcaption>Figure 2.1 - Riccardo Calafiori is closed down.</figcaption>
 </figure> 
 
-Roma gave Calafiori a lot of space to receive initially, before the pass, when the goalkeeper or Lucumi had the ball, but the pressing trigger was the press into Calafiori. They forced Calafiori into a mistake early in the game from this pressure. 
+Roma gave Calafiori a lot of space to receive initially, before the pass, when the goalkeeper or Lucumi had the ball, but the pressing trigger was the pass into Calafiori. They forced Calafiori into a mistake early in the game from this pressure. 
 
 Bologna had to free Calafiori and open that space wide. 
 
@@ -72,7 +72,7 @@ The second attempt was this. Instead of having Calafiori stay wide left, he inve
     <figcaption>Figure 4.5 - Riccardo Calafiori intercepts the pass near the half-way line.</figcaption>
 </figure> 
 
-Calafiori lost possession here but Roma are wide open. Look how much space he has if he takes that touch towards the half-way line. Roma will now have to think twice before placing all their chips on pressuring Calafiori because before you know it, he'll be playing left-wing, or center-forward. Positions don't matter in Thiago Motta's system. 
+Calafiori lost possession here but Roma are wide open. Look how much space he has if he takes that touch towards the half-way line. Roma will now have to think twice before placing all their chips on pressuring Calafiori because before you know it, he'll be playing left-wing, or center-forward. [Positions don't matter in Thiago Motta's system](https://tacticsjournal.com/2024/03/29/the-relational-phase/).
 
 <figure>
     <img src="https://i.imgur.com/34KNZrm.jpeg">
