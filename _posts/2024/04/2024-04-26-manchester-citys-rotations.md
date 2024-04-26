@@ -10,7 +10,7 @@ tags:
 image: "https://i.imgur.com/9lDnD3l.jpeg"
 ---
 
-Manchester City used constant positional rotations between the forwards and midfield to disrupt Brighton's man-marking. They are one step away from functioning [like Bologna](https://tacticsjournal.com/2024/04/23/bologna-rotate-to-free-calafiori/), all that is missing rotations that include the defenders. 
+Manchester City used constant positional rotations between the forwards and midfield to disrupt Brighton's man-marking. Combing positional and relational principles together is the edge for a functional attack and defense. This should be the new meta.
 
 <!---more--->
 
@@ -137,6 +137,6 @@ Imagine if and when they combine the positional rotations like what we saw in th
 
 It comes down to trust. In order for a pragmatic coach like Pep Guardiola to allow players to roam, he needs to trust that they can operate in the midfield, in defense, up top. Normally you wouldn't trust a center-back to play in the midfield, or a midfielder to play as a center-back, but their team is now built to rotate. 
 
-Combing positional and relational principles together is the edge for a functional attack and defense. This should be the new meta.
+They are one step away from functioning [like Bologna](https://tacticsjournal.com/2024/04/23/bologna-rotate-to-free-calafiori/), all that is missing rotations that include the defenders. Not only is it more entertaining, it works. 
 
 *Match: Brighton 0-4 Manchester City, 25 April 2024*
