@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-04-27 11:00 UTC
+date: 2024-04-27 10:30 UTC
 title: "Iraola praises Bournemouth analysts during demanding midweek"
 categories:
 - "Premier League"
