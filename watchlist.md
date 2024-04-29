@@ -148,6 +148,7 @@ description: "My watchlist of players who I think are undervalued. They are list
 |[Timothy Weah](https://fbref.com/en/players/8eec784d/Timothy-Weah)|Lille|<a href="https://youtu.be/heAm-5WHtwI"><i class="fa-solid fa-video"></i></a>|6/18/23|
 |[Saumuel Edozie](https://fbref.com/en/players/007414dd/Samuel-Edozie)|Southampton|<a href="https://youtu.be/S6RMi8TrK3U"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Tetê](https://fbref.com/en/players/7120a04d/Tete)|Leicester City|<a href="https://youtu.be/ybgfxLDT8Zs"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|Yuito Suzuki|Brøndby IF|<a href="https://youtu.be/7GJFA2_UsCU?si=RMbk8HVB1n_yrzgG"><i class="fa-solid fa-video"></i></a>|4/29/24|
 
 ### Senior 
 
