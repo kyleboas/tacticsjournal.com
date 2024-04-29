@@ -7,7 +7,7 @@ categories:
 tags:
 - "Real Madrid"
 image: "https://i.imgur.com/pqRaZYr.jpeg"
-tweet: "Thomas Tuchel remarks that the 'technical execution' of Real Madrid's counter attacks are 'simple without delay' but also 'unforeseen'. He has prepared Bayern Munich tactically, but in his words, the 'tactic is just a car and the players drive the car'.
+tweet: "Thomas Tuchel remarks that the 'technical execution' of Real Madrid's counter attacks are 'simple without delay' but also 'unforeseen'. He has prepared Bayern Munich tactically, but in his words, the 'tactic is just a car and the players drive the car'."
 ---
 
 [Bayern Munich manager Thomas Tuchel on what makes Real Madrid so unpredictable and dangerous in a tournament format](https://x.com/rmadridinfo/status/1784108906223898784?s=46&t=YC8lQJTh43E_mBQW40Ct2g):
