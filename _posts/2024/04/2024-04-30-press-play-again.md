@@ -58,6 +58,6 @@ tweet: "Thomas Tuchel remarks that the 'technical execution' of Real Madrid's co
 >  
 > We want to force things to a point where maybe there is a little luck, is then the difference but we cannot rely on it for that, it's not big enough. So we have to push it and we feel ready for it. 
 
-I love the "tactic is just a car and the players drive the car" phrase. We forget the players are humans. They have nerves, they have fears, they have 
+I love the "tactic is just a car and the players drive the car" phrase. We forget the players are humans. They have nerves, they have fears, they have emotions.
 
 *Pre-match: Bayern Munich vs Real Madrid, 30 April 2024*
