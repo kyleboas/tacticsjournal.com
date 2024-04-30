@@ -121,7 +121,7 @@ It's all about manipulating the opponent off-the-ball. That is the edge teams ar
 The defenders didn't really get involved in the rotations in this match against Brighton, but [City did have John Stones, Manuel Akanji, and Rodri rotate in the FA Cup](https://tacticsjournal.com/2024/04/21/manchester-citys-staircase/) match. John Stones and Manuel Akanji alternated between one playing in the midfield pivot and one staying back at center-back, with Rodri occasionally rotating back to center-back.
 
 <figure>
-    <img src="https://i.imgur.com/HXtQGCz.jpeg">
+    <img src="https://i.imgur.com/yR1EEo8.jpeg">
     <figcaption>Figure 5.1 - Illustration of potential rotations in the future with the defense, midfield, and forwards.</figcaption>
 </figure> 
 
@@ -131,8 +131,8 @@ Imagine if and when they combine the positional rotations like what we saw in th
 - John Stones can play as a holding midfielder, or on the right of defense. 
 - Rodri can play either left or right center-back. 
 - Josko Gvardiol and Nathan Ake can play at left-back or left center-back, and both are comfortable further forward. 
-- Kyle Walker can play at left-back and left-center-back. 
-- The only outlier is Ruben Dias, who can only play in the center or at right center-back. 
+- Kyle Walker can play at left-back and left-center-back, but he is an outlier because can't invert into the midfield. 
+- The only other outlier is Ruben Dias because he can only play in the center of defense or at right center-back. 
 - Bernardo Silva and Mateo Kovacic can rotate wide to fill for Akanji, Ake, Walker, or Gvardiol.
 
 It comes down to trust. In order for a pragmatic coach like Pep Guardiola to allow players to roam, he needs to trust that they can operate in the midfield, in defense, up top. Normally you wouldn't trust a center-back to play in the midfield, or a midfielder to play as a center-back, but their team is now built to rotate. 
