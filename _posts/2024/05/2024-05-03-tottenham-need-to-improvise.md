@@ -45,4 +45,4 @@ If I was building towards that total football utopia, I would look for players t
 
 They look like they're performing actions they've been told to do. They aren't looking outside of their automations, automations that only end up generating crossing opportunities. Once they're comfortable with the process, the way the team plays, they'll have the confidence to break from it when the situation needs it. 
 
-They need players to break from those automations and perform several actions that the opposition won't expect. That will produce space.
+They need players that will think irrationally and to break from those automations to perform several actions that the opposition won't expect. That will produce space.
