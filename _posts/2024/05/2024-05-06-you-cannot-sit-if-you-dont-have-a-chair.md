@@ -19,7 +19,7 @@ Chelsea manager Mauricio Pochettino says the team will tactically evolve but in 
 > This role we can implement in the future because you need to build the belief, the confidence, the trust, the team need to compete. All the tactical evolution that we have in our head, (the) coaching staff, yes, we will apply in the future.
 > 
 > But the most important thing; you cannot sit if you don't have a chair. Before, you need to be in the chair. It's true. You don't have a team but you expect behave like a team. You are so selfish, after, you need to be generous on the pitch. It is the priorities in football. An engineer that is going to build a building, 'I want to see so quick the nice furniture in the flat, and sleep there' but first of all, we need to build the structure of everything. 
-
+> 
 > That is why sometimes we made a mistake when we shush the show of the people, the coaching staff, and also we have young players. That is always be we say always be careful in the way that we has because the most important is to see in which moment we are in. Which type of team. All the things that always you need to start for the priority. 
 
 This is the exact point I was trying to make in my ["A team versus individuals"](https://tacticsjournal.com/2024/04/16/a-team-versus-individuals/) post from early April. The players looked disconnected. Against West Ham, they looked more like a team. You can see the relationships building. And Cucurella looks great inverted. 
