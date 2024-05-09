@@ -290,6 +290,7 @@ description: "My watchlist of players who I think are undervalued. They are list
 |[Arnau Martinez](https://fbref.com/en/players/c3e66ffe/Arnau-Martinez)|Girona|<a href="https://youtu.be/MwrB_qkZBf8"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Malo Gusto](https://fbref.com/en/players/d56b9520/Malo-Gusto)|Lyon|<a href="https://youtu.be/SfP7km82iJM"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Iván Fresneda](https://fbref.com/en/players/29d0f2ac/Ivan-Fresneda)|Valladolid|<a href="https://youtu.be/u1gO6xlPiuc"><i class="fa-solid fa-video"></i></a>|4/23/23|
+|[Yan Couto](https://fbref.com/en/players/1944818c/Yan-Couto)|Girona|<a href="https://youtu.be/NVfk2DKM9zc?si=5sCysaFjfQHMGpKQ"><i class="fa-solid fa-video"></i></a>|5/9/24|
 
 ### U23 
 
