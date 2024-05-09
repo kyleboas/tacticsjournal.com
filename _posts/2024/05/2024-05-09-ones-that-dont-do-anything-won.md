@@ -12,7 +12,7 @@ tags:
 image: "https://i.imgur.com/TEdJTvj.jpeg"
 ---
 
-Vinicius Jr. cut-back pass, Bayern Munich loses the ball, Vinicius Jr. cut-back pass, Neuer save, Bayern Munich loses the ball, Vinicius Jr. cut-back pass, Neuer error. The beauty of the way Real Madrid play is that manager Carlo Ancelotti is passive.
+Vinicius Jr. cut-back pass, Bayern Munich loses the ball, Vinicius Jr. cut-back pass, Neuer save, Bayern Munich loses the ball, Vinicius Jr. cut-back pass, Neuer error. The beauty of the way Real Madrid comes from Carlo Ancelotti being more hands-off.
 
 <!---more--->
 
