@@ -48,4 +48,6 @@ I thought Bayern Munich's best period came when they crowded the ball. For most 
 
 A negative to Real Madrid focusing their efforts on the left-wing is that Adeyemi will have that same threat that Alphonso Davies had, if the game is open like it was against Bayern Munich, and Dortmund aren't pinned back. 
 
+Carlo Ancelotti becomes the first manager in history to reach six Champions League Finals (AC Milan 2003, 2005, 2007; Real Madrid 2014, 2022, 2024). He has won four of five (AC Milan 2003, 2007; Real Madrid 2014, 2022).
+
 *Match: Real Madrid 2-1 (4-3) Bayern Munich, 8 May 2024*
