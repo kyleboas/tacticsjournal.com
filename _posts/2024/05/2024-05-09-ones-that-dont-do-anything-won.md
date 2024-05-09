@@ -26,7 +26,9 @@ Ancelotti [explained before the first-leg against Bayern Munich](https://youtu.b
 
 He's alluding to the fact that he gives the creative control to the players. If he forced players to follow a certain pattern or structure, he considers that to be "causing difficulties". 
 
-Give credit to the players first for most in-game changes against Bayern Munich because you would assume most of what transpired was spontaneous.
+Give most of the credit to the players first for most in-game changes against Bayern Munich because you would assume most of what transpired was spontaneous.
+
+But also give credit to Carlo Ancelotti because he became the first manager in history to reach six Champions League Finals (AC Milan 2003, 2005, 2007; Real Madrid 2014, 2022, 2024). He has won four of five (AC Milan 2003, 2007; Real Madrid 2014, 2022).
 
 <figure>
     <img src="https://i.imgur.com/TEdJTvj.jpeg">
@@ -47,7 +49,5 @@ Vincius Jr., Bellingham, and Rodrygo versus Borussia Dortmund right-back Julian 
 I thought Bayern Munich's best period came when they crowded the ball. For most of the match they were fairly spread out, and the only player that had the pace to take advantage of the gaps was the Bayern goal-scorer, Alphonso Davies. 
 
 A negative to Real Madrid focusing their efforts on the left-wing is that Adeyemi will have that same threat that Alphonso Davies had, if the game is open like it was against Bayern Munich, and Dortmund aren't pinned back. 
-
-Carlo Ancelotti becomes the first manager in history to reach six Champions League Finals (AC Milan 2003, 2005, 2007; Real Madrid 2014, 2022, 2024). He has won four of five (AC Milan 2003, 2007; Real Madrid 2014, 2022).
 
 *Match: Real Madrid 2-1 (4-3) Bayern Munich, 8 May 2024*
