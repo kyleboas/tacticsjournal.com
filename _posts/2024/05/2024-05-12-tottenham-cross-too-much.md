@@ -47,7 +47,7 @@ Again, forcing the pass back is better. Very rarely do these out-swinging cross 
 
 <figure>
     <img src="https://i.imgur.com/amiFWe6.jpg">
-    <figcaption>Figure 3.1 - Premier League teams ranked by percentage of crosses into the penalty area to passes into the penalty area in the past 60 days. [Data via Stathead FBref](https://stathead.com/tiny/eQ0Es)</figcaption>
+    <figcaption>Figure 3.1 - Premier League teams ranked by percentage of crosses into the penalty area to passes into the penalty area in the past 60 days. <a href="https://stathead.com/tiny/eQ0Es">Data via Stathead FBref</a></figcaption>
 </figure>
 
 There is no right or wrong way of attacking the penalty area but I wouldn't associate Tottenham with players that are at skilled at heading the ball. The only players that are proficient headers of the ball are Richarlison, who is injured, and Cristian Romero, a defender who only gets on the end of crosses during free-kicks or corners. 
