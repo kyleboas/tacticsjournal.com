@@ -23,27 +23,20 @@ layout: null
 
     {% for post in site.posts %}
       {% unless post.categories contains 'Notes' %}
-        {% if post.linkpost %}
-          <item>
-            <title>{{ post.title }}</title>
-            <link>{{ post.permalink }}</link>
-            <guid isPermaLink="true">{{ post.permalink }}</guid>
-            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-            <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
-            <description><![CDATA[ {{ post.excerpt | strip_html }} ]]></description>
-            <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
-          </item>
-        {% else %}
-          <item>
-            <title>{{ post.title }}</title>
+        <item>
+          <title>{{ post.title }}</title>
+          {% if post.link %}
+            <link>{{ post.link }}</link>
+            <guid isPermaLink="true">{{ post.link }}</guid>
+          {% else %}
             <link>{{ site.url }}{{ post.url | uri_escape }}</link>
             <guid isPermaLink="true">{{ site.url }}{{ post.url | uri_escape }}</guid>
-            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-            <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
-            <description><![CDATA[ {{ post.excerpt | strip_html }} ]]></description>
-            <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
-          </item>
-        {% endif %}
+          {% endif %}
+          <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+          <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
+          <description><![CDATA[ {{ post.excerpt | strip_html }} ]]></description>
+          <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+        </item>
       {% endunless %}
     {% endfor %}
   </channel>
