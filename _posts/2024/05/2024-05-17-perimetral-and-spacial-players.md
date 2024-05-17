@@ -12,7 +12,7 @@ Teams that prioritize versatility will have an edge because spatial players are 
 
 <!---more---> 
 
-Antonio Gagliardi and Francesco Bordin in [Notiziario del Settore Tecnico](https://www.figc.it/it/tecnici/notiziario/):
+Antonio Gagliardi and Francesco Bordin in [Notiziario del Settore Tecnico](https://www.figc.it/media/233551/a-new-era_eng.pdf):
 
 > Of course, this is just an example; depending on the team, the characteristics of the players and the level reached, there will be structures with a higher or lower number of perimetral players and spatial players. 
 >  
