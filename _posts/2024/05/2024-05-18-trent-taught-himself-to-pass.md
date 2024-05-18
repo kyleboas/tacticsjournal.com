@@ -6,7 +6,7 @@ categories:
 - "Premier League"
 tags:
 - "Liverpool"
-image: "https://i.imgur.com/4sRm9rJ.jpeg"
+image: "https://i.imgur.com/Dcr2oi0.jpeg"
 ---
 
 Trent Alexander-Arnold was born with a gift and Liverpool didn't stop him. Academy director, Alex Inglethorpe, says 'they didn't teach him to pass' and 'if you want to be a player that makes the difference, you've got to have an awful lot of failure.'
