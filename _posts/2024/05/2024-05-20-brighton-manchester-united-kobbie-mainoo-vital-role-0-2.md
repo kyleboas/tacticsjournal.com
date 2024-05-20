@@ -16,4 +16,4 @@ Read my debut article for Between The Posts, a report covering the Brighton and 
 
 <!---more--->
 
-[Link to the post](https://betweentheposts.net/brighton-manchester-united-kobbie-mainoos-vital-role-0-2/)
+[Link to article](https://betweentheposts.net/brighton-manchester-united-kobbie-mainoos-vital-role-0-2/)
