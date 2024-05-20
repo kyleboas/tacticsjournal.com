@@ -6,7 +6,7 @@ categories:
 - "Premier League"
 tags:
 - "Manchester City"
-image: "https://i.imgur.com/PItEqpy.jpeg"
+image: "https://i.imgur.com/RWOLkwa.jpeg"
 ---
 
 In November, Manchester City midfielder Phil Foden said "I definitely don’t see myself as world-class. I’ve got to score in big games and finals to be world-class." The leap from elite to world-class is large, and Foden made that leap this season.

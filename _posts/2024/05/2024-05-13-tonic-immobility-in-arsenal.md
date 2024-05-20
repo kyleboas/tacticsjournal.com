@@ -44,7 +44,7 @@ Arsenal is the shark.
 
 > When researchers handle sharks, they often use [tonic immobility](https://whitesharkdivers.co.za/09/uncategorized/tonic-immobility-in-sharks/) to subdue them. Many scientists think that this is what occurs when the shark enters a trance-like state of relaxation and becomes deeply rhythmic in its breathing patterns. When gently turned on its back, its thought enters into this stage as an act of disorientation which relaxes the muscles and induces deep breathing rhythms without causing injury or struggle. Once released from these restraints, however, the shark will snap out of this daze within moments.
 
- 
+An apex predator, killing machine, rendered useless with this one trick. This is a compliment to be compared to a sharr
 
 <figure>
     <img src="https://i.imgur.com/mBCgdaw.jpeg">
