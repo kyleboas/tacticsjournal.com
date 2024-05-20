@@ -12,7 +12,7 @@ link: "https://betweentheposts.net/brighton-manchester-united-kobbie-mainoos-vit
 tweet: "Read my debut article for @BetweenThePosts, a report covering the Brighton and Manchester United match. In a game where Brighton were simply unlucky not to score, the role of Kobbie Mainoo and splitting center-backs wide were the two main talking points."
 ---
 
-[Read my debut article for Between The Posts](https://betweentheposts.net/brighton-manchester-united-kobbie-mainoos-vital-role-0-2/), a report covering the Brighton and Manchester United match. In a game where Brighton were simply unlucky not to score, the role of Kobbie Mainoo and splitting center-backs wide were the two main talking points.
+Read my debut article for Between The Posts, a report covering the Brighton and Manchester United match. In a game where Brighton were simply unlucky not to score, the role of Kobbie Mainoo and splitting center-backs wide were the two main talking points.
 
 <!---more--->
 
