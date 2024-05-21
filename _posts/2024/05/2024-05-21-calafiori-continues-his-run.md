@@ -3,7 +3,7 @@ layout: post
 date: 2024-05-21 11:00 UTC
 title: "Calafiori continues his run"
 categories:
-"Serie A"
+- "Serie A"
 tags:
 - "Bologna"
 - "Juventus"
