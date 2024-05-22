@@ -252,7 +252,6 @@ Curated lists I've made to follow X, formerly Twitter accounts. Lists are the be
 * [Injuries](https://twitter.com/i/lists/1610116028456919045)
 * [Players](https://twitter.com/i/lists/1582723214253367298)
 * [Reporters](https://twitter.com/i/lists/1613507639748485120)
-* [Tactics](https://twitter.com/i/lists/1610463444158791681?s=20)
 * [Tactics Discord](https://x.com/i/lists/1649152135584444503)
 * [Video](https://twitter.com/i/lists/1610382543714385923)
 
