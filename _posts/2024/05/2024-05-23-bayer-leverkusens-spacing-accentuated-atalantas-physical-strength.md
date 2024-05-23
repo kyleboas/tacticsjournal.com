@@ -64,7 +64,7 @@ If you're going to make the pitch small, I think you should go all the way by ha
 
 The same thing happens when they switch the ball to the opposite end. I don't like the spacing. Four men close to the ball, Xhaka and Palacios just far enough away to not be a short pass option, and then Jeremie Frimpong higher up the wing. 
 
-If you play the ball into Xhaka, Palacios is too far away from him for a quick one-touch pass out of pressure, and Frimpong is completely out of the play for a short pass into that space on the right wing. 
+If you play the ball into Xhaka, Palacios is too far away from him for a quick one-touch pass out of pressure, and Frimpong is completely out of the play for a short pass into that space on the right-wing. 
 
 <figure>
     <img src="https://i.imgur.com/r07Y6Bx.jpeg">
