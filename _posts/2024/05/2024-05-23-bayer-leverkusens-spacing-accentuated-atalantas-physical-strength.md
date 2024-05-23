@@ -12,7 +12,7 @@ tags:
 image: "https://i.imgur.com/FldB0Aw.jpeg"
 ---
 
-I did not understand why Bayer Leverkusen both made the pitch small and pushed their near side winger high. It played into Atalanta's physical strength because the main outlet was to the ball-side winger.
+I did not understand why Bayer Leverkusen both made the pitch small and pushed their wingers high. It played into Atalanta's physical strength because the main outlet was to the ball-side winger.
 
 <!---more--->
 
