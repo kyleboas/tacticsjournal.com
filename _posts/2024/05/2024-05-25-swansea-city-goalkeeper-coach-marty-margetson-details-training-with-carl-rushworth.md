@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-05-24 11:00 UTC
+date: 2024-05-25 11:00 UTC
 title: "Swansea City goalkeeper coach Marty Margetson details training with Carl Rushworth"
 categories:
 - "Championship"
