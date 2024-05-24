@@ -9,7 +9,7 @@ It's great for the innovators to have theories, but if the early adopters can't 
 
 <!---more---> 
 
-[Johan Cruyff discussing where the term "tiki-taka" came from] (https://youtu.be/r0OVauT-yEk?si=K8ob49JixFnpNKvr):
+[Johan Cruyff discussing where the term "tiki-taka" came from](https://youtu.be/r0OVauT-yEk?si=K8ob49JixFnpNKvr):
 
 > Tiki-taka — That's something like this where we play the ball as quick as possible, and these sorts of things. When we started in Barcelona (in 1988) to do possession play.
 > 
