@@ -17,6 +17,6 @@ It's great for the innovators to have theories, but if the early adopters can't 
 > 
 > In the beginning, that was something people laughed about because they didn't understand that it was football. Until it had the results and people enjoyed it, people loved it, and now it's a fantastic world.
 
-Europe is [going through a cycle now](https://tacticsjournal.com/2024/05/17/perimetral-and-spacial-players/) with the implementation of principles from relational play, and until there's results, silverware, everyone will to continue to stick to what works. 
+Europe is [going through a cycle now](https://tacticsjournal.com/2024/05/17/perimetral-and-spacial-players/) with the implementation of principles from relational play, and until there's results, silverware, everyone will to continue to stick to what works.
 
-The top teams need to be prepared for it to work.
+The top teams need to be prepared for it to work and take over.
