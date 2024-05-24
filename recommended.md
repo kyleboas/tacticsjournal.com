@@ -155,7 +155,7 @@ I'd like to mention that both CBS Sports and NBC Sports offer full 10-15 minute 
 
 
 ### Analysis 
-Some of these channels have a video out right after a game so be sure to check them all out.
+Some of these channels have a video out right after a game so be sure to check them all out. 
 
 * [Conor Holden Football](https://youtube.com/@HoldenConnor00?si=vrXDqQd0788l1hRf)
 * [Football Made Simple](https://youtube.com/@FootballMadeSimple?si=nqy5X2FBn2ikUx59)
