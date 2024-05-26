@@ -69,6 +69,6 @@ I would assume he is expecting John Stones to see and mark Kobbie Mainoo; theref
 
 The mixture of a lack of an offside trap due to the disorganization of their high line mixed with a lack of positional awareness makes you feel like the opposition will score on each transition. The positive thing for Manchester City is that they rarely give the ball away, but when they do, someone is always playing an attacker onside. 
 
-They might not use a high line and allow the opposition to enter their half. Limit the possibility of conceding on the counter.
+They might as well not use a high line and allow the opposition to enter their half. Limit the possibility of conceding on the counter.
 
 *Match: Manchester City 0-2 Manchester United, 25 May 2024*
