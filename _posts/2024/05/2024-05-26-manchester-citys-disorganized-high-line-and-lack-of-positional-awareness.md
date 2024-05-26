@@ -53,7 +53,7 @@ I don't necessarily understand the reasoning behind why they wouldn't be worried
 
 The ball is played wide, so they get away with Gvardiol's positioning, but now they have another problem. Gvardiol is challenging Garnacho, Ake is tracking Wan-Bissaka, and John Stones is watching Bruno Fernandes, but who is marking Kobbie Mainoo? It should be Kyle Walker. 
 
-[I mentioned this last season](https://tacticsjournal.com/The-flaws-of-Manuel-Akanji-Kyle-Walker-that-cost-Manchester-City-against-Real-Madrid/); Kyle Walker relies on his pace a lot to bail him out of situations that develop due to his poor positional awareness.
+[I mentioned this last season](https://tacticsjournal.com/The-flaws-of-Manuel-Akanji-Kyle-Walker-that-cost-Manchester-City-against-Real-Madrid/); Kyle Walker relies on his pace a lot to bail him out of situations that develop due to his poor positional awareness. He improved at the start of the season but has since regressed back to old habits in the later part of this campaign.
 
 I would assume he is expecting John Stones to see and mark Kobbie Mainoo; therefore, he's fine with jogging back, but Walker should be back marking Mainoo. Stones is preoccupied with watching Fernandes and can't see or defend against a low-cross to Mainoo behind him. 
 
