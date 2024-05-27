@@ -16,7 +16,7 @@ Everyone can immediately picture how a 3-box-3 would look in attack without thin
 
 {% include video.html url="https://www.youtube.com/embed/qyUu1PN8ELA?si=y5R1e9dFSqChiHxw" %}
 
-Enzo Maresca was assistant coach to Pep Guardiola at Manchester City during their 2022/23 treble winning season, and he utilized a lot of the same tactical principles City used when he managed Leicester City this season. He explains all of that in the video.
+Enzo Maresca previously served as an assistant coach to Pep Guardiola at Manchester City during their 2022/23 treble winning season, and he utilized a lot of the same tactical principles City used when he managed Leicester City this season. He explains all of that in the video.
 
 I think teams at the highest levels in Europe are starting to figure out how to halt the progression of the ball when teams use this type of system.
 
