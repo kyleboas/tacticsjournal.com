@@ -35,6 +35,8 @@ Enzo Maresca explains what happens to Leicester City's 3-box-3 structure once th
 
 Most teams, when they use the 3-box-3 formation, immediately drop the fullback to form a back-four. They don't wait to see if the opposition will complete a certain number of passes.
 
-Maintaining that shape without dropping the fullback to immediately apply pressure works when you have the qualitative superiority over the opponent, like he had with Manchester City and Leicester City, but when you don't, it seems a bit risky to me. 
+Maintaining that shape without dropping the fullback to immediately apply pressure works when you have the qualitative superiority over the opponent, like he had with Manchester City and Leicester City, but when you don't, it seems a bit risky to me.
 
-If he is at all stubborn and forces players to stay aggressive, we might see situations where the back three outnumber the four-v-three in defensive transition. 
+The three most important players in this system are the goalkeeper, who needs to be able to distribute effectively, a ball-playing center-back to advance the ball forward, and the center-forward who drops to connect play. If only one of them is off, they lose possession. Then a press resistant playmaker advanced ahead of the double pivot that has quick feet to connect play and create chances. 
+
+If he is at all stubborn and forces players to stay aggressive, we might see situations next season where the back three outnumber the four-v-three in defensive transition. 
