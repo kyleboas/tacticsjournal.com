@@ -6,7 +6,7 @@ categories:
 - "Championship"
 tags:
 - "Swansea City"
-image: "https://i.imgur.com/VUyKCOW.png"
+image: "https://github.com/kyleboas/images/blob/main/2024/05/IMG_7907.png?raw=true"
 ---
 
 Swansea City goalkeeper coach Marty Margetson explains how he used video analysis and repetition to train Carl Rushworth, improving his ability to 'know where his hands are', working on 'knee bend', and 'static diving', among many other smaller details.
