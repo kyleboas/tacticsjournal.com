@@ -13,6 +13,8 @@ Facebook: [https://www.facebook.com/TacticsJournal](https://www.facebook.com/Tac
 
 BlueSky: [@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)
 
+Mastodon: [https://mastodon.social/@tacticsjournal](https://mastodon.social/@tacticsjournal)
+
 YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
 
 ### RSS
