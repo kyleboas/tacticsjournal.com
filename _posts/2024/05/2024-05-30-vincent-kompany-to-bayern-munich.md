@@ -6,7 +6,7 @@ categories:
 - "Bundesliga"
 tags:
 - "Bayern Munich"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/27/Image-27May2024_13:53:32.png?raw=true"
+image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_16:25:32.png?raw=true"
 ---
 
 Vincent Kompany is misunderstood. He will either flop or be wildly successful managing Bayern Munich; there is no in-between. Burnley played as if they had Manchester City's squad, regardless of whether they had the quality to execute.
@@ -28,7 +28,7 @@ I don't think many managers would be able to save them from relegation based on 
 
 Kompany is the default generic positional coach with all the extra stats in leadership. [He uses a high line] (https://tacticsjournal.com/2023/09/03/burnley-sit-too-deep-and-overcommit-to-the-ball-carrier/). He likes using the 3-box-3 midfield formation in possession. [He'll have the goalkeeper come out to help in the build-up] (https://tacticsjournal.com/2023/08/04/burnley-basic-shape-in-and-out-of-possession/). What you see is what you get; he is somewhat predictable. He has a way he likes to play, and brute force his way through games by playing that specific way regardless of the opponent or what his squad looks like. 
 
-I could see him using a back-four to start, which then shifts into that 3-box-3 formation. Someone of Joshua Kimmich's profile would be important, because he can play both at fullback, holding midfield, and as an outside center-back. Like Benjamin Pavard in the season prior. 
+I could see him using a back-four to start, which then shifts into that 3-box-3 formation. Someone of Joshua Kimmich's profile would be important, because he can play both at fullback, holding midfield, and as an outside center-back. Like Benjamin Pavard in the season prior.
 
 It's a very solid base for players like Alexsander Pavlovic and Jamal Musiala to work from. He likes quick, fast-paced passing sequences, and that requires highly technically gifted players.
 
@@ -38,4 +38,4 @@ His former manager, Pep Guardiola, has been singing his praises ever since the f
 > 
 > Vincent Kompany will become a future Man City manager, mark my words. Yeah, it will happen for sure. You will call me when this is going to happen.
 
-I'm confident that with more experience, he can eventually succeed, but if he doesn't, that is football. I respect the risk Bayern Munich is taking. 
+I'm confident that with more experience, he can eventually succeed, but if he doesn't, that is football. I respect the risk Bayern Munich is taking.
