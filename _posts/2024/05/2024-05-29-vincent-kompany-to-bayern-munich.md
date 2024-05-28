@@ -22,7 +22,7 @@ Burnley's lineup in the Championship the season they were promoted was stronger 
 I don't think many managers would be able to save them from relegation based on the lower budget they had and the recruitment. Bold choices for young talent didn't pan out. He did completely transform the way they play to help them get promoted.
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/27/Image-27May2024_13:53:32.png?raw=true">
+    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_17:48:52.png?raw=true">
     <figcaption>Figure 1.1 - Illustration of a possible potential Bayern Munich lineup next season under Vincent Kompany.</figcaption>
 </figure> 
 
