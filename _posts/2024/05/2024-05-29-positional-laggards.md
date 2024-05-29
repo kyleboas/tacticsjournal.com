@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-06-03 11:00 UTC
+date: 2024-05-29 11:00 UTC
 title: "Positional Laggards"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_22:22:26.png?raw=true"
 ---
