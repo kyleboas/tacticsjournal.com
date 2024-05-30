@@ -26,7 +26,7 @@ Kompany completely transformed the way they play to help them get promoted, but 
     <figcaption>Figure 1.1 - Illustration of a possible potential Bayern Munich lineup next season under Vincent Kompany.</figcaption>
 </figure> 
 
-Right now, Kompany is the default positional coach with tremendous leadership qualities. [He uses a high line] (https://tacticsjournal.com/2023/09/03/burnley-sit-too-deep-and-overcommit-to-the-ball-carrier/). He likes using the 3-box-3 midfield formation in possession. [He'll have the goalkeeper come out to help in the build-up] (https://tacticsjournal.com/2023/08/04/burnley-basic-shape-in-and-out-of-possession/). What you see is what you get; he is somewhat predictable. He has a way he likes to play, and will brute force his way through games by playing that specific way regardless of the opponent or what his availble squad is.
+Right now, Kompany is the default positional coach with tremendous leadership qualities. [He uses a high line](https://tacticsjournal.com/2023/09/03/burnley-sit-too-deep-and-overcommit-to-the-ball-carrier/). He likes using the 3-box-3 midfield formation in possession. [He'll have the goalkeeper come out to help in the build-up](https://tacticsjournal.com/2023/08/04/burnley-basic-shape-in-and-out-of-possession/). What you see is what you get; he is somewhat predictable. He has a way he likes to play, and will brute force his way through games by playing that specific way regardless of the opponent or what his availble squad is.
 
 The imagination comes in when you try to predict what he will do when he gets higher quality players, players of Bayern Munich's ability. Will he change things, come up with more solutions we have not seen. 
 
