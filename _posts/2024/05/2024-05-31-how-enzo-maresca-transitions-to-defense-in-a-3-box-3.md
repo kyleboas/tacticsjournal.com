@@ -40,4 +40,4 @@ Maintaining that shape without dropping the fullback to immediately apply pressu
 
 The three most important players in this system are the goalkeeper, who needs to be able to distribute effectively, a ball-playing center-back to advance the ball forward, and the center-forward who drops to connect play. If only one of them is off, they lose possession. Then a press resistant playmaker advanced ahead of the double pivot that has quick feet to connect play and create chances. 
 
-If he is at all stubborn and forces players to stay aggressive, we might see situations next season where the back three outnumber the four-v-three in defensive transition. 
+If he is at all stubborn and forces players to stay aggressive, we might see situations next season where the back three become outnumbered four-v-three in defensive transition. 
