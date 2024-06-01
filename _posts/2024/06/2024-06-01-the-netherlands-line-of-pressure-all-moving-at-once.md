@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-06-02 11:00 UTC
+date: 2024-06-01 11:00 UTC
 title: "The Netherlands line of pressure all moving at once"
 categories:
 - "World Cup 1994"
