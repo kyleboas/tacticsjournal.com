@@ -85,7 +85,7 @@ One of Dominic Solanke, Marcus Rashford, or Jack Grealish should get a place ahe
 
 Picking Eberechi Eze over Jack Grealish or Marcus Rashford is a very difficult call because both Grealish and Rashford haven't had the best of seasons, but they both are big-game players. I do think Eze offers more than both as far as his ability to play in multiple positions, but Rashford will get you that big goal and Grealish has a ton of composure. A very ruthless call to make, kind of questionable, but might help with the balance of the squad. 
 
-I understand why James Maddison was sent home. Jude Bellingham, Phil Foden and Cole Palmer are in his way, and he is not as useful on the wing as Eze or Palmer.
+I understand why James Maddison and Curtis Jones were sent home. Jude Bellingham, Phil Foden and Cole Palmer are in their way, and they are not as useful on the wing as Eze or Palmer.
 
 Jude Bellingham and Phil Foden should be the advanced midfielders; Bukayo Saka will start on the right-wing, with Harry Kane at center-forward. 
 
