@@ -21,7 +21,7 @@ Gareth Southgate's England squad selection for Euro 2024 has four questionable s
 
 There are no surprises in the goalkeeper selection. Jordan Pickford is the clear number one, he is [on the plane](https://x.com/bryansgunn/status/1798961697937568202?s=46&t=EwWKBMyY400eGGXYwoRkiw). Aaron Ramsdale has been second choice at Arsenal, and Dean Henderson spawned out of nowhere towards the tail end of the season for Crystal Palace. 
 
-Watch for the steady theme of favoring and giving opportunities to Crystal Palace players in this squad. Crystal Palace had a good end to the season, and Gareth Southgate is a former Crystal Palace player. 
+Watch for the steady theme of favoring and giving opportunities to Crystal Palace players in this squad. Crystal Palace had a good end to the season, and Gareth Southgate is a former Crystal Palace player.
 
 ---
 
@@ -78,7 +78,7 @@ Trent Alexander-Arnold and Declan Rice should be the starting holding midfielder
 * **Harry Kane** is Harry Kane, a goal-scoring machine and first-choice starting center-forward. 
 * **Cole Palmer** is silky and unique. He shouldn't start, but he can play left-wing, advanced midfield, and right-wing. 
 * **Bukayo Saka** is the nailed right-winger. 
-* Third questionable choice is **Ivan Toney**. I am happy for him, but I have no idea why he has been picked. He was out until January 20th due to an eight-month betting ban. He has looked subpar in comparison to the season prior and has not scored for Brentford in the past three months, since February 20th. If I were Dominic Solanke, I would be fuming.
+* Third questionable choice is **Ivan Toney**. I am happy for him, but I have no idea why he has been picked. He was out until January 20th due to an eight-month betting ban. He has looked subpar in comparison to the season prior and has not scored for Brentford in the past three months, since February 20th. If I was Dominic Solanke, I would be fuming.
 * **Ollie Watkins** is the most underappreciated player in England today. He had a remarkable season, leading the line as the talisman for Aston Villa, barely missing a game, scoring 23 goals, and assisting 13 in all competitions.
 
 One of Dominic Solanke, Marcus Rashford, James Maddison, or Jack Grealish should get a place ahead of Ivan Toney. And then one of whoever is remaining, once you replace Toney, should get a place ahead of one of Adam Wharton or Kobbie Mainoo.
