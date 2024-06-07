@@ -81,7 +81,7 @@ Trent Alexander-Arnold and Declan Rice should be the starting holding midfielder
 * Third questionable choice is **Ivan Toney**. I am happy for him, but I have no idea why he has been picked. He was out until January 20th due to an eight-month betting ban. He has looked subpar in comparison to the season prior and has not scored for Brentford in the past three months, since February 20th. If I were Dominic Solanke, I would be fuming.
 * **Ollie Watkins** is the most underappreciated player in England today. He had a remarkable season, leading the line as the talisman for Aston Villa, barely missing a game, scoring 23 goals, and assisting 13 in all competitions.
 
-One of Dominic Solanke, Marcus Rashford, or Jack Grealish should get a place ahead of Ivan Toney. And then one of whoever is remaining, once you replace Toney, should get a place ahead of one of Adam Wharton or Kobbie Mainoo. 
+One of Dominic Solanke, Marcus Rashford, James Maddison, or Jack Grealish should get a place ahead of Ivan Toney. And then one of whoever is remaining, once you replace Toney, should get a place ahead of one of Adam Wharton or Kobbie Mainoo.
 
 Picking Eberechi Eze over Jack Grealish or Marcus Rashford is a very difficult call because both Grealish and Rashford haven't had the best of seasons, but they both are big-game players. I do think Eze offers more than both as far as his ability to play in multiple positions, but Rashford will get you that big goal and Grealish has a ton of composure. A very ruthless call to make, kind of questionable, but might help with the balance of the squad. 
 
