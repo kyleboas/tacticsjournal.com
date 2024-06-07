@@ -21,7 +21,7 @@ Gareth Southgate's England squad selection for Euro 2024 has four questionable s
 
 There are no surprises in the goalkeeper selection. Jordan Pickford is the clear number one, he is [on the plane](https://x.com/bryansgunn/status/1798961697937568202?s=46&t=EwWKBMyY400eGGXYwoRkiw). Aaron Ramsdale has been second choice at Arsenal, and Dean Henderson spawned out of nowhere towards the tail end of the season for Crystal Palace. 
 
-Watch for the steady theme of favoring and giving opportunities to Crystal Palace players in this squad. Crystal Palace had a good end to the season, and Gareth Southgate is a former player for Crystal Palace. 
+Watch for the steady theme of favoring and giving opportunities to Crystal Palace players in this squad. Crystal Palace had a good end to the season, and Gareth Southgate is a former Crystal Palace player. 
 
 ---
 
