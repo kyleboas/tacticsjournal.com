@@ -3,8 +3,8 @@
   
 
 (function () {
-  var searchInput = document.getElementById('search-input');
-  var suggestionList = document.getElementById('suggestion-list');
+  var searchInput1 = document.getElementById('search-input1');
+  var searchInput2 = document.getElementById('search-input2');
   var postList = document.getElementById('post-list');
   var noResultsMessage = document.getElementById('no-results-message');
 
@@ -40,24 +40,25 @@
     {% endfor %}
   ];
 
-  function search(query) {
+  function search(query1, query2) {
     var results = [];
 
-    if (!query || query.trim() === '') {
-      return posts; // Return all posts if no query is provided or if it's blank
+    if ((!query1 || query1.trim() === '') && (!query2 || query2.trim() === '')) {
+      return posts; // Return all posts if no queries are provided or if they are blank
     }
 
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
 
       if (
-        post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-        post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-        post.categories.toLowerCase().includes(query.toLowerCase()) // Add search in categories
+        (query1 && post.tags.toLowerCase().includes(query1.toLowerCase())) &&
+        (query2 && post.tags.toLowerCase().includes(query2.toLowerCase()))
       ) {
-        var highlightedTitle = highlightMatch(post.title, query);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query);
+        var highlightedTitle = highlightMatch(post.title, query1);
+        var highlightedExcerpt = highlightMatch(post.excerpt, query1);
+        highlightedTitle = highlightMatch(highlightedTitle, query2);
+        highlightedExcerpt = highlightMatch(highlightedExcerpt, query2);
+
         results.push({
           title: highlightedTitle,
           date: post.date,
@@ -73,106 +74,110 @@
   }
 
   function highlightMatch(text, query) {
+    if (!query) return text;
     var regex = new RegExp(query, 'gi');
     return text.replace(regex, function (match) {
       return '<span class="highlight">' + match + '</span>';
     });
   }
 
-function getCurrentPageUrl() {
+  function renderResults(results) {
+    postList.innerHTML = '';
+
+    var searchQuery1 = searchInput1.value.trim();
+    var searchQuery2 = searchInput2.value.trim();
+    var countElement = document.getElementById('result-count');
+
+    if (searchQuery1 === '' && searchQuery2 === '') {
+      countElement.innerHTML = 'Last 15 posts';
+      noResultsMessage.style.display = 'none';
+
+      // Filter out posts that match the current page's URL
+      var filteredResults = results.filter(function (post) {
+        return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
+      });
+
+      // Show only the first 15 posts
+      var slicedResults = filteredResults.slice(0, 15);
+
+      for (var i = 0; i < slicedResults.length; i++) {
+        var result = slicedResults[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item');
+
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        a.classList.add('long-title');
+        li.appendChild(a);
+
+        var dateElement = document.createElement('p');
+        dateElement.classList.add('post-date');
+        dateElement.innerHTML = result.date;
+        li.appendChild(dateElement);
+
+        var p = document.createElement('p');
+        if (i === 0) {
+          p.innerHTML = posts[0].content; // Display full content for the first post
+        } else {
+          p.innerHTML = result.excerpt; // Display excerpt for other posts
+        }
+        li.appendChild(p);
+
+        postList.appendChild(li);
+      }
+    } else if (results.length === 0) {
+      countElement.innerHTML = 'No posts found';
+      noResultsMessage.style.display = 'block';
+    } else {
+      var postsShown = results.length;
+      var totalCount = posts.length;
+      countElement.innerHTML = postsShown + ' posts found';
+      noResultsMessage.style.display = 'none';
+
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item');
+
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        a.classList.add('long-title');
+        li.appendChild(a);
+
+        var dateElement = document.createElement('p');
+        dateElement.classList.add('post-date');
+        dateElement.innerHTML = result.date;
+        li.appendChild(dateElement);
+
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
+
+        postList.appendChild(li);
+      }
+    }
+  }
+
+  function getCurrentPageUrl() {
     return window.location.href;
   }
-     
-function renderResults(results) {
-  postList.innerHTML = '';
 
-  var searchQuery = searchInput.value.trim();
-  var countElement = document.getElementById('result-count');
-
-  if (searchQuery === '') {
-    countElement.innerHTML = 'Last 15 posts';
-    noResultsMessage.style.display = 'none';
-
-    // Filter out posts that match the current page's URL
-    var filteredResults = results.filter(function (post) {
-      return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
-    });
-
-    // Show only the first 15 posts
-    var slicedResults = filteredResults.slice(0, 15);
-
-    for (var i = 0; i < slicedResults.length; i++) {
-      var result = slicedResults[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
-
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      a.classList.add('long-title');
-      li.appendChild(a);
-
-      var dateElement = document.createElement('p');
-      dateElement.classList.add('post-date');
-      dateElement.innerHTML = result.date;
-      li.appendChild(dateElement);
-
-      var p = document.createElement('p');
-      if (i === 0) {
-        p.innerHTML = posts[0].content; // Display full content for the first post
-      } else {
-        p.innerHTML = result.excerpt; // Display excerpt for other posts
-      }
-      li.appendChild(p);
-
-      postList.appendChild(li);
-    }
-  } else if (results.length === 0) {
-    countElement.innerHTML = 'No posts found';
-    noResultsMessage.style.display = 'block';
-  } else {
-    var postsShown = results.length;
-    var totalCount = posts.length;
-    countElement.innerHTML = postsShown + ' posts found';
-    noResultsMessage.style.display = 'none';
-
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
-
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      a.classList.add('long-title');
-      li.appendChild(a);
-
-      var dateElement = document.createElement('p');
-      dateElement.classList.add('post-date');
-      dateElement.innerHTML = result.date;
-      li.appendChild(dateElement);
-
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-
-      postList.appendChild(li);
-    }
-  }
-}
-
-  // Get the search query from the URL
-  var searchQuery = new URLSearchParams(window.location.search).get('search');
-  if (searchQuery) {
-    searchInput.value = searchQuery;
-  }
-
-  searchInput.addEventListener('input', function () {
-    var query = searchInput.value;
-    var results = search(query);
+  searchInput1.addEventListener('input', function () {
+    var query1 = searchInput1.value;
+    var query2 = searchInput2.value;
+    var results = search(query1, query2);
     renderResults(results);
   });
 
-  // Initial render of the first 5 posts
+  searchInput2.addEventListener('input', function () {
+    var query1 = searchInput1.value;
+    var query2 = searchInput2.value;
+    var results = search(query1, query2);
+    renderResults(results);
+  });
+
+  // Initial render of the first 15 posts
   renderResults(posts.slice(0, 15));
 })();
