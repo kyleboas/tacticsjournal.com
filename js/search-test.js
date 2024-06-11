@@ -49,11 +49,10 @@
 
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
+      var matchesQuery1 = query1 && post.tags.toLowerCase().includes(query1.toLowerCase());
+      var matchesQuery2 = query2 && post.tags.toLowerCase().includes(query2.toLowerCase());
 
-      if (
-        (query1 && post.tags.toLowerCase().includes(query1.toLowerCase())) &&
-        (query2 && post.tags.toLowerCase().includes(query2.toLowerCase()))
-      ) {
+      if ((query1 && matchesQuery1) || (query2 && matchesQuery2)) {
         var highlightedTitle = highlightMatch(post.title, query1);
         var highlightedExcerpt = highlightMatch(post.excerpt, query1);
         highlightedTitle = highlightMatch(highlightedTitle, query2);
