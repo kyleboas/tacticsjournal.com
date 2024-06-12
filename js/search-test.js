@@ -50,19 +50,31 @@
 
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
-      var matchesQuery1 = query1 && post.tags.toLowerCase().includes(query1.toLowerCase());
-      var matchesQuery2 = query2 && post.tags.toLowerCase().includes(query2.toLowerCase());
+      var matchesQuery1 = query1 && (
+        post.title.toLowerCase().includes(query1.toLowerCase()) ||
+        post.excerpt.toLowerCase().includes(query1.toLowerCase()) ||
+        post.tags.toLowerCase().includes(query1.toLowerCase()) ||
+        post.date.toLowerCase().includes(query1.toLowerCase())
+      );
+      var matchesQuery2 = query2 && (
+        post.title.toLowerCase().includes(query2.toLowerCase()) ||
+        post.excerpt.toLowerCase().includes(query2.toLowerCase()) ||
+        post.tags.toLowerCase().includes(query2.toLowerCase()) ||
+        post.date.toLowerCase().includes(query2.toLowerCase())
+      );
 
       // If both queries have values, the post must match both
       if (query1 && query2) {
         if (matchesQuery1 && matchesQuery2) {
           var highlightedTitle = highlightMatch(post.title, query1);
           var highlightedExcerpt = highlightMatch(post.excerpt, query1);
+          var highlightedDate = highlightMatch(post.date, query1);
           highlightedTitle = highlightMatch(highlightedTitle, query2);
           highlightedExcerpt = highlightMatch(highlightedExcerpt, query2);
+          highlightedDate = highlightMatch(highlightedDate, query2);
           results.push({
             title: highlightedTitle,
-            date: post.date,
+            date: highlightedDate,
             url: post.url,
             excerpt: highlightedExcerpt,
             tags: post.tags,
@@ -74,9 +86,10 @@
         if (matchesQuery1) {
           var highlightedTitle = highlightMatch(post.title, query1);
           var highlightedExcerpt = highlightMatch(post.excerpt, query1);
+          var highlightedDate = highlightMatch(post.date, query1);
           results.push({
             title: highlightedTitle,
-            date: post.date,
+            date: highlightedDate,
             url: post.url,
             excerpt: highlightedExcerpt,
             tags: post.tags,
@@ -88,9 +101,10 @@
         if (matchesQuery2) {
           var highlightedTitle = highlightMatch(post.title, query2);
           var highlightedExcerpt = highlightMatch(post.excerpt, query2);
+          var highlightedDate = highlightMatch(post.date, query2);
           results.push({
             title: highlightedTitle,
-            date: post.date,
+            date: highlightedDate,
             url: post.url,
             excerpt: highlightedExcerpt,
             tags: post.tags,
