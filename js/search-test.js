@@ -43,8 +43,9 @@
   function search(query1, query2) {
     var results = [];
 
+    // If both fields are empty, return all posts
     if ((!query1 || query1.trim() === '') && (!query2 || query2.trim() === '')) {
-      return posts; // Return all posts if no queries are provided or if they are blank
+      return posts;
     }
 
     for (var i = 0; i < posts.length; i++) {
@@ -52,20 +53,50 @@
       var matchesQuery1 = query1 && post.tags.toLowerCase().includes(query1.toLowerCase());
       var matchesQuery2 = query2 && post.tags.toLowerCase().includes(query2.toLowerCase());
 
-      if ((query1 && matchesQuery1) || (query2 && matchesQuery2)) {
-        var highlightedTitle = highlightMatch(post.title, query1);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query1);
-        highlightedTitle = highlightMatch(highlightedTitle, query2);
-        highlightedExcerpt = highlightMatch(highlightedExcerpt, query2);
-
-        results.push({
-          title: highlightedTitle,
-          date: post.date,
-          url: post.url,
-          excerpt: highlightedExcerpt,
-          tags: post.tags,
-          categories: post.categories
-        });
+      // If both queries have values, the post must match both
+      if (query1 && query2) {
+        if (matchesQuery1 && matchesQuery2) {
+          var highlightedTitle = highlightMatch(post.title, query1);
+          var highlightedExcerpt = highlightMatch(post.excerpt, query1);
+          highlightedTitle = highlightMatch(highlightedTitle, query2);
+          highlightedExcerpt = highlightMatch(highlightedExcerpt, query2);
+          results.push({
+            title: highlightedTitle,
+            date: post.date,
+            url: post.url,
+            excerpt: highlightedExcerpt,
+            tags: post.tags,
+            categories: post.categories
+          });
+        }
+      // If only query1 has a value, filter by query1
+      } else if (query1) {
+        if (matchesQuery1) {
+          var highlightedTitle = highlightMatch(post.title, query1);
+          var highlightedExcerpt = highlightMatch(post.excerpt, query1);
+          results.push({
+            title: highlightedTitle,
+            date: post.date,
+            url: post.url,
+            excerpt: highlightedExcerpt,
+            tags: post.tags,
+            categories: post.categories
+          });
+        }
+      // If only query2 has a value, filter by query2
+      } else if (query2) {
+        if (matchesQuery2) {
+          var highlightedTitle = highlightMatch(post.title, query2);
+          var highlightedExcerpt = highlightMatch(post.excerpt, query2);
+          results.push({
+            title: highlightedTitle,
+            date: post.date,
+            url: post.url,
+            excerpt: highlightedExcerpt,
+            tags: post.tags,
+            categories: post.categories
+          });
+        }
       }
     }
 

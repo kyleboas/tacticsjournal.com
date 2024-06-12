@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="searchInput">
-  <input type="text" id="search-input1" placeholder="Search...">
-  <input type="text" id="search-input2" placeholder="Search...">
+  <input type="text" id="search-input1" placeholder="Search Tag 1...">
+  <input type="text" id="search-input2" placeholder="Search Tag 2...">
   <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
   <div class="resultBox">
     <!-- here list are inserted from javascript -->
