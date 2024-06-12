@@ -3,8 +3,9 @@ layout: default
 ---
 
 <div class="searchInput">
-  <input type="text" id="search-input1" placeholder="Search teams and phrases...">
-  <input type="text" id="search-input2" placeholder="Search teams and phrases...">
+  <input type="text" id="search-input4" placeholder="Search...">
+  <input type="text" id="search-input1" placeholder="Search teams...">
+  <input type="text" id="search-input2" placeholder="Search teams...">
   <input type="text" id="search-input3" placeholder="Search competitions...">
   <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
   <div class="resultBox">
@@ -21,6 +22,7 @@ layout: default
     var searchQuery1 = urlParams.get("search1");
     var searchQuery2 = urlParams.get("search2");
     var searchQuery3 = urlParams.get("search3");
+    var searchQuery4 = urlParams.get("search4");
 
     if (searchQuery1) {
       var searchInput1 = document.getElementById("search-input1");
@@ -38,6 +40,12 @@ layout: default
       var searchInput3 = document.getElementById("search-input3");
       searchInput3.value = searchQuery3;
       searchInput3.dispatchEvent(new Event("input"));
+    }
+
+    if (searchQuery4) {
+      var searchInput4 = document.getElementById("search-input4");
+      searchInput4.value = searchQuery4;
+      searchInput4.dispatchEvent(new Event("input"));
     }
   });
 </script>
