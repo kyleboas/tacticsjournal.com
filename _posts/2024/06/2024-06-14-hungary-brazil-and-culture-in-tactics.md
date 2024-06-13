@@ -28,6 +28,6 @@ The issue now for Brazil is that the players playing at the top level look more 
 
 You could see that mental tug and pull when Diniz coached Brazil; players were not used to playing in that way and reverted to what was a familiar safe space when things went wrong.
 
-Players like Vinicius, Rodrygo, Militao, and Endrick look comfortable because their club has adopted these principles, but the rest are used to how they play for their club. Brazil will be one of the first to benefit once the relational principles start to win matches and become more popular in the clubs these players train in. I don't think it is a coincidence that these ideas resurfaced as Argentina lifted South America's first World Cup in 20 years.
+Players like Vinicius, Rodrygo, Militao, and Endrick look comfortable because their club has adopted these principles, but the rest are used to how they play for their club. Brazil will be one of the first to benefit once the relational principles start to win matches and become more popular in the clubs these players train in. I don't think it is a coincidence that these ideas resurfaced as Argentina lifted South America's first World Cup in 20 years, with Scaloni being a major proponent of functional play.
 
 That is why I am looking forward to seeing what ideas Hungary has for Euro 2024. I would like to see them make it out of their group. You do not have to agree or like the ideas, but you can't change a player's roots, the way they grew up.
