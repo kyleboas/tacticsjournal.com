@@ -9,10 +9,10 @@ tags:
 - "Brazil"
 - "Hungary"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/13/Image-13Jun2024_12:47:36.png?raw=true"
-tweet: "Hungary is the most tactically interesting team in Euro 2024 because of the relational principles that they are going to attempt to reintroduce and expose us to. Thankfully, we have people like @stirling_j or @Jozsef_Bozsik covering them."
+tweet: "Hungary is the most tactically interesting team in Euro 2024 because of the relational principles that they are going to attempt to reintroduce and expose us to. Thankfully, we have people like @stirling_j and @Jozsef_Bozsik talking about the culture."
 ---
 
-Hungary is the most tactically interesting team in Euro 2024 because of the relational principles that they are going to attempt to reintroduce and expose us to. Thankfully, we have people like @stirling_j or @Jozsef_Bozsik covering them.
+Hungary is the most tactically interesting team in Euro 2024 because of the relational principles that they are going to attempt to reintroduce and expose us to. Thankfully, we have people like Jamie Hamilton and Jozsef ‘Hungaro’ Bozsik talking about the culture.
 
 <!---more---> 
 
@@ -24,10 +24,10 @@ I always appreciate Jamie's deliberate thoughtfulness to try to incorporate the 
 
 This subject of culture and tactics is thought-provoking. I believe coaches should try to curate an environment that replicates the way you played growing up as a child into how you play as a man, because that is what will be most natural. How you grew up playing is inherently part of the culture of where you grew up. 
 
-The issue now for Brazil is that the players playing at the top level look more comfortable in a zonal attack. It is not natural because that is not how they grew up playing, but they look comfortable because that is how they play for their club. So to go to the national team and flip the mental switch to relational principles is difficult, and you see it in the results when they tried. 
+The issue now for Brazil is that the players playing at the top level look more comfortable playing positionally. It is not natural because that is not how they grew up playing, but they look comfortable because that is how they play for their club. So to go to the national team and flip the mental switch is difficult, and you see it in the results when they try. 
 
-You could see that mental tug and pull when Diniz coached Brazil; players were not used to playing in that way and reverted to what was a familiar safe space when things went wrong.
+You could see that mental tug and pull when Diniz coached Brazil; players were not used to playing in that way and reverted to what was a familiar safe space when things went wrong. 
 
-Players like Vinicius, Rodrygo, Militao, and Endrick look comfortable because their club has adopted these principles, but the rest are used to how they play for their club. Brazil will be one of the first to benefit once the relational principles start to win matches and become more popular in the clubs these players train in. I don't think it is a coincidence that these ideas resurfaced as Argentina lifted South America's first World Cup in 20 years, with Scaloni being a major proponent of functional play.
+Players like Vinicius, Rodrygo, Militao, and Endrick look comfortable because their club has adopted these principles, but the rest are used to how they play for their club. Brazil will be one of the first to benefit once the relational principles start to win matches and become more popular in the clubs these players train in. I don't think it is a coincidence that these ideas resurfaced as Argentina lifted South America's first World Cup in 20 years.
 
 That is why I am looking forward to seeing what ideas Hungary has for Euro 2024. I would like to see them make it out of their group. You do not have to agree or like the ideas, but you can't change a player's roots, the way they grew up.
