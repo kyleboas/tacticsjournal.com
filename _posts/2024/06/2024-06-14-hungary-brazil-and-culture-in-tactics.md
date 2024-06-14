@@ -16,7 +16,7 @@ Hungary is the most tactically interesting team in Euro 2024 because of the rela
 
 <!---more---> 
 
-Jamie Hamilton in his article,  that you should read in full, ["THE HUNGARIAN CONNECTION"](https://medium.com/@stirlingj1982/the-hungarian-connection-1d2581f2570d?source=rss-3266a4c24743------2): 
+Jamie Hamilton in his article ["THE HUNGARIAN CONNECTION"](https://medium.com/@stirlingj1982/the-hungarian-connection-1d2581f2570d): 
 
  > Players approach the ball carrier to offer the kényszerítő — kényszerítő (the Hungarian word for one-two) means ‘forcing’, as in ‘to force’ the opponent into a decision they don’t want to make — follow the ball? follow the man? or be left for dead.
 
