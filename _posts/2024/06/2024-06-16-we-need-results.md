@@ -27,7 +27,7 @@ When Scotland lost to Germany, I knew they could play better than they did. When
 
 Before picking apart how they play, you should set the correct expectations for the result first and not allow the result to cloud your thinking. Critique the idea when you expect them to win, but if they aren't expected to win, then the idea becomes more palatable.
 
-Relational play has a way of elevating the performance of the individual players to a level you would not expect them to reach, especially the creatives. The opponent sits at a standstill as the team constantly moves. They're tactically interesting for that reason and others, but they are an underdog, not a dark horse. You want them to win, but lower your expectations.
+Relational play has a way of elevating the performance of the individual players to a level you would not expect them to reach, especially the creatives. The opponent sits at a standstill as the team constantly moves. They're tactically interesting for that reason and others, but they are an underdog, not a dark horse. Tactically interesting in the same way Brighton were under Roberto De Zerbi. You want them to win but they are not going to win the Premier League, lower your expectations.
 
 Hungary should keep playing like they did in the second half. Dynamism, non-zonal attack, with dummy runs to open spaces, pass-and-move quick tight passes out through the wings to attack the box vertically. Yes, Hungary were porous defensively, but it's the difference in quality between the two teams. Just play their game against Germany and Scotland, like Fluminese did against Manchester City in the Club World Cup. 
 
