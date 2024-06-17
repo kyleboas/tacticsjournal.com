@@ -34,8 +34,8 @@ When Cody Gakpo received the ball, the pass was always ahead into the half-space
 
 Frankowski was used to positioning himself far ahead of the nearest center-back, close to Gakpo. When Poland lost the ball on their left side, in their own half, Frankowski was caught out wide, allowing Gakpo to slip in and score from the left half-space. 
 
-Shifting right center-back Jan Bednarek over to make the distance between himself, Przemysław Frankowski, and center-back Bartosz Salamon, more equidistant, would have given the midfielders on the ballside, closest to Gakpo, more freedom to challenge either the midfielder in the half-space or Nathan Ake out wide. That would have provided more balance to the separation between each defender, and they would have had to chase the open spaces as much as the ball was passed about.
+Shifting right center-back Jan Bednarek over to make the distance between himself, Przemysław Frankowski, and center-back Bartosz Salamon, more equidistant, would have given the midfielders on the ballside, closest to Gakpo, more freedom to challenge either the midfielder in the half-space or Nathan Ake out wide. That would have provided more balance to the separation between each defender, and they would not have had to chase the open spaces as much as the ball was passed about.
 
-The Netherlands lack pace in midfield and will always find it easier to move the ball if you are forced into chasing the play.
+The Netherlands lack pace in midfield and will always find it easier to move the ball if the opponent is forced into chasing the play.
 
 *Match: Poland 1-2 Netherlands, 16 June 2024*
