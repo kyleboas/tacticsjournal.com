@@ -26,7 +26,7 @@ Not playing this pass for an entire half is the equivalent of not passing the ba
 
 <figure>
     <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_22:14:32.png?raw=true">
-    <figcaption>Figure 1.1 - Phil Foden's touch map against Serbia.</figcaption>
+    <figcaption>Figure 1.1 - Phil Foden's touch map against Serbia. Image courtesy of WhoScored.</figcaption>
 </figure>
 
 Of the two progressive passes Declan Rice played to Phil Foden in the first half, neither were forward, both sideways, and neither were in that zone central. 
