@@ -7,16 +7,16 @@ categories:
 tags:
 - "Hungary"
 - "Switzerland"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/15/Image-15Jun2024_17:59:29.png?raw=true"
+image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_11:51:51.png?raw=true"
 ---
 
-The easy way out is to dismiss an unorthodox idea by ignoring the larger reason for the result. The difference in the quality of Hungary's players compared to Switzerland was too large therefore, they struggled to impose themselves on the match. 
+Poland's asymmetric shape in defense meant that the half-spaces were open for the Netherlands, with right wing-back Przemysław Frankowski tasked with tightly marking Cody Gakpo.
 
-<!---more--->
+<!---more---> 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/15/Image-15Jun2024_17:59:29.png?raw=true">
-    <figcaption>Figure 1.1 - Switzerland's lineup with the club each player represents below their last name, and Hungarian substitute center-forward Martin Ádám, a unit of a man from Ulsan HD FC in the K League.</figcaption>
+    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_11:51:06.png?raw=true">
+    <figcaption>Figure 1.1 - Poland's asymmetric back line with Przemysław Frankowski out to challenge Cody Gakpo.</figcaption>
 </figure>
 
 Switzerland has one of Italy's best goalkeepers, Yann Sommer from Inter, and outfield players from Manchester City, Newcastle, Torino, Bologna, Mainz, Bayer Leverkusen, Augsburg, and more. Starting players from the top teams in the European leagues. It is great to put each player on a chalkboard and plot out the movement and spot the weaknesses, but you have to factor in the gap in ability. 
