@@ -21,7 +21,9 @@ The system England used against Serbia is dependent on progressive passes throug
 
 Notice the lack of straight passes forward into that zone where Phil Foden can turn. To get the most from Foden, you need to funnel the ball through that zone. Play the ball into him with his back to goal, and then he can turn towards the penalty box. 
 
-Not playing this pass for an entire half is the equivalent of not passing the ball down the right wing to Bukayo Saka. You might as well not start Foden if you are not going to play this pass. Of the two progressive passes Declan Rice played to Phil Foden in the first half, neither were forward, both sideways, and neither were in that zone central. 
+Not playing this pass for an entire half is the equivalent of not passing the ball down the right wing to Bukayo Saka. You might as well not start Foden if you are not going to play this pass. Foden is no Jérémy Doku, he won't dribble past five people. He is a jack-in-a-box that you whined up with the pass to pop out of the space, pass, and then start again.
+
+Of the two progressive passes Declan Rice played to Phil Foden in the first half, neither were forward, both sideways, and neither were in that zone central. 
 
 This is the problem with having Declan Rice as the anchor. This will go overlooked because of how good of a footballer he is, but he is unwilling to play this pass forward between the lines. He passes from side to side, left to right, like a center-back. His mind and thinking are more similar to those of a center-back like John Stones, not Rodri. He is not a natural six and is used to Arsenal playing through the wings. Jorginho or Partey find the cutting passes through the center between the lines. Rodri finds that pass and slows the play down to allow Foden time and space on the ball to turn. 
 
@@ -30,7 +32,7 @@ This is the problem with having Declan Rice as the anchor. This will go overlook
     <figcaption>Figure 1.1 - Minute 4:34 against Serbia: John Stones carries forward and passes to Phil Foden. Foden one-touch passes to Jude Bellingham, who moves immediately into the box, and then Jude attempts a pass back to Foden.</figcaption>
 </figure>
 
-Credit goes to John Stones. Stones has learned how to think like Rodri—to think like a six. He was the first one to play the forward pass into Foden in that zone in the final third. You play that pass, and then the entire attack opens up. It is a small window to pass into, but that is where Foden needs the ball. The reception looks impossible, but for Foden, it is not. 
+Credit to John Stones. Stones has learned how to think like Rodri—to think like a six. He was the first one to play the forward pass into Foden in that zone in the final third. You play that pass, and then the entire attack opens up. It is a small window to pass into, but that is where Foden needs the ball. The reception looks impossible, but for Foden, it is not. Credit also to Marc Guéhi, the other player looking for that central pass into Bellingham and Foden.
 
 <figure>
     <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/16/Image-16Jun2024_23:20:08.png?raw=true">
