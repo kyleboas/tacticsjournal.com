@@ -23,6 +23,12 @@ Notice the lack of straight passes forward into that zone where Phil Foden can t
 
 Not playing this pass for an entire half is the equivalent of not passing the ball down the right wing to Bukayo Saka. You might as well not start Foden if you are not going to play this pass. Foden is no Jérémy Doku, he won't dribble past five people. He is a jack-in-a-box that you whined up with the pass to pop out of the space, pass, and then start again.
 
+
+<figure>
+    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_22:14:32.png?raw=true">
+    <figcaption>Figure 1.1 - Phil Foden's touch map against Serbia.</figcaption>
+</figure>
+
 Of the two progressive passes Declan Rice played to Phil Foden in the first half, neither were forward, both sideways, and neither were in that zone central. 
 
 This is the problem with having Declan Rice as the anchor. This will go overlooked because of how good of a footballer he is, but he is unwilling to play this pass forward between the lines. He passes from side to side, left to right, like a center-back. His mind and thinking are more similar to those of a center-back like John Stones, not Rodri. He is not a natural six and is used to Arsenal playing through the wings. Jorginho or Partey find the cutting passes through the center between the lines. Rodri finds that pass and slows the play down to allow Foden time and space on the ball to turn. 
