@@ -43,7 +43,7 @@ It's a tough call on Austria's part for who to give that free space to. Maybe yo
     <figcaption>Figure 3.1 - France win back the ball near the half-way line, play the ball to Antoine Griezmann, and Griezmann passes the ball over the top to Kylian Mbappe.</figcaption>
 </figure>
 
-Unfortunately for France, they never found that pass to Griezmann once in the match. They did create a situation in which Griezmann received the ball in similar conditions, not originating from a pass out the back but as a result of France doing the pressing when Austria had the ball. They won back the ball, quickly got it to Grizemann on the group, and he played the ball over the top to Mbappe resulting in one of their clearest goal-scoring chances. He should have scored.
+Unfortunately for France, they never found that pass to Griezmann once in the match. They did create a situation in which Griezmann received the ball in similar conditions, not originating from a pass out the back but as a result of France doing the pressing when Austria had the ball. They won back the ball, quickly got it to Grizemann on the ground, and he played the ball over the top to Mbappe resulting in one of their clearest goal-scoring chances. He should have scored.
 
 This open space for one of the advanced midfielders or forwards is a feature of Austria's counter-press that could be exploited by someone like Xavi Simmons for the Netherlands or Sebastian Szyzmański for Poland. Whoever is the free man in the half-space behind the forwards should be targeted as the outlet.
 
