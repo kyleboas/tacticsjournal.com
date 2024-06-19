@@ -30,6 +30,7 @@
         {
           title: "{{ post.title | xml_escape }}",
           url: "{{ site.baseurl }}{{ post.url | xml_escape }}",
+          link: "{{ post.link | xml_escape }}", // Add the link from front matter
           excerpt: "{{ post.excerpt | strip_html | strip_newlines | escape }}",
           date: "{{ post.date | date: "%d %B %Y" }}",
           tags: "{% for tag in post.tags %}{{ tag }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
@@ -62,6 +63,7 @@
           title: highlightedTitle,
           date: post.date,
           url: post.url,
+          link: post.link, // Include the link in the results
           excerpt: highlightedExcerpt,
           tags: post.tags,
           categories: post.categories
@@ -79,87 +81,87 @@
     });
   }
 
-function getCurrentPageUrl() {
+  function getCurrentPageUrl() {
     return window.location.href;
   }
-     
-function renderResults(results) {
-  postList.innerHTML = '';
 
-  var searchQuery = searchInput.value.trim();
-  var countElement = document.getElementById('result-count');
+  function renderResults(results) {
+    postList.innerHTML = '';
 
-  if (searchQuery === '') {
-    countElement.innerHTML = 'Last 15 posts';
-    noResultsMessage.style.display = 'none';
+    var searchQuery = searchInput.value.trim();
+    var countElement = document.getElementById('result-count');
 
-    // Filter out posts that match the current page's URL
-    var filteredResults = results.filter(function (post) {
-      return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
-    });
+    if (searchQuery === '') {
+      countElement.innerHTML = 'Last 15 posts';
+      noResultsMessage.style.display = 'none';
 
-    // Show only the first 15 posts
-    var slicedResults = filteredResults.slice(0, 15);
+      // Filter out posts that match the current page's URL
+      var filteredResults = results.filter(function (post) {
+        return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
+      });
 
-    for (var i = 0; i < slicedResults.length; i++) {
-      var result = slicedResults[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
+      // Show only the first 15 posts
+      var slicedResults = filteredResults.slice(0, 15);
 
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      a.classList.add('long-title');
-      li.appendChild(a);
+      for (var i = 0; i < slicedResults.length; i++) {
+        var result = slicedResults[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item');
 
-      var dateElement = document.createElement('p');
-      dateElement.classList.add('post-date');
-      dateElement.innerHTML = result.date;
-      li.appendChild(dateElement);
+        var a = document.createElement('a');
+        a.href = result.link ? result.link : result.url; // Use link if it exists
+        a.innerHTML = result.title;
+        a.classList.add('long-title');
+        li.appendChild(a);
 
-      var p = document.createElement('p');
-      if (i === 0) {
-        p.innerHTML = posts[0].content; // Display full content for the first post
-      } else {
-        p.innerHTML = result.excerpt; // Display excerpt for other posts
+        var dateElement = document.createElement('p');
+        dateElement.classList.add('post-date');
+        dateElement.innerHTML = result.date;
+        li.appendChild(dateElement);
+
+        var p = document.createElement('p');
+        if (i === 0) {
+          p.innerHTML = posts[0].content; // Display full content for the first post
+        } else {
+          p.innerHTML = result.excerpt; // Display excerpt for other posts
+        }
+        li.appendChild(p);
+
+        postList.appendChild(li);
       }
-      li.appendChild(p);
+    } else if (results.length === 0) {
+      countElement.innerHTML = 'No posts found';
+      noResultsMessage.style.display = 'block';
+    } else {
+      var postsShown = results.length;
+      var totalCount = posts.length;
+      countElement.innerHTML = postsShown + ' posts found';
+      noResultsMessage.style.display = 'none';
 
-      postList.appendChild(li);
-    }
-  } else if (results.length === 0) {
-    countElement.innerHTML = 'No posts found';
-    noResultsMessage.style.display = 'block';
-  } else {
-    var postsShown = results.length;
-    var totalCount = posts.length;
-    countElement.innerHTML = postsShown + ' posts found';
-    noResultsMessage.style.display = 'none';
+      for (var i = 0; i < results.length; i++) {
+        var result = results[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item');
 
-    for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
+        var a = document.createElement('a');
+        a.href = result.link ? result.link : result.url; // Use link if it exists
+        a.innerHTML = result.title;
+        a.classList.add('long-title');
+        li.appendChild(a);
 
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      a.classList.add('long-title');
-      li.appendChild(a);
+        var dateElement = document.createElement('p');
+        dateElement.classList.add('post-date');
+        dateElement.innerHTML = result.date;
+        li.appendChild(dateElement);
 
-      var dateElement = document.createElement('p');
-      dateElement.classList.add('post-date');
-      dateElement.innerHTML = result.date;
-      li.appendChild(dateElement);
+        var p = document.createElement('p');
+        p.innerHTML = result.excerpt;
+        li.appendChild(p);
 
-      var p = document.createElement('p');
-      p.innerHTML = result.excerpt;
-      li.appendChild(p);
-
-      postList.appendChild(li);
+        postList.appendChild(li);
+      }
     }
   }
-}
 
   // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
@@ -173,6 +175,6 @@ function renderResults(results) {
     renderResults(results);
   });
 
-  // Initial render of the first 5 posts
+  // Initial render of the first 15 posts
   renderResults(posts.slice(0, 15));
 })();
