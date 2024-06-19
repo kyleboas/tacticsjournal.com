@@ -110,6 +110,7 @@
 
         var a = document.createElement('a');
         a.href = result.link ? result.link : result.url; // Use link if it exists
+        a.target = '_blank'; // Open link in a new tab
         a.innerHTML = result.title;
         a.classList.add('long-title');
         li.appendChild(a);
@@ -145,6 +146,7 @@
 
         var a = document.createElement('a');
         a.href = result.link ? result.link : result.url; // Use link if it exists
+        a.target = '_blank'; // Open link in a new tab
         a.innerHTML = result.title;
         a.classList.add('long-title');
         li.appendChild(a);
