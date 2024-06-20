@@ -45,9 +45,9 @@ The selection of players is not the problem; the selection of passes is. You mig
     <figcaption>Figure 3.1 - Phil Foden's touch map against Serbia.</figcaption>
 </figure>
 
-Of the two progressive passes Declan Rice played to Phil Foden in the first half, neither were forward, both sideways, and neither were in that zone central. Marc Guéhi was one of the main sources of cutting passes to break the lines in Serbia.
+Of the two progressive passes Declan Rice played to Phil Foden in the first half, neither were forward, both sideways, and neither were in that zone central. Marc Guéhi was one of the main sources of cutting passes to break Serbia's front line of defense.
 
-This is the problem with having Declan Rice as the anchor. This will go overlooked because of how good of a footballer he is, but he is unwilling to play this pass forward between the lines. He passes from side to side, left to right, like a center-back. His mind and thinking are more similar to those of a center-back like John Stones, not Rodri. He is not a natural six and is used to Arsenal playing through the wings. Jorginho or Partey find the cutting passes through the center between the lines. Rodri finds that pass and slows the play down to allow Foden time and space on the ball to turn. 
+This is the problem with having Declan Rice as the anchor. This will go overlooked because of how good of a footballer he is, but he is unwilling to play this pass forward between the lines. He passes from side to side, left to right, like a center-back. His mind and thinking are more similar to that of William Saliba, not Rodri. He is not a natural six and is used to Arsenal playing through the wings. Jorginho or Partey find the cutting passes between the lines. Rodri finds that pass and slows the play down to allow Foden time and space on the ball to turn.
 
 <figure>
     <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_14:59:30.png?raw=true">
