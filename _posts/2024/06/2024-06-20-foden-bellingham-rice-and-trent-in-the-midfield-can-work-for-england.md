@@ -41,7 +41,7 @@ The selection of players is not the problem; the selection of passes is. You mig
 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_22:14:32.png?raw=true">
+    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/20/Image-20Jun2024_12:58:00.png?raw=true">
     <figcaption>Figure 3.1 - Phil Foden's touch map against Serbia.</figcaption>
 </figure>
 
