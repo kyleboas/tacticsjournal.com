@@ -64,6 +64,6 @@ When Trippier was active down the wing, this dynamic worked because Trent could 
 
 The switch was flipped in the 20th minute. England began to go long. When England goes long, the game is lost because a game of many transitions does not play into their strengths as a team. Other than Bellingham, that midfield is not great in transition, Kane is not going to win every aerial duel, and with Trippier back in England's half, there is no outlet on the left wing. 
 
-They don't need to start a left-winger, but do they have to slow the pace of the game down and focus on funneling the ball through the center of the pitch to distribute into the box or wide to be crossed. If they do not, they will repeat this same static and frustrating performance.
+They don't need to start a left-winger, but they have to slow the pace of the game down and focus on funneling the ball through the center of the pitch to distribute into the box or wide to be crossed. If they do not, they will repeat this same static and frustrating performance.
 
 *Match: England 1-0 Serbia, 16 June 2024*
