@@ -49,7 +49,7 @@ Of the two progressive passes Declan Rice played to Phil Foden in the first half
 
 This is the problem with having Declan Rice as the anchor. This will go overlooked because of how good of a footballer he is, but he is unwilling to play this pass forward between the lines. He passes from side to side, left to right, like a center-back. His mind and thinking are more similar to that of Harry Maguire, not Rodri. He is not a natural six and is used to Arsenal playing through the wings. Jorginho, Partey, Mainoo, and Wharton find the least obvious pass. Rodri finds that pass and dictates the pace of play to allow Foden time and space on the ball to turn. 
 
-It is not a lack of ability on Rice's part, it is a conscious mindset to always look forward when everyone else is looking back at the ball. It is a switch he can flip because I know and he knows he can play those passes.
+It is not a lack of ability on Rice's part, it is a conscious mindset to always look forward when everyone else is looking back at the ball. It is a switch he can flip because I know he knows he can play those passes.
 
 <figure>
     <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_14:59:30.png?raw=true">
