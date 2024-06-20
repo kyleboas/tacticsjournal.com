@@ -37,7 +37,7 @@ When you take players out of the center of the pitch, then England can't progres
 
 Notice the lack of straight passes forward into that zone where Phil Foden can turn. To get the most from Foden and Bellingham, you need to funnel the ball through that zone. Play the ball into their feet with their back to goal, and then they can turn towards the penalty box. 
 
-The selection of players is not the problem; the selection of passes is. You might as well not start Foden if you are not going to play this pass. Foden is not Jérémy Doku; he won't dribble past five people. He is a jack-in-the-box that you whine up in small spaces, pass the ball into feet to pop out of the space, pass or shoot, and then start again.
+The selection of players is not the problem; the selection of passes is. You might as well not start Foden if you are not going to play this pass. Foden is not Jérémy Doku; he won't dribble past five people. He is a jack-in-the-box that you wind up in small spaces, pass the ball into feet to pop out of the space, pass or shoot, and then start again.
 
 
 <figure>
@@ -64,6 +64,6 @@ When Trippier was active down the wing, this dynamic worked because Trent could 
 
 The switch was flipped in the 20th minute. England began to go long. When England goes long, the game is lost because a game of many transitions does not play into their strengths as a team. Other than Bellingham, that midfield is not great in transition, Kane is not going to win every aerial duel, and with Trippier back in England's half, there is no outlet on the left wing. 
 
-They don't need to start a left-winger, but do they have to slow the pace of the game down and focus on funneling the ball through the center of the pitch to distribute into the box or wide to be crossed. If they do not, they will repeat this same static and frustrating performance.
+They don't need to start a left-winger, but they have to slow the pace of the game down and focus on funneling the ball through the center of the pitch to distribute into the box or wide to be crossed. If they do not, they will repeat this same static and frustrating performance.
 
 *Match: England 1-0 Serbia, 16 June 2024*
