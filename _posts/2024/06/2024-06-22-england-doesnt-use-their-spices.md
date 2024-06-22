@@ -33,4 +33,4 @@ The tactics in international football are not complicated. There are very few in
 
 When I watch Spain, they use similar structures and systems when compared to the teams in La Liga. When I watch Italy, I see the Serie A. When I watch Germany, I see the Bundesliga. When I watch England, I don't see them playing in a similar style to the teams at the top of the Premier League. The culture of football in that nation is not bland anymore. The cultures of many nations are rubbing off on them.
 
-The manager dumbs down their approach because everyone thinks you must, but I think it's harder for the players to adapt when the environment is unfamiliar to them. The players look more comfortable when you copy the familiar systems of Manchester City, Arsenal, Liverpool, Aston Villa, Tottenham, Chelsea, New Castle, or Manchester United. 
+The manager dumbs down their approach because everyone thinks you must, but I think it's harder for the players to adapt when the environment is unfamiliar to them. The players look more comfortable when you copy the familiar systems of Manchester City, Arsenal, Liverpool, Aston Villa, Tottenham, Chelsea, Newcastle, or Manchester United. 
