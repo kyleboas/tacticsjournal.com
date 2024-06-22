@@ -10,7 +10,7 @@ tags:
 - "Spain"
 - "Luciano Spalletti"
 - "Luis de la Fuente"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/21/Image-21Jun2024_01:01:30.png?raw=true"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/21/Image-21Jun2024_01%3A01%3A30.png"
 ---
 
 [Similar to Austria's counter-press against France, which left Antoine Griezmann free](https://tacticsjournal.com/2024/06/18/austria-left-griezmann-open-when-they-counter-pressed-france/), Italy demonstrated how to play out to the free man on the far side, Nicolo Barella, when Spain pressured them in their own half.
