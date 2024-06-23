@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-06-23 11:00 UTC
-title: "Türkiye — Portugal: Unselfish Cristiano Ronaldo (0-3)"
+title: "Türkiye — Portugal: An Unselfish Cristiano Ronaldo (0-3)"
 categories:
 - "Euro 2024"
 - "International"
