@@ -8,7 +8,7 @@ categories:
 tags:
 - "Switzerland"
 - "Germany"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/24/Image-24Jun2024_00:16:02.png?raw=true"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/24/Image-24Jun2024_00:16:02.png"
 ---
 
 The entire match I watched Granit Xhaka and Remo Freuler to see how Switzerland denied Germany time central. There was always at least one cover-shadow for the longer pass, and depending on where the ball was, one cover-shadow for the shorter pass.
