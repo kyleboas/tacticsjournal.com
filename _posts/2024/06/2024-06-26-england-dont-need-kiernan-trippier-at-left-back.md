@@ -10,10 +10,10 @@ tags:
 - "Slovenia"
 - "Denmark"
 - "Serbia"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/26/Image-26Jun2024_00%3A33%3A02.png
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/26/Image-26Jun2024_00%3A33%3A02.png"
 ---
 
-I did not think England needed Declan Rice, Kieran Trippier, Marc Guéhi, John Stones, and Kyle Walker in the rest-defense against Serbia, Denmark, or Slovenia. Trippier is often positioned deep to defend, which has a big effect on how they can attack.
+I didn't think England needed Declan Rice, Kieran Trippier, Marc Guéhi, John Stones, and Kyle Walker in the rest-defense against Serbia, Denmark, or Slovenia. Trippier is often positioned deep to defend, which has a negative effect on how they attack.
 
 <!---more--->
 
