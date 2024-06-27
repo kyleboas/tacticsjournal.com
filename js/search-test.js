@@ -3,6 +3,9 @@
 
 (function () {
   var searchInput = document.getElementById('search-input');
+  var searchTags1Input = document.getElementById('search-tags-1');
+  var searchTags2Input = document.getElementById('search-tags-2');
+  var searchCategoriesInput = document.getElementById('search-categories');
   var postList = document.getElementById('post-list');
   var initialPosts = document.querySelectorAll('.initial-post');
   var noResultsMessage = document.getElementById('no-results-message');
@@ -40,22 +43,33 @@
     {% endfor %}
   ];
 
-  function search(query) {
+  function search(query, tags1, tags2, categories) {
     var results = [];
-
-    if (!query || query.trim() === '') {
-      return posts; // Return all posts if no query is provided or if it's blank
-    }
 
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
 
-      if (
-        post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-        post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-        post.categories.toLowerCase().includes(query.toLowerCase()) // Add search in categories
-      ) {
+      var match = true;
+
+      if (query && query.trim() !== '') {
+        match &= post.title.toLowerCase().includes(query.toLowerCase()) ||
+                 post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+                 post.date.toLowerCase().includes(query.toLowerCase());
+      }
+
+      if (tags1 && tags1.trim() !== '') {
+        match &= post.tags.toLowerCase().includes(tags1.toLowerCase());
+      }
+
+      if (tags2 && tags2.trim() !== '') {
+        match &= post.tags.toLowerCase().includes(tags2.toLowerCase());
+      }
+
+      if (categories && categories.trim() !== '') {
+        match &= post.categories.toLowerCase().includes(categories.toLowerCase());
+      }
+
+      if (match) {
         var highlightedTitle = highlightMatch(post.title, query);
         var highlightedExcerpt = highlightMatch(post.excerpt, query);
         results.push({
@@ -74,6 +88,7 @@
   }
 
   function highlightMatch(text, query) {
+    if (!query) return text;
     var regex = new RegExp(query, 'gi');
     return text.replace(regex, function (match) {
       return '<span class="highlight">' + match + '</span>';
@@ -86,7 +101,8 @@
     var searchQuery = searchInput.value.trim();
     var countElement = document.getElementById('result-count');
 
-    if (searchQuery === '') {
+    if (searchQuery === '' && searchTags1Input.value.trim() === '' &&
+        searchTags2Input.value.trim() === '' && searchCategoriesInput.value.trim() === '') {
       countElement.innerHTML = 'Last 15 posts';
       noResultsMessage.style.display = 'none';
 
@@ -133,17 +149,17 @@
     }
   }
 
-  // Get the search query from the URL
-  var searchQuery = new URLSearchParams(window.location.search).get('search');
-  if (searchQuery) {
-    searchInput.value = searchQuery;
-    searchInput.dispatchEvent(new Event('input'));
-  }
-
-  searchInput.addEventListener('input', function () {
-    var query = searchInput.value;
-    var results = search(query);
-    renderResults(results);
+  // Attach event listeners to all search fields
+  var searchFields = [searchInput, searchTags1Input, searchTags2Input, searchCategoriesInput];
+  searchFields.forEach(function(field) {
+    field.addEventListener('input', function () {
+      var query = searchInput.value;
+      var tags1 = searchTags1Input.value;
+      var tags2 = searchTags2Input.value;
+      var categories = searchCategoriesInput.value;
+      var results = search(query, tags1, tags2, categories);
+      renderResults(results);
+    });
   });
 
   // Initial render of the first 15 posts
