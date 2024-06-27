@@ -4,6 +4,7 @@
 (function () {
   var searchInput = document.getElementById('search-input');
   var postList = document.getElementById('post-list');
+  var initialPosts = document.querySelectorAll('.initial-post');
   var noResultsMessage = document.getElementById('no-results-message');
 
   if (!noResultsMessage) {
@@ -79,29 +80,32 @@
     });
   }
 
-  function getCurrentPageUrl() {
-    return window.location.href;
-  }
-
   function renderResults(results) {
+    postList.innerHTML = ''; // Clear the post-list content
+
     var searchQuery = searchInput.value.trim();
     var countElement = document.getElementById('result-count');
 
     if (searchQuery === '') {
       countElement.innerHTML = 'Last 15 posts';
       noResultsMessage.style.display = 'none';
-      postList.style.display = 'block'; // Show initial HTML posts
+
+      // Show initial posts if no search query
+      initialPosts.forEach(function(post) {
+        post.style.display = 'block';
+        postList.appendChild(post);
+      });
     } else if (results.length === 0) {
       countElement.innerHTML = 'No posts found';
       noResultsMessage.style.display = 'block';
-      postList.style.display = 'none'; // Hide initial HTML posts
     } else {
       countElement.innerHTML = results.length + ' posts found';
       noResultsMessage.style.display = 'none';
-      postList.style.display = 'none'; // Hide initial HTML posts
 
-      var resultBox = document.querySelector('.resultBox');
-      resultBox.innerHTML = ''; // Clear previous results
+      // Hide initial posts
+      initialPosts.forEach(function(post) {
+        post.style.display = 'none';
+      });
 
       for (var i = 0; i < results.length; i++) {
         var result = results[i];
@@ -124,7 +128,7 @@
         p.innerHTML = result.excerpt;
         li.appendChild(p);
 
-        resultBox.appendChild(li);
+        postList.appendChild(li);
       }
     }
   }
@@ -133,6 +137,7 @@
   var searchQuery = new URLSearchParams(window.location.search).get('search');
   if (searchQuery) {
     searchInput.value = searchQuery;
+    searchInput.dispatchEvent(new Event('input'));
   }
 
   searchInput.addEventListener('input', function () {
@@ -142,5 +147,8 @@
   });
 
   // Initial render of the first 15 posts
-  renderResults(posts.slice(0, 15));
+  initialPosts.forEach(function(post) {
+    post.style.display = 'block';
+    postList.appendChild(post);
+  });
 })();
