@@ -51,4 +51,4 @@ permalink: /preview/
   });
 </script>
 <script src="/js/search-test.js"></script>
-<script src="/js/suggest.js"></script>
+<script src="/js/suggest-test.js"></script>
