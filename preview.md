@@ -5,10 +5,10 @@ permalink: /preview/
 
 <!-- index.html -->
 <div class="searchInput">
-  <input type="text" id="search-input" placeholder="Search in date, title, and excerpt...">
-  <input type="text" id="search-tags-1" placeholder="Search tags...">
-  <input type="text" id="search-tags-2" placeholder="Search tags...">
-  <input type="text" id="search-categories" placeholder="Search categories...">
+  <input type="text" id="search-input" placeholder="Search...">
+  <input type="text" id="search-tags-1" placeholder="Search by team...">
+  <input type="text" id="search-tags-2" placeholder="Search by team...">
+  <input type="text" id="search-categories" placeholder="Search by competition...">
   <p id="p-result-count" style="margin-top: 0px;"><span id="result-count">Last 15 posts</span></p>
 </div>
 
