@@ -13,7 +13,7 @@ link: "https://betweentheposts.net/georgia-portugal-georgia-upsets-portugals-sec
 tweet: "A heavily rotated Portugal squad set their mind on resting for the round of 16, and a defensively solid, quick-to-counter Georgia took advantage of their opponent’s relaxed frame of mind to advance out of the group stage. @BetweenThePosts"
 ---
 
-A heavily rotated Portugal squad set their mind on resting for the round of 16, and a defensively solid, quick-to-counter Georgia took advantage of their opponent’s relaxed frame of mind to advance out of the group stage.
+A heavily rotated Portugal setup to rest for the round of 16, and a defensively solid, quick-to-counter Georgia took advantage of their opponent’s relaxed frame of mind to advance out of the group stage.
 
 <!---more--->
 
