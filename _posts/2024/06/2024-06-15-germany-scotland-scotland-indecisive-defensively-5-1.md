@@ -5,6 +5,7 @@ title: "Germany — Scotland: Scotland Indecisive Defensively (5-1)"
 categories:
 - "Euro 2024"
 - "International"
+- "Between The Posts"
 tags:
 - "Germany"
 - "Scotland"
