@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-06-26 11:00 UTC
-title: "England don't need Kiernan Trippier at left-back"
+title: "England don't need Kieran Trippier at left-back"
 categories:
 - "Euro 2024"
 - "International"
