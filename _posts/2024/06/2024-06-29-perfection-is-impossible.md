@@ -2,7 +2,7 @@
 layout: post
 date: 2024-06-29 11:00 UTC
 title: "Perfection is impossible"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/10/Image-10Jun2024_23:38:46.png?raw=true"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/10/Image-10Jun2024_23%3A38%3A46.png"
 ---
 
 Tennis is a mental game and there are parallels between it and taking risks in football. Roger Federer says 'perfection is impossible' and that thinking 'frees you to fully commit to the next point with intensity, clarity, and focus.'
