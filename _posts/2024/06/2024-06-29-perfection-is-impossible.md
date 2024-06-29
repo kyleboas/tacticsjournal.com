@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-06-30 11:00 UTC
+date: 2024-06-29 11:00 UTC
 title: "Perfection is impossible"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/10/Image-10Jun2024_23:38:46.png?raw=true"
 ---
