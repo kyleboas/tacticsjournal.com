@@ -24,7 +24,7 @@ Lionel Messi went into more detail than ever before in an [interview with Juan P
 
 The greater problem now is not the nostalgia, thinking about how the Barcelona we loved would not have an edge today, the problem is that we are developing less creative players. Thankfully, coaches have expressed that they realized this and are [again embracing street football](https://tacticsjournal.com/2024/06/10/germany-is-in-the-street-again/), but the idea of positional football has infected too much of the footballing world. 
 
-It could take years to see change, but that opens [an opportunity for the innovators](https://tacticsjournal.com/2024/05/29/positional-laggards/) to gain their own competitive advantage by countering the positional game with more relational principles from the street.
+It could take years to see change, but that opens [an opportunity for the innovators](https://tacticsjournal.com/2024/05/29/positional-laggards/) to gain their own competitive advantage by countering the positional game with more relational principles from the street. The truth is that not giving an instruction is a tactic.  
 
 > **Varsky:** It helped you to start, at least as a professional, playing as a right winger. The sideline kept you in order at that time until it got to a point where it limited you more than it organized you. 
 > 
