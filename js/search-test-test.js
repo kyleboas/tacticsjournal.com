@@ -3,8 +3,10 @@
 
 (function () {
   var searchInputContainer = document.getElementById('search-criteria-container');
+  var searchInput = document.getElementById('search-input');
   var postList = document.getElementById('post-list');
   var noResultsMessage = document.getElementById('no-results-message');
+  var tags = [];
 
   if (!noResultsMessage) {
     noResultsMessage = document.createElement('div');
@@ -90,11 +92,9 @@
   function renderResults(results) {
     postList.innerHTML = '';
 
-    var searchInputs = document.querySelectorAll('#search-criteria-container input');
-    var searchQuery = Array.from(searchInputs).map(input => input.value.trim()).filter(Boolean).join(', ');
     var countElement = document.getElementById('result-count');
 
-    if (searchQuery === '') {
+    if (tags.length === 0) {
       countElement.innerHTML = 'Last 15 posts';
       noResultsMessage.style.display = 'none';
 
@@ -168,33 +168,43 @@
     }
   }
 
-  // Get the search query from the URL
-  var searchQuery = new URLSearchParams(window.location.search).get('search');
-  if (searchQuery) {
-    var searchInput = document.createElement('input');
-    searchInput.type = 'text';
-    searchInput.placeholder = 'Search...';
-    searchInput.value = searchQuery;
-    searchInputContainer.appendChild(searchInput);
-    searchInput.dispatchEvent(new Event('input'));
+  function createTagElement(query) {
+    var tag = document.createElement('div');
+    tag.classList.add('tag');
+    tag.textContent = query;
+
+    var removeButton = document.createElement('span');
+    removeButton.textContent = '×';
+    removeButton.classList.add('remove-tag');
+    removeButton.onclick = function () {
+      var index = tags.indexOf(query);
+      if (index > -1) {
+        tags.splice(index, 1);
+        searchInputContainer.removeChild(tag);
+        renderResults(search(tags));
+      }
+    };
+
+    tag.appendChild(removeButton);
+    return tag;
   }
 
-  searchInputContainer.addEventListener('keydown', function (event) {
-    if (event.key === 'Enter') {
-      event.preventDefault();
-      var newSearchInput = document.createElement('input');
-      newSearchInput.type = 'text';
-      newSearchInput.placeholder = 'Search...';
-      searchInputContainer.appendChild(newSearchInput);
-      newSearchInput.focus();
+  function addTag(query) {
+    if (query && !tags.includes(query)) {
+      tags.push(query);
+      var tagElement = createTagElement(query);
+      searchInputContainer.insertBefore(tagElement, searchInput);
     }
-  });
+    searchInput.value = '';
+    renderResults(search(tags));
+  }
 
-  searchInputContainer.addEventListener('input', function () {
-    var searchInputs = document.querySelectorAll('#search-criteria-container input');
-    var queries = Array.from(searchInputs).map(input => input.value.trim()).filter(Boolean);
-    var results = search(queries);
-    renderResults(results);
+  // Handle Enter key to add a new tag
+  searchInput.addEventListener('keydown', function (event) {
+    if (event.key === 'Enter' && searchInput.value.trim() !== '') {
+      event.preventDefault();
+      addTag(searchInput.value.trim());
+    }
   });
 
   // Initial render of the first 15 posts
