@@ -207,6 +207,15 @@
     }
   });
 
+  // Handle suggestion clicks
+  document.addEventListener('click', function(event) {
+    if (event.target.classList.contains('suggestion-item')) {
+      event.preventDefault();
+      var suggestionText = event.target.textContent;
+      addTag(suggestionText);
+    }
+  });
+
   // Initial render of the first 15 posts
   renderResults(posts.slice(0, 15));
 })();
