@@ -1,12 +1,12 @@
 ---
 ---
-  
 
 (function () {
+  var searchInputContainer = document.getElementById('search-criteria-container');
   var searchInput = document.getElementById('search-input');
-  var suggestionList = document.getElementById('suggestion-list');
   var postList = document.getElementById('post-list');
   var noResultsMessage = document.getElementById('no-results-message');
+  var tags = [];
 
   if (!noResultsMessage) {
     noResultsMessage = document.createElement('div');
@@ -41,24 +41,25 @@
     {% endfor %}
   ];
 
-  function search(query) {
+  function search(queries) {
     var results = [];
 
-    if (!query || query.trim() === '') {
+    if (queries.length === 0) {
       return posts; // Return all posts if no query is provided or if it's blank
     }
 
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
+      var match = queries.every(function(query) {
+        return post.title.toLowerCase().includes(query.toLowerCase()) ||
+               post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+               post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
+               post.categories.toLowerCase().includes(query.toLowerCase()); // Add search in categories
+      });
 
-      if (
-        post.title.toLowerCase().includes(query.toLowerCase()) ||
-        post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-        post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-        post.categories.toLowerCase().includes(query.toLowerCase()) // Add search in categories
-      ) {
-        var highlightedTitle = highlightMatch(post.title, query);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query);
+      if (match) {
+        var highlightedTitle = highlightMatch(post.title, queries);
+        var highlightedExcerpt = highlightMatch(post.excerpt, queries);
         results.push({
           title: highlightedTitle,
           date: post.date,
@@ -74,11 +75,14 @@
     return results;
   }
 
-  function highlightMatch(text, query) {
-    var regex = new RegExp(query, 'gi');
-    return text.replace(regex, function (match) {
-      return '<span class="highlight">' + match + '</span>';
+  function highlightMatch(text, queries) {
+    queries.forEach(function(query) {
+      var regex = new RegExp(query, 'gi');
+      text = text.replace(regex, function (match) {
+        return '<span class="highlight">' + match + '</span>';
+      });
     });
+    return text;
   }
 
   function getCurrentPageUrl() {
@@ -88,10 +92,9 @@
   function renderResults(results) {
     postList.innerHTML = '';
 
-    var searchQuery = searchInput.value.trim();
     var countElement = document.getElementById('result-count');
 
-    if (searchQuery === '') {
+    if (tags.length === 0) {
       countElement.innerHTML = 'Last 15 posts';
       noResultsMessage.style.display = 'none';
 
@@ -165,16 +168,52 @@
     }
   }
 
-  // Get the search query from the URL
-  var searchQuery = new URLSearchParams(window.location.search).get('search');
-  if (searchQuery) {
-    searchInput.value = searchQuery;
+  function createTagElement(query) {
+    var tag = document.createElement('div');
+    tag.classList.add('tag');
+    tag.textContent = query;
+
+    var removeButton = document.createElement('span');
+    removeButton.textContent = '×';
+    removeButton.classList.add('remove-tag');
+    removeButton.onclick = function () {
+      var index = tags.indexOf(query);
+      if (index > -1) {
+        tags.splice(index, 1);
+        searchInputContainer.removeChild(tag);
+        renderResults(search(tags));
+      }
+    };
+
+    tag.appendChild(removeButton);
+    return tag;
   }
 
-  searchInput.addEventListener('input', function () {
-    var query = searchInput.value;
-    var results = search(query);
-    renderResults(results);
+  function addTag(query) {
+    if (query && !tags.includes(query)) {
+      tags.push(query);
+      var tagElement = createTagElement(query);
+      searchInputContainer.insertBefore(tagElement, searchInput);
+    }
+    searchInput.value = '';
+    renderResults(search(tags));
+  }
+
+  // Handle Enter key to add a new tag
+  searchInput.addEventListener('keydown', function (event) {
+    if (event.key === 'Enter' && searchInput.value.trim() !== '') {
+      event.preventDefault();
+      addTag(searchInput.value.trim());
+    }
+  });
+
+  // Handle suggestion clicks
+  document.addEventListener('click', function(event) {
+    if (event.target.classList.contains('suggestion-item')) {
+      event.preventDefault();
+      var suggestionText = event.target.textContent;
+      addTag(suggestionText);
+    }
   });
 
   // Initial render of the first 15 posts
