@@ -7,13 +7,13 @@ Any other accounts not listed are not run by me and are not being truthful. If y
 
 ### Social Media
 
+Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
+
 Twitter: [@tacticsjournal](https://twitter.com/tacticsjournal)
 
 Facebook: [https://www.facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal) 
 
 BlueSky: [@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)
-
-Mastodon: [https://mastodon.social/@tacticsjournal](https://mastodon.social/@tacticsjournal)
 
 YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
 
