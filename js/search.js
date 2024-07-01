@@ -41,6 +41,14 @@
     {% endfor %}
   ];
 
+  function parseDate(query) {
+    var dateParts = query.split('-');
+    if (dateParts.length === 3) {
+      return new Date(dateParts[0], dateParts[1] - 1, dateParts[2]); // year, month (0-based), day
+    }
+    return null;
+  }
+
   function search(queries) {
     var results = [];
 
@@ -51,11 +59,20 @@
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
       var match = queries.every(function(query) {
-        return post.title.toLowerCase().includes(query.toLowerCase()) ||
+        var dateMatch = false;
+        if (query.includes('date:')) {
+          var dateQuery = query.replace('date:', '').trim();
+          var queryDate = parseDate(dateQuery);
+          if (queryDate) {
+            var postDate = new Date(post.date);
+            dateMatch = postDate.toDateString() === queryDate.toDateString();
+          }
+        }
+        return dateMatch ||
+               post.title.toLowerCase().includes(query.toLowerCase()) ||
                post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
                post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-               post.categories.toLowerCase().includes(query.toLowerCase()) ||
-               post.date.toLowerCase().includes(query.toLowerCase()); // Add search in categories and date
+               post.categories.toLowerCase().includes(query.toLowerCase()); // Add search in categories
       });
 
       if (match) {
@@ -183,7 +200,7 @@
       if (index > -1) {
         tags.splice(index, 1);
         searchInputContainer.removeChild(tag);
-        renderResults(search(tags.concat(searchInput.value.trim())));
+        renderResults(search(tags));
       }
     };
 
@@ -198,7 +215,7 @@
       searchInputContainer.insertBefore(tagElement, searchInput);
     }
     searchInput.value = '';
-    renderResults(search(tags.concat(searchInput.value.trim())));
+    renderResults(search(tags));
   }
 
   // Handle Enter key to add a new tag
@@ -206,8 +223,6 @@
     if (event.key === 'Enter' && searchInput.value.trim() !== '') {
       event.preventDefault();
       addTag(searchInput.value.trim());
-    } else {
-      renderResults(search(tags.concat(searchInput.value.trim())));
     }
   });
 
@@ -218,11 +233,6 @@
       var suggestionText = event.target.textContent;
       addTag(suggestionText);
     }
-  });
-
-  // Handle typing in the search input
-  searchInput.addEventListener('input', function() {
-    renderResults(search(tags.concat(searchInput.value.trim())));
   });
 
   // Initial render of the first 15 posts
