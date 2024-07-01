@@ -37,7 +37,7 @@ Rodri could switch to Lamine Yamal, pass to the left from where the ball last ca
     <figcaption>Figure 2.2a - Pedri takes a touch and passes back to the center-back, who then passes out to Lamine Yamal. </figcaption>
 </figure>
 
-Rodri turns and with his third touch he chooses to play the most forward pass central to Pedri. No hesitation. If there was space open behind when Pedri received the ball, he could turn to play the center-forward in. When Pedri receives the ball, he takes his touch forward, and Georgia's midfield collapses on him. He allows them to collapse and then passes backward.
+Rodri turns and with his third touch he chooses to play the most forward pass central to Pedri. No hesitation. If there was space open behind Pedri when he received the ball, he could turn to play the center-forward in. When Pedri receives the ball, he takes his touch forward, and Georgia's midfield collapses on him. He allows them to collapse and then passes backward.
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_00:44:06.png">
