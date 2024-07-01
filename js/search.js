@@ -76,9 +76,8 @@
       });
 
       if (match) {
-        var textQueries = queries.filter(query => !query.includes('date:'));
-        var highlightedTitle = highlightMatch(post.title, textQueries);
-        var highlightedExcerpt = highlightMatch(post.excerpt, textQueries);
+        var highlightedTitle = highlightMatch(post.title, queries);
+        var highlightedExcerpt = highlightMatch(post.excerpt, queries);
         results.push({
           title: highlightedTitle,
           date: post.date,
@@ -96,7 +95,7 @@
 
   function highlightMatch(text, queries) {
     queries.forEach(function(query) {
-      var regex = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'); // Escape special characters in query
+      var regex = new RegExp(query, 'gi');
       text = text.replace(regex, function (match) {
         return '<span class="highlight">' + match + '</span>';
       });
@@ -224,6 +223,13 @@
       event.preventDefault();
       addTag(searchInput.value.trim());
     }
+  });
+
+  // Filter results as the user types
+  searchInput.addEventListener('input', function () {
+    var inputText = searchInput.value.trim();
+    var tempTags = inputText ? tags.concat([inputText]) : tags;
+    renderResults(search(tempTags));
   });
 
   // Handle suggestion clicks
