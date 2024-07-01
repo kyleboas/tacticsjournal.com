@@ -41,6 +41,14 @@
     {% endfor %}
   ];
 
+  function parseDate(query) {
+    var dateParts = query.split('-');
+    if (dateParts.length === 3) {
+      return new Date(dateParts[0], dateParts[1] - 1, dateParts[2]); // year, month (0-based), day
+    }
+    return null;
+  }
+
   function search(queries) {
     var results = [];
 
@@ -51,7 +59,17 @@
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
       var match = queries.every(function(query) {
-        return post.title.toLowerCase().includes(query.toLowerCase()) ||
+        var dateMatch = false;
+        if (query.includes('date:')) {
+          var dateQuery = query.replace('date:', '').trim();
+          var queryDate = parseDate(dateQuery);
+          if (queryDate) {
+            var postDate = new Date(post.date);
+            dateMatch = postDate.toDateString() === queryDate.toDateString();
+          }
+        }
+        return dateMatch ||
+               post.title.toLowerCase().includes(query.toLowerCase()) ||
                post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
                post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
                post.categories.toLowerCase().includes(query.toLowerCase()) ||
