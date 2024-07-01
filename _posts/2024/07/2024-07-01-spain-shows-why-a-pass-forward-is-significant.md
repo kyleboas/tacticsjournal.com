@@ -86,4 +86,4 @@ The two most important passes when you want to play central are either the pass 
 
 Force the opposition to collapse centrally with a forward pass into the center of the pitch, play out of that immediate pressure, and then take advantage of the space between each defender when they expand, either centrally or in the half-spaces.
 
-The pass doesn't even have to break a line; it just needs to move straight up and down the middle of the pitch. Every midfielder is obsessed with playing forward because it opens space centrally. Finding the least obvious pass is the job of the six. If you are not obsessed with that, enjoy the wings and the horseshoe with no progression.
+The pass doesn't even have to break a line; it just needs to move straight up and down the middle of the pitch. Every midfielder is obsessed with playing forward because it opens space centrally. Finding the least obvious pass is the job of the holding midfielder. It is a mindset. Passing side to side is fine but if you are not obsessed with passing forward, enjoy the wings and the horseshoe around with no progression. 
