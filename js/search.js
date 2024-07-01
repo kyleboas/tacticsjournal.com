@@ -76,8 +76,9 @@
       });
 
       if (match) {
-        var highlightedTitle = highlightMatch(post.title, queries);
-        var highlightedExcerpt = highlightMatch(post.excerpt, queries);
+        var textQueries = queries.filter(query => !query.includes('date:'));
+        var highlightedTitle = highlightMatch(post.title, textQueries);
+        var highlightedExcerpt = highlightMatch(post.excerpt, textQueries);
         results.push({
           title: highlightedTitle,
           date: post.date,
@@ -95,7 +96,7 @@
 
   function highlightMatch(text, queries) {
     queries.forEach(function(query) {
-      var regex = new RegExp(query, 'gi');
+      var regex = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'); // Escape special characters in query
       text = text.replace(regex, function (match) {
         return '<span class="highlight">' + match + '</span>';
       });
