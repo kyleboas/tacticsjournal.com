@@ -54,7 +54,8 @@
         return post.title.toLowerCase().includes(query.toLowerCase()) ||
                post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
                post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
-               post.categories.toLowerCase().includes(query.toLowerCase()); // Add search in categories
+               post.categories.toLowerCase().includes(query.toLowerCase()) ||
+               post.date.toLowerCase().includes(query.toLowerCase()); // Add search in categories and date
       });
 
       if (match) {
@@ -181,7 +182,7 @@
       if (index > -1) {
         tags.splice(index, 1);
         searchInputContainer.removeChild(tag);
-        renderResults(search(tags));
+        renderResults(search(tags.concat(searchInput.value.trim())));
       }
     };
 
@@ -196,7 +197,7 @@
       searchInputContainer.insertBefore(tagElement, searchInput);
     }
     searchInput.value = '';
-    renderResults(search(tags));
+    renderResults(search(tags.concat(searchInput.value.trim())));
   }
 
   // Handle Enter key to add a new tag
@@ -204,6 +205,8 @@
     if (event.key === 'Enter' && searchInput.value.trim() !== '') {
       event.preventDefault();
       addTag(searchInput.value.trim());
+    } else {
+      renderResults(search(tags.concat(searchInput.value.trim())));
     }
   });
 
@@ -214,6 +217,11 @@
       var suggestionText = event.target.textContent;
       addTag(suggestionText);
     }
+  });
+
+  // Handle typing in the search input
+  searchInput.addEventListener('input', function() {
+    renderResults(search(tags.concat(searchInput.value.trim())));
   });
 
   // Initial render of the first 15 posts
