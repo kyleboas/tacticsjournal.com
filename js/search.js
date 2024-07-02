@@ -231,6 +231,18 @@
     var tempTags = inputText ? tags.concat([inputText]) : tags;
     renderResults(search(tempTags));
   });
+  
+// Get the search query from the URL
+  var searchQuery = new URLSearchParams(window.location.search).get('search');
+  if (searchQuery) {
+    searchInput.value = searchQuery;
+  }
+  
+searchInput.addEventListener('input', function () {
+    var query = searchInput.value;
+    var results = search(query);
+    renderResults(results);
+  });
 
   // Handle suggestion clicks
   document.addEventListener('click', function(event) {
