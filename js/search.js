@@ -93,6 +93,7 @@
   function renderResults(results) {
     postList.innerHTML = '';
 
+    var searchQuery = searchInput.value.trim();
     var countElement = document.getElementById('result-count');
 
     if (tags.length === 0) {
@@ -144,16 +145,15 @@
       noResultsMessage.style.display = 'none';
 
       for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-        var li = document.createElement('li');
-        li.classList.add('post-item');
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
 
-        var a = document.createElement('a');
-        a.href = result.link ? result.link : result.url; // Use link if it exists
-        a.target = '_blank'; // Open link in a new tab
-        a.innerHTML = result.title;
-        a.classList.add('long-title');
-        li.appendChild(a);
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      a.classList.add('long-title');
+      li.appendChild(a);
 
         var dateElement = document.createElement('p');
         dateElement.classList.add('post-date');
