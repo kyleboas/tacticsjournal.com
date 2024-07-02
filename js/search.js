@@ -112,7 +112,7 @@
 
     var countElement = document.getElementById('result-count');
 
-    if (tags.length === 0) {
+    if (tags.length === 0 && !searchInput.value.trim()) {
       countElement.innerHTML = 'Last 15 posts';
       noResultsMessage.style.display = 'none';
 
