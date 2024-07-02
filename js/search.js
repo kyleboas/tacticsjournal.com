@@ -49,16 +49,16 @@
     return null;
   }
 
-  function search(query) {
+  function search(queries) {
     var results = [];
 
-    if (query.length === 0) {
+    if (queries.length === 0) {
       return posts; // Return all posts if no query is provided or if it's blank
     }
 
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
-      var match = query.every(function(query) {
+      var match = queries.every(function(query) {
         var dateMatch = false;
         if (query.includes('date:')) {
           var dateQuery = query.replace('date:', '').trim();
@@ -76,8 +76,8 @@
       });
 
       if (match) {
-        var highlightedTitle = highlightMatch(post.title, query);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query);
+        var highlightedTitle = highlightMatch(post.title, queries);
+        var highlightedExcerpt = highlightMatch(post.excerpt, queries);
         results.push({
           title: highlightedTitle,
           date: post.date,
@@ -93,7 +93,7 @@
     return results;
   }
 
-  function highlightMatch(text, query) {
+  function highlightMatch(text, queries) {
     queries.forEach(function(query) {
       var regex = new RegExp(query, 'gi');
       text = text.replace(regex, function (match) {
