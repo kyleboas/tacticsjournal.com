@@ -35,6 +35,6 @@ In a high-stakes, must-win game, the protagonist needs individuals who can act a
 
 A team without a high-impact talisman can struggle when they are the protagonist against an equal opponent. Austria have not lost under Ralf Rangnick when they have forty to fifty percent possession, but they lost to Belgium when they had the majority of the ball, fifty-eight percent possession, in European qualification back in October 2023. 
 
-Spain has Lamine Yamal, Germany has Jamal Musiala, Portugal has Cristiano Ronaldo, France has Kylian Mbappe, the Netherlands has Cody Gakpo, Türkiye has Arda Guller, England has Jude Bellingham, and Switzerland has the same issue as Austria. Who will you look to when your team needs a goal, and do you have several talismans if one is not performing? 
+Spain has Lamine Yamal, Germany has Jamal Musiala, Portugal has Cristiano Ronaldo, France has Kylian Mbappe, the Netherlands has Cody Gakpo, Türkiye has Arda Güler, England has Jude Bellingham, and Switzerland has the same issue as Austria. Who will you look to when your team needs a goal, and do you have several talismans if one is not performing? 
 
 *Cover photo credit to [CONMEBOL Copa América](https://x.com/copaamerica_eng/status/1806522075995164765?s=46&t=EwWKBMyY400eGGXYwoRkiw)* 
