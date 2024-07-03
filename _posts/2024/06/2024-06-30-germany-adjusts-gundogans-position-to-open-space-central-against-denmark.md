@@ -24,7 +24,7 @@ Switzerland used [their long cover-shadow and short cover-shadow](https://tactic
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/29/Image-29Jun2024_23%3A07%3A33.png">
-    <figcaption>Figure 1.1 - İlkay Gündoğan is behind Florian Wirtz and Jamal Musiala, with Robert Andrich in a pocket of space. </figcaption>
+    <figcaption>Figure 2.1 - İlkay Gündoğan is behind Florian Wirtz and Jamal Musiala, with Robert Andrich in a pocket of space. </figcaption>
 </figure>
 
 Against Denmark, İlkay Gündoğan sat behind Jamal Musiala and Leroy Sané which opened space for Robert Andrich, Toni Kroos, or Jamal Musiala when he dropped into that space ahead of Germany's back line. Denmark did not defend as well as Switzerland did, but it helps to have more time and space to work against a similar defensive structure. 
@@ -39,7 +39,7 @@ In order to facilitate 'deep runs' with short to medium-length passes through, y
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/30/Image-30Jun2024_00:50:27.png">
-    <figcaption>Figure 1.1 - The ball is played into İlkay Gündoğan's feet; he passes back-and-forth once with Jamal Musiala; Gündoğan passes to Robert Andrich; and then out to Joshua Kimmich. </figcaption>
+    <figcaption>Figure 3.1 - The ball is played into İlkay Gündoğan's feet; he passes back-and-forth once with Jamal Musiala; Gündoğan passes to Robert Andrich; and then out to Joshua Kimmich. </figcaption>
 </figure>
 
 The periods in which Germany had the most joy were when they got the ball into the feet of İlkay Gündoğan because the space was already created for Andrich. Receive central, attract the defense to the ball, play out to the free man, then play the ball through to the runners from deep. 
