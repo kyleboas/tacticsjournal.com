@@ -3,7 +3,7 @@ layout: post
 date: 2024-07-04 11:00 UTC
 title: "Focus on the eyes, and the head, and the legs of the players and teach the game"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/03/Image-03Jul2024_23:44:38.png"
-tweet: "We talk about what we see from a birds eye view but what each individual player sees is unique. That's why this @ReneMaric quote from @ground_guru podcast, "focus on the eyes, and the head, and the legs of the players, and teach the game," sticks with me."
+tweet: "We talk about what we see from a birds eye view but what each individual player sees is unique. That's why this @ReneMaric quote from @ground_guru podcast, 'focus on the eyes, and the head, and the legs of the players, and teach the game,' sticks with me."
 ---
 
 We talk about what we see from a birds eye view but what each individual player sees is unique. That's why this René Marić quote from the Training Ground Guru podcast, "focus on the eyes, and the head, and the legs of the players, and teach the game," sticks with me.
