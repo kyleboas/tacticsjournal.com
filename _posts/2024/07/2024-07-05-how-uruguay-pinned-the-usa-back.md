@@ -33,6 +33,6 @@ Uruguay's way of countering this movement was to target the opposite side of the
 
 Uruguay pinning Robinson back was their way of maintaining their role as the [protagonist](https://tacticsjournal.com/2024/07/03/antagonists-to-protagonists/) in the match. Whenever the USA regained possession, Robinson would have to travel all the way up the wing, up and down, up and down.  
 
-The USA had the numerical advantage in the midfield, so if they had a versatile midfielder who could defend the wide areas on their left, they would have had the ability to use one of those midfielders as cover for Robinson when he got forward, but it seems none of their midfielders are capable of marking Nicolás de la Cruz or Darwin Nunez. Therefore, the USA was always at a disadvantage in possession. 
+The USA had the numerical advantage in the midfield, so if they had a versatile midfielder who could defend the wide areas on their left, they would have had the ability to use one of those midfielders as cover for Robinson when he got forward, but it seems none of their midfielders are capable of marking Nicolás de la Cruz or Darwin Nunez. Therefore, the USA was always at a disadvantage in possession because they could never get in a rhythm.
 
 *Match: USA 0-1 Uruguay, 2 July 2024*
