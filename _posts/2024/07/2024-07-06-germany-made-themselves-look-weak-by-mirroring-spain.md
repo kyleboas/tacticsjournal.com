@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-07-05 11:00 UTC
+date: 2024-07-06 11:00 UTC
 title: "Germany made themselves look weak by mirroring Spain"
 categories:
 - "Euro 2024"
