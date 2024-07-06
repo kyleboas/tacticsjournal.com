@@ -53,7 +53,7 @@ It is not fighting fire with fire; it is trying to remix a platinum record. It i
 
 It did not unsettle Spain because they have too much quality. It opened more space for Spain in transition to attack and in the penalty area for Moratta. When they lost the ball, it placed Germany on the back foot. They gave up possession unnecessarily when they tried to pass quicker.
 
-It made them look weaker because when they play their game, the battle is more even, like in the second half when they brought Robert Andrich, Maximilian Mittelstädt, Niclas Füllkrug, and Florian Wirtz. Germany is stronger and taller, but Spain is more technically gifted and faster. Play to your strengths, not the opponent's.
+It made them look weaker because when they play their game, the battle is more even, like in the second half when they brought on Robert Andrich, Maximilian Mittelstädt, Niclas Füllkrug, and Florian Wirtz. Germany is stronger and taller, but Spain is more technically gifted and faster. Play to your strengths, not the opponent's.
 
 Germany only seemed likely to score once they were bailed out by Spain's lack of planning with their substitutions. Spain bet on the fact that they could score and then hold the lead when they subbed off Lamine Yamal, Alvaro Morata, and Nico Williams. They were never going to go the full 90 minutes, but to switch to a front three made up of Dani Olmo on the left-wing, Mikel Oyarzabel up-top, and Ferran Torres at right-wing made little sense in regards to scoring or maintaining possession. Oyarzabel is not a center forward. Balance was restored in extra-time when Joselu was brought on up-top, moving Oyarzabel out of the center-forward position. 
 
