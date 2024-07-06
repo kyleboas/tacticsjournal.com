@@ -2,52 +2,14 @@
 layout: default
 ---
 
-<div class="searchInput">
-  <input type="text" id="search-input1" placeholder="Search teams...">
-  <input type="text" id="search-input2" placeholder="Search teams...">
-  <input type="text" id="search-input3" placeholder="Search competitions...">
-  <input type="text" id="search-input4" placeholder="Search...">
-  <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
-  <div class="resultBox">
-    <!-- here list are inserted from javascript -->
-  </div>
+<div style="display: flex; align-items: center; padding: 10px; background-color: #FECCCC; margin-bottom: 5px; margin-right: 2px;">
+    <img src="
+https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/06/Image-06Jul2024_15:55:56.png" alt="Image" style="margin-right: 10px;">
+    <p style="font-size: 14px; margin: 0;">
+        <strong>New ways to follow:</strong> 
+        <a href="https://whatsapp.com/channel/0029VacYvt42Jl8CmxkmnF0U">Follow on WhatsApp</a> 
+        or you can 
+        <a href="https://www.threads.net/@tacticsjournal">follow on Instagram Threads</a> 
+        to be notified when posts are published.
+    </p>
 </div>
-
-<ul id="post-list"></ul>
-
-<script>
-  window.addEventListener("DOMContentLoaded", function() {
-    var queryString = window.location.search;
-    var urlParams = new URLSearchParams(queryString);
-    var searchQuery1 = urlParams.get("search1");
-    var searchQuery2 = urlParams.get("search2");
-    var searchQuery3 = urlParams.get("search3");
-    var searchQuery4 = urlParams.get("search4");
-
-    if (searchQuery1) {
-      var searchInput1 = document.getElementById("search-input1");
-      searchInput1.value = searchQuery1;
-      searchInput1.dispatchEvent(new Event("input"));
-    }
-
-    if (searchQuery2) {
-      var searchInput2 = document.getElementById("search-input2");
-      searchInput2.value = searchQuery2;
-      searchInput2.dispatchEvent(new Event("input"));
-    }
-
-    if (searchQuery3) {
-      var searchInput3 = document.getElementById("search-input3");
-      searchInput3.value = searchQuery3;
-      searchInput3.dispatchEvent(new Event("input"));
-    }
-
-    if (searchQuery4) {
-      var searchInput4 = document.getElementById("search-input4");
-      searchInput4.value = searchQuery4;
-      searchInput4.dispatchEvent(new Event("input"));
-    }
-  });
-</script>
-<script src="/js/search-test.js"></script>
-<script src="/js/suggest.js"></script>
