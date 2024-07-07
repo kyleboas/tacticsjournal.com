@@ -776,6 +776,7 @@ margin-top: -20px;
 
 .footer .container { 
    background: rgb(238, 238, 238);
+   padding-top: 10px;
 }
 
 
@@ -905,7 +906,7 @@ body {
 
 .footer,
 #outer-wrapper:after {
-  height: 40px;
+  height: 80px;
 }
 
 @media screen and (max-width: 1000px) {
