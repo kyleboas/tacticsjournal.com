@@ -24,13 +24,13 @@ layout: default
 | Nov 11 – Nov 17 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Nov 18 – Nov 24 | <a href="mailto:kyle@tacticsjournal.com">Available</a>|
 
-PRICE: $350
+PRICE: $299
 
 To schedule a sponsorship or for additional information, <a href="mailto:kyle@tacticsjournal.com">email Kyle Boas</a>.
 
 ---
 
-Week-long sponsorships are available. This is the only way to promote your product or service specifically to the Tactics Journal’s audience of football fans.
+Week-long sponsorships are available for individuals and organizations. Whether you want to advertise an account, video, podcast, event, product, or service, this is the exclusive opportunity to reach the Tactics Journal's dedicated audience of football fans.
 
 ---
 
@@ -57,7 +57,7 @@ About Tactic Journal’s audience:
 
 ---
 
-Sponsorship is exclusive. Only one sponsor per week. The only rule I have is that I would not take any gambling sponsers.
+Sponsorship is exclusive. Only one sponsor per week. The only rule I have is that I would not take any gambling sponsors. 
 
 <style>
     table { font-size: 15px; }
