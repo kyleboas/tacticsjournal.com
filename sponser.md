@@ -11,27 +11,27 @@ layout: default
 
 | SCHEDULE: | |
 | --- | --- |
-| Aug 21 – Aug 27 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Aug 28 – Sep 3 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Sep 4 – Sep 10 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Sep 11 – Sep 17 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Sep 18 – Sep 24 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Sep 25 – Oct 1 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Oct 2 – Oct 8 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Oct 9 – Oct 15 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Oct 16 – Oct 22 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Oct 23 – Oct 29 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Oct 30 – Nov 5 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Nov 6 – Nov 12 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Nov 13 – Nov 19 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Nov 20 – Nov 26 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Nov 27 – Dec 3 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Dec 4 – Dec 10 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Dec 11 – Dec 17 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Dec 18 – Dec 24 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Dec 25 – Dec 31 | <a href="mailto:kyle@tacticsjournal.com">Available</a>|
+| Jul 15 – Jul 21 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Jul 22 – Jul 28 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Jul 29 – Aug 4 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Aug 5 – Aug 11 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Aug 12 – Aug 18 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Aug 19 – Oct 25 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Aug 26 – Sep 1 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Sep 2 – Sep 8 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Sep 9 – Sep 15 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Sep 16 – Sep 22 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Sep 23 – Sep 29 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Sep 30 – Oct 6 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Oct 7 – Oct 13 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Oct 14 – Oct 20 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Oct 21 – Oct 27 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Oct 28 – Nov 3 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Nov 4 – Nov 10 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Nov 11 – Nov 17 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
+| Nov 18 – Nov 24 | <a href="mailto:kyle@tacticsjournal.com">Available</a>|
 
-PRICE: $320
+PRICE: $299
 
 To schedule a sponsorship or for additional information, <a href="mailto:kyle@tacticsjournal.com">email Kyle Boas</a>.
 
