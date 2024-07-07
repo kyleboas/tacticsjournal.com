@@ -60,7 +60,7 @@ Gareth Southgate spoke to BBC 5 Live before the tournament started about making 
 
 > You are never as good as you think you are and you're never as bad as people might think. You are normally five percent away from where you need to be. There is a risk you rip things up and you then don’t have foundations to build on.
 
-You can understand why England would be opposed to making whole-scale changes in the middle of the tournament. They have tailored this role to stop France, Spain, and the Netherlands. This complex relationship between Walker and Saka needs time so they can build a rhythm. Any change would disrupt that rhythm because they'd have to adjust the way they defend to accommodate that change.
+You can understand why England would be opposed to making whole-scale changes in the middle of the tournament. They have tailored this role to stop France, Spain, and the Netherlands. This complex relationship between Walker and Saka needs time so they can build a rhythm. Any change would disrupt that rhythm because they'd have to adjust the way they defend to accommodate that change. Their plan has flaws but at least they have a plan. 
 
 This might be why they wanted someone like Trent Alexander-Arnold on the right to help overload the right, and why a ball-winner like Conor Gallagher was chosen to replace Alexander-Arnold when he lost his spot, but I think Phil Foden or Kobbie Mainoo are sufficient enough cover in defense.
 
