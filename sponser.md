@@ -39,6 +39,14 @@ To schedule a sponsorship or for additional information, <a href="mailto:kyle@ta
 
 Week-long sponsorships are available. This is the only way to promote your product or service specifically to the Tactics Journal’s audience of football fans.
 
+<div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px; margin-right: 2px;">
+    <img src="
+https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/06/Image-06Jul2024_20:15:45.png" alt="Image" style="height: 60px; margin-right: 10px;">
+    <p style="font-size: 14px; margin: 0;">
+        <a href="https://tacticsjournal.com/sponser">Tactics Journal</a> is offering an advertising spot for a sponsor to promote something. Learn more!
+    </p>
+</div>
+
 What sponsors get:
 
 - A display ad at the top of every page of the site, all week long.
