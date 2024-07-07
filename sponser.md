@@ -24,7 +24,7 @@ layout: default
 | Nov 11 – Nov 17 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Nov 18 – Nov 24 | <a href="mailto:kyle@tacticsjournal.com">Available</a>|
 
-PRICE: $299
+PRICE: $350
 
 To schedule a sponsorship or for additional information, <a href="mailto:kyle@tacticsjournal.com">email Kyle Boas</a>.
 
