@@ -31,7 +31,7 @@ layout: default
 | Dec 18 – Dec 24 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Dec 25 – Dec 31 | <a href="mailto:kyle@tacticsjournal.com">Available</a>|
 
-PRICE: $300
+PRICE: $320
 
 To schedule a sponsorship or for additional information, <a href="mailto:kyle@tacticsjournal.com">email Kyle Boas</a>.
 
@@ -42,13 +42,14 @@ Week-long sponsorships are available. This is the only way to promote your produ
 What sponsors get:
 
 - A display ad at the top of every page of the site, all week long.
-- A post from the sponsor will appear at the start of the week. You, the sponsor, get to address the Tactics Journal’s most dedicated readers directly. 
+- A post from the sponsor will appear at the start of the week on all social media channels. You, the sponsor, get to address the Tactics Journal’s most dedicated readers directly.
 
 About Tactic Journal’s audience:
 
-- Typical weekday web page views: 2,500-10,500
-- Estimated monthly web page views: 10,000-27,000
-- Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, Mastodon accounts: Over 26,000.
+- Typical weekday web page views: 1,500-3,000 or more
+- Estimated monthly web page views: 5,000-10,000 or more
+- Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, BlueSky, and WhatsApp accounts: Over 35,000.
+-
 
 Sponsorship is exclusive. Only one sponsor per week. The only rule I have is that I would not take any gambling sponsers.
 
