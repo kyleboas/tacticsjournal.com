@@ -50,7 +50,8 @@ About Tactic Journal’s audience:
 - Typical weekday web page views: 1,500-3,000 or more
 - Estimated monthly web page views: 5,000-10,000 or more
 - Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, BlueSky, and WhatsApp accounts: Over 35,000.
--
+
+---
 
 Sponsorship is exclusive. Only one sponsor per week. The only rule I have is that I would not take any gambling sponsers.
 
