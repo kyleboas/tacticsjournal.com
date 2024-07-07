@@ -2,10 +2,11 @@
 layout: default
 ---
 
-<div style="display: flex;align-items: center;margin-bottom: 30px;background-color: #FECCCC;">
-    <img style="width: 40px;position: relative;margin-left: 5px;" src="https://i.imgur.com/W7MnbOH.png">
-    <p style="font-size: 14px;padding-left: 10px;/* background-color: #FECCCC; */margin-right: 10px;">
-        This is what an ad banner will look like. You get to write what goes here and it will be displayed at the top of every page.
+<div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px; margin-right: 2px;">
+    <img src="
+https://i.imgur.com/W7MnbOH.png:15:45.png" alt="Image" style="height: 60px; margin-right: 10px;">
+    <p style="font-size: 14px; margin: 0;">
+        <a href="https://tacticsjournal.com/sponser">Tactics Journal</a> is offering an advertising spot for a sponsor to promote something. Learn more!
     </p>
 </div>
 
@@ -38,14 +39,6 @@ To schedule a sponsorship or for additional information, <a href="mailto:kyle@ta
 ---
 
 Week-long sponsorships are available. This is the only way to promote your product or service specifically to the Tactics Journal’s audience of football fans.
-
-<div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px; margin-right: 2px;">
-    <img src="
-https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/06/Image-06Jul2024_20:15:45.png" alt="Image" style="height: 60px; margin-right: 10px;">
-    <p style="font-size: 14px; margin: 0;">
-        <a href="https://tacticsjournal.com/sponser">Tactics Journal</a> is offering an advertising spot for a sponsor to promote something. Learn more!
-    </p>
-</div>
 
 What sponsors get:
 
