@@ -1,5 +1,6 @@
 ---
 layout: default
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_19:00:14.png"
 ---
 
 | SCHEDULE: | |
