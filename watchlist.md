@@ -4,7 +4,7 @@ layout: page
 description: "My watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube."
 ---
  
-<p><em>last updated: 25 April 2024</em></p>
+<p><em>last updated: 7 July 2024</em></p>
 
 <p>Here is my watchlist of players who I think are undervalued. They are listed in order by position, split into three age groups. For each player I have included both a link to their FBref page and a video compilation from YouTube.</p>
 
@@ -224,7 +224,6 @@ description: "My watchlist of players who I think are undervalued. They are list
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
-|[Romeo Lavia](https://fbref.com/en/players/ecad9aa5/Romeo-Lavia)|Southampton|<a href="https://youtu.be/m7un1EAEDhY"><i class="fa-solid fa-video"></i></a>|4/23/23|
 |[Angel Gomes](https://fbref.com/en/players/645a3363/Angel-Gomes)|Lille|<a href="https://youtu.be/I9ORV0g0jdw"><i class="fa-solid fa-video"></i></a>|7/8/23|
 |[Adam Wharton](https://fbref.com/en/players/4b542852/Adam-Wharton)|Crystal Palace|<a href="https://youtu.be/HdGlKcnCCgg?si=yIKBNJh1pt3v8d8X"><i class="fa-solid fa-video"></i></a>|4/15/24|
 
@@ -244,6 +243,7 @@ description: "My watchlist of players who I think are undervalued. They are list
 
 |Name|Team| |Added|
 |:----|:----|:----|:----|
+|[Tijjani Reijnders](https://fbref.com/en/players/afb61630/Tijjani-Reijnders)|AC Milan|<a href="https://youtu.be/rxuOgEKKHDA?si=k6WyZDCs_bylRMZl"><i class="fa-solid fa-video"></i></a>|7/7/24|
 |[Olivier Boscagli](https://fbref.com/en/players/403f5d20/Olivier-Boscagli)|PSV|<a href="https://youtu.be/FZr9WVRMWF8?si=BoRMzHQsTj3eof2I"><i class="fa-solid fa-video"></i></a>|1/17/23|
 |[Manuel Locatelli](https://fbref.com/en/players/a8a874f1/Manuel-Locatelli)|Juventus| |1/17/24|
 |[Djibril Sow](https://fbref.com/en/players/4c6facae/Djibril-Sow)|Sevilla|<a href="https://youtu.be/fx95uxZrw5E"><i class="fa-solid fa-video"></i></a>|8/18/23|
