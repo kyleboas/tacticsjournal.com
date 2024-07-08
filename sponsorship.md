@@ -15,15 +15,6 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/0
 | Sep 2 – Sep 8 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Sep 9 – Sep 15 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Sep 16 – Sep 22 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Sep 23 – Sep 29 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Sep 30 – Oct 6 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Oct 7 – Oct 13 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Oct 14 – Oct 20 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Oct 21 – Oct 27 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Oct 28 – Nov 3 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Nov 4 – Nov 10 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Nov 11 – Nov 17 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
-| Nov 18 – Nov 24 | <a href="mailto:kyle@tacticsjournal.com">Available</a>|
 
 PRICE: $350
 
@@ -61,6 +52,7 @@ About Tactic Journal’s audience:
 Sponsorship is exclusive. Only one sponsor per week. The only rule I have is that I would not take any gambling sponsors. 
 
 <style>
-    table { font-size: 15px; }
+    table { font-size: 15px; float: left; padding-right: 30px; }
+    
     td { padding-left: 10px; }
 </style>
