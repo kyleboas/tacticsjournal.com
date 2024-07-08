@@ -22,7 +22,7 @@ To schedule a sponsorship or for additional information, <a href="mailto:kyle@ta
 
 ---
 
-Week-long sponsorships are available for individuals and organizations. Whether you want to advertise an account, video, podcast, event, product, or service, this is the exclusive opportunity to reach the Tactics Journal's dedicated audience of football fans, coaches, analysts, scouts, professionals.
+Week-long sponsorships are available for individuals and organizations. Whether you want to advertise an account, video, podcast, event, product, or service, this is the exclusive opportunity to reach the Tactics Journal's dedicated audience of football fans, coaches, analysts, scouts, and professionals.
 
 ---
 
