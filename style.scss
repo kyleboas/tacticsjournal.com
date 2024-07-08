@@ -14,6 +14,14 @@
     }
 }
 
+@media (min-width: 750px) { 
+    .footer, #outer-wrapper::after 
+          { 
+         padding-left: 20px;
+         padding-right: 20px;
+    }
+}
+ 
 header { 
   padding-top: 5px;
   padding-bottom: 5px;
