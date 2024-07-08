@@ -30,4 +30,10 @@ We need to win; we can't just entertain. That is the nature of the sport. One-tw
 
 They will come up with solutions that will bring back the entertainers, and that style of football is more attractive.
 
+Marcelo Bielsa:
+
+> Football is popular property. The poor have very little ability to access happiness because they do not have money to buy happiness. That football, which is one of the few things that the poorest maintain horizontally, they no longer have.
+
+Football needs to be free and accessible for all and the kids need to be given a platforms to express themselves, find their own solutions, and practice spontaneity so we can have more entertainers in the future.
+
 *[Translation credit to Juani Jimena](https://x.com/jimenajuani/status/1809577998347051348?s=46&t=YC8lQJTh43E_mBQW40Ct2g)*
