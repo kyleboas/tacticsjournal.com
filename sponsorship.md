@@ -38,7 +38,7 @@ https://i.imgur.com/W7MnbOH.png:15:45.png" alt="Image" style="height: 60px; marg
 
 What sponsors get:
 
-- A display ad at the top of every page of the site, all week long.
+- A display ad at the top of every  of the site, all week long.
 - A post from the sponsor will appear at the start of the week on all social media channels. You, the sponsor, get to address the Tactics Journal’s most dedicated readers directly.
 
 About Tactic Journal’s audience:

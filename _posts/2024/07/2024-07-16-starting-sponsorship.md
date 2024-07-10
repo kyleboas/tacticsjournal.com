@@ -32,7 +32,7 @@ I'd rather have someone or an organization that I believe in share something wit
 
 This is not something I'm only offering to companies or organizations to pitch their product or service. This is for anyone.
 
-Have a new YouTube channel or video you want to promote? Want to get people to sign up to read your newsletter? Did you just start a podcast? Want to share a teaching course? Have an event that you want to promote? Did you create a new social media account and want to get more followers? 
+Just started a blog but want more visitors? Have a new YouTube channel or video you want to promote? Want to get people to sign up to read your newsletter? Did you just start a podcast? Want to share a teaching course? Have an event that you want to promote? Did you create a new social media account and want to get more followers? 
 
 This is something that can help you get the word out to other likeminded football fans, coaches, analysts, scouts, and professionals.
 
