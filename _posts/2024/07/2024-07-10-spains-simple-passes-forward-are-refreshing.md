@@ -53,6 +53,6 @@ Dani Olmo has room to the right of the defender closest to him because Theo Hern
 
 Like Lamine Yamal, Dani Olmo would not have this space without the two forward passes. It doesn't even need to be a long, progressive pass to force the defense to collapse on the ball. 
 
-The sick thing is that Spain of all teams should be playing sideways because Nico Williams and Lamine Yamal are world-class in isolation one-on-one, but they are creating even more space and opportunities by passing forward. Pass forward if you want space central because it creates space wide, and then play back inside to take advantage of that space like Spain did. 
+The sick thing is that Spain of all teams should be playing sideways because Nico Williams and Lamine Yamal are world-class in isolation one-on-one, but they are creating even more space and opportunities by passing forward. Pass forward if you want space central because it creates space wide, and then play back inside to take advantage of that space like Spain did. That pass initiates the attack.
 
 *Match: Spain 2-1 France, 9 July 2024*
