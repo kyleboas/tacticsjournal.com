@@ -8,21 +8,21 @@ categories:
 tags:
 - "Spain"
 - "France"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:17:45.png"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:57:40.png"
 ---
 
 Watching France, Portugal, or England pass sideways is like drinking hot Dasani water in the sun, while watching Spain is like chugging an ice-cold glass of water in the shade. It's refreshing to see a team pass forward through the middle of the pitch.
 
-<!---more---> 
+<!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:17:39.png">
-    <figcaption>Figure 1.1 - Dani Carvajal passes forward to Dani Olmo, and the ball falls to Lamine Yamal.</figcaption>
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:57:41.png">
+    <figcaption>Figure 1.1 - Nacho Fernandez passes forward to Dani Olmo, and the ball falls to Lamine Yamal.</figcaption>
 </figure>
 
 [I've already talked about this](https://tacticsjournal.com/2024/07/01/spain-shows-why-a-pass-forward-is-significant/) but the two examples from both of Spain's goals are too hard to pass on because we have been deprived of scenarios like this while watching the other top teams.
 
-Spain play a simple pass forward, and France collapse on Dani Olmo. Even when Dani Olmo loses the ball, it bounces out to Lamine Yamal. Look at all the space that one pass from Dani Carvajal created in the wide areas. 
+Spain play a simple pass forward, and France collapse on Dani Olmo. Even when Dani Olmo loses the ball, it bounces out to Lamine Yamal. Look at all the space that one pass from Nacho Fernandez created in the wide areas. 
 
 This is an exaggerated example because Kylian Mbappe never tracks back to defend, therefore Jesús Navas is wide open on the right wing. 
 
@@ -33,7 +33,7 @@ This is an exaggerated example because Kylian Mbappe never tracks back to defend
 
 Naturally, France will both retreat and spread out to mark the players in the wide areas. Lamine Yamal smartly pauses, dribbles, and pauses to wait for this movement before curling in a shot from a distance for the first goal. 
 
-Lamine Yamal would never have this space without that first pass forward from Carvajal. It seems insignificant in the moment but it opens up the pitch. 
+Lamine Yamal would never have this space without that first pass forward from Nacho Fernandez. It seems insignificant in the moment but it opens up the pitch. 
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:17:42.png">
