@@ -31,7 +31,9 @@ This is an exaggerated example because Kylian Mbappe never tracks back to defend
     <figcaption>Figure 1.2 - Lamine Yamal scores from long distance.</figcaption>
 </figure>
 
-Naturally, France will both retreat and spread out to mark the players in the wide areas. Lamine Yamal smartly pauses, dribbles, and pauses to wait for this movement before curling in a shot from a distance for the first goal. Yamal would never have this space without that pass forward from Carvajal.
+Naturally, France will both retreat and spread out to mark the players in the wide areas. Lamine Yamal smartly pauses, dribbles, and pauses to wait for this movement before curling in a shot from a distance for the first goal. 
+
+Lamine Yamal would never have this space without that first pass forward from Carvajal. It seems insignificant in the moment but it opens up the pitch. 
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:17:42.png">
@@ -45,10 +47,12 @@ Naturally, France will both retreat and spread out to mark the players in the wi
 
 The second goal featured two forward passes. Force France to collapse on the ball; they chase the ball carrier; then Spain passes out wide where the space is. 
 
-Jesús Navas whips in a cross as Theo Hernandez tries to close him down. It gets knocked down from the six-yard box, for which the two center-backs have retreated, and it falls to Dani Olmo. 
+Jesús Navas whips in a cross as left-back Theo Hernandez tries to close him down. It gets knocked down from the six-yard box, for which the two center-backs have retreated, and it falls to Dani Olmo. 
 
-Theo Hernadez is preoccupied wide with the cross. Dani Olmo has room to the right of the defender closest to him; he fakes that defender out, dribbles past, and then shoots across goal. It deflects in off Jules Koundé at the back post. 
+Dani Olmo has room to the right of the defender closest to him because Theo Hernadez was preoccupied wide with the cross; he fakes that defender out, dribbles past, and then shoots across goal. It deflects in off Jules Koundé at the back post. 
 
-Like Lamine Yamal, Dani Olmo would not have this space without the two forward passes. It doesn't even need to be a long, progressive pass to force the defense to collapse on the ball. Pass forward if you want space central because to creates room wide. 
+Like Lamine Yamal, Dani Olmo would not have this space without the two forward passes. It doesn't even need to be a long, progressive pass to force the defense to collapse on the ball. 
+
+The sick thing is that Spain of all teams should be playing sideways because Nico Williams and Lamine Yamal are world-class in isolation one-on-one, but they are creating even more space and opportunities by passing forward. Pass forward if you want space central because it creates space wide, and then play back inside to take advantage of that space like Spain did. 
 
 *Match: Spain 2-1 France, 9 July 2024*
