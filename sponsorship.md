@@ -18,7 +18,7 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/0
 
 PRICE: $105
 
-To schedule a sponsorship or for additional information, <a href="mailto:kyle@tacticsjournal.com">email Kyle Boas</a>.
+To schedule a sponsorship or for additional information, email <a href="mailto:sponsors@tacticsjournal.com">sponsors@tacticsjournal.com</a>.
 
 ---
 

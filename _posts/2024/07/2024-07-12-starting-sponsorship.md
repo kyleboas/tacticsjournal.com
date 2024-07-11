@@ -63,7 +63,7 @@ I am not someone driven by analytics. I do not care about likes, retweets, repos
 
 But here are the recent stats, because I'm sure you are interested in knowing how many people you can reach:
 
-* Typical weekday web page views: 1,500–3,500
+* Typical weekday web page views: 1,500–3,000
 * Estimated monthly web page views: 5,000–10,000
 * Combined followers on the @TacticsJournal Twitter, Facebook, Threads, BlueSky, and WhatsApp accounts: over 35,000
 
@@ -71,6 +71,6 @@ I'm doing well for someone who started in 2023. I recently surpassed 137,000 vie
 
 ## How to Become a Sponsor
 
-If you are interested, simply send me an email. 
+If you are interested, simply send me an email <a href="mailto:sponsors@tacticsjournal.com">sponsors@tacticsjournal.com</a>.
 
 This idea of sponsorships is not unique; it was heavily inspired by a tech blogger I have followed for many years, John Gruber of [Daring Fireball](https://daringfireball.net). He tried a similar thing many years ago, and it has been working for him. I have a much smaller audience, but they are equally as dedicated. I thought I'd give it a try.
