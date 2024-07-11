@@ -195,6 +195,11 @@ h5:focus a {
    display: none;
 }
 
+ol, ul {
+  list-style-position: inside;
+  padding-left: 10px;
+} 
+
 ol li,
 ul li {
   margin-bottom: 7px;
