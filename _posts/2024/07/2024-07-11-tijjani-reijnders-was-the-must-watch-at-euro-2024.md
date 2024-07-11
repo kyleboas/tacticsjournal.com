@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-07-11 11:00 UTC
-title: "Tijjani Reijnders was a must-watch at Euro 2024"
+title: "Tijjani Reijnders was the must-watch at Euro 2024"
 categories:
 - "Euro 2024"
 - "International"
@@ -58,3 +58,5 @@ If he is not playing two or three touch, pass, and move, he is not afraid to car
 Jude Bellingham and Phil Foden need to be played to feet central without any hesitation from the passer. If England had someone like that in holding midfield, they'd always attack like they did in the first half, all match, every match. They didn't have that in the second half. It is simple when done correctly, and it is relentless.
 
 *Match: England 2-1 Netherlands, 10 July 2024*
+
+*Players: <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/afb61630/Tijjani-Reijnders?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-07-11_fb">Tijjani Reijnders</a>*
