@@ -3,17 +3,26 @@ layout: default
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_19:00:14.png" 
 ---
 
-SCHEDULE:
+**SCHEDULE:**
 
 Jul 15 – Jul 21 <a href="mailto:kyle@tacticsjournal.com">Available</a>
+
 Jul 22 – Jul 28 <a href="mailto:kyle@tacticsjournal.com">Available</a>
+
 Jul 29 – Aug 4 <a href="mailto:kyle@tacticsjournal.com">Available</a>
+
 Aug 5 – Aug 11 <a href="mailto:kyle@tacticsjournal.com">Available</a>
+
 Aug 12 – Aug 18 <a href="mailto:kyle@tacticsjournal.com">Available</a>
+
 Aug 19 – Oct 25 <a href="mailto:kyle@tacticsjournal.com">Available</a>
+
 Aug 26 – Sep 1 <a href="mailto:kyle@tacticsjournal.com">Available</a>
+
 Sep 2 – Sep 8 <a href="mailto:kyle@tacticsjournal.com">Available</a>
+
 Sep 9 – Sep 15 <a href="mailto:kyle@tacticsjournal.com">Available</a>
+
 Sep 16 – Sep 22 <a href="mailto:kyle@tacticsjournal.com">Available</a>
 
 PRICE: $105
