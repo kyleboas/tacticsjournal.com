@@ -16,7 +16,7 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/0
 | Sep 9 – Sep 15 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 | Sep 16 – Sep 22 | <a href="mailto:kyle@tacticsjournal.com">Available</a> |
 
-PRICE: $320
+PRICE: £250
 
 To schedule a sponsorship or for additional information, <a href="mailto:kyle@tacticsjournal.com">email Kyle Boas</a>.
 
