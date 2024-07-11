@@ -42,7 +42,7 @@ This is something that can help you get the word out to other likeminded footbal
 * There is only one sponsorship slot available per week.
 * I will only accept sponsorships from people or products that I believe will be of interest to Tactics Journal readers and that are worth their attention.
 * Ads should be 210 characters or less.
-* Starting price: $320 per week.
+* Starting price: £250 per week.
 * If you’re interested, contact me at sponsors@tacticsjournal.com. 
 
 The price of the sponsorship can increase or decrease at any time, depending on demand. No takers; I'll lower the price. There are a lot of takers; I'll raise the price.
