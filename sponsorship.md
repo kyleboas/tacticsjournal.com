@@ -26,9 +26,9 @@ Week-long sponsorships are available for individuals and organizations. Whether 
 
 ---
 
-<div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px; margin-right: 2px;">
+<div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px; margin-right: 2px; padding-left: 0px;">
     <img src="
-https://i.imgur.com/W7MnbOH.png:15:45.png" alt="Image" style="height: 60px; margin-right: 10px;">
+https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/08/Image-08Jul2024_01:55:02.png" alt="Image" style="height: 60px; margin-right: 10px;">
     <p style="font-size: 14px; margin: 0;">
         This is what an ad banner will look like. You get to write what goes here and it will be displayed at the top of every page.
     </p>
