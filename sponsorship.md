@@ -5,48 +5,25 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/0
 
 **SCHEDULE:**
 
-<div class="date-container">
-        <div class="date-item">
-            <span>Jul 15 – Jul 21</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-        <div class="date-item">
-            <span>Jul 22 – Jul 28</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-        <div class="date-item">
-            <span>Jul 29 – Aug 4</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-        <div class="date-item">
-            <span>Aug 5 – Aug 11</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-        <div class="date-item">
-            <span>Aug 12 – Aug 18</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-        <div class="date-item">
-            <span>Aug 19 – Oct 25</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-        <div class="date-item">
-            <span>Aug 26 – Sep 1</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-        <div class="date-item">
-            <span>Sep 2 – Sep 8</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-        <div class="date-item">
-            <span>Sep 9 – Sep 15</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-        <div class="date-item">
-            <span>Sep 16 – Sep 22</span>
-            <a href="mailto:sponsors@tacticsjournal.com">Available</a>
-        </div>
-</div>
+Jul 15 – Jul 21 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Jul 22 – Jul 28 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Jul 29 – Aug 4 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Aug 5 – Aug 11 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Aug 12 – Aug 18 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Aug 19 – Oct 25 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Aug 26 – Sep 1 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Sep 2 – Sep 8 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Sep 9 – Sep 15 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Sep 16 – Sep 22 <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 PRICE: $105
 
