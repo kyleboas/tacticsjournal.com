@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-07-11 11:00 UTC
-title: "Tijjani Reijnders was the must-watch at Euro 2024"
+title: "Tijjani Reijnders was my favorite player at Euro 2024"
 categories:
 - "Euro 2024"
 - "International"
