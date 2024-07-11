@@ -55,7 +55,7 @@ The price of the sponsorship can increase or decrease at any time, depending on 
 * You can place a link within the text to send the reader somewhere else. This will be a direct link; readers should trust what they're clicking on.
 * A post from the sponsor will appear at the start of the week on all social media channels. You, the sponsor, get to address the Tactics Journal’s most dedicated readers directly.
 
-The ad banner won't blink, pop out at you when you scroll, or spin. It'll sit at the top of the page. 
+The ad banner won't blink, pop out at you when you scroll, or spin. It'll sit at the top of the page.
 
 ## Analytics
 

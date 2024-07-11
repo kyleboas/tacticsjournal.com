@@ -22,7 +22,7 @@ To schedule a sponsorship or for additional information, email <a href="mailto:s
 
 ---
 
-Week-long sponsorships are available for individuals and organizations. Whether you want to advertise an account, video, podcast, event, product, or service, this is the exclusive opportunity to reach the Tactics Journal's dedicated audience of football fans, coaches, analysts, scouts, and professionals.
+Week-long sponsorships are available for individuals and organizations. Whether you want to advertise a blog, video, newsletter, podcast, event, product, or service, this is the exclusive opportunity to reach the Tactics Journal's dedicated audience of football fans, coaches, analysts, scouts, and professionals.
 
 ---
 
@@ -43,13 +43,13 @@ What sponsors get:
 
 About Tactic Journal’s audience:
 
-- Typical weekday web page views: 1,500-3,000 or more
-- Estimated monthly web page views: 5,000-10,000 or more
+- Typical weekday web page views: 1,500-3,000
+- Estimated monthly web page views: 5,000-10,000
 - Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, BlueSky, and WhatsApp accounts: Over 35,000
 
 ---
 
-Sponsorship is exclusive. Only one sponsor per week. The only rule I have is that I would not take any gambling sponsors. 
+Sponsorship is exclusive. Only one sponsor per week. I will not take any gambling sponsorships.
 
 <style>
     @media (min-width: 1000px) { table { font-size: 23px; float: left; padding-right: 35px; }
