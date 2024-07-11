@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-07-16 11:00 UTC
+date: 2024-07-17 11:00 UTC
 title: "Basic level versus playing ability"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/09/Image-09Jul2024_02:22:49.png"
 ---
