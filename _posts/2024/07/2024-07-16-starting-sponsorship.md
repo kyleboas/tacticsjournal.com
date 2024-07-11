@@ -42,7 +42,7 @@ This is something that can help you get the word out to other likeminded footbal
 * There is only one sponsorship slot available per week.
 * I will only accept sponsorships from people or products that I believe will be of interest to Tactics Journal readers and that are worth their attention.
 * Ads should be 210 characters or less.
-* Starting price: £200 per week.
+* Starting price: £105 per week.
 * If you’re interested, contact me at sponsors@tacticsjournal.com. 
 
 The price of the sponsorship can increase or decrease at any time, depending on demand. No takers; I'll lower the price. There are a lot of takers; I'll raise the price.
@@ -63,7 +63,7 @@ I am not someone driven by analytics. I do not care about likes, retweets, repos
 
 But here are the recent stats, because I'm sure you are interested in knowing how many people you can reach:
 
-* Typical weekday web page views: 1,500–3,000
+* Typical weekday web page views: 1,500–3,500
 * Estimated monthly web page views: 5,000–10,000
 * Combined followers on the @TacticsJournal Twitter, Facebook, Threads, BlueSky, and WhatsApp accounts: over 35,000
 
