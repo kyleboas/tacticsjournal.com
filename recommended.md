@@ -12,7 +12,6 @@ Here is a list of all the blogs, websites, YouTube channels, and Podcasts I foll
 ## Analysis 
 
 ### Organizations
-I'd love to write for all of these websites one day.
 
 * [Cano Football](https://www.canofootball.com/)
 * [Between The Posts](https://betweentheposts.net/)
