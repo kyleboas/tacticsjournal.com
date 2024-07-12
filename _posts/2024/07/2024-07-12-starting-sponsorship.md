@@ -43,7 +43,7 @@ This is something that can help you get the word out to other likeminded footbal
 * I will only accept sponsorships from people or products that I believe will be of interest to Tactics Journal readers and that are worth their attention.
 * Ads should be 210 characters or less.
 * Starting price: $105 per week.
-* If you’re interested, contact me at sponsors@tacticsjournal.com. 
+* If you’re interested, contact me at <a href="mailto:sponsors@tacticsjournal.com">sponsors@tacticsjournal.com</a>. 
 
 The price of the sponsorship can increase or decrease at any time, depending on demand. No takers; I'll lower the price. There are a lot of takers; I'll raise the price.
 
@@ -71,6 +71,6 @@ I'm doing well for someone who started in 2023. I recently surpassed 137,000 vie
 
 ## How to Become a Sponsor
 
-If you are interested, simply send me an email <a href="mailto:sponsors@tacticsjournal.com">sponsors@tacticsjournal.com</a>.
+If you are interested, simply send me an email at <a href="mailto:sponsors@tacticsjournal.com">sponsors@tacticsjournal.com</a>.
 
 This idea of sponsorships is not unique; it was heavily inspired by a tech blogger I have followed for many years, John Gruber of [Daring Fireball](https://daringfireball.net). He tried a similar thing many years ago, and it has been working for him. I have a much smaller audience, but they are equally as dedicated. I thought I'd give it a try.
