@@ -108,6 +108,12 @@
   }
 
   function renderResults(results) {
+    // Hide initial posts
+    var initialPosts = document.querySelectorAll('.initial-post');
+    initialPosts.forEach(function (post) {
+      post.style.display = 'none';
+    });
+
     postList.innerHTML = '';
 
     var searchQuery = searchInput.value.trim();
@@ -117,10 +123,13 @@
       countElement.innerHTML = 'Last 15 posts';
       noResultsMessage.style.display = 'none';
 
-      // Hide initial posts 
-   initialPosts.forEach(function(post)    { post.style.display = 'none';
+      // Filter out posts that match the current page's URL
+      var filteredResults = results.filter(function (post) {
+        return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
       });
 
+      // Show only the first 15 posts
+      var slicedResults = filteredResults.slice(0, 15);
 
       for (var i = 0; i < slicedResults.length; i++) {
         var result = slicedResults[i];
@@ -159,15 +168,15 @@
       noResultsMessage.style.display = 'none';
 
       for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
+        var result = results[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item');
 
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      a.classList.add('long-title');
-      li.appendChild(a);
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        a.classList.add('long-title');
+        li.appendChild(a);
 
         var dateElement = document.createElement('p');
         dateElement.classList.add('post-date');
@@ -228,14 +237,14 @@
     var tempTags = inputText ? tags.concat([inputText]) : tags;
     renderResults(search(tempTags));
   });
-  
-// Get the search query from the URL
+
+  // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
   if (searchQuery) {
     searchInput.value = searchQuery;
   }
-  
-searchInput.addEventListener('input', function () {
+
+  searchInput.addEventListener('input', function () {
     var query = searchInput.value;
     var results = search(query);
     renderResults(results);
