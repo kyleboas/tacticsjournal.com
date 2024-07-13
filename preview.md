@@ -3,9 +3,9 @@ layout: default
 permalink: /preview/
 ---
 
-<div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px; padding-left: 5px;">
+<div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px;">
     <img src="
-https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/12/Image-12Jul2024_13:42:15.png" alt="Image" style="width: 40px; margin-right: 10px;">
+https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-13Jul2024_19:28:03.png" alt="Image" style="width: 40px; margin-right: 10px;">
     <p style="font-size: 14px; margin: 0;">
         I have a Discord server where you can discuss football tactics. <a href="https://discord.gg/pQuympz34q">Join here.</a>
     </p>
