@@ -248,7 +248,7 @@
     var query = searchInput.value;
     var results = search(query);
     renderResults(results);
-  });
+  }); 
 
   // Handle suggestion clicks
   document.addEventListener('click', function(event) {
