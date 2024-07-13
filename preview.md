@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-
     <li class="post-item initial-post">
       <a href="{{ post.link | default: post.url }}" target="_blank" class="long-title">{{ post.title }}</a>
       <p class="post-date">{{ post.date | date: "%d %B %Y" }}</p>
-      <p>{{- post.content | replace: '"', '\"' | strip_newlines | strip -}}</p>
+      <p>{{ post.content }}</p>
     </li>
   {% endfor %}
 </ul>
@@ -69,4 +69,5 @@ https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-
   });
 </script>
 
+<script src="/js/search-test-test.js"></script>
 <script src="/js/suggest.js"></script>
