@@ -41,6 +41,14 @@
     {% endfor %}
   ];
 
+  function parseDate(query) {
+    var dateParts = query.split('-');
+    if (dateParts.length === 3) {
+      return new Date(dateParts[0], dateParts[1] - 1, dateParts[2]); // year, month (0-based), day
+    }
+    return null;
+  }
+
   function search(queries) {
     var results = [];
 
@@ -51,7 +59,17 @@
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
       var match = queries.every(function(query) {
-        return post.title.toLowerCase().includes(query.toLowerCase()) ||
+        var dateMatch = false;
+        if (query.includes('date:')) {
+          var dateQuery = query.replace('date:', '').trim();
+          var queryDate = parseDate(dateQuery);
+          if (queryDate) {
+            var postDate = new Date(post.date);
+            dateMatch = postDate.toDateString() === queryDate.toDateString();
+          }
+        }
+        return dateMatch ||
+               post.title.toLowerCase().includes(query.toLowerCase()) ||
                post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
                post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
                post.categories.toLowerCase().includes(query.toLowerCase()); // Add search in categories
@@ -92,19 +110,18 @@
   function renderResults(results) {
     postList.innerHTML = '';
 
+    var searchQuery = searchInput.value.trim();
     var countElement = document.getElementById('result-count');
 
-    if (tags.length === 0) {
+    if (tags.length === 0 && !searchInput.value.trim()) {
       countElement.innerHTML = 'Last 15 posts';
       noResultsMessage.style.display = 'none';
 
-      // Filter out posts that match the current page's URL
-      var filteredResults = results.filter(function (post) {
-        return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
+      // Hide initial posts 
+   initialPosts.forEach(function(post) {
+        post.style.display = 'none';
       });
 
-      // Show only the first 15 posts
-      var slicedResults = filteredResults.slice(0, 15);
 
       for (var i = 0; i < slicedResults.length; i++) {
         var result = slicedResults[i];
@@ -143,16 +160,15 @@
       noResultsMessage.style.display = 'none';
 
       for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-        var li = document.createElement('li');
-        li.classList.add('post-item');
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
 
-        var a = document.createElement('a');
-        a.href = result.link ? result.link : result.url; // Use link if it exists
-        a.target = '_blank'; // Open link in a new tab
-        a.innerHTML = result.title;
-        a.classList.add('long-title');
-        li.appendChild(a);
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      a.classList.add('long-title');
+      li.appendChild(a);
 
         var dateElement = document.createElement('p');
         dateElement.classList.add('post-date');
@@ -205,6 +221,25 @@
       event.preventDefault();
       addTag(searchInput.value.trim());
     }
+  });
+
+  // Filter results as the user types
+  searchInput.addEventListener('input', function () {
+    var inputText = searchInput.value.trim();
+    var tempTags = inputText ? tags.concat([inputText]) : tags;
+    renderResults(search(tempTags));
+  });
+  
+// Get the search query from the URL
+  var searchQuery = new URLSearchParams(window.location.search).get('search');
+  if (searchQuery) {
+    searchInput.value = searchQuery;
+  }
+  
+searchInput.addEventListener('input', function () {
+    var query = searchInput.value;
+    var results = search(query);
+    renderResults(results);
   });
 
   // Handle suggestion clicks
