@@ -108,89 +108,96 @@
   }
 
   function renderResults(results) {
-    postList.innerHTML = '';
+  postList.innerHTML = '';
 
-    var searchQuery = searchInput.value.trim();
-    var countElement = document.getElementById('result-count');
+  var searchQuery = searchInput.value.trim();
+  var countElement = document.getElementById('result-count');
 
-    if (tags.length === 0 && !searchInput.value.trim()) {
-      countElement.innerHTML = 'Last 15 posts';
-      noResultsMessage.style.display = 'none';
+  if (tags.length === 0 && !searchInput.value.trim()) {
+    countElement.innerHTML = 'Last 15 posts';
+    noResultsMessage.style.display = 'none';
 
-      // Filter out posts that match the current page's URL
-      var filteredResults = results.filter(function (post) {
-        return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
-      });
+    // Show initial posts when no tags are selected and no search is performed
+    var initialPosts = document.querySelectorAll('.initial-post');
+    initialPosts.forEach(function (post) {
+      post.style.display = 'block'; // Display initial posts
+    });
 
-      // Show only the first 15 posts
-      var slicedResults = filteredResults.slice(0, 15);
+    // Filter out posts that match the current page's URL
+    var filteredResults = results.filter(function (post) {
+      return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
+    });
 
-      for (var i = 0; i < slicedResults.length; i++) {
-        var result = slicedResults[i];
-        var li = document.createElement('li');
-        li.classList.add('post-item');
+    // Show only the first 15 posts
+    var slicedResults = filteredResults.slice(0, 15);
 
-        var a = document.createElement('a');
-        a.href = result.link ? result.link : result.url; // Use link if it exists
-        a.target = '_blank'; // Open link in a new tab
-        a.innerHTML = result.title;
-        a.classList.add('long-title');
-        li.appendChild(a);
+    for (var i = 0; i < slicedResults.length; i++) {
+      var result = slicedResults[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
 
-        var dateElement = document.createElement('p');
-        dateElement.classList.add('post-date');
-        dateElement.innerHTML = result.date;
-        li.appendChild(dateElement);
+      var a = document.createElement('a');
+      a.href = result.link ? result.link : result.url; // Use link if it exists
+      a.target = '_blank'; // Open link in a new tab
+      a.innerHTML = result.title;
+      a.classList.add('long-title');
+      li.appendChild(a);
 
-        var p = document.createElement('p');
-        if (i === 0) {
-          p.innerHTML = posts[0].content; // Display full content for the first post
-        } else {
-          p.innerHTML = result.excerpt; // Display excerpt for other posts
-        }
-        li.appendChild(p);
+      var dateElement = document.createElement('p');
+      dateElement.classList.add('post-date');
+      dateElement.innerHTML = result.date;
+      li.appendChild(dateElement);
 
-        postList.appendChild(li);
+      var p = document.createElement('p');
+      if (i === 0) {
+        p.innerHTML = posts[0].content; // Display full content for the first post
+      } else {
+        p.innerHTML = result.excerpt; // Display excerpt for other posts
       }
-    } else if (results.length === 0) {
-      countElement.innerHTML = 'No posts found';
-      noResultsMessage.style.display = 'block';
-    } else {
-      // Hide initial posts when search results are rendered
-      var initialPosts = document.querySelectorAll('.initial-post');
-      initialPosts.forEach(function (post) {
-        post.style.display = 'none';
-      });
+      li.appendChild(p);
 
-      var postsShown = results.length;
-      var totalCount = posts.length;
-      countElement.innerHTML = postsShown + ' posts found';
-      noResultsMessage.style.display = 'none';
+      postList.appendChild(li);
+    }
+  } else if (results.length === 0) {
+    countElement.innerHTML = 'No posts found';
+    noResultsMessage.style.display = 'block';
+  } else {
+    // Hide initial posts when search results are rendered
+    var initialPosts = document.querySelectorAll('.initial-post');
+    initialPosts.forEach(function (post) {
+      post.style.display = 'none'; // Hide initial posts
+    });
 
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
-        var li = document.createElement('li');
-        li.classList.add('post-item');
+    var postsShown = results.length;
+    var totalCount = posts.length;
+    countElement.innerHTML = postsShown + ' posts found';
+    noResultsMessage.style.display = 'none';
 
-        var a = document.createElement('a');
-        a.href = result.url;
-        a.innerHTML = result.title;
-        a.classList.add('long-title');
-        li.appendChild(a);
+    for (var i = 0; i < results.length; i++) {
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
 
-        var dateElement = document.createElement('p');
-        dateElement.classList.add('post-date');
-        dateElement.innerHTML = result.date;
-        li.appendChild(dateElement);
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      a.classList.add('long-title');
+      li.appendChild(a);
 
-        var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
-        li.appendChild(p);
+      var dateElement = document.createElement('p');
+      dateElement.classList.add('post-date');
+      dateElement.innerHTML = result.date;
+      li.appendChild(dateElement);
 
-        postList.appendChild(li);
-      }
+      var p = document.createElement('p');
+      p.innerHTML = result.excerpt;
+      li.appendChild(p);
+
+      postList.appendChild(li);
     }
   }
+}
+
 
   function createTagElement(query) {
     var tag = document.createElement('div');
