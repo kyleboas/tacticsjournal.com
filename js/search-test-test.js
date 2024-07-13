@@ -232,3 +232,5 @@
       addTag(suggestionText);
     }
   });
+  
+})();
