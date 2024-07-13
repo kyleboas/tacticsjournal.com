@@ -21,7 +21,15 @@ https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/12/Image-
   </div>
 </div>
 
-<ul id="post-list"></ul>
+<ul id="post-list">
+  {% for post in site.posts limit:15 %}
+    <li class="post-item initial-post">
+      <a href="{{ post.link | default: post.url }}" target="_blank" class="long-title">{{ post.title }}</a>
+      <p class="post-date">{{ post.date | date: "%d %B %Y" }}</p>
+      <p>{{ post.excerpt | strip_html | strip_newlines | escape }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
 <hr>
 

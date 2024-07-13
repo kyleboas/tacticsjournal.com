@@ -2,13 +2,11 @@
 ---
 
 (function () {
+  var searchInputContainer = document.getElementById('search-criteria-container');
   var searchInput = document.getElementById('search-input');
-  var searchTags1Input = document.getElementById('search-tags-1');
-  var searchTags2Input = document.getElementById('search-tags-2');
-  var searchCategoriesInput = document.getElementById('search-categories');
   var postList = document.getElementById('post-list');
-  var initialPosts = document.querySelectorAll('.initial-post');
   var noResultsMessage = document.getElementById('no-results-message');
+  var tags = [];
 
   if (!noResultsMessage) {
     noResultsMessage = document.createElement('div');
@@ -43,35 +41,43 @@
     {% endfor %}
   ];
 
-  function search(query, tags1, tags2, categories) {
+  function parseDate(query) {
+    var dateParts = query.split('-');
+    if (dateParts.length === 3) {
+      return new Date(dateParts[0], dateParts[1] - 1, dateParts[2]); // year, month (0-based), day
+    }
+    return null;
+  }
+
+  function search(queries) {
     var results = [];
+
+    if (queries.length === 0) {
+      return posts; // Return all posts if no query is provided or if it's blank
+    }
 
     for (var i = 0; i < posts.length; i++) {
       var post = posts[i];
-
-      var match = true;
-
-      if (query && query.trim() !== '') {
-        match &= post.title.toLowerCase().includes(query.toLowerCase()) ||
-                 post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
-                 post.date.toLowerCase().includes(query.toLowerCase());
-      }
-
-      if (tags1 && tags1.trim() !== '') {
-        match &= post.tags.toLowerCase().includes(tags1.toLowerCase());
-      }
-
-      if (tags2 && tags2.trim() !== '') {
-        match &= post.tags.toLowerCase().includes(tags2.toLowerCase());
-      }
-
-      if (categories && categories.trim() !== '') {
-        match &= post.categories.toLowerCase().includes(categories.toLowerCase());
-      }
+      var match = queries.every(function(query) {
+        var dateMatch = false;
+        if (query.includes('date:')) {
+          var dateQuery = query.replace('date:', '').trim();
+          var queryDate = parseDate(dateQuery);
+          if (queryDate) {
+            var postDate = new Date(post.date);
+            dateMatch = postDate.toDateString() === queryDate.toDateString();
+          }
+        }
+        return dateMatch ||
+               post.title.toLowerCase().includes(query.toLowerCase()) ||
+               post.excerpt.toLowerCase().includes(query.toLowerCase()) ||
+               post.tags.toLowerCase().includes(query.toLowerCase()) || // Add search in tags
+               post.categories.toLowerCase().includes(query.toLowerCase()); // Add search in categories
+      });
 
       if (match) {
-        var highlightedTitle = highlightMatch(post.title, query);
-        var highlightedExcerpt = highlightMatch(post.excerpt, query);
+        var highlightedTitle = highlightMatch(post.title, queries);
+        var highlightedExcerpt = highlightMatch(post.excerpt, queries);
         results.push({
           title: highlightedTitle,
           date: post.date,
@@ -87,44 +93,38 @@
     return results;
   }
 
-  function highlightMatch(text, query) {
-    if (!query) return text;
-    var regex = new RegExp(query, 'gi');
-    return text.replace(regex, function (match) {
-      return '<span class="highlight">' + match + '</span>';
+  function highlightMatch(text, queries) {
+    queries.forEach(function(query) {
+      var regex = new RegExp(query, 'gi');
+      text = text.replace(regex, function (match) {
+        return '<span class="highlight">' + match + '</span>';
+      });
     });
+    return text;
+  }
+
+  function getCurrentPageUrl() {
+    return window.location.href;
   }
 
   function renderResults(results) {
-    postList.innerHTML = ''; // Clear the post-list content
+    postList.innerHTML = '';
 
     var searchQuery = searchInput.value.trim();
     var countElement = document.getElementById('result-count');
 
-    if (searchQuery === '' && searchTags1Input.value.trim() === '' &&
-        searchTags2Input.value.trim() === '' && searchCategoriesInput.value.trim() === '') {
+    if (tags.length === 0 && !searchInput.value.trim()) {
       countElement.innerHTML = 'Last 15 posts';
       noResultsMessage.style.display = 'none';
 
-      // Show initial posts if no search query
-      initialPosts.forEach(function(post) {
-        post.style.display = 'block';
-        postList.appendChild(post);
-      });
-    } else if (results.length === 0) {
-      countElement.innerHTML = 'No posts found';
-      noResultsMessage.style.display = 'block';
-    } else {
-      countElement.innerHTML = results.length + ' posts found';
-      noResultsMessage.style.display = 'none';
-
-      // Hide initial posts
-      initialPosts.forEach(function(post) {
+      // Hide initial posts 
+   initialPosts.forEach(function(post) {
         post.style.display = 'none';
       });
 
-      for (var i = 0; i < results.length; i++) {
-        var result = results[i];
+
+      for (var i = 0; i < slicedResults.length; i++) {
+        var result = slicedResults[i];
         var li = document.createElement('li');
         li.classList.add('post-item');
 
@@ -141,6 +141,41 @@
         li.appendChild(dateElement);
 
         var p = document.createElement('p');
+        if (i === 0) {
+          p.innerHTML = posts[0].content; // Display full content for the first post
+        } else {
+          p.innerHTML = result.excerpt; // Display excerpt for other posts
+        }
+        li.appendChild(p);
+
+        postList.appendChild(li);
+      }
+    } else if (results.length === 0) {
+      countElement.innerHTML = 'No posts found';
+      noResultsMessage.style.display = 'block';
+    } else {
+      var postsShown = results.length;
+      var totalCount = posts.length;
+      countElement.innerHTML = postsShown + ' posts found';
+      noResultsMessage.style.display = 'none';
+
+      for (var i = 0; i < results.length; i++) {
+      var result = results[i];
+      var li = document.createElement('li');
+      li.classList.add('post-item');
+
+      var a = document.createElement('a');
+      a.href = result.url;
+      a.innerHTML = result.title;
+      a.classList.add('long-title');
+      li.appendChild(a);
+
+        var dateElement = document.createElement('p');
+        dateElement.classList.add('post-date');
+        dateElement.innerHTML = result.date;
+        li.appendChild(dateElement);
+
+        var p = document.createElement('p');
         p.innerHTML = result.excerpt;
         li.appendChild(p);
 
@@ -149,22 +184,73 @@
     }
   }
 
-  // Attach event listeners to all search fields
-  var searchFields = [searchInput, searchTags1Input, searchTags2Input, searchCategoriesInput];
-  searchFields.forEach(function(field) {
-    field.addEventListener('input', function () {
-      var query = searchInput.value;
-      var tags1 = searchTags1Input.value;
-      var tags2 = searchTags2Input.value;
-      var categories = searchCategoriesInput.value;
-      var results = search(query, tags1, tags2, categories);
-      renderResults(results);
-    });
+  function createTagElement(query) {
+    var tag = document.createElement('div');
+    tag.classList.add('tag');
+    tag.textContent = query;
+
+    var removeButton = document.createElement('span');
+    removeButton.textContent = '×';
+    removeButton.classList.add('remove-tag');
+    removeButton.onclick = function () {
+      var index = tags.indexOf(query);
+      if (index > -1) {
+        tags.splice(index, 1);
+        searchInputContainer.removeChild(tag);
+        renderResults(search(tags));
+      }
+    };
+
+    tag.appendChild(removeButton);
+    return tag;
+  }
+
+  function addTag(query) {
+    if (query && !tags.includes(query)) {
+      tags.push(query);
+      var tagElement = createTagElement(query);
+      searchInputContainer.insertBefore(tagElement, searchInput);
+    }
+    searchInput.value = '';
+    renderResults(search(tags));
+  }
+
+  // Handle Enter key to add a new tag
+  searchInput.addEventListener('keydown', function (event) {
+    if (event.key === 'Enter' && searchInput.value.trim() !== '') {
+      event.preventDefault();
+      addTag(searchInput.value.trim());
+    }
+  });
+
+  // Filter results as the user types
+  searchInput.addEventListener('input', function () {
+    var inputText = searchInput.value.trim();
+    var tempTags = inputText ? tags.concat([inputText]) : tags;
+    renderResults(search(tempTags));
+  });
+  
+// Get the search query from the URL
+  var searchQuery = new URLSearchParams(window.location.search).get('search');
+  if (searchQuery) {
+    searchInput.value = searchQuery;
+  }
+  
+searchInput.addEventListener('input', function () {
+    var query = searchInput.value;
+    var results = search(query);
+    renderResults(results);
+  });
+
+  // Handle suggestion clicks
+  document.addEventListener('click', function(event) {
+    if (event.target.classList.contains('suggestion-item')) {
+      event.preventDefault();
+      var suggestionText = event.target.textContent;
+      addTag(suggestionText);
+    }
   });
 
   // Initial render of the first 15 posts
-  initialPosts.forEach(function(post) {
-    post.style.display = 'block';
-    postList.appendChild(post);
-  });
+  renderResults(posts.slice(0, 15));
 })();
