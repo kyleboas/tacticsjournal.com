@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-
     <li class="post-item initial-post">
       <a href="{{ post.link | default: post.url }}" target="_blank" class="long-title">{{ post.title }}</a>
       <p class="post-date">{{ post.date | date: "%d %B %Y" }}</p>
-      <p>{{ post.excerpt | strip_html | strip_newlines | escape }}</p>
+      <p>{{- post.content | replace: '"', '\"' | strip_newlines | strip -}}</p>
     </li>
   {% endfor %}
 </ul>
