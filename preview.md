@@ -69,5 +69,5 @@ https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-
   });
 </script>
 
-<script src="/js/search-test-test.js"></script>
+
 <script src="/js/suggest.js"></script>
