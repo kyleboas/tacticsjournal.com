@@ -232,7 +232,3 @@
       addTag(suggestionText);
     }
   });
-
-  // Initial render of the first 15 posts
-  renderResults(posts.slice(0, 15));
-})();
