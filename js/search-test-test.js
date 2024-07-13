@@ -118,8 +118,7 @@
       noResultsMessage.style.display = 'none';
 
       // Hide initial posts 
-   initialPosts.forEach(function(post) {
-        post.style.display = 'none';
+   initialPosts.forEach(function(post)    { post.style.display = 'none';
       });
 
 
