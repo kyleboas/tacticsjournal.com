@@ -113,7 +113,7 @@
   var searchQuery = searchInput.value.trim();
   var countElement = document.getElementById('result-count');
 
-  if (tags.length === 0 && !searchInput.value.trim()) {
+  if (tags.length === 0 && !searchQuery) {
     countElement.innerHTML = 'Last 15 posts';
     noResultsMessage.style.display = 'none';
 
@@ -123,55 +123,21 @@
       post.style.display = 'block'; // Display initial posts
     });
 
-    // Filter out posts that match the current page's URL
-    var filteredResults = results.filter(function (post) {
-      return post.url.toLowerCase() !== getCurrentPageUrl().toLowerCase();
-    });
-
-    // Show only the first 15 posts
-    var slicedResults = filteredResults.slice(0, 15);
-
-    for (var i = 0; i < slicedResults.length; i++) {
-      var result = slicedResults[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
-
-      var a = document.createElement('a');
-      a.href = result.link ? result.link : result.url; // Use link if it exists
-      a.target = '_blank'; // Open link in a new tab
-      a.innerHTML = result.title;
-      a.classList.add('long-title');
-      li.appendChild(a);
-
-      var dateElement = document.createElement('p');
-      dateElement.classList.add('post-date');
-      dateElement.innerHTML = result.date;
-      li.appendChild(dateElement);
-
-      var p = document.createElement('p');
-      if (i === 0) {
-        p.innerHTML = posts[0].content; // Display full content for the first post
-      } else {
-        p.innerHTML = result.excerpt; // Display excerpt for other posts
-      }
-      li.appendChild(p);
-
-      postList.appendChild(li);
-    }
   } else if (results.length === 0) {
     countElement.innerHTML = 'No posts found';
     noResultsMessage.style.display = 'block';
+
   } else {
+    var postsShown = results.length;
+    var totalCount = posts.length;
+    countElement.innerHTML = postsShown + ' posts found';
+    noResultsMessage.style.display = 'none';
+
     // Hide initial posts when search results are rendered
     var initialPosts = document.querySelectorAll('.initial-post');
     initialPosts.forEach(function (post) {
       post.style.display = 'none'; // Hide initial posts
     });
-
-    var postsShown = results.length;
-    var totalCount = posts.length;
-    countElement.innerHTML = postsShown + ' posts found';
-    noResultsMessage.style.display = 'none';
 
     for (var i = 0; i < results.length; i++) {
       var result = results[i];
@@ -179,7 +145,8 @@
       li.classList.add('post-item');
 
       var a = document.createElement('a');
-      a.href = result.url;
+      a.href = result.link ? result.link : result.url; // Use link if it exists
+      a.target = '_blank'; // Open link in a new tab
       a.innerHTML = result.title;
       a.classList.add('long-title');
       li.appendChild(a);
