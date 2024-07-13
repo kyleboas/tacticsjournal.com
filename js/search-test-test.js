@@ -37,7 +37,7 @@
           categories: "{{ post.categories | xml_escape }}",
           content: "{{- post.content | replace: '"', '\"' | strip_newlines | strip -}}"
         }{% unless forloop.last %},{% endunless %}
-      {% endunless %}
+      {% endfor %}
     {% endfor %}
   ];
 
@@ -108,12 +108,6 @@
   }
 
   function renderResults(results) {
-    // Hide initial posts
-    var initialPosts = document.querySelectorAll('.initial-post');
-    initialPosts.forEach(function (post) {
-      post.style.display = 'none';
-    });
-
     postList.innerHTML = '';
 
     var searchQuery = searchInput.value.trim();
@@ -162,6 +156,12 @@
       countElement.innerHTML = 'No posts found';
       noResultsMessage.style.display = 'block';
     } else {
+      // Hide initial posts when search results are rendered
+      var initialPosts = document.querySelectorAll('.initial-post');
+      initialPosts.forEach(function (post) {
+        post.style.display = 'none';
+      });
+
       var postsShown = results.length;
       var totalCount = posts.length;
       countElement.innerHTML = postsShown + ' posts found';
