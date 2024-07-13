@@ -118,6 +118,7 @@
     noResultsMessage.style.display = 'none';
 
     // Show initial posts when no tags are selected and no search is performed
+    countElement.innerHTML = 'Last 15 posts';
     var initialPosts = document.querySelectorAll('.initial-post');
     initialPosts.forEach(function (post) {
       post.style.display = 'block'; // Display initial posts
