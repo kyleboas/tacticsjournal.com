@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-07-14 11:00 UTC
+date: 2024-07-17 11:00 UTC
 title: "Ian Wright should have suggested Saka play left-wing"
 categories:
 - "Euro 2024"
