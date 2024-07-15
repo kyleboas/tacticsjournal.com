@@ -29,6 +29,6 @@ It is a mindset to always look forward. Look forward, look forward, look forward
 
 England had an easier route to the final. If you put Rice, Mainoo, Trippier, Guéhi, Stones, and Walker into Spain's side, they likely wouldn't advance to the final after facing Croatia, Italy, Germany, and France. Put Rodri, Fabián Ruiz, Cucurella, Laporte, Le Normand, and Carvajal into England's side, and they'd wipe everyone away.
 
-Not to say the forwards played perfectly, they did not, at times they were bad, but there is your problem. I thought England were [more organized defensively than I imagined they would be](https://tacticsjournal.com/2024/07/14/the-problems-for-england-against-spain/), they did take more risks against Spain, but the quality of the passing under pressure is [not to the same level of Spain](https://tacticsjournal.com/2024/07/10/spains-simple-passes-forward-are-refreshing/).
+Not to say the forwards played perfectly, they did not, at times they were bad, but there is your problem. The match [went as I thought it would](https://tacticsjournal.com/2024/07/14/the-problems-for-england-against-spain/), but England were more organized defensively than I imagined they would be. England did take more risks passing against Spain, but the quality of the passing under pressure is [not to the same level of Spain](https://tacticsjournal.com/2024/07/10/spains-simple-passes-forward-are-refreshing/).
 
 *Match: England 1-2 Spain, 14 July 2024*
