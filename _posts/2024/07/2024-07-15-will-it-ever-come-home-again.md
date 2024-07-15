@@ -25,7 +25,7 @@ Marc Guéhi was the only player consistently looking to play forward to feet thr
 
 Watch Manchester City or Brighton. That pass is like oxygen for a possession-based team that plays slowly and doesn't rely on pace or long, mazing dribbling runs. Once you realize that, you will be as obsessed as I am with looking forward first.
 
-It is a mindset to always look forward. Look forward, look forward, look forward, not on; play the safe pass. Not, look sideways, look sideways, look forward, gap closes, and play the safe pass. That is football's version of constipation. 
+It is a mindset to always look forward. Look forward, look forward, look forward, not on; play the safe pass. Not, look sideways, look sideways, look forward, gap closes, and play the safe pass. That is football's version of constipation.
 
 England had an easier route to the final. If you put Rice, Mainoo, Trippier, Guéhi, Stones, and Walker into Spain's side, they likely wouldn't advance to the final after facing Croatia, Italy, Germany, and France. Put Rodri, Fabián Ruiz, Cucurella, Laporte, Le Normand, and Carvajal into England's side, and they'd wipe everyone away.
 

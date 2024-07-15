@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-07-22 08:00 UTC
-title: "Spain's (W) tell" 
+title: "Spain's tell" 
 categories:
 - "Women's World Cup 2023"
 tags:
@@ -10,7 +10,7 @@ tags:
 image: "https://i.imgur.com/bdBFpZf.jpg"
 --- 
 
-July 22, 2023 — When Athenea de Castillo at right-wing for Spain moves inside of right-back Ona Batlle, they either immediately cross or quickly switch play on the ground. If they switch, Castillo is the target on the back-post. If she's outside they play to the corner. 
+When Athenea de Castillo at right-wing for Spain moves inside of right-back Ona Batlle, they either immediately cross or quickly switch play on the ground. If they switch, Castillo is the target on the back-post. If she's outside they play to the corner. 
 
 <!---more--->
 
