@@ -19,7 +19,7 @@ The problem lies with the players at the back because the players at the front w
 
 Declan Rice did not play that pass on dozens of occasions. He is awkward with his back to play; he takes too many touches; he plays too safe; and it is always sideways first. It is sideways first, and by the time he sees the forward pass, the gap closes, and he is not great at finding the pass on his first or second touch. He can learn how to take risks with time if he really wants to play in that position. When Rice did play that pass, England's system worked. 
 
-Trent Alexander-Arnold didn't find Phil Foden or Jude Bellingham to feet in the tight spaces when he played in midfield, nor did John Stones frequently enough, Kieran Trippier, Kobbie Mainoo, or Conor Gallagher. Kyle Walker did try to fizz in a pass every once and a while, but he was positioned wide, so it was infrequent. 
+Trent Alexander-Arnold didn't find Phil Foden or Jude Bellingham to feet in the tight spaces when he played in midfield, nor did John Stones frequently enough, Kieran Trippier, Kobbie Mainoo, or Conor Gallagher. Kyle Walker did try to fizz in a pass every once and a while, but he was positioned wide, so it was infrequent. Luke Shaw was sharper and more direct than Trippier against Spain.
 
 Marc Guéhi was the only player consistently looking to play forward to feet through the center of the pitch. He always looks forward first. I'd love to enter a simulation to see what they'd look like with Guéhi and Rice swapped positions.
 
@@ -29,6 +29,6 @@ It is a mindset to always look forward. Look forward, look forward, look forward
 
 England had an easier route to the final. If you put Rice, Mainoo, Trippier, Guéhi, Stones, and Walker into Spain's side, they likely wouldn't advance to the final after facing Croatia, Italy, Germany, and France. Put Rodri, Fabián Ruiz, Cucurella, Laporte, Le Normand, and Carvajal into England's side, and they'd wipe everyone away.
 
-Not to say the forwards played perfectly, they did not, at times they were bad, but there is your problem. [Spain aren't afraid to take risks passing](https://tacticsjournal.com/2024/07/10/spains-simple-passes-forward-are-refreshing/).
+Not to say the forwards played perfectly, they did not, at times they were bad, but there is your problem. I thought England were [more organized defensively than I imagined they would be](https://tacticsjournal.com/2024/07/14/the-problems-for-england-against-spain/), they did take more risks against Spain, but the quality of the passing under pressure is [not to the same level of Spain](https://tacticsjournal.com/2024/07/10/spains-simple-passes-forward-are-refreshing/).
 
 *Match: England 1-2 Spain, 14 July 2024*
