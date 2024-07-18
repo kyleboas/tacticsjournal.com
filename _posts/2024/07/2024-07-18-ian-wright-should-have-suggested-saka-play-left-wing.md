@@ -27,7 +27,7 @@ Why are we not talking about the fact Gareth Southgate has attempted to copy the
 I understand that it is common for a broadcaster to get the formation wrong, but this is a snapshot of the discussion online, on TV, during play-by-play commentary. Everything is seen through a defensive lens. It does not match what is happening on the pitch.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/12/Image-12Jul2024_12:33:56.png">
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/18/Image-18Jul2024_10:37:48.png">
     <figcaption>Figure 1.1 - England in possession against Spain.</figcaption>
 </figure>
 
