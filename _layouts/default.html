@@ -56,12 +56,14 @@
 <script>
 document.getElementById('more-link').addEventListener('click', function(event) {
   event.preventDefault(); // Prevent the default action of the anchor
-  document.getElementById('more-items').style.display = 'block'; // Display the hidden items
+  const moreItems = document.getElementById('more-items');
+  moreItems.style.display = moreItems.style.display === 'none' || moreItems.style.display === '' ? 'block' : 'none'; // Toggle display
 });
 
 document.getElementById('follow-link').addEventListener('click', function(event) {
   event.preventDefault(); // Prevent the default action of the anchor
-  document.getElementById('follow-items').style.display = 'block'; // Display the hidden items
+  const followItems = document.getElementById('follow-items');
+  followItems.style.display = followItems.style.display === 'none' || followItems.style.display === '' ? 'block' : 'none'; // Toggle display
 });
 </script>
 
