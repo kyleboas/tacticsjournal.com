@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-07-20 11:00 UTC
+date: 2024-07-21 11:00 UTC
 title: "Victor Valdés' first conversation with Pep Guardiola"
 categories:
 - "La Liga"
