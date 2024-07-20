@@ -4,8 +4,7 @@ layout: page
 description: "A reference to use when reading the blog which defines the symbols and football terms used in my writing."
 ---
 
-
-This a reference to use while reading, defining each footballing term I regularly use in my writing. I will update this page when I think of new terms. 
+<p>This a reference to use while reading, defining each footballing term I regularly use in my writing. I will update this page when I think of new terms. </p>
 
 <p class="language-selector">
       <a href="#" data-lang="en">English</a> • 
@@ -14,11 +13,12 @@ This a reference to use while reading, defining each footballing term I regularl
       <a href="#" data-lang="fr">Français</a>
     </p>
 
----
+<hr/>
 
-<span class="en">
+<div class="en">
 
-## Graphics
+<h2>Graphics</h2>
+
 These are the symbols I use on my tactics board with definitions for each symbol.
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The scoreboard which shows the date the match was played, the score with the team's names abbreviated, and the minute or half the play is depicting.</p></figure>
@@ -35,132 +35,135 @@ These are the symbols I use on my tactics board with definitions for each symbol
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path of a player defending, with an arrow pointing to where the player is moving. </p></figure>
 
----
+<hr />
 
-**space** *noun*
+<strong>space</strong> <em>noun</em>
 
-**sit** *verb*
-To occupy one area of space or one position on the pitch without moving out of that position. 
+<strong>sit</strong> <em>verb</em>
+To occupy one area of space or one position on the pitch without moving out of that position.
 
-**pin** *verb* To force a player to 
+<strong>pin</strong> <em>verb</em> To force a player to
 
-**pocket** *noun*
-An area of space between three or more opposition defenders where a player can sit in. 
+<strong>pocket</strong> <em>noun</em>
+An area of space between three or more opposition defenders where a player can sit in.
 
-**half-space** *noun*
+<strong>half-space</strong> <em>noun</em>
 
-**structure** *noun* 
+<strong>structure</strong> <em>noun</em>
 
-**back-foot** *adjective* 
+<strong>back-foot</strong> <em>adjective</em>
 
-**formation** *noun*
+<strong>formation</strong> <em>noun</em>
 
-**drop** *verb*
-To move backwards towards your own goal. 
+<strong>drop</strong> <em>verb</em>
+To move backwards towards your own goal or the ball.
 
-**check to the ball** *verb*
+<strong>check to the ball</strong> <em>verb</em>
 
-**combine** *verb*
+<strong>combine</strong> <em>verb</em>
 
-**isolate** *verb*
-*or isolated*
+<strong>isolate</strong> <em>verb</em>
+<em>or isolated</em>
 
-**wing** *noun*
+<strong>wing</strong> <em>noun</em>
 
-**winger** *noun*
+<strong>winger</strong> <em>noun</em>
 
-**wing-back** *noun*
+<strong>wing-back</strong> <em>noun</em>
 
-**forward** *noun*
+<strong>forward</strong> <em>noun</em>
 
-**center-forward** *noun*
+<strong>center-forward</strong> <em>noun</em>
 
-**second striker** *noun*
+<strong>second striker</strong> <em>noun</em>
 
-**inverted** *verb*
+<strong>inverted</strong> <em>verb</em>
 
-**inverted fullback** *noun*
+<strong>inverted fullback</strong> <em>noun</em>
 
-**inverted center-back** *noun*
+<strong>inverted center-back</strong> <em>noun</em>
 
-**box midfield** *noun*
+<strong>box midfield</strong> <em>noun</em>
 
-**diamond** *noun*
+<strong>diamond</strong> <em>noun</em>
 
-</span>
+</div>
 
-<span class="es" style="display: none;">
 
-## Gráficos
+
+<div class="es" style="display:none">
+
+<h2>Gráficos</h2>
+
 Estos son los símbolos que uso en mi tablero de tácticas con definiciones para cada símbolo.
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">El marcador que muestra la fecha en que se jugó el partido, el marcador con los nombres de los equipos abreviados y el minuto o mitad que se está representando.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">El marcador que muestra la fecha en que se jugó el partido, el resultado con los nombres de los equipos abreviados y el minuto o la mitad que se está representando.</p></figure>
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:42.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">El jugador.</p></figure>
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:43.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">El balón.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:26.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">El camino que la pelota se movió o está moviendo, con la flecha que muestra hacia dónde se mueve la pelota.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:26.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">El camino que el balón se movió o está moviendo, con la flecha indicando hacia dónde se está moviendo el balón.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:02:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">La dirección o camino que un jugador está driblando el balón, con una flecha que señala hacia dónde se mueve el jugador.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:02:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">La dirección o el camino que un jugador está driblando el balón, con una flecha apuntando hacia dónde se está moviendo el jugador.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">La dirección o camino de un jugador atacante en defensa, con una flecha que señala hacia dónde se mueve el jugador.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">La dirección o el camino de un jugador atacante en defensa, con una flecha apuntando hacia dónde se está moviendo el jugador.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">La dirección o camino de un jugador defendiendo, con una flecha que señala hacia dónde se mueve el jugador.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">La dirección o el camino de un jugador defendiendo, con una flecha apuntando hacia dónde se está moviendo el jugador.</p></figure>
 
----
+<hr />
 
-**space** *sustantivo*
+<strong>space</strong> <em>sustantivo</em>
 
-**sit** *verbo*
-Ocupar una área de espacio o una posición en el campo sin moverse de esa posición.
+<strong>sit</strong> <em>verbo</em>
+Ocupar un área de espacio o una posición en el campo sin moverse de esa posición.
 
-**pin** *verbo* Forzar a un jugador a
+<strong>pin</strong> <em>verbo</em> Forzar a un jugador a
 
-**pocket** *sustantivo*
-Un área de espacio entre tres o más defensores del equipo contrario donde un jugador puede quedarse.
+<strong>pocket</strong> <em>sustantivo</em>
+Un área de espacio entre tres o más defensores rivales donde un jugador puede sentarse.
 
-**half-space** *sustantivo*
+<strong>half-space</strong> <em>sustantivo</em>
 
-**structure** *sustantivo*
+<strong>structure</strong> <em>sustantivo</em>
 
-**back-foot** *adjetivo*
+<strong>back-foot</strong> <em>adjetivo</em>
 
-**formation** *sustantivo*
+<strong>formation</strong> <em>sustantivo</em>
 
-**drop** *verbo*
-Moverse hacia atrás hacia tu propia portería.
+<strong>drop</strong> <em>verbo</em>
+Moverse hacia atrás hacia tu propia portería o el balón.
 
-**check to the ball** *verbo*
+<strong>check to the ball</strong> <em>verbo</em>
 
-**combine** *verbo*
+<strong>combine</strong> <em>verbo</em>
 
-**isolate** *verbo*
-*or isolated*
+<strong>isolate</strong> <em>verbo</em>
+<em>o aislado</em>
 
-**wing** *sustantivo*
+<strong>wing</strong> <em>sustantivo</em>
 
-**winger** *sustantivo*
+<strong>winger</strong> <em>sustantivo</em>
 
-**wing-back** *sustantivo*
+<strong>wing-back</strong> <em>sustantivo</em>
 
-**forward** *sustantivo*
+<strong>forward</strong> <em>sustantivo</em>
 
-**center-forward** *sustantivo*
+<strong>center-forward</strong> <em>sustantivo</em>
 
-**second striker** *sustantivo*
+<strong>second striker</strong> <em>sustantivo</em>
 
-**inverted** *verbo*
+<strong>inverted</strong> <em>verbo</em>
 
-**inverted fullback** *sustantivo*
+<strong>inverted fullback</strong> <em>sustantivo</em>
 
-**inverted center-back** *sustantivo*
+<strong>inverted center-back</strong> <em>sustantivo</em>
 
-**box midfield** *sustantivo*
+<strong>box midfield</strong> <em>sustantivo</em>
 
-**diamond** *sustantivo*
+<strong>diamond</strong> <em>sustantivo</em>
 
-</span>
+</div>
 
 ---
 
