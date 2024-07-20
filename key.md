@@ -8,9 +8,7 @@ This a reference to use while reading, defining each footballing term I regularl
 
 <p class="language-selector" style="text-align: center; font-size: 13px; font-family: helvetica">
       <a href="#" data-lang="en">English</a> • 
-      <a href="#" data-lang="es">Español</a> • 
-      <a href="#" data-lang="it">Italiano</a> • 
-      <a href="#" data-lang="fr">Français</a>
+      <a href="#" data-lang="es">Español</a>
     </p>
 
 ---
