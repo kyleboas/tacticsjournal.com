@@ -7,9 +7,12 @@ description: "A reference to use when reading the blog which defines the symbols
 
 This a reference to use while reading, defining each footballing term I regularly use in my writing. I will update this page when I think of new terms. 
 
-English • Spanish • Italian • French
+<p style="text-align: center">English • Spanish • Italian • French</p>
 
 ---
+
+## Graphics
+These are the symbols I use on my tactics board with definitions for each symbol.
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p>The scoreboard which shows the date the match was played, the score with the team's names abbreviated, and the minute or half the play is depicting.</p></figure>
 
