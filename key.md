@@ -4,7 +4,7 @@ layout: page
 description: "A reference to use when reading the blog which defines the symbols and football terms used in my writing."
 ---
 
-This a reference to use while reading, defining each footballing term I regularly use in my writing. I will update this page when I think of new terms.
+This a reference to use while reading, defining each footballing term I regularly use in my writing. You can view the definitions of each term in several languages.
 
 <p class="language-selector" style="text-align: center; font-size: 13px; font-family: helvetica">
       <a href="#" data-lang="en">English</a> • 
@@ -130,7 +130,7 @@ To move backwards towards your own goal or the ball.</p>
 
 <p><strong>formation</strong> <em>noun</em> A specific arrangement or structure of a team's players on the field, including their positions and roles.</p>
 
-<p><strong>hold width</strong> <em>noun</em> To remain near or on the touch-line to help stretch the opposition defense by forcing them to move into the wide areas.</p>
+<p><strong>hold width</strong> <em>verb</em> To remain near or on the touch-line to help stretch the opposition defense by forcing them to move into the wide areas.</p>
 
 <p><strong>invert</strong> <em>verb</em> To move from a wide position to a position infield.</p>
 
@@ -267,7 +267,7 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <p><strong>formation</strong> <em>sustantivo</em> Una disposición o estructura específica de los jugadores de un equipo en el campo, incluidos sus posiciones y roles.</p>
 
-<p><strong>hold width</strong> <em>sustantivo</em> Mantenerse cerca o en la línea de banda para ayudar a estirar la defensa de la oposición forzándolos a moverse hacia las áreas anchas.</p>
+<p><strong>hold width</strong> <em>verbo</em> Mantenerse cerca o en la línea de banda para ayudar a estirar la defensa de la oposición forzándolos a moverse hacia las áreas anchas.</p>
 
 <p><strong>invert</strong> <em>verbo</em> Moverse desde una posición amplia a una posición en el campo.</p>
 
