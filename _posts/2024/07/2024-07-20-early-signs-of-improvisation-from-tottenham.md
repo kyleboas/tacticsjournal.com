@@ -24,9 +24,9 @@ The back line in the first half was Jamie Donley, Oliver Skipp, Archie Gray, and
 
 Tottenham looked more comfortable. Of course, Hearts is not a tough opponent, but last season they had trouble breaking down teams that sat back, regardless of how even the game was.
 
-It helps having Dejan Kulusevski central because he is very creative, and that gives James Maddison an outlet central other than Heung-Min Son to combine with. 
+It helps having Dejan Kulusevski central because he is very creative, and that gives James Maddison an outlet central other than Heung-Min Son to combine with. He is a thinker who thinks ahead to not only the next pass but the pass after that, and because of that he can pull off those more expressive one-touch flicks in the tighter pockets of space.
 
-The problem they had was, 'How do we get the ball from the halfway line into the box', because they are good at crashing the front and back post, but they moved [slowly](https://tacticsjournal.com/2024/04/14/tottenham-take-too-many-touches/) and reminded [static](https://tacticsjournal.com/2024/04/03/tottenham-lack-off-the-ball-movement/). That led to [an overabundance of crossing](https://tacticsjournal.com/2024/05/12/tottenham-cross-too-much/) because they had to reset to create space.  
+The problem they had was, 'How do we get the ball from the halfway line into the box', because they are good at crashing the front and back post, but they moved [slowly](https://tacticsjournal.com/2024/04/14/tottenham-take-too-many-touches/) and reminded [static](https://tacticsjournal.com/2024/04/03/tottenham-lack-off-the-ball-movement/). Kulusevski was one of the few that was passing and moving, finding space, and dragging defenders. That led to [an overabundance of crossing](https://tacticsjournal.com/2024/05/12/tottenham-cross-too-much/) because they had to reset to create space.
 
 They should want to try to move the ball on the run because if they walk the ball into the box, the opponent's defense can drop back and crowd the box. They need those quick one-touch passing combinations to play the crossing player through to find the player crashing the front or back post. 
 
