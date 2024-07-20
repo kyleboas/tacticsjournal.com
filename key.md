@@ -38,7 +38,7 @@ This a reference to use while reading, defining each footballing term I regularl
 <h2>Pitch</h2>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_20:47:55.png">
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_21:38:59.png">
 </figure>
 
 <p><strong>back-line</strong> <em>noun</em> The last line of players between the rest of the players in the outfield and the goalkeeper.</p>
@@ -175,7 +175,7 @@ To move backwards towards your own goal or the ball.</p>
 <h2>Campo</h2>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_20:47:55.png">
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_21:38:59.png">
 </figure>
 
 <p><strong>back-line</strong> <em>sustantivo</em> La última línea de jugadores entre el resto de los jugadores en el campo y el portero.</p>
@@ -247,7 +247,7 @@ To move backwards towards your own goal or the ball.</p>
 
 <p><strong>fullback</strong> <em>sustantivo</em> Un jugador cuya posición inicial está en la línea defensiva, típicamente en el lado izquierdo o derecho de la defensa. Usualmente son responsables de defender contra los extremos del oponente y proporcionar amplitud a la defensa del equipo.</p>
 
-<p><strong>wing-back</strong> <em>sustantivo</em> Un jugador cuya posición inicial está en la línea defensiva, y su equipo está utilizando</p>
+<p><strong>wing-back</strong> <em>sustantivo</em> Un jugador cuya posición inicial está en la línea defensiva, y su equipo está utilizando.</p>
 
 
 <hr />
