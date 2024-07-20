@@ -14,19 +14,19 @@ This a reference to use while reading, defining each footballing term I regularl
 ## Graphics
 These are the symbols I use on my tactics board with definitions for each symbol.
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p>The scoreboard which shows the date the match was played, the score with the team's names abbreviated, and the minute or half the play is depicting.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The scoreboard which shows the date the match was played, the score with the team's names abbreviated, and the minute or half the play is depicting.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:42.png" style="margin-right: 10px;width: 50px;"><p>The player.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:42.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The player.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:43.png" style="margin-right: 10px;width: 50px;"><p>The ball.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:43.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The ball.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:26.png" style="margin-right: 10px;width: 50px;"><p>The path the ball moved or is moving, with the arrow depicting where the ball is moving.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:26.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The path the ball moved or is moving, with the arrow depicting where the ball is moving.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:02:13.png" style="margin-right: 10px;width: 50px;"><p>The direction or path a player is dribbling the ball, with an arrow pointing to where the player is moving.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:02:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path a player is dribbling the ball, with an arrow pointing to where the player is moving.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:13.png" style="margin-right: 10px;width: 50px;"><p>The direction or path an attacking player on defense, with an arrow pointing to where the player is moving. </p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path an attacking player on defense, with an arrow pointing to where the player is moving. </p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p>The direction or path of a player defending, with an arrow pointing to where the player is moving. </p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path of a player defending, with an arrow pointing to where the player is moving. </p></figure>
 
 ---
 
