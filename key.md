@@ -5,15 +5,27 @@ description: "A reference to use when reading the blog which defines the symbols
 ---
 
 
-The ball. 
+This a reference to use while reading, defining each footballing term I regularly use in my writing. I will update this page when I think of new terms. 
 
-<figure style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_11:45:36.png" style="width: 40x; margin-right: 5px;">The ball moving with the arrow depicting where the ball is moving.</div> </figure>
+English • Spanish • Italian • French
 
-A defensive movement with an arrow pointing to where the player is moving. 
+---
 
-An attacking movement with an arrow pointing to where the player is moving.
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p>The scoreboard which shows the date the match was played, the score with the team's names abbreviated, and the minute or half the play is depicting.</p></figure>
 
-The scoreboard which shows the date the match was played, the score with the team names abbreviated, and the minute or half the play is depicting. 
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:42.png" style="margin-right: 10px;width: 50px;"><p>The player.</p></figure>
+
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:43.png" style="margin-right: 10px;width: 50px;"><p>The ball.</p></figure>
+
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:26.png" style="margin-right: 10px;width: 50px;"><p>The ball moving with the arrow depicting where the ball is moving.</p></figure>
+
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:02:13.png" style="margin-right: 10px;width: 50px;"><p>The movement of a player dribbling the ball, with an arrow pointing to where the player is moving.</p></figure>
+
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:13.png" style="margin-right: 10px;width: 50px;"><p>The movement of an attacking player on defense, with an arrow pointing to where the player is moving. </p></figure>
+
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p>The movement of a player on defense, with an arrow pointing to where the player is moving. </p></figure>
+
+---
 
 **space** *noun*
 
@@ -64,4 +76,3 @@ To move backwards towards your own goal.
 **box midfield** *noun*
 
 **diamond** *noun*
-
