@@ -37,53 +37,53 @@ This a reference to use while reading, defining each footballing term I regularl
 
 <hr />
 
-<p><strong>space</strong> <em>noun</em></p>
-
-<p><strong>sit</strong> <em>verb</em> To occupy one area of space or one position on the pitch without moving out of that position. </p>
-
-<p><strong>pin</strong> <em>verb</em> To force a player to </p>
-
-<p><strong>pocket</strong> <em>noun</em> An area of space between three or more opposition defenders where a player can sit in.</p>
-
-<p><strong>half-space</strong> <em>noun</em></p>
-
-<p><strong>structure</strong> <em>noun</em></p>
-
 <p><strong>back-foot</strong> <em>adjective</em></p>
 
-<p><strong>formation</strong> <em>noun</em></p>
+<p><strong>box midfield</strong> <em>noun</em></p>
 
-<p><strong>drop</strong> <em>verb</em>
-To move backwards towards your own goal or the ball.</p>
+<p><strong>center-forward</strong> <em>noun</em></p>
 
 <p><strong>check to the ball</strong> <em>verb</em></p>
 
 <p><strong>combine</strong> <em>verb</em></p>
 
-<p><strong>isolate</strong> <em>verb</em></p>
-<em>or isolated</em></p>
+<p><strong>diamond</strong> <em>noun</em></p>
 
-<p><strong>wing</strong> <em>noun</em></p>
+<p><strong>drop</strong> <em>verb</em>
+To move backwards towards your own goal or the ball.</p>
 
-<p><strong>winger</strong> <em>noun</em></p>
-
-<p><strong>wing-back</strong> <em>noun</em></p>
+<p><strong>formation</strong> <em>noun</em></p>
 
 <p><strong>forward</strong> <em>noun</em></p>
 
-<p><strong>center-forward</strong> <em>noun</em></p>
-
-<p><strong>second striker</strong> <em>noun</em></p>
+<p><strong>half-space</strong> <em>noun</em></p>
 
 <p><strong>inverted</strong> <em>verb</em></p>
 
-<p><strong>inverted fullback</strong> <em>noun</em></p>
-
 <p><strong>inverted center-back</strong> <em>noun</em></p>
 
-<p><strong>box midfield</strong> <em>noun</em></p>
+<p><strong>inverted fullback</strong> <em>noun</em></p>
 
-<p><strong>diamond</strong> <em>noun</em></p>
+<p><strong>isolate</strong> <em>verb</em>
+<em>or isolated</em></p>
+
+<p><strong>pin</strong> <em>verb</em> To force a player to </p>
+
+<p><strong>pocket</strong> <em>noun</em> An area of space between three or more opposition defenders where a player can sit in.</p>
+
+<p><strong>sit</strong> <em>verb</em> To occupy one area of space or one position on the pitch without moving out of that position. </p>
+
+<p><strong>space</strong> <em>noun</em></p>
+
+<p><strong>structure</strong> <em>noun</em></p>
+
+<p><strong>second striker</strong> <em>noun</em></p>
+
+<p><strong>wing</strong> <em>noun</em></p>
+
+<p><strong>wing-back</strong> <em>noun</em></p>
+
+<p><strong>winger</strong> <em>noun</em></p>
 
 </div>
 
@@ -111,52 +111,52 @@ To move backwards towards your own goal or the ball.</p>
 
 <hr />
 
-<p><strong>space</strong> <em>sustantivo</em></p>
-
-<p><strong>sit</strong> <em>verbo</em> Ocupar un área de espacio o una posición en el campo sin moverse de esa posición.</p>
-
-<p><strong>pin</strong> <em>verbo</em> Forzar a un jugador a </p>
-
-<p><strong>pocket</strong> <em>sustantivo</em> Un área de espacio entre tres o más defensores rivales donde un jugador puede sentarse.</p>
-
-<p><strong>half-space</strong> <em>sustantivo</em></p>
-
-<p><strong>structure</strong> <em>sustantivo</em></p>
-
 <p><strong>back-foot</strong> <em>adjetivo</em></p>
 
-<p><strong>formation</strong> <em>sustantivo</em></p>
+<p><strong>box midfield</strong> <em>sustantivo</em></p>
 
-<p><strong>drop</strong> <em>verbo</em> Moverse hacia atrás hacia tu propia portería o el balón.</p>
+<p><strong>center-forward</strong> <em>sustantivo</em></p>
 
 <p><strong>check to the ball</strong> <em>verbo</em></p>
 
 <p><strong>combine</strong> <em>verbo</em></p>
 
-<p><strong>isolate</strong> <em>verbo</em></p>
-<em>o aislado</em></p>
+<p><strong>diamond</strong> <em>sustantivo</em></p>
 
-<p><strong>wing</strong> <em>sustantivo</em></p>
+<p><strong>drop</strong> <em>verbo</em> Moverse hacia atrás hacia tu propia portería o el balón.</p>
 
-<p><strong>winger</strong> <em>sustantivo</em></p>
-
-<p><strong>wing-back</strong> <em>sustantivo</em></p>
+<p><strong>formation</strong> <em>sustantivo</em></p>
 
 <p><strong>forward</strong> <em>sustantivo</em></p>
 
-<p><strong>center-forward</strong> <em>sustantivo</em></p>
-
-<p><strong>second striker</strong> <em>sustantivo</em></p>
+<p><strong>half-space</strong> <em>sustantivo</em></p>
 
 <p><strong>inverted</strong> <em>verbo</em></p>
 
-<p><strong>inverted fullback</strong> <em>sustantivo</em></p>
-
 <p><strong>inverted center-back</strong> <em>sustantivo</em></p>
 
-<p><strong>box midfield</strong> <em>sustantivo</em></p>
+<p><strong>inverted fullback</strong> <em>sustantivo</em></p>
 
-<p><strong>diamond</strong> <em>sustantivo</em></p>
+<p><strong>isolate</strong> <em>verbo</em>
+<em>o aislado</em></p>
+
+<p><strong>pin</strong> <em>verbo</em> Forzar a un jugador a </p>
+
+<p><strong>pocket</strong> <em>sustantivo</em> Un área de espacio entre tres o más defensores rivales donde un jugador puede sentarse.</p>
+
+<p><strong>sit</strong> <em>verbo</em> Ocupar un área de espacio o una posición en el campo sin moverse de esa posición.</p>
+
+<p><strong>space</strong> <em>sustantivo</em></p>
+
+<p><strong>structure</strong> <em>sustantivo</em></p>
+
+<p><strong>second striker</strong> <em>sustantivo</em></p>
+
+<p><strong>wing</strong> <em>sustantivo</em></p>
+
+<p><strong>wing-back</strong> <em>sustantivo</em></p>
+
+<p><strong>winger</strong> <em>sustantivo</em></p>
 
 </div>
 
