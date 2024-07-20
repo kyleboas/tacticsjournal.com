@@ -15,7 +15,7 @@ This a reference to use while reading, defining each footballing term I regularl
 
 <div class="en">
 
-<h2>Graphics</h2>
+<h2>Symbols</h2>
 
 <p>These are the symbols I use on my tactics board with definitions for each symbol.</p>
 
@@ -23,65 +23,92 @@ This a reference to use while reading, defining each footballing term I regularl
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:42.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The player.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:43.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The ball.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:43.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The football.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:26.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The path the ball moved or is moving, with the arrow depicting where the ball is moving.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:26.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The path the ball has taken or will take, with an arrow depicting where the ball has moved or will move.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:02:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path a player is dribbling the ball, with an arrow pointing to where the player is moving.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:02:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path a player is dribbling the ball, with an arrow depicting where the player has moved or will move.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path an attacking player on defense, with an arrow pointing to where the player is moving. </p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path of an attacking player, with an arrow depicting where the player has moved or will move.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path of a player defending, with an arrow pointing to where the player is moving. </p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The direction or path of a player defending, with an arrow depicting where the player has moved or will move.</p></figure>
 
 <hr />
 
-<p><strong>back-foot</strong> <em>adjective</em></p>
+<h2>Pitch</h2>
 
-<p><strong>box midfield</strong> <em>noun</em></p>
+<p><strong>back-line</strong> <em>noun</em> The last line of players between the rest of the players in the outfield and the goalkeeper.</p>
 
-<p><strong>center-forward</strong> <em>noun</em></p>
+<p><strong>half-space</strong> <em>noun</em> </p>
 
-<p><strong>check to the ball</strong> <em>verb</em></p>
+<p><strong>halfway line</strong> <em>noun</em> The line that marks where one half of the field ends and the other half of the field begins.</p>
+
+<p><strong>front line</strong> <em>noun</em> The first line of players in front of the rest of the team.</p>
+
+<p><strong>line</strong> <em>noun</em> A group of players who play in a specific position or role together inline with each other on the pitch.</p>
+
+<p><strong>out-wide</strong> <em>noun</em> The area of the pitch from the sides to the half-space.</p>
+
+<p><strong>wing</strong> <em>noun</em> </p>
+
+<hr />
+
+<h2>Positions</h2>
+
+<h3>Forwards</h3>
+
+<p><strong>center-forward</strong> </p>
+
+<p><strong>second striker</strong> <em>noun</em></p>
+
+<p><strong>winger</strong> <em>noun</em></p>
+
+<h3>Midfielders</h3>
+
+<h3>Defenders</h3>
+
+<p><strong>center-back</strong> <em>noun</em> </p>
+
+<p><strong>outside center-back</strong> <em>noun</em> </p>
+
+<p><strong>inverted center-back</strong> <em>noun</em> </p>
+
+<p><strong>wing-back</strong> <em>noun</em> </p>
+
+
+
+<hr />
+
+<h2>Other Terms</h2>
+
+<p><strong>back-foot</strong> <em>adjective</em> A defensive position or stance where an individual or an entire team is forced to retreat or move backwards to defend against an opponent's attack.</p>
+
+<p><strong>box midfield</strong> <em>noun</em> </p>
+
+<p><strong>check to the ball</strong> <em>verb</em> </p>
 
 <p><strong>combine</strong> <em>verb</em></p>
-
-<p><strong>diamond</strong> <em>noun</em></p>
 
 <p><strong>drop</strong> <em>verb</em>
 To move backwards towards your own goal or the ball.</p>
 
-<p><strong>formation</strong> <em>noun</em></p>
+<p><strong>fullback</strong> <em>noun</em> A player who's starting position is on the defensive line, typically on the left or right side of the defense. They are usually responsible for defending against the opponent's wingers and providing width to the team's defense.</p>
 
-<p><strong>forward</strong> <em>noun</em></p>
+<p><strong>formation</strong> <em>noun</em> A specific arrangement or structure of a team's players on the field, including their positions and roles.</p>
 
-<p><strong>half-space</strong> <em>noun</em></p>
+<p><strong>invert</strong> <em>verb</em> To move from a wide position to a position infield.</p>
 
-<p><strong>inverted</strong> <em>verb</em></p>
+<p><strong>isolate</strong> <em>verb</em> </p>
 
-<p><strong>inverted center-back</strong> <em>noun</em></p>
+<p><strong>pin</strong> <em>verb</em> To force a player from the opposing team to stay in one specific position on the pitch.</p>
 
-<p><strong>inverted fullback</strong> <em>noun</em></p>
+<p><strong>pocket</strong> <em>noun</em> An area of space between three or more opposition defenders.</p>
 
-<p><strong>isolate</strong> <em>verb</em>
-<em>or isolated</em></p>
+<p><strong>sit</strong> <em>verb</em> To occupy one area of space or one position on the pitch without moving out of that position.</p>
 
-<p><strong>pin</strong> <em>verb</em> To force a player to </p>
+<p><strong>space</strong> <em>noun</em> </p>
 
-<p><strong>pocket</strong> <em>noun</em> An area of space between three or more opposition defenders where a player can sit in.</p>
-
-<p><strong>sit</strong> <em>verb</em> To occupy one area of space or one position on the pitch without moving out of that position. </p>
-
-<p><strong>space</strong> <em>noun</em></p>
-
-<p><strong>structure</strong> <em>noun</em></p>
-
-<p><strong>second striker</strong> <em>noun</em></p>
-
-<p><strong>wing</strong> <em>noun</em></p>
-
-<p><strong>wing-back</strong> <em>noun</em></p>
-
-<p><strong>winger</strong> <em>noun</em></p>
+<p><strong>structure</strong> <em>noun</em> The </p>
 
 </div>
 
