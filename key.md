@@ -93,7 +93,7 @@ To move backwards towards your own goal or the ball.</p>
 
 <h2>Gráficos</h2>
 
-Estos son los símbolos que uso en mi tablero de tácticas con definiciones para cada símbolo.
+<p>Estos son los símbolos que uso en mi tablero de tácticas con definiciones para cada símbolo.</p>
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">El marcador que muestra la fecha en que se jugó el partido, el resultado con los nombres de los equipos abreviados y el minuto o la mitad que se está representando.</p></figure>
 
@@ -115,10 +115,9 @@ Estos son los símbolos que uso en mi tablero de tácticas con definiciones para
 
 <p><strong>sit</strong> <em>verbo</em> Ocupar un área de espacio o una posición en el campo sin moverse de esa posición.</p>
 
-<p><strong>pin</strong> <em>verbo</em>Forzar a un jugador a </p>
+<p><strong>pin</strong> <em>verbo</em> Forzar a un jugador a </p>
 
-<p><strong>pocket</strong> <em>sustantivo</em>
-Un área de espacio entre tres o más defensores rivales donde un jugador puede sentarse.</p>
+<p><strong>pocket</strong> <em>sustantivo</em> Un área de espacio entre tres o más defensores rivales donde un jugador puede sentarse.</p>
 
 <p><strong>half-space</strong> <em>sustantivo</em></p>
 
@@ -128,7 +127,7 @@ Un área de espacio entre tres o más defensores rivales donde un jugador puede 
 
 <p><strong>formation</strong> <em>sustantivo</em></p>
 
-<p><strong>drop</strong> <em>verbo</em>Moverse hacia atrás hacia tu propia portería o el balón.</p>
+<p><strong>drop</strong> <em>verbo</em> Moverse hacia atrás hacia tu propia portería o el balón.</p>
 
 <p><strong>check to the ball</strong> <em>verbo</em></p>
 
