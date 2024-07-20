@@ -32,11 +32,20 @@
   <p style="margin-bottom: 2px;"><span id="date"></span></p>
   <p style="margin-top: 2px; margin-bottom: 5px;">
     <a href="https://tacticsjournal.com/archive/">Archive</a>
-    <a href="https://tacticsjournal.com/follow/">Follow</a>
+    <a href="#" id="more-link">Follow</a>
     <a href="https://tacticsjournal.com/sponsorship">Sponsor</a>
-    <a href="https://tacticsjournal.com/contact/">Contact</a> 
+    <a href="https://tacticsjournal.com/contact/">Contact</a>
     <a href="https://tacticsjournal.com/key/">Key</a> 
     <a href="#" id="more-link">More...</a>
+    <span id="follow-items" style="display: none;">
+      <a href="https://twitter.com/tacticsjournal">Twitter</a>
+      <a href="https://www.threads.net/@tacticsjournal">Threads</a>
+      <a href="https://facebook.com/TacticsJournal/">FaceBook</a>
+      <a href="https://bsky.app/profile/tacticsjournal.com">BlueSky</a>
+      <a href="https://youtube.com/@TacticsJournal">YouTube</a>
+      <a href="https://tacticsjournal.com/feed">RSS</a>
+      <a href="https://discord.gg/pQuympz34q">Community</a>
+    </span> 
     <span id="more-items" style="display: none;">
       <a href="https://tacticsjournal.com/recommended">Recommended</a>
       <a href="https://tacticsjournal.com/watchlist/">Watchlist</a>
@@ -47,7 +56,13 @@
 <script>
 document.getElementById('more-link').addEventListener('click', function(event) {
   event.preventDefault(); // Prevent the default action of the anchor
-  document.getElementById('more-items').style.display = 'inline'; // Display the hidden items
+  document.getElementById('more-items').style.display = 'block'; // Display the hidden items
+}
+
+document.getElementById('follow-link').addEventListener('click', function(event) {
+  event.preventDefault(); // Prevent the default action of the anchor
+  document.getElementById('follow-items').style.display = 'block'; // Display the hidden items
+}
 </script>
 
 
