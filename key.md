@@ -8,11 +8,11 @@ description: "A reference to use when reading the blog which defines the symbols
 This a reference to use while reading, defining each footballing term I regularly use in my writing. I will update this page when I think of new terms. 
 
 <p class="language-selector">
-        <a href="#" data-lang="en">English</a> • 
-        <a href="#" data-lang="es">Español</a> • 
-        <a href="#" data-lang="it">Italiano</a> • 
-        <a href="#" data-lang="fr">Français</a>
-      </p>
+      <a href="#" data-lang="en">English</a> • 
+      <a href="#" data-lang="es">Español</a> • 
+      <a href="#" data-lang="it">Italiano</a> • 
+      <a href="#" data-lang="fr">Français</a>
+    </p>
 
 ---
 
@@ -87,11 +87,9 @@ To move backwards towards your own goal.
 
 **diamond** *noun*
 
----
-
 </span>
 
-<span class="es" style="display:none">
+<span class="es" style="display: none;">
 
 ## Gráficos
 Estos son los símbolos que uso en mi tablero de tácticas con definiciones para cada símbolo.
@@ -162,14 +160,13 @@ Moverse hacia atrás hacia tu propia portería.
 
 **diamond** *sustantivo*
 
----
-
 </span>
 
+---
+
 <script>
-// Get the language selector and content container elements
+// Get the language selector and content elements
 const languageSelector = document.querySelectorAll('.language-selector a');
-const contentContainer = document.getElementById('content-container');
 const enContent = document.querySelector('.en');
 const esContent = document.querySelector('.es');
 
