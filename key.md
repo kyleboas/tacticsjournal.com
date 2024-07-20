@@ -37,19 +37,35 @@ This a reference to use while reading, defining each footballing term I regularl
 
 <h2>Pitch</h2>
 
+<figure>
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_20:08:49.png">
+</figure>
+
 <p><strong>back-line</strong> <em>noun</em> The last line of players between the rest of the players in the outfield and the goalkeeper.</p>
 
-<p><strong>half-space</strong> <em>noun</em> </p>
+<p><strong>back-two</strong> <em>noun</em> A defensive line made up of two defenders</p>
+
+<p><strong>back-three</strong> <em>noun</em> A defensive line made up of three defenders</p>
+
+<p><strong>back-four</strong> <em>noun</em> A defensive line made up of four defenders.</p>
+
+<p><strong>back-five</strong> <em>noun</em> A defensive line made up of five defenders.</p>
+
+<p><strong>corner</strong> <em>noun</em> The area on the left or right side of the pitch next to the penalty area.</p>
+
+<p><strong>half-space</strong> <em>noun</em> The space between the edge of the penalty area to the outside edge of the center circle.</p>
 
 <p><strong>halfway line</strong> <em>noun</em> The line that marks where one half of the field ends and the other half of the field begins.</p>
+
+<p><strong>infield</strong> <em>noun</em> The area between the penalty area, stretching the entire pitch, from the left to the right edge of the either side of the penalty area.</p>
 
 <p><strong>front line</strong> <em>noun</em> The first line of players in front of the rest of the team.</p>
 
 <p><strong>line</strong> <em>noun</em> A group of players who play in a specific position or role together inline with each other on the pitch.</p>
 
-<p><strong>out-wide</strong> <em>noun</em> The area of the pitch from the sides to the half-space.</p>
+<p><strong>out-wide</strong> <em>noun</em> The area of the pitch from the touchline to the half-space.</p>
 
-<p><strong>wing</strong> <em>noun</em> </p>
+<p><strong>wing</strong> <em>noun</em> The entire left or right side of the pitch, particularly the area near the touchline.</p>
 
 <hr />
 
@@ -59,22 +75,40 @@ This a reference to use while reading, defining each footballing term I regularl
 
 <p><strong>center-forward</strong> </p>
 
+<p><strong>9</strong> <em>noun</em> A center-forward</p>
+
 <p><strong>second striker</strong> <em>noun</em></p>
+
+<p><strong>inverted forward</strong> <em>noun</em></p>
 
 <p><strong>winger</strong> <em>noun</em></p>
 
+<p><strong>inverted winger</strong> <em>noun</em></p>
+
 <h3>Midfielders</h3>
+
+<p><strong>attacking midfielder</strong> <em>noun</em> A player who creates scoring opportunities for themselves and others, often playing behind the forwards. They provide creativity and vision in the final third. <em>Also known as a ten.</em></p>
+
+<p><strong>center midfielder</strong> <em>noun</em> A player who controls the tempo of the game, distributing the ball to teammates and breaking up opposition attacks. They often have a deep-lying role, dictating the pace of the game. <em>Also known as an eight</em></p>
+
+<p><strong>holding midfielder</strong> <em>noun</em> A midfielder that positions themselves ahead of the defensive line and behind the attacking midfielders or forwards.</p>
+
+<p><strong>defensive midfielder</strong> <em>noun</em> A midfielder at the base of the midfield responsible for dictating the pace of play, finding passes forward to the other midfielders or forwards, and winning back the ball ahead of the defenders. <em>Also known as a six.</em></p>
+
+<p><strong>anchor</strong> <em>noun</em> A defensive midfielder that stays central at the base of the midfield behind the rest of the midfielder or forwards.</p>
+
 
 <h3>Defenders</h3>
 
-<p><strong>center-back</strong> <em>noun</em> </p>
+<p><strong>center-back</strong> <em>noun</em> A defensive player who plays in the middle of the defense, typically responsible for winning headers, clearing the ball, and marking opponents in the penalty area.</p>
 
-<p><strong>outside center-back</strong> <em>noun</em> </p>
+<p><strong>outside center-back</strong> <em>noun</em> A center-back that plays to the left or right of a center-back in a back-three.</p>
 
-<p><strong>inverted center-back</strong> <em>noun</em> </p>
+<p><strong>inverted center-back</strong> <em>noun</em> A center-back that inverts into the midfield when their teams has possession.</p>
 
-<p><strong>wing-back</strong> <em>noun</em> </p>
+<p><strong>fullback</strong> <em>noun</em> A player who's starting position is on the defensive line, typically on the left or right side of the defense. They are usually responsible for defending against the opponent's wingers and providing width to the team's defense.</p>
 
+<p><strong>wing-back</strong> <em>noun</em> A player who's starting position is on the defensive line, and their team is using</p>
 
 
 <hr />
@@ -83,22 +117,20 @@ This a reference to use while reading, defining each footballing term I regularl
 
 <p><strong>back-foot</strong> <em>adjective</em> A defensive position or stance where an individual or an entire team is forced to retreat or move backwards to defend against an opponent's attack.</p>
 
-<p><strong>box midfield</strong> <em>noun</em> </p>
+<p><strong>ball carrier</strong> <em>adjective</em> The player who is dribbling with the ball.</p>
 
-<p><strong>check to the ball</strong> <em>verb</em> </p>
+<p><strong>check to the ball</strong> <em>verb</em> To move towards the ball carrier to position your body in a way where you can receive the ball.</p>
 
-<p><strong>combine</strong> <em>verb</em></p>
+<p><strong>combine</strong> <em>verb</em> To move and come together to pass the ball between two or more players.</p>
 
 <p><strong>drop</strong> <em>verb</em>
 To move backwards towards your own goal or the ball.</p>
-
-<p><strong>fullback</strong> <em>noun</em> A player who's starting position is on the defensive line, typically on the left or right side of the defense. They are usually responsible for defending against the opponent's wingers and providing width to the team's defense.</p>
 
 <p><strong>formation</strong> <em>noun</em> A specific arrangement or structure of a team's players on the field, including their positions and roles.</p>
 
 <p><strong>invert</strong> <em>verb</em> To move from a wide position to a position infield.</p>
 
-<p><strong>isolate</strong> <em>verb</em> </p>
+<p><strong>isolate</strong> <em>verb</em> To separate a player from the rest of their team to force them to defend attack one or more opposition players.</p>
 
 <p><strong>pin</strong> <em>verb</em> To force a player from the opposing team to stay in one specific position on the pitch.</p>
 
