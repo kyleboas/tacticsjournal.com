@@ -4,7 +4,7 @@ layout: page
 description: "A reference to use when reading the blog which defines the symbols and football terms used in my writing."
 ---
 
-This a reference to use while reading, defining each footballing term I regularly use in my writing. You can view the definitions of each term in several languages.
+This a reference to use while reading, defining each footballing term I regularly use in my writing.
 
 <p class="language-selector" style="text-align: center; font-size: 13px; font-family: helvetica">
       <a href="#" data-lang="en">English</a> • 
