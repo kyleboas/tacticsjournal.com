@@ -6,7 +6,7 @@ description: "A reference to use when reading the blog which defines the symbols
 
 This a reference to use while reading, defining each footballing term I regularly use in my writing. I will update this page when I think of new terms.
 
-<p class="language-selector">
+<p class="language-selector" style="text-align: center; font-family: helvetica">
       <a href="#" data-lang="en">English</a> • 
       <a href="#" data-lang="es">Español</a> • 
       <a href="#" data-lang="it">Italiano</a> • 
