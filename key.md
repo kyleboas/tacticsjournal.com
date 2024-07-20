@@ -7,7 +7,7 @@ description: "A reference to use when reading the blog which defines the symbols
 
 The ball. 
 
-<figure style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_11:45:36.png" style="margin-right: 5px;"> <div style="width: 20x;">The ball moving with the arrow depicting where the ball is moving.</div> </figure>
+<figure style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_11:45:36.png" style="width: 40x; margin-right: 5px;">The ball moving with the arrow depicting where the ball is moving.</div> </figure>
 
 A defensive movement with an arrow pointing to where the player is moving. 
 
