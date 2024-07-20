@@ -4,7 +4,7 @@ layout: page
 description: "A reference to use when reading the blog which defines the symbols and football terms used in my writing."
 ---
 
-<p>This a reference to use while reading, defining each footballing term I regularly use in my writing. I will update this page when I think of new terms. </p>
+This a reference to use while reading, defining each footballing term I regularly use in my writing. I will update this page when I think of new terms.
 
 <p class="language-selector">
       <a href="#" data-lang="en">English</a> • 
@@ -13,13 +13,13 @@ description: "A reference to use when reading the blog which defines the symbols
       <a href="#" data-lang="fr">Français</a>
     </p>
 
-<hr/>
+---
 
 <div class="en">
 
 <h2>Graphics</h2>
 
-These are the symbols I use on my tactics board with definitions for each symbol.
+<p>These are the symbols I use on my tactics board with definitions for each symbol.</p>
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">The scoreboard which shows the date the match was played, the score with the team's names abbreviated, and the minute or half the play is depicting.</p></figure>
 
@@ -37,55 +37,53 @@ These are the symbols I use on my tactics board with definitions for each symbol
 
 <hr />
 
-<strong>space</strong> <em>noun</em>
+<p><strong>space</strong> <em>noun</em></p>
 
-<strong>sit</strong> <em>verb</em>
-To occupy one area of space or one position on the pitch without moving out of that position.
+<p><strong>sit</strong> <em>verb</em> To occupy one area of space or one position on the pitch without moving out of that position. </p>
 
-<strong>pin</strong> <em>verb</em> To force a player to
+<p><strong>pin</strong> <em>verb</em> To force a player to </p>
 
-<strong>pocket</strong> <em>noun</em>
-An area of space between three or more opposition defenders where a player can sit in.
+<p><strong>pocket</strong> <em>noun</em> An area of space between three or more opposition defenders where a player can sit in.</p>
 
-<strong>half-space</strong> <em>noun</em>
+<p><strong>half-space</strong> <em>noun</em></p>
 
-<strong>structure</strong> <em>noun</em>
+<p><strong>structure</strong> <em>noun</em></p>
 
-<strong>back-foot</strong> <em>adjective</em>
+<p><strong>back-foot</strong> <em>adjective</em></p>
 
-<strong>formation</strong> <em>noun</em>
+<p><strong>formation</strong> <em>noun</em></p>
 
-<strong>drop</strong> <em>verb</em>
-To move backwards towards your own goal or the ball.
+<p><strong>drop</strong> <em>verb</em>
+To move backwards towards your own goal or the ball.</p>
 
-<strong>check to the ball</strong> <em>verb</em>
+<p><strong>check to the ball</strong> <em>verb</em></p>
 
-<strong>combine</strong> <em>verb</em>
+<p><strong>combine</strong> <em>verb</em></p>
 
-<strong>isolate</strong> <em>verb</em>
-<em>or isolated</em>
+<p><strong>isolate</strong> <em>verb</em></p>
+<em>or isolated</em></p>
 
-<strong>wing</strong> <em>noun</em>
+<p><strong>wing</strong> <em>noun</em></p>
 
-<strong>winger</strong> <em>noun</em>
+<p><strong>winger</strong> <em>noun</em></p>
 
-<strong>wing-back</strong> <em>noun</em>
+<p><strong>wing-back</strong> <em>noun</em></p>
 
-<strong>forward</strong> <em>noun</em>
+<p><strong>forward</strong> <em>noun</em></p>
 
-<strong>center-forward</strong> <em>noun</em>
+<p><strong>center-forward</strong> <em>noun</em></p>
 
-<strong>second striker</strong> <em>noun</em>
+<p><strong>second striker</strong> <em>noun</em></p>
 
-<strong>inverted</strong> <em>verb</em>
+<p><strong>inverted</strong> <em>verb</em></p>
 
-<strong>inverted fullback</strong> <em>noun</em>
+<p><strong>inverted fullback</strong> <em>noun</em></p>
 
-<strong>inverted center-back</strong> <em>noun</em>
+<p><strong>inverted center-back</strong> <em>noun</em></p>
 
-<strong>box midfield</strong> <em>noun</em>
+<p><strong>box midfield</strong> <em>noun</em></p>
 
-<strong>diamond</strong> <em>noun</em>
+<p><strong>diamond</strong> <em>noun</em></p>
 
 </div>
 
@@ -113,55 +111,53 @@ Estos son los símbolos que uso en mi tablero de tácticas con definiciones para
 
 <hr />
 
-<strong>space</strong> <em>sustantivo</em>
+<p><strong>space</strong> <em>sustantivo</em></p>
 
-<strong>sit</strong> <em>verbo</em>
-Ocupar un área de espacio o una posición en el campo sin moverse de esa posición.
+<p><strong>sit</strong> <em>verbo</em> Ocupar un área de espacio o una posición en el campo sin moverse de esa posición.</p>
 
-<strong>pin</strong> <em>verbo</em> Forzar a un jugador a
+<p><strong>pin</strong> <em>verbo</em>Forzar a un jugador a </p>
 
-<strong>pocket</strong> <em>sustantivo</em>
-Un área de espacio entre tres o más defensores rivales donde un jugador puede sentarse.
+<p><strong>pocket</strong> <em>sustantivo</em>
+Un área de espacio entre tres o más defensores rivales donde un jugador puede sentarse.</p>
 
-<strong>half-space</strong> <em>sustantivo</em>
+<p><strong>half-space</strong> <em>sustantivo</em></p>
 
-<strong>structure</strong> <em>sustantivo</em>
+<p><strong>structure</strong> <em>sustantivo</em></p>
 
-<strong>back-foot</strong> <em>adjetivo</em>
+<p><strong>back-foot</strong> <em>adjetivo</em></p>
 
-<strong>formation</strong> <em>sustantivo</em>
+<p><strong>formation</strong> <em>sustantivo</em></p>
 
-<strong>drop</strong> <em>verbo</em>
-Moverse hacia atrás hacia tu propia portería o el balón.
+<p><strong>drop</strong> <em>verbo</em>Moverse hacia atrás hacia tu propia portería o el balón.</p>
 
-<strong>check to the ball</strong> <em>verbo</em>
+<p><strong>check to the ball</strong> <em>verbo</em></p>
 
-<strong>combine</strong> <em>verbo</em>
+<p><strong>combine</strong> <em>verbo</em></p>
 
-<strong>isolate</strong> <em>verbo</em>
-<em>o aislado</em>
+<p><strong>isolate</strong> <em>verbo</em></p>
+<em>o aislado</em></p>
 
-<strong>wing</strong> <em>sustantivo</em>
+<p><strong>wing</strong> <em>sustantivo</em></p>
 
-<strong>winger</strong> <em>sustantivo</em>
+<p><strong>winger</strong> <em>sustantivo</em></p>
 
-<strong>wing-back</strong> <em>sustantivo</em>
+<p><strong>wing-back</strong> <em>sustantivo</em></p>
 
-<strong>forward</strong> <em>sustantivo</em>
+<p><strong>forward</strong> <em>sustantivo</em></p>
 
-<strong>center-forward</strong> <em>sustantivo</em>
+<p><strong>center-forward</strong> <em>sustantivo</em></p>
 
-<strong>second striker</strong> <em>sustantivo</em>
+<p><strong>second striker</strong> <em>sustantivo</em></p>
 
-<strong>inverted</strong> <em>verbo</em>
+<p><strong>inverted</strong> <em>verbo</em></p>
 
-<strong>inverted fullback</strong> <em>sustantivo</em>
+<p><strong>inverted fullback</strong> <em>sustantivo</em></p>
 
-<strong>inverted center-back</strong> <em>sustantivo</em>
+<p><strong>inverted center-back</strong> <em>sustantivo</em></p>
 
-<strong>box midfield</strong> <em>sustantivo</em>
+<p><strong>box midfield</strong> <em>sustantivo</em></p>
 
-<strong>diamond</strong> <em>sustantivo</em>
+<p><strong>diamond</strong> <em>sustantivo</em></p>
 
 </div>
 
