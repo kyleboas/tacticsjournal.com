@@ -41,7 +41,7 @@ This a reference to use while reading, defining each footballing term I regularl
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_21:38:59.png">
 </figure>
 
-<p><strong>back-line</strong> <em>noun</em> The last line of players between the rest of the players in the outfield and the goalkeeper.</p>
+<p><strong>back line</strong> <em>noun</em> The last line of players between the rest of the players in the outfield and the goalkeeper.</p>
 
 <p><strong>back-two</strong> <em>noun</em> A defensive line made up of two defenders</p>
 
@@ -178,7 +178,7 @@ To move backwards towards your own goal or the ball.</p>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_21:38:59.png">
 </figure>
 
-<p><strong>back-line</strong> <em>sustantivo</em> La última línea de jugadores entre el resto de los jugadores en el campo y el portero.</p>
+<p><strong>back line</strong> <em>sustantivo</em> La última línea de jugadores entre el resto de los jugadores en el campo y el portero.</p>
 
 <p><strong>back-two</strong> <em>sustantivo</em> Una línea defensiva compuesta por dos defensores.</p>
 
