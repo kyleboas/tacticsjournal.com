@@ -81,9 +81,9 @@ This a reference to use while reading, defining each footballing term I regularl
 
 <p><strong>second striker</strong> <em>noun</em> A forward player who plays alongside a center-forward. Their primary role is to provide support to the main striker, create scoring opportunities, and score goals themselves</p>
 
-<p><strong>inverted forward</strong> <em>noun</em> A winger who inverts infield towards the center-forwards.</p>
+<p><strong>winger</strong> <em>noun</em> A type of forward who plays on the left or right side of the midfield or forward line. Their primary role is to support the team's attack by providing width, pace, and crossing opportunities from the flanks.</p>
 
-<p><strong>winger</strong> <em>noun</em> A player who positions themselves on the wing to hold width.</p>
+<p><strong>inverted forward</strong> <em>noun</em> A winger who inverts infield towards the center-forwards.</p>
 
 <p><strong>inverted winger</strong> <em>noun</em> A winger who inverts into the midfield to almost act as a center midfielder.</p>
 
