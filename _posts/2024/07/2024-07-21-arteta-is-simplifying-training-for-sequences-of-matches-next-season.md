@@ -13,7 +13,7 @@ Arsenal manager Mikel Arteta has hinted at simplifying the process of training f
 
 <!---more---> 
 
-[From his first interview before the start of preseason](https://youtu.be/GSjcux7H9cs?si=aO29Qs4k7zk45wdf)
+[From his first interview before the start of preseason:](https://youtu.be/GSjcux7H9cs?si=aO29Qs4k7zk45wdf)
 
 > You can look at it many different ways: Sequence of matches. I always look a lot at the type of opponent we're going to play, what kind of formation, what kind of managers, can we have some consistency over a few weeks? The difficulty is when you look there, there's not an easy game there. 
 > 
