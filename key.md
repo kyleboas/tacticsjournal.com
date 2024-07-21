@@ -218,9 +218,9 @@ To move backwards towards your own goal or the ball.</p>
 
 <p><strong>second striker</strong> <em>sustantivo</em> Un jugador delantero que juega junto a un delantero centro. Su rol principal es proporcionar apoyo al delantero principal, crear oportunidades de gol y marcar goles ellos mismos.</p>
 
-<p><strong>inverted forward</strong> <em>sustantivo</em> Un extremo que se invierte hacia el centro hacia los delanteros centros.</p>
+<p><strong>winger</strong> <em>sustantivo</em> Un tipo de delantero que juega en el lado izquierdo o derecho de la línea de medio campo o delantera. Su papel principal es apoyar el ataque del equipo proporcionando amplitud, velocidad y oportunidades de centro desde las bandas.</p>
 
-<p><strong>winger</strong> <em>sustantivo</em> Un jugador que se posiciona en el ala para mantener la amplitud.</p>
+<p><strong>inverted forward</strong> <em>sustantivo</em> Un extremo que se invierte hacia el centro hacia los delanteros centros.</p>
 
 <p><strong>inverted winger</strong> <em>sustantivo</em> Un extremo que se invierte hacia el centro del campo para casi actuar como un centrocampista central.</p>
 
