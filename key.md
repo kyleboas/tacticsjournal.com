@@ -11,7 +11,7 @@ This a reference to use when reading which defines the symbols and football term
       <a href="#" data-lang="en">English</a> • 
       <a href="#" data-lang="es">Español</a> •
       <a href="#" data-lang="it">Italiano</a> •
-      <a href="#" data-lang="fa">Français</a> •
+      <a href="#" data-lang="fr">Français</a> •
       <a href="#" data-lang="ge">Deutsch</a>
     </p>
 
@@ -716,7 +716,7 @@ function updateContent(lang) {
     itContent.style.display = 'block';
     frContent.style.display = 'none';
     geContent.style.display = 'none';
-  } else if (lang === 'fa') {
+  } else if (lang === 'fr') {
     enContent.style.display = 'none';
     esContent.style.display = 'none';
     itContent.style.display = 'none';
