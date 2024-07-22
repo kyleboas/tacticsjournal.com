@@ -154,7 +154,6 @@ To move backwards towards your own goal or the ball.</p>
 </div>
 
 
-
 <div class="es" style="display:none">
 
 <h2>Símbolos</h2>
@@ -294,9 +293,9 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <h2>Símbolos</h2>
 
-<p>Estes são os símbolos que uso no meu quadro de táticas com definições para cada símbolo.</p>
+<p>Estes são os símbolos que uso no meu quadro tático com definições para cada símbolo.</p>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">O placar que mostra a data em que a partida foi disputada, o placar com os nomes das equipes abreviados e o minuto ou metade da jogada que está sendo representada.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:14.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">O placar que mostra a data do jogo, o resultado com os nomes das equipes abreviados e o minuto ou o tempo do jogo que está sendo retratado.</p></figure>
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:56:42.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">O jogador.</p></figure>
 
@@ -304,11 +303,11 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:26.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">O caminho que a bola percorreu ou percorrerá, com uma seta indicando para onde a bola se moveu ou se moverá.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:02:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">A direção ou caminho que um jogador está driblando a bola, com uma seta indicando para onde o jogador se moveu ou se moverá.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_13:02:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">A direção ou o caminho pelo qual um jogador está driblando a bola, com uma seta indicando para onde o jogador se moveu ou se moverá.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">A direção ou caminho de um jogador atacante, com uma seta indicando para onde o jogador se moveu ou se moverá.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:56:13.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">A direção ou o caminho de um jogador atacante, com uma seta indicando para onde o jogador se moveu ou se moverá.</p></figure>
 
-<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">A direção ou caminho de um jogador defendendo, com uma seta indicando para onde o jogador se moveu ou se moverá.</p></figure>
+<figure style="display: flex;align-items: center;/* width: 10x; */"> <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_12:44:27.png" style="margin-right: 10px;width: 50px;"><p style="margin: auto; width: 100%;">A direção ou o caminho de um jogador defensor, com uma seta indicando para onde o jogador se moveu ou se moverá.</p></figure>
 
 <hr />
 
@@ -318,7 +317,7 @@ Retroceder hacia tu propia portería o el balón.</p>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_21:38:59.png">
 </figure>
 
-<p><strong>back line</strong> <em>substantivo</em> A última linha de jogadores entre o restante dos jogadores no campo e o goleiro.</p>
+<p><strong>back line</strong> <em>substantivo</em> A última linha de jogadores entre o restante dos jogadores de linha e o goleiro.</p>
 
 <p><strong>back-two</strong> <em>substantivo</em> Uma linha defensiva composta por dois defensores.</p>
 
@@ -328,19 +327,19 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <p><strong>back-five</strong> <em>substantivo</em> Uma linha defensiva composta por cinco defensores.</p>
 
-<p><strong>corner</strong> <em>substantivo</em> A área no lado esquerdo ou direito do campo, próxima à área de pênalti.</p>
+<p><strong>corner</strong> <em>substantivo</em> A área no lado esquerdo ou direito do campo ao lado da área de penalidade.</p>
 
-<p><strong>half-space</strong> <em>substantivo</em> O espaço entre a borda da área de pênalti e a borda externa do círculo central.</p>
+<p><strong>half-space</strong> <em>substantivo</em> O espaço entre a borda da área de penalidade e a borda externa do círculo central.</p>
 
-<p><strong>halfway line</strong> <em>substantivo</em> A linha que marca onde termina uma metade do campo e começa a outra metade.</p>
+<p><strong>halfway line</strong> <em>substantivo</em> A linha que marca onde uma metade do campo termina e a outra metade começa.</p>
 
-<p><strong>infield</strong> <em>substantivo</em> A área entre a área de pênalti, abrangendo todo o campo, da borda esquerda à borda direita de cada lado da área de pênalti.</p>
+<p><strong>infield</strong> <em>substantivo</em> A área entre a área de penalidade, estendendo-se por todo o campo, da borda esquerda à borda direita de cada lado da área de penalidade.</p>
 
-<p><strong>front line</strong> <em>substantivo</em> A primeira linha de jogadores à frente do restante da equipe.</p>
+<p><strong>front line</strong> <em>substantivo</em> A primeira linha de jogadores na frente do restante da equipe.</p>
 
-<p><strong>line</strong> <em>substantivo</em> Um grupo de jogadores que jogam em uma posição ou função específica juntos em linha no campo.</p>
+<p><strong>line</strong> <em>substantivo</em> Um grupo de jogadores que joga em uma posição ou função específica alinhado entre si no campo.</p>
 
-<p><strong>out-wide</strong> <em>substantivo</em> A área do campo da linha lateral ao <strong>half-space</strong>.</p>
+<p><strong>out-wide</strong> <em>substantivo</em> A área do campo da linha lateral até o half-space.</p>
 
 <p><strong>wing</strong> <em>substantivo</em> Todo o lado esquerdo ou direito do campo, particularmente a área próxima à linha lateral.</p>
 
@@ -354,72 +353,71 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <h3>Atacantes</h3>
 
-<p><strong>center-forward</strong> <em>substantivo</em> Também conhecido como um atacante ou nove, é um jogador avançado que joga na posição central de ataque, geralmente mais próximo do gol adversário. Sua função principal é marcar gols e criar oportunidades de gol para seus companheiros de equipe.</p>
+<p><strong>center-forward</strong> <em>substantivo</em> Também conhecido como atacante ou nove, é um jogador de ataque que joga na posição central de ataque, tipicamente mais próximo ao gol do adversário. Seu papel principal é marcar gols e criar oportunidades de gol para seus companheiros de equipe.</p>
 
-<p><strong>second striker</strong> <em>substantivo</em> Um jogador avançado que joga ao lado de um <strong>center-forward</strong>. Sua função principal é fornecer suporte ao atacante principal, criar oportunidades de gol e marcar gols ele mesmo.</p>
+<p><strong>second striker</strong> <em>substantivo</em> Um jogador de ataque que joga ao lado de um center-forward. Seu papel principal é fornecer apoio ao atacante principal, criar oportunidades de gol e marcar gols.</p>
 
-<p><strong>winger</strong> <em>substantivo</em> Um tipo de atacante que joga no lado esquerdo ou direito da linha de meio-campo ou ataque. Sua função principal é apoiar o ataque da equipe, proporcionando amplitude, velocidade e oportunidades de cruzamento pelas laterais.</p>
+<p><strong>winger</strong> <em>substantivo</em> Um tipo de atacante que joga no lado esquerdo ou direito da linha de meio-campo ou de ataque. Seu papel principal é apoiar o ataque da equipe fornecendo largura, velocidade e oportunidades de cruzamento a partir das extremidades.</p>
 
-<p><strong>inverted forward</strong> <em>substantivo</em> Um <strong>winger</strong> que inverte para dentro em direção aos <strong>center-forwards</strong>.</p>
+<p><strong>inverted forward</strong> <em>substantivo</em> Um winger que inverte para o meio-campo em direção aos center-forwards.</p>
 
-<p><strong>inverted winger</strong> <em>substantivo</em> Um <strong>winger</strong> que inverte para o meio-campo para atuar quase como um meio-campista central.</p>
+<p><strong>inverted winger</strong> <em>substantivo</em> Um winger que inverte para o meio-campo para quase atuar como um centro-médio.</p>
 
 <h3>Meio-campistas</h3>
 
-<p><strong>attacking midfielder</strong> <em>substantivo</em> Também conhecido como dez, é um meio-campista que cria oportunidades de gol para si mesmo e para os outros, frequentemente jogando atrás dos atacantes. Eles fornecem criatividade e visão no terço final.</p>
+<p><strong>attacking midfielder</strong> <em>substantivo</em> Também conhecido como dez, é um meio-campista que cria oportunidades de gol para si mesmo e para os outros, geralmente jogando atrás dos atacantes. Eles fornecem criatividade e visão no terço final do campo.</p>
 
 <p><strong>center midfielder</strong> <em>substantivo</em> Também conhecido como oito, é um meio-campista que se posiciona à frente da defesa e atrás dos atacantes.</p>
 
-<p><strong>holding midfielder</strong> <em>substantivo</em> Um meio-campista que se posiciona à frente da linha defensiva e atrás dos meio-campistas ou atacantes ofensivos.</p>
+<p><strong>holding midfielder</strong> <em>substantivo</em> Um meio-campista que se posiciona à frente da linha defensiva e atrás dos meio-campistas ofensivos ou atacantes.</p>
 
-<p><strong>defensive midfielder</strong> <em>substantivo</em> Também conhecido como seis, é um meio-campista na base do meio-campo responsável por ditar o ritmo do jogo, encontrar passes para frente para os outros meio-campistas ou atacantes e recuperar a bola à frente dos defensores.</p>
+<p><strong>defensive midfielder</strong> <em>substantivo</em> Também conhecido como seis, é um meio-campista na base do meio-campo responsável por ditar o ritmo do jogo, encontrar passes para os outros meio-campistas ou atacantes e recuperar a bola à frente dos defensores.</p>
 
-<p><strong>anchor</strong> <em>substantivo</em> Um <strong>defensive midfielder</strong> que permanece central na base do meio-campo atrás dos demais meio-campistas ou atacantes.</p>
-
+<p><strong>anchor</strong> <em>substantivo</em> Um meio-campista defensivo que permanece central na base do meio-campo atrás do restante dos meio-campistas ou atacantes.</p>
 
 <h3>Defensores</h3>
 
-<p><strong>center-back</strong> <em>substantivo</em> Um jogador defensivo que joga no meio da defesa, tipicamente responsável por ganhar cabeceios, limpar a bola e marcar adversários na área de pênalti.</p>
+<p><strong>center-back</strong> <em>substantivo</em> Um jogador defensivo que joga no meio da defesa, tipicamente responsável por ganhar cabeçadas, limpar a bola e marcar adversários na área de penalidade.</p>
 
-<p><strong>outside center-back</strong> <em>substantivo</em> Um <strong>center-back</strong> que joga à esquerda ou direita de um <strong>center-back</strong> em uma linha de três defensores.</p>
+<p><strong>outside center-back</strong> <em>substantivo</em> Um center-back que joga à esquerda ou à direita de um center-back em uma linha de três.</p>
 
-<p><strong>inverted center-back</strong> <em>substantivo</em> Um <strong>center-back</strong> que inverte para o meio-campo quando seu time tem posse de bola.</p>
+<p><strong>inverted center-back</strong> <em>substantivo</em> Um center-back que inverte para o meio-campo quando sua equipe está com a posse de bola.</p>
 
-<p><strong>fullback</strong> <em>substantivo</em> Um jogador cuja posição inicial é na linha defensiva, tipicamente no lado esquerdo ou direito da defesa. Eles geralmente são responsáveis por defender contra os <strong>wingers</strong> adversários e proporcionar amplitude à defesa da equipe.</p>
+<p><strong>fullback</strong> <em>substantivo</em> Um jogador cuja posição inicial é na linha defensiva, tipicamente no lado esquerdo ou direito da defesa. Eles são geralmente responsáveis por defender contra os wingers adversários e fornecer largura à defesa da equipe.</p>
 
-<p><strong>wing-back</strong> <em>substantivo</em> Um jogador cuja posição inicial é na linha defensiva, e sua equipe está usando...</p>
+<p><strong>wing-back</strong> <em>substantivo</em> Um jogador cuja posição inicial é na linha defensiva, e sua equipe está usando</p>
 
 <hr />
 
 <h2>Outros Termos</h2>
 
-<p><strong>back-foot</strong> <em>adjetivo</em> Uma posição ou postura defensiva em que um indivíduo ou toda a equipe é forçada a recuar ou mover-se para trás para defender contra o ataque de um adversário.</p>
+<p><strong>back-foot</strong> <em>adjetivo</em> Uma posição ou postura defensiva onde um indivíduo ou toda a equipe é forçado a recuar ou se mover para trás para defender contra um ataque adversário.</p>
 
 <p><strong>ball carrier</strong> <em>adjetivo</em> O jogador que está driblando com a bola.</p>
 
-<p><strong>check to the ball</strong> <em>verbo</em> Mover-se em direção ao <strong>ball carrier</strong> para posicionar seu corpo de forma a receber a bola.</p>
+<p><strong>check to the ball</strong> <em>verbo</em> Mover-se em direção ao portador da bola para posicionar seu corpo de forma que você possa receber a bola.</p>
 
-<p><strong>combine</strong> <em>verbo</em> Mover-se e juntar-se para passar a bola entre dois ou mais jogadores.</p>
+<p><strong>combine</strong> <em>verbo</em> Mover-se e unir-se para passar a bola entre dois ou mais jogadores.</p>
 
-<p><strong>drop</strong> <em>verbo</em> Mover-se para trás em direção ao seu próprio gol ou à bola.</p>
+<p><strong>drop</strong> <em>verbo</em> Mover-se para trás em direção ao próprio gol ou à bola.</p>
 
-<p><strong>formation</strong> <em>substantivo</em> Um arranjo ou estrutura específica dos jogadores de uma equipe no campo, incluindo suas posições e funções.</p>
+<p><strong>formation</strong> <em>substantivo</em> Uma disposição ou estrutura específica dos jogadores de uma equipe no campo, incluindo suas posições e funções.</p>
 
-<p><strong>hold width</strong> <em>verbo</em> Permanecer próximo ou na linha lateral para ajudar a esticar a defesa adversária, forçando-os a se mover para as áreas amplas.</p>
+<p><strong>hold width</strong> <em>verbo</em> Permanecer próximo ou na linha lateral para ajudar a esticar a defesa adversária, forçando-os a se mover para as áreas externas.</p>
 
-<p><strong>invert</strong> <em>verbo</em> Mover-se de uma posição ampla para uma posição no campo.</p>
+<p><strong>invert</strong> <em>verbo</em> Mover-se de uma posição ampla para uma posição mais central.</p>
 
-<p><strong>isolate</strong> <em>verbo</em> Separar um jogador do restante de sua equipe para forçá-lo a defender ou atacar um ou mais jogadores adversários.</p>
+<p><strong>isolate</strong> <em>verbo</em> Separar um jogador do restante de sua equipe para forçá-lo a defender um ou mais jogadores adversários.</p>
 
 <p><strong>pin</strong> <em>verbo</em> Forçar um jogador da equipe adversária a permanecer em uma posição específica no campo.</p>
 
 <p><strong>pocket</strong> <em>substantivo</em> Uma área de espaço entre três ou mais defensores adversários.</p>
 
-<p><strong>sit</strong> <em>verbo</em> Ocupiar uma área de espaço ou uma posição no campo sem se mover dessa posição.</p>
+<p><strong>sit</strong> <em>verbo</em> Ocupando uma área de espaço ou uma posição no campo sem se mover para fora dessa posição.</p>
 
-<p><strong>space</strong> <em>substantivo</em> Um território desocupado no campo que um jogador pode explorar para ganhar vantagem.</p>
+<p><strong>space</strong> <em>substantivo</em> Um território não ocupado no campo que um jogador pode explorar para ganhar vantagem.</p>
 
-<p><strong>structure</strong> <em>substantivo</em> A organização e arranjo dos jogadores no campo em termos de suas posições, funções e responsabilidades.</p>
+<p><strong>structure</strong> <em>substantivo</em> A organização e disposição dos jogadores no campo em termos de suas posições, funções e responsabilidades.</p>
 
 </div>
 
