@@ -689,6 +689,7 @@ Retroceder hacia tu propia portería o el balón.</p>
 <p><em>Last updated: {% last_modified_at %}</em></p>
 
 
+<script>
 // Get the language selector and content elements
 const languageSelector = document.querySelectorAll('.language-selector a');
 const enContent = document.querySelector('.en');
@@ -749,3 +750,4 @@ languageSelector.forEach(link => {
     updateContent(lang);
   });
 });
+</script>
