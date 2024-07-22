@@ -81,7 +81,7 @@ This a reference to use when reading which defines the symbols and football term
 
 <h3>Forwards</h3>
 
-<p><strong>center-forward</strong> Also known as a striker or nine, is a forward player who plays in the central attacking position, typically closest to the opponent's goal. Their primary role is to score goals and create scoring opportunities for their teammates.</p>
+<p><strong>center-forward</strong> <em>noun</em> Also known as a striker or nine, is a forward player who plays in the central attacking position, typically closest to the opponent's goal. Their primary role is to score goals and create scoring opportunities for their teammates.</p>
 
 <p><strong>second striker</strong> <em>noun</em> A forward player who plays alongside a center-forward. Their primary role is to provide support to the main striker, create scoring opportunities, and score goals themselves</p>
 
@@ -218,7 +218,7 @@ To move backwards towards your own goal or the ball.</p>
 
 <h3>Delanteros</h3>
 
-<p><strong>center-forward</strong> También conocido como delantero centro o nueve, es un jugador delantero que juega en la posición central de ataque, típicamente el más cercano a la portería del oponente. Su rol principal es marcar goles y crear oportunidades de gol para sus compañeros de equipo.</p>
+<p><strong>center-forward</strong> <em>sustantivo</em> También conocido como delantero centro o nueve, es un jugador delantero que juega en la posición central de ataque, típicamente el más cercano a la portería del oponente. Su rol principal es marcar goles y crear oportunidades de gol para sus compañeros de equipo.</p>
 
 <p><strong>second striker</strong> <em>sustantivo</em> Un jugador delantero que juega junto a un delantero centro. Su rol principal es proporcionar apoyo al delantero principal, crear oportunidades de gol y marcar goles ellos mismos.</p>
 
@@ -353,7 +353,7 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <h3>Attaccanti</h3>
 
-<p><strong>center-forward</strong> Anche conosciuto come attaccante o nove, è un giocatore d'attacco che gioca nella posizione centrale d'attacco, tipicamente più vicino alla porta avversaria. Il loro ruolo principale è segnare gol e creare opportunità di gol per i loro compagni di squadra.</p>
+<p><strong>center-forward</strong> <em>sostantivo</em> Anche conosciuto come attaccante o nove, è un giocatore d'attacco che gioca nella posizione centrale d'attacco, tipicamente più vicino alla porta avversaria. Il loro ruolo principale è segnare gol e creare opportunità di gol per i loro compagni di squadra.</p>
 
 <p><strong>second striker</strong> <em>sostantivo</em> Un giocatore d'attacco che gioca al fianco di un centravanti. Il loro ruolo principale è fornire supporto all'attaccante principale, creare opportunità di segnare e segnare gol loro stessi.</p>
 
@@ -485,7 +485,7 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <h3>Attaquants</h3>
 
-<p><strong>center-forward</strong> Aussi connu sous le nom d'attaquant ou neuf, est un joueur offensif qui joue dans la position centrale d'attaque, généralement le plus proche du but de l'adversaire. Leur rôle principal est de marquer des buts et de créer des opportunités de marquer pour leurs coéquipiers.</p>
+<p><strong>center-forward</strong> <em>nom</em> Aussi connu sous le nom d'attaquant ou neuf, est un joueur offensif qui joue dans la position centrale d'attaque, généralement le plus proche du but de l'adversaire. Leur rôle principal est de marquer des buts et de créer des opportunités de marquer pour leurs coéquipiers.</p>
 
 <p><strong>second striker</strong> <em>nom</em> Un joueur offensif qui joue aux côtés d'un attaquant de pointe. Leur rôle principal est de soutenir l'attaquant principal, de créer des opportunités de marquer et de marquer des buts eux-mêmes.</p>
 
@@ -617,7 +617,7 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <h3>Angreifer</h3>
 
-<p><strong>center-forward</strong> Auch bekannt als Stürmer oder Neun, ist ein offensiver Spieler, der in der zentralen Angriffsposition spielt, normalerweise am nächsten am Tor des Gegners. Ihre Hauptaufgabe ist es, Tore zu schießen und Chancen für ihre Teamkollegen zu schaffen.</p>
+<p><strong>center-forward</strong> <em>Substantiv</em> Auch bekannt als Stürmer oder Neun, ist ein offensiver Spieler, der in der zentralen Angriffsposition spielt, normalerweise am nächsten am Tor des Gegners. Ihre Hauptaufgabe ist es, Tore zu schießen und Chancen für ihre Teamkollegen zu schaffen.</p>
 
 <p><strong>second striker</strong> <em>Substantiv</em> Ein offensiver Spieler, der neben einem zentralen Stürmer spielt. Ihre Hauptaufgabe ist es, den Hauptstürmer zu unterstützen, Chancen zu schaffen und selbst Tore zu schießen.</p>
 
