@@ -686,7 +686,7 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 ---
 
-*Last updated on: {{ site.github.updated_at | date: "%d %B %Y" }}*
+<p><em>Last updated: {% last_modified_at %}</em></p>
 
 
 // Get the language selector and content elements
