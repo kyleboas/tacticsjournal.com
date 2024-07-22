@@ -689,14 +689,13 @@ Retroceder hacia tu propia portería o el balón.</p>
 *Last updated on: {{ site.github.updated_at | date: "%d %B %Y" }}*
 
 
-<script>
 // Get the language selector and content elements
 const languageSelector = document.querySelectorAll('.language-selector a');
 const enContent = document.querySelector('.en');
 const esContent = document.querySelector('.es');
-const esContent = document.querySelector('.it');
-const esContent = document.querySelector('.fr');
-const esContent = document.querySelector('.ge');
+const itContent = document.querySelector('.it');
+const frContent = document.querySelector('.fr');
+const geContent = document.querySelector('.ge');
 
 // Function to update the content based on the selected language
 function updateContent(lang) {
@@ -704,36 +703,37 @@ function updateContent(lang) {
     enContent.style.display = 'block';
     esContent.style.display = 'none';
     itContent.style.display = 'none';
-    faContent.style.display = 'none';
+    frContent.style.display = 'none';
     geContent.style.display = 'none';
   } else if (lang === 'es') {
     enContent.style.display = 'none';
     esContent.style.display = 'block';
     itContent.style.display = 'none';
-    faContent.style.display = 'none';
+    frContent.style.display = 'none';
     geContent.style.display = 'none';
   } else if (lang === 'it') {
     enContent.style.display = 'none';
     esContent.style.display = 'none';
     itContent.style.display = 'block';
-    faContent.style.display = 'none';
+    frContent.style.display = 'none';
     geContent.style.display = 'none';
   } else if (lang === 'fa') {
     enContent.style.display = 'none';
     esContent.style.display = 'none';
     itContent.style.display = 'none';
-    faContent.style.display = 'block';
+    frContent.style.display = 'none';
     geContent.style.display = 'none';
   } else if (lang === 'ge') {
     enContent.style.display = 'none';
     esContent.style.display = 'none';
     itContent.style.display = 'none';
-    faContent.style.display = 'none';
+    frContent.style.display = 'none';
     geContent.style.display = 'block';
   } else {
     enContent.style.display = 'none';
     esContent.style.display = 'none';
-    faContent.style.display = 'none';
+    itContent.style.display = 'none';
+    frContent.style.display = 'none';
     geContent.style.display = 'none';
   }
 }
@@ -749,4 +749,3 @@ languageSelector.forEach(link => {
     updateContent(lang);
   });
 });
-</script>
