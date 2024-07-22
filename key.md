@@ -687,6 +687,8 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 ---
 
+*<a href="#">Back to top</a>*
+
 
 <script>
 // Get the language selector and content elements
