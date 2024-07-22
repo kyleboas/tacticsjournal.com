@@ -94,15 +94,17 @@ This a reference to use when reading which defines the symbols and football term
 
 <h3>Midfielders</h3>
 
+<p><strong>anchor</strong> <em>noun</em> A defensive midfielder that stays central at the base of the midfield behind the rest of the midfielder or forwards.</p>
+
 <p><strong>attacking midfielder</strong> <em>noun</em> Also known as a ten, is a midfielder  who creates scoring opportunities for themselves and others, often playing behind the forwards. They provide creativity and vision in the final third.</p>
 
 <p><strong>center midfielder</strong> <em>noun</em> Also known as an eight, is a midfielder who positions themselves ahead of the defense and behind the forwards.</p>
 
-<p><strong>holding midfielder</strong> <em>noun</em> A midfielder that positions themselves ahead of the defensive line and behind the attacking midfielders or forwards.</p>
-
 <p><strong>defensive midfielder</strong> <em>noun</em> Also known as a six, is a midfielder at the base of the midfield responsible for dictating the pace of play, finding passes forward to the other midfielders or forwards, and winning back the ball ahead of the defenders.</p>
 
-<p><strong>anchor</strong> <em>noun</em> A defensive midfielder that stays central at the base of the midfield behind the rest of the midfielder or forwards.</p>
+<p><strong>outside midfielder</strong> <em>noun</em> Also known as a left or right midfielder, this player operates on the wing, positioned between where a winger and a left-back typically play, running up and down the wing to help in both defense and attack.</p>
+
+<p><strong>holding midfielder</strong> <em>noun</em> A midfielder that positions themselves ahead of the defensive line and behind the attacking midfielders or forwards.</p>
 
 
 <h3>Defenders</h3>
@@ -230,15 +232,17 @@ To move backwards towards your own goal or the ball.</p>
 
 <h3>Centrocampistas</h3>
 
+<p><strong>anchor</strong> <em>sustantivo</em> Un centrocampista defensivo que se mantiene central en la base del medio campo detrás del resto de los centrocampistas o delanteros.</p>
+
 <p><strong>attacking midfielder</strong> <em>sustantivo</em> También conocido como un diez, es un centrocampista que crea oportunidades de gol para sí mismo y para otros, a menudo jugando detrás de los delanteros. Proporcionan creatividad y visión en el tercio final.</p>
 
 <p><strong>center midfielder</strong> <em>sustantivo</em> También conocido como un ocho, es un centrocampista que se posiciona delante de la defensa y detrás de los delanteros.</p>
 
-<p><strong>holding midfielder</strong> <em>sustantivo</em> Un centrocampista que se posiciona delante de la línea defensiva y detrás de los centrocampistas atacantes o delanteros.</p>
-
 <p><strong>defensive midfielder</strong> <em>sustantivo</em> También conocido como un seis, es un centrocampista en la base del medio campo responsable de dictar el ritmo del juego, encontrar pases hacia adelante para los otros centrocampistas o delanteros y recuperar el balón delante de los defensores.</p>
 
-<p><strong>anchor</strong> <em>sustantivo</em> Un centrocampista defensivo que se mantiene central en la base del medio campo detrás del resto de los centrocampistas o delanteros.</p>
+<p><strong>outside midfielder</strong> <em>noun</em> También conocido como mediocampista izquierdo o derecho, este jugador opera en el ala, posicionado entre donde normalmente juegan un extremo y un lateral izquierdo, corriendo arriba y abajo del ala para ayudar tanto en defensa como en ataque.</p>
+
+<p><strong>holding midfielder</strong> <em>sustantivo</em> Un centrocampista que se posiciona delante de la línea defensiva y detrás de los centrocampistas atacantes o delanteros.</p>
 
 
 <h3>Defensores</h3>
@@ -365,15 +369,17 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <h3>Meio-campistas</h3>
 
+<p><strong>anchor</strong> <em>substantivo</em> Um meio-campista defensivo que permanece central na base do meio-campo atrás do restante dos meio-campistas ou atacantes.</p>
+
 <p><strong>attacking midfielder</strong> <em>substantivo</em> Também conhecido como dez, é um meio-campista que cria oportunidades de gol para si mesmo e para os outros, geralmente jogando atrás dos atacantes. Eles fornecem criatividade e visão no terço final do campo.</p>
 
 <p><strong>center midfielder</strong> <em>substantivo</em> Também conhecido como oito, é um meio-campista que se posiciona à frente da defesa e atrás dos atacantes.</p>
 
-<p><strong>holding midfielder</strong> <em>substantivo</em> Um meio-campista que se posiciona à frente da linha defensiva e atrás dos meio-campistas ofensivos ou atacantes.</p>
-
 <p><strong>defensive midfielder</strong> <em>substantivo</em> Também conhecido como seis, é um meio-campista na base do meio-campo responsável por ditar o ritmo do jogo, encontrar passes para os outros meio-campistas ou atacantes e recuperar a bola à frente dos defensores.</p>
 
-<p><strong>anchor</strong> <em>substantivo</em> Um meio-campista defensivo que permanece central na base do meio-campo atrás do restante dos meio-campistas ou atacantes.</p>
+<p><strong>outside midfielder</strong> <em>substantivo</em> Também conhecido como médio esquerdo ou direito, este jogador atua na ala, posicionado entre onde normalmente jogam um extremo e um lateral esquerdo, correndo para cima e para baixo da ala para ajudar tanto na defesa quanto no ataque.</p>
+
+<p><strong>holding midfielder</strong> <em>substantivo</em> Um meio-campista que se posiciona à frente da linha defensiva e atrás dos meio-campistas ofensivos ou atacantes.</p>
 
 <h3>Defensores</h3>
 
@@ -497,15 +503,17 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <h3>Centrocampisti</h3>
 
+<p><strong>anchor</strong> <em>sostantivo</em> Un centrocampista difensivo che rimane centrale alla base del centrocampo dietro il resto dei centrocampisti o degli attaccanti.</p>
+
 <p><strong>attacking midfielder</strong> <em>sostantivo</em> Anche conosciuto come dieci, è un centrocampista che crea opportunità di segnare per sé e per gli altri, spesso giocando dietro gli attaccanti. Forniscono creatività e visione nell'ultimo terzo del campo.</p>
 
 <p><strong>center midfielder</strong> <em>sostantivo</em> Anche conosciuto come otto, è un centrocampista che si posiziona davanti alla difesa e dietro agli attaccanti.</p>
 
-<p><strong>holding midfielder</strong> <em>sostantivo</em> Un centrocampista che si posiziona davanti alla linea difensiva e dietro agli attaccanti o ai centrocampisti offensivi.</p>
-
 <p><strong>defensive midfielder</strong> <em>sostantivo</em> Anche conosciuto come sei, è un centrocampista alla base del centrocampo responsabile di dettare il ritmo del gioco, trovando passaggi in avanti per gli altri centrocampisti o attaccanti e recuperando la palla davanti ai difensori.</p>
 
-<p><strong>anchor</strong> <em>sostantivo</em> Un centrocampista difensivo che rimane centrale alla base del centrocampo dietro il resto dei centrocampisti o degli attaccanti.</p>
+<p><strong>outside midfielder</strong> <em>sostantivo</em> Conosciuto anche come centrocampista sinistro o destro, questo giocatore opera sull'ala, posizionato tra dove di solito giocano un esterno e un terzino sinistro, correndo su e giù per l'ala per aiutare sia in difesa che in attacco.</p>
+
+<p><strong>holding midfielder</strong> <em>sostantivo</em> Un centrocampista che si posiziona davanti alla linea difensiva e dietro agli attaccanti o ai centrocampisti offensivi.</p>
 
 <h3>Difensori</h3>
 
@@ -629,15 +637,17 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <h3>Milieux de terrain</h3>
 
+<p><strong>anchor</strong> <em>nom</em> Un milieu de terrain défensif qui reste central à la base du milieu de terrain derrière le reste des milieux de terrain ou des attaquants.</p>
+
 <p><strong>attacking midfielder</strong> <em>nom</em> Aussi connu sous le nom de dix, est un milieu de terrain qui crée des opportunités de marquer pour eux-mêmes et pour les autres, jouant souvent derrière les attaquants. Ils fournissent de la créativité et de la vision dans le dernier tiers.</p>
 
 <p><strong>center midfielder</strong> <em>nom</em> Aussi connu sous le nom de huit, est un milieu de terrain qui se positionne devant la défense et derrière les attaquants.</p>
 
-<p><strong>holding midfielder</strong> <em>nom</em> Un milieu de terrain qui se positionne devant la ligne défensive et derrière les milieux de terrain offensifs ou les attaquants.</p>
-
 <p><strong>defensive midfielder</strong> <em>nom</em> Aussi connu sous le nom de six, est un milieu de terrain à la base du milieu de terrain, responsable de dicter le rythme du jeu, de trouver des passes en avant vers les autres milieux de terrain ou attaquants, et de récupérer le ballon devant les défenseurs.</p>
 
-<p><strong>anchor</strong> <em>nom</em> Un milieu de terrain défensif qui reste central à la base du milieu de terrain derrière le reste des milieux de terrain ou des attaquants.</p>
+<p><strong>outside midfielder</strong> <em>nom</em> Aussi connu sous le nom de milieu de terrain gauche ou droit, ce joueur opère sur l'aile, positionné entre l'endroit où un ailier et un arrière gauche jouent généralement, courant le long de l'aile pour aider à la fois en défense et en attaque.</p>
+
+<p><strong>holding midfielder</strong> <em>nom</em> Un milieu de terrain qui se positionne devant la ligne défensive et derrière les milieux de terrain offensifs ou les attaquants.</p>
 
 <h3>Défenseurs</h3>
 
@@ -761,15 +771,17 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 <h3>Mittelfeldspieler</h3>
 
+<p><strong>anchor</strong> <em>Substantiv</em> Ein defensiver Mittelfeldspieler, der zentral an der Basis des Mittelfelds bleibt, hinter den anderen Mittelfeldspielern oder Angreifern.</p>
+
 <p><strong>attacking midfielder</strong> <em>Substantiv</em> Auch bekannt als Zehner, ist ein Mittelfeldspieler, der Chancen für sich selbst und andere schafft, oft hinter den Stürmern spielt. Sie bieten Kreativität und Vision im letzten Drittel.</p>
 
 <p><strong>center midfielder</strong> <em>Substantiv</em> Auch bekannt als Achter, ist ein Mittelfeldspieler, der sich vor der Abwehr und hinter den Stürmern positioniert.</p>
 
-<p><strong>holding midfielder</strong> <em>Substantiv</em> Ein Mittelfeldspieler, der sich vor der Verteidigungslinie und hinter den offensiven Mittelfeldspielern oder Stürmern positioniert.</p>
-
 <p><strong>defensive midfielder</strong> <em>Substantiv</em> Auch bekannt als Sechser, ist ein Mittelfeldspieler an der Basis des Mittelfelds, der das Spieltempo bestimmt, Vorwärtspässe zu anderen Mittelfeldspielern oder Angreifern findet und den Ball vor den Verteidigern zurückgewinnt.</p>
 
-<p><strong>anchor</strong> <em>Substantiv</em> Ein defensiver Mittelfeldspieler, der zentral an der Basis des Mittelfelds bleibt, hinter den anderen Mittelfeldspielern oder Angreifern.</p>
+<p><strong>outside midfielder</strong> <em>Substantiv</em> Auch bekannt als linker oder rechter Mittelfeldspieler, operiert dieser Spieler auf dem Flügel, positioniert zwischen dem, wo normalerweise ein Flügelspieler und ein linker Verteidiger spielen, und läuft die Seitenlinie rauf und runter, um sowohl in der Verteidigung als auch im Angriff zu helfen.</p>
+
+<p><strong>holding midfielder</strong> <em>Substantiv</em> Ein Mittelfeldspieler, der sich vor der Verteidigungslinie und hinter den offensiven Mittelfeldspielern oder Stürmern positioniert.</p>
 
 <h3>Verteidiger</h3>
 
