@@ -77,7 +77,6 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # RSS feed
   - jekyll-redirect-from
-  - jekyll-last-modified-at
 
 
 permalink_defaults:
