@@ -819,7 +819,7 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 ---
 
-*<a href="#">Back to top</a>*
+<a href="#">Back to top</a>
 
 
 <script>
