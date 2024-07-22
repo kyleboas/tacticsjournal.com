@@ -686,6 +686,9 @@ Retroceder hacia tu propia portería o el balón.</p>
 
 ---
 
+*Last updated on: {{ site.github.updated_at | date: "%d %B %Y" }}*
+
+
 <script>
 // Get the language selector and content elements
 const languageSelector = document.querySelectorAll('.language-selector a');
