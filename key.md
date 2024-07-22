@@ -2,6 +2,7 @@
 title: Key
 layout: page
 description: "A reference to use when reading which defines the symbols and football terms used in my writing."
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/22/Image-22Jul2024_00:38:01.png"
 ---
 
 This a reference to use when reading which defines the symbols and football terms used in my writing.
