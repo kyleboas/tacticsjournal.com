@@ -703,21 +703,31 @@ function updateContent(lang) {
   if (lang === 'en') {
     enContent.style.display = 'block';
     esContent.style.display = 'none';
+    itContent.style.display = 'none';
     faContent.style.display = 'none';
     geContent.style.display = 'none';
   } else if (lang === 'es') {
     enContent.style.display = 'none';
     esContent.style.display = 'block';
+    itContent.style.display = 'none';
+    faContent.style.display = 'none';
+    geContent.style.display = 'none';
+  } else if (lang === 'it') {
+    enContent.style.display = 'none';
+    esContent.style.display = 'none';
+    itContent.style.display = 'block';
     faContent.style.display = 'none';
     geContent.style.display = 'none';
   } else if (lang === 'fa') {
     enContent.style.display = 'none';
     esContent.style.display = 'none';
+    itContent.style.display = 'none';
     faContent.style.display = 'block';
     geContent.style.display = 'none';
   } else if (lang === 'ge') {
     enContent.style.display = 'none';
     esContent.style.display = 'none';
+    itContent.style.display = 'none';
     faContent.style.display = 'none';
     geContent.style.display = 'block';
   } else {
