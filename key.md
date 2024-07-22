@@ -694,54 +694,37 @@ Retroceder hacia tu propia portería o el balón.</p>
 const languageSelector = document.querySelectorAll('.language-selector a');
 const enContent = document.querySelector('.en');
 const esContent = document.querySelector('.es');
-const itContent = document.querySelector('.it');
-const faContent = document.querySelector('.fa');
-const geContent = document.querySelector('.ge');
+const esContent = document.querySelector('.it');
+const esContent = document.querySelector('.fr');
+const esContent = document.querySelector('.ge');
 
 // Function to update the content based on the selected language
 function updateContent(lang) {
-  switch (lang) {
-    case 'en':
-      enContent.style.display = 'block';
-      esContent.style.display = 'none';
-      itContent.style.display = 'none';
-      faContent.style.display = 'none';
-      geContent.style.display = 'none';
-      break;
-    case 'es':
-      enContent.style.display = 'none';
-      esContent.style.display = 'block';
-      itContent.style.display = 'none';
-      faContent.style.display = 'none';
-      geContent.style.display = 'none';
-      break;
-    case 'it':
-      enContent.style.display = 'none';
-      esContent.style.display = 'none';
-      itContent.style.display = 'block';
-      faContent.style.display = 'none';
-      geContent.style.display = 'none';
-      break;
-    case 'fa':
-      enContent.style.display = 'none';
-      esContent.style.display = 'none';
-      itContent.style.display = 'none';
-      faContent.style.display = 'block';
-      geContent.style.display = 'none';
-      break;
-    case 'ge':
-      enContent.style.display = 'none';
-      esContent.style.display = 'none';
-      itContent.style.display = 'none';
-      faContent.style.display = 'none';
-      geContent.style.display = 'block';
-      break;
-    default:
-      enContent.style.display = 'none';
-      esContent.style.display = 'none';
-      itContent.style.display = 'none';
-      faContent.style.display = 'none';
-      geContent.style.display = 'none';
+  if (lang === 'en') {
+    enContent.style.display = 'block';
+    esContent.style.display = 'none';
+    faContent.style.display = 'none';
+    geContent.style.display = 'none';
+  } else if (lang === 'es') {
+    enContent.style.display = 'none';
+    esContent.style.display = 'block';
+    faContent.style.display = 'none';
+    geContent.style.display = 'none';
+  } else if (lang === 'fa') {
+    enContent.style.display = 'none';
+    esContent.style.display = 'none';
+    faContent.style.display = 'block';
+    geContent.style.display = 'none';
+  } else if (lang === 'ge') {
+    enContent.style.display = 'none';
+    esContent.style.display = 'none';
+    faContent.style.display = 'none';
+    geContent.style.display = 'block';
+  } else {
+    enContent.style.display = 'none';
+    esContent.style.display = 'none';
+    faContent.style.display = 'none';
+    geContent.style.display = 'none';
   }
 }
 
