@@ -721,7 +721,7 @@ function updateContent(lang) {
     enContent.style.display = 'none';
     esContent.style.display = 'none';
     itContent.style.display = 'none';
-    frContent.style.display = 'none';
+    frContent.style.display = 'block';
     geContent.style.display = 'none';
   } else if (lang === 'ge') {
     enContent.style.display = 'none';
