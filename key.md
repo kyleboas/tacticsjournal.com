@@ -8,9 +8,9 @@ This a reference to use when reading which defines the symbols and football term
 
 <p class="language-selector" style="text-align: center; font-size: 13px; font-family: helvetica">
       <a href="#" data-lang="en">English</a> • 
-      <a href="#" data-lang="es">Español</a>
-      <a href="#" data-lang="it">Italiano</a>
-      <a href="#" data-lang="fa">Français</a>
+      <a href="#" data-lang="es">Español</a> •
+      <a href="#" data-lang="it">Italiano</a> •
+      <a href="#" data-lang="fa">Français</a> •
       <a href="#" data-lang="ge">Deutsch</a>
     </p>
 
