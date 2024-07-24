@@ -22,7 +22,7 @@ As we know from Chelsea manager [Enzo Maresca's Coaches' Voice video](https://ta
 
 Enzo Maresca when asked if he would use an inverted left-back:
 
-> No, no. In these weeks, we try different situation; we try James inside, Reece. I watch his game when [...] he was loan from Chelsea to another club; I don't remember now; he was playing as a midfielder. I watched some games during the summer, so he can do that, to be honest. Malo (Gusto) is trying to do that, and he's doing fantastic. Marc (Cucurrela), as you said, he can do that, and we also try a different situation, different players that they can do it.
+> No, no. In these weeks, we try different situation; we try James inside, Reece. I watch his game when [...] he was loan from Chelsea to another club (Wigan); I don't remember now; he was playing as a midfielder. I watched some games during the summer, so he can do that, to be honest. Malo (Gusto) is trying to do that, and he's doing fantastic. Marc (Cucurrela), as you said, he can do that, and we also try a different situation, different players that they can do it.
 
 By "different situation," he is referring to a different tactic where maybe the left-back doesn't invert and the right-back does, or neither fullback inverts into the midfield. 
 
