@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-07-24 11:00 UTC
+date: 2024-07-25 11:00 UTC
 title: "Chelsea will use inverted fullback(s)"
 categories:
 - "Premier League"
