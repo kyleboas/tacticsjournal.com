@@ -15,7 +15,7 @@ Due to the versatility of the defenders, there are many different combinations C
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_12:33:00.png">
-    <figcaption>Figure 1.1 - Chelsea potential depth chart in a 3-4-3 box midfield formation. The two best positions are selected for each defender, if applicable.</figcaption>
+    <figcaption>Figure 1.1 - Chelsea potential depth chart in a 3-4-3 box midfield formation, not including academy players. The two best positions are selected for each defender, if applicable.</figcaption>
 </figure>
 
 As we know from Chelsea manager [Enzo Maresca's Coaches' Voice video](https://tacticsjournal.com/2024/05/31/how-enzo-maresca-transitions-to-defense-in-a-3-box-3/), he likes using a 3-2 sub-structure. Three center-backs and a double pivot in possession transform into a 4-4-2 formation out of possession.
