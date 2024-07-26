@@ -9,7 +9,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/25/Image-25Jul2024_03:07:17.png"
 ---
 
-Attacking zonally means that players stay in their zone, but the game looks more open when players enter other players' zones where there is overlap to combine. The old approach to forcing players not to roam might be outdated.
+Attacking zonally means that players stay in their zone, but the game looks more open when players enter other players' zones where there is overlap to combine. The old approach forcing players not to roam might be outdated.
 
 <!---more--->
 
