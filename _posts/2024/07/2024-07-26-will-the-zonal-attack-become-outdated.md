@@ -39,7 +39,7 @@ But then the more dynamic players become restless, and it's only until then, whe
 
 Current Chelsea manager Enzo Maresca is working towards a zonal attack, and a non-zonal attack is what I think former manager Mauricio Pochettino was working towards. 
 
-It is harder to work the ball forward and create chances in a super rigid zonal attack, but it is easier to [defend with the ball](https://tacticsjournal.com/2024/06/25/to-defend-or-defend-with-the-ball/). If Wrexham can stop a super rigid zonal attack, you could make the argument that it has been found out by most teams that it might be becoming outdated.
+It is harder to work the ball forward and create chances in a super rigid zonal attack, but it is easier to [defend with the ball](https://tacticsjournal.com/2024/06/25/to-defend-or-defend-with-the-ball/). If Wrexham can stop a super rigid zonal attack, you could make the argument that it has been found out by most teams, that it might be becoming outdated.
 
 Technical and athletic system players like Raheem Sterling and Christopher Nkunku should perform better in a zonal attack because the rigidity helps showcase their sharpness, while playmakers and creatives like Cole Palmer and Noni Madueke should perform better in a non-zonal attack because they'd have more room and freedom to move.
 
