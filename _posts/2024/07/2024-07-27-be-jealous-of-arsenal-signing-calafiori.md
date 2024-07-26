@@ -26,4 +26,4 @@ Midfielders that can play as defenders or fullbacks, central defenders that can 
 
 Everyone except for the goalkeeper will need to play in at least two positions. That helps when dealing with the congested schedule, but it will allow teams to be unpredictable. 
 
-I really wanted to see him play again for Thiago Motta at Juventus, but this will do.
+I really wanted to see him play again for Thiago Motta at Juventus because he brought that out of him. Now the question is, will Arteta allow him to show that spontaneity that got him signed, or will he play a more reserved role?
