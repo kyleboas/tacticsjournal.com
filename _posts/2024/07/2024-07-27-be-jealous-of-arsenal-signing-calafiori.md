@@ -18,7 +18,7 @@ We should be jealous of Arsenal for signing Ricardo Calafori because he is the p
     <figcaption>Figure 1.1 - The positions Ricardo Calafori can take up.</figcaption>
 </figure>
 
-He can play in the center of defense, wide left as a fullback, inverting into midfield, starting in the midfield, running through the channels, and overlapping wide. I'm sure he can play on the right side of the defense. Top teams need multiple Calafiori's. 
+He can play in the center of defense, wide left as a fullback, inverting into midfield, starting in the midfield, running through the channels, and overlapping wide. He is tall but nimble, not awkward on the ball, and fast. I'm sure he can play on the right side of the defense. Top teams need multiple Calafiori's. 
 
 This versatility to play anywhere is what will be needed if teams want to break free from the zonal approach. I don't want to see him shackled to one position. To get everything out of him, you have to let him move where he wants to move. 
 
