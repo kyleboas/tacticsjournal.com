@@ -34,7 +34,7 @@ But then the more dynamic players become restless, and it's only until then, whe
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/25/Image-25Jul2024_22:10:33.png">
-    <figcaption>Figure 2.1 - An example of a non-zonal attack where players </figcaption>
+    <figcaption>Figure 2.1 - An example of a non-zonal attack where players' zones always overlap as they coalesce around the ball.</figcaption>
 </figure>
 
 Current Chelsea manager Enzo Maresca is working towards a zonal attack, and a non-zonal attack is what I think former manager Mauricio Pochettino was working towards. 
