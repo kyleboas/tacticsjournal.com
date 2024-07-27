@@ -1,11 +1,12 @@
 ---
 layout: post
-date: 2024-07-27 11:00 UTC
+date: 2024-07-28 11:00 UTC
 title: "Be jealous of Arsenal signing Calafiori"
 categories:
 - "Premier League"
 tags:
 - "Arsenal"
+- "Mikel Arteta"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/26/Image-26Jul2024_00:43:59.png"
 ---
 
