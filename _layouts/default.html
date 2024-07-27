@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ Tactics Journal: page.title | default: site.name }}</title>
+    <title>
+      {% if page.title %}
+         {{ site.name }}: {{ page.title }}
+       {% else %}
+         {{ site.name }}
+       {% endif %}
+     </title>
 
     {% include favicon.html %}
      
