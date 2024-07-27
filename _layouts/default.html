@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>
-      {% if page.title %}
-         {{ site.name }}: {{ page.title }}
-       {% else %}
-         {{ site.name }}
-       {% endif %}
-     </title>
+    <title>{% if page.title %}{{ page.title }} - Tactics Journal{% else %}Tactics Journal{% endif %}</title>
 
     {% include favicon.html %}
      
