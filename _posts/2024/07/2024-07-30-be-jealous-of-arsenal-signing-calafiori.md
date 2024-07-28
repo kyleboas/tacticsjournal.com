@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-07-29 11:00 UTC
+date: 2024-07-30 11:00 UTC
 title: "Be jealous of Arsenal signing Calafiori"
 categories:
 - "Premier League"
