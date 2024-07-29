@@ -46,7 +46,7 @@ What sponsors get:
 - A display ad at the top of every  of the site, all week long.
 - A post from the sponsor will appear at the start of the week on all social media channels. You, the sponsor, get to address the Tactics Journal’s most dedicated readers directly.
 
-About Tactic Journal’s audience:
+About the Tactic Journal’s audience:
 
 - Typical weekday web page views: 1,500-3,000
 - Estimated monthly web page views: 5,000-10,000
