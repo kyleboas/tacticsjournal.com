@@ -21,7 +21,11 @@ You should be jealous of Arsenal for signing Ricardo Calafori because he is the 
 
 He can play in the center of defense, wide left as a fullback, inverting into midfield, starting in the midfield, running through the channels, and overlapping wide. He is tall but nimble, not awkward on the ball, and fast. I'm sure he can play on the right side of the defense. Top teams need multiple Calafiori's. 
 
-This versatility to play anywhere is what will be needed if teams want to break free from the zonal approach. I don't want to see him shackled to one position. To get everything out of him, you have to let him move where he wants to move. 
+[Calafori on who he models his game after](https://www.arsenal.com/news/15-facts-you-need-know-about-riccardo-calafiori):
+
+> John Stones is my reference. His style of play is closest to mine. It’s not off the cuff when I go into midfield. It’s following the guidelines of the coach.
+
+This versatility to play anywhere is what will be needed if teams want to break free from the zonal approach. He shouldn't be shackled to one position. To get everything out of him, you have to let him move where he wants to move. He needs to be allowed to play "off the cuff." 
 
 Midfielders that can play as defenders or fullbacks, central defenders that can play as midfielders or fullbacks, wingers that can play as fullbacks or center-forwards, fullbacks that can play as wingers or midfielders—this should be where the game in Europe is headed again, in my opinion. 
 
