@@ -1,4 +1,5 @@
 ---
+title: Support
 layout: page
 ---
 
