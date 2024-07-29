@@ -85,7 +85,8 @@
           link: post.link, // Include the link in the results
           excerpt: highlightedExcerpt,
           tags: post.tags,
-          categories: post.categories
+          categories: post.categories,
+          content: post.content // Add content to results
         });
       }
     }
@@ -143,11 +144,7 @@
         li.appendChild(dateElement);
 
         var p = document.createElement('p');
-        if (i === 0) {
-          p.innerHTML = posts[0].content; // Display full content for the first post
-        } else {
-          p.innerHTML = result.excerpt; // Display excerpt for other posts
-        }
+        p.innerHTML = result.content; // Display full content
         li.appendChild(p);
 
         postList.appendChild(li);
@@ -162,15 +159,15 @@
       noResultsMessage.style.display = 'none';
 
       for (var i = 0; i < results.length; i++) {
-      var result = results[i];
-      var li = document.createElement('li');
-      li.classList.add('post-item');
+        var result = results[i];
+        var li = document.createElement('li');
+        li.classList.add('post-item');
 
-      var a = document.createElement('a');
-      a.href = result.url;
-      a.innerHTML = result.title;
-      a.classList.add('long-title');
-      li.appendChild(a);
+        var a = document.createElement('a');
+        a.href = result.url;
+        a.innerHTML = result.title;
+        a.classList.add('long-title');
+        li.appendChild(a);
 
         var dateElement = document.createElement('p');
         dateElement.classList.add('post-date');
@@ -178,7 +175,7 @@
         li.appendChild(dateElement);
 
         var p = document.createElement('p');
-        p.innerHTML = result.excerpt;
+        p.innerHTML = result.content; // Display full content
         li.appendChild(p);
 
         postList.appendChild(li);
@@ -231,14 +228,14 @@
     var tempTags = inputText ? tags.concat([inputText]) : tags;
     renderResults(search(tempTags));
   });
-  
-// Get the search query from the URL
+
+  // Get the search query from the URL
   var searchQuery = new URLSearchParams(window.location.search).get('search');
   if (searchQuery) {
     searchInput.value = searchQuery;
   }
-  
-searchInput.addEventListener('input', function () {
+
+  searchInput.addEventListener('input', function () {
     var query = searchInput.value;
     var results = search(query);
     renderResults(results);
