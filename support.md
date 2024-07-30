@@ -1,9 +1,9 @@
 ---
-title: Support
+title: Backing
 layout: page
 ---
 
-The best way to support me is to share the blog with ten of your friends. Those ten friends will share it with ten of their friends, and so on.
+The best way to support me is to share the blog with ten of your friends. Those ten friends will share it with ten of their friends, and so on. The other way to support me is to engage with the content I share with you from my sponsors and affiliates.
 
 ---
 
