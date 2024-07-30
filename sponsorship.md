@@ -5,7 +5,7 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/0
 
 **SCHEDULE:**
 
-Jul 29 – Aug 4: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+Jul 29 – Aug 4: Unavailable
 
 Aug 5 – Aug 11: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
