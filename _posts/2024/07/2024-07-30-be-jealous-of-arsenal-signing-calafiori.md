@@ -21,7 +21,7 @@ You should be jealous of Arsenal for signing Ricardo Calafori because he is the 
 
 He can play in the center of defense, wide left as a fullback, inverting into midfield, starting in the midfield, running through the channels, and overlapping wide. He is tall but nimble, not awkward on the ball, and fast. I'm sure he can play on the right side of the defense. Top teams need multiple Calafiori's. 
 
-[Calafori on who he models his game after](https://www.arsenal.com/news/15-facts-you-need-know-about-riccardo-calafiori):
+Calafori on who he models his game after:
 
 > John Stones is my reference. His style of play is closest to mine. It’s not off the cuff when I go into midfield. It’s following the guidelines of the coach.
 
@@ -33,4 +33,8 @@ Everyone except for the goalkeeper will need to play in at least two positions. 
 
 Gabriel Martinelli should be protecting him at all costs because the Italian will be providing him the same service Bukayo Saka receives from Ben White on the right wing, something that was missing on the left wing.
 
-I really wanted to see him play again for Thiago Motta at Juventus because he brought that out of him. Now the question is, will Arteta allow him to show that spontaneity that got him signed, or will he play a more reserved role? 
+Mikel Arteta on if he will play as a center-back or left-back:
+
+> Both positions, especially the way we want to play and the way we want to evolve in our game models. He is a player who is going to fit into what we want.
+
+I really wanted to see him play again for Thiago Motta at Juventus because he brought that out of him. He played for Motta as a left center-back at Bologna. Now the question is, will Arteta allow him to show that spontaneity that got him signed, or will he play a more reserved role? 
