@@ -19,7 +19,7 @@ Fantasy Football Hub provides members with a suite of AI-powered features, inclu
  
 [Get Fantasy Football Hub](https://fantasyfootballhub.co.uk/join?via=tacticsjournal)
 
-{% include video.html url="https://www.youtube.com/embed/https://youtu.be/A_CPkCktBTQ?si=sOsuKcdbvZTYavZT" %}
+{% include video.html url="https://www.youtube.com/embed/A_CPkCktBTQ?si=sOsuKcdbvZTYavZT" %}
 
 Be Your Best is the VR football app to improve your vision, decision making, and cognitive skills. 
 
