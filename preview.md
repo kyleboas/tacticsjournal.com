@@ -3,6 +3,9 @@ layout: default
 permalink: /preview/
 ---
 
+{% include banner.html %}
+
+
 <div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px;">
     <img src="
 https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-13Jul2024_19:28:03.png" alt="Image" style="width: 40px; margin-right: 10px;">
