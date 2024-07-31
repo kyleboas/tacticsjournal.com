@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/30/Image-
         <a href="https://youtu.be/A_CPkCktBTQ?si=HsHuvxVcCnBy8_eb">Be Your Best</a> is the VR football app to improve your vision, decision making, and cognitive skills. <a href="https://www.portal.beyourbest.com/?via=tacticsjournal">Sign up.</a>
     </p>
 </div>
-<p style="margin-top: -15px; margin-left: 60px; font-size:13px;"><small>If you sign up using this link I will earn a small commission.</small></p>
+<p style="margin-top: -15px; margin-left: 60px; font-size:13px;"><small>If you sign up using this link I will earn a commission.</small></p>
 
 <div class="searchInput">
   <div id="search-criteria-container">
