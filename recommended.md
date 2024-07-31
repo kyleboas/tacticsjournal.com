@@ -7,6 +7,8 @@ excerpt: "A list of all the blogs, websites, YouTube channels, and Podcasts I fo
 
 Here is a list of all the blogs, websites, YouTube channels, and Podcasts I follow to learn more about football and tactics. Everyone on this list I admire and look up to. They gave me the inspiration to write about football.
 
+<small>If you sign up using the links with an asterisk I will earn a commission.</small>
+
 ---
 
 ## Analysis 
