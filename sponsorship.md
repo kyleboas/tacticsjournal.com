@@ -1,11 +1,10 @@
 ---
 layout: default
+title: "Sponsorship"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_19:00:14.png" 
 ---
 
 **SCHEDULE:**
-
-Jul 29 – Aug 4: Unavailable
 
 Aug 5 – Aug 11: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
@@ -20,6 +19,8 @@ Sep 2 – Sep 8: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 Sep 9 – Sep 15: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 Sep 16 – Sep 22: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Sep 23 – Sep 29: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 PRICE: $105
 
