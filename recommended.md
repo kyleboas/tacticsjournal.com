@@ -124,9 +124,21 @@ My go-tos for football and injury news.
 
 * [FBref](https://fbref.com)
 * [FBref StatHead](https://stathead.com/fbref)
-* [FPL Data](https://www.fpl-data.co.uk/statistics)
 * [Understat](https://understat.com)
 * [WhoScored](https://www.whoscored.com)
+
+### Fantasy Premier League
+
+* [All About FPL](https://allaboutfpl.com)
+* [Fantasy Football Hub*](https://fantasyfootballhub.co.uk/join?via=tacticsjournal) 
+* [Fantasy Football Scout](https://www.fantasyfootballscout.co.uk)
+* [FPL Data](https://www.fpl-data.co.uk/statistics)
+
+---
+
+## Apps
+
+* [Be Your Best*](https://www.portal.beyourbest.com/?via=tacticsjournal)
 
 ---
 
