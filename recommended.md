@@ -280,7 +280,6 @@ Curated lists I've made to follow X, formerly Twitter accounts. Lists are the be
 
 --- 
 
-
-This is by all means not a complete list. I'm sorry if I missed adding you. I will continue to add to this. 
+The best way to support me is to share the blog with ten of your friends. Those ten friends will share it with ten of their friends, and so on. 
 
 My advice will always be that you must watch a lot of games to gain a better understanding. I have learned everything I know through playing and watching football. 
