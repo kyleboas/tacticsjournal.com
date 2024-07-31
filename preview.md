@@ -2,7 +2,7 @@
 layout: default
 permalink: /preview/
 ---
-
+ 
 <div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px;">
     <img src="
 https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/30/Image-30Jul2024_01:02:42.png" alt="Image" style="width: 40px; margin-right: 10px;">
