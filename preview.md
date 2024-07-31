@@ -3,7 +3,14 @@ layout: default
 permalink: /preview/
 ---
 
-{% include banner.html %}
+<div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px;">
+    <img src="
+https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/30/Image-30Jul2024_01:02:42.png" alt="Image" style="width: 40px; margin-right: 10px;">
+    <p style="font-size: 14px; margin: 0;">
+        <a href="https://youtu.be/A_CPkCktBTQ?si=HsHuvxVcCnBy8_eb">Be Your Best</a> is the VR football app to improve your vision, decision making, and cognitive skills. <a href="https://www.portal.beyourbest.com/?via=tacticsjournal">Sign up.</a>
+    </p>
+</div>
+<p style="margin-top: -15px; margin-left: 60px; font-size:13px;"><small>If you sign up using this link I will earn a small commission.</small></p>
 
 <div class="searchInput">
   <div id="search-criteria-container">
