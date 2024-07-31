@@ -175,7 +175,7 @@
         li.appendChild(dateElement);
 
         var p = document.createElement('p');
-        p.innerHTML = result.content; // Display full content
+        p.innerHTML = result.excerpt; // Display full content
         li.appendChild(p);
 
         postList.appendChild(li);
