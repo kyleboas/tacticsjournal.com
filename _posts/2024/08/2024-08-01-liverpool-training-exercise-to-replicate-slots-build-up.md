@@ -19,7 +19,7 @@ During [Liverpool's open training](https://www.youtube.com/live/E4O1lF-57Wc?si=h
     <figcaption>Figure 1.1 - Start of the drill with the attackers in red and the defenders in green. The ball is played out to the center-backs.</figcaption>
 </figure>
 
-The drill starts like this with two center-backs, two midfielders, and two forwards on the attacking side (red), with one player marking the center-backs, two players marking the midfielders, and one player marking the forwards in defense (green). 
+The drill starts like this with two center-backs, two midfielders, and two forwards on the attacking side (red), with one player marking the center-backs, two players marking the midfielders, and one player marking the forwards in defense (green). This is used to practice playing out from the goalkeeper to the wings or through in on goal.
 
 The ball gets played out by the goalkeeper, and then the center-backs pass back and forth. The goalkeeper doesn't get involved after the initial pass. 
 
