@@ -34,4 +34,4 @@ The ball is played out, and then every move thereafter is natural to find the qu
 
 It is the quickness of the passing that sets Liverpool apart, as shown in [their first preseason match against Real Betis](https://tacticsjournal.com/2024/07/27/arne-slot-shows-signs-of-balancing-liverpools-buildup/) and in their match against Arsenal.
 
-Once they bait the press and trigger the pass, that pass forward, then back, and then bait the opponent's second line into pressing seems important to them. There is freedom to be spontaneous, but they are always unconsciously looking for and finding that pass.
+Once they bait the press and trigger the pass, that pass forward, then back, and then bait the opponent's second line into pressing seems important to them. There is freedom to be spontaneous, but they are always unconsciously looking for and finding that pass. It is not a pre planned play but it is in their mind before they start passing forward.
