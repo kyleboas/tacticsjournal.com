@@ -34,4 +34,4 @@ No information is shared with third parties, including sponsors and affiliates.
 
 ## Questions 
 
-If you have any questions about the privacy policy, email me at kyle@tacticsjournal.com.
+If you have any questions about the privacy policy, email me at <a href="mailto:kyle@tacticsjournal.com">kyle@tacticsjournal.com</a>.
