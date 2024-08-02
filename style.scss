@@ -135,6 +135,29 @@ body {
   margin-right: 10px;
 }
 
+.footer-section { 
+  padding-top: 10px;
+  padding-bottom: 10px;
+} 
+
+.footer-section-header {
+  font-weight: bold;
+  margin-bottom: -5px;
+} 
+
+.footer-text { 
+  line-height: 25px;
+}
+
+.footer-text a {
+  text-decoration: none;
+}
+
+.copyright {
+  padding-top: 20px;
+  padding-bottom; 20px;
+} 
+
 .title-and-date {
   display: flex;
   flex-direction: column;
