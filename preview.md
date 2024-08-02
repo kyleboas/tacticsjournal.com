@@ -2,6 +2,52 @@
 layout: default
 permalink: /preview/
 ---
+
+<style>
+    #cookie-notice { font-weight: 900; font-size: 1rem; padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8); z-index: 9000;}
+    #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+    @media (max-width: 767px) {
+        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+        #cookie-notice .btn a {position: relative; bottom: 4px;}
+    }
+</style>
+<div id="cookie-notice">
+    <span>This site collects analytics data without collecting cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/" >Privacy Policy</a></span>
+    <a id="cookie-notice-accept" class="btn btn-primary btn-sm .button">Accept</a>
+</div>
+
+<script>
+    function createCookie(name, value, days) {
+        var expires = "";
+        if (days) { 
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    if (readCookie('cookie-notice-dismissed') !== 'true') {
+        document.getElementById('cookie-notice').style.display = 'block';
+    }
+
+    document.getElementById('cookie-notice-accept').addEventListener("click", function() {
+        createCookie('cookie-notice-dismissed', 'true', 180);
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    });
+</script>
  
 <div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px;">
     <img src="
