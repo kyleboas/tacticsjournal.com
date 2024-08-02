@@ -12,7 +12,7 @@ permalink: /preview/
     }
 </style>
 <div id="cookie-notice">
-    <span>This site collects analytics data and shares links that contain cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/" >Privacy Policy</a></span>
+    <span>This site uses cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/" >Privacy Policy</a></span>
     <a id="cookie-notice-accept" class="btn btn-primary btn-sm .button">Accept</a>
 </div>
 
