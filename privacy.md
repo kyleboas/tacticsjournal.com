@@ -3,7 +3,7 @@ layout: page
 title: "Privacy Policy"
 ---
 
-## Analytics 
+## Analytics
 
 The following information is collected to help me get a better understanding of what visitors are reading:
 
