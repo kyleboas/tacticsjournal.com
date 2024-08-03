@@ -24,12 +24,13 @@ permalink: /preview/
         margin-right: 0.5rem;
         font-size: 10px;
         width: 60%;
+        display: inline-block;
     }
     #cookie-notice a { 
         display: inline; 
         cursor: pointer; 
     }
-    .cookie-notice-accept { 
+    #cookie-notice-accept { 
   background-color: #5dbea3;
   border-radius: 8px;
   border-style: none;
@@ -57,10 +58,6 @@ permalink: /preview/
   -webkit-user-select: none;
   touch-action: manipulation;
 } 
-   .cookie-notice-accept:hover,
-.cookie-notice-accept:focus {
-  background-color: #fff;
-}
     }
     @media (max-width: 767px) {
         #cookie-notice { 
@@ -74,7 +71,7 @@ permalink: /preview/
 </style>
 <div id="cookie-notice">
     <span>This site uses cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/" >Privacy Policy</a></span>
-    <a id="cookie-notice-accept" class="cookie-notice-accept">Accept</a>
+    <a id="cookie-notice-accept" class="btn btn-primary btn-sm .button">Accept</a>
 </div>
 
 <script>
