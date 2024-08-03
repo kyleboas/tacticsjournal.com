@@ -4,16 +4,77 @@ permalink: /preview/
 ---
 
 <style>
-    #cookie-notice { font-weight: 900; font-size: 1rem; padding: 0.5rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: calc(100% - 2rem); background: #222; color: rgba(255,255,255,0.8); z-index: 9000;}
-    #cookie-notice a {display: inline-block; cursor: pointer; margin-left: 0.5rem;}
+        #cookie-notice { 
+        font-size: 1rem; 
+        padding: 0.5rem 1rem; 
+        display: none; 
+        text-align: left; 
+        position: fixed; 
+        bottom: 0; 
+        font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background: rgb(238, 238, 238); 
+        color: #000; 
+       
+        display: flex;
+        justify-content: left;
+        left: 0;
+         
+  }
+     #cookie-notice span { 
+        margin-right: 0.5rem;
+        font-size: 10px;
+        width: 60%;
+    }
+    #cookie-notice a { 
+        display: inline-block; 
+        cursor: pointer; 
+    }
+    .cookie-notice-accept { 
+  background-color: #5dbea3;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #000;
+  cursor: pointer;
+  display: inline-block; /* Changed from inline to inline-block */
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: fixed;
+  right: 20px;
+  bottom: 8px;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+} 
+   .cookie-notice-accept:hover,
+.cookie-notice-accept:focus {
+  background-color: #fff;
+}
+    }
     @media (max-width: 767px) {
-        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
-        #cookie-notice .btn a {position: relative; bottom: 4px;}
+        #cookie-notice { 
+            flex-direction: column;
+        }
+        #cookie-notice span { 
+            margin-right: 0; 
+            margin-bottom: 1rem;
+        }
     }
 </style>
 <div id="cookie-notice">
     <span>This site uses cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/" >Privacy Policy</a></span>
-    <a id="cookie-notice-accept" class="btn btn-primary btn-sm .button">Accept</a>
+    <a id="cookie-notice-accept" class="cookie-notice-accept">Accept</a>
 </div>
 
 <script>
