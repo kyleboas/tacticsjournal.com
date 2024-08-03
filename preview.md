@@ -103,7 +103,6 @@ permalink: /preview/
     document.getElementById('cookie-notice-accept').addEventListener("click", function() {
         createCookie('cookie-notice-dismissed', 'true', 180);
         document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
     });
 </script>
  
