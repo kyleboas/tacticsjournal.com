@@ -3,112 +3,122 @@ layout: default
 permalink: /preview/
 ---
 
-<style>
-    #cookie-notice { 
-        font-size: 1rem; 
-        padding: 0.5rem 1rem; 
-        display: none; 
-        text-align: left; 
-        position: fixed; 
-        bottom: 0; 
-        font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-        background: rgb(238, 238, 238); 
-        color: #000; 
-        display: flex;
-        justify-content: left;
-        left: 0;
-        padding-top: 20px;
-        padding-bottom: 20px;
-    }
-    #cookie-notice span { 
-        margin-right: 0.5rem;
-        font-size: 10px;
-        width: 60%;
-        display: inline-block;
-    }
-    #cookie-notice a { 
-        display: block; 
-        cursor: pointer; 
-    }
-    #cookie-notice-accept { 
-        background-color: #5dbea3;
-        border-radius: 8px;
-        border-style: none;
-        box-sizing: border-box;
-        color: #000;
-        cursor: pointer;
-        display: inline-block;
-        font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 14px;
-        font-weight: 500;
-        height: 40px;
-        line-height: 20px;
-        list-style: none;
-        margin: 0;
-        outline: none;
-        padding: 10px 16px;
-        position: fixed;
-        right: 20px;
-        bottom: 22px;
-        text-align: center;
-        text-decoration: none;
-        transition: color 100ms;
-        vertical-align: baseline;
-        user-select: none;
-        -webkit-user-select: none;
-        touch-action: manipulation;
-    } 
-    @media (max-width: 767px) {
+    <style>
         #cookie-notice { 
-            flex-direction: column;
+            font-size: 1rem; 
+            padding: 0.5rem 1rem; 
+            display: none; 
+            text-align: left; 
+            position: fixed; 
+            bottom: 0; 
+            font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background: rgb(238, 238, 238); 
+            color: #000; 
+            display: flex;
+            justify-content: left;
+            left: 0;
+            padding-top: 20px;
+            padding-bottom: 20px;
         }
         #cookie-notice span { 
-            margin-right: 0; 
-            margin-bottom: 1rem;
+            margin-right: 0.5rem;
+            font-size: 10px;
+            width: 60%;
+            display: inline-block;
         }
-    }
-</style>
-<div id="cookie-notice">
-    <span>This site uses cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/" >Privacy Policy</a></span>
-    <a id="cookie-notice-accept" class="btn btn-primary btn-sm .button">Accept</a>
-</div>
-
-<script>
-    function createCookie(name, value, days) {
-        var expires = "";
-        if (days) { 
-            var date = new Date();
-            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-            expires = "; expires=" + date.toUTCString();
+        #cookie-notice a { 
+            display: block; 
+            cursor: pointer; 
         }
-        document.cookie = name + "=" + value + expires + "; path=/";
-        console.log("Cookie created: " + name + "=" + value + expires);
-    }
-
-    function readCookie(name) {
-        var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
-        for(var i = 0; i < ca.length; i++) {
-            var c = ca[i];
-            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        #cookie-notice-accept { 
+            background-color: #5dbea3;
+            border-radius: 8px;
+            border-style: none;
+            box-sizing: border-box;
+            color: #000;
+            cursor: pointer;
+            display: inline-block;
+            font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+            height: 40px;
+            line-height: 20px;
+            list-style: none;
+            margin: 0;
+            outline: none;
+            padding: 10px 16px;
+            position: fixed;
+            right: 20px;
+            bottom: 22px;
+            text-align: center;
+            text-decoration: none;
+            transition: color 100ms;
+            vertical-align: baseline;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+        } 
+        @media (max-width: 767px) {
+            #cookie-notice { 
+                flex-direction: column;
+            }
+            #cookie-notice span { 
+                margin-right: 0; 
+                margin-bottom: 1rem;
+            }
         }
-        return null;
-    }
+    </style>
+</head>
+<body>
+    <div id="cookie-notice">
+        <span>This site uses cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/" >Privacy Policy</a></span>
+        <a id="cookie-notice-accept" class="btn btn-primary btn-sm .button">Accept</a>
+    </div>
 
-    document.addEventListener("DOMContentLoaded", function() {
-        if (readCookie('cookie-notice-dismissed') !== 'true') {
-            document.getElementById('cookie-notice').style.display = 'block';
-        } else {
-            console.log("Cookie read: cookie-notice-dismissed=true");
+    <!-- Your existing content here -->
+    
+    <script>
+        function createCookie(name, value, days) {
+            var expires = "";
+            if (days) { 
+                var date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                expires = "; expires=" + date.toUTCString();
+            }
+            document.cookie = name + "=" + value + expires + "; path=/";
+            console.log("Cookie created: " + name + "=" + value + expires);
         }
-    });
 
-    document.getElementById('cookie-notice-accept').addEventListener("click", function() {
-        createCookie('cookie-notice-dismissed', 'true', 180);
-        document.getElementById('cookie-notice').style.display = 'none';
-    });
-</script>
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+
+        document.addEventListener("DOMContentLoaded", function() {
+            const cookieNotice = document.getElementById('cookie-notice');
+            const cookieValue = readCookie('cookie-notice-dismissed');
+            console.log("Cookie read value:", cookieValue);
+            
+            if (cookieValue !== 'true') {
+                cookieNotice.style.display = 'block';
+            } else {
+                console.log("Cookie read: cookie-notice-dismissed=true");
+                cookieNotice.style.display = 'none';
+            }
+        });
+
+        document.getElementById('cookie-notice-accept').addEventListener("click", function() {
+            createCookie('cookie-notice-dismissed', 'true', 180);
+            document.getElementById('cookie-notice').style.display = 'none';
+        });
+    </script>
+
 
  
 <div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px;">
