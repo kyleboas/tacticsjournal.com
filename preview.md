@@ -27,7 +27,7 @@ permalink: /preview/
         display: inline-block;
     }
     #cookie-notice a { 
-        display: inline; 
+        display: block; 
         cursor: pointer; 
     }
     #cookie-notice-accept { 
