@@ -4,7 +4,7 @@ permalink: /preview/
 ---
 
 <style>
-        #cookie-notice { 
+    #cookie-notice { 
         font-size: 1rem; 
         padding: 0.5rem 1rem; 
         display: none; 
@@ -19,8 +19,8 @@ permalink: /preview/
         left: 0;
         padding-top: 20px;
         padding-bottom: 20px;
-  }
-     #cookie-notice span { 
+    }
+    #cookie-notice span { 
         margin-right: 0.5rem;
         font-size: 10px;
         width: 60%;
@@ -31,34 +31,33 @@ permalink: /preview/
         cursor: pointer; 
     }
     #cookie-notice-accept { 
-  background-color: #5dbea3;
-  border-radius: 8px;
-  border-style: none;
-  box-sizing: border-box;
-  color: #000;
-  cursor: pointer;
-  display: inline-block; /* Changed from inline to inline-block */
-  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  font-weight: 500;
-  height: 40px;
-  line-height: 20px;
-  list-style: none;
-  margin: 0;
-  outline: none;
-  padding: 10px 16px;
-  position: fixed;
-  right: 20px;
-  bottom: 22px;
-  text-align: center;
-  text-decoration: none;
-  transition: color 100ms;
-  vertical-align: baseline;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-} 
-    }
+        background-color: #5dbea3;
+        border-radius: 8px;
+        border-style: none;
+        box-sizing: border-box;
+        color: #000;
+        cursor: pointer;
+        display: inline-block;
+        font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        height: 40px;
+        line-height: 20px;
+        list-style: none;
+        margin: 0;
+        outline: none;
+        padding: 10px 16px;
+        position: fixed;
+        right: 20px;
+        bottom: 22px;
+        text-align: center;
+        text-decoration: none;
+        transition: color 100ms;
+        vertical-align: baseline;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+    } 
     @media (max-width: 767px) {
         #cookie-notice { 
             flex-direction: column;
@@ -83,6 +82,7 @@ permalink: /preview/
             expires = "; expires=" + date.toUTCString();
         }
         document.cookie = name + "=" + value + expires + "; path=/";
+        console.log("Cookie created: " + name + "=" + value + expires);
     }
 
     function readCookie(name) {
@@ -96,15 +96,20 @@ permalink: /preview/
         return null;
     }
 
-    if (readCookie('cookie-notice-dismissed') !== 'true') {
-        document.getElementById('cookie-notice').style.display = 'block';
-    }
+    document.addEventListener("DOMContentLoaded", function() {
+        if (readCookie('cookie-notice-dismissed') !== 'true') {
+            document.getElementById('cookie-notice').style.display = 'block';
+        } else {
+            console.log("Cookie read: cookie-notice-dismissed=true");
+        }
+    });
 
     document.getElementById('cookie-notice-accept').addEventListener("click", function() {
         createCookie('cookie-notice-dismissed', 'true', 180);
         document.getElementById('cookie-notice').style.display = 'none';
     });
 </script>
+
  
 <div style="display: flex; align-items: center; padding: 10px; margin-bottom: 5px;">
     <img src="
