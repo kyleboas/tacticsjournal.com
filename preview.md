@@ -14,11 +14,11 @@ permalink: /preview/
         font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
         background: rgb(238, 238, 238); 
         color: #000; 
-       
         display: flex;
         justify-content: left;
         left: 0;
-         
+        padding-top: 20px;
+        padding-bottom: 20px;
   }
      #cookie-notice span { 
         margin-right: 0.5rem;
@@ -26,7 +26,7 @@ permalink: /preview/
         width: 60%;
     }
     #cookie-notice a { 
-        display: inline-block; 
+        display: inline; 
         cursor: pointer; 
     }
     .cookie-notice-accept { 
@@ -48,7 +48,7 @@ permalink: /preview/
   padding: 10px 16px;
   position: fixed;
   right: 20px;
-  bottom: 8px;
+  bottom: 22px;
   text-align: center;
   text-decoration: none;
   transition: color 100ms;
