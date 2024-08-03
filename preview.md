@@ -42,7 +42,7 @@ permalink: /preview/
         font-size: 14px;
         font-weight: 500;
         height: 40px;
-        line-height: 20px;
+        line-height: 38px;
         list-style: none;
         margin: 0;
         outline: none;
