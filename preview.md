@@ -3,9 +3,9 @@ layout: default
 permalink: /preview/
 ---
 
-    <style>
-        #cookie-notice { 
-            font-size: 1rem; 
+<style>
+   #cookie-notice { 
+       font-size: 1rem; 
             padding: 0.5rem 1rem; 
             display: none; 
             text-align: left; 
@@ -49,7 +49,7 @@ permalink: /preview/
             padding: 10px 16px;
             position: fixed;
             right: 20px;
-            bottom: 22px;
+            bottom: 38px;
             text-align: center;
             text-decoration: none;
             transition: color 100ms;
@@ -67,17 +67,13 @@ permalink: /preview/
                 margin-bottom: 1rem;
             }
         }
-    </style>
-</head>
-<body>
-    <div id="cookie-notice">
+</style>
+<div id="cookie-notice">
         <span>This site uses cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/" >Privacy Policy</a></span>
         <a id="cookie-notice-accept" class="btn btn-primary btn-sm .button">Accept</a>
     </div>
-
-    <!-- Your existing content here -->
     
-    <script>
+<script>
         function createCookie(name, value, days) {
             var expires = "";
             if (days) { 
@@ -117,7 +113,7 @@ permalink: /preview/
             createCookie('cookie-notice-dismissed', 'true', 180);
             document.getElementById('cookie-notice').style.display = 'none';
         });
-    </script>
+</script>
 
 
  
