@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-08-04 11:00 UTC
+date: 2024-08-08 11:00 UTC
 title: "The new NFL kickoff rules"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/02/Image-02Aug2024_00:58:45.png"
 ---
