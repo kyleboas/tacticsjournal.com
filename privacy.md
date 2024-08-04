@@ -5,7 +5,7 @@ title: "Privacy Policy"
 
 ## Analytics
 
-The following information is collected to help me get a better understanding of what visitors are reading:
+The following information is collected to help me get a better understanding of what visitors are reading and where they are coming from:
 
 - URL of the visited page.
 - Referrer (Twitter, Facebook, Google, or any other third-party website).
