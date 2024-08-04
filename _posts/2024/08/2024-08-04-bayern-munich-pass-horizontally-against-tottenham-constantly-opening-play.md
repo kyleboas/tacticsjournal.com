@@ -41,7 +41,7 @@ Vincent Kompany spoke after the game about why they did not start with a natural
 
 I think the tactic of constantly looking for the pass to the other side of the pitch will persist despite the fact that the players picked were for the opponent because it was effective.
 
-It was a very effective way of playing against Tottenham because they do try to press high, although it is a bit half-hearted. Defenders are rarely given a challenge in the same way Bayern Munich did. Tottenham are already stretched across the pitch attempting to press high, then you throw in constant switches of play, and as Munich zigzag around the pitch, space into the box opens up. 
+It was a very effective way of playing against Tottenham because they do try to press high, although their press is a bit half-hearted. Defenders are rarely challenging the man from behind with the same intensity as Bayern Munich. Tottenham are already stretched across the pitch attempting to press high, then you throw in constant switches of play, and as Munich zigzag around the pitch, space into the box opens up. 
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_13:33:39.png">
