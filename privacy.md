@@ -22,7 +22,7 @@ If you would like to opt out of being tracked, you would have to stop visiting t
 
 I have several sponsors for which I share links in posts, pages, and banner ads promoting their products or services. I will make it clear with a disclaimer that the link is sponsored.
 
-Some sponsored links may use "cookies". The cookies are used to track if you make a purchase of a product or service on the website that I have referred you to. If you make a purchase on the website linked to, after clicking on the link I shared, before the cookie expires, I will earn a commission. The expiration of the cookie varies depending on the sponsor; it can be anywhere up to 90 days. 
+Some sponsored links may use "cookies". The cookies are used to track if you make a purchase of a product or service on the website that I have referred you to. If you make a purchase on the website I linked to, after clicking on the link I shared, before the cookie expires, I will earn a commission. The expiration of the cookie varies depending on the sponsor; it can be anywhere up to 90 days.
 
 Please read the privacy policy of the website I have referred you to learn more about their cookie policy.
 
