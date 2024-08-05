@@ -6,17 +6,19 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/0
 
 **SCHEDULE:**
 
-Aug 5 – Aug 11: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+Jul 29 — Aug 04: Sold
 
-Aug 12 – Aug 18: Unavailable
+Aug 05 – Aug 11: Sold
+
+Aug 12 – Aug 18: Sold
 
 Aug 19 – Oct 25: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
-Aug 26 – Sep 1: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+Aug 26 – Sep 01: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
-Sep 2 – Sep 8: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+Sep 02 – Sep 08: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
-Sep 9 – Sep 15: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+Sep 09 – Sep 15: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 Sep 16 – Sep 22: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
