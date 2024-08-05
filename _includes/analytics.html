@@ -23,9 +23,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
         // Create a script element
         const script = document.createElement("script");
-        script.src = "https://gc.zgo.at/count.js";
+        script.setAttribute("data-goatcounter", "https://tacticsjournal.goatcounter.com/count");
         script.async = true;
-        script.dataset.goatcounter = "https://tacticsjournal.goatcounter.com/count";
+        script.src = "//gc.zgo.at/count.js"; // Note the src value without the protocol
 
         // Append the script to the body or head
         document.head.appendChild(script);
