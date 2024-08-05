@@ -1,4 +1,3 @@
-{% if site.google_analytics %}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     console.log("Document loaded");
@@ -24,15 +23,8 @@ document.addEventListener("DOMContentLoaded", function() {
         // Create a script element
         const script = document.createElement("script");
         script.setAttribute("data-goatcounter", "https://tacticsjournal.goatcounter.com/count");
-        
-        // Create a text node with the text "async"
-        const asyncText = document.createTextNode("async ");
-
-        // Append the text node to the script element
-        script.appendChild(asyncText);
-
-        // Set the src attribute
-        script.src = "//gc.zgo.at/count.js"; // Note the src value without the protocol
+        script.async = true; // Set the async attribute without outputting = ""
+        script.src = "//gc.zgo.at/count.js"; // Set the src attribute
 
         // Append the script to the head
         document.head.appendChild(script);
@@ -42,5 +34,4 @@ document.addEventListener("DOMContentLoaded", function() {
         console.log("Cookie 'cookie-notice-dismissed' is not set to true. GoatCounter script will not be loaded.");
     }
 });
-</script> 
-{% endif %}
+</script>
