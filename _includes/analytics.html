@@ -21,9 +21,14 @@ document.addEventListener("DOMContentLoaded", function() {
     if (cookieValue === "true") {
         console.log("Cookie 'cookie-notice-dismissed' is set to true. Loading GoatCounter script.");
 
-        // Create a script element from a string and append it to the document
-        const scriptString = '<script data-goatcounter="https://tacticsjournal.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>';
-        document.head.insertAdjacentHTML('beforeend', scriptString);
+        // Create a script element
+        const script = document.createElement("script");
+        script.setAttribute("data-goatcounter", "https://tacticsjournal.goatcounter.com/count");
+        script.async = true;
+        script.src = "//gc.zgo.at/count.js"; // Note the src value without the protocol
+
+        // Append the script to the body or head
+        document.head.appendChild(script);
 
         console.log("GoatCounter script added to the document.");
     } else {
