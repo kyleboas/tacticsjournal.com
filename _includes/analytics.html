@@ -8,15 +8,18 @@ document.addEventListener("DOMContentLoaded", function() {
         const value = `; ${document.cookie}`;
         const parts = value.split(`; ${name}=`);
         if (parts.length === 2) {
-            console.log(`Cookie "${name}" found with value: ${parts.pop().split(';').shift()}`);
-            return parts.pop().split(';').shift();
+            const cookieValue = parts.pop().split(';').shift();
+            console.log(`Cookie "${name}" found with value: ${cookieValue}`);
+            return cookieValue;
         }
         console.log(`Cookie "${name}" not found`);
+        return null;
     }
 
     // Check if the cookie "cookie-notice-dismissed" is set
-    if (getCookie("cookie-notice-dismissed")) {
-        console.log("Cookie 'cookie-notice-dismissed' is set. Loading GoatCounter script.");
+    const cookieValue = getCookie("cookie-notice-dismissed");
+    if (cookieValue === "true") {
+        console.log("Cookie 'cookie-notice-dismissed' is set to true. Loading GoatCounter script.");
 
         // Create a script element
         const script = document.createElement("script");
@@ -27,9 +30,9 @@ document.addEventListener("DOMContentLoaded", function() {
         // Append the script to the body or head
         document.head.appendChild(script);
 
-        console.log("GoatCounter script added.");
+        console.log("GoatCounter script added to the document.");
     } else {
-        console.log("Cookie 'cookie-notice-dismissed' is not set. GoatCounter script will not be loaded.");
+        console.log("Cookie 'cookie-notice-dismissed' is not set to true. GoatCounter script will not be loaded.");
     }
 });
 </script>
