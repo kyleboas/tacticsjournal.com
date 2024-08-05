@@ -24,10 +24,17 @@ document.addEventListener("DOMContentLoaded", function() {
         // Create a script element
         const script = document.createElement("script");
         script.setAttribute("data-goatcounter", "https://tacticsjournal.goatcounter.com/count");
-        scriptElement.async = true; 
+        
+        // Create a text node with the text "async"
+        const asyncText = document.createTextNode("async ");
+
+        // Append the text node to the script element
+        script.appendChild(asyncText);
+
+        // Set the src attribute
         script.src = "//gc.zgo.at/count.js"; // Note the src value without the protocol
 
-        // Append the script to the body or head
+        // Append the script to the head
         document.head.appendChild(script);
 
         console.log("GoatCounter script added to the document.");
