@@ -6,11 +6,11 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/0
 
 **SCHEDULE:**
 
-Jul 29 — Aug 04: Sold
+Jul 29 — Aug 04: Reserved
 
-Aug 05 – Aug 11: Sold
+Aug 05 – Aug 11: Reserved
 
-Aug 12 – Aug 18: Sold
+Aug 12 – Aug 18: Reserved
 
 Aug 19 – Oct 25: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
