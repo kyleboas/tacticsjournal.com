@@ -6,15 +6,15 @@
     if (parts.length == 2) return parts.pop().split(";").shift();
   }
 
-  if (getCookie('cookie-consent-dismissed')) {
-    console.log('Cookie "cookie-consent-dismissed" is set. Loading Clicky script.');
+  if (getCookie('cookie-consent-dismissed') === 'true') {
+    console.log('Cookie "cookie-consent-dismissed" is set to true. Loading Clicky script.');
     var script = document.createElement('script');
     script.async = true;
     script.setAttribute('data-id', '101461096');
     script.src = '//static.getclicky.com/js';
     document.head.appendChild(script);
   } else {
-    console.log('Cookie "cookie-consent-dismissed" is not set. Clicky script will not be loaded.');
+    console.log('Cookie "cookie-consent-dismissed" is not set to true. Clicky script will not be loaded.');
   }
 </script>
 {% endif %}
