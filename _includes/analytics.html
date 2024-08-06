@@ -1,25 +1,4 @@
 {% if site.google_analytics %}
-	<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    function getCookie(name) {
-      let value = "; " + document.cookie;
-      let parts = value.split("; " + name + "=");
-      if (parts.length == 2) return parts.pop().split(";").shift();
-    }
-
-    const cookieValue = getCookie('cookie-notice-dismissed');
-    console.log('cookie-notice-dismissed:', cookieValue); // Log the value of the cookie for debugging
-
-    if (cookieValue === 'true') {
-      console.log('Cookie "cookie-notice-dismissed" is set to true. Loading Clicky script.');
-      var script = document.createElement('script');
-      script.async = true;
-      script.setAttribute('data-id', '101461096');
-      script.src = '//static.getclicky.com/js';
-      document.head.appendChild(script);
-    } else {
-      console.log('Cookie "cookie-notice-dismissed" is not set to true. Clicky script will not be loaded.');
-    }
-  });
-</script>
+	<script
+        async data-id="101461096" src="//static.getclicky.com/js"></script>
 {% endif %}
