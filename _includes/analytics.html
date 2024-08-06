@@ -7,18 +7,18 @@
       if (parts.length == 2) return parts.pop().split(";").shift();
     }
 
-    const cookieValue = getCookie('cookie-consent-dismissed');
-    console.log('cookie-consent-dismissed:', cookieValue); // Log the value of the cookie for debugging
+    const cookieValue = getCookie('cookie-notice-dismissed');
+    console.log('cookie-notice-dismissed:', cookieValue); // Log the value of the cookie for debugging
 
     if (cookieValue === 'true') {
-      console.log('Cookie "cookie-consent-dismissed" is set to true. Loading Clicky script.');
+      console.log('Cookie "cookie-notice-dismissed" is set to true. Loading Clicky script.');
       var script = document.createElement('script');
       script.async = true;
       script.setAttribute('data-id', '101461096');
       script.src = '//static.getclicky.com/js';
       document.head.appendChild(script);
     } else {
-      console.log('Cookie "cookie-consent-dismissed" is not set to true. Clicky script will not be loaded.');
+      console.log('Cookie "cookie-notice-dismissed" is not set to true. Clicky script will not be loaded.');
     }
   });
 </script>
