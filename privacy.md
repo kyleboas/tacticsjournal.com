@@ -5,7 +5,7 @@ title: "Privacy Policy"
 
 ## Analytics
 
-I use third party analytics software from Clicky. I use it to track what people are reading and how they are using my site.
+I use third party analytics software from Clicky. I use it to see what people are reading and how they are using my site. You can view their [Privacy Policy](https://clicky.com/terms/privacy) to see what information is collected.
 
 If you would like to opt out of being tracked, [visit this page](https://clicky.com/optout).
 
