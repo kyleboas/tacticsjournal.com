@@ -5,7 +5,7 @@ title: "Privacy Policy"
 
 ## Analytics
 
-I use third party analytics software from [Clicky](https://clicky.com/terms/privacy) and [GoatCounter](https://www.goatcounter.com/help/privacy). I use it to see what people are reading and how they are using my site. You can view their Privacy Policy to see what information is collected.
+I use third party analytics software from [Clicky](https://clicky.com/terms/privacy) and [GoatCounter](https://www.goatcounter.com/help/privacy). I use it to see what people are reading and how they are using my site. You can view their Privacy Policy to see what information is collected. 
 
 ## Sponsors
 
