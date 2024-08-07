@@ -15,6 +15,6 @@ The Tactics Journal is reader-supported. If you make a purchase using [this link
 
 Fanatics is the world's largest collection of officially licensed fan gear from all the leagues, teams and players you love. Not only do they have authentic and replica kits for most teams in Europe; they have a large selection of jackets, t-shirts, shorts, hats, exclusive autographed memorabilia, and more. If you wanted something to remember the Olympics, they have a section of Paris 2024 gear.
 
-What is in my cart: There is this [Juventus Polo Training shirt](https://fanatics.93n6tx.net/9g50ME) that caught my eye. I like to collect trading cards and the [2023-24 Topps Museum Collection UEFA Club Competitions Hobby Box](https://fanatics.93n6tx.net/ana7xY) was recently released. I'm a Manchester City fan, I have to get their [2023/24 Third Kit](https://fanatics.93n6tx.net/3eDg9n). The third kit is the standout this year.
+What is in my cart: There is this [Juventus Polo Training shirt](https://fanatics.93n6tx.net/9g50ME) that caught my eye. This [Mẽs Que Un Club Barcelona T-Shirt](https://fanatics.93n6tx.net/rQ6YoG) looks nice. I'm a Manchester City fan, I have to get their [2023/24 Third Kit](https://fanatics.93n6tx.net/3eDg9n). The third kit is the standout this year.
 
 If you are from the United States, they have a free shipping deal that ends on August 10th. They do ship internationally.
