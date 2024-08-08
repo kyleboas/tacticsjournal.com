@@ -5,6 +5,8 @@ description: "A reference to use when reading which defines the symbols and foot
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/22/Image-22Jul2024_00:38:01.png"
 ---
 
+<p><em>last updated: 8 August 2024</em></p>
+
 This a reference to use when reading which defines the symbols and football terms used in my writing.
 
 <p class="language-selector" style="text-align: center; font-size: 13px; font-family: helvetica">
