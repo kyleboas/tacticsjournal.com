@@ -28,6 +28,8 @@ This was more noticeable in Liverpool's second game of the day against Las Palma
 
 This leaves a lot more room on the left, but it also means that the ball carrier always has three players within 10 yards to play off of. Then, when the ball is played wide, that overlapping run is made by the fullback automatically. The fact that the run is made nine times out of ten seems notable.
 
+The left-back is going to cross more often from the edge of the penalty box, in the corner, while the right-back will cross from deep and cut in to shoot from the top of the penalty box. The left-back will get onto more crosses at the top left hand side of the box when the left-winger makes the run to the near post.
+
 And although it seems super positional on paper or in writing, it is not in person. There's a structure to execute the passes but it is a very fluid structure that the player's determine on the fly.
 
 *Match: Liverpool 4-1 Sevilla and Liverpool 0-0 Las Palmas, 11 August 2024*
