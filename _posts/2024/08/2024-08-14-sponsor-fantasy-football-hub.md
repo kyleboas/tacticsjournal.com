@@ -77,7 +77,7 @@ Brighton are a sneaky team to watch. [They shouldn't be as defensively aloof und
 
 I want to target players that get the most shots on target, and with Fantasy Football Hub, I can do that using their data provided by Opta.
 
-Fantasy Premier League made a big change to bonus points. Now, for each shot on target, two points will be awarded towards bonus. To me, that is a bit overpowered. 
+Fantasy Premier League made a [big change to bonus points](https://www.premierleague.com/news/4058895). Now, for each shot on target, two points will be awarded towards bonus. To me, that is a bit overpowered. 
 
 For every cross, you get one point. Think about how we target players specifically for crossing. Now imagine Manchester City have Brentford pinned back, and they are taking endless pot shots at goal. One shot on target equals two crosses. 
 
