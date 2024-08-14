@@ -65,7 +65,7 @@ Brighton are [a fun team to watch](https://tacticsjournal.com/2024/08/03/fabian-
     <figcaption>Figure 2.2 - Projected clean sheets for GW1-GW6.</figcaption>
 </figure>
 
-The projected clean sheets don't favor Arsenal, but Arsenal are Arsenal. It is hard to bet against them. They are a class above defensively.
+It is hard to bet against Arsenal when it comes to defending. They are a class above everyone else.
 
 I do think Arne Slot will make Liverpool more defensively secure initially, but with the way they build up short, it's new. They may be prone to errors in the short term if they are passing out of their own penalty area.
 
