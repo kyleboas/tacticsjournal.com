@@ -15,6 +15,8 @@ I follow all the finer tactical details and changes for each Premier League team
 
 <small>The Tactics Journal is reader-supported. If you get a subscription using the links marked with an asterisk*, I may earn a commission. </small>
 
+---
+
 ## Mini-League
 
 First off, I would like to invite you to join the Tactics Journal league.
@@ -22,6 +24,8 @@ First off, I would like to invite you to join the Tactics Journal league.
 Code: **l9tf6d**
 
 Or you can use the **[auto-join link](https://fantasy.premierleague.com/leagues/auto-join/l9tf6d)**.
+
+---
 
 ## [Fixture Analyzer](https://www.fantasyfootballhub.co.uk/fixture-ticker?via=tacticsjournal)*
 
@@ -73,6 +77,8 @@ The clean sheet odds seem to indicate that Manchester City might need to score t
 
 Brighton are a sneaky team to watch. [They shouldn't be as defensively aloof under new management](https://tacticsjournal.com/2024/08/03/fabian-hurzeler-gives-the-brighton-players-confidence-in-themselves/).
 
+---
+
 ## [Opta Stats](https://www.fantasyfootballhub.co.uk/opta?via=tacticsjournal)*
 
 I want to target players that get the most shots on target, and with Fantasy Football Hub, I can do that using their data provided by Opta.
@@ -101,7 +107,9 @@ Other sites have similar features, but I specifically like the opposition streng
 
 The opposition strength filter is incredibly important and influential in decisions for the reasons I stated above about the fixtures. Certain players perform better against better teams or worse teams.  
 
-When picking my team, I'll be going down the list of players who take a ton of shots on target either per start or per 90 minutes. 
+When picking my team, I'll be going down the list of players who take a ton of shots on target either per start or per 90 minutes.
+
+---
 
 ## [Free AI Team Rating](https://www.fantasyfootballhub.co.uk/my-team/pick?via=tacticsjournal)*
 
