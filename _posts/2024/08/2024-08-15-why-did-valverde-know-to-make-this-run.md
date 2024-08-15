@@ -6,7 +6,7 @@ categories:
 - "La Liga"
 tags:
 - "Real Madrid"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_23:45:21.png
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_23:45:21.png"
 ---
 
 Federico Valverde initiates and perfectly times this run into the box before Jude Bellingham passes to Vinicius Jr. because Real Madrid teaches their players how to recognize patterns within unscripted movement.
