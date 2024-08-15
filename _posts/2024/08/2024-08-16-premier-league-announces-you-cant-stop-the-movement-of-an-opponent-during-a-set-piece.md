@@ -19,4 +19,4 @@ I agree with the change because corner kicks have become a bit ridiculous. It wa
 
 If you can score from every corner, how do other teams compete? Teams work hard to score in open play, and you can just waltz up and bang one in from nothing. A set play run from the training ground with the player unimpeded kicking the ball. [That is gamebreaking](https://tacticsjournal.com/2024/08/13/the-mind-of-an-innovator/).
 
-A major part of why those that are successful from set pieces are the holding, the screens. It looks more like basketball setting a pick and roll or a [rugby line-out](https://tacticsjournal.com/2023/05/15/the-brentford-line-out/).
+A major part of why those that are successful from set pieces are the holding, the screens. It looks more like basketball setting a pick and roll or a [rugby line-out](https://tacticsjournal.com/2023/05/15/the-brentford-line-out/). Shielding the ball from the goalkeeper in the air was [becoming more common](https://tacticsjournal.com/2024/02/04/shielding-the-ball-from-the-goalkeeper-in-the-air-is-becoming-more-common/).
