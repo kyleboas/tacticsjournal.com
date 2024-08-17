@@ -45,4 +45,6 @@ As the game wore on, that intensity dropped off. Bruno Fernandes breaks down the
 
 Fulham are vulnerable on the far side, and then United can attack the goal centrally with Zirkzee and Scott McTominay crashing the box. Goal, game won. United should have scored on at least two to three other occasions, but a win is a win.
 
+Fulham aren't the same yet without Joao Palhinha. When they become stretched, the gap to play through is between the center-backs.
+
 *Match: Manchester United 1-0 Fulham, 16 August 2024*
