@@ -18,6 +18,8 @@ Arne Slot when asked what it was that they changed in the second half:
 
 > First thing I said was, 'We don't have to speak about tactics if you lose so many duels,' and that's what we did. That's not (to say) Jarell (Quansah) lost every duel; many of us lost too many duels. I think we needed (Ibrahima) Konate to win these long balls through the air from the number nine. That gave us control. 
 
+That sounds like something Arsenal manager Mikel Arteta would say but it is true in almost any team.
+
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_23:18:06.png">
     <figcaption>Figure 1.1 - Jarell Quansah waits until the ball is passed to close down his man, forcing him to foul the forward.</figcaption>
