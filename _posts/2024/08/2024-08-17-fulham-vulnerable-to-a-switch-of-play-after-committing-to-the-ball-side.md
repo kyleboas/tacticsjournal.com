@@ -34,13 +34,15 @@ If Fulham can keep that intensity up, constantly look to switch play on the grou
 
 Play one pass, and then those seven men have to file back into their own end and wait for the ball to come to them. 
 
+I didn't like how slowly United were moving the ball across the pitch, when they trapped Fulham on the one side. It wasn't until the second half that they realized how significant switching the play was to help stretch Fulham.
+
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_00:29:23.png">
     <figcaption>Figure 2.1 - The lead up to Manchester United's goal, as Bruno Fernandes passes to Joshua Zirkzee.</figcaption>
 </figure>
 
-As the game wore on, that intensity dropped off. Bruno Fernandes breaks down the wing, switches to Joshua Zirkzee, and then he turns to play the ball to the right wing. 
+As the game wore on, that intensity dropped off. Bruno Fernandes breaks down the wing, switches to Joshua Zirkzee, and then he turns to play the ball to the right wing.
 
-Fulham are vulnerable to the isolation on the far side, and then United can attack the goal centrally with Zirkzee and Scott McTominay crashing the box.
+Fulham are vulnerable on the far side, and then United can attack the goal centrally with Zirkzee and Scott McTominay crashing the box. Goal, game won. United should have scored on at least two to three other occasions, but a win is a win.
 
 *Match: Manchester United 1-0 Fulham, 16 August 2024*
