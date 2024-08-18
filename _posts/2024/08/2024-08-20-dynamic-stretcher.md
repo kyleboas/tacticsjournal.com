@@ -14,19 +14,25 @@ Marco Lai, a match analyst for Cagaliari U20 and a writer, on his definition of 
 
 > The content we find on social media is often extremely rapid and accessible to all. It was created to capture attention in the shortest time possible and to be quickly consumed. This type of communication is, by definition, superficial. Football analysis videos on Instagram and TikTok rarely exceed one minute, and in that brief time span, it is impossible to provide a true analysis. What is offered is a synthesis—a reduced and simplified version of reality.
 
-I like short-form content. I think there is a market for overviews. I also like simple explanations. I don't think finding more words to explain something means it is a better explanation, but I agree that that style can produce superficial content.
+I like short-form content. I think there is a market for overviews. I also like simple explanations. I don't think that because it is reduced or simplified, it is a worse explanation of what happened, but I agree that that short-form style can produce superficial content.
+
+You could flip that, though, and say there is a market of people who can't pick up on the obvious. Therefore, you would have to simplify it to help them understand, while still going into detail.
+
+What is obvious? It is not made for people who know what to look for; those people are bored because they know most of the answers. The problem is, how do you know if everyone else knows?
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/18/Image-18Aug2024_11:21:03.png">
-    <figcaption>Figure 1.1 - A dynamic stretcher</figcaption>
+    <figcaption>Figure 1.1 - A dynamic stretcher.</figcaption>
 </figure>
 
-It can also produce content that is harder to understand if the simple explanation doesn't translate. My favorite one is "dynamic stretcher."
+Shorter-form content can also produce content that is harder to understand than it needs to be. My favorite descriptor for a player that I saw is "dynamic stretcher." You can guess what that means. I don't know specifically what that means, but you can guess.
 
-You could flip that, though, and say there is a market of people who can't pick up on the obvious. 
+If the majority has to ask the person what it means, it is probably not a good description.
 
-What is obvious? It is not made for people who know what to look for; those people are bored because they know the answer. The problem is, how do you know if everyone else knows?
+To appeal to both audiences, those with larger attention spans and those with shorter ones, I would rather go for micro-analysis. Dig deep and diagnose one concept, problem, or play. Try to get the maximum amount of detail out of one issue, and then move on to the next at a later date.
 
-People who produce longer-form analysis are withholding that information to present it in a larger, longer piece. More words. I would rather go for micro-analysis. Dig deep and diagnose one concept, problem, or play. Try to get the maximum amount of detail.
+Stitch all those plays together, and you get the full picture.
 
-Stitch all those plays together, and you get the full picture. 
+Withholding all of those pieces and then stitching them together into one longer-form piece isn't more impressive to me; it's just longer. More words.
+
+What is impressive is when someone can describe something in the easiest way possible so that anyone can understand.
