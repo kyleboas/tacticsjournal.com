@@ -27,7 +27,9 @@ What is obvious? It is not made for people who know what to look for; those peop
 
 Shorter-form content can also produce content that is harder to understand than it needs to be. My favorite descriptor for a player that I saw is "dynamic stretcher." You can guess what that means. I don't know specifically what that means, but you can guess.
 
-If the majority has to ask the person what it means, it is probably not a good description.
+I watched Jaylon Johnson and Richard Sherman, two NFL cornerbacks, [talk about a play](https://youtube.com/shorts/I_12u332v_w?si=sHjysiNx8uibPjXx) where Jaylon Johnson picked off a pass for an interception. Johnson and Sherman referred to Cover 4 as "Palms" in the conversation. Anyone that has played Madden knows what Cover 4 is, almost no one knows what "Palms" is.
+
+If the majority has to ask the person what it means, and the audience is everyone, it is probably not a good description.
 
 To appeal to both audiences, those with larger attention spans and those with shorter ones, I would rather go for micro-analysis. Dig deep and diagnose one concept, problem, or play. Try to get the maximum amount of detail out of one issue, and then move on to the next at a later date.
 
