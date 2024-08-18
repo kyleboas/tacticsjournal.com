@@ -16,6 +16,11 @@ Marco Lai, a match analyst for Cagaliari U20 and a writer, on his definition of 
 
 I like short-form content. I think there is a market for overviews. I also like simple explanations. I don't think finding more words to explain something means it is a better explanation, but I agree that that style can produce superficial content.
 
+<figure>
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/18/Image-18Aug2024_11:21:03.png">
+    <figcaption>Figure 1.1 - A dynamic stretcher</figcaption>
+</figure>
+
 It can also produce content that is harder to understand if the simple explanation doesn't translate. My favorite one is "dynamic stretcher."
 
 You could flip that, though, and say there is a market of people who can't pick up on the obvious. 
