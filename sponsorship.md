@@ -18,7 +18,7 @@ Aug 26 – Sep 01: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 Sep 02 – Sep 08: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
-Sep 09 – Sep 15: Unavailable
+Sep 09 – Sep 15: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 Sep 16 – Sep 22: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
