@@ -12,7 +12,7 @@ Aug 05 – Aug 11: Reserved
 
 Aug 12 – Aug 18: Reserved
 
-Aug 19 – Oct 25: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+Aug 19 – Oct 25: Reserved
 
 Aug 26 – Sep 01: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
