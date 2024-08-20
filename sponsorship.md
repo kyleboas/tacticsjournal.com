@@ -24,7 +24,7 @@ Sep 16 – Sep 22: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 Sep 23 – Sep 29: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
-PRICE: $50
+PRICE: $55
 
 To schedule a sponsorship or for additional information, email <a href="mailto:sponsors@tacticsjournal.com">sponsors@tacticsjournal.com</a>.
 
