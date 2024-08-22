@@ -61,7 +61,6 @@ Sponsorship is exclusive. Only one sponsor per week. I will not accept any gambl
 
 ---
 
-## Sponsored Posts
 Here are some examples of past sponsored posts from both sponsors and affiliates.
 
 <div class="searchInput">
