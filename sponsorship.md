@@ -57,7 +57,7 @@ About the Tactic Journal’s audience:
 
 ---
 
-Sponsorship is exclusive. Only one sponsor per week. I will not accept any gambling sponsorships.
+Sponsorship is exclusive. Only one sponsor per week. I will not accept any gambling sponsorships and I would only help promote something I support personally. 
 
 ---
 
