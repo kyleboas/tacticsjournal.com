@@ -5,7 +5,7 @@ title: "Ancelotti: 'There is something wrong' if defenders and goalkeepers are g
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/20/Image-20Aug2024_19:35:33.png"
 ---
 
-Former Everton and current Real Madrid manager Carlo Ancelotti [thinks there is 'something wrong'](https://youtube.com/shorts/R8d_HzXq8ik?si=4fSPogM8Xh_ESsFK) if the defenders and goalkeeper are the ones who are getting the majority of the touches, regardless of whether it works or not.
+Former Everton and current Real Madrid manager Carlo Ancelotti thinks there is 'something wrong' if the defenders and goalkeeper are the ones who are getting the majority of the touches, regardless of whether it works or not.
 
 <!---more--->
 
