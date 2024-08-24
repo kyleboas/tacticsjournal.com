@@ -19,7 +19,7 @@ Understanding the why in regard to injuries is becoming more and more important 
     <figcaption>Figure 1.1 - Training intensity versus volume. Image credit to professionalsoccercoaching</figcaption>
 </figure>
 
-Guillaume Van de Wege writing for the [United District](https://utddistrict.co.uk/man-utd-erik-ten-hag-injury-crisis-details/27/07/2024/):
+Guillaume Van de Wege writing for [UtdDistrict](https://utddistrict.co.uk/man-utd-erik-ten-hag-injury-crisis-details/27/07/2024/):
 
 > As intensity ramps up throughout the preparation phase, volume starts to decrease in anticipation of the first competitive games. Around the start of the competition phase, a complete cross-over occurs, where intensity is the primary factor between the two. Until the winter break (or end of the season, for some leagues), teams now enter a phase where they maintain the fitness built up throughout the preparation phase.
 > 
