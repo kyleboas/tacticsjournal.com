@@ -3,7 +3,7 @@ layout: post
 date: 2024-08-25 18:00 UTC
 title: "Lyon — Monaco: Uninspiring (0-2)"
 categories:
-- "Between the Posts"
+- "Between The Posts"
 - "Ligue 1"
 tags:
 - "Monaco"
