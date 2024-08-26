@@ -24,7 +24,7 @@ Sep 16 – Sep 22: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 Sep 23 – Sep 29: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
-PRICE: $55
+PRICE: $50
 
 To schedule a sponsorship or for additional information, email <a href="mailto:sponsors@tacticsjournal.com">sponsors@tacticsjournal.com</a>.
 
@@ -57,7 +57,29 @@ About the Tactic Journal’s audience:
 
 ---
 
-Sponsorship is exclusive. Only one sponsor per week. I will not accept any gambling sponsorships.
+Sponsorship is exclusive. Only one sponsor per week. I will not accept any gambling sponsorships and I would only help promote something I support personally. 
+
+---
+
+Here are some examples of past sponsored posts from both sponsors and affiliates.
+
+<div class="searchInput">
+  <div id="search-criteria-container">
+    <input type="text" id="search-input" placeholder="Search...">
+  </div>
+  <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
+  <div class="resultBox">
+    <!-- here list are inserted from javascript -->
+  </div>
+</div>
+
+<ul id="post-list"></ul>
+
+<hr>
+
+<p><em>To view all of the posts, <a href="https://tacticsjournal.com/archive/">visit the archive</a> or <a href="https://tacticsjournal.com/#top">search</a> at the top of the page.</em></p>
+
+<script src="/js/sponsor-search.js"></script>
 
 <style>
     .date-container {
