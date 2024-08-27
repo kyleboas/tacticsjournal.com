@@ -14,7 +14,7 @@ Marco Lai, a match analyst for Cagaliari U20 and a writer, on his definition of 
 
 > The content we find on social media is often extremely rapid and accessible to all. It was created to capture attention in the shortest time possible and to be quickly consumed. This type of communication is, by definition, superficial. Football analysis videos on Instagram and TikTok rarely exceed one minute, and in that brief time span, it is impossible to provide a true analysis. What is offered is a synthesis—a reduced and simplified version of reality.
 
-I like short-form content. I think there is a market for overviews. I also like simple explanations. I don't think that because it is reduced or simplified, it is a worse explanation of what happened, but I agree that that short-form style can produce superficial content.
+I like short-form content. I think there is a market for overviews. I also like simple explanations. I don't think that because it is reduced or simplified, it is a worse explanation of what happened, but I agree that that short-form style can produce superficial content. 
 
 You could flip that, though, and say there is a market of people who can't pick up on the obvious. Therefore, you would have to simplify it to help them understand, while still going into detail.
 
