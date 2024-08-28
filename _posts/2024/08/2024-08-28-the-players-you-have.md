@@ -42,4 +42,4 @@ Once you add Rodri, John Stones, and Phil Foden in with İlkay Gündoğan, Berna
 
 And then what happens when Kyle Walker splits minutes with Rico Lewis? Walker won't invert, that then probably means Josko Gvardiol plays that left-back to left-wing role he played last season. Alternatively, that could mean Rico Lewis inverts from the left.
 
-There are so many different options due to the versatility; your head could spin; you'll never get bored.
+There is always at least one experiment happening in this team. There are so many different options due to the versatility; your head could spin; you'll never get bored. 
