@@ -32,7 +32,7 @@ Some people prefer predictability. Eleven players perfectly choreographing movem
 
 Teams are afraid to lose because they need the money. They need to finish in the top four. They need to win silverware. Fanbases want easy wins; they want titles. Managers have to fulfill expectations.
 
-The style only matters if you win.
+The style only matters if you win, and Malmö win matches.
 
 > When things get tough during a match, players fall back into old positional patterns, Rydström says after the match against the stubborn, defensive Halmstads. Sometimes they even started playing the long ball. "Why?" he says in frustration. At the same time, he acknowledges, those larger spaces also made it harder for Halmstads to defend.
 
