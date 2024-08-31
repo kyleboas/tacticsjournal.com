@@ -9,7 +9,7 @@ When asked by Brentford manager Thomas Frank "why do you change your formation s
 
 <!---more--->
 
-[Graham Potter speaking with Thomas Frank](https://youtu.be/siQpMWfJTr4?si=o2VjJRS2tv0oEI2t):
+[Graham Potter speaking with Thomas Frank pitch-side in 2022](https://youtu.be/siQpMWfJTr4?si=o2VjJRS2tv0oEI2t):
 
 > We don't really see the formation as the end goal. We see that actually how the team's playing. The team needs to look consistent regardless of the formation. And then it's about the personnel, about how you want to attack the opponent, how you want to defend against the opponent. Those are some of the other things we consider. Hopefully there's things that look the same even though the shape changes. 
 
