@@ -19,6 +19,8 @@ The position of each player changes depending on where the ball is. To assign a 
 
 I can take a snapshot of a play and then assign a series of numbers, but that doesn't offer enough value. That is one single frame of a ninety minute match. One small change in position makes a massive difference.
 
+I had to draw [what Arne Slot was saying yesterday](https://tacticsjournal.com/2024/08/29/the-difference-in-distance-when-liverpools-fullbacks-are-wide-versus-when-they-are-narrow/) to understand what he meant when he mentioned an eight, a nine, and an eleven, and where each player was in relation to the other.
+
 One second a player is a left-back, then a left midfielder, and then maybe a center midfielder, and then a left-winger, and then back to a left-back. Do you call that player a left-back, a left wing-back, or a left-midfielder? Does it matter? 
 
 Sure, there is a common theme like a sub-structure if the team is consistent, as Graham Potter mentions when he says "Hopefully there's things that look the same even though the shape changes," but the players are constantly moving elsewhere, dropping, pushing up, compressing, expanding. 
