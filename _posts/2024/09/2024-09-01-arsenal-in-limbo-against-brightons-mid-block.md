@@ -3,7 +3,7 @@ layout: post
 date: 2024-09-01 11:00 UTC
 title: "Arsenal in limbo against Brighton's mid-block"
 categories:
-- "Premier League
+- "Premier League"
 tags:
 - "Arsenal"
 - "Brighton"
