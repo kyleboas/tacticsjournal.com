@@ -44,7 +44,7 @@ All the pressure is on United's left side to work the ball out from the back bec
     <figcaption>Figure 2.2 - Liverpool's press in the middle third when Manchester United had the ball.</figcaption>
 </figure>
 
-> Their fullbacks, nine out of ten at times they are really high, and then Casemiro comes in between, so if you pick the ball, if you can keep (Luis Diaz) and (Mohamed Salah) high, then you're constantly in a one-v-one situation. And then you need midfielders that can run, and we had three of them today that kept on running, and if they arrive in a duel, that they are aggressive enough to win it. That was, I think, one of the main reasons why we could win today.
+> Their fullbacks, nine out of ten times they are really high, and then Casemiro comes in between, so if you pick the ball, if you can keep (Luis Diaz) and (Mohamed Salah) high, then you're constantly in a one-v-one situation. And then you need midfielders that can run, and we had three of them today that kept on running, and if they arrive in a duel, that they are aggressive enough to win it. That was, I think, one of the main reasons why we could win today.
 
 Having Szoboszlai on the left means that their main attacking target, Mohamed Salah, was always more free on the far side, the right side of the attack. I'd take Lisandro Martinez one-v-one versus Mohamed Salah nine times out of ten, any day of the week.
 
