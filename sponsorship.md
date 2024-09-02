@@ -24,6 +24,24 @@ Sep 16 – Sep 22: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 Sep 23 – Sep 29: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
+Sep 30 – Oct 6: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Oct 7 – Oct 13: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Oct 14 – Oct 20: Unavailable 
+
+Oct 21 – Oct 27: Unavailable
+
+Oct 28 – Nov 3: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Nov 4 – Nov 10: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Nov 11 – Nov 17: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Nov 18 – Nov 24: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
+Nov 25 – Dec 1: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
+
 PRICE: $50
 
 To schedule a sponsorship or for additional information, email <a href="mailto:sponsors@tacticsjournal.com">sponsors@tacticsjournal.com</a>.
