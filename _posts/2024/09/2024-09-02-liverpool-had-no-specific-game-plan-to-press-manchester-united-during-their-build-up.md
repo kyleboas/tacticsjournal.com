@@ -50,9 +50,11 @@ Having Szoboszlai on the left means that their main attacking target, Mohamed Sa
 
 Diogo Jota was dropping off from a center-forward position, moving behind Dominic Szoboszlai, allowing Szoboszlai to run through between Salah and Diaz to pressure the man with the ball, whether that be a center-back or midfielder. 
 
-If the ball was passed forward, they wanted someone in the back of that player to win a duel and then spring an attack. Dominic Szoboszlai, Ryan Gravenberch, Alexis Mac Alister, or a defender moved full speed towards the ball carrier as the ball was passed forward.
+If the ball was passed forward, they wanted someone in the back of that player to win a duel and then spring an attack. If the man receiving was facing United's goal Dominic Szoboszlai, Ryan Gravenberch, Alexis Mac Alister, or a defender moved full speed towards the ball carrier as the ball was passed forward. If they were facing upfield one of the forwards could come from behind with the team collapsing on the ball from all sides. 
 
-Because of how aggressively United position themselves, Kobbie Mainoo is more likely to try to get forward. When Szoboszlai wins the ball, he can turn and then play towards Salah's side to play him through. We saw that on the third goal.
+All four of Liverpool's goals (including the one that was overturned for offsided) resulted from a turnover, three from duels and one from a passing error in Manchester United's half of the field.
+
+Because of how aggressively United position themselves, Kobbie Mainoo is more likely to try to get forward. When Szoboszlai wins the ball, he can turn and then play towards Salah's side to play him through. 
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_00:51:55.png">
