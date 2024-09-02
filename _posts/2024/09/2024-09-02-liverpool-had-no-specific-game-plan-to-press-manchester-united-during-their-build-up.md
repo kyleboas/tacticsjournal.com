@@ -52,7 +52,7 @@ Diogo Jota was dropping off from a center-forward position, moving behind Domini
 
 If the ball was passed forward, they wanted someone in the back of that player to win a duel and then spring an attack. If the man receiving was facing United's goal Dominic Szoboszlai, Ryan Gravenberch, Alexis Mac Alister, or a defender moved full speed towards the ball carrier as the ball was passed forward. If they were facing upfield one of the forwards could come from behind with the team collapsing on the ball from all sides. 
 
-All four of Liverpool's goals (including the one that was overturned for offsided) resulted from a turnover, three from duels and one from a passing error in Manchester United's half of the field.
+All four of Liverpool's goals (including the one that was disallowed for offsided) resulted from a turnover; three from duels won and one from a passing error by Casemiro in Manchester United's half of the field.
 
 Because of how aggressively United position themselves, Kobbie Mainoo is more likely to try to get forward. When Szoboszlai wins the ball, he can turn and then play towards Salah's side to play him through. 
 
