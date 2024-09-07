@@ -13,7 +13,7 @@ Pay attention to Manchester City at the start of the season because, as Rodri sa
 
 <!---more---> 
 
-Rodri writing in the [Players' Tribune](https://www.theplayerstribune.com/posts/rodri-premier-league-manchester-city-soccer-spain): 
+Rodri writing in [The Players' Tribune](https://www.theplayerstribune.com/posts/rodri-premier-league-manchester-city-soccer-spain): 
 
 > When I had the chance to move to City the next summer, it was a dream for me. I had spoken to Sergio Busquets before I agreed to the move, and he told me, “Pep? He is going to make you a better player. But he is never, never, never going to stop pushing you. You will never be finished.” 
 > 
