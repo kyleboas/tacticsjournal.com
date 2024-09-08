@@ -38,7 +38,7 @@ In Carsley's post-match press conference, he mentioned that he studied tape of I
 
 > I make a note before the game, shapes that the opposition might do. Obviously, with this job, we have a lot of thinking time. I'm constantly looking at if they change to a four, this is how we can build, if they change to a three, this is how we can build. [...] 
 >  
-> When we go into halftime, I try not to give them players too much information but to try and give them two three bullet points that are really going to affect the second half.
+> When we go into halftime, I try not to give the players too much information but to try and give them two three bullet points that are really going to affect the second half.
 
 He can go; here is what the opponent is going to do; you all are the best players in England, some being the best in the world; here is my suggestion on the starting structures, but find your own solutions. 
 
