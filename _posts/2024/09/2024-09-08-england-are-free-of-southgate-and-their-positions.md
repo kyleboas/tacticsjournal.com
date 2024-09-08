@@ -25,7 +25,7 @@ During Euro 2024, Phil Foden and Jude Bellingham would move, drop, and switch si
 
 Southgate gave them some freedom; it wasn't a super rigid system, but everyone stuck to their individual zones. He built a structure to beat most opponents and then plopped players into each position. That way he could change one player for the other with little changes to individual instructions.
 
-Against Ireland, Lee Carsley's plan seemed more geared towards maximizing each individual by giving them the freedom to make their own decisions on what position they felt most comfortable playing, with no restrictions on which zones they could or could not enter. 
+Against Ireland, Lee Carsley's plan seemed more geared towards maximizing each individual by giving them the freedom to make their own decisions on what position they felt most comfortable playing, with no restrictions on which zones they could or could not enter. They were given a role not a position.
 
 In Carsley's post-match press conference, he mentioned that he studied tape of Ireland, and then translated his ideas for what structures:
 
