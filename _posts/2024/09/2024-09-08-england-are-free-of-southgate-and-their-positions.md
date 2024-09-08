@@ -27,6 +27,12 @@ Southgate gave them some freedom; it wasn't a super rigid system, but everyone s
 
 Against Ireland, Lee Carsley's plan seemed more geared towards maximizing each individual by giving them the freedom to make their own decisions on what position they felt most comfortable playing, with no restrictions on which zones they could or could not enter. They were given a role not a position.
 
+Lee Carsley in an [interview with TalkSport](https://trainingground.guru/articles/lee-carsley-why-england-u21s-choose-players-for-roles-not-positions):
+
+> We try and not be too restrictive on playing in a certain position, it’s more the role and the responsibility in the area of the pitch they’re in. As opposed to seeing them in positions, have they got the profile and attributes (we want)?
+> 
+> [...] We might label players as ‘right back’, ‘central midfielder’, ‘defensive midfielder’, but there are actually lots of different types of these positions.
+
 In Carsley's post-match press conference, he mentioned that he studied tape of Ireland, and then translated his ideas for what structures:
 
 
