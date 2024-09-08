@@ -78,4 +78,4 @@ The thing I liked the most is that when England went two nil up, they didn't the
 
 I hope Lee Carsley stays on as the manager full time. He knows almost all of the players through his work managing the U20 and U21 teams since 2020, and I think his way of thinking better suits the talent at their disposal. He won't limit their creativity. I feel like this team, with this system, would have performed better in the Euro's.
 
-*Match: Ireland 0-2 England, 7 August 2024*
+*Match: Ireland 0-2 England, 7 September 2024*
