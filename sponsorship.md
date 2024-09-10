@@ -71,7 +71,7 @@ About the Tactic Journal’s audience:
 
 - Typical weekly web page views: 3,000-4,000
 - Estimated monthly web page views: 12,000-16,000
-- Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, BlueSky, and WhatsApp accounts: Over 35,000
+- Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, BlueSky, and WhatsApp accounts: Over 35,800
 
 ---
 
