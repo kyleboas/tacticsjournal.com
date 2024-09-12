@@ -31,7 +31,7 @@ Now that we know how to use data, we know what to expect and we know what works.
 
 Teams now create an environment for the players to execute a specific plan. The entire group of players shines.
 
-You don't come to a game to watch a specific player anymore; you come to a game to watch the entire team because the team executes the goals. If you wanted to stand out before, you had to be creative. If you want to stand out now, you have to make a mistake.
+You don't come to a game to watch a specific player anymore; you come to a game to watch the entire team because the team executes the plan. If you wanted to stand out before, you had to perform the spectacular. If you want to stand out now, you have to make a mistake.
 
 The unfortunate truth is that teams were never there to entertain; they were there to win. Those that say they want to entertain don't see football as a business, which is a good thing because we want to be surprised.
 
