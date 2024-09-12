@@ -21,7 +21,7 @@ I would have to imagine that for most fans, the reason they watch is to see peop
 
 Long-range shots, at the speed of a train, are one of the main things that even an above-average player could not do. We miss them, but they are not optimal.
 
-The goal was always to score and win, but how we scored changed.
+The goal was always to score and win, but how we scored changed. There has never been more talent in football but the way in which they are trained, think, and play is different.
 
 Before, players didn't fully know what to expect; they had to find the solution. The players that could find the solutions stood out more because, without them, you simply wouldn't score.
 
