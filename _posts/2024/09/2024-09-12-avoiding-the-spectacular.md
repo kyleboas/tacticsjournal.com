@@ -35,4 +35,4 @@ You don't come to a game to watch a specific player anymore; you come to a game 
 
 The unfortunate truth is that teams were never there to entertain; they were there to win. Those that say they want to entertain don't see football as a business, which is a good thing because we want to be surprised.
 
-The problem is not that we use more and more data; it is how we use it. If we use it to empower players to find their own solutions then everyone wins, because they will produce the unexpected.
+The problem is not that we use more and more data; it is how we use it. If we use it to empower players to find their own solutions then everyone wins, because they learn how to produce the unexpected.
