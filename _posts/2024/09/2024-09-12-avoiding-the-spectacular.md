@@ -25,11 +25,11 @@ The goal was always to score and win, but how we scored changed.
 
 Before, players didn't fully know what to expect; they had to find the solution. The players that could find the solutions stood out more because, without them, you simply wouldn't score.
 
-Teams created an environment for their thinkers to find the solution. An individual shined.
+Teams before created an environment for their thinkers to find the solution. An individual shined in moments.
 
 Now that we know how to use data, we know what to expect and we know what works. We can assign a value to each action; therefore, we know the likely outcome.
 
-Teams now create an environment for the players to execute a specific plan. The entire group of players shines.
+Teams now create an environment for the players to execute a plan. The entire group of players shines together.
 
 You don't come to a game to watch a specific player anymore; you come to a game to watch the entire team because the team executes the plan. If you wanted to stand out before, you had to perform the spectacular. If you want to stand out now, you have to make a mistake.
 
