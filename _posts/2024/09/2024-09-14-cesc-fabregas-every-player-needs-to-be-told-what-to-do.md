@@ -6,7 +6,7 @@ categories:
 - "Serie A"
 tags:
 - "Como"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/14/Image-14Sep2024_00:56:18.png"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/14/Image-14Sep2024_01:30:05.png"
 ---
 
 Como manager Cesc Fàbregas likes structure because then "everyone will better understand what to do," and he believes that unlike before, in today's game "every single player needs to be told what to do," or they will be lost on the pitch.
