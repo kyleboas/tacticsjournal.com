@@ -13,7 +13,7 @@ Como manager Cesc Fàbregas likes structure because then "everyone will better u
 
 <!---more--->
 
-His full answer when asked by Gary Lineker on [The Rest Is Football podcast](https://youtu.be/RPnAC5sWNU4?si=yEcH8Vyzkw5qxAk6), "what kind of coach are you? Are you more Wenger, or more Guardiola, or even Mourinho?":
+His full answer when asked by Gary Lineker on [The Rest Is Football podcast](https://youtu.be/RPnAC5sWNU4?si=yEcH8Vyzkw5qxAk6), "What kind of coach are you? Are you more Wenger, or more Guardiola, or even Mourinho?":
 
 > I will try to be a bit of both. I always talk about timing, about spaces, about the right moments when to appear and when to go. It depends if, let's say, the fullback goes a little bit more inside, the winger goes a little bit more outside, to give width. At least one player to give the width on the pitch, etc. etc.
 > 
