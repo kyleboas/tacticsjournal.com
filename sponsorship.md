@@ -42,7 +42,7 @@ Nov 18 – Nov 24: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
 Nov 25 – Dec 1: <a href="mailto:sponsors@tacticsjournal.com">Available</a>
 
-PRICE: $75
+PRICE: $65
 
 To schedule a sponsorship or for additional information, email <a href="mailto:sponsors@tacticsjournal.com">sponsors@tacticsjournal.com</a>.
 
@@ -69,8 +69,8 @@ What sponsors get:
 
 About the Tactic Journal’s audience:
 
-- Typical weekly web page views: 3,000-4,000
-- Estimated monthly web page views: 12,000-16,000
+- Typical weekly web page views: 2,500-4,000
+- Estimated monthly web page views: 10,000-16,000
 - Combined followers on the @TacticsJournal Twitter, FaceBook, Threads, BlueSky, and WhatsApp accounts: Over 35,800
 
 ---
