@@ -44,6 +44,6 @@ To counter that, Tottenham spread the midfielders apart; that somewhat weakened 
 
 Havertz, Trossard, Martinelli, and Saka were all ready for the counter, but that space meant that it would take time for Jorginho and Partey to get into position to help circulate the ball if the initial attack into Tottenham's half failed. It rarely failed (didn't end in a shot), but if it did, Arsenal would be more likely to surrender possession.
 
-The problem overall for Tottenham was that technically they were well below par. Their passing wasn't sharp, nor was their touch. If a more technically proficient team executed the same tactic against Arsenal, they might see a different, more positive result.
+It is a monumentally difficult task to beat this current version of Arsenal, but Tottenham's problem overall was that technically they were well below par. Their passing wasn't sharp, nor was their touch. If you can look past their deficiencies on the day, you'll see a strategy that a more technically proficient team could execute that tactic against Arsenal, and they might see a different, more positive result.
 
 *Match: Tottenham 0-1 Arsenal, 15 September 2024*
