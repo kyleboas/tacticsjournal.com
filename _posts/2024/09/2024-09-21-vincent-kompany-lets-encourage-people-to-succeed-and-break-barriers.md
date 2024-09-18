@@ -4,6 +4,7 @@ date: 2024-09-21 11:00 UTC
 title: "Vincent Kompany: Let's encourage people to succeed and break barriers"
 categories:
 - "Bundesliga"
+- "Champions League"
 tags:
 - "Bayern Munich"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/18/Image-18Sep2024_02:04:44.png"
