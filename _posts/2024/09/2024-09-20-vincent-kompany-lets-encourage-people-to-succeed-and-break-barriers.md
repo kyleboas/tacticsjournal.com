@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-09-21 11:00 UTC
+date: 2024-09-20 11:00 UTC
 title: "Vincent Kompany: Let's encourage people to succeed and break barriers"
 categories:
 - "Bundesliga"
