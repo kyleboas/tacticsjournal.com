@@ -26,7 +26,7 @@ As Pep Guardiola said before the match:
 
 > Is 0-0 ever a good result? Yeah, when you play shit.
 
-Some will argue that defending deep, with eleven men in the box, helps you conserve energy. Players don't chase the ball, they just wait for the opponent to gift the ball back. You can build a team to counterattack with fast wingers. I respect this way of playing, but when you have the quality they have to suffocate opponents in their own half, I think it is a waste of talent.
+Some will argue that defending deep, with eleven men in the box, helps you conserve energy. Players don't chase the ball, they just wait for the opponent to gift the ball back. You can build a team to counterattack with fast wingers. That helps you last longer through a season. I respect this way of playing, but when you have the quality they have to suffocate opponents in their own half, I think it is a waste of talent.
 
 That is the difference between a team that is invincible and a team that could be a title contender. 
 
