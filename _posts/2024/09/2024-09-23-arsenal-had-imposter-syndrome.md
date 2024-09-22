@@ -30,6 +30,6 @@ Some will argue that defending deep, with eleven men in the box, helps you conse
 
 That is the difference between a team that is invincible and a team that could be a title contender. 
 
-This game at the Etihad was the next phase of their project. They have the quality to beat anyone, in the same way they play at home. Whether it's Wolves at home, Atalanta in the Champions League, or Manchester City at the Eithad; they have the quality to control every game, but it is up to them if they do. 
+It wasn't perfect or to the level they are cable of playing, but this game at the Etihad was the next phase of Arsenal's project. They have the quality to beat anyone, in the same way they play at home. Whether it's Wolves at home, Atalanta in the Champions League, or Manchester City at the Eithad; they have the quality to control every game, but it is up to them if they do. 
 
 *Match: Manchester City 2-2 Arsenal, 22 September 2024*
