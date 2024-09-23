@@ -24,7 +24,7 @@ Similar to how it’s hard to critique teams like Chelsea right now who are not 
     <figcaption>Figure 1.1 - Arsenal 2-0 down to Manchester City in a 4-4-2 low-block.</figcaption>
 </figure> 
 
-Arsenal deployed the same wide 4-4-2 out of possession that they used [when they faced Aston Villa](https://tacticsjournal.com/2023-1-20-Arsenal-wide-4-4-2-out-of-possession-leads-to-open-space-between-the-lines/), which allowed Villa to go 2-0 up in the first half. Manchester City took advantage of the same weakness between the lines. You could comfortably fit two to three Manchester City players between each midfielder.
+Arsenal deployed the same wide 4-4-2 out of possession that they used [when they faced Aston Villa](https://tacticsjournal.com/Arsenal-wide-4-4-2-out-of-possession-leads-to-open-space-between-the-lines/), which allowed Villa to go 2-0 up in the first half. Manchester City took advantage of the same weakness between the lines. You could comfortably fit two to three Manchester City players between each midfielder.
 
 Manchester City are Manchester City, if you allow them to play their game and maintain possession, they will not make mistakes. Arsenal were setup to wait for City to make mistakes, but they were so sloppy on the ball that it didn’t matter if City ever made one mistake. They’d immediately loose the ball, they couldn’t put more than two passes together.
 
