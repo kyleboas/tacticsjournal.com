@@ -40,6 +40,6 @@ I think it would be a net positive having Jack Grealish, Ilkay Gündoğan, Phil 
 
 You could even have Erling Haaland drop back periodically to offer up a shot at the top and drag defenders out to create more space within the box.
 
-John Stones scored the winning goal after all. It should work.
+John Stones scored the goal to tie the game in the 97th minute after all. That was from a set piece but it should work from open play too because Arsenal weren't really trying to counter.
 
 *Match: Manchester City 2-2 Arsenal, 22 September 2024*
