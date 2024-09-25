@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-09-25 11:00 UTC
+date: 2024-09-26 11:00 UTC
 title: "Bayern Munich's beautiful three-man diagonal goal"
 categories:
 - "Bundesliga"
