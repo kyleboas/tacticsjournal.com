@@ -2,7 +2,7 @@
 layout: post
 date: 2024-10-02 11:00 UTC
 title: "Positionism and Relationism change the way we look at football"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/01/Image-01Oct2024_23:05:11.png"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/01/Image-01Oct2024_23:55:02.png"
 ---
 
 One issue in pointing out things that might be considered to be part of [positionism or relationism](https://medium.com/@stirlingj1982/what-is-relationism-c98d6233d9c2) is that there is some overlap between the two playing styles. It's not a light switch that is turned on and off; it is more like a gauge that swings back and forth.
