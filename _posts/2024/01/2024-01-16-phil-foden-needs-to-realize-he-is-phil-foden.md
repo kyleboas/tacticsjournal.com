@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-01-16 08:00 UTC
-title: "Phil Foden needs to tealize he is Phil Foden"
+title: "Phil Foden needs to realize he is Phil Foden"
 categories:
 - "Premier League"
 tags:
