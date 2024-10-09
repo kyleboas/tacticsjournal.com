@@ -9,7 +9,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/08/Image-08Oct2024_23:43:08.png"
 ---
 
-Stop trying to fix Manchester City's ability to defend in transition and start looking at the game in the way Pep Guardiola does. Everything is framed around possession. Defend with the ball. When they look weak or concede from a transition, it is not down how well they defended the transition, the issues they look to resolve come from how and when they lose the ball.
+Stop trying to fix Manchester City's ability to defend in transition and start looking at the game in the way Pep Guardiola does. Everything is framed around possession. Defend with the ball. When they look weak or concede from a transition, it is not down to how well they defended the transition, the issues they look to resolve come from how and when they lose the ball.
 
 <!---more--->
 
