@@ -45,7 +45,7 @@ The only two major differences were the fact Bellingham is quicker and drops dee
 
 If Palmer, Bellingham, and Foden are going to play together, they need more passes and touches within that black box. It is the job of Declan Rice, Trent Alexander-Arnold, John Stones, Levi Colwill, and Rico Lewis to find them. They didn't when the pass was open. And by open, I mean, the window is tight, but that is what those three need. They operate in the tight spaces and play out of them. That is their edge. 
 
-This is the main issue that remains consistent from Southgate to Carsley: the nonexistent service into the center of the pitch. That is why they are stale and lifeless in the attack.
+This is the main issue that remains consistent from Southgate to Carsley: [the nonexistent service into the center of the pitch](https://tacticsjournal.com/2024/06/20/foden-bellingham-rice-and-trent-in-the-midfield-can-work-for-england/). That is why they are stale and lifeless in the attack.
 
 The five defenders and a holding midfielder pass and pass, then everything is into the wings and then into the half-spaces, or half-spaces into the wings. To me, it's riskier to only pass to the wings because it boxes them in. 
 
