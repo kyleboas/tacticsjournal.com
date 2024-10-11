@@ -49,7 +49,7 @@ This is the main issue that remains consistent from Southgate to Carsley: [the n
 
 The five defenders and a holding midfielder pass and pass, then everything is into the wings and then into the half-spaces, or half-spaces into the wings. To me, it's riskier to only pass to the wings because it boxes them in. 
 
-This isn't something a different structure will fix; the defenders and midfielders need to be more willing to play the ball into tight spaces central. Their best moments come when they play and combine in tight, pass and move. 
+This isn't something a different structure will fix; the defenders and midfielders need to be more willing to play the ball into tight spaces central. Their best moments come when they play and combine in tight, [pass and move](https://medium.com/@stirlingj1982/pass-and-fucking-move-669264a1b527).
 
 My biggest criticism of Carsley comes from the fact that Cole Palmer dropped deep next to Declan Rice the most. If I had the choice, Phil Foden should be instructed to drop deep instead. If you're not going to pass to Foden in the tight spaces, he has to be the one to drop deep because Foden isn't going to dribble in the same way Palmer will. Foden is better defensively and a more clinical passer-facing play. Palmer is more creative. 
 
