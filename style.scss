@@ -949,9 +949,13 @@ body {
   display: block;
 }
 
+.footer {
+  margin-top: 100px
+}
+
 .footer,
 #outer-wrapper:after {
-  height: 80px;
+  height: 100%;
 }
 
 @media screen and (max-width: 1000px) {
