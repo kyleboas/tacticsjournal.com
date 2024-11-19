@@ -462,7 +462,7 @@ cite {
   margin-top: 0;
 }
 
-@media (min-width: 570px) { 
+@media only screen and (min-width: 570px) {
 
 .post-item p (
   font-size: 1.4em;
