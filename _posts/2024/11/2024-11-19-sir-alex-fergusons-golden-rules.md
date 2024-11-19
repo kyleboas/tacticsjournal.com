@@ -31,18 +31,16 @@ To me, facing a potent attack is more frustrating than facing an “impenetrable
 
 Rhythm is something that is not talked about enough in modern football. Anyone can go forward, but that version of Manchester United had a certain rhythm and understanding that is hard to describe. It was unique to their squad, and it was usually completely overwhelming for the opposition.
 
-<blockquote>
-Within that possession, there were a few golden rules.
-
-One was: think forward, look forward, play forward. The manager hated it when the ball was played back; that was the last option. You go square to go forward, or you go back to then go forward. But the key is every player had to think, look forward, think forward, look forward, and play forward. 
-
-The other thing was when players had time on the ball, center backs and center midfielders—movement, forward runs, or players coming into the pockets. We wanted both, you know what I mean, depending on how deep the opposition was set up. So, that was from a possession point of view. 
-
-A lot of times, when you do win the ball back, it was always, ‘Was it regain and attack, or was it regain and retain?’ That's what the players had to understand. Depending on the opposition, where you are in the game, and the score on the board.
-
-Then the last bit was those things that we spoke about before—the attacking things. He said when he flipped it, "This is the most important thing; this is what United is, in my opinion." He says, "When we attack, we attack with *pace, power, penetration, unpredictability*, and all those things that you see on those flip charts. Basically, I want you to instill in that team every single day.”
-
-So, on three flip charts, there was my whole navigation system for all my sessions. That was coming back in everything that we did, whether it was a finishing drill, a conditioned game, or small-sided games. Those elements were always coming back. I reminded the players constantly about that. And then you come back to the quality of the players to execute it.
-</blockquote>
+> Within that possession, there were a few golden rules.
+> 
+> One was: think forward, look forward, play forward. The manager hated it when the ball was played back; that was the last option. You go square to go forward, or you go back to then go forward. But the key is every player had to think, look forward, think forward, look forward, and play forward. 
+> 
+> The other thing was when players had time on the ball, center backs and center midfielders—movement, forward runs, or players coming into the pockets. We wanted both, you know what I mean, depending on how deep the opposition was set up. So, that was from a possession point of view. 
+> 
+> A lot of times, when you do win the ball back, it was always, ‘Was it regain and attack, or was it regain and retain?’ That's what the players had to understand. Depending on the opposition, where you are in the game, and the score on the board.
+> 
+> Then the last bit was those things that we spoke about before—the attacking things. He said when he flipped it, "This is the most important thing; this is what United is, in my opinion." He says, "When we attack, we attack with *pace, power, penetration, unpredictability*, and all those things that you see on those flip charts. Basically, I want you to instill in that team every single day.”
+> 
+> So, on three flip charts, there was my whole navigation system for all my sessions. That was coming back in everything that we did, whether it was a finishing drill, a conditioned game, or small-sided games. Those elements were always coming back. I reminded the players constantly about that. And then you come back to the quality of the players to execute it.
 
 This clear and simple approach is what made Sir Alex one of the greatest managers to ever grace the beautiful game of football. In one meeting he could, in simple terms, lay the groundwork perfectly. Imagine how much knowledge you could take from working with him for a week let alone multiple seasons.
