@@ -421,7 +421,7 @@ cite {
   margin-top: -10px;
 
     p, ol li, ul li {
-     font-size: 1.3em;
+     font-size: 1.15em;
     }
 }
 
@@ -1037,4 +1037,8 @@ body {
   #search-input { 
   font-size: 12px;
   }
+  .entry p, ol li, ul li {
+     font-size: 1.3em;
+    }
+}
 }
