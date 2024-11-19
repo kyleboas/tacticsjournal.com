@@ -463,14 +463,12 @@ cite {
 }
 
 @media only screen and (min-width: 570px) {
-
-.post-item p (
-  font-size: 1.4em;
-  }
-
-.entry p, .entry ol li, .entry ul li {  
-  font-size: 1.25em;  
-  }   
+   .post-item p (
+      font-size: 1.4em;
+    }
+  .entry p, .entry ol li, .entry ul li {  
+      font-size: 1.25em;  
+    }
 }
 
 .post-item {
