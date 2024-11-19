@@ -15,7 +15,6 @@ When Manchester United manager Sir Alex Ferguson appointed René Meulensteen his
 
 René Meulensteen tells the story on [The Overlap Breakdown](https://youtu.be/clhcHXFeyxQ?si=8hpw_c5yZV0M0bIh):
 
-<blockquote>
 > The manager was very clear to me, and it may be interesting to explain that. When he moved me up to be his assistant manager, he brought me into the first team. He brought me into his office; he had a flip chart there. On the flip chart, he said, "Basically, I've written down here that when I close my eyes, this is the best Man United that I see."
 > 
 > He said to me, "Listen, if Manchester United defend, right, I want us to be able to defend really press high, really aggressively. Don't let them out. In other games, I like us to drop off. We press an area, or we press certain players to be able to create spaces in transition, you know, to go forward and hurt them. There will be times that we have to drop deep; no problem at all. We nullify the chances, but then it's all about counterattack. So, we then spring from box to box. Great examples are the games against Arsenal. You know, it was like we were the red arrows, you know what I mean? Unbelievable. 
