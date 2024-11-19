@@ -462,15 +462,6 @@ cite {
   margin-top: 0;
 }
 
-@media only screen and (min-width: 570px) {
-   .post-item p (
-      font-size: 1.4em;
-    }
-  .entry p, .entry ol li, .entry ul li {  
-      font-size: 1.25em;  
-    }
-}
-
 .post-item {
   padding-left: 0px;
   border-top: 1px dashed rgb(169, 169, 169); 
@@ -1045,5 +1036,11 @@ body {
   }
   #search-input { 
   font-size: 12px;
+  }
+  .post-item p (
+      font-size: 1.4em;
+    }
+  .entry p, .entry ol li, .entry ul li {  
+      font-size: 1.25em;  
   }
 }
