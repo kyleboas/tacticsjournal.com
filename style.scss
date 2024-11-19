@@ -421,7 +421,7 @@ cite {
   margin-top: -10px;
 
     p, ol li, ul li {
-     font-size: 1.25em;
+     font-size: 1.3em;
     }
 }
 
@@ -471,11 +471,11 @@ cite {
       font-weight: bold;
       color: #000;
       text-decoration: none;
-      font-size: 1.25em;
+      font-size: 1.125em;
   }
     .post-date { 
       font-family: helvetica;
-      font-size: 15px;
+      font-size: 1em;
       margin-bottom: 7px;
     }
     p {
@@ -949,9 +949,13 @@ body {
   display: block;
 }
 
+.footer {
+  margin-top: 100px
+}
+
 .footer,
 #outer-wrapper:after {
-  height: 80px;
+  height: 100%;
 }
 
 @media screen and (max-width: 1000px) {
@@ -1009,11 +1013,6 @@ body {
   .back-to-front {
     left: 0;
     top: -30px;
-  }
-
-  .footer,
-  #outer-wrapper:after {
-    height: 80px;
   }
   #copyright {
     padding-top: 20px;

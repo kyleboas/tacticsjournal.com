@@ -76,9 +76,9 @@
      }  
 </style>
 
-<div id="cookie-notice" style="display: none;">
-    <span>This site uses cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/" >Privacy Policy</a></span>
-    <a id="cookie-notice-accept" class="btn btn-primary btn-sm .button">Accept</a>
+<div id="cookie-notice" style="display: none; align-items: left; justify-content: space-between; /* margin-bottom: 30px; */">
+    <span>This site uses cookies. By continuing to use this website, you agree to their use. <a href="https://tacticsjournal.com/privacy/">Privacy Policy</a></span>
+    <a id="cookie-notice-accept" class="btn btn-primary btn-sm" style="margin-left: auto;">Accept</a>
 </div>
 
 <script>
@@ -110,7 +110,7 @@
         console.log("Cookie read value:", cookieValue);
         
         if (cookieValue !== 'true') {
-            cookieNotice.style.display = 'block';
+            cookieNotice.style.display = 'flex';
         } else {
             console.log("Cookie read: cookie-notice-dismissed=true");
             cookieNotice.style.display = 'none';
