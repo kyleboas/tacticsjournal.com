@@ -462,6 +462,17 @@ cite {
   margin-top: 0;
 }
 
+@media (min-width: 570px) { 
+
+.post-item p (
+  font-size: 1.2em;
+  }
+
+.entry p, .entry ol li, .entry ul li {  
+  font-size: 1.4em;  
+}   
+}
+
 .post-item {
   padding-left: 0px;
   border-top: 1px dashed rgb(169, 169, 169); 
@@ -481,7 +492,7 @@ cite {
     p {
       margin-top: 5px;
       font-family: pt-serif-pro, serif;
-      font-size: 1.2em;
+      font-size: 1.125em;
       line-height: 1.4;
   }
 }
