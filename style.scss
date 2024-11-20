@@ -64,10 +64,7 @@ nav {
     }
 
     .blog-slogan {
-       font-size: 18px !important;
-    }
-     .blog-title {
-       font-size: 20px !important;
+       font-size: 18px !imporA-  font-size: 20px !important;
     }
     .site-avatar img {
       width: 75px !important;
@@ -229,7 +226,7 @@ h5:focus a {
 ol li,
 ul li {
   margin-bottom: 7px;
-  line-height: 1.4;
+  line-height: 1.6em;
 }
 
 ul ul,
@@ -241,7 +238,7 @@ ul ol {
 }
 
 p {
-  line-height: 1.4;
+  line-height: 1.6em;
 }
 
 a {
@@ -341,21 +338,21 @@ cite {
   margin-top: 0px;
   margin-top: 15px;
   margin-bottom: 15px;
-  margin-left: 10px;
+  margin-left: 0.5em;
   border-left: 1px solid #A9A9A9;
-  line-height: 1.4
+  line-height: 1.6em;
 }
 
 blockquote p {
   display: inline;
   float: left;
   margin-top: 0;
-  margin-left: 30px;
+  margin-left: 1.5em;
 }
 
 cite {
   float: none;
-  line-height: 1.4;
+  line-height: 1.6em;
 }
 
 #toc {
@@ -416,7 +413,7 @@ cite {
 
 .entry {
   margin-bottom: 20px;
-  font-family: pt-serif-pro, serif;
+  font-family: ui-serif, serif;
   font-style: normal;
   font-weight: 400;
   margin-top: -10px;
@@ -481,9 +478,9 @@ cite {
     }
     p {
       margin-top: 5px;
-      font-family: pt-serif-pro, serif;
+      font-family: ui-serif, serif;
       font-size: 1.08em;
-      line-height: 1.4;
+      line-height: 1.6em;
   }
 }
 
