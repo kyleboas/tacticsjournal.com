@@ -13,7 +13,7 @@ Mohamed Salah recalls a conversation he had with Arsene Wenger, in his first sea
 
 <!---more--->
 
-Mohamed Salah, when asked if there have been many times in his career where he has had to switch himself back on, responded on [Liverpool's YouTube channel](https://youtu.be/Go7PU6Yz2p8?si=07jDQMkjl-OIkP7g): 
+Mohamed Salah, when asked if there have been many times in his career where he has had to switch himself back on, responded on [Liverpool's YouTube channel](https://youtu.be/Go7PU6Yz2p8?si=07jDQMkjl-OIkP7g)
 
 > I think I got advice from Arsene Wenger before. He was at Melwood at that time, and I told him what's the difference between—I think it was my first season in Liverpool—I asked him, “What's the difference between a good player and a really, really good player?”
 > 
