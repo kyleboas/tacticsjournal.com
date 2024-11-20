@@ -15,14 +15,14 @@ Mohamed Salah recalls a conversation he had with Arsene Wenger, in his first sea
 
 Mohamed Salah, when asked if there have been many times in his career where he has had to switch himself back on, responded on [Liverpool's YouTube channel](https://youtu.be/Go7PU6Yz2p8?si=07jDQMkjl-OIkP7g): 
 
-> I think I got advice from Arsene Wenger before. He was at Melwood at that time, and I told him what's the difference between—I think it was my first season in Liverpool—I asked him, “What's the difference between a good player and a really, really good player?” 
-> 
-> He said, "I think the very, very good player is always focused on the game. Even if he doesn't have the momentum, he stays in the game until the last minute or until the whistle." 
-> 
+> I think I got advice from Arsene Wenger before. He was at Melwood at that time, and I told him what's the difference between—I think it was my first season in Liverpool—I asked him, “What's the difference between a good player and a really, really good player?”
+> 
+> He said, "I think the very, very good player is always focused on the game. Even if he doesn't have the momentum, he stays in the game until the last minute or until the whistle."
+> 
 > That's, I think, for me, I know there's some games I don't have the momentum; I don't have the game, but I'm always focused on the game to finish stuff. I don't mind that.
-> 
-> Even Johnny, [Johnny [Heitinga]](https://en.m.wikipedia.org/wiki/John_Heitinga) when he came here this year, was like, "Oh, Mo, you're not playing good today." I said, "Yeah, but I always find the moment." 
-> 
+> 
+> Even Johnny, [Johnny [Heitinga]](https://en.m.wikipedia.org/wiki/John_Heitinga) when he came here this year, was like, "Oh, Mo, you're not playing good today." I said, "Yeah, but I always find the moment."
+> 
 > I'm not always very good in the game. It's normal; we're still human. But I'm always trying to find a way to change the game. I think some players don't accept the feeling and just keep fighting it. But if you accept it and impress it, it's nothing. It's more your imagination going in your head, but I think if you accept it and just impress it, it's OK. It's OK to feel that way, and it's OK to have a bad game, but the most important thing is to stay in the game and try to make a difference.
 
 It is nice that he remembers that specific conversation from 2017, now, later in his career. 
