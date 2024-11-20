@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-11-20 12:00 UTC
+date: 2024-11-22 12:00 UTC
 title: "Arsenal is bringing back the long ball from the goal kick"
 categories:
 - "Premier League"
