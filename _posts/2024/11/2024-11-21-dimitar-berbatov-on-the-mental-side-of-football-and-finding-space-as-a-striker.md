@@ -12,8 +12,8 @@ Dimitar Berbatov spoke about how a player, especially a forward, finds space and
 Dimitar Berbatov speaking with Nieve Petruzziello on her Youtube channel [StuntPegg](https://www.youtube.com/watch?v=f33LafLQp8Y), about how world-class strikers find space: 
 
 > It's about how you see the game. Sometimes the defender will drop from his position to defend, to guard someone. Now the space is here (behind that defender), right? If you're clever enough and you know to attack the space, and someone could give you the ball, that can be a threat.
-> 
-> Sometimes you don't see the space. Some players don't see the space; it is what it is. Some players don't see, while some players see the space but are afraid to go into it. 
+> 
+> Sometimes you don't see the space. Some players don't see the space; it is what it is. Some players don't see, while some players see the space but are afraid to go into it.
 > 
 > *Nieve: Why? Why would you be afraid?*
 > 
