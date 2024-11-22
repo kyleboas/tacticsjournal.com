@@ -17,6 +17,8 @@ In his first press conference, Ruben Amorim mentioned that being a Manchester Un
 
 > “Uh, yeah, it's bigger. There's a lot of departments. It's so much different than Sporting, and Sporting is a big club, but it’s in Portugal. You feel that it is a global club, so you have so much to do. It's not just coaching the team. But I have a lot of help, a lot of meetings, so I'm improving in that area. But I feel very happy, very comfortable, so I feel at home.”
 
+Ruben Amorim's shock to how different the change is doesn't translate well to text. You have to watch the video.
+
 This is something that Erik Ten Hag mentioned in several interviews in the past year or more. This dilemma at the club, where the manager is tasked with not just coaching but more. 
 
 I know we care about results and tactics, but why don’t we factor this more into our analysis, especially when judging how well past managers have done? How much harder must it be to focus on football when half your mind is off the pitch? How much time do those other roles take away?
