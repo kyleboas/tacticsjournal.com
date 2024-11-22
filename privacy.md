@@ -9,7 +9,7 @@ I use third party analytics software from [GoatCounter](https://www.goatcounter.
 
 ## Sharing with third parties 
 
-No information is shared with third parties, including sponsors and affiliates.
+No information is shared with third parties.
 
 ## Questions 
 
