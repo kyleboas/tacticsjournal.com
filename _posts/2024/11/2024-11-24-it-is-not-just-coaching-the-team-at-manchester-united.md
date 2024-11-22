@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-11-24 11:00 UTC
-title: "It is not just coaching the team at Manchester United"
+title: "It's not just coaching the team at Manchester United"
 categories:
 - "Premier League"
 tags:
