@@ -7,6 +7,7 @@ categories:
 tags:
 - "Malmö"
 - "Häcken"
+- "Relationism"
 image: "https://i.imgur.com/ZIH6o5Q.jpeg"
 ---
 

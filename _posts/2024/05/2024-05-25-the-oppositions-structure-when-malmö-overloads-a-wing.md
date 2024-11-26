@@ -7,6 +7,7 @@ categories:
 tags:
 - "Malmö"
 - "Kalmar"
+- "Relationism"
 image: "https://i.imgur.com/Vuy8RF9.jpeg"
 ---
 

@@ -9,6 +9,7 @@ categories:
 tags:
 - "Tottenham"
 - "Bayern Munich"
+- "Relationism"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_14:17:06.png"
 ---
 

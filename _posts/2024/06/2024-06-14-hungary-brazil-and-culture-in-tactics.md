@@ -8,6 +8,7 @@ categories:
 tags:
 - "Brazil"
 - "Hungary"
+- "Relationism"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/13/Image-13Jun2024_12:47:36.png?raw=true"
 tweet: "Hungary is the most tactically interesting team in Euro 2024 because of the relational principles they are going to reintroduce. Thankfully, we have people like @stirling_j and @Jozsef_Bozsik detailing the history and culture of those principles."
 ---

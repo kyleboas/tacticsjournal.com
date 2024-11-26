@@ -8,6 +8,7 @@ categories:
 tags:
 - "Sparta Prague"
 - "Malmö"
+- "Relationism"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/22/Image-22Aug2024_00:35:50.png"
 ---
 
