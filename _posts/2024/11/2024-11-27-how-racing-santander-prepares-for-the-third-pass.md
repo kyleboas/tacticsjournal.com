@@ -7,7 +7,7 @@ categories:
 tags:
 - "Racing Santander"
 - "Relationism"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_22:09:46.png"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/26/Image-26Nov2024_07:55:10.png"
 ---
 
 The way Racing Santander spontaneously prepares not just for the next pass but also organizes and orients their bodies for the third or fourth pass forward is the reason why they are one of the main relational teams to watch. Their minds are exceptional.
