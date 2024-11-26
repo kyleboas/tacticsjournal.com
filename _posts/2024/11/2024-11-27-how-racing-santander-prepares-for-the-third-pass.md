@@ -10,7 +10,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_22:09:46.png"
 ---
 
-Racing Santander doesn’t just "crowd around the ball" for the sake of crowding around the ball. They spontaneously prepare not just for the next pass but also organize and orient their body for the third or fourth pass forward. 
+The way Racing Santander spontaneously prepares not just for the next pass but also organizes and orients their bodies for the third or fourth pass forward is the reason why they are one of the main relational teams to watch. Their minds are exceptional.
 
 <!---more--->
 
