@@ -7,15 +7,15 @@ categories:
 tags:
 - "Racing Santander"
 - "Relationism"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_19:52:03.png"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_22:09:46.png"
 ---
 
-Racing Santander doesn’t just “crowd around the ball” for the sake of crowding around the ball. They spontaneously prepare not just for the next pass but also organize and orient their body for the third or fourth pass forward. 
+Racing Santander doesn’t just "crowd around the ball" for the sake of crowding around the ball. They spontaneously prepare not just for the next pass but also organize and orient their body for the third or fourth pass forward. 
 
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_19:52:03.png">
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_22:09:46.png">
     <figcaption>Figure 1.1 - Players move into position on the left as the center-back carries the ball forward.</figcaption>
 </figure>
 
@@ -36,11 +36,12 @@ All four players, advanced ahead of the ball, are aligned and open to receive on
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_19:52:06.png">
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_22:10:53.png">
     <figcaption>Figure 1.3 - Player 2 dribbles forward, drawing in a defender, and then passes to Player 3.</figcaption>
 </figure>
+
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_19:52:08.png">
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_22:10:55.png">
     <figcaption>Figure 1.4 - Player 3 passes to Player 4, and Players 4 and 5 are in on goal.</figcaption>
 </figure>
 
