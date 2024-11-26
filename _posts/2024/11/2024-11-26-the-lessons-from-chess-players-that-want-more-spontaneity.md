@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-11-27 11:00 UTC
+date: 2024-11-26 11:00 UTC
 title: "The lessons from chess players that want more spontaneity"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/24/Image-24Nov2024_20:52:50.png"
 ---
