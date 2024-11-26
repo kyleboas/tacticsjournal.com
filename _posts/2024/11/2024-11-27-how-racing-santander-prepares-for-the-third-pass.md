@@ -50,3 +50,5 @@ Once the pass forward is open and played, then your attention can turn to the tr
 With four quick passes, Racing Santander has worked the ball from the back to the front and in on goal past Real Zaragoza's somewhat compact defense. As compact as most organized defenses are.
 
 These quick combinations can only happen because these players are thinking three steps ahead. This is a way of playing that promotes communication.
+
+There are dozens of other examples in each of their matches.
