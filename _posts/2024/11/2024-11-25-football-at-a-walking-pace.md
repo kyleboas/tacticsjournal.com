@@ -26,6 +26,6 @@ Is this more of a problem for the federations to not make them play this many ga
 
 Is it a sacrafice to play this way?
 
-I would first, it is a sacrafice, but if I was in their position, I would take that sacrafice to save the legs of my players. I’m not mad at the team, I’m mad at the situation. To last a full season, I don’t think they have a choice. 
+I would say first, it is a sacrafice, but if I was in their position, I would take that sacrafice to save the legs of my players. I’m not mad at the team, I’m mad at the situation. To last a full season, I don’t think they have a choice. 
 
 I'll keep watching but I am fed up.
