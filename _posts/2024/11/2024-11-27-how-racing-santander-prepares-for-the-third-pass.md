@@ -21,7 +21,7 @@ The way Racing Santander spontaneously prepares not just for the next pass but a
 
 This is a great example from a match back in October against Real Zaragoza. I assigned each player a number because, for this example, it will help you track their movement. The idea behind each movement is more important today.
 
-And yes, the elephant in the room. Why am I watching a random La Liga 2 match from a month ago? Racing Santander is one of the relational teams to watch. I have created a page of interesting teams to watch.
+And yes, the elephant in the room. Why am I watching a random La Liga 2 match? Racing Santander is one of the [relational teams to watch](https://tacticsjournal.com/?search=Relationism).
 
 First, the center-back waits. Most would immediately pass to **Player 1**, but they want to organize in a way in which they can go from back to front quickly. In a flash. They don’t wait around in the midfield; they go.
 
