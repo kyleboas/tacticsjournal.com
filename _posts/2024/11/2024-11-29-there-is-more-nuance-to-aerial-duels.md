@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-11-28 12:00 UTC
+date: 2024-11-29 12:00 UTC
 title: "There is more nuance to aerial duels"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_11:56:26.png"
 ---
