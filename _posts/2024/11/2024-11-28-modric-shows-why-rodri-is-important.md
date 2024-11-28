@@ -14,7 +14,7 @@ That one decision in the 41st minute from Luka Modric to lightly jog over to the
 
 <!---more--->
 
-It felt like Real Madrid was on the verge of conceding before the half against Liverpool. The game was opening up, and Anfield was becoming restless with each counterattack, each loss of possession, each run by Kylian Mbappe, or burst of speed past Madrid's defense from Darwin Nunez. Then Real Madrid wins a corner, and Modric slowly, almost comically, jogs over. He set the tempo for the rest of the half. The atmosphere turned to one resigned to the fact that the game would go into the half 0-0. The play became slow and awkward, like the way Modric ran to take the corner.
+It felt like Real Madrid was on the verge of conceding before the half against Liverpool. The game was opening up, and Anfield was becoming restless with each counterattack, each loss of possession, each run by Kylian Mbappe, or burst of speed past Madrid's defense from Darwin Nunez. Then Real Madrid wins a corner, and Modric slowly, almost comically, jogs over. He set the tempo for the rest of the half. The atmosphere turned to one resigned to the fact that the game would go into the half 0-0. The play became slow and awkward, like the way Modric ran to take the corner. 
 
 Players like Manuel Locatelli, Alexis Mac Allister, Florentino Luis, Tijjani Reijnders, Dani Olmo, Granit Xhaka, Nicolo Barella, and Martin Ødegaard all have that special quality to know when the team needs a break and how to break up play like Modric did. 
 
