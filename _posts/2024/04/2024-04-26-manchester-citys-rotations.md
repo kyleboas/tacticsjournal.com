@@ -7,6 +7,7 @@ categories:
 tags:
 - "Manchester City"
 - "Brighton"
+- "Relationism"
 image: "https://i.imgur.com/9lDnD3l.jpeg"
 ---
 
