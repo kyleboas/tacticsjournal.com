@@ -21,7 +21,7 @@ By “wins the ball,” does that mean “wins possession?” Because if you don
 
 > An aerial duel is considered won in favor of **the player who touches the ball first, no matter what happens next.** An aerial duel that results in a foul is considered won in favor of the player who suffered a foul.
 
-This definition is still not what I am looking for, but at least it is more clear. Why should I care if the player “touches the ball first, no matter what happens?” ￼
+This definition is still not what I am looking for, but at least it is more clear. Why should I care if the player "touches the ball first, no matter what happens?"
 
 For example, say I put Peter Crouch on a team filled with small children and he had to face play with his back to goal to attempt to head the ball down to his teammates, but the defense on the other team was made up of full-grown adults. Crouch is going to touch the ball first every time, but his team of small children will never be able to maintain possession.
 
