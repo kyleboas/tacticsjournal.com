@@ -44,7 +44,7 @@ Touching the ball first is only half the battle. Maybe I’m misunderstanding so
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_11:56:30.png">
-    <figcaption>Figure 1.4 - Alexis Mac Allister bodies Martin Ødegaard and wins Liverpool possession. </figcaption>
+    <figcaption>Figure 1.4 - Alexis Mac Allister bodies Martin Ødegaard and wins possession for Liverpool. </figcaption>
 </figure>
 
 This is an example from a match last season between Arsenal and Liverpool.
