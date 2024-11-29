@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-11-30 12:00 UTC
-title: "What is a football analyst?"
+title: "Brick by brick"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/29/Image-29Nov2024_14:57:35.png"
 ---
 
