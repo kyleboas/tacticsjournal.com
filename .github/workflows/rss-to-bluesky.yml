@@ -23,21 +23,28 @@ jobs:
       - name: Install xmllint
         run: sudo apt-get update && sudo apt-get install -y libxml2-utils
 
-      # Fetch the latest blog post from RSS feed
-      - name: Fetch Latest Blog Post
-        id: fetch_post
-        run: |
-          # Replace this with your RSS feed URL
-          RSS_FEED_URL="https://tacticsjournal.com/feed"
-         
-          # Use curl to fetch RSS and xmllint to parse the latest post
-          response=$(curl -s "$RSS_FEED_URL")
-          description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
-          url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
-
-          # Format the text for Bluesky
-          preview="$description $url"
-          echo "preview=$preview" >> $GITHUB_ENV
+      # Fetch Latest Blog Post
+- name: Fetch Latest Blog Post
+  id: fetch_post
+  run: |
+    # Replace this with your RSS feed URL
+    RSS_FEED_URL="https://tacticsjournal.com/feed"
+    
+    # Use curl to fetch RSS and xmllint to parse the latest post
+    echo "Fetching RSS feed from $RSS_FEED_URL..."
+    response=$(curl -s "$RSS_FEED_URL")
+    echo "Fetched response: $response"
+    
+    description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
+    echo "Parsed description: $description"
+    
+    url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
+    echo "Parsed URL: $url"
+    
+    # Format the text for Bluesky
+    preview="$description $url"
+    echo "Preview to post: $preview"
+    echo "preview=$preview" >> $GITHUB_ENV
 
       # Post to Bluesky
       - name: Post to Bluesky
