@@ -43,9 +43,10 @@ jobs:
           # Compare the publication date (only the date part) with today's date
           # Extract just the date part (e.g., "Sun, 01 Dec 2024") from the pubDate
           pub_date_only=$(echo "$pub_date" | awk '{print $1", "$2" "$3" "$4}')
+          today_only=$(echo "$today" | awk '{print $1", "$2" "$3" "$4}')
           
-          if [[ "$pub_date_only" != "$today" ]]; then
-            echo "The blog post is not from $today. Exiting."
+          if [[ "$pub_date_only" != "$today_only" ]]; then
+            echo "The $pub_date_only for the blog post is not from $today_only. Exiting."
             exit 0
           fi
 
