@@ -2,8 +2,7 @@ name: Schedule Posts
 
 on:
   schedule:
-    - cron: '00 12 * * *'
-    workflow_dispatch:
+    - cron: '30 12 * * *'
 
 jobs:
   curl:
