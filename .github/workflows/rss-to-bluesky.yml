@@ -34,7 +34,7 @@ jobs:
           response=$(curl -s "$RSS_FEED_URL")
           description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
-          
+
           # Format the text for Bluesky
           preview="$description $url"
           echo "preview=$preview" >> $GITHUB_ENV
