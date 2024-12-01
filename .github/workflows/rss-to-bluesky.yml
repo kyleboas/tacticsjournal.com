@@ -56,5 +56,5 @@ jobs:
         with:
           text: "${{ env.preview }}"
           link-preview-url: "${{ env.rss_url }}"
-          identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
+          identifier: tacticsjournal.com
           password: ${{ secrets.BSS }}
