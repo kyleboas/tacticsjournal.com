@@ -4,7 +4,7 @@ name: Post Latest Blog from RSS to Bluesky
 on:
   schedule:
     - cron: "0 12 * * *"
-    workflow_dispatch:  # Add this to allow manual testing
+    workflow_dispatch;
 
 jobs:
   fetch-and-post:
