@@ -23,14 +23,14 @@ jobs:
       - name: Install xmllint
         run: sudo apt-get update && sudo apt-get install -y libxml2-utils
 
-    
       # Fetch the latest blog post from RSS feed
       - name: Fetch Latest Blog Post
         id: fetch_post
         run: |
           # Replace this with your RSS feed URL
           RSS_FEED_URL="https://tacticsjournal.com/feed"
-          
+         
+          # Use curl to fetch RSS and xmllint to parse the latest post
           response=$(curl -s "$RSS_FEED_URL")
           description=$(echo "$response" | xmllint --xpath "string(//item[1]/title)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
@@ -39,12 +39,12 @@ jobs:
           preview="$description $url"
           echo "preview=$preview" >> $GITHUB_ENV
           echo "rss_url=$url" >> $GITHUB_ENV
-      
+
       # Post to Bluesky
       - name: Post to Bluesky
-      uses: myConsciousness/bluesky-post@v5
-      with:
-        text: "${{ env.preview }}"
-        link-preview-url: "${{ env.rss_url }}"
-        identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
-        password: ${{ secrets.BSS }}
+        uses: myConsciousness/bluesky-post@v5
+        with:
+          text: "${{ env.preview }}"
+          link-preview-url: "${{ env.rss_url }}"
+          identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
+          password: ${{ secrets.BSS }}
