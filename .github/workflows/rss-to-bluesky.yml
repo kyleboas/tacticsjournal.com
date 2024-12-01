@@ -44,5 +44,6 @@ jobs:
         uses: myConsciousness/bluesky-post@v5
         with:
           text: "${{ env.preview }}"
+          link-preview-url: "${{ url }}"
           identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
           password: ${{ secrets.BSS }}
