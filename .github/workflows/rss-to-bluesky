@@ -1,0 +1,35 @@
+# .github/workflows/post-latest-blog.yml
+name: Post Latest Blog from RSS to Bluesky
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+    workflow_dispatch:  # Add this to allow manual testing
+
+jobs:
+  fetch-and-post:
+    runs-on: ubuntu-latest
+    steps:
+      # Fetch the latest blog post from RSS feed
+      - name: Fetch Latest Blog Post
+        id: fetch_post
+        run: |
+          # Replace this with your RSS feed URL
+          RSS_FEED_URL="https://tacticsjournal.com/feed"
+
+          # Use curl to fetch RSS and xmllint to parse the latest post
+          response=$(curl -s "$RSS_FEED_URL")
+          title=$(echo "$response" | xmllint --xpath "string(//item[1]/title)" -)
+          url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
+
+          # Format the text for Bluesky
+          preview="[$title]($url)"
+          echo "preview=$preview" >> $GITHUB_ENV
+
+      # Post to Bluesky
+      - name: Post to Bluesky
+        uses: myConsciousness/bluesky-post@v5
+        with:
+          text: "${{ env.preview }}"
+          identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
+          password: ${{ secrets.BLUESKY_PASSWORD }}"
