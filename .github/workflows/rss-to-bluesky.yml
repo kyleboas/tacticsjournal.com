@@ -3,7 +3,7 @@ name: Post Latest Blog from RSS to Bluesky
 
 on:
   workflow_run:
-    workflows: ["Schedule Posts"]
+    workflows: ["Schedule Posts", "Pages Build and Deployment"]
     types:
       - completed
 
