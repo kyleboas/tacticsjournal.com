@@ -29,10 +29,6 @@ jobs:
         run: |
           # Replace this with your RSS feed URL
           RSS_FEED_URL="https://tacticsjournal.com/feed"
-        id: fetch_post
-        run: |
-          # Replace this with your RSS feed URL
-          RSS_FEED_URL="https://tacticsjournal.com/feed"
          
           # Use curl to fetch RSS and xmllint to parse the latest post
           response=$(curl -s "$RSS_FEED_URL")
