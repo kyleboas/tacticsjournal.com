@@ -45,7 +45,7 @@ jobs:
           pub_date_only=$(echo "$pub_date" | awk '{print $1", "$2" "$3" "$4}')
           
           if [[ "$pub_date_only" != "$today" ]]; then
-            echo "The blog post is not from today. Exiting."
+            echo "The blog post is not from $today. Exiting."
             exit 0
           fi
 
