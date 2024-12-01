@@ -1,8 +1,6 @@
 name: Schedule Posts
 
-on:
-  schedule:
-    - cron: '45 20 * * *'
+on: workflow_dispatch
 
 jobs:
   curl:
