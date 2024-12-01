@@ -33,4 +33,4 @@ jobs:
         with:
           text: "${{ env.preview }}"
           identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
-          password: ${{ secrets.BSS }}"
+          password: ${{ secrets.BSS }}
