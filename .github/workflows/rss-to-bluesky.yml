@@ -25,7 +25,6 @@ jobs:
 
       # Fetch Latest Blog Post
       - name: Fetch Latest Blog Post
-        id: fetch_post
       id: fetch_post
       run: |
     
