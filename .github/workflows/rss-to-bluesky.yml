@@ -35,6 +35,7 @@ jobs:
           description=$(echo "$response" | xmllint --xpath "string(//item[1]/title)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
           pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" -)
+          
           # Log the pub_date
 echo "The publication date of the latest post is: $pub_date" >> script.log
 
