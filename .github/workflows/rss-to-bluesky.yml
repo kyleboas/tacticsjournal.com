@@ -24,21 +24,24 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y libxml2-utils
 
       # Fetch Latest Blog Post
-  id: fetch_post
-  run: |
-    # Replace this with your RSS feed URL
-    RSS_FEED_URL="https://tacticsjournal.com/feed"
+      - name: Fetch Latest Blog Post
+        id: fetch_post
+      id: fetch_post
+      run: |
     
-    # Use curl to fetch RSS and xmllint to parse the latest post
-    echo "Fetching RSS feed from $RSS_FEED_URL..."
-    response=$(curl -s "$RSS_FEED_URL")
-    echo "Fetched response: $response"
+       # Replace this with your RSS feed URL
+        RSS_FEED_URL="https://tacticsjournal.com/feed"
     
-    description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
-    echo "Parsed description: $description"
+       # Use curl to fetch RSS and xmllint to parse the latest post
+         echo "Fetching RSS feed from $RSS_FEED_URL..."
+         response=$(curl -s "$RSS_FEED_URL")
+         echo "Fetched response: $response"
     
-    url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
-    echo "Parsed URL: $url"
+         description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
+         echo "Parsed description: $description"
+    
+         url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
+         echo "Parsed URL: $url"
     
     # Format the text for Bluesky
     preview="$description $url"
