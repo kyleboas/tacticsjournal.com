@@ -40,7 +40,7 @@ jobs:
          echo "Parsed description: $description"
     
          url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
-         echo "Parsed URL: $url"
+         echo "Parsed URL: $url" 
     
     # Format the text for Bluesky
     preview="$description $url"
