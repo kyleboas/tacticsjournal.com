@@ -26,8 +26,9 @@ jobs:
     
       # Fetch the latest blog post from RSS feed
       - name: Fetch Latest Blog Post
-         id: fetch_post
+        id: fetch_post
         run: |
+          # Replace this with your RSS feed URL
           RSS_FEED_URL="https://tacticsjournal.com/feed"
           
           response=$(curl -s "$RSS_FEED_URL")
