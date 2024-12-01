@@ -36,7 +36,7 @@ jobs:
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
 
           # Format the text for Bluesky
-          preview="[$title]($url)"
+          preview="$title $url"
           echo "preview=$preview" >> $GITHUB_ENV
 
       # Post to Bluesky
