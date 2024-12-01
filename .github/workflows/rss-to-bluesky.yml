@@ -34,16 +34,20 @@ jobs:
           response=$(curl -s "$RSS_FEED_URL")
           title=$(echo "$response" | xmllint --xpath "string(//item[1]/title)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
+          description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
 
           # Format the text for Bluesky
-          preview="$title $url"
+          post="$description $url"
+          echo "post=$post" >> $GITHUB_ENV
+
+          preview="$url"
           echo "preview=$preview" >> $GITHUB_ENV
 
       # Post to Bluesky
       - name: Post to Bluesky
         uses: myConsciousness/bluesky-post@v5
         with:
-          text: "${{ env.preview }}"
-          link-preview-url: "${{ url }}"
+          text: "${{ env.post }}"
+          link-preview-url: "${{ env.preview }}"
           identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
           password: ${{ secrets.BSS }}
