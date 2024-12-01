@@ -1,4 +1,3 @@
-# .github/workflows/post-latest-blog.yml
 name: Post Latest Blog from RSS to Bluesky
 
 on:
@@ -10,7 +9,20 @@ on:
 jobs:
   fetch-and-post:
     runs-on: ubuntu-latest
+
     steps:
+      # Ensure that both workflows have completed successfully
+      - name: Check if previous workflows were successful
+        run: |
+          if [[ "${{ github.event.workflow_run.conclusion }}" != "success" ]]; then
+            echo "Previous workflow did not succeed. Exiting."
+            exit 1
+          fi
+
+      # Install xmllint
+      - name: Install xmllint
+        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
+
       # Fetch the latest blog post from RSS feed
       - name: Fetch Latest Blog Post
         id: fetch_post
