@@ -19,9 +19,10 @@ jobs:
             exit 1
           fi
 
-      # Install xmllint
-      - name: Install xmllint
-        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
+      # Install xmllint and dateutils
+      - name: Install xmllint and dateutils
+        run: |
+          sudo apt-get update && sudo apt-get install -y libxml2-utils dateutils
 
       # Fetch the latest blog post from RSS feed
       - name: Fetch Latest Blog Post
@@ -35,15 +36,15 @@ jobs:
           description=$(echo "$response" | xmllint --xpath "string(//item[1]/title)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
           pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" -)
+
+          # Get today's date in the RFC 2822 format
+          today=$(date -R)
+
+          # Compare the publication date (only the date part) with today's date
+          # Extract just the date part (e.g., "Sun, 01 Dec 2024") from the pubDate
+          pub_date_only=$(echo "$pub_date" | awk '{print $1", "$2" "$3" "$4}')
           
-          # Log the pub_date
-           echo "The publication date of the latest post is: $pub_date" >> script.log
-
-          # Get today's date
-          today=$(date +'%a, %d %b %Y')
-
-          # Compare the publication date with today's date
-          if [[ "$pub_date" != "$today" ]]; then
+          if [[ "$pub_date_only" != "$today" ]]; then
             echo "The blog post is not from today. Exiting."
             exit 0
           fi
@@ -59,5 +60,5 @@ jobs:
         with:
           text: "${{ env.preview }}"
           link-preview-url: "${{ env.rss_url }}"
-          identifier: tacticsjournal.com
+          identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
           password: ${{ secrets.BSS }}
