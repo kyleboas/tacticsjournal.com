@@ -34,6 +34,16 @@ jobs:
           response=$(curl -s "$RSS_FEED_URL")
           description=$(echo "$response" | xmllint --xpath "string(//item[1]/title)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
+          pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" -)
+
+          # Get today's date
+          today=$(date +'%a, %d %b %Y')
+
+          # Compare the publication date with today's date
+          if [[ "$pub_date" != "$today" ]]; then
+            echo "The blog post is not from today. Exiting."
+            exit 0
+          fi
 
           # Format the text for Bluesky
           preview="$description $url"
