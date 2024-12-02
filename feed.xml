@@ -34,7 +34,14 @@ layout: null
           {% endif %}
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
-          <description><![CDATA[ {{ post.excerpt | strip_html }} ]]></description>
+          <description><![CDATA[ 
+            {% assign excerpt = post.excerpt | strip_html | replace: '\n', ' ' | replace: '\r', ' ' %}
+            {% if excerpt.size > 255 %}
+              {{ excerpt | truncatewords: 50, '...' }}
+            {% else %}
+              {{ excerpt }}
+            {% endif %}
+          ]]></description>
           <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
         </item>
       {% endunless %}

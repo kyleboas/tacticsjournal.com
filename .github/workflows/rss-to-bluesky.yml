@@ -1,0 +1,63 @@
+name: Post Latest Blog from RSS to Bluesky
+
+on:
+  workflow_run:
+    workflows:
+      - "Schedule Posts"
+      - "Pages Build and Deployment"
+    types:
+      - completed
+
+  workflow_dispatch:
+
+jobs:
+  fetch-and-post:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Initial two-minute delay
+      - name: Initial Delay
+        run: |
+          echo "Waiting for 1 minutes before starting..."
+          sleep 60
+
+      # Install xmllint and dateutils
+      - name: Install xmllint and dateutils
+        run: |
+          sudo apt-get update && sudo apt-get install -y libxml2-utils dateutils
+
+      # Fetch the latest blog post from RSS feed
+      - name: Fetch Latest Blog Post
+        id: fetch_post
+        run: |
+          RSS_FEED_URL="https://tacticsjournal.com/feed"
+         
+          response=$(curl -s "$RSS_FEED_URL")
+          description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
+          url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
+          pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" -)
+
+          today=$(date -R)
+
+          pub_date_only=$(echo "$pub_date" | awk '{print $1", "$2" "$3" "$4}')
+          today_only=$(echo "$today" | awk '{print $1", "$2" "$3" "$4}')
+          
+          if [[ "$pub_date_only" != "$today_only" ]]; then
+            echo "The $pub_date_only for the blog post is not from $today_only. Exiting."
+            exit 0
+          fi
+
+          description=$(echo "$description" | xargs)
+          preview="$description $url"
+
+          echo "preview=$preview" >> $GITHUB_ENV
+          echo "rss_url=$url" >> $GITHUB_ENV
+
+      # Post to Bluesky
+      - name: Post to Bluesky
+        uses: myConsciousness/bluesky-post@v5
+        with:
+          text: "${{ env.preview }}"
+          link-preview-url: "${{ env.rss_url }}"
+          identifier: tacticsjournal.com
+          password: ${{ secrets.BSS }}
