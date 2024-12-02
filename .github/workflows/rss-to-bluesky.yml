@@ -2,20 +2,30 @@ name: Post Latest Blog from RSS to Bluesky
 
 on:
   workflow_run:
-    workflows: ["Schedule Posts", "Pages Build and Deployment"]
+    workflows:
+      - "Schedule Posts"
+      - "Pages Build and Deployment"
     types:
       - completed
+
+  workflow_dispatch:
 
 jobs:
   fetch-and-post:
     runs-on: ubuntu-latest
 
     steps:
+      # Initial two-minute delay
+      - name: Initial Delay
+        run: |
+          echo "Waiting for 2 minutes before starting..."
+          sleep 120
+
       # Ensure that both workflows have completed successfully
       - name: Check if previous workflows were successful
         run: |
           if [[ "${{ github.event.workflow_run.conclusion }}" != "success" ]]; then
-            echo "Previous workflow did not succeed. Exiting."
+            echo "One of the previous workflows did not succeed. Exiting."
             exit 1
           fi
 
@@ -28,20 +38,15 @@ jobs:
       - name: Fetch Latest Blog Post
         id: fetch_post
         run: |
-          # Replace this with your RSS feed URL
           RSS_FEED_URL="https://tacticsjournal.com/feed"
          
-          # Use curl to fetch RSS and xmllint to parse the latest post
           response=$(curl -s "$RSS_FEED_URL")
           description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
           pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" -)
 
-          # Get today's date in the RFC 2822 format
           today=$(date -R)
 
-          # Compare the publication date (only the date part) with today's date
-          # Extract just the date part (e.g., "Sun, 01 Dec 2024") from the pubDate
           pub_date_only=$(echo "$pub_date" | awk '{print $1", "$2" "$3" "$4}')
           today_only=$(echo "$today" | awk '{print $1", "$2" "$3" "$4}')
           
@@ -50,15 +55,8 @@ jobs:
             exit 0
           fi
 
-          # Remove leading and trailing spaces from description
           description=$(echo "$description" | xargs)
-
-          # Format the text for Bluesky
           preview="$description $url"
-
-          # Remove any leading/trailing spaces from preview and url
-          preview=$(echo "$preview" | xargs)
-          url=$(echo "$url" | xargs)
 
           echo "preview=$preview" >> $GITHUB_ENV
           echo "rss_url=$url" >> $GITHUB_ENV
