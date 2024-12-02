@@ -33,7 +33,7 @@ jobs:
          
           # Use curl to fetch RSS and xmllint to parse the latest post
           response=$(curl -s "$RSS_FEED_URL")
-          description=$(echo "$response" | xmllint --xpath "string(//item[1]/title)" -)
+          description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
           pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" -)
 
