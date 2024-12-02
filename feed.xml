@@ -36,7 +36,7 @@ layout: null
           <dc:creator><![CDATA[Kyle Boas]]></dc:creator>
           <description><![CDATA[ 
             {% assign excerpt = post.excerpt | strip_html | replace: '\n', ' ' | replace: '\r', ' ' %}
-            {% if excerpt.size > 265 %}
+            {% if excerpt.size > 255 %}
               {{ excerpt | truncatewords: 50, '...' }}
             {% else %}
               {{ excerpt }}
