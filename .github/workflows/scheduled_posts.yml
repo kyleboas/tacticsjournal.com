@@ -1,7 +1,9 @@
 name: Schedule Posts
 
-on: workflow_dispatch
-
+on: 
+  schedule:
+    - cron: '00 12 * * *'
+    
 jobs:
   curl:
     runs-on: ubuntu-latest
