@@ -18,8 +18,8 @@ jobs:
       # Initial two-minute delay
       - name: Initial Delay
         run: |
-          echo "Waiting for 2 minutes before starting..."
-          sleep 120
+          echo "Waiting for 1 minutes before starting..."
+          sleep 60
 
       # Ensure that both workflows have completed successfully
       - name: Check if previous workflows were successful
