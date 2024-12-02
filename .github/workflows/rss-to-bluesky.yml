@@ -21,14 +21,6 @@ jobs:
           echo "Waiting for 1 minutes before starting..."
           sleep 60
 
-      # Ensure that both workflows have completed successfully
-      - name: Check if previous workflows were successful
-        run: |
-          if [[ "${{ github.event.workflow_run.conclusion }}" != "success" ]]; then
-            echo "One of the previous workflows did not succeed. Exiting."
-            exit 1
-          fi
-
       # Install xmllint and dateutils
       - name: Install xmllint and dateutils
         run: |
