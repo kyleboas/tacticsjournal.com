@@ -36,20 +36,7 @@ jobs:
           description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
           pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" -)
-
-          # Get today's date in the RFC 2822 format
-          today=$(date -R)
-
-          # Compare the publication date (only the date part) with today's date
-          # Extract just the date part (e.g., "Sun, 01 Dec 2024") from the pubDate
-          pub_date_only=$(echo "$pub_date" | awk '{print $1", "$2" "$3" "$4}')
-          today_only=$(echo "$today" | awk '{print $1", "$2" "$3" "$4}')
           
-          if [[ "$pub_date_only" != "$today_only" ]]; then
-            echo "The $pub_date_only for the blog post is not from $today_only. Exiting."
-            exit 0
-          fi
-
           # Format the text for Bluesky
           preview="$description $url"
           echo "preview=$preview" >> $GITHUB_ENV
