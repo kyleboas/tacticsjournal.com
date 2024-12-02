@@ -36,9 +36,17 @@ jobs:
           description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
           pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" -)
-          
+
+          # Remove leading and trailing spaces from description
+          description=$(echo "$description" | xargs)
+
           # Format the text for Bluesky
           preview="$description $url"
+
+          # Remove any leading/trailing spaces from preview and url
+          preview=$(echo "$preview" | xargs)
+          url=$(echo "$url" | xargs)
+
           echo "preview=$preview" >> $GITHUB_ENV
           echo "rss_url=$url" >> $GITHUB_ENV
 
