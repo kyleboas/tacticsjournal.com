@@ -10,7 +10,19 @@ jobs:
     env:
       TZ: UTC
     steps:
+      - name: Log Start Time
+        run: echo "Workflow started at $(date -u)"
+      
       - name: Trigger GitHub Pages build
         uses: wei/curl@master
         with:
           args: "-X POST -H 'Authorization: token ${{ secrets.PAGES_ACCESS_TOKEN }}' -H 'Accept: application/vnd.github.ant-man-preview+json' https://api.github.com/repos/kyleboas/tacticsjournal.com/pages/builds"
+
+      - name: Verify API Response
+        run: |
+          RESPONSE=$(curl -s -o response.json -w "%{http_code}" -X POST \
+          -H "Authorization: token ${{ secrets.PAGES_ACCESS_TOKEN }}" \
+          -H "Accept: application/vnd.github.ant-man-preview+json" \
+          https://api.github.com/repos/kyleboas/tacticsjournal.com/pages/builds)
+          echo "HTTP Status Code: $RESPONSE"
+          cat response.json
