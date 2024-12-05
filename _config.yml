@@ -11,6 +11,9 @@ description: Analyzing football tactics
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://tacticsjournal.com/assets/022FF363-4D88-470D-B164-F6E3A7F65022.jpeg
 
+# Default image for posts and pages
+default_image: https://tacticsjournal.com/assets/IMG_4203.jpeg
+
 #
 # Flags below are optional
 #
