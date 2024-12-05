@@ -7,7 +7,7 @@ categories:
 tags:
 - "Arsenal"
 - "Manchester United"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/04/Image-04Dec2024_18:07:53.png"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/05/Image-05Dec2024_08:02:41.png"
 ---
 
 Arsenal had their defenders swap positions in moments to start the game against Manchester United. I love it, but it felt artificial. It feels more like a set play than a natural set of movements, and you can sense the other team knows that.
