@@ -35,6 +35,6 @@ There is a lack of movement from the forwards to accompany the movement from the
 
 Bologna rehearsed the movements because that is how they trained, but it felt natural. It felt like they were exploiting a team's weakness with their movement rather than moving just to try to confuse the opposition's defense.
 
-I love that Arsenal is trying this because it is an edge that they have this versatility. They are great at executing set plays, set pieces, "Set Piece FC", but movement for the sake of movement looks unnatural.
+I love that Arsenal is trying this because it is an edge that they have this versatility. They are great at executing set plays, set pieces, "Set Piece FC", but movement for the sake of movement looks unnatural. And "Set Piece FC" is a massive compliment to their ability to score from corners.
 
 *Match: Arsenal 2-0 Manchester United, 4 December 2024*
