@@ -12,7 +12,7 @@ I talk about the Premier League because I have an emotional attachment to the pl
 
 The formations are the same; every team is sort of copying each other, and there is not a ton of experimentation, but this is what I am familiar with.
 
-It is like tuning into the same reality TV show. I am invested in the characters.
+It is like tuning into the same reality TV show. I am invested in the characters. The drama.
 
 I know what winning and losing sounds like. Each Premier League stadium has its own sounds when a goal is scored or when their team wins or loses.
 
