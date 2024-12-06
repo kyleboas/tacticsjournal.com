@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-12-07 12:00 UTC
-title: "Why I talk about the Premier League"
+title: "Why I Talk About the Premier League"
 categories:
 - "Premier League"
 ---
