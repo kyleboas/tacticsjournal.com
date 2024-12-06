@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-12-06 12:00 UTC
-title: "Joe Hart on Ange Postecoglou: 'I'd do anything for you'"
+title: "Joe Hart on Ange Postecoglou: 'I'd do Anything for You'"
 categories:
 - "Premier League"
 tags:
