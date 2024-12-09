@@ -30,11 +30,11 @@ The Manchester City example is their most used formation in the past two years. 
 Try to guess which player is Bernardo Silva and Josko Gvardiol for Manchester City, then Amad Diallo and Diego Dalot for Manchester United.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/07/Image-07Dec2024_16:58:15.png">
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/07/Image-07Dec2024_16:58:18.png">
     <figcaption>Figure 2.1 - Figure 1.1, but with Bernardo Silva and Josko Gvardiol's names for Manchester City.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/07/Image-07Dec2024_16:58:18.png">
+    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/07/Image-07Dec2024_16:58:15.png">
     <figcaption>Figure 2.2 - Figure 1.2, but with Amad Diallo and Diego Dalot's names for Manchester United.</figcaption>
 </figure>
 
