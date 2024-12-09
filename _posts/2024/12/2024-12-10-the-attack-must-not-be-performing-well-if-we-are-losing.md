@@ -22,7 +22,7 @@ We associate losing with an inability to score because teams at the bottom of th
 
 The next assumption we make, without watching, is that it must be structural issues in the defense, but in Wolves' case, I don't fully agree.
 
-They sold their best defender, Max Kilman, in the summer and never replaced him. Craig Dawson, their second-best defender, has been off and on again injured. Mario Lemina is a midfielder playing as a center-back because they lack depth at center-back with the season-ending injury of their third-best defender, Yerson Mosquera. And the rest of their center-back options are not of the level required to start in the Premier League. Toti Gomes is an okay backup center-back, and Santiago Bueno is more of a fullback, but their attack is supremely talented.
+They sold their best defender, Max Kilman, in the summer and never replaced him. Craig Dawson, their second-best defender, has been off and on again injured. Mario Lemina is a midfielder playing as a center-back because they lack depth at center-back with the season-ending injury of their third-best defender, Yerson Mosquera. And the rest of their center-back options are not of the level required to start in the Premier League. Toti Gomes is an okay backup center-back, and I’m not a massive fan of Santiago Bueno, but their attack is supremely talented.
 
 If you are manager Gary O'Neil, what do you do? No matter how they defend, just based on the defensive qualities of their center-back, they are going to likely concede at least one or two goals every match, which means they need at least two goals to have a chance to win.
 
