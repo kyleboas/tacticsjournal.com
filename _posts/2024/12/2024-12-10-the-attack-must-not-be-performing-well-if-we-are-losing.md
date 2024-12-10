@@ -12,7 +12,7 @@ When a team is losing, that brings up a lot of negative emotions. The crowd is q
 
 <!---more--->
 
-Wolverhampton Wanderers [stick out like a sore thumb](https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/08/Image-08Dec2024_11:20:57.png) when you sort the Premier League table by goals for. They have no problem scoring; their issues are in defense. 
+Wolverhampton Wanderers [stick out like a sore thumb](https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/09/Image-09Dec2024_21:54:56.png) when you sort the Premier League table by goals for. They have no problem scoring; their issues are in defense. 
 
 Without looking, if I were to tell you that Ipswich Town and Southampton are stuck in the relegation battle with Wolves, where do you think they would rank for goals scored?
 
