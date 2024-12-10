@@ -10,7 +10,7 @@ Stagnation should terrify those that want to improve. How do you stagnate? You p
 
 For those that are brave, that thought that you are allowed to take risks must feel liberating because I know you have wild ideas that you want to try.
 
-If you are brave enough to take a risk, you have to be prepared to fail, and sometimes you will fail spectacularly. 
+If you are brave enough to take a risk, you have to be prepared to fail, and sometimes you will fail spectacularly. You learn the most when you fail because it helps focus you.
 
 Tyler Dibbling takes risks when he [solo dribbles up the pitch](https://youtu.be/xBu9q8Khzh0?si=W1HbgAycxqsI8KCr). 
 
@@ -19,4 +19,3 @@ Brentford took a risk by focusing their time on [a kick-off routine](https://tac
 Brighton takes risks in [the recruiting of their younger talent](https://www.scoutednotebook.com/p/brighton-hidden-aces).
 
 This can apply to anything.
-
