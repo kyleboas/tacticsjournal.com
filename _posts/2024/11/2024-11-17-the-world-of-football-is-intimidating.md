@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-11-17 11:00 UTC
+date: 2024-11-18 11:00 UTC
 title: "The world of football is intimidating"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/16/Image-16Nov2024_01:55:13.png"
 ---
