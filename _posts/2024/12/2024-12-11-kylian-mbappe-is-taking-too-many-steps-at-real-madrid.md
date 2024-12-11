@@ -8,7 +8,7 @@ tags:
 - "Real Madrid"
 ---
 
-I watched [all 256 goals Kylian Mbappe scored for Paris Saint-German](https://youtu.be/rIBeZ13aito?si=fYtEMOrH9IyC_zQy), and the common theme is that he didn't think. He took the shot on his first or second touch, and more importantly, there were no wasted steps. He has been wasting steps at Real Madrid.
+I watched [all 256 goals Kylian Mbappe scored for Paris Saint-German](https://youtu.be/rIBeZ13aito?si=fYtEMOrH9IyC_zQy), and the common theme is that he didn't think. He took one- or two-touch shots, and more importantly, there were no wasted steps. He has been wasting steps at Real Madrid.
 
 <!---more--->
 
