@@ -36,4 +36,4 @@ What are our goals?
 
 If our goal is to remain the same, maintaining the status quo of who is driving the meta now, we should only watch the top teams. We should pay attention to what works now.
 
-If we want to find new ideas that will surprise those top teams, we should spend our time elsewhere. Find a new inspiration, a team no one is paying attention to, because the teams with less pressure are experimenting more than the ones that have all the eyes on them.
+If we want to find new ideas that will surprise those top teams, we should spend our time elsewhere. Find a new inspiration, a team no one is paying attention to, because the teams with less pressure or resources are experimenting more than the ones that have all the eyes on them.
