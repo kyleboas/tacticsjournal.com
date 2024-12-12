@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-12-12 12:00 UTC
+date: 2024-12-13 12:00 UTC
 title: "Not taking any risks is a risk"
 ---
 
