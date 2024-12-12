@@ -19,7 +19,7 @@ Haaland is useful in [helping open space for the midfielders](https://tacticsjou
 
 At a certain point, as Haaland loses energy, he will stop making those runs. That certain point was several matches ago. He is slowly winding down. Why make the run if the rest of the players aren't looking up? Here is why he is not making the run.
 
-As we know from the past, the outside center-backs are the first ones to look to play Haaland through, normally the defenders on the left-hand side of the defense. Nathan Ake is the most active creative passer of the defenders in the wider areas of the pitch, as seen in this example. He is currently injured.
+As we know from the past, the outside center-backs are the first ones to look to play Haaland through, normally the defenders on the left-hand side of the defense. Nathan Ake is the most active creative passer of the defenders in the wider areas of the pitch, as seen [in this example](https://x.com/tacticsjournal/status/1636035816831975424?s=46&t=EwWKBMyY400eGGXYwoRkiw). He is currently injured.
 
 The second group of players that will look to play that pass through are the midfielders, in the pockets. Recently that has been Kevin De Bruyne, Bernardo Silva, Phil Foden, and Jack Grealish.
 
