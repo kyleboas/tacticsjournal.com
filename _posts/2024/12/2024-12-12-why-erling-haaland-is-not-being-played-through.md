@@ -47,7 +47,7 @@ Every team will lose the ball, but this set of players don't know how to lose th
 > 
 > This is how you get confidence back even in a game. Do the small and simple things to get your confidence back. In crucial moments at the moment we are always doing the wrong things.
 
-The midfielders and defenders are preoccupied with maintains control and not looking in Haaland's direction, Haaland is making fewer runs, they are getting more tired, and they are conceding more, which means they are now losing games.
+The midfielders and defenders are preoccupied with maintaining control and not looking in Haaland's direction, Haaland is making fewer runs, they are getting more tired, and they are conceding more, which means they are now losing games.
 
 Manchester City are an incredibly tired, overworked, injury ridden, slow team, that lack physicality, who are not looking to take on more risk, like the risk of playing Haaland through, because they are too focused on maintaining control and tempo. They are looking side to side and back, not forward. They are making a ton of unforced errors in risky parts of the pitch due to fatigue, and they aren't effectively moving the ball up the pitch as a group. 
 
