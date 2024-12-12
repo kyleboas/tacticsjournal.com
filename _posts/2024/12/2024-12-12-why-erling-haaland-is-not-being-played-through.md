@@ -35,9 +35,21 @@ Most of the Manchester City players don't know how to lose the ball. That is ano
 
 Every team will lose the ball, but this set of players don't know how to lose the ball yet. They are capable with time. İlkay Gündoğan is capable mentally, maybe not physically, but definitely mentally. It is a mentality shift from what they are used to. John Stones and Manuel Akanji are more than capable. That will likely be the answer. They will need to wait for both Stones and Akanji to come back fit to replicate what Rodri provided in that holding midfield position because they have the experience playing alongside him.
 
+İlkay Gündoğan said something similar when he spoke with TNT Sports after their 2-0 loss to Juventus in the Champions League:
+
+> We had chances to score a few goals but at the moment it feels like every attack we concede is so dangerous. Sometimes we are a bit careless in the duels and instead of playing simple we overcomplicate things.
+>
+> We miss the right timing to release the ball and lose balls in transition every time and give them counter-attacks and have to chase every time 50 or 60 metres backwards. That's not what we're built for, we're built for possession to keep the ball, be strong and even if you cannot do anything with the ball don't lose it. At the moment, it's just not working out for us.
+>
+> That's a mental issue as well. You can see that we are sometimes one action we miss the ball or lose a duel and you see that we drop immediately and lose the rhythm.
+>
+> They don't even need to do much but it has such a big effect on us right now. Even more you have to do the simple things as good as possible and create and fluidly and then it's going to work hard again.
+> 
+> This is how you get confidence back even in a game. Do the small and simple things to get your confidence back. In crucial moments at the moment we are always doing the wrong things.
+
 The midfielders and defenders are preoccupied with maintains control and not looking in Haaland's direction, Haaland is making fewer runs, they are getting more tired, and they are conceding more, which means they are now losing games.
 
-Manchester City are an incredibly tired, overworked, injury ridden, slow team, that lack physicality, who are not looking to take on more risk, like the risk of playing Haaland through, because they are too focused on maintaining control and tempo. They are looking side to side and back, not forward. They are making a ton of unforced errors in risky parts of the pitch due to fatigue, and they aren't effectively moving the ball up the pitch as a group. 
+Manchester City are an incredibly tired, overworked, injury ridden, slow team, that lack physicality, who are not looking to take on more risk, like the risk of playing Haaland through, because they are too focused on maintaining control and tempo. They are looking side to side and back, not forward. They are making a ton of unforced errors in risky parts of the pitch due to fatigue, and they aren't effectively moving the ball up the pitch as a group. 
 
 If I were Erling Haaland, I would keep making those runs, even if the pass doesn't come. It eventually will. They can't afford to lose that threat through the middle of the pitch because sooner or later, teams will begin to squeeze those midfielders in the pockets out. Defenses don't have to worry about Haaland if no one is looking up and forward to play him through. If I were the rest of the midfielders and defenders, I'd play Haaland through all game, because it will drive the opposition back, which will then open up more space for the midfielders in the pockets, which in turn will open up space for the wingers to cut inside.
 
