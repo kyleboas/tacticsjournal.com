@@ -16,9 +16,9 @@ Manchester United center-forward Rasmus Højlund spoke on something important th
 Rasmus Højlund speaking with MUTV after scoring two goals in their 2-1 win against Viktoria Plzen in the Europa League on Thursday:
 
 > "I think it’s about getting those connections with each other, especially when you’re playing this sort of system and there are people close to each other.
-> 
+>
 > "It’s very important to understand movements.
-> 
+>
 > "The manager is also trying to sort of play with players who complement each other very well, so yeah, it’s good."
 
 I noticed this with Bruno Fernandes in their 4-0 win against Everton. There was a ton of counter movements between the three central midfielders, Fernandes, Kobbie Mainoo, and Casemiro, and then individually between Fernandes and left-back Diego Dalot. 
