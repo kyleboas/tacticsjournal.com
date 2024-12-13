@@ -3,36 +3,36 @@ title: About
 layout: page
 ---
 
-<a href="<?= $page->url() ?>/like/toggle">❤️ <span><?= $page->likeCount() ?></span></a>
-
-<a href="<?= $page->url() ?>/like/add">👍</a>
-<a href="<?= $page->url() ?>/like/remove">👎</a>
+<div id="poll-banner">
+  <span id="vote-count">0</span> people like this post!
+  <button id="upvote-button">Upvote 👍</button>
+</div>
 
 <script>
-// Select target selector
-var button = document.querySelector('like-button');
+  const API_URL = "https://poll-api-seven.vercel.app/api/vote"; // Your Vercel API URL
 
-// Add click handler
-button.addEventListener('click', function(e) {
-  fetch(this.getAttribute('href'), {
-    method: 'POST'
-  })
-  .then((response) => {
-    return response.json();
-  })
-  .then((data) => {
-    this.querySelector('span').innerText = data.likeCount;
+  document.addEventListener("DOMContentLoaded", async function () {
+    const voteCountSpan = document.getElementById("vote-count");
+    const upvoteButton = document.getElementById("upvote-button");
 
-    if (data.hasLiked) {
-      this.classList.add('has_liked');
-    } else {
-      this.classList.remove('has_liked');
+    // Fetch the initial vote count
+    try {
+      const response = await fetch(API_URL);
+      const data = await response.json();
+      voteCountSpan.textContent = data.votes;
+    } catch (error) {
+      console.error("Error fetching vote count:", error);
     }
-  });
-})
-</script>
 
-fields:
-  likes:
-    label: Likes
-    type: likes
+    // Handle the upvote button click
+    upvoteButton.addEventListener("click", async function () {
+      try {
+        const response = await fetch(API_URL, { method: "POST" });
+        const data = await response.json();
+        voteCountSpan.textContent = data.votes;
+      } catch (error) {
+        console.error("Error submitting vote:", error);
+      }
+    });
+  });
+</script>
