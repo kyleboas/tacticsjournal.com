@@ -6,7 +6,7 @@ categories:
 - "Premier League"
 tags:
 - "Manchester United"
-- "Everton"
+- "Ruben Amorim"
 ---
 
 Manchester United center-forward Rasmus Højlund spoke on something important that manager Ruben Amorim is working on: forging connections between players to "complement each other" because, in his words, "It is very important to understand movements."
