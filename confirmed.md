@@ -11,9 +11,7 @@ function copyToClipboard() {
 }
 </script>
   <a href="mailto:?subject=Tactics Journal&body={{ site.url }}">Share via email</a>
-  {% include copylink.html %}
-  </div>
-<a href="#" id="copy-link">Copy link</a>
+  <a href="#" id="copy-link">Copy link</a>
 
 <script>
   var copyLink = document.getElementById("copy-link");
@@ -33,3 +31,5 @@ function copyToClipboard() {
     });
   }
 </script>
+
+</div>
