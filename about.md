@@ -13,30 +13,21 @@ layout: page
   <label for="bd-email">Subscribe</label>
   <input type="email" name="email" id="bd-email" placeholder="me@email.com"/>
   <input type="submit" value="Sign Up" />
-</form>
 
-<div class="container">
+
+<div class="signup-container">
   <div class="login_bar">
-    <span class="login">super-email@gmail.com</span>
+    <span class="login" id="bd-email">super-email@gmail.com</span>
     <span class="subscribe_button" onclick="subscribeOnClick()">subscribe</span>
     <span class="subscribing"></span>
-    <span class="thanks"> Thank you. You have been subscribed</span>
+    <span class="thanks"> Check your email to confirm your subscription.</span>
   </div>
 </div>
 
 <style>
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700);
 
-body {
-	background:#11BCAF;
-	font-family: 'Lato', sans-serif;
-	font-weight: bold;
-	font-size: 14px;
-	color: #171D23;
-	margin: 00;
-}
-
-.container {	
+.signup-container {	
 	width: 300px;
 	height: 300px;
 	margin: auto;
@@ -155,51 +146,6 @@ body {
 	    -ms-transform: translateY(-50px);
 	     -o-transform: translateY(-50px);
 	        transform: translateY(-50px);
-}
-</style>
-
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
-
-body {
-	background:#11BCAF;
-	font-family: 'Lato', sans-serif;
-	font-weight: bold;
-	font-size: 14px;
-	color: #171D23;
-	margin: 00;
-}
-
-.container {	
-	width: 300px;
-	height: 300px;
-	margin: auto;
-}
-
-.login_bar {
-	width: 300px;
-	height: 50px;
-	background: white;
-	border-radius: 10px;
-	top: 50%;
-	position: relative;
-  z-index: 1;
-	overflow: hidden;
-}
-
-.login {
-	background: transparent;
-	position: absolute;
-	height: 100%;
-	width: 190px;
-	padding-left: 10px;
-	text-align: left;
-	line-height: 50px;
-	vertical-align: middle;
-	z-index: 10;
-	-webkit-transition: transform 0.2s ease-in-out 0s;
-	   -moz-transition: transform 0.2s ease-in-out 0s;
-	     -o-transition: transform 0.2s ease-in-out 0s;
-	        transition: transform 0.2s ease-in-out 0s;
 }
 </style>
 
