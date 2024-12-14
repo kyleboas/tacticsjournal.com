@@ -10,9 +10,9 @@ layout: page
   onsubmit="window.open('https://buttondown.com/TacticsJournal', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Email</label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Subscribe" />
+  <label for="bd-email">Subscribe</label>
+  <input type="email" name="email" id="bd-email" placeholder="me@email.com"/>
+  <input type="submit" value="Sign Up" />
 </form>
 
 <div id="poll-banner">
