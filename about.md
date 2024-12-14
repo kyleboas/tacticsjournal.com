@@ -7,9 +7,8 @@ layout: page
   action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
   method="post"
   target="_blank"
-  style="display: flex; flex-direction: column; gap: 10px; font-family: Arial, sans-serif; width: 100%; max-width: 400px;"
+  style="display: flex; flex-direction: column; font-family: Arial, sans-serif; width: 100%; max-width: 400px;"
 >
-  <label for="email" style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">Subscribe</label>
   <div style="display: flex; width: 100%; border: 2px solid rgb(238, 238, 238); border-radius: 4px; overflow: hidden;">
     <input
       type="email"
@@ -23,7 +22,7 @@ layout: page
       type="submit"
       style="background-color: rgb(238, 238, 238); color: black; font-weight: bold; padding: 10px 20px; border: none; cursor: pointer; outline: none;"
     >
-      Sign Up
+      Subscribe
     </button>
   </div>
 </form>
