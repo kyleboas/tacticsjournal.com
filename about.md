@@ -3,6 +3,18 @@ title: About
 layout: page
 ---
 
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/TacticsJournal', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+</form>
+
 <div id="poll-banner">
   <span id="vote-count">0</span> people like this post!
   <button id="upvote-button">Upvote 👍</button>
@@ -36,3 +48,5 @@ layout: page
     });
   });
 </script>
+
+
