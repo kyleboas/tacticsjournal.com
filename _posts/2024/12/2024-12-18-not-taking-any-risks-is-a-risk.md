@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-12-17 12:00 UTC
+date: 2024-12-18 12:00 UTC
 title: "Not taking any risks is a risk"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/13/Image-13Dec2024_16:33:07.png"
 ---
