@@ -1,5 +1,5 @@
 ---
-title: Confirmed
+title: Subscribed
 layout: page
 ---
 
