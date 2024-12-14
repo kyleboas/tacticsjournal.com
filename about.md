@@ -15,38 +15,216 @@ layout: page
   <input type="submit" value="Sign Up" />
 </form>
 
-<div id="poll-banner">
-  <span id="vote-count">0</span> people like this post!
-  <button id="upvote-button">Upvote 👍</button>
+<div class="container">
+  <div class="login_bar">
+    <span class="login">super-email@gmail.com</span>
+    <span class="subscribe_button" onclick="subscribeOnClick()">subscribe</span>
+    <span class="subscribing"></span>
+    <span class="thanks"> Thank you. You have been subscribed</span>
+  </div>
 </div>
 
+<style>
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+
+body {
+	background:#11BCAF;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #171D23;
+	margin: 00;
+}
+
+.container {	
+	width: 300px;
+	height: 300px;
+	margin: auto;
+}
+
+.login_bar {
+	width: 300px;
+	height: 50px;
+	background: white;
+	border-radius: 10px;
+	top: 50%;
+	position: relative;
+  z-index: 1;
+	overflow: hidden;
+}
+
+.login {
+	background: transparent;
+	position: absolute;
+	height: 100%;
+	width: 190px;
+	padding-left: 10px;
+	text-align: left;
+	line-height: 50px;
+	vertical-align: middle;
+	z-index: 10;
+	-webkit-transition: transform 0.2s ease-in-out 0s;
+	   -moz-transition: transform 0.2s ease-in-out 0s;
+	     -o-transition: transform 0.2s ease-in-out 0s;
+	        transition: transform 0.2s ease-in-out 0s;
+}
+
+.login_active {
+	-webkit-transform: translateX(300px);
+	   -moz-transform: translateX(300px);
+	    -ms-transform: translateX(300px);
+	     -o-transform: translateX(300px);
+	        transform: translateX(300px);
+}
+
+.subscribe_button:hover{
+	background-color: #222A33;
+	cursor:pointer;
+}
+
+.subscribe_button {
+	background: #171D23;
+	position: absolute;
+	top: -50px;
+	left: 200px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	height: 150px;
+	width: 100px;
+	text-align: center;
+	line-height: 150px;
+	vertical-align: middle;	
+	color: white;
+	-webkit-transition: transform 0.5s ease 0s;
+	   -moz-transition: transform 0.5s ease 0s;
+	     -o-transition: transform 0.5s ease 0s;
+	        transition: transform 0.5s ease 0s;
+}
+
+.subscribe_button_active{
+	-webkit-transform: translateY(50px);
+	   -moz-transform: translateY(50px);
+	    -ms-transform: translateY(50px);
+	     -o-transform: translateY(50px);
+	        transform: translateY(50px);
+}
+
+.subscribing{
+	background: #CDD4DC;
+	height: 100%;
+	width: 300px;
+	z-index: 5;
+	position: absolute;
+	left:-300px;
+	display: inline-block;
+	-webkit-transition: transform 1s ease 0s ;
+	   -moz-transition: transform 1s ease 0s ;
+	     -o-transition: transform 1s ease 0s ;
+	        transition: transform 1s ease 0s ;
+}
+
+.subscribing_active {
+	-webkit-transform: translateX(300px);
+	   -moz-transform: translateX(300px);
+	    -ms-transform: translateX(300px);
+	     -o-transform: translateX(300px);
+	        transform: translateX(300px);
+}
+
+.thanks{
+	background: transparent;
+	height: 100%;
+	width: 300px;
+	z-index: 5;
+	text-align: left;
+	line-height: 50px;
+	vertical-align: middle;
+	padding-left: 10px;
+	position: absolute;
+	top:50px;
+	display: inline-block;
+	-webkit-transition: transform 0.5s ease 0s ;
+	   -moz-transition: transform 0.5s ease 0s ;
+	     -o-transition: transform 0.5s ease 0s ;
+	        transition: transform 0.5s ease 0s ;
+}
+
+.thanks_active {
+	-webkit-transform: translateY(-50px);
+	   -moz-transform: translateY(-50px);
+	    -ms-transform: translateY(-50px);
+	     -o-transform: translateY(-50px);
+	        transform: translateY(-50px);
+}
+</style>
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+
+body {
+	background:#11BCAF;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #171D23;
+	margin: 00;
+}
+
+.container {	
+	width: 300px;
+	height: 300px;
+	margin: auto;
+}
+
+.login_bar {
+	width: 300px;
+	height: 50px;
+	background: white;
+	border-radius: 10px;
+	top: 50%;
+	position: relative;
+  z-index: 1;
+	overflow: hidden;
+}
+
+.login {
+	background: transparent;
+	position: absolute;
+	height: 100%;
+	width: 190px;
+	padding-left: 10px;
+	text-align: left;
+	line-height: 50px;
+	vertical-align: middle;
+	z-index: 10;
+	-webkit-transition: transform 0.2s ease-in-out 0s;
+	   -moz-transition: transform 0.2s ease-in-out 0s;
+	     -o-transition: transform 0.2s ease-in-out 0s;
+	        transition: transform 0.2s ease-in-out 0s;
+}
+</style>
+
 <script>
-  const API_URL = "https://poll-api-seven.vercel.app/api/vote"; // Your Vercel API URL
+var subscribe_button = document.querySelector(".subscribe_button");
 
-  document.addEventListener("DOMContentLoaded", async function () {
-    const voteCountSpan = document.getElementById("vote-count");
-    const upvoteButton = document.getElementById("upvote-button");
+subscribe_button.addEventListener('click', function(){
+	var subscribing = document.querySelector(".subscribing");
+	var thanks = document.querySelector(".thanks");
+	var login = document.querySelector(".login");
 
-    // Fetch the initial vote count
-    try {
-      const response = await fetch(API_URL);
-      const data = await response.json();
-      voteCountSpan.textContent = data.votes;
-    } catch (error) {
-      console.error("Error fetching vote count:", error);
-    }
+	subscribing.classList.add("subscribing_active");
+	subscribe_button.classList.add("subscribe_button_active");
+	setTimeout(function(){
+		login.classList.add("login_active");
+	}, 1200);
+	setTimeout(function(){
+		thanks.classList.add("thanks_active");
+	}, 1400);
 
-    // Handle the upvote button click
-    upvoteButton.addEventListener("click", async function () {
-      try {
-        const response = await fetch(API_URL, { method: "POST" });
-        const data = await response.json();
-        voteCountSpan.textContent = data.votes;
-      } catch (error) {
-        console.error("Error submitting vote:", error);
-      }
-    });
-  });
+	setTimeout(function(){
+		thanks.classList.remove("thanks_active");
+		login.classList.remove("login_active");
+		subscribing.classList.remove("subscribing_active");
+		subscribe_button.classList.remove("subscribe_button_active");
+	}, 4000);
+});
 </script>
-
-
