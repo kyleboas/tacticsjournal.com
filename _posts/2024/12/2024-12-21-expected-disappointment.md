@@ -7,6 +7,8 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/1
 
 xG (goals), xA (assists), xCS (clean sheets), xP (points), and expected anything are great tools to help quantify anticipated success, only to be met with unmet disappointment.
 
+<!---more--->
+
 The student with a 4.0 GPA was expected to land their dream job, but their interview was horrible.
 
 The realtor expected to sell the house for $425,000, but they didn't get any bids.
