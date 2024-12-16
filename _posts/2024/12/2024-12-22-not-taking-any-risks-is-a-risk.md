@@ -7,6 +7,8 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/1
 
 Stagnation should terrify those that want to improve. How do you stagnate? You play it safe. You make it, and then you plateau because you don't take risks. It is more risky to play it safe than it is to take risks.
 
+<!---more--->
+
 For those that are brave, that thought that you are allowed to take risks must feel liberating because I know you have wild ideas that you want to try.
 
 If you are brave enough to take a risk, you have to be prepared to fail, and sometimes you will fail spectacularly. You learn the most when you fail because it helps focus you.
