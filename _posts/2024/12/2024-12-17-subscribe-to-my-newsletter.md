@@ -6,8 +6,10 @@ categories:
 - "Update"
 ---
 
-I have made an email newsletter for you to receive the Tactics Journal posts in your inbox for free. Go to the top of any page, put in your email, and then hit the subscribe button. If you like my writing, share this with ten of your friends.
+I have made an email newsletter to receive the Tactics Journal posts in your inbox for free. Go to the top of any page on the blog, enter your email, and then hit subscribe. If you would like to support me, share this with ten of your friends.
 
-No spam ever, I promise.
+<!---more--->
 
-If you have any technical issues, [email me](https://tacticsjournal.com/contact). Thank you for reading!
+No spam ever, I promise. Thank you for reading!
+
+If you have any technical issues, [email me](https://tacticsjournal.com/contact).
