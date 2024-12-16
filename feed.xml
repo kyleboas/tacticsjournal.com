@@ -42,7 +42,7 @@ layout: null
               {{ excerpt }}
             {% endif %}
           ]]></description>
-          <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+          <content:encoded><![CDATA[{{ post.content | replace: '<!---more--->', '' }}]]></content:encoded>
         </item>
       {% endunless %}
     {% endfor %}
