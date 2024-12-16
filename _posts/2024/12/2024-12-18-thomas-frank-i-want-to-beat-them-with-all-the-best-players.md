@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-12-17 12:00 UTC
+date: 2024-12-18 12:00 UTC
 title: "Thomas Frank: 'I want to beat them with all the best players'"
 categories:
 - "Premier League"
