@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-12-19 12:00 UTC
-title: "Structure versus players"
+title: "Structure versus the players"
 categories:
 - "Relationism"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/16/Image-16Dec2024_14:21:59.png"
@@ -27,4 +27,4 @@ You can't pin an action down on a manager. You can credit them for an idea that 
 
 At the top of the Premier League, the tactics, all the finer details, are as close to similar as you could get. If you can close your eyes and predict what is happening, then it is the same. If I have to draw a diagram and make a long speech to tell you how dissimilar things are between the teams, then they are as close to similar as you can get. I should know just by watching. It will be obvious.
 
-In the middle and bottom of table there is some parody, different tactics compared to the top of the table. And that is due to the players, their qualities, working around a lack of quality. If you want to look for something new, look at the middle or bottom of the table where they are amplifying their strengths, but the closer you get to the top, as you climb, the more the fans want you to copy the other teams because they are winning and you are not.
+In the middle and bottom of table there is some parody, different tactics compared to the top of the table. And that is due to the players, their qualities, working around a lack of quality. If you want to look for something new, look at the middle or bottom of the table where they are amplifying their strengths, but the closer you get to the top, as you climb, the more the fans want you to copy the other teams because they are winning titles and you are not.
