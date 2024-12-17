@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-The Tactics Journal is a football tactics blog written by Kyle Boas, focused on analyzing football tactics. 
+The Tactics Journal is a football tactics blog written by Kyle Boas, focused on analyzing football tactics.
 
 I want to find and talk about the world's most interesting players, managers, and teams. I am more focused on European football, primarily focused on the Premier League, but that can change at any point.
 
