@@ -9,7 +9,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/16/Image-16Dec2024_14:19:09.png"
 ---
 
-Pep Guardiola summed up Manchester City's issues in one perfect answer to a question, and the answer is simple: The schedule. 
+Pep Guardiola summed up Manchester City's issues in one perfect answer to a question, and the answer is simple: The schedule.
 
 <!---more--->
 
