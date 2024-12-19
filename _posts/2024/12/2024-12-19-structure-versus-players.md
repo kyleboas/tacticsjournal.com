@@ -17,7 +17,7 @@ In the English game, if we don't like the notion that the coach is controlling e
 
 If all we consume is content about structure, we forget about the technique or the creative elements of a game. The smaller things that no one will notice. We look a lot at the bigger picture. We have to look at the players more. Talk about the players more.
 
-When you watch a game in Brazil, for example, or even [a game in the second division of Spain](https://tacticsjournal.com/2024/11/27/how-racing-santander-prepares-for-the-third-pass/), you focus more on the players. I forget the manager exists, but then they pan over to him on the broadcast, and I remember they exist. I recognize the manager as a creative mind rather than a necessary evil.
+When you watch a game in Brazil, for example, or even [a game in the second division of Spain](https://tacticsjournal.com/2024/11/27/how-racing-santander-prepares-for-the-third-pass/), you focus more on the players. I forget the manager exists, but then they pan over to him on the broadcast, and I remember they exist.
 
 That is why something like [relationism](https://tacticsjournal.com/2024/10/02/positionism-and-relationism-change-the-way-we-look-at-football/) is appealing to those that are a little disenchanted by the same copy-and-paste talk around football. It is a different way of looking at things, and a different way of playing if the team is onboard with the idea. If I close my eyes, I can't accurately predict what is happening on the pitch. That is exciting to me. There is more focus on what the players are creating on the pitch and little to no focus on the manager.
 
