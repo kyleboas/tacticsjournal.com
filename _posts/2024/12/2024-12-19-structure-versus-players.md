@@ -7,7 +7,7 @@ categories:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/16/Image-16Dec2024_14:21:59.png"
 ---
 
-"The Premier League is tactically diverse," as I draw the same 4-4-2 to 3-4-3 box midfield, with the same interchanging of positions. It is hard to focus on anything else other than the structure when there is more emphasis on the structures and managers.
+"The Premier League is tactically diverse," as I draw the same 4-4-2 to 3-4-3 box midfield, with the same interchanging positions. It is hard to focus on anything other than structure when most public analysis is hyper-focused on structures and managers.
 
 <!---more--->
 
