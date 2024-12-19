@@ -25,6 +25,8 @@ Giving no instructions is an instruction in itself.
 
 You can't pin an action down on a manager. You can credit them for an idea that gets used several times in a match, but not an action. The manager and the coaches implement an idea, but they aren't controlling each individual change in structure or every movement. The structure is ever-changing and made up by the players.
 
+But I am Switzerland. I'm a neutral in this supposed fight between those that are against or for these resurfaced ideas. A middle man merely agreeing that there might be a problem. I want to find new ways of looking at football that could produce a change.
+
 At the top of the Premier League, the tactics, all the finer details, are as close to similar as you could get. If you can close your eyes and predict what is happening, then it is the same. If I have to draw a diagram and make a long speech to tell you how dissimilar things are between the teams, then they are as close to similar as you can get. I should know just by watching. It will be obvious.
 
 In the middle and bottom of table there is some parody, different tactics compared to the top of the table. And that is due to the players, their qualities, working around a lack of quality. If you want to look for something new, look at the middle or bottom of the table where they are amplifying their strengths, but the closer you get to the top, as you climb, the more the fans want you to copy the other teams because they are winning titles and you are not.
