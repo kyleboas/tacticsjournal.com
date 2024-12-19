@@ -18,7 +18,7 @@ jobs:
       # Initial two-minute delay
       - name: Initial Delay
         run: |
-          echo "Waiting for 1 minutes before starting..."
+          echo "Waiting for 1 minute before starting..."
           sleep 60
 
       # Install xmllint and dateutils
@@ -31,22 +31,39 @@ jobs:
         id: fetch_post
         run: |
           RSS_FEED_URL="https://tacticsjournal.com/feed"
-         
+          
+          # Fetch RSS feed
           response=$(curl -s "$RSS_FEED_URL")
-          description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" -)
-          url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -)
-          pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" -)
+          echo "RSS Response: $response"
 
+          # Parse XML fields
+          description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" - 2>/dev/null || echo "PARSE_ERROR")
+          url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" - 2>/dev/null || echo "PARSE_ERROR")
+          pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" - 2>/dev/null || echo "PARSE_ERROR")
+
+          # Log parsed data
+          echo "Parsed Data - Description: $description, URL: $url, PubDate: $pub_date"
+
+          # Handle parsing errors
+          if [[ "$description" == "PARSE_ERROR" || "$url" == "PARSE_ERROR" || "$pub_date" == "PARSE_ERROR" ]]; then
+            echo "Error: Failed to parse one or more required fields from the RSS feed. Exiting."
+            exit 1
+          fi
+
+          # Extract and compare dates
           today=$(date -R)
-
           pub_date_only=$(echo "$pub_date" | awk '{print $1", "$2" "$3" "$4}')
           today_only=$(echo "$today" | awk '{print $1", "$2" "$3" "$4}')
           
+          echo "Today's Date: $today_only"
+          echo "Publication Date: $pub_date_only"
+
           if [[ "$pub_date_only" != "$today_only" ]]; then
-            echo "The $pub_date_only for the blog post is not from $today_only. Exiting."
+            echo "The blog post is not from today ($pub_date_only). Exiting."
             exit 0
           fi
 
+          # Format and export environment variables
           description=$(echo "$description" | xargs)
           preview="$description $url"
 
@@ -61,3 +78,9 @@ jobs:
           link-preview-url: "${{ env.rss_url }}"
           identifier: tacticsjournal.com
           password: ${{ secrets.BSS }}
+
+      # Debug step: Print environment variables (optional, remove after debugging)
+      - name: Debug Environment Variables
+        run: |
+          echo "Preview Text: ${{ env.preview }}"
+          echo "RSS URL: ${{ env.rss_url }}"
