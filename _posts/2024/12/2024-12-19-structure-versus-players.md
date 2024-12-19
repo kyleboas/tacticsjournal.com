@@ -13,7 +13,7 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/1
 
 When a team performs better than the year prior or the team wins, we go, "Wow, what a masterclass from the manager." As if the manager kicked the ball once. All the credit goes to the manager. The manager came in and changed everything. No, the players changed everything under the manager.
 
-In the English game, if we don't like the notion that the coach is controlling everything, we have to talk more about what the players are doing first. People kicking the ball first, man in suit second.
+In the English game, if we don't like the notion that the coach is controlling everything, we have to talk more about what the players are doing first. People kicking the ball first, the man in suit second.
 
 If all we consume is content about structure, we forget about the technique or the creative elements of a game. The smaller things that no one will notice. We look a lot at the bigger picture. We have to look at the players more. Talk about the players more.
 
