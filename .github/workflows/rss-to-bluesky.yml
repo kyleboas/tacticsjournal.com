@@ -21,7 +21,7 @@ jobs:
           echo "Waiting for 1 minute before starting..."
           sleep 60
 
-      # Install xmllint and dateutils
+      # Install required tools
       - name: Install xmllint and dateutils
         run: |
           sudo apt-get update && sudo apt-get install -y libxml2-utils dateutils
@@ -34,9 +34,12 @@ jobs:
           
           # Fetch RSS feed
           response=$(curl -s "$RSS_FEED_URL")
-          echo "RSS Response: $response"
 
-          # Parse XML fields
+          # Parse the first <item> (Debugging)
+          first_item=$(echo "$response" | xmllint --xpath "//item[1]" - 2>/dev/null || echo "PARSE_ERROR")
+          echo "First Item: $first_item"
+
+          # Parse specific fields from the first <item>
           description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" - 2>/dev/null || echo "PARSE_ERROR")
           url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" - 2>/dev/null || echo "PARSE_ERROR")
           pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" - 2>/dev/null || echo "PARSE_ERROR")
