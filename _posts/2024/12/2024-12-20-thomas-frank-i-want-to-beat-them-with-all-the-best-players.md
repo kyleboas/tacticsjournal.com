@@ -9,7 +9,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/13/Image-13Dec2024_16:18:27.png"
 ---
 
-Brentford manager Thomas Frank agrees with me. I want to face the other team's full squad. No shortcuts. If my team is facing Arsenal, I want to see Saka. Liverpool, Salah better start. Bayern, Musiala should get the full 90 minutes.
+Brentford manager Thomas Frank agrees with me. I want to face the other team's full squad. No shortcuts. If my team is facing Arsenal, I want to see Saka. Liverpool, Salah better start. Bayern, Musiala should get the full 90 minutes. 
 
 <!---more--->
 
