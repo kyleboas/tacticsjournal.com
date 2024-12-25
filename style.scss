@@ -7,15 +7,14 @@
   margin-right: 4px;
   color: rgb(132, 132, 132);
 }
-
-.info {
-  font-size: 0.75em;
-} 
  
 @media (min-width: 1000px) {
     .info {
         padding-top: 10px;
     }
+    .info p {
+        font-size: 10px;
+    } 
 }
 
 @media (min-width: 750px) { 
