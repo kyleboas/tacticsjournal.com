@@ -43,7 +43,7 @@ layout: null
             {% endif %}
           ]]></description>
           <content:encoded><![CDATA[
-{{ post.content | replace: '<!---more--->', '' | replace: '<p>\\s*\\n\\s*</p>', '<p>' | replace: '\n\n', '' | strip_newlines }}
+{{ post.content | replace: '<!---more--->', '' | replace: '<p>\\s*\\n\\s*</p>', '<p>' | replace: '\n\n', '' | replace: '<form', '<!--form' | replace: '</form>', 'form-->' | strip_newlines }}
 ]]></content:encoded>
         </item>
       {% endunless %}
