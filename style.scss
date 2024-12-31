@@ -236,6 +236,7 @@ ol li,
 ul li {
   margin-bottom: 7px;
   line-height: 1.6em;
+  list-style-type: disc;
 }
 
 ul ul,
@@ -473,6 +474,7 @@ cite {
   border-top: 1px dashed rgb(169, 169, 169); 
   padding-top: 25px;
   padding-bottom: 5px;
+  list-style-type: none;
   
     .long-title {
       font-weight: bold;
