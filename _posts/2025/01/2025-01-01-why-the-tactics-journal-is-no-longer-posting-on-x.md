@@ -11,7 +11,7 @@ I will no longer be posting on the social media site X, formerly known as Twitte
 
 <!---more--->
 
-In my apolitical view, the site has been overrun by crypto scams, porn bots, conspiracy theories, racism, and misogyny. It is a haven for every form of lunacy and degeneracy that you could imagine, and it has become nearly impossible to have any productive conversations. They allow and encourage it. It is a cesspool of rage-baiting content made to drive engagement. It is an angry platform driven by division and controversy. Reading the site [makes your day worse](https://holapapi.substack.com/p/x-out). It makes you want to start disliking your hobbies because the worst conversations around them become sensationalized.
+In my apolitical view, the site has been overrun by crypto scams, porn bots, conspiracy theories, racism, and misogyny. It is has become nearly impossible to have any productive conversations. It is a cesspool of rage-baiting content made to drive engagement. It is an angry platform driven by division and controversy. Reading the site [makes your day worse](https://holapapi.substack.com/p/x-out). It makes you want to start disliking your hobbies because the worst conversations around them become sensationalized.
 
 If you can somehow get past that, then there is their targeted and increasingly rampant attack on external websites, like mine, through the disgusting practice of link suppression.
 
