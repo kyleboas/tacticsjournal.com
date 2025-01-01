@@ -11,8 +11,6 @@ BlueSky: [@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)
 
 Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
 
-X, formerly Twitter: [@tacticsjournal](https://twitter.com/tacticsjournal)
-
 Facebook: [https://facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal) 
 
 YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
