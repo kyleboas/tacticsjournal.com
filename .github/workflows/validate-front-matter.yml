@@ -20,10 +20,10 @@ jobs:
         with:
           ruby-version: '3.1'  # Specify the Ruby version you are using
 
-      - name: Install yaml-lint
+      - name: Install required gems
         run: gem install yaml-lint
 
-      - name: Debug and Validate latest and next month's front matter
+      - name: Validate front matter of Markdown files
         run: |
           # Get the current date
           current_year=$(date +'%Y')
@@ -49,18 +49,23 @@ jobs:
           echo "Checking latest directory: $latest_dir"
           echo "Checking next directory: $next_dir"
 
-          # Validate markdown files in the latest month
-          if [ -d "$latest_dir" ]; then
-            echo "Validating markdown files in $latest_dir..."
-            find "$latest_dir" -name "*.md" -exec echo "Found file: {}" \; -exec yaml-lint {} \;
-          else
-            echo "No directory found for the latest month: $latest_dir"
-          fi
+          # Function to validate front matter
+          validate_front_matter() {
+            local dir=$1
+            if [ -d "$dir" ]; then
+              echo "Validating markdown files in $dir..."
+              for file in "$dir"/*.md; do
+                if [ -f "$file" ]; then
+                  echo "Checking file: $file"
+                  front_matter=$(awk '/^---/{flag=!flag} flag' "$file")
+                  echo "$front_matter" | yaml-lint || echo "YAML validation failed for $file"
+                fi
+              done
+            else
+              echo "No directory found: $dir"
+            fi
+          }
 
-          # Validate markdown files in the next month
-          if [ -d "$next_dir" ]; then
-            echo "Validating markdown files in $next_dir..."
-            find "$next_dir" -name "*.md" -exec echo "Found file: {}" \; -exec yaml-lint {} \;
-          else
-            echo "No directory found for the next month: $next_dir"
-          fi
+          # Validate markdown files in latest and next month directories
+          validate_front_matter "$latest_dir"
+          validate_front_matter "$next_dir"
