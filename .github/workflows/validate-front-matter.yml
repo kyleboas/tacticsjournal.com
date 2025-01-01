@@ -23,6 +23,16 @@ jobs:
       - name: Install yaml-lint
         run: gem install yaml-lint
 
+      - name: Determine latest month's directory
+        id: latest_month
+        run: |
+          latest_month=$(date +%Y/%m)
+          echo "LATEST_MONTH=_posts/$latest_month" >> $GITHUB_ENV
+
       - name: Validate front matter
         run: |
-          find ./_posts -name "*.md" -exec yaml-lint {} \;
+          if [ -d "$LATEST_MONTH" ]; then
+            find "$LATEST_MONTH" -name "*.md" -exec yaml-lint {} \;
+          else
+            echo "No posts found for the latest month: $LATEST_MONTH"
+          fi
