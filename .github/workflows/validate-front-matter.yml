@@ -23,15 +23,44 @@ jobs:
       - name: Install yaml-lint
         run: gem install yaml-lint
 
-      - name: Validate latest month's front matter
+      - name: Debug and Validate latest and next month's front matter
         run: |
-          # Get the latest year and month directory
-          latest_dir=$(find ./_posts -type d -exec basename {} \; | sort -nr | head -2 | tr '\n' '/')
-          target_path="./_posts/${latest_dir}"
-          
-          # Validate all Markdown files in the latest directory
-          if [ -d "$target_path" ]; then
-            find "$target_path" -name "*.md" -exec yaml-lint {} \;
+          # Get the current date
+          current_year=$(date +'%Y')
+          current_month=$(date +'%m')
+
+          # Debug: Print current year and month
+          echo "Current Year: $current_year"
+          echo "Current Month: $current_month"
+
+          # Calculate next month
+          next_month=$(date -d "$current_year-$current_month-01 +1 month" +'%m')
+          next_year=$(date -d "$current_year-$current_month-01 +1 month" +'%Y')
+
+          # Debug: Print next year and month
+          echo "Next Year: $next_year"
+          echo "Next Month: $next_month"
+
+          # Construct paths for latest and next month's directories
+          latest_dir="./_posts/$current_year/$current_month"
+          next_dir="./_posts/$next_year/$next_month"
+
+          # Debug: Print the paths it will check
+          echo "Checking latest directory: $latest_dir"
+          echo "Checking next directory: $next_dir"
+
+          # Validate markdown files in the latest month
+          if [ -d "$latest_dir" ]; then
+            echo "Validating markdown files in $latest_dir..."
+            find "$latest_dir" -name "*.md" -exec echo "Found file: {}" \; -exec yaml-lint {} \;
           else
-            echo "No markdown files found for the latest month."
+            echo "No directory found for the latest month: $latest_dir"
+          fi
+
+          # Validate markdown files in the next month
+          if [ -d "$next_dir" ]; then
+            echo "Validating markdown files in $next_dir..."
+            find "$next_dir" -name "*.md" -exec echo "Found file: {}" \; -exec yaml-lint {} \;
+          else
+            echo "No directory found for the next month: $next_dir"
           fi
