@@ -23,16 +23,15 @@ jobs:
       - name: Install yaml-lint
         run: gem install yaml-lint
 
-      - name: Determine latest month's directory
-        id: latest_month
+      - name: Validate latest month's front matter
         run: |
-          latest_month=$(date +%Y/%m)
-          echo "LATEST_MONTH=_posts/$latest_month" >> $GITHUB_ENV
-
-      - name: Validate front matter
-        run: |
-          if [ -d "$LATEST_MONTH" ]; then
-            find "$LATEST_MONTH" -name "*.md" -exec yaml-lint {} \;
+          # Get the latest year and month directory
+          latest_dir=$(find ./_posts -type d -exec basename {} \; | sort -nr | head -2 | tr '\n' '/')
+          target_path="./_posts/${latest_dir}"
+          
+          # Validate all Markdown files in the latest directory
+          if [ -d "$target_path" ]; then
+            find "$target_path" -name "*.md" -exec yaml-lint {} \;
           else
-            echo "No posts found for the latest month: $LATEST_MONTH"
+            echo "No markdown files found for the latest month."
           fi
