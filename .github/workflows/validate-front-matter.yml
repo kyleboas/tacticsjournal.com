@@ -2,8 +2,10 @@ name: Validate Front Matter
 
 on:
   push:
-    branches:
-      - main  # Replace with your default branch
+    paths:
+      - _posts/**
+
+  workflow_dispatch:
 
 jobs:
   validate:
