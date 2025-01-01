@@ -1,0 +1,26 @@
+name: Validate Front Matter
+
+on:
+  push:
+    branches:
+      - main  # Replace with your default branch
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'  # Specify the Ruby version you are using
+
+      - name: Install yaml-lint
+        run: gem install yaml-lint
+
+      - name: Validate front matter
+        run: |
+          find ./_posts -name "*.md" -exec yaml-lint {} \;
