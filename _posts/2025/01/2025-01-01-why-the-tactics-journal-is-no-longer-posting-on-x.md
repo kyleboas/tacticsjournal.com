@@ -7,15 +7,15 @@ categories:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/29/Image-29Dec2024_15:15:51.png"
 ---
 
-I will no longer be posting on the social media site X, formerly known as Twitter. The decision to leave is being forced upon me due to the deteriation of the website.
+I will no longer be posting on the social media site X, formerly known as Twitter. The decision to leave is being forced upon me due to the deteriation of the website. I no longer want to contribute to their platform.
 
 <!---more--->
 
-In my apolitical view: the site has been overun by crypto scams, porn bots, conspiracy theories, racism, misogyny. It is a haven for every form of lunacy and degenceray that you could imagine, and it has become nearly imposssible to have any productive conversations. It is a cesspool of rage baiting content made to drive engagment. It is an angry platform.
+In my apolitical view: the site has been overun by crypto scams, porn bots, conspiracy theories, racism, misogyny. It is a haven for every form of lunacy and degenceray that you could imagine, and it has become nearly imposssible to have any productive conversations. They allow and encourage it. It is a cesspool of rage baiting content made to drive engagment. It is an angry platform driven by division and controversy. Reading the site [makes your day worse](https://holapapi.substack.com/p/x-out).
 
-And then there is their targeted and increasingly rampant attack on external websites, like mine, through the disgusting practice of link suppression.
+If you can somehow get past that, then there is their targeted and increasingly rampant attack on external websites, like mine, through the disgusting practice of link suppression.
 
-It started last year when I learned more about the site's increasing concerted effort to suppress links. Here is an example of how posting a link to X works:
+It started last year when I learned more about the site's increasing concerted effort to suppress links. Here is an example of how posting a link to X works.
 
 First, I add a link to my blog post in an X post. I am sharing my hard work, something that should be celebrated by X because I am providing content to them for free.
 
@@ -45,8 +45,6 @@ It has been confirmed by many sources, after X's alogrithm was made open-source,
 
 What is the point of contributing to this website if my content is not valued and not being shared to the people that follow me or to a greater audience?
 
-Now, finally, the exodus has begun not only because of this issue but also due to the deteriation of the site as a whole.
-
 The European Federation of Journalists (EFJ), the largest organisation of journalists in Europe, representing over 295,000 journalists in 44 countries has announced that it will stop posting content on X.
 
 [President of the EFJ, Maja Sever](https://www.thelondoneconomic.com/news/media/european-federation-of-journalists-to-stop-posting-content-on-x-386598/):
@@ -55,7 +53,7 @@ The European Federation of Journalists (EFJ), the largest organisation of journa
 > 
 > The social media site X has become the preferred vector for conspiracy theories, racism, far-right ideas and misogynistic rhetoric.
 
-They join The Guardian and many other European news outlets:
+They join [The Guardian](https://www.theguardian.com/media/2024/nov/13/why-the-guardian-is-no-longer-posting-on-x) and many other European news outlets:
 
 > We think that the benefits of being on X are now outweighed by the negatives and that resources could be better used promoting our journalism elsewhere.
 > 
@@ -69,7 +67,7 @@ It is very hard to leave the 35,900 Twitter followers behind. I put in a lot of 
 
 ## How to follow the Tactics Journal
 
-If you like my writing, the most reliable way to follow the Tactics Journal is by subscribing via RSS. Get a news reader like [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210), and then add my feed [https://tacticsjournal.com/feed](https://tacticsjournal.com/feed).
+If you like my writing, the most reliable way to follow the Tactics Journal is by subscribing via RSS. Get a news reader app like [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210), and then add my feed [https://tacticsjournal.com/feed](https://tacticsjournal.com/feed) to receive posts.
 
 The second most reliable way to follow the Tactics Journal is by [subscribing via email](https://tacticsjournal.com/subscribe/).
 
@@ -83,7 +81,6 @@ If you prefer to follow the Tactics Journal on social media, here is where you c
 - Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
 - Facebook: [https://facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal) 
 - YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
-
 
 The Tactics Journal has a community on Discord where you can discuss football tactics with other readers. [Join our community](https://discord.gg/7fhGJAZjwB).
 
