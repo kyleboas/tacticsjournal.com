@@ -77,10 +77,13 @@ Enter your email, hit subscribe. You’ll get my next post sent directly to your
 
 If you prefer to follow the Tactics Journal on social media, here is where you can find me:
 
-- Bluesky: [@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)
-- Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
-- Facebook: [https://facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal) 
-- YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
+Bluesky: [@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)
+
+Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
+
+Facebook: [https://facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal)
+
+YouTube: [https://youtube.com/@TacticsJournal](https://m.youtube.com/@TacticsJournal)
 
 The Tactics Journal has a community on Discord where you can discuss football tactics with other readers. [Join our community](https://discord.gg/7fhGJAZjwB).
 
