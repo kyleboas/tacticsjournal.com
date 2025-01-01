@@ -69,7 +69,7 @@ It is very hard to leave the 35,900 Twitter followers behind. I put in a lot of 
 
 If you like my writing, the most reliable way to follow the Tactics Journal is by subscribing via RSS. Get a news reader app like [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210), and then add my feed [https://tacticsjournal.com/feed](https://tacticsjournal.com/feed) to receive posts.
 
-The second most reliable way to follow the Tactics Journal is by [subscribing via email](https://tacticsjournal.com/subscribe/).
+The second most reliable way to follow the Tactics Journal by email.
 
 {% include subscribe.html %}
 
