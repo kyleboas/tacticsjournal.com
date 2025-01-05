@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-01-06 12:00 UTC
+date: 2025-01-05 12:00 UTC
 title: "Solid as a William Saliba"
 categories:
 - "Premier League"
