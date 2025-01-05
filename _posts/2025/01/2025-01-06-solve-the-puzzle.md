@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-01-05 12:00 UTC
+date: 2025-01-06 12:00 UTC
 title: "Solve the puzzle"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/03/Image-03Jan2025_12:57:28.png"
 ---
