@@ -1,0 +1,58 @@
+---
+layout: test
+---
+
+<article class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <p class="post-date">{{ page.date | date: "%d %B %Y" }}</p>
+
+  <div class="entry">
+   {{ content }}
+  </div>
+
+
+  <div class="post-navigation">
+  <a href="mailto:comments@tacticsjournal.com?subject=Re:%20{{ page.title | uri_escape }}&body={{ site.url }}{{ page.url | uri_escape }}">Reply</a>
+  <a href="#top">Back to top</a>
+
+<script>
+function copyToClipboard() {
+  const url = document.URL;
+}
+</script>
+  <a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url }}">Email this post</a>
+  {% include copylink.html %}
+  </div>
+
+<div class="PageNavigation">
+  <div class="searchInput">
+  <input type="text" id="search-input" placeholder="Search...">
+    <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
+    <p id="p-all-posts-link" style="margin-top: -20px;"><span id="all-posts-link"><a href="https://tacticsjournal.com/">View all posts</a></span></p>
+    <div class="resultBox">
+      <!-- here list are inserted from javascript -->
+   </div>
+  </div>
+    <ul id="post-list"></ul>
+</div>
+
+
+<script>
+  function goToHomePage() {
+    var searchTerm = document.getElementById("search-input").value;
+    window.location.href = "/?search=" + encodeURIComponent(searchTerm);
+  }
+
+  document.getElementById("all-posts-link").addEventListener("click", function(e) {
+    e.preventDefault(); // Prevent the default link behavior
+    goToHomePage(); // Call the function to redirect to the homepage
+  });
+</script>
+<script src="/js/suggest.js"></script>
+<script src="/js/search-post.js"></script>
+  {% include disqus.html %}
+</article>
+
+<hr>
+
+<p><em>To view all of the posts, <a href="https://tacticsjournal.com/archive/">visit the archive</a> or <a href="https://tacticsjournal.com/#top">search</a> on the homepage.</em></p>
