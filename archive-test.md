@@ -14,7 +14,7 @@ layout: default
           <h3 class="year">{{ year.name }}</h3>
           {% assign first_month_displayed = true %}
         {% else %}
-          <h3 class="year-placeholder"></h3>  {# Empty placeholder for alignment #}
+          <h3 class="year-placeholder"></h3>
         {% endif %}
         <h3 class="month">{{ month.name }}</h3>
       </div>
@@ -49,9 +49,6 @@ layout: default
 {% endfor %}
 
 <style>
-.archive-year {
-}
-
 .year-month {
   display: flex;
   justify-content: space-between;
