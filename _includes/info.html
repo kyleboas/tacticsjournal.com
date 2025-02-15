@@ -1,0 +1,24 @@
+<div class="info" style="color: rgb(132, 132, 132);">
+  <p style="margin-bottom: 0;line-height:1.2em;"><span id="date"></span></p>
+  <p style="margin-top: 2px; margin-bottom: 5px;">
+<a href="https://tacticsjournal.com/about/" >About</a>  
+<a href="https://tacticsjournal.com/archive/" >Archive</a>
+<a href="https://tacticsjournal.com/follow/">Follow</a>
+<a href="https://tacticsjournal.com/recommended">Recommended</a>
+<a href="https://tacticsjournal.com/contact/">Contact</a>
+ <a href="https://tacticsjournal.com/key/">Key</a>
+</div>
+
+<script>
+document.getElementById('more-link').addEventListener('click', function(event) {
+  event.preventDefault(); // Prevent the default action of the anchor
+  const moreItems = document.getElementById('more-items');
+  moreItems.style.display = moreItems.style.display === 'none' || moreItems.style.display === '' ? 'block' : 'none'; // Toggle display
+});
+
+document.getElementById('follow-link').addEventListener('click', function(event) {
+  event.preventDefault(); // Prevent the default action of the anchor
+  const followItems = document.getElementById('follow-items');
+  followItems.style.display = followItems.style.display === 'none' || followItems.style.display === '' ? 'block' : 'none'; // Toggle display
+});
+</script>
