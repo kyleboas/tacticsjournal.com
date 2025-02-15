@@ -112,9 +112,10 @@
   white-space: nowrap;
 }
  
-header { 
+header {
+  padding-top: 5px;
   padding-bottom: 5px;
-  border-top: 0px;
+  border-top: 1px #A9A9A9;
   border-bottom: 1px #A9A9A9;
   border-style: dashed none dashed;
   display: flex;
