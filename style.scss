@@ -187,7 +187,6 @@ body {
 }
 
 #wrapper {
-  max-width: 680px;
   margin: 10px auto;
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
@@ -1125,6 +1124,10 @@ body {
 // Smartphones (portrait and landscape)
 
 @media only screen and (max-width: 570px) {
+  #wrapper {
+    width: 580px;
+  } 
+
   .site-avatar img {
     width: 90px;
   }
