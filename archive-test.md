@@ -29,8 +29,8 @@ layout: default
             <li>
                 <span class="post-title-archive">
                   <a href="{{ post.url }}">{{ post.title }}</a>
+                  <span class="dots-archive"></span>
                 </span>
-                <span class="dots-archive"></span>
               <span class="post-date-archive">{{ day }}{{ suffix }}</span>
             </li>
           {% endfor %}
@@ -81,6 +81,7 @@ layout: default
 }
 
 .post-title-archive {
+  display: flex; 
   max-width: 70%;
   word-wrap: break-word;
   overflow-wrap: break-word; 
