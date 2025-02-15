@@ -29,8 +29,8 @@ layout: default
             {% endif %}
 
             {% assign title = post.title %}
-            {% if title.size > 35 %}
-              {% assign title = title | slice: 0, 32 | append: "..." %}
+            {% if title.size > 38 %}
+              {% assign title = title | slice: 0, 35 | append: "..." %}
             {% endif %}
 
             <li>
