@@ -27,12 +27,10 @@ layout: default
             {% endif %}
 
             <li>
-              <div class="post-wrapper">
                 <span class="post-title-archive">
                   <a href="{{ post.url }}">{{ post.title }}</a>
                 </span>
                 <span class="dots-archive"></span>
-              </div>
               <span class="post-date-archive">{{ day }}{{ suffix }}</span>
             </li>
           {% endfor %}
@@ -69,7 +67,7 @@ layout: default
 
 .archive-list li {
   display: flex;
-  flex-direction: column; /* Stack items properly */
+  flex-direction: column;
   font-size: 14px;
   font-family: ui-serif, serif;
   font-weight: normal;
@@ -79,12 +77,11 @@ layout: default
 .post-wrapper {
   display: flex;
   width: 100%;
-  align-items: flex-end; /* Ensures dots align with the last text line */
+  align-items: flex-end;
 }
 
 .post-title-archive {
-  flex: 1;
-  min-width: 70%;
+  max-width: 70%;
   word-wrap: break-word;
   overflow-wrap: break-word; 
 }
@@ -99,7 +96,8 @@ layout: default
   flex-grow: 1;
   border-bottom: 1px dotted #999;
   margin-left: 10px;
-  align-self: flex-end; /* Aligns dots with the bottom of the title */
+  margin-bottom: 6px;
+  align-self: flex-end;
 }
 
 .post-date-archive {
