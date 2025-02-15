@@ -29,7 +29,7 @@ layout: default
             <li>
                 <span class="post-title-archive">
                   {% assign title = post.title %}
-{% if title.size > 40 %}
+{% if title.size > 35 %}
   {% assign title = title | slice: 0, 37 | append: "..." %}
 {% endif %}
 <a href="{{ post.url }}">{{ title }}</a>
