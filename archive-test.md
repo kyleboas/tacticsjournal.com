@@ -29,8 +29,7 @@ layout: default
 }
 
 .year-archive {
-  width: 20%;
-  font-size: 24px;
+  max-width: 100%;
   font-weight: bold;
   text-align: left;
   margin: 0;
@@ -53,10 +52,10 @@ layout: default
 .archive-list li {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   font-size: 14px;
-  padding: 5px 0;
   font-family: ui-serif, serif;
+  font-weight: normal;
+  color: #000;
 }
 
 .post-title-archive a {
@@ -70,8 +69,8 @@ layout: default
 .dots {
   flex-grow: 1;
   border-bottom: 1px dotted #999;
-  margin: 0 10px;
-  margin-bottom: 2px;
+  margin: 0px 10px 6px;
+  align-items: bottom;
 }
 
 .post-date {
