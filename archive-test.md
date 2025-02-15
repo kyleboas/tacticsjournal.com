@@ -12,17 +12,31 @@ layout: default
         <h3 class="month-archive">{{ month.name }}</h3>
         <ul class="archive-list">
           {% for post in month.items %}
+            {% assign day = post.date | date: '%-d' %}
+            {% assign last_digit = day | slice: -1 %}
+            {% assign suffix = 'th' %}
+            
+            {% if day != '11' and day != '12' and day != '13' %}
+              {% if last_digit == '1' %}
+                {% assign suffix = 'st' %}
+              {% elsif last_digit == '2' %}
+                {% assign suffix = 'nd' %}
+              {% elsif last_digit == '3' %}
+                {% assign suffix = 'rd' %}
+              {% endif %}
+            {% endif %}
+
             <li>
               <span class="post-title-archive"><a href="{{ post.url }}">{{ post.title }}</a></span>
               <span class="dots-archive"></span>
-              <span class="post-date-archive">{{ post.date | date: '%-d' }}{{ post.date | date: '%-d' | append: 'th' }}</span>
+              <span class="post-date-archive">{{ day }}{{ suffix }}</span>
             </li>
           {% endfor %}
         </ul>
       {% endfor %}
     </div>
   </div>
-{% endfor %} 
+{% endfor %}
 
 <style>
 .archive-year {
