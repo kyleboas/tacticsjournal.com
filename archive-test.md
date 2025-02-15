@@ -5,17 +5,17 @@ layout: default
 {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for year in grouped_posts %}
   <div class="archive-year">
-    <h2 class="year">{{ year.name }}</h2>
-    <div class="year-content">
+    <h2 class="year-archive">{{ year.name }}</h2>
+    <div class="year-archive">
       {% assign month_posts = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
       {% for month in month_posts %}
-        <h3 class="month">{{ month.name }}</h3>
+        <h3 class="month-archive">{{ month.name }}</h3>
         <ul class="archive-list">
           {% for post in month.items %}
             <li>
-              <span class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></span>
-              <span class="dots"></span>
-              <span class="post-date">{{ post.date | date: '%-d' }}{{ post.date | date: '%-d' | append: 'th' }}</span>
+              <span class="post-title-archive"><a href="{{ post.url }}">{{ post.title }}</a></span>
+              <span class="dots-archive"></span>
+              <span class="post-date-archive">{{ post.date | date: '%-d' }}{{ post.date | date: '%-d' | append: 'th' }}</span>
             </li>
           {% endfor %}
         </ul>
@@ -30,7 +30,7 @@ layout: default
   align-items: flex-start;
 }
 
-.year {
+.year-archive {
   width: 20%;
   font-size: 24px;
   font-weight: bold;
@@ -39,11 +39,7 @@ layout: default
   padding-top: 10px;
 }
 
-.year-content {
-  width: 80%;
-}
-
-.month {
+.month-archive {
   text-align: right;
   font-size: 18px;
   font-weight: bold;
@@ -60,18 +56,19 @@ layout: default
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 18px;
+  font-size: 14px;
   padding: 5px 0;
 }
 
-.post-title {
+.post-title-archive {
   white-space: nowrap;
 }
 
-.dots {
+.dots-archive {
   flex-grow: 1;
   border-bottom: 1px dotted #999;
   margin: 0 10px;
+  margin-bottom: 2px;
 }
 
 .post-date {
