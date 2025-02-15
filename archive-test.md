@@ -65,6 +65,7 @@ layout: default
 
 .archive-list li {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   font-size: 14px;
   font-family: ui-serif, serif;
@@ -72,14 +73,17 @@ layout: default
   color: #000;
 }
 
+.post-title-archive {
+  flex: 1;
+  min-width: 70%;
+  word-wrap: break-word;
+  overflow-wrap: break-word; 
+}
+
 .post-title-archive a {
   font-size: 14px;
   color: #000;
   text-decoration: none;
-}
-
-.post-title-archive {
-  white-space: nowrap;
 }
 
 .dots-archive {
