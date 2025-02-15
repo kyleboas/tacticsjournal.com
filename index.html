@@ -29,7 +29,8 @@ layout: default
   {% else %}
     <p>No posts available.</p>
   {% endif %}
-
+  
+  <div class="archive">
   {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for year in grouped_posts %}
     <div class="archive-year">
@@ -75,6 +76,7 @@ layout: default
       {% endfor %}
     </div>
   {% endfor %}
+  </div>
 </article>
 
 <script>
