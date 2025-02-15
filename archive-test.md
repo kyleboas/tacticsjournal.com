@@ -30,7 +30,7 @@ layout: default
                 <span class="post-title-archive">
                   {% assign title = post.title %}
 {% if title.size > 35 %}
-  {% assign title = title | slice: 0, 37 | append: "..." %}
+  {% assign title = title | slice: 0, 32 | append: "..." %}
 {% endif %}
 <a href="{{ post.url }}">{{ title }}</a>
                 <span class="dots-archive"></span>
