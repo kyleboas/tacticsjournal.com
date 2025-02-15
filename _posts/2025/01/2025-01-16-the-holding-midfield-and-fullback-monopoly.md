@@ -18,6 +18,6 @@ A position is but a constraint you put on a player. They can play in any positio
 
 Imagine a center-back, fullback, and holding midfield backfield made up of Declan Rice, Moises Caicedo, Amadou Onana, Aurélien Tchouaméni, Khéphren Thuram-Ulien, and Carlos Baleba. There's a better combination of players that I can't think of right now, but with that amount of athleticism, technical prowess, dribbling, and passing ability to play in all three positions. All of those players rotating in and out of the wide areas, the back line, and the midfield. Then they are all capable of helping higher up the pitch. The opposition wouldn't be able to keep track of them. It would be dizzying and exciting. 
 
-The traditional center-backs like Gabriel, Ibrahima Konaté, or the Levi Colwill's of the world would have to adapt the movements or be left out. They are adapting now so it shouldn't be that hard.
+The traditional center-backs like Gabriel, Ibrahima Konaté, or the Levi Colwill's of the world would have to adapt to the movements or be left out. They are adapting now so it shouldn't be that hard.
 
 Holding midfielders and fullbacks that can play in both the midfield, defense, and out wide are incredibly rare. Why not collect all of them? You'd have a massive competitive advantage, a monopoly.
