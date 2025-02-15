@@ -2,56 +2,92 @@
 layout: default
 ---
 
-<div class="searchInput">
-  <div id="search-criteria-container">
-    <input type="text" id="search-input" placeholder="Search...">
-  </div>
-  <p id="p-result-count" style="margin-top: 0px;"><span id="result-count"></span></p>
-  <div class="resultBox">
-    <!-- here list are inserted from javascript -->
-  </div>
-</div>
+<article class="post">
+  {% assign latest_post = site.posts.first %}
+  
+  {% if latest_post %}
+    <h1 class="post-title"><a href="{{ latest_post.url }}">{{ latest_post.title }}</a></h1>
+    <p class="post-date">{{ latest_post.date | date: "%d %B %Y" }}</p>
 
-<ul id="post-list"></ul>
+    <div class="entry">
+      {{ latest_post.content }}
+    </div>
 
-<hr>
+    <div class="post-navigation">
+      <a href="mailto:comments@tacticsjournal.com?subject=Re:%20{{ latest_post.title | uri_escape }}&body={{ site.url }}{{ latest_post.url | uri_escape }}">Reply</a>
+      <a href="#top">Back to top</a>
 
-<p><em>To view all of the posts, <a href="https://tacticsjournal.com/archive/">visit the archive</a> or <a href="https://tacticsjournal.com/#top">search</a> at the top of the page.</em></p>
+      <script>
+        function copyToClipboard() {
+          const url = document.URL;
+        }
+      </script>
 
-<style>
+      <a href="mailto:?subject={{ latest_post.title }}&body={{ site.url }}{{ latest_post.url }}">Email this post</a>
+      {% include copylink.html %}
+    </div>
+  {% else %}
+    <p>No posts available.</p>
+  {% endif %}
 
-.tag {
-  display: inline-block;
-  background-color: #e0e0e0;
-  border-radius: 5px;
-  padding: 5px 10px;
-  margin-right: 5px;
-  margin-bottom: 5px;
-  font-size: 14px;
-}
+  {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year in grouped_posts %}
+    <div class="archive-year">
+      {% assign first_month_displayed = false %}
+      {% assign month_posts = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
+      
+      {% for month in month_posts %}
+        <div class="year-month">
+          {% if first_month_displayed == false %}
+            <h3 class="year">{{ year.name }}</h3>
+            {% assign first_month_displayed = true %}
+          {% else %}
+            <h3 class="year-placeholder"></h3>
+          {% endif %}
+          <h3 class="month">{{ month.name }}</h3>
+        </div>
 
-.tag .remove-tag {
-  margin-left: 10px;
-  cursor: pointer;
-  color: #ff0000;
-  postion: relative;
-  bottom: 1px;
-}
+        <ul class="archive-list">
+          {% for post in month.items %}
+            {% assign day = post.date | date: '%-d' %}
+            {% assign last_digit = day | slice: -1 %}
+            {% assign suffix = 'th' %}
+            
+            {% if day != '11' and day != '12' and day != '13' %}
+              {% if last_digit == '1' %}
+                {% assign suffix = 'st' %}
+              {% elsif last_digit == '2' %}
+                {% assign suffix = 'nd' %}
+              {% elsif last_digit == '3' %}
+                {% assign suffix = 'rd' %}
+              {% endif %}
+            {% endif %}
 
-</style>
+            <li>
+              <div class="post-title-archive">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                <span class="dots-archive"></span>
+              </div>
+              <span class="post-date-archive">{{ day }}{{ suffix }}</span>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </div>
+  {% endfor %}
+</article>
 
 <script>
-  window.addEventListener("DOMContentLoaded", function() {
-    var queryString = window.location.search;
-    var urlParams = new URLSearchParams(queryString);
-    var searchQuery = urlParams.get("search");
+  function goToHomePage() {
+    var searchTerm = document.getElementById("search-input").value;
+    window.location.href = "/?search=" + encodeURIComponent(searchTerm);
+  }
 
-    if (searchQuery) {
-      var searchInput = document.getElementById("search-input");
-      searchInput.value = searchQuery;
-      searchInput.dispatchEvent(new Event("input"));
-    }
+  document.getElementById("all-posts-link").addEventListener("click", function(e) {
+    e.preventDefault();
+    goToHomePage();
   });
 </script>
-<script src="/js/search.js"></script>
+
 <script src="/js/suggest.js"></script>
+<script src="/js/search.js"></script>
