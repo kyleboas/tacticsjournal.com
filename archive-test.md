@@ -5,40 +5,46 @@ layout: default
 {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for year in grouped_posts %}
   <div class="archive-year">
-    <div class="year-month">
-      <h3 class="year">{{ year.name }}</h3>
-      <h3 class="month">{{ year.items.first.date | date: '%B' }}</h3>
-    </div>
-    <div class="year-archive">
-      {% assign month_posts = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
-      {% for month in month_posts %}
-        <ul class="archive-list">
-          {% for post in month.items %}
-            {% assign day = post.date | date: '%-d' %}
-            {% assign last_digit = day | slice: -1 %}
-            {% assign suffix = 'th' %}
-            
-            {% if day != '11' and day != '12' and day != '13' %}
-              {% if last_digit == '1' %}
-                {% assign suffix = 'st' %}
-              {% elsif last_digit == '2' %}
-                {% assign suffix = 'nd' %}
-              {% elsif last_digit == '3' %}
-                {% assign suffix = 'rd' %}
-              {% endif %}
-            {% endif %}
+    {% assign first_month_displayed = false %}
+    {% assign month_posts = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
+    
+    {% for month in month_posts %}
+      <div class="year-month">
+        {% if first_month_displayed == false %}
+          <h3 class="year">{{ year.name }}</h3>
+          {% assign first_month_displayed = true %}
+        {% else %}
+          <h3 class="year-placeholder"></h3>  {# Empty placeholder for alignment #}
+        {% endif %}
+        <h3 class="month">{{ month.name }}</h3>
+      </div>
 
-            <li>
-              <div class="post-title-archive">
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                <span class="dots-archive"></span>
-              </div>
-              <span class="post-date-archive">{{ day }}{{ suffix }}</span>
-            </li>
-          {% endfor %}
-        </ul>
-      {% endfor %}
-    </div>
+      <ul class="archive-list">
+        {% for post in month.items %}
+          {% assign day = post.date | date: '%-d' %}
+          {% assign last_digit = day | slice: -1 %}
+          {% assign suffix = 'th' %}
+          
+          {% if day != '11' and day != '12' and day != '13' %}
+            {% if last_digit == '1' %}
+              {% assign suffix = 'st' %}
+            {% elsif last_digit == '2' %}
+              {% assign suffix = 'nd' %}
+            {% elsif last_digit == '3' %}
+              {% assign suffix = 'rd' %}
+            {% endif %}
+          {% endif %}
+
+          <li>
+            <div class="post-title-archive">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+              <span class="dots-archive"></span>
+            </div>
+            <span class="post-date-archive">{{ day }}{{ suffix }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
   </div>
 {% endfor %}
 
@@ -51,6 +57,7 @@ layout: default
   justify-content: space-between;
   align-items: center;
   width: 100%;
+  margin-bottom: 5px;
 }
 
 .year {
@@ -59,6 +66,10 @@ layout: default
   text-align: left;
   margin: 0;
   padding-top: 10px;
+}
+
+.year-placeholder {
+  visibility: hidden;
 }
 
 .month {
