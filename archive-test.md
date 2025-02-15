@@ -29,9 +29,9 @@ layout: default
             <li>
                 <span class="post-title-archive">
                   <a href="{{ post.url }}">{{ post.title }}</a>
-                  <span class="dots-archive"></span>
-                  <span class="post-date-archive">{{ day }}{{ suffix }}</span>
                 </span>
+                <span class="dots-archive"></span>
+                <span class="post-date-archive">{{ day }}{{ suffix }}</span>
             </li>
           {% endfor %}
         </ul>
