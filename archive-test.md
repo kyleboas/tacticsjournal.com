@@ -26,8 +26,6 @@ layout: default
 
 <style>
 .archive-year {
-  display: flex;
-  align-items: flex-start;
 }
 
 .year-archive {
@@ -41,7 +39,7 @@ layout: default
 
 .month-archive {
   text-align: right;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: bold;
   margin-bottom: 5px;
 }
