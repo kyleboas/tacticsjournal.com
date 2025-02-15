@@ -24,51 +24,53 @@ function copyToClipboard() {
   {% include copylink.html %}
   </div>
 
-{% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-{% for year in grouped_posts %}
-  <div class="archive-year">
-    {% assign first_month_displayed = false %}
-    {% assign month_posts = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
-    
-    {% for month in month_posts %}
-      <div class="year-month">
-        {% if first_month_displayed == false %}
-          <h3 class="year">{{ year.name }}</h3>
-          {% assign first_month_displayed = true %}
-        {% else %}
-          <h3 class="year-placeholder"></h3>
-        {% endif %}
-        <h3 class="month">{{ month.name }}</h3>
-      </div>
-
-      <ul class="archive-list">
-        {% for post in month.items %}
-          {% assign day = post.date | date: '%-d' %}
-          {% assign last_digit = day | slice: -1 %}
-          {% assign suffix = 'th' %}
-          
-          {% if day != '11' and day != '12' and day != '13' %}
-            {% if last_digit == '1' %}
-              {% assign suffix = 'st' %}
-            {% elsif last_digit == '2' %}
-              {% assign suffix = 'nd' %}
-            {% elsif last_digit == '3' %}
-              {% assign suffix = 'rd' %}
-            {% endif %}
+<div class="archive">
+  {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year in grouped_posts %}
+    <div class="archive-year">
+      {% assign first_month_displayed = false %}
+      {% assign month_posts = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
+      
+      {% for month in month_posts %}
+        <div class="year-month">
+          {% if first_month_displayed == false %}
+            <h3 class="year">{{ year.name }}</h3>
+            {% assign first_month_displayed = true %}
+          {% else %}
+            <h3 class="year-placeholder"></h3>
           {% endif %}
+          <h3 class="month">{{ month.name }}</h3>
+        </div>
 
-          <li>
-            <div class="post-title-archive">
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              <span class="dots-archive"></span>
-            </div>
-            <span class="post-date-archive">{{ day }}{{ suffix }}</span>
-          </li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
-  </div>
-{% endfor %}
+        <ul class="archive-list">
+          {% for post in month.items %}
+            {% assign day = post.date | date: '%-d' %}
+            {% assign last_digit = day | slice: -1 %}
+            {% assign suffix = 'th' %}
+            
+            {% if day != '11' and day != '12' and day != '13' %}
+              {% if last_digit == '1' %}
+                {% assign suffix = 'st' %}
+              {% elsif last_digit == '2' %}
+                {% assign suffix = 'nd' %}
+              {% elsif last_digit == '3' %}
+                {% assign suffix = 'rd' %}
+              {% endif %}
+            {% endif %}
+
+            <li>
+              <div class="post-title-archive">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                <span class="dots-archive"></span>
+              </div>
+              <span class="post-date-archive">{{ day }}{{ suffix }}</span>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </div>
+  {% endfor %}
+ </div>
 
 
 <script>
