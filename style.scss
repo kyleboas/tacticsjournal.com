@@ -187,7 +187,7 @@ body {
 }
 
 #wrapper {
-  width: 580px;
+  max-width: 680px;
   margin: 10px auto;
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
@@ -1126,16 +1126,16 @@ body {
 
 @media only screen and (max-width: 570px) {
   .site-avatar img {
-    width: 80px;
+    width: 90px;
   }
   .blog-title {
-    font-size: 20px;
+    font-size: 25px;
   }
   .blog-author { 
-    font-size: 15px;
+    font-size: 20px;
   }
   .blog-slogan {
-    font-size: 16px;
+    font-size: 21px;
   }
   #search-input { 
   font-size: 12px;
