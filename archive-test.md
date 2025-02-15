@@ -3,8 +3,19 @@ layout: default
 ---
 
 {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign years = grouped_posts | map: "name" %}
+
+<div class="year-nav">
+  {% for year in years %}
+    {% unless forloop.first %}
+      <span class="year-separator">|</span>
+    {% endunless %}
+    <a href="#" class="year-link" data-year="{{ year }}">{{ year }}</a>
+  {% endfor %}
+</div>
+
 {% for year in grouped_posts %}
-  <div class="archive-year">
+  <div class="archive-year" data-year="{{ year.name }}" {% unless forloop.first %}style="display: none;"{% endunless %}>
     {% assign first_month_displayed = false %}
     {% assign month_posts = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
     
@@ -49,12 +60,27 @@ layout: default
 {% endfor %}
 
 <style>
-.year-month {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  margin-bottom: 5px;
+.year-nav {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.year-link {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.year-link:hover {
+  text-decoration: underline;
+}
+
+.year-separator {
+  margin: 0 5px;
+  color: #999;
 }
 
 .year {
@@ -62,7 +88,6 @@ layout: default
   font-weight: bold;
   text-align: left;
   margin: 0;
-  
   padding-top: 10px;
 }
 
@@ -126,3 +151,56 @@ layout: default
   white-space: nowrap;
 }
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const yearLinks = document.querySelectorAll(".year-link");
+  const years = document.querySelectorAll(".archive-year");
+
+  function updateYearNavigation(activeYear) {
+    const navContainer = document.querySelector(".year-nav");
+    
+    // Regenerate year navigation excluding the active year
+    let newNavHtml = "";
+    const allYears = [...yearLinks].map(link => link.dataset.year);
+    
+    allYears.forEach((year, index) => {
+      if (year !== activeYear) {
+        if (newNavHtml !== "") {
+          newNavHtml += ' <span class="year-separator">|</span> ';
+        }
+        newNavHtml += `<a href="#" class="year-link" data-year="${year}">${year}</a>`;
+      }
+    });
+
+    navContainer.innerHTML = newNavHtml;
+
+    // Reattach event listeners to the new links
+    document.querySelectorAll(".year-link").forEach(link => {
+      link.addEventListener("click", function(e) {
+        e.preventDefault();
+        showYear(this.getAttribute("data-year"));
+      });
+    });
+  }
+
+  function showYear(selectedYear) {
+    // Hide all years
+    years.forEach(year => {
+      year.style.display = "none";
+    });
+
+    // Show the selected year
+    document.querySelector(`.archive-year[data-year='${selectedYear}']`).style.display = "block";
+
+    // Update the navigation links
+    updateYearNavigation(selectedYear);
+  }
+
+  // Set initial navigation state
+  if (yearLinks.length > 0) {
+    const initialYear = yearLinks[0].getAttribute("data-year");
+    updateYearNavigation(initialYear);
+  }
+});
+</script>
