@@ -28,7 +28,11 @@ layout: default
 
             <li>
                 <span class="post-title-archive">
-                  <a href="{{ post.url }}">{{ post.title }}</a>
+                  {% assign title = post.title %}
+{% if title.size > 40 %}
+  {% assign title = title | slice: 0, 37 | append: "..." %}
+{% endif %}
+<a href="{{ post.url }}">{{ title }}</a>
                 <span class="dots-archive"></span>
                 <span class="post-date-archive">{{ day }}{{ suffix }}</span>
                 </span>
