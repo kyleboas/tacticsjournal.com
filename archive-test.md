@@ -56,6 +56,11 @@ layout: default
   align-items: center;
   font-size: 14px;
   padding: 5px 0;
+  font-family: ui-serif, serif;
+}
+
+.post-title-archive a {
+  text-decoration: none;
 }
 
 .post-title-archive {
