@@ -30,9 +30,7 @@
 }
  
 header { 
-  padding-top: 5px;
   padding-bottom: 5px;
-  border-top: 1px #A9A9A9;
   border-bottom: 1px #A9A9A9;
   border-style: dashed none dashed;
   display: flex;
@@ -411,7 +409,6 @@ cite {
 
 .post {
   position: relative;
-  border-top: 1px dashed rgb(169, 169, 169);
 
   > h2 {
     margin-top: 60px;
