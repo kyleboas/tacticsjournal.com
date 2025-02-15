@@ -46,7 +46,7 @@ layout: default
 .archive-year {
 }
 
-.year-month-header {
+.year-month {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -54,6 +54,7 @@ layout: default
 }
 
 .year {
+  font-size: 14px;
   font-weight: bold;
   text-align: left;
   margin: 0;
