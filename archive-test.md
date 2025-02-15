@@ -67,7 +67,6 @@ layout: default
   color: #333;
   text-decoration: none;
   font-weight: bold;
-  margin: 0 5px;
   cursor: pointer;
 }
 
