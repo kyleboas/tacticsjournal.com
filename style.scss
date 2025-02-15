@@ -171,7 +171,7 @@ nav {
 }
 
 .site-avatar img { 
-  width: 110px;
+  width: 80px;
 }
 
 .site-info {
@@ -1121,13 +1121,15 @@ body {
   }
 }
 
+
+
 // Smartphones (portrait and landscape)
 
-@media only screen and (max-width: 570px) {
+@media only screen and (min-width: 570px) {
   #wrapper {
     width: 580px;
-  } 
-
+  }
+  
   .site-avatar img {
     width: 90px;
   }
