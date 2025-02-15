@@ -28,6 +28,85 @@
          padding-right: 20px;
     }
 }
+
+// Archive
+
+.year-month {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.year {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+  margin: 0;
+  
+  padding-top: 10px;
+}
+
+.year-placeholder {
+  visibility: hidden;
+}
+
+.month {
+  text-align: right;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+.archive-list li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  font-family: ui-serif, serif;
+  font-weight: normal;
+  color: #000;
+  align-items: center;
+}
+
+.post-title-archive {
+  display: flex;
+  flex: 10%;
+  min-width: 0;
+  align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.post-title-archive a {
+  font-size: 14px;
+  color: #000;
+  text-decoration: none;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.dots-archive {
+  flex-grow: 1;
+  border-bottom: 1px dotted #999;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 6px;
+  align-self: flex-end;
+}
+
+.post-date-archive {
+  white-space: nowrap;
+}
  
 header { 
   padding-bottom: 5px;

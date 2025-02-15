@@ -62,6 +62,7 @@ layout: default
   font-weight: bold;
   text-align: left;
   margin: 0;
+  
   padding-top: 10px;
 }
 
