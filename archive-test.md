@@ -5,15 +5,6 @@ layout: default
 {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% assign years = grouped_posts | map: "name" %}
 
-<div class="year-nav">
-  {% for year in years %}
-    {% unless forloop.first %}
-      <span class="year-separator">|</span>
-    {% endunless %}
-    <a href="#" class="year-link" data-year="{{ year }}">{{ year }}</a>
-  {% endfor %}
-</div>
-
 {% for year in grouped_posts %}
   <div class="archive-year" data-year="{{ year.name }}" {% unless forloop.first %}style="display: none;"{% endunless %}>
     {% assign first_month_displayed = false %}
@@ -58,6 +49,14 @@ layout: default
     {% endfor %}
   </div>
 {% endfor %}
+
+<div class="year-nav">
+  {% for year in years %}
+    {% unless forloop.first %}
+    {% endunless %}
+    <a href="#" class="year-link" data-year="{{ year }}">{{ year }}</a>
+  {% endfor %}
+</div>
 
 <style>
 .year-nav {
