@@ -6,7 +6,8 @@ layout: default
 {% for year in grouped_posts %}
   <div class="archive-year">
     <div class="year-month-wrapper">
-      <h2 class="year-archive">{{ year.name }}</h2>
+      <h3 class="year-archive">{{ year.name }}</h3>
+      {% assign month_posts = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
       <h3 class="month-archive">{{ month.name }}</h3>
     </div>
     <div class="year-archive">
@@ -48,38 +49,32 @@ layout: default
 {% endfor %}
 
 <style>
-/* Layout for the year and month on the same line */
 .year-month-wrapper {
   display: flex;
-  justify-content: space-between; /* Aligns year on the left, month on the right */
-  align-items: center; /* Ensures proper vertical alignment */
+  justify-content: space-between;
+  align-items: center;
   width: 100%;
   padding: 5px 0;
-  border-bottom: 1px solid #ccc; /* Optional separator */
 }
 
-/* Styling for year */
 .year-archive {
   font-size: 18px;
   font-weight: bold;
   margin: 0;
 }
 
-/* Styling for month */
 .month-archive {
   font-size: 16px;
   font-weight: bold;
   margin: 0;
 }
 
-/* Styling for the post list */
 .archive-list {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-/* Each post entry */
 .archive-list li {
   display: flex;
   justify-content: space-between;
@@ -89,32 +84,28 @@ layout: default
   color: #000;
 }
 
-/* Wrapper for post title and dots */
 .post-title-archive {
   display: flex;
-  flex-grow: 1; /* Ensures title & dots fill available space */
+  flex-grow: 1;
   align-items: center;
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
 
-/* Title styling */
 .post-title-archive a {
   font-size: 14px;
   color: #000;
   text-decoration: none;
-  flex-shrink: 0; /* Prevents text from shrinking */
+  flex-shrink: 0;
 }
 
-/* Dots extending to end of title */
 .dots-archive {
   flex-grow: 1; /* Makes dots fill remaining space */
   border-bottom: 1px dotted #999;
   margin-left: 10px;
-  height: 1px;
+  margin-bottom: 6px;
 }
 
-/* Date stays aligned */
 .post-date-archive {
   white-space: nowrap;
 }
