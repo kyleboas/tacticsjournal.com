@@ -14,7 +14,7 @@ layout: default
           {% for post in month.items %}
             <li>
               <span class="post-title-archive"><a href="{{ post.url }}">{{ post.title }}</a></span>
-              <span class="dots-archive"></span>
+              <span class="dots"></span>
               <span class="post-date-archive">{{ post.date | date: '%-d' }}{{ post.date | date: '%-d' | append: 'th' }}</span>
             </li>
           {% endfor %}
@@ -67,7 +67,7 @@ layout: default
   white-space: nowrap;
 }
 
-.dots-archive {
+.dots {
   flex-grow: 1;
   border-bottom: 1px dotted #999;
   margin: 0 10px;
