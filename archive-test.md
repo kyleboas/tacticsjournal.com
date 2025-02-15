@@ -80,6 +80,7 @@ layout: default
   list-style: none;
   padding: 0;
   margin: 0;
+  margin-bottom: 40px;
 }
 
 .archive-list li {
