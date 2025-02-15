@@ -73,6 +73,7 @@ layout: default
 }
 
 .post-title-archive a {
+  font-size: 14px;
   color: #000;
   text-decoration: none;
 }
