@@ -123,6 +123,13 @@ header {
   flex-wrap: wrap;
 }
 
+.logo
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+} 
+  
+
 nav {
   text-align: center;
   width: 100%;
