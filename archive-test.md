@@ -27,15 +27,11 @@ layout: default
             {% endif %}
 
             <li>
-                <span class="post-title-archive">
-                  {% assign title = post.title %}
-{% if title.size > 35 %}
-  {% assign title = title | slice: 0, 32 | append: "..." %}
-{% endif %}
-<a href="{{ post.url }}">{{ title }}</a>
+              <div class="post-title-archive">
+                <a href="{{ post.url }}">{{ post.title }}</a>
                 <span class="dots-archive"></span>
-                <span class="post-date-archive">{{ day }}{{ suffix }}</span>
-                </span>
+              </div>
+              <span class="post-date-archive">{{ day }}{{ suffix }}</span>
             </li>
           {% endfor %}
         </ul>
@@ -71,29 +67,34 @@ layout: default
 
 .archive-list li {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   font-size: 14px;
   font-family: ui-serif, serif;
   font-weight: normal;
   color: #000;
+  align-items: center;
 }
 
-.post-wrapper {
-  display: flex;
-  width: 100%;
-  align-items: flex-end;
-}
-
+/* Title container with dynamic truncation */
 .post-title-archive {
-  display: flex; 
-  word-wrap: break-word;
-  overflow-wrap: break-word; 
+  display: flex;
+  flex: 1; /* Allows title to take up remaining space */
+  min-width: 0; /* Allows flex item to shrink properly */
+  align-items: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
+/* Truncated title */
 .post-title-archive a {
+  flex: 1;
   font-size: 14px;
   color: #000;
   text-decoration: none;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .dots-archive {
