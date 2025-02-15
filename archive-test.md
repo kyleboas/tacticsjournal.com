@@ -75,20 +75,17 @@ layout: default
   align-items: center;
 }
 
-/* Title container with dynamic truncation */
 .post-title-archive {
   display: flex;
-  flex: 1; /* Allows title to take up remaining space */
-  min-width: 0; /* Allows flex item to shrink properly */
+  flex: 10%;
+  min-width: 0;
   align-items: center;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
 
-/* Truncated title */
 .post-title-archive a {
-  flex: 1;
   font-size: 14px;
   color: #000;
   text-decoration: none;
@@ -100,7 +97,6 @@ layout: default
 .dots-archive {
   flex-grow: 1;
   border-bottom: 1px dotted #999;
-  margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 6px;
   align-self: flex-end;
