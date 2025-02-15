@@ -100,6 +100,7 @@ layout: default
   flex-grow: 1;
   border-bottom: 1px dotted #999;
   margin-left: 10px;
+  margin-right: 10px;
   margin-bottom: 6px;
   align-self: flex-end;
 }
