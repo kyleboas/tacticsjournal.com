@@ -5,7 +5,7 @@ layout: default
 {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for year in grouped_posts %}
   <div class="archive-year">
-    <h2 class="year-archive">{{ year.name }}</h2>
+    <h3 class="year-archive">{{ year.name }}</h3>
     <div class="year-archive">
       {% assign month_posts = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
       {% for month in month_posts %}
