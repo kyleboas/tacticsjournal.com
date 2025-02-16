@@ -7,8 +7,6 @@ layout: default
 
 <div class="year-nav">
   {% for year in years %}
-    {% unless forloop.first %}
-    {% endunless %} 
     <a href="#" class="year-link" data-year="{{ year }}">{{ year }}</a>
   {% endfor %}
 </div>
