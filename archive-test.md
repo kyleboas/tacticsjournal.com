@@ -161,7 +161,6 @@ document.addEventListener("DOMContentLoaded", function() {
     allYears.forEach((year, index) => {
       if (year !== activeYear) {
         if (newNavHtml !== "") {
-          newNavHtml += ' <span class="year-separator">|</span> ';
         }
         newNavHtml += `<a href="#" class="year-link" data-year="${year}">${year}</a>`;
       }
