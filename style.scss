@@ -126,7 +126,8 @@ header {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 } 
 
 nav {
@@ -171,7 +172,7 @@ nav {
 }
 
 .site-avatar img { 
-  width: 80px;
+  width: 60px;
 }
 
 .site-info {
@@ -228,6 +229,7 @@ body {
   margin-bottom: 60px;
   margin: 0;
   font-size: 26px;
+  line-height: 25px;
 }
 
 .post-info {
