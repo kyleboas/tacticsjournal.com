@@ -126,8 +126,7 @@ header {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-right: 10px;
 } 
 
 nav {
@@ -156,15 +155,14 @@ nav {
 
 @media only screen and (max-width: 570px) {
   .blog-author {
-       font-size: 16px;
+       font-size: 16px !important;
     }
 
     .blog-slogan {
-       font-size: 18px;
-       line-height: 25px;
+       font-size: 18px !important
     }
     .blog-title {
-       font-size: 20px;
+       font-size: 20px !important;
     }
     .site-avatar img {
       width: 60px;
