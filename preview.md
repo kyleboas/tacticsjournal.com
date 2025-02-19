@@ -40,7 +40,7 @@ permalink: /preview/
     .subscribe-section-header {
         font-weight: bold;
         font-size: 13px;
-    } 
+    }
 </style>
 
 <div class="subscribe-section">
@@ -54,7 +54,7 @@ permalink: /preview/
 
         <button type="submit" id="subscribeButton">
             <svg width="15" height="15" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                <path d="M10 50 L40 80 L90 20" stroke="black" stroke-width="10" fill="none"/>
+                <path d="M10 50 L40 80 L90 20" stroke="black" stroke-width="15" fill="none"/>
             </svg>
         </button>
     </div>
