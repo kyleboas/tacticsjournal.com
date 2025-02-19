@@ -17,16 +17,7 @@ permalink: /preview/
         overflow: hidden;
     }
 
-    input[type="email"] {
-        flex: 1;
-        padding: 5px;
-        padding-left: 0px;
-        font-size: 13px;
-        border: none;
-        outline: none;
-        max-width: 150px;
-    }
-
+    It
     button#subscribeButton {
     display: none;
     background-color: transparent;
@@ -72,11 +63,14 @@ permalink: /preview/
 
 <script>
     document.getElementById("email").addEventListener("input", function() {
-    let button = document.getElementById("subscribeButton");
-    if (this.value.trim() !== "") {
-        button.classList.add("show");
-    } else {
-        button.classList.remove("show");
-    }
-});
+        let button = document.getElementById("subscribeButton");
+        let email = this.value.trim();
+        let emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+        if (emailPattern.test(email)) {
+            button.classList.add("show");
+        } else {
+            button.classList.remove("show");
+        }
+    });
 </script>
