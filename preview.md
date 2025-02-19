@@ -28,14 +28,23 @@ permalink: /preview/
     }
 
     button#subscribeButton {
-        display: none;
-        background-color: transparent;
-        color: #000000;
-        font-weight: bold;
-        cursor: pointer;
-        outline: none;
-        font-family: Arial, serif;
-        border: none;
+    display: none;
+    background-color: transparent;
+    color: #000000;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    font-family: Arial, serif;
+    border: none;
+    opacity: 0;
+    transform: translateY(5px);
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+    }
+
+    button#subscribeButton.show {
+    display: block;
+    opacity: 1;
+    transform: translateY(0);
     }
     .subscribe-section-header {
         font-weight: bold;
@@ -63,7 +72,11 @@ permalink: /preview/
 
 <script>
     document.getElementById("email").addEventListener("input", function() {
-        let button = document.getElementById("subscribeButton");
-        button.style.display = this.value.trim() !== "" ? "block" : "none";
-    });
+    let button = document.getElementById("subscribeButton");
+    if (this.value.trim() !== "") {
+        button.classList.add("show");
+    } else {
+        button.classList.remove("show");
+    }
+});
 </script>
