@@ -26,6 +26,7 @@ layout: default
       <a href="mailto:?subject={{ latest_post.title }}&body={{ site.url }}{{ latest_post.url }}">Email this post</a>
       {% include copylink.html %} 
 
+  </div>
     <div class="subscribe-section">
     <div class="subscribe-section-header">Subscribe</div>
       <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
@@ -42,7 +43,6 @@ layout: default
         </button>
     </div>
     </form>
-  </div>
   </div>
   {% else %}
     <p>No posts available.</p>

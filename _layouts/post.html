@@ -22,7 +22,7 @@ function copyToClipboard() {
 </script>
   <a href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url }}">Email this post</a>
   {% include copylink.html %}
-  
+</div>
   <div class="subscribe-section">
     <div class="subscribe-section-header">Subscribe</div>
       <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
@@ -40,7 +40,6 @@ function copyToClipboard() {
     </div>
     </form>
   </div>
-</div>
 
 <div class="archive">
   {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
