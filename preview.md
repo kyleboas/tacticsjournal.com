@@ -8,7 +8,7 @@ permalink: /preview/
         display: flex;
         flex-direction: column;
         font-family: Helvetica, sans-serif;
-        padding-top: 10px;
+        padding-top: 5px;
         padding-bottom: 20px;
     }
 
