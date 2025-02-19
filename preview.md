@@ -17,7 +17,16 @@ permalink: /preview/
         overflow: hidden;
     }
 
-    It
+    input[type="email"] {
+        flex: 1;
+        padding: 5px;
+        padding-left: 0px;
+        font-size: 13px;
+        border: none;
+        outline: none;
+        max-width: 150px;
+    }
+    
     button#subscribeButton {
     display: none;
     background-color: transparent;
