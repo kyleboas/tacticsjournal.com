@@ -4,7 +4,7 @@ permalink: /preview/
 ---
 
 
-    <style>
+<style>
     form {
         display: flex;
         flex-direction: column;
