@@ -3,28 +3,63 @@ layout: default
 permalink: /preview/
 ---
 
+
+    <style>
+    form {
+        display: flex;
+        flex-direction: column;
+        font-family: Helvetica, sans-serif;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    .form-container {
+        display: flex;
+        overflow: hidden;
+    }
+
+    input[type="email"] {
+        flex: 1;
+        padding: 10px;
+        font-size: 14px;
+        border: none;
+        outline: none;
+        max-width: 150px;
+    }
+
+    button#subscribeButton {
+        display: none;
+        background-color: transparent;
+        color: #000000;
+        font-weight: bold;
+        cursor: pointer;
+        outline: none;
+        font-family: Arial, serif;
+        border: none;
+    }
+</style>
+
+<div class="subscribe-section">
+   <div class="subscribe-section-header">Subscribe</div>
 <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
       method="post" 
-      target="_blank" 
-      style="display: flex; flex-direction: column; font-family: Helvetica, sans-serif; padding-top: 10px; padding-bottom: 20px;">
+      target="_blank">
 
-  <div style="display: flex; overflow: hidden;">
-    <input type="email" name="email" id="email" placeholder="Enter your email..." required 
-           style="flex: 1; padding: 10px; font-size: 14px; border: none; outline: none; max-width: 150px;">
-    
-    <button type="submit" id="subscribeButton" style="display: none; background-color: #f5ec00; color: #000000; font-weight: bold; cursor: pointer; outline: none; font-family: Arial, serif;">
-      Subscribe
-    </button>
-  </div>
+    <div class="form-container">
+        <input type="email" name="email" id="email" placeholder="Enter your email..." required>
+
+        <button type="submit" id="subscribeButton">
+            <svg width="15" height="15" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <path d="M10 50 L40 80 L90 20" stroke="black" stroke-width="10" fill="none"/>
+            </svg>
+        </button>
+    </div>
 </form>
+</div>
 
 <script>
-  document.getElementById("email").addEventListener("input", function() {
-    let button = document.getElementById("subscribeButton");
-    if (this.value.trim() !== "") {
-      button.style.display = "block";
-    } else {
-      button.style.display = "none";
-    }
-  });
+    document.getElementById("email").addEventListener("input", function() {
+        let button = document.getElementById("subscribeButton");
+        button.style.display = this.value.trim() !== "" ? "block" : "none";
+    });
 </script>
