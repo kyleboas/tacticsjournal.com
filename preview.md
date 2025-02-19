@@ -3,7 +3,6 @@ layout: default
 permalink: /preview/
 ---
 
-
 <style>
     form {
         display: flex;
@@ -20,8 +19,9 @@ permalink: /preview/
 
     input[type="email"] {
         flex: 1;
-        padding: 10px;
-        font-size: 14px;
+        padding: 5px;
+        padding-left: 0px;
+        font-size: 13px;
         border: none;
         outline: none;
         max-width: 150px;
@@ -37,6 +37,10 @@ permalink: /preview/
         font-family: Arial, serif;
         border: none;
     }
+    .subscribe-section-header {
+        font-weight: bold;
+        font-size: 13px;
+    } 
 </style>
 
 <div class="subscribe-section">
