@@ -16,3 +16,5 @@ When a player is told that an action like a shot, pass, or dribble equates to a 
 Then, what are the chances that other teams have these same values or close to the same values in their data? Then, everyone is avoiding the lower probability chance because they have that stat in the back of their mind.
 
 Data and projection are tools but not the solution. It is necessary today to gain an advantage; fun can still remain, but I don't like how it can place doubt in players minds when they go to take a risk because there is so much data backing up why they shouldn't take that risk. And if there's data backing it up, it becomes hard to defend your case for why you took the risk when you knew it probably wouldn't work out in your favor.
+
+I have data backing up why I should bench you.
