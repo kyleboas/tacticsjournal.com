@@ -123,6 +123,7 @@ form {
 }
 
 .archive-list li {
+  fonr-size: 14px;
   display: flex;
   justify-content: space-between;
   font-family: ui-serif, serif;
@@ -132,6 +133,7 @@ form {
 }
 
 .post-title-archive {
+  font-size: inherit;
   display: flex;
   flex: 10%;
   min-width: 0;
