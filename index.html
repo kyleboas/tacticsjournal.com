@@ -31,7 +31,8 @@ layout: default
     <div class="subscribe-section-header">Subscribe</div>
       <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
       method="post" 
-      target="_blank">
+      target="_blank"
+      id="subscribeForm">
 
     <div class="form-container">
         <input type="email" name="email" id="email" placeholder="Enter your email..." required>
@@ -123,4 +124,10 @@ layout: default
             button.classList.remove("show");
         }
     });
+document.getElementById("subscribeForm").addEventListener("submit", function(event) {
+    setTimeout(function() {
+        document.getElementById("email").value = ""; 
+        document.getElementById("subscribeButton").classList.remove("show");
+    }, 100);
+});
 </script>
