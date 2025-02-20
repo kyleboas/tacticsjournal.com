@@ -9,8 +9,8 @@
     <div class="footer-link"><a href="https://tacticsjournal.com/key/">Key</a></div>
   </div>
   <div class="footer-section">
-   <div class="footer-section-header">Subscribe</div>
-    <div class"footer-text" style="line-height: 1.4;">Receive all new posts by email.</div>
+   <div class="subscribe-section-header">Subscribe</div>
+    <div class"subscribe-text">Receive all new posts by email.</div>
     <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
       method="post" 
       target="_blank"
@@ -47,7 +47,7 @@
 </div>
 
 <script>
-    document.getElementById("email").addEventListener("input", function() {
+document.getElementById("email").addEventListener("input", function() {
         let button = document.getElementById("subscribeButton");
         let email = this.value.trim();
         let emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
