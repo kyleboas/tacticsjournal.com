@@ -14,7 +14,7 @@ Entering on the strong side of a defense, overloading the strong side, makes mor
 
 <!---more--->
 
-Real Madrid did the opposite in their match against Arsenal yesterday. Arsenal had a stronger right side of defense, made up of William Saliba and Jurrien Timber, and a weaker left side, made up of Jakub Kiwior and Lewis Myles-Skelly.
+Real Madrid did the opposite in their match against Arsenal yesterday. Arsenal had a stronger right side of defense, made up of William Saliba and Jurrien Timber, and a weaker left side, made up of Jakub Kiwior and Myles Lewis-Skelly.
 
 When Real Madrid entered Arsenal's half, Kylian Mbappe moved closer to left center-back Jakub Kiwior, avoiding right center-back William Saliba.
 
