@@ -21,6 +21,6 @@ The opposition counters, jogs down the other side of the pitch, plays two or thr
 
 All that practice, all that maneuvering into position, all those attempts from a dead ball, and the game is gone in an instant because the opposition is lethal.
 
-I'd rather my team focus all of their minds on scoring from open play because more often than not, if they did, they'd be better off. 
+I'd rather my team focus only on open play because more often than not, if they did, they'd be better off. Especially against teams who are equal to if not slightly better in the midfield or forward positions.
 
 I'd take a lethal attack that can tear a defense to pieces, limb from limb, any day over a team that is diluting their focus during open play. Focus your recruitment and mind on open play, and then the rest will follow.
