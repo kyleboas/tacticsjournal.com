@@ -5,7 +5,7 @@ title: "Ronaldinho"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/29/Image-29May2025_07:49:57.png"
 ---
 
-I went out of my way to watch Ronaldinho because you expected him to always do something unexpected and pull it off. It was guaranteed he would not perform the most obvious action. Predictably unpredictable and spectacular.
+I went out of my way to watch Ronaldinho because you expected him to always do something unexpected and pull it off. It was guaranteed he would not perform the most obvious action. Predictably unpredictable and spectacular. 
 
 <!---more--->
 
