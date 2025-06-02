@@ -13,7 +13,7 @@ It has been six months since [I stopped posting on X](https://tacticsjournal.com
 
 I'm still learning. I miss learning from them, and the most impactful way of learning is by having a conversation. Not by occasionally lurking. By having a constant dialogue.
 
-There are a ton of talented individuals out there. It is important to get different perspectives. The dialogue back and forth spurs on new ideas. Then you take on those ideas, adapt them into how you think, which improves your way of thinking. 
+There are a ton of talented individuals out there. It is important to get different perspectives. The dialogue back and forth spurs on new ideas. Then you take on those ideas, adapt them into how you think, which improves your way of thinking.
 
 Others spot things I can't see, things I may not be paying attention to. Some people hyperfocus on things I don't, like specific teams or a specific tactical philosophy. That is a massive asset.
 
