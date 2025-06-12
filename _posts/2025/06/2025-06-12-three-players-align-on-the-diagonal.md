@@ -14,7 +14,7 @@ South American teams never settle for one way to attack, and the primary tool th
     <figcaption>Figure 1.1 - The ball is passed out from the back as three players align on the same diagonal. Two other players join the play after the pass to combine.</figcaption>
 </figure>
 
-This is the most recognizable repeated pattern that can form anywhere on the pitch. It is a simple bridge to break a line that can be assembled anywhere at any time.
+This is the most recognizable repeated pattern that can form anywhere on the pitch. It is a simple bridge to break a line that can be assembled anywhere at any time. 
 
 The perfect balance comes when those three players, including the man with the ball, align. If you add more than three on the same diagonal, it can become crowded. 
 
