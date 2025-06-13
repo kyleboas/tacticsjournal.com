@@ -17,4 +17,4 @@ A leadership group should be established. The goal is to win. Everyone helps lea
 
 The armband is a simple accessory that can be passed around from game to game. There are no debates over who the captain is; everyone is a leader on and off the pitch, everyone keeps each other in check, and everyone pumps each other up on the training ground, during pre-game, at half-time, and after the game.
 
-That, to me, is the sign of a mature team, and I think that promotes a more emotionally stable environment. Build that team if you don't have it and promote that type of environment.
+That, to me, is the sign of a mature team, and I think that promotes a more emotionally stable environment. Build that team if you don't have it and promote that type of environment. 
