@@ -24,3 +24,5 @@ Football is a passion but is a job that allows for no true breaks at this moment
 You won the Premier League with Liverpool, a dream; the Nations League with Portugal, a dream; and married the love of your life of 13 years, a dream. All within the span of a few weeks. Then it all goes in one instant. Life is too short to not be able to have the right balance, to be able to enjoy life off the pitch to the fullest extent and still follow your passion on the pitch. We don't have the right balance right now.
 
 As Liverpool defender Ibrahima Konate put it rightly in his [beautiful letter](https://www.instagram.com/reel/DLp_8LiodnP/?igsh=MTV2c2Jhemt3OXpubg==) to those two brothers, this can happen to any of us. We must take every opportunity to live life to the fullest, and the players deserve that right.
+
+Rest in peace.
