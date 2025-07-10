@@ -25,4 +25,6 @@ The same goes for times when an attacking player blows past a defender who is sh
 
 Some attackers are more dangerous crossing, and some are more dangerous cutting in towards the top of the box. Some targets inside the box are dangerous from a header or a cutback. It all depends on the situation: what is the least dangerous position for this attacking player to dribble into, and where are my other teammates to help defend? 
 
+If your team does not want to defend the cross, don't allow the cross. It is easier to accomplish that as a team and the defenders can favor blocking the cross to allow the man to run inside. If you have the advantage in the air, allow the cross and win back the ball.
+
 Don't compromise the team's shape to make a tackle. Play to the attacking team's weaknesses as a team, not as individuals. 
