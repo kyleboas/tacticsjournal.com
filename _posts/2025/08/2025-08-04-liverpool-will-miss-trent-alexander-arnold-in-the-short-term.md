@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-08-04 11:00 UTC
-title: "Liverpool will miss Trent Alexander-Arnold more than they imagine"
+title: "Liverpool will miss Trent Alexander-Arnold in the short-term"
 categories:
 - "Premier League"
 tags:
