@@ -17,6 +17,8 @@ You give those players the ball, and they will find a way to surprise you with a
 
 You've seen your team make that same exact pass and get into those same areas of the pitch, but these players put something extra on that next action once they receive the ball that other players can't when they drive, dribble, pass, or shoot, that other players can't.
 
+You can replace them but you'll never achieve what you could achieve with them.
+
 The manager is responsible for creating an environment for those moments, but it doesn't matter how good the tactics are, how much they prepare, how much they train, how many friendlies they play, how far they've travelled, or how much rest they get; you need players that create moments. 
 
 You need to become irreplaceable.
