@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2025-08-23 11:00 UTC
-title: "Who is at fault for a far post goal?"
+title: "Who is at fault for a far post goal"
 categories:
 - "Premier League"
 tags:
 - "West Ham"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:51:23.png
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:51:23.png"
 ---
 
 When you are playing in a back five and you give up a goal on the far post, who is at fault for the goal? The answer is the entire team, and this is a perfect example from West Ham against Chelsea.
