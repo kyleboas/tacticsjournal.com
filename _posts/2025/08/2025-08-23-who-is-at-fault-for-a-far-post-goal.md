@@ -34,7 +34,7 @@ I want you to watch two players for Chelsea: Pedro Neto and Enzo Fernandez.
 
 They should prioritize Enzo Fernandez in the center of the box first, which they do. Thomas Soucek should be sprinting to cut off that pass into Enzo.
 
-Then they need to ensure the cross is blocked to the far post. I don't care if they have it covered, in my opinion, the pass to Pedro Neto should be blocked. Reason being, it is a very awkward pass to defend for the far side center-back, Jean-Clair Todibo.
+Then they need to ensure the cross is blocked to the far post. I don't care if they have it covered, in my opinion, the pass to Pedro Neto should be blocked. Reason being, it is a very awkward pass to defend for the far side center-back, Jean-Clair Todibo. 
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:19:45.png">
