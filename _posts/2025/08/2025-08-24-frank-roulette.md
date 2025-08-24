@@ -15,7 +15,7 @@ The fact that Thomas Frank did not use a back five and sit back and let Manchest
 
 In preseason after watching them play, [I talked about](https://tacticsjournal.com/2025/08/08/what-to-expect-with-thomas-frank-at-tottenham/) how they were going to set up. [I talked about](https://tacticsjournal.com/2025/08/14/the-biggest-difference-between-tottenhams-back-four-and-back-five/) how when they use a back four, one center-back is passive covering and the other center-back is active pressing when the ball is in the opposition's half. This speaks to Thomas Frank's flexibility in his approach. He adapts to the opponent.
 
-Everyone operated in the same way as they did before, but the right center-back, Cristian Romero, tightly man-marked Erling Haaland and followed him whereverhe went, and the midfielders dropped back to help cover.
+Everyone operated in the same way as they did before, but the right center-back, Cristian Romero, tightly man-marked Erling Haaland and followed him wherever he went, and the midfielders dropped back to help cover.
 
 You would think that's an obvious thing to do. Don't let Haaland breathe; mark him tightly. But with how aggressively Tottenham pressure teams in the build-up, man-to-man everywhere, it was a massive risk that paid off because Manchester City couldn't finish their chances, but a risk that paid off. 
 
