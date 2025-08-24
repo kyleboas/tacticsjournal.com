@@ -25,7 +25,7 @@ It is a risk because it can be manipulated. If the man-marking assignments don't
 
 But the problem is that Thomas Frank is going to build a tactical base that is strong, and then he's going to make one change like that. That one change to make Cristian Romero active changed the game. Manchester City had massive issues passing out short from the back because of that one change. And then they capitalized on Manchester City's mistakes to score and win.
 
-I was expecting a game like they had against PSG. Kevin Danso comes on, and they defend deep in their own half to counter. It would have been hell for Manchester City, but when Thomas Frank believes in his players, he's not afraid to take a risk. We saw that at Brentford, as they punched above his weight on several occasions.
+I was expecting a game like they had against PSG. Kevin Danso comes on, and they defend deep in their own half to counter. It would have been hell for Manchester City, but when Thomas Frank believes in his players, he's not afraid to take a risk. We saw that at Brentford, as they punched above their weight on several occasions.
 
 Pep Guardiola is known for being hard to predict with his tactics and lineup choices. I'd argue Frank roulette is as unpredictable as Pep roulette. 
 
