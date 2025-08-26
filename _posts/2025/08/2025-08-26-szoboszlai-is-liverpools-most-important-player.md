@@ -9,7 +9,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/25/Image-25Aug2025_20:27:57.png"
 ---
 
-It is a blessing in disguise for Liverpool that Dominic Szoboszlai got to play right-back because he's the closest thing to Trent Alexander-Arnold that they have. He is their most important player.
+It is a blessing in disguise for Liverpool that Dominik Szoboszlai got to play right-back because he's the closest thing to Trent Alexander-Arnold that they have. He is their most important player.
 
 <!---more--->
 
