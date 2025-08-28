@@ -17,7 +17,7 @@ Bournemouth under Andoni Irola this season presses like no other team in the Pre
 
 I don’t care about the outcome of the match. I’ll tune in regardless.
 
-You can tell, if those managers had a better midfield duo, better defenders, or better forwards, they should succeed. They'd win. Then you can be there sat in the front row.
+You can tell, if those managers had a better midfield duo, better defenders, or better forwards, they should succeed. They'd win. Then you can be there sat in the front row ahead of the crowd when they win.
 
 If you can take one thing from each of them and apply it to another team to improve a weakness, it is worth it to watch. You can learn something, it can spark an idea.
 
