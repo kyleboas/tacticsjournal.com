@@ -49,6 +49,18 @@ layout: default
     <p>No posts available.</p>
   {% endif %}
   
+  <div class="archive-filters">
+    <a href="#" class="cat-link active" data-cat="all">All</a>
+    <a href="#" class="cat-link" data-cat="between-the-posts">Between The Posts</a>
+  </div>
+
+  <style>
+    .archive-filters { margin:1rem 0; display:flex; gap:.75rem; }
+    .cat-link { text-decoration:none; color:#333; border-bottom:2px solid transparent; }
+    .cat-link.active { border-color:#000; font-weight:bold; }
+    .hidden { display:none !important; }
+  </style>
+  
   <div class="archive">
   {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for year in grouped_posts %}
@@ -83,7 +95,8 @@ layout: default
               {% endif %}
             {% endif %}
 
-            <li>
+            {% assign cats_slug = post.categories | join: '|' | downcase | replace: ' ', '-' %}
+            <li data-cats="{{ cats_slug }}">
               <div class="post-title-archive">
                 <a href="{{ post.url }}">{{ post.title | strip_html | escape }}</a>
                 <span class="dots-archive"></span>
@@ -108,6 +121,48 @@ layout: default
     e.preventDefault();
     goToHomePage();
   });
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const links = document.querySelectorAll(".cat-link");
+  const posts = document.querySelectorAll(".archive-list li[data-cats]");
+
+  function filterPosts(cat) {
+    posts.forEach(li => {
+      const cats = (li.dataset.cats || "").split("|");
+      const show = (cat === "all") || cats.includes(cat);
+      li.classList.toggle("hidden", !show);
+    });
+
+    // hide empty month/year groups
+    document.querySelectorAll(".archive-year").forEach(yearEl => {
+      let hasVisible = false;
+      yearEl.querySelectorAll(".archive-list").forEach(list => {
+        const visible = list.querySelector("li:not(.hidden)");
+        list.classList.toggle("hidden", !visible);
+        const headerRow = list.previousElementSibling;
+        if (headerRow && headerRow.classList.contains("year-month")) {
+          headerRow.classList.toggle("hidden", !visible);
+        }
+        if (visible) hasVisible = true;
+      });
+      yearEl.classList.toggle("hidden", !hasVisible);
+    });
+  }
+
+  links.forEach(link => {
+    link.addEventListener("click", e => {
+      e.preventDefault();
+      links.forEach(l => l.classList.remove("active"));
+      link.classList.add("active");
+      filterPosts(link.dataset.cat);
+    });
+  });
+
+  // default: show all
+  filterPosts("all");
+});
 </script>
 
 <script src="/js/suggest.js"></script>
