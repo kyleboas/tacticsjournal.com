@@ -93,7 +93,7 @@ layout: default
               {% endif %}
             {% endif %}
 
-            {% assign cats_slug = post.categories | map: 'downcase' | join: '|' | replace: ' ', '-' %}
+            {% assign cats_slug = post.categories | join: '|' | downcase | replace: ' ', '-' %}
             <li data-cats="{{ cats_slug }}">
               <div class="post-title-archive">
                 <a href="{{ post.url }}">{{ post.title | strip_html | escape }}</a>
