@@ -136,7 +136,6 @@ layout: default
   }
 </script>
 
-<!-- Combined: category filter + client-side pagination (40 per click) -->
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   const PAGE_SIZE = 40;
@@ -147,7 +146,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const showMoreBtn  = document.getElementById("show-more");
 
   let activeCat = "all";
-  let visibleLimit = PAGE_SIZE; // how many matched posts to show
+  let visibleLimit = PAGE_SIZE;
 
   function setActiveLink(cat) {
     links.forEach(l => l.classList.toggle("active", l.dataset.cat === cat));
@@ -160,10 +159,37 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  function reassignYearLabels(yearEl) {
+    // Grab the canonical year text from the original first row
+    const originalYearText = yearEl.querySelector(".year")?.textContent.trim() || "";
+    const rows = Array.from(yearEl.querySelectorAll(".year-month"));
+
+    // Reset all rows to placeholder (no year text)
+    rows.forEach(row => {
+      const label = row.querySelector(".year, .year-placeholder");
+      if (!label) return;
+      label.classList.remove("year");
+      label.classList.add("year-placeholder");
+      label.textContent = "";
+    });
+
+    // Find first visible row and assign the year text there
+    const firstVisibleRow = rows.find(r => !r.classList.contains("hidden"));
+    if (firstVisibleRow && originalYearText) {
+      const label = firstVisibleRow.querySelector(".year, .year-placeholder");
+      if (label) {
+        label.classList.remove("year-placeholder");
+        label.classList.add("year");
+        label.textContent = originalYearText;
+      }
+    }
+  }
+
   function hideOrShowGroups() {
-    // hide empty month lists and year blocks
+    // Hide empty month lists and year blocks
     document.querySelectorAll(".archive-year").forEach(yearEl => {
       let yearHasVisible = false;
+
       yearEl.querySelectorAll(".archive-list").forEach(list => {
         const anyVisible = !!list.querySelector("li:not(.hidden)");
         list.classList.toggle("hidden", !anyVisible);
@@ -173,7 +199,11 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         if (anyVisible) yearHasVisible = true;
       });
+
       yearEl.classList.toggle("hidden", !yearHasVisible);
+
+      // NEW: ensure a visible year label on the first visible month
+      if (yearHasVisible) reassignYearLabels(yearEl);
     });
   }
 
@@ -188,8 +218,6 @@ document.addEventListener("DOMContentLoaded", () => {
     matched.forEach((li, idx) => {
       if (idx < visibleLimit) {
         li.classList.remove("hidden");
-      } else {
-        li.classList.add("hidden");
       }
     });
 
@@ -197,7 +225,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const hasMore = matched.length > visibleLimit;
     showMoreWrap.classList.toggle("hidden", !hasMore);
 
-    // Tidy up month/year headers
+    // Tidy up month/year headers (and reassign year labels)
     hideOrShowGroups();
   }
 
