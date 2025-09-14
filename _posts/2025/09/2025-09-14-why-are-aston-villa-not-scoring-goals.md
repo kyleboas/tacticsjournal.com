@@ -9,7 +9,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/13/Image-13Sep2025_20:28:30.png"
 ---
 
-Aston Villa stands alone as the only club in England’s top seven divisions yet to score this season. The underlying issue is one we underestimate because it is hard to quantify—the mood within the squad.
+Aston Villa stands alone as the only club in England’s top seven divisions yet to score this season. The underlying issue is one we underestimate because it is hard to quantify—the mood within the squad. 
 
 <!---more--->
 
