@@ -25,6 +25,10 @@ This comes at a time when a team like [Brighton is investing in the 'Coachwhispe
 
 We know each team has staff in the stands relaying information and images to the bench, but it's different when you can see it with your own eyes live.
 
+Argentina manager Lionel Scaloni remarked about how his staff feed him their analysis during the match:
+
+> We have people up top analyzing. It’s important. In fact, when I was at Sevilla, I used to do that. I watched the matches from above [...] but it can be quite misleading. The player sees things from another perspective. From up there, everything looks so easy, but then when you talk to the player, he’ll tell you, ‘It’s not like you say it is.’ You have to put it into context, but it does help.
+
 This incident reminded me of a quote from Luis Enrique this summer when he was asked why PSG started kicking the ball out of play from the kickoff. Was it to win back possession quicker?
 
 > Yes, the reflection would be interesting if we were in a coaching course and sharing it with my colleagues. In fact, we copied it from Olympique Lyon. I saw it. I liked it. 
