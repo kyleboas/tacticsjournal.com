@@ -41,4 +41,4 @@ The mood of the team trumps tactics, and that is something that is often ignored
 
 Now that the transfer window is closed, they'll take a look around the locker room and look at Unai Emery; he's a top manager, and they are in the Europa League. They'll peer at their phone and see the promotional content for the World Cup. If not for the team, they'll do it for themselves.
 
-They'll score.
+They'll score but it doesn't feel like the players are playing expecting to stay next season, so some questions on the motivation.
