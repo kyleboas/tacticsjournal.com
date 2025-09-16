@@ -9,7 +9,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/15/Image-15Sep2025_16:10:13.png"
 ---
 
-PSG manager Luis Enrique is now watching the first half of matches from the stands, taking inspiration from rugby  coaches, because in his words you either "adapt, improvise, and stop being predictable for the opponent, or you're dead."
+PSG manager Luis Enrique has started watching the first half of matches from the stands, borrowing that idea from rugby  coaches. In his words you either "adapt, improvise, and stop being predictable for the opponent, or you're dead."
 
 <!---more--->
 
