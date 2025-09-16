@@ -13,7 +13,7 @@ PSG manager Luis Enrique is now watching the first half of matches from the stan
 
 <!---more--->
 
-Luis Enrique on why he is watching from the stands:
+Luis Enrique on why he spent the first half against Lens in the stands and the second half on the bench:
 
 > For some time now, I've been watching rugby coaches who analyze matches from a very different perspective. I like the possibility of seeking that improvement. I wanted to follow the first half from the stands and it's magnificent. It's different. I can control everything.
 > 
