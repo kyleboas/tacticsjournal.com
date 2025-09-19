@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-09-20 11:00 UTC
-title: "A Barcelona learning experience for any attack"
+title: "A Barcelona learning experience for every attack"
 categories:
 - "La Liga"
 - "Champions League"
