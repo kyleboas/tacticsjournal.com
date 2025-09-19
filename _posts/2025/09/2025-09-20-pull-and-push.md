@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-09-20 11:00 UTC
-title: "Pull and push"
+title: "A learning experience for any attack"
 categories:
 - "La Liga"
 - "Champions League"
