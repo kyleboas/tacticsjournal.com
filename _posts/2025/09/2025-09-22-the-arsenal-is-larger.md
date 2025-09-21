@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-09-21 11:00 UTC
+date: 2025-09-22 11:00 UTC
 title: "The Arsenal is larger"
 categories:
 - "Premier League"
