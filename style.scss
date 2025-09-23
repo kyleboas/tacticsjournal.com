@@ -1121,7 +1121,6 @@ body {
   #wrapper {
     margin: 20px;
     width: auto;
-    padding-top: 20px;
   }
 
   .footer {
@@ -1185,6 +1184,7 @@ body {
 @media only screen and (min-width: 570px) {
   #wrapper {
     width: 580px;
+    padding-top: 20px;
   }
   
   .site-avatar img {
