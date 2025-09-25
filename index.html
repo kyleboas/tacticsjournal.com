@@ -28,21 +28,20 @@ layout: default
     </div>
 
     <div class="subscribe-section">
-      <div class="subscribe-section-header">Subscribe</div>
-      <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
-            method="post" 
-            target="_blank"
-            id="subscribeForm">
-        <div class="form-container">
-          <input type="email" name="email" id="email" placeholder="Enter your email..." required>
-          <button type="submit" id="subscribeButton">
-            <svg width="15" height="15" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-              <path d="M10 50 L40 80 L90 20" stroke="black" stroke-width="15" fill="none"/>
-            </svg>
-          </button>
+          <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
+                method="post" 
+                target="_blank"
+                id="subscribeForm">
+            <div class="form-container">
+              <input type="email" name="email" id="email" placeholder="Enter your email to subscribe..." required>
+              <button type="submit" id="subscribeButton">
+                <svg width="15" height="15" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M10 50 L40 80 L90 20" stroke="black" stroke-width="15" fill="none"/>
+                </svg>
+              </button>
+            </div>
+          </form>
         </div>
-      </form>
-    </div>
   {% else %}
     <p>No posts available.</p>
   {% endif %}
