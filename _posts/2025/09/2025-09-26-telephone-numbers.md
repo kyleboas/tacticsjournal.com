@@ -9,6 +9,10 @@ Numbers like 4-4-2, 4-3-3, 3-4-3, and 5-2-3 describe the formation to help us qu
 
 <!---more--->
 
+As Pep Guardiola said, "I thought it was a 4-3-3, 4-2-3-1, or telephone number my wife."
+
+We try to translate what we see into words, but the game has evolved to be much more dynamic in and out of possession, managers don't care what we call it.
+
 You'll never see me use those numbers when I write because, first, I think it oversimplifies a complex process; second, it makes the reader or listener assume the formation is fixed; and third, it is a definitive statement to say "Chelsea are using a 3-4-3 formation." 
 
 I'm on the outside looking in. What if the coach views it as a 5-2-3 instead and is communicating that to the players? That formation change represents a shift in mindset on the part of the players on the pitch. One formation is more offensive and the other more defensive.
