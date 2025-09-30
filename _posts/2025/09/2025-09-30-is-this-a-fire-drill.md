@@ -23,4 +23,6 @@ That's why you'll see struggling teams trying to pump up the crowd with every po
 
 Teams like this play better away because there is a negative atmosphere at home. They are the underdogs when they play away from home. It’s easier to perform in front of a full crowd of people who don’t support you and are rooting for you to lose than it is to play in front of a crowd that supports you but knows you will lose.
 
+This is a dynamic you can feel even if you're a winning team. Think of the "meaningless" games where the team have qualified for the playoff, won the league, or any situation where the game is made to feel like a friendly. No one wants to feel like they're wasting their time being there.
+
 It's one thing to be losing, but it's another thing to turn up and know that the crowd is going to leave. You don't have what it takes to keep them in their seats. That feeling is something you can anticipate, but it's worse when you know it can't be avoided.
