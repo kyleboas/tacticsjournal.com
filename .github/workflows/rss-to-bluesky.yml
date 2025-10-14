@@ -15,75 +15,124 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Initial two-minute delay
       - name: Initial Delay
         run: |
           echo "Waiting for 1 minute before starting..."
           sleep 60
 
-      # Install required tools
-      - name: Install xmllint and dateutils
+      - name: Install required tools
         run: |
-          sudo apt-get update && sudo apt-get install -y libxml2-utils dateutils
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils
 
-      # Fetch the latest blog post from RSS feed
       - name: Fetch Latest Blog Post
         id: fetch_post
+        shell: bash
         run: |
-          RSS_FEED_URL="https://tacticsjournal.com/feed"
-          
-          # Fetch RSS feed
-          response=$(curl -s "$RSS_FEED_URL")
+          set -euo pipefail
 
-          # Parse the first <item> (Debugging)
-          first_item=$(echo "$response" | xmllint --xpath "//item[1]" - 2>/dev/null || echo "PARSE_ERROR")
-          echo "First Item: $first_item"
+          FEED_URL="https://tacticsjournal.com/feed"
+          response="$(curl -sfL "$FEED_URL")"
 
-          # Parse specific fields from the first <item>
-          description=$(echo "$response" | xmllint --xpath "string(//item[1]/description)" - 2>/dev/null || echo "PARSE_ERROR")
-          url=$(echo "$response" | xmllint --xpath "string(//item[1]/link)" - 2>/dev/null || echo "PARSE_ERROR")
-          pub_date=$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" - 2>/dev/null || echo "PARSE_ERROR")
+          # Parse title/link/pubDate of the latest item
+          title="$(echo "$response" | xmllint --xpath "string(//item[1]/title)" -  | tr -d '\r' | xargs)"
+          url_raw="$(echo "$response" | xmllint --xpath "string(//item[1]/link)" -   | tr -d '\r' | xargs)"
+          pub_raw="$(echo "$response" | xmllint --xpath "string(//item[1]/pubDate)" - | xargs)"
 
-          # Log parsed data
-          echo "Parsed Data - Description: $description, URL: $url, PubDate: $pub_date"
-
-          # Handle parsing errors
-          if [[ "$description" == "PARSE_ERROR" || "$url" == "PARSE_ERROR" || "$pub_date" == "PARSE_ERROR" ]]; then
-            echo "Error: Failed to parse one or more required fields from the RSS feed. Exiting."
-            exit 1
-          fi
-
-          # Extract and compare dates
-          today=$(date -R)
-          pub_date_only=$(echo "$pub_date" | awk '{print $1", "$2" "$3" "$4}')
-          today_only=$(echo "$today" | awk '{print $1", "$2" "$3" "$4}')
-          
-          echo "Today's Date: $today_only"
-          echo "Publication Date: $pub_date_only"
-
-          if [[ "$pub_date_only" != "$today_only" ]]; then
-            echo "The blog post is not from today ($pub_date_only). Exiting."
+          # Ensure we only post if it's today's item (YYYY-MM-DD)
+          pub_ymd="$(date -d "$pub_raw" +%Y-%m-%d || true)"
+          today_ymd="$(date +%Y-%m-%d)"
+          if [[ -z "$pub_ymd" || "$pub_ymd" != "$today_ymd" ]]; then
+            echo "should_post=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
-          # Format and export environment variables
-          description=$(echo "$description" | xargs)
-          preview="$description $url"
+          # Normalize/clean the URL:
+          # 1) encode spaces
+          # 2) enforce https
+          # 3) follow redirects to final canonical URL
+          url_clean="${url_raw// /%20}"
+          url_clean="${url_clean//$'\n'/}"
+          url_clean="${url_clean//$'\r'/}"
+          url_clean="${url_clean//$'\t'/}"
+          url_clean="$(echo -n "$url_clean" | xargs)"  # trim outer whitespace
 
-          echo "preview=$preview" >> $GITHUB_ENV
-          echo "rss_url=$url" >> $GITHUB_ENV
+          # Force https (if feed gave http)
+          url_clean="${url_clean/http:\/\//https://}"
 
-      # Post to Bluesky
-      - name: Post to Bluesky
+          # Resolve final URL after redirects
+          final_url="$(curl -sIL -o /dev/null -w "%{url_effective}" "$url_clean" || true)"
+          if [[ -z "$final_url" ]]; then
+            final_url="$url_clean"
+          fi
+
+          # Re-validate: absolute https URL, no whitespace
+          if [[ ! "$final_url" =~ ^https://[^[:space:]]+$ ]]; then
+            echo "Resolved URL is not a strict absolute https URI: '$final_url'"
+            echo "should_post=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Reachability check (2xx/3xx ok)
+          http_code="$(curl -sIL -o /dev/null -w "%{http_code}" "$final_url" || true)"
+          if [[ ! "$http_code" =~ ^2|3 ]]; then
+            echo "Final URL not reachable (code $http_code): $final_url"
+            echo "should_post=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Compose text: "Title url" and keep under ~300 chars
+          max_len=300
+          reserve=$(( ${#final_url} + 1 ))  # 1 space
+          max_title_len=$(( max_len - reserve ))
+          if (( max_title_len < 5 )); then
+            echo "URL too long to compose a sensible post."
+            echo "should_post=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if (( ${#title} > max_title_len )); then
+            # leave room for ellipsis
+            ell="…"
+            cut=$(( max_title_len - ${#ell} ))
+            if (( cut < 1 )); then cut=1; fi
+            title="${title:0:cut}${ell}"
+          fi
+
+          text="$title $final_url"
+
+          {
+            echo "should_post=true"
+            echo "text<<EOF"
+            echo "$text"
+            echo "EOF"
+            echo "rss_url=$final_url"
+          } >> "$GITHUB_OUTPUT"
+
+      # Try posting WITH preview card (external embed)
+      - name: Post to Bluesky (with link preview)
+        id: post_with_embed
+        if: steps.fetch_post.outputs.should_post == 'true'
+        continue-on-error: true
         uses: myConsciousness/bluesky-post@v5
         with:
-          text: "${{ env.preview }}"
-          link-preview-url: "${{ env.rss_url }}"
+          text: ${{ steps.fetch_post.outputs.text }}
+          link-preview-url: ${{ steps.fetch_post.outputs.rss_url }}
           identifier: tacticsjournal.com
           password: ${{ secrets.BSS }}
+          retry-count: 3
 
-      # Debug step: Print environment variables (optional, remove after debugging)
-      - name: Debug Environment Variables
+      # Fallback: text-only if the embed failed for any reason (e.g., Bluesky 400)
+      - name: Post to Bluesky (text only fallback)
+        if: steps.fetch_post.outputs.should_post == 'true' && steps.post_with_embed.outcome == 'failure'
+        uses: myConsciousness/bluesky-post@v5
+        with:
+          text: ${{ steps.fetch_post.outputs.text }}
+          identifier: tacticsjournal.com
+          password: ${{ secrets.BSS }}
+          retry-count: 3
+
+      # Optional debugging
+      - name: Debug Outputs
         run: |
-          echo "Preview Text: ${{ env.preview }}"
-          echo "RSS URL: ${{ env.rss_url }}"
+          echo "Post text: ${{ steps.fetch_post.outputs.text }}"
+          echo "Final URL: ${{ steps.fetch_post.outputs.rss_url }}"
