@@ -9,7 +9,7 @@ We put too much emphasis on the manager's role in the game. Sometimes the player
 
 <!---more--->
 
-When Wayne Rooney made a goal happen, no one credited Sir Alex Ferguson as the reason for why the goal happened, it was Wayne Rooney's goal.
+When Wayne Rooney made a goal happen from nothing, no one credited Sir Alex Ferguson as the reason for why the goal happened, it was Wayne Rooney's goal.
 
 When Sergio Ramos ran back and made a game-deciding tackle, no one credited Jose Mourinho for the tackle, that was Sergio Ramos's tackle.
 
