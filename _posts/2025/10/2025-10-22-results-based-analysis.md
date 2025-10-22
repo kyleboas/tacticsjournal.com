@@ -7,7 +7,7 @@ categories:
 tags:
 - "Liverpool"
 - "Manchester United"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/21/Image-21Oct2025_13:10:56.png"
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/21/Image-21Oct2025_20:08:52.png"
 ---
 
 If Cody Gakpo scores either of the two shots that hit the post, or the unmarked header inside the six-yard box, Liverpool win, Ruben Amorim is struggling and sacked, and Arne Slot is challenging for a back-to-back title. But he doesn't score.
