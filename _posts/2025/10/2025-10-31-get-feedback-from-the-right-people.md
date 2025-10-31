@@ -13,6 +13,8 @@ You should not want the opinion of myself; you should want the opinion of someon
 
 I have never asked someone to follow me. I have never asked for a like. I have never asked someone to read or share something I wrote. I'm not going to share it again later. If they aren't looking for it, if they haven't found it, it is not good enough, it is not for them, or they haven't seen it yet.
 
+This is an internal battle I have. Is my work good enough? What can I improve? What are the next steps to get to where I want? For a long time my work went unnoticed. This is part of the process.
+
 I don't have analytics turned on for this blog. I don't know how many people click on each post. I used to have them turned on, but the real indicator for me was seeing who interacts with what I write.
 
 This is not to shame those who ask. You're doing something positive. I understand the urge to want feedback or recognition from someone you respect. Everyone wants that. I have many people who I look up to. I want them to view my work, but I want everything to be organic.
