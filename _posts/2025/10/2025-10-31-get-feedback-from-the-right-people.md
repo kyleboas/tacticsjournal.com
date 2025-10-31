@@ -27,7 +27,7 @@ If I ask you for a response before you find my work, I will never know if you or
 
 If I'm following you, I want to read, listen, or watch what you make. I want to know when you post something. I'm going to find it eventually. If it's remarkable, I'll share it. If I think it's remarkable, chances are the person I shared it with will also think it's remarkable, and they'll share it with someone else. Then that process repeats, and that is how your ideas spread.
 
-["Unleashing the Ideavirus"](https://www.amazon.com/Unleashing-Ideavirus-Marketing-Epidemics-Customers-ebook/dp/B0042XA3A8) and ["Permission Marketing"](https://www.amazon.com/Permission-Marketing-Turning-Strangers-Customers/dp/0684856360) by Seth Godin are two books that have shaped this thinking. They are proven methods of spreading ideas organically.
+["Unleashing the Ideavirus"](https://www.amazon.com/Unleashing-Ideavirus-Marketing-Epidemics-Customers-ebook/dp/B0042XA3A8) and ["Permission Marketing"](https://www.amazon.com/Permission-Marketing-Turning-Strangers-Customers/dp/0684856360) by Seth Godin are two books that have shaped this thinking. I have watched this TEDTalk from Seth Godin, ["How to get your ideas to spread"](https://youtu.be/xBIVlM435Zg?si=ZC3AnuyO4Vc7KjkE), every year, twice a year, for the past eighteen years. I pick up something new every time I watch. These are proven methods of spreading ideas organically.
 
 You gain permission to ask once they interact because you know they are invested. That is the type of person you should want feedback from. The feedback you will get from someone who was already interested will be more useful.
 
