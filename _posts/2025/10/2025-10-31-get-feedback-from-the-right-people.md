@@ -21,7 +21,7 @@ It is much easier to spread something organically, and when it is organically fo
 
 You should use interaction as a guide. If the thing you produce is not gaining traction, it is because it is not inciting an emotion or response from the person receiving it. It's not good enough for the audience you want to reach. Everything you make doesn't have to be good, but if you want something to spread, it has to be. And it spreading doesn't mean it is good; it means it reached the right people.
 
-If I ask you for a response before you find my work, I will never know if you organically sought out my work. If I have to ask you to share something, chances are you were never going to share it yourself. Who wants to come off as rude? You will feel obligated to read it and like it. 
+If I ask you for a response before you find my work, I will never know if you organically sought out my work. If I have to ask you to share something, chances are you were never going to share it yourself. Who wants to come off as rude? You will feel obligated to read it and like it. You're missing the opportunity to know that your work is remarkable by asking.
 
 If I'm following you, I want to read, listen, or watch what you make. I want to know when you post something. I'm going to find it eventually. If it's remarkable, I'll share it. If I think it's remarkable, chances are the person I shared it with will also think it's remarkable, and they'll share it with someone else. Then that process repeats, and that is how your ideas spread.
 
