@@ -11,7 +11,7 @@ Since I started the Tactics Journal, I have received several dozen messages from
 
 You should not want the opinion of myself; you should want the opinion of someone who has already interacted with that work. They leave a comment or a like; if you want feedback, you ask that person.
 
-I have never asked someone to follow me. I have never asked for a like. I have never asked someone to read or share something I wrote. I'm not going to share it again later. If they aren't looking for it, if they haven't found it, it is not good enough, or it is not for them.
+I have never asked someone to follow me. I have never asked for a like. I have never asked someone to read or share something I wrote. I'm not going to share it again later. If they aren't looking for it, if they haven't found it, it is not good enough, it is not for them, or they haven't seen it yet.
 
 I don't have analytics turned on for this blog. I don't know how many people click on each post. I used to have them turned on, but the real indicator for me was seeing who interacts with what I write.
 
@@ -23,7 +23,7 @@ You should use interaction as a guide. If the thing you produce is not gaining t
 
 If I ask you for a response before you find my work, I will never know if you organically sought out my work. If I have to ask you to share something, chances are you were never going to share it yourself. Who wants to come off as rude? You will feel obligated to read it and like it. 
 
-If I'm following you, I want to read, listen, or watch what you make. I want to know when you post something. I'm going to find it, and if it's remarkable, I'll share it. If I think it's remarkable, chances are the person I shared it with will also think it's remarkable, and they'll share it with someone else. Then that process repeats, and that is how your ideas spread.
+If I'm following you, I want to read, listen, or watch what you make. I want to know when you post something. I'm going to find it eventually. If it's remarkable, I'll share it. If I think it's remarkable, chances are the person I shared it with will also think it's remarkable, and they'll share it with someone else. Then that process repeats, and that is how your ideas spread.
 
 ["Unleashing the Ideavirus"](https://www.amazon.com/Unleashing-Ideavirus-Marketing-Epidemics-Customers-ebook/dp/B0042XA3A8) and ["Permission Marketing"](https://www.amazon.com/Permission-Marketing-Turning-Strangers-Customers/dp/0684856360) by Seth Godin are two books that have shaped this thinking. They are proven methods of spreading ideas organically.
 
