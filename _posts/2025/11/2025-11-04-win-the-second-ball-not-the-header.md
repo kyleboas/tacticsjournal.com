@@ -45,7 +45,7 @@ That is 6 ft 5 in Virgil van Dijk and Alexis Mac Allister up against 5 ft 7 in B
 
 Manchester United aren't intending to 'win that header'—all they want is the second ball. Virgil van Dijk could head it down to Gravenberch and count it as a header won, but Bruno will be there to win the duel, winning the ball. Who won the header then in the end? Well, Manchester United have the ball.
 
-Bruno Fernandes comes swooping in to create an overload in the zone of mutual understanding. Their full focus is long ball, second ball, then close combinations, and then transitions into space.
+Bruno Fernandes comes swooping in to create an overload in the zone of mutual support. Their full focus is long ball, second ball, then close combinations, and then transitions into space.
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/03/Image-03Nov2025_13:48:19.png">
