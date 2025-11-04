@@ -28,7 +28,7 @@ They can organize while the defending team reacts. The defender reacts by attemp
 
 The defender’s task is to clear the ball beyond those orbiting nearby, but the attacker can use their body to restrict the defender’s ability to get full power on the clearance. The defender can't afford to let the attacking team take advantage of their overload.
 
-Because the attacking team just needs to limit the effectiveness of the defender's ability to head the ball away from the other attacking players that surround the ball, you don't need to have a tall, physically imposing forward heading the ball. It helps, but it's not a requirement.
+Because the attacking team just needs to limit the effectiveness of the defender's ability to head the ball away from the other attacking players that surround the ball, you don't need to have a tall, physically imposing forward heading the ball. It helps, but it's not a requirement. You just need someone who can put off the defender enough to redirect it into the path of the overload your other attackers create.
 
 You will see this at many teams across the sport of football, but two Premier League teams that lack physical strength in the midfield or forward lines but excel at overloading the zone of mutual support during aerial duels are Manchester United and Manchester City.
 
