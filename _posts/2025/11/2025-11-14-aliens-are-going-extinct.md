@@ -9,7 +9,7 @@ Footballers like Pirlo, Nedved, or Zico don't exist in our mind today because we
 
 <!---more--->
 
-A live match was an event you could not miss. An exclusive experience to watch living legends.
+A live match was an event you could not miss. A scarce exclusive experience to watch living legends.
 
 There were fewer channels. You couldn't watch every match; you had to watch *the match*. The match everyone else was watching. You could only watch it now.
 
