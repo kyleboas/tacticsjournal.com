@@ -9,6 +9,8 @@ Any other accounts not listed are not run by me and are not being truthful. If y
 
 BlueSky: [@tacticsjournal.com](https://bsky.app/profile/tacticsjournal.com)
 
+Twitter: [@tacticsjournal](https://x.com/tacticsjournal)
+
 Threads: [@tacticsjournal](https://www.threads.net/@tacticsjournal)
 
 Facebook: [https://facebook.com/TacticsJournal](https://www.facebook.com/TacticsJournal) 
