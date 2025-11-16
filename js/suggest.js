@@ -58,6 +58,18 @@ resultBox.addEventListener("click", function(e) {
   }
 });
 
+// HTML escape function to prevent XSS attacks
+function escapeHtml(text) {
+  var map = {
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    '"': '&quot;',
+    "'": '&#039;'
+  };
+  return text.replace(/[&<>"']/g, function(m) { return map[m]; });
+}
+
 // Event listener for input event on the input field
 input.addEventListener("input", (e) => {
   let userData = e.target.value.trim(); // User entered data with leading/trailing whitespace removed
@@ -69,7 +81,7 @@ input.addEventListener("input", (e) => {
 
     if (emptyArray.length > 0) {
       searchInput.classList.add("active");
-      let listData = emptyArray.map((data) => "<li class='suggestion-item'>" + data + "</li>").join("");
+      let listData = emptyArray.map((data) => "<li class='suggestion-item'>" + escapeHtml(data) + "</li>").join("");
       resultBox.innerHTML = listData;
     } else {
       searchInput.classList.remove("active");
