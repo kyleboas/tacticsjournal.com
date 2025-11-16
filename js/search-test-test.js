@@ -93,9 +93,26 @@
     return results;
   }
 
+  // HTML escape function to prevent XSS attacks
+  function escapeHtml(text) {
+    var map = {
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#039;'
+    };
+    return text.replace(/[&<>"']/g, function(m) { return map[m]; });
+  }
+
   function highlightMatch(text, queries) {
+    // First escape HTML to prevent XSS
+    text = escapeHtml(text);
+
     queries.forEach(function(query) {
-      var regex = new RegExp(query, 'gi');
+      // Escape special regex characters to prevent regex injection
+      var regexSafeQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      var regex = new RegExp(regexSafeQuery, 'gi');
       text = text.replace(regex, function (match) {
         return '<span class="highlight">' + match + '</span>';
       });
