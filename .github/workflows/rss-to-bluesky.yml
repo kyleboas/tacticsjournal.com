@@ -74,8 +74,9 @@ jobs:
           echo "rss_url=$url" >> $GITHUB_ENV
 
       # Post to Bluesky
+      # TODO: Pin to specific commit SHA - visit https://github.com/myConsciousness/bluesky-post/releases
       - name: Post to Bluesky
-        uses: myConsciousness/bluesky-post@v5
+        uses: myConsciousness/bluesky-post@v5  # SECURITY: Should be pinned to commit SHA
         with:
           text: "${{ env.preview }}"
           link-preview-url: "${{ env.rss_url }}"

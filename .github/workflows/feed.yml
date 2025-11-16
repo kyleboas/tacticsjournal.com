@@ -6,8 +6,10 @@ jobs:
   Feed2SocialMedia:
     runs-on: ubuntu-latest
     steps:
+      # NOTE: This action is deprecated/unmaintained as of Oct 2024. Consider finding alternative.
+      # TODO: Pin to specific commit SHA - visit https://github.com/lwojcik/github-action-feed-to-social-media/releases
       - name: Feed to social media
-        uses: lwojcik/github-action-feed-to-social-media@v2
+        uses: lwojcik/github-action-feed-to-social-media@v2  # SECURITY: Should be pinned to commit SHA
         with:
           feedUrl: 'https://tacticsjournal.com/feed'
           newestItemStrategy: 'latestDate'
