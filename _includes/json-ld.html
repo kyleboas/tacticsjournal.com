@@ -1,0 +1,99 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.url }}/#website",
+      "url": "{{ site.url }}",
+      "name": "{{ site.name }}",
+      "description": "{{ site.description }}",
+      "publisher": {
+        "@id": "{{ site.url }}/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "{{ site.url }}/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "{{ site.url }}/#organization",
+      "name": "{{ site.name }}",
+      "url": "{{ site.url }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.avatar }}",
+        "width": 512,
+        "height": 512
+      },
+      "sameAs": [
+        "https://twitter.com/TacticsJournal"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ site.url }}/#author",
+      "name": "Kyle Boas",
+      "url": "{{ site.url }}/about",
+      "sameAs": [
+        "https://twitter.com/TacticsJournal"
+      ]
+    }{% if page.layout == 'post' %},
+    {
+      "@type": "BlogPosting",
+      "@id": "{{ page.url | absolute_url }}#article",
+      "headline": "{{ page.title | escape }}",
+      "url": "{{ page.url | absolute_url }}",
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
+      "author": {
+        "@id": "{{ site.url }}/#author"
+      },
+      "publisher": {
+        "@id": "{{ site.url }}/#organization"
+      },
+      "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | escape }}{% else %}{{ site.description }}{% endif %}",
+      {% if page.image %}
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ page.image }}",
+        "width": 1200,
+        "height": 630
+      },
+      {% else %}
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ site.default_image }}",
+        "width": 1200,
+        "height": 630
+      },
+      {% endif %}
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      },
+      "articleSection": "{% if page.categories %}{{ page.categories | first }}{% endif %}",
+      "keywords": [{% if page.tags %}{% for tag in page.tags %}"{{ tag }}"{% unless forloop.last %},{% endunless %}{% endfor %}{% endif %}],
+      "inLanguage": "en-US"
+    }{% endif %}{% if page.layout == 'page' %},
+    {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}#webpage",
+      "url": "{{ page.url | absolute_url }}",
+      "name": "{{ page.title | escape }}",
+      "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | escape }}{% else %}{{ site.description }}{% endif %}",
+      "isPartOf": {
+        "@id": "{{ site.url }}/#website"
+      },
+      "inLanguage": "en-US",
+      "datePublished": "{% if page.date %}{{ page.date | date_to_xmlschema }}{% endif %}",
+      "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% elsif page.date %}{{ page.date | date_to_xmlschema }}{% endif %}"
+    }{% endif %}
+  ]
+}
+</script>
