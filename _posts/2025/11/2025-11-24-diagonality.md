@@ -59,7 +59,7 @@ This is [the law of contraction and expansion](https://tacticsjournal.com/Liverp
 
 When you don't prioritize organizing on the diagonal, the opposition defense can use cover shadows to block passing lanes into the center of the pitch. That forces you to pass around the back, back and forth, around the horseshoe of the defense.
 
-Working and organizing from the diagonal and creating overloads are great tools if you know how to use them. If the players are too static or they are not looking to play off of each other, if they are not looking to play those one-twos, it simply becomes a structure without a purpose.
+Working and organizing from the diagonal and creating overloads are great tools if you know how to use them. If the players are too static or they are not looking to play off of each other, if they are not looking to play those one-twos, it simply becomes a structure without a purpose. The attack lacks conviction.
 
 In these examples, Team A is Germany, and Team B is Liverpool, but this could apply to any team. I spent Saturday watching each match, as I normally do, and focused my efforts on looking at the game from the diagonal—Who utilizes it. The teams that organized on the diagonal had an easier time passing through the opposition on the ground. You can see it in the goal highlights, but it's more evident in open play before the highlight begins because they sometimes don't show the build-up to the goal.
 
