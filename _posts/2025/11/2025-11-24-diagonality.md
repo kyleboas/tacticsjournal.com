@@ -50,7 +50,7 @@ If you can't dribble past the press, you need to use your teammates to pass thro
 
 The free man on the opposite wing is always there as the safe outlet out of pressure.
 
-This is the law of contraction and expansion. Allow the defense to contract on the ball on the wing, disrupt their shape by passing through them, and then play out with a switch to the free man on the opposite wing to force the opposition defense to expand. When they expand, then you attack their weak points with the ball side players joining the right-winger in attack.
+This is [the law of contraction and expansion](https://tacticsjournal.com/Liverpool-narrow-442-the-space-it-creates-with-expansion-and-contraction/). Allow the defense to contract on the ball on the wing, disrupt their shape by passing through them, and then play out with a switch to the free man on the opposite wing to force the opposition defense to expand. When they expand, then you attack their weak points with the ball side players joining the right-winger in attack.
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/23/Image-23Nov2025_09:47:45.png">
@@ -58,6 +58,8 @@ This is the law of contraction and expansion. Allow the defense to contract on t
 </figure>
 
 When you don't prioritize organizing on the diagonal, the opposition defense can use cover shadows to block passing lanes into the center of the pitch. That forces you to pass around the back, back and forth, around the horseshoe of the defense.
+
+Working and organizing from the diagonal and creating overloads are great tools if you know how to use them. If the players are too static or they are not looking to play off of each other, if they are not looking to play those one-twos, it simply becomes a structure without a purpose.
 
 In these examples, Team A is Germany, and Team B is Liverpool, but this could apply to any team. I spent Saturday watching each match, as I normally do, and focused my efforts on looking at the game from the diagonal—Who utilizes it. The teams that organized on the diagonal had an easier time passing through the opposition on the ground. You can see it in the goal highlights, but it's more evident in open play before the highlight begins because they sometimes don't show the build-up to the goal.
 
