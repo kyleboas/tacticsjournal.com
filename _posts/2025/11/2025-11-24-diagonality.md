@@ -24,6 +24,8 @@ Team A are setup on the diagonal. When the left-back receives the ball, and that
 
 Team B are setup to play around the outside. Every pass inside is blocked. They will need to dribble past defenders and use more pace, be more athletic to penetrate the opposition's defense—something that is harder to maintain over a full match, especially if you don't have players who can dribble past players or who are not athletic.
 
+Not using the diagonal is like cutting a steak with the grain: you’re following the meat’s fibers, so it stays chewy and tough. Cut against the grain on an angle and it falls apart—just like organizing on the diagonal cuts across a compact defense and makes progression quicker and easier.
+
 Most teams don't show you to the inside. They force the pass wide to the outside, where they can trap, smother you, and block passing lanes into the center of the pitch. In most cases, the ball is passed to the left-back or left-winger.
 
 If that man receiving the ball on the wing can consistently dribble past several defenders, congratulations; that is rare—you have a unicorn. Capture the unicorn and never let them go. But even if you have that one unicorn on the wing, or the more rare unicorn in the half-space, [the midfielders will still need help](https://tacticsjournal.com/2025/11/07/midfielders-need-help/).
