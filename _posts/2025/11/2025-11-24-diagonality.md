@@ -44,11 +44,11 @@ When you setup to help the man receiving the ball on the diagonal, players ahead
     <figcaption>Figure 3.1 - A corridor opens ahead of the ball for players to pass-and-move through, with the switch open to the right-winger.</figcaption>
 </figure>
 
-The second tool is the pass-and-move. Because players are in close proximity to each other, they can utilize quick flicks and dummies accompanied by movement to combine and move around the press. Receive, pass, and then immediately move. 
+The second tool is the pass-and-move. Because players are in close proximity to each other, they can utilize quick flicks and dummies accompanied by movement to combine and move around the press. The staircase. Receive, pass, and then immediately move. 
 
-If you can't dribble past the press, you need to use your teammates to pass through the press and progress by moving forward once you play the next pass.
+If you can't dribble past the press, you need to use your teammates to pass through the press and progress by moving forward once you play the next pass. You need players in close proximity who are aware of where their teammates are and ready to offer that wall pass to work past a compact defense.
 
-The free man on the opposite wing is always there as the safe outlet out of pressure.
+The free man on the opposite wing is always there as the safe positive outlet out of pressure. The pass back or sideways is the negative outlet. You want to progress forward.
 
 This is [the law of contraction and expansion](https://tacticsjournal.com/Liverpool-narrow-442-the-space-it-creates-with-expansion-and-contraction/). Allow the defense to contract on the ball on the wing, disrupt their shape by passing through them, and then play out with a switch to the free man on the opposite wing to force the opposition defense to expand. When they expand, then you attack their weak points with the ball side players joining the right-winger in attack.
 
