@@ -22,9 +22,9 @@ I'm going to show you two different ways a team could setup on the diagonal. You
 
 Team A are setup on the diagonal. When the left-back receives the ball, and that player looks up, there's three to four risky passing options, one safe backwards, and an open switch to the right-winger. Those risky passing options have other risky passing options in close proximity with open passing lanes into feet. They have created a web of passing lanes—not blocked off by the opposition because they are interconnected—that they can use to pass through the defense on the ground or with small flicks over defenders in the air.
 
-Team B are setup to play around the outside. Every pass inside is blocked. They will need to dribble past defenders and use more pace, be more athletic to penetrate the opposition's defense—something that is harder to maintain over a full match, especially if you don't have players who can dribble past players or who are not athletic.
-
 Not using the diagonal is like cutting a steak with the grain: you’re following the meat’s fibers, so it stays chewy and tough. Cut against the grain on an angle and it falls apart—just like organizing on the diagonal cuts across a compact defense and makes progression quicker and easier.
+
+Team B are setup to play around the outside. Every pass inside is blocked. They will need to dribble past defenders and use more pace, be more athletic to penetrate the opposition's defense—something that is harder to maintain over a full match, especially if you don't have players who can dribble past players or who are not athletic.
 
 Most teams don't show you to the inside. They force the pass wide to the outside, where they can trap, smother you, and block passing lanes into the center of the pitch. In most cases, the ball is passed to the left-back or left-winger.
 
