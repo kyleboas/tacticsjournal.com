@@ -26,7 +26,7 @@ Team B are setup to play around the outside. Every pass inside is blocked. They 
 
 Most teams don't show you to the inside. They force the pass wide to the outside, where they can trap, smother you, and block passing lanes into the center of the pitch. In most cases, the ball is passed to the left-back or left-winger.
 
-If that man receiving the ball on the wing can consistently dribble past several defenders, congratulations; that is rare—you have a unicorn. Capture the unicorn and never let them go. But even if you have that one unicorn on the wing, or the more rare unicorn in the half-space, the midfielders will still need help.
+If that man receiving the ball on the wing can consistently dribble past several defenders, congratulations; that is rare—you have a unicorn. Capture the unicorn and never let them go. But even if you have that one unicorn on the wing, or the more rare unicorn in the half-space, [the midfielders will still need help](https://tacticsjournal.com/2025/11/07/midfielders-need-help/).
 
 If the man receiving the ball cannot dribble past several defenders, they'll need players to bounce off of. Even the unicorns will benefit from that help. The goal, then, should be to have several players form ahead of that player receiving the ball to act as a wall to pass off of. A wall pass.
 
