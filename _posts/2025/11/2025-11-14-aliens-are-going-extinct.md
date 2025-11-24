@@ -33,6 +33,8 @@ There was a larger distance between them and us. They had otherworldly powers we
 
 If the aliens invade, they'll become less magical when you get to know them, when you can relate to them.
 
+The Royal family are not allowed to cry because they are above us. They are not like us. They are otherworldly.
+
 That is why it feels less like we are watching living legends today.
 
 The spotlight has to be on someone, though. The legends today are in the dugout, the manager. They are the significant characters in this play with the least exposure. That is who you tune in to watch.
