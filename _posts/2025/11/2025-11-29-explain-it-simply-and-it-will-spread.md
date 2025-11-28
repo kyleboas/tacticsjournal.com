@@ -19,7 +19,7 @@ Two people are writing about the same subject. One person writes a book and the 
 
 Act like they have someplace to be. Simple ideas are sticky, you remember them.
 
-*You've Got Mail* is a remarkable movie because it gets to the point. In the very first scene, it cuts to Meg Ryan and Tom Hanks opening their laptop and sending AOL messages to each other. You get the premise of the story immediately. That movie spread because even as the movie progressed, everything revolved around a simple message.
+*You've Got Mail* is a remarkable movie because it gets to the point. In the very first scene, it cuts to Meg Ryan and Tom Hanks opening their laptop and sending AOL mail back and forth to each other. You get the premise of the story immediately. That movie became popular because even as the movie progressed, everything revolved around a simple message.
 
 Writing 10,000 words on a team's upcoming match is not the hill you have to climb. The hill you have to climb happens in the edit. Do you need 10,000 words? Am I adding things that aren't needed? Is the message clear if I remove this sentence? Is there enough there to be able to understand the *what*, the *why*, and the *how*?
 
