@@ -23,7 +23,7 @@ Pep continues by saying, "I like simplicity because I learned from Messi. He nev
 
 'You'll be in trouble' is a warning. It is not a warning like, "oh, in a game you'll lose possession" or "you'll look like a fool when you don't pull off that next rabona," no. It is a threat to limit your minutes if you don't take the hint to play more simply.
 
-As Kyle Walker once [said in the tunnel]￼(https://youtu.be/InzFQxka--o?si=vMy_9UHQQi4f1o-9) to another AC Milan player a full year after leaving Manchester, he said to Joao Felix, “Just pass the ball, we are not Messi. Nobody is Messi.” Play simply. Don’t make mistakes. Pass the ball. Execute. That is the message that is drilled into these players. *We* are special when we play simply.
+As Kyle Walker once [said in the tunnel](https://youtu.be/InzFQxka--o) to another AC Milan player a full year after leaving Manchester, he said to Joao Felix, “Just pass the ball, we are not Messi. Nobody is Messi.” Play simply. Don’t make mistakes. Pass the ball. Execute. That is the message that is drilled into these players. *We* are special when we play simply.
 
 When asked directly about how special Cherki's assist was, Pep defiantly said, "No, the special was Ruben [Dias' goal]. Ruben was the most important one, the first one is always the most important one - it's really, really, really good."
 
