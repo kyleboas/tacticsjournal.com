@@ -1256,9 +1256,17 @@ button#subscribeButton {
     background: rgb(238, 238, 238);
     margin-left: 20px;
 
-    @include lg {
-      width: 600px;
+    @include sm {
+      width: 580px;
       margin-left: auto;
+    }
+
+    @include lg {
+      width: 680px;
+    }
+
+    @include xl {
+      width: 780px;
     }
   }
 
