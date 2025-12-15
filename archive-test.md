@@ -45,7 +45,7 @@ layout: default
 
           <li>
             <div class="post-title-archive">
-              <a href="{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ post.url }}">{{ post.title | escape }}</a>
               <span class="dots-archive"></span>
             </div>
             <span class="post-date-archive">{{ day }}{{ suffix }}</span>
