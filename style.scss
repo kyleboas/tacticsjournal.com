@@ -510,14 +510,14 @@ cite {
 
 .post-title {
   margin-bottom: 5px;
-  font-size: 22px;
+  font-size: 18px;
 
   @include sm {
-    font-size: 26px;
+    font-size: 24px;
   }
 
   @include lg {
-    font-size: 30px;
+    font-size: 26px;
   }
 
   a {
@@ -546,11 +546,11 @@ cite {
   font-size: 14px;
 
   @include sm {
-    font-size: 15px;
+    font-size: 18px;
   }
 
   @include lg {
-    font-size: 16px;
+    font-size: 20px;
   }
 
   span {
