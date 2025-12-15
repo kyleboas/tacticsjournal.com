@@ -19,17 +19,55 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
-// Mobile breakpoints
-@mixin mobile {
-  @media screen and (max-width: 640px) {
+// =============================================================================
+// BREAKPOINTS - Mobile First Approach
+// =============================================================================
+// Base styles (no media query) = mobile (< 570px)
+// sm = 570px+ (tablets/small desktops)
+// md = 768px+ (medium screens)
+// lg = 1000px+ (large desktops)
+// xl = 1200px+ (extra large screens)
+
+$breakpoint-sm: 570px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1000px;
+$breakpoint-xl: 1200px;
+
+// Mobile-first mixins (min-width = "from this size and up")
+@mixin sm {
+  @media screen and (min-width: $breakpoint-sm) {
     @content;
   }
 }
 
-@mixin middle {
-  @media screen and (max-width: 720px) and (min-width: 641px) {
+@mixin md {
+  @media screen and (min-width: $breakpoint-md) {
     @content;
   }
 }
 
+@mixin lg {
+  @media screen and (min-width: $breakpoint-lg) {
+    @content;
+  }
+}
+
+@mixin xl {
+  @media screen and (min-width: $breakpoint-xl) {
+    @content;
+  }
+}
+
+// Utility: target only a specific range
+@mixin sm-only {
+  @media screen and (min-width: $breakpoint-sm) and (max-width: $breakpoint-md - 1px) {
+    @content;
+  }
+}
+
+@mixin md-only {
+  @media screen and (min-width: $breakpoint-md) and (max-width: $breakpoint-lg - 1px) {
+    @content;
+  }
+}
 
