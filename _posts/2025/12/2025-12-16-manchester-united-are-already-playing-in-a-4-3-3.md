@@ -19,7 +19,7 @@ When Manchester United have the ball, they are aligned on the diagonal in a 4-3-
     <figcaption>Figure 1.1 - Manchester United's shape with the ball on the diagonal.</figcaption>
 </figure>
 
-When you look at United on the diagonal, Bruno Fernandes looks more like a roaming box-to-box midfielder. Closer to a number ten than a defensive midfielder. Mason Mount joins from the left in this makeshift asymmetrical midfield three. Bruno Fernandes and Mason Mount are very offensive. Casemiro anchors the midfield. Matheus Cunha and Bryan Mbeumo, who have license to swap positions and drop back, offer a passing option to feet or will run beyond the opposition’s back-line in behind. Amad Diallo acts as the main outlet on the far side, the target for the switch of play.
+When you view United on the diagonal, Bruno Fernandes operates as a roaming box-to-box midfielder, closer to a number ten than a defensive midfielder. Mason Mount joins from the left to form a makeshift asymmetrical midfield three, with both he and Fernandes offering attacking thrust while Casemiro anchors behind them. Further forward, Matheus Cunha and Bryan Mbeumo have license to swap positions and drop deep, offering a passing option to feet or running beyond the opposition’s back line. On the far side, Amad Diallo acts as the main outlet, the target for the switch of play.
 
 This concept of short-passing combinations and runs on the diagonal is not a new tactic for Ruben Amorim. He has addressed the concept of combining on the diagonal several times in Portuguese when he managed Sporting.
 
