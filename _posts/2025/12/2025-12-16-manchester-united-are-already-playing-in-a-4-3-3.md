@@ -21,7 +21,7 @@ When Manchester United have the ball, they are aligned on the diagonal in a 4-3-
 
 When you look at United on the diagonal, Bruno Fernandes looks more like a roaming box-to-box midfielder. Closer to a number ten than a defensive midfielder. Mason Mount joins from the left in this makeshift asymmetrical midfield three. Bruno Fernandes and Mason Mount are very offensive. Casemiro anchors the midfield. Matheus Cunha and Bryan Mbeumo, who have license to swap positions and drop back, offer a passing option to feet or will run beyond the opposition’s back-line in behind. Amad Diallo acts as the main outlet on the far side, the target for the switch of play.
 
-Ruben Amorim has addressed the concept of combining on the diagonal several times in Portuguese when he managed Sporting.
+This concept of short-passing combinations and runs on the diagonal is not a new tactic for Ruben Amorim. He has addressed the concept of combining on the diagonal several times in Portuguese when he managed Sporting.
 
 Following a match against Marítimo on January 8, 2023, Amorim explained in a post‑match press conference why he substituted centre‑back Coates with Gonçalo Inácio. Without Coates acting as a makeshift striker, Sporting tried to reach goal "with many short diagonals." Amorim admitted the team’s finishing was poor: "Muitas diagonais curtas e depois aí teríamos de definir melhor, mas não era o nosso dia," roughly translates to "many short diagonal passes, and then we’d have to finish [our chances] better, but it wasn’t our day."
 
@@ -33,7 +33,11 @@ The players themselves are starring to understand what he wants. After the 4-4 d
 
 The concept of *[Diagonality](https://tacticsjournal.com/2025/11/24/diagonality/)* is a hard thing to describe. If you aren't looking for it you will miss it. It is a different way to look at a game. But when you see it you can't unsee it, and other teams have shown it is effective.
 
-How do you press a team that has their defenders on one side of the pitch and forwards on the other? It’s hard to defend passes on the ground when players are aligned on the same diagonal, letting the ball run through their legs, using deception to progress with quick flicks and one-twos. One switch of play and you are caught with your pants down, fully exposed.
+How do you press a team that has their defenders on one side of the pitch and forwards on the other? 
+
+Even Bournemouth manager Andoni Iraola, whose team is heralded as one of the best high-pressing sides in the league, acknowledged the difficulty of pressing Amorim's system: "They adapt depending on who you put to mark them. It’s a very flexible system."
+
+It’s hard to defend passes on the ground when players are aligned on the same diagonal, letting the ball run through their legs, using deception to progress with quick flicks and one-twos. One switch of play and you are caught with your pants down, fully exposed.
 
 You have to assign roles to these players instead of positions to fully appreciate what they are doing, what they are actually trying to achieve instead of what we want them to achieve when we look at rigid formations in straight lines from back to front.
 
