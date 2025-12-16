@@ -23,6 +23,8 @@ When you look at United on the diagonal, Bruno Fernandes looks more like a roami
 
 You have to assign roles to these players instead of positions to fully appreciate what they are doing, what they are actually trying to achieve instead of what we want them to achieve when we look at rigid formations in straight lines from back to front.
 
+After the Bournemouth match, Amad Diallo explained that the structure "depends on the opponent. Sometimes we play in 4-4-2, sometimes in 3-4-3, and sometimes in 4-3-3. Maybe people outside doesn't see it. We can change based on what Ruben [Amorim] asks of us. The system doesn't matter to us."
+
 As Ruben Amorim mentioned when his team was compared to Crystal Palace, a team that doesn’t organize on the diagonal, play with a back five, and use wingbacks. He said with a wry smile "We play in a different way. And you can understand that by data. But now it's hard to explain everything. But you don’t say that all 4-3-3 [teams] play in the same way, right? We play in a different moment, we defend in a different space, we try to attack in a different way."
 
 He sees United more as a team that plays in a 4-3-3. That can only be achieved if they are looking to play on the diagonal. I sympathize with him. There seems to be a language barrier when he answers questions. The concept of *[Diagonality](https://tacticsjournal.com/2025/11/24/diagonality/)* is a hard thing to describe. If you aren't looking for it you will miss it. It is a different way to look at a game. But when you see it you can't unsee it, and other teams have shown it is effective.
