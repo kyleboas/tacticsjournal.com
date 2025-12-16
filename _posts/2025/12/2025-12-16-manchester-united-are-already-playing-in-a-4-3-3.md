@@ -9,7 +9,8 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/15/Image-15Dec2025_16:38:09.png"
 ---
 
-When Manchester United have the ball, they are aligned on the diagonal in a 4-3-3. You wouldn’t call Amad Diallo a wing-back, you would say he is playing right wing. It is an attack that challenges the way we look at formations traditionally.
+
+When Manchester United have the ball, they are aligned on the diagonal in a 4-3-3. You wouldn’t call Amad Diallo a wing-back, you would say he is playing right wing. This is another team that challenges the way we traditionally look at formations.
 
 <!---more--->
 
@@ -18,17 +19,15 @@ When Manchester United have the ball, they are aligned on the diagonal in a 4-3-
     <figcaption>Figure 1.1 - Manchester United's shape with the ball on the diagonal.</figcaption>
 </figure>
 
-When you look at the team on the diagonal, Bruno Fernandes looks more like a roaming box-to-box midfielder. Closer to a number ten than a defensive midfielder. Mason Mount joins from the left in this makeshift asymmetrical midfield three. Casemiro anchors the midfield. Matheus Cunha and Bryan Mbeumo, who have license to swap positions and drop back, offer a passing option to feet or will run beyond the opposition’s back-line in behind. Amad Diallo acts as the main outlet on the far side, the target for the switch of play.
+When you look at United on the diagonal, Bruno Fernandes looks more like a roaming box-to-box midfielder. Closer to a number ten than a defensive midfielder. Mason Mount joins from the left in this makeshift asymmetrical midfield three. Bruno Fernandes and Mason Mount are very offensive. Casemiro anchors the midfield. Matheus Cunha and Bryan Mbeumo, who have license to swap positions and drop back, offer a passing option to feet or will run beyond the opposition’s back-line in behind. Amad Diallo acts as the main outlet on the far side, the target for the switch of play.
 
-You have to assign roles to these players instead of positions to fully appreciate what they are doing, what they are actually trying to achieve instead of what we want them to achieve.
+You have to assign roles to these players instead of positions to fully appreciate what they are doing, what they are actually trying to achieve instead of what we want them to achieve when we look at rigid formations in straight lines from back to front.
 
-As Ruben Amorim mentioned when his team was compared to Crystal Palace, a team that doesn’t organize on the diagonal, play with a back five, and use wingbacks:
+As Ruben Amorim mentioned when his team was compared to Crystal Palace, a team that doesn’t organize on the diagonal, play with a back five, and use wingbacks. He said with a wry smile "We play in a different way. And you can understand that by data. But now it's hard to explain everything. But you don’t say that all 4-3-3 [teams] play in the same way, right? We play in a different moment, we defend in a different space, we try to attack in a different way."
 
-> "We play in a different way. And you can understand that by data. But now it’s hard to explain everything. But you don’t say that all 4-3-3 [teams] play in the same way, right? We play in a different moment, we defend in a different space, we try to attack in a different way.” 
+He sees United more as a team that plays in a 4-3-3. I sympathize with him because the concept of *[Diagonality](https://tacticsjournal.com/2025/11/24/diagonality/)* is a hard thing to describe. If you aren't looking for it you will miss it. I don't blame you for missing it because it is a different way to look at a game. But when you see it you can't unsee it, and it is effective.
 
-He sees United more as a team that plays in a 4-3-3. I sympathize with him because *Diagonality* is a hard thing to describe. If you aren't looking for this you will miss it. I don't blame you for missing it because it is a different way to look at a game. But when you see it you can't unsee it, and it is effective.
-
-How do you press a team that has their defenders on one side of the pitch and forwards on the other? One switch of play and you are immediately caught with your pants down. You are exposed. 
+How do you press a team that has their defenders on one side of the pitch and forwards on the other? It’s hard to defend passes on the ground when players are aligned on the same diagonal, letting the ball run through their legs, using deception to progress with quick flicks and one-twos. One switch of play and you are caught with your pants down, fully exposed.
 
 <figure>
     <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/15/Image-15Dec2025_16:38:26.png">
@@ -59,6 +58,4 @@ They stopped having Mbeumo track back against Everton because of a change in per
 
 Is their execution always good? No, but they started to become more consistent attacking wise. Does their defense have enough quality? No, they don’t have enough quality in the center-back position. Are they the most entertaining attacking team in the Premier League? For me, still no question, yes.
 
-But all of this comes with a massive disclaimer. Bryan Mbeumo and Amad Diallo will be going on international duty to the African Cup of Nations (AFCON) for several weeks. A massive loss of epic proportions. I don't know how they'll play from today onwards without them. 
-
-My guess is they'll use Patrick Dorgu as the outlet but on the left, instead of Amad Diallo on the right. The issue is that they've never tried that without Bryan Mbeumo on the pitch. Maybe they'll organize on the diagonal from right to left instead to try to compensate. I'm very interested to see what they have planned and how big of a mess it will be.
+But all of this comes with a massive disclaimer. Bryan Mbeumo and Amad Diallo will be going on international duty to the African Cup of Nations (AFCON) for several weeks. My guess is they’ll use Patrick Dorgu as the outlet on the left instead of Amad Diallo on the right, organizing on the diagonal from right to left to compensate. The issue is they’ve never tried that without Bryan Mbeumo on the pitch. I’m very interested to see what they have planned and how big of a mess it will be.
