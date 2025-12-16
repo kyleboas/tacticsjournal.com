@@ -23,7 +23,7 @@ When you look at United on the diagonal, Bruno Fernandes looks more like a roami
 
 Rúben Amorim has addressed the concept of combining on the diagonal several times in Portuguese when he managed Sporting.
 
-After Vitória FC’s 0‑0 draw with Sporting on July 21, 2020, Amorim praised Tiago Tomás, highlighting the young striker’s diagonal runs. Amorim said Tiago Tomás "is a quick player and very strong on diagonal runs," adding that Tomás almost broke the deadlock early in the match. The phrase "muito forte nas diagonais" literally means "very strong on the diagonals," showing that Amorim values forwards who make diagonal movements behind defenders.
+After Vitória FC’s 0‑0 draw on July 21, 2020, Amorim praised Tiago Tomás, highlighting the young striker’s diagonal runs. Amorim said Tiago Tomás "is a quick player and very strong on diagonal runs," adding that Tomás almost broke the deadlock early in the match. The phrase "muito forte nas diagonais" literally means "very strong on the diagonals," showing that Amorim values forwards who make diagonal movements behind defenders.
 
 Following a match against Marítimo on January 8, 2023, Amorim explained in a post‑match press conference why he substituted centre‑back Coates with Gonçalo Inácio. Without Coates acting as a makeshift striker, Sporting tried to reach goal "with many short diagonals." Amorim admitted the team’s finishing was poor: "Muitas diagonais curtas e depois aí teríamos de definir melhor, mas não era o nosso dia," "many short diagonal passes and then we should have defined [the play] better, but it wasn’t our day."
 
