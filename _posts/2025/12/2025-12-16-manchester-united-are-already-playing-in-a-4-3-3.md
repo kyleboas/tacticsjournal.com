@@ -21,7 +21,7 @@ When Manchester United have the ball, they are aligned on the diagonal in a 4-3-
 
 When you look at United on the diagonal, Bruno Fernandes looks more like a roaming box-to-box midfielder. Closer to a number ten than a defensive midfielder. Mason Mount joins from the left in this makeshift asymmetrical midfield three. Bruno Fernandes and Mason Mount are very offensive. Casemiro anchors the midfield. Matheus Cunha and Bryan Mbeumo, who have license to swap positions and drop back, offer a passing option to feet or will run beyond the opposition’s back-line in behind. Amad Diallo acts as the main outlet on the far side, the target for the switch of play.
 
-Rúben Amorim has addressed the concept of combining on the diagonal several times in Portuguese when he managed Sporting.
+Ruben Amorim has addressed the concept of combining on the diagonal several times in Portuguese when he managed Sporting.
 
 Following a match against Marítimo on January 8, 2023, Amorim explained in a post‑match press conference why he substituted centre‑back Coates with Gonçalo Inácio. Without Coates acting as a makeshift striker, Sporting tried to reach goal "with many short diagonals." Amorim admitted the team’s finishing was poor: "Muitas diagonais curtas e depois aí teríamos de definir melhor, mas não era o nosso dia," roughly translates to "many short diagonal passes, and then we’d have to finish [our chances] better, but it wasn’t our day."
 
