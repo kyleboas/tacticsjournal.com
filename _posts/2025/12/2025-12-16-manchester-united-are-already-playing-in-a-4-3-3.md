@@ -35,7 +35,7 @@ The concept of *[Diagonality](https://tacticsjournal.com/2025/11/24/diagonality/
 
 How do you press a team that has their defenders on one side of the pitch and forwards on the other? 
 
-Even Bournemouth manager Andoni Iraola, whose team is heralded as one of the best high-pressing sides in the league, acknowledged the difficulty of pressing Amorim's system: "They adapt depending on who you put to mark them. It’s a very flexible system."
+Even Bournemouth manager Andoni Iraola, whose team is heralded as one of the best high-pressing sides in the league, acknowledged the difficulty of pressing Amorim's system: "I think it's the same system they always play but they adapt depending who you put to mark them. In the end it's a very flexible system depending on the outside players: if you mark them with a fullback they will go lower; if you mark them with a winger they will go higher. It's also the positions in the middle—Bruno [Fernandes], even us with Tyler [Adams]—we were changing two against two but it's not two against two; they're different. Until we matched up well we suffered in the first 15–20 minutes..."
 
 It’s hard to defend passes on the ground when players are aligned on the same diagonal, letting the ball run through their legs, using deception to progress with quick flicks and one-twos. One switch of play and you are caught with your pants down, fully exposed.
 
