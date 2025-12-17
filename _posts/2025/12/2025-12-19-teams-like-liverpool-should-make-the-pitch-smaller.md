@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-12-19 11:00 UTC
-title: "Teams like Liverpool should make the pitch smaller"
+title: "Teams like Liverpool should make the pitch smaller in possession"
 categories:
 - "Premier League"
 tags:
@@ -10,11 +10,11 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/16/Image-16Dec2025_22:58:07.png"
 ---
 
-Liverpool have struggled this season in attack and one of the main reasons is spacing—they’re too spread out. Manchester City faced the same problem and solved it.
+Liverpool have struggled this season in attack and one of the main reasons is spacing—they’re too spread out. Manchester City faced the same problem and solved it by making the pitch smaller in possession.
 
 <!---more--->
 
-City abandoned one of Pep Guardiola's core principles of play; making the pitch as big as possible in possession. This season, their wingers have license to leave the touchline and join the center of the pitch, with at times no fullback rushing to replace them. Against pressing teams like Bournemouth and Liverpool, City keep tighter distances between players. It’s working.
+City abandoned one of Pep Guardiola's core principles of play; making the pitch as big as possible in possession. This season, their wingers have license to leave the touchline and join the center of the pitch, with at times no fullback rushing to replace them. Against high pressing teams like Bournemouth and Liverpool, City keep tighter distances between players. It’s working.
 
 When you lack a speed advantage in a straight line, shorter spacing helps shift momentum. When the opposition doesn’t offer you space, you must create it. Persisting with larger distances is no longer the way to regain control.
 
