@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-12-18 11:00 UTC
+date: 2025-12-21 11:00 UTC
 title: "Teams like Liverpool should make the pitch smaller in possession"
 categories:
 - "Premier League"
