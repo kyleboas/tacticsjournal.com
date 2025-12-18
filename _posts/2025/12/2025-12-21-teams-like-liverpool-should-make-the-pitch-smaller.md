@@ -10,7 +10,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/16/Image-16Dec2025_22:58:07.png"
 ---
 
-Liverpool have struggled this season in attack and one of the main reasons is spacing. They’re too spread out. Manchester City faced the same problem and solved it by making the pitch smaller in attack. Liverpool and teams like them should do the same.
+Liverpool have struggled this season in attack and one of the main reasons is spacing. They’re too spread out. Manchester City faced the same problem and solved it by making the pitch smaller in possession. Teams like Liverpool should do the same.
 
 <!---more--->
 
