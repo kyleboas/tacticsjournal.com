@@ -10,7 +10,7 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/16/Image-16Dec2025_22:58:07.png"
 ---
 
-Liverpool have struggled this season in attack and one of the main reasons is spacing—they’re too spread out. Manchester City faced the same problem and solved it by making the pitch smaller in possession.
+Liverpool have struggled this season in attack and one of the main reasons is spacing. They’re too spread out. Manchester City faced the same problem and solved it by making the pitch smaller in attack. Liverpool and teams like them should do the same.
 
 <!---more--->
 
@@ -60,7 +60,7 @@ They repeat this until they gain control. Once they do, they spread out again, r
 
 When you have clear advantages in both speed and technique, stretching the pitch makes sense.
 
-Think of PSG with Kvaratskhelia and Vitinha, Bayern Munich with Olise and Kane, Barcelona with Yamal and Pedri. They can beat their man one-v-one in isolation.
+Think of PSG with Kvaratskhelia and Vitinha, Bayern Munich with Olise and Kane, Barcelona with Yamal and Pedri. They have more than one way to beat their man in isolation.
 
 Increase spacing, use your athleticism to force the defense to expand. Beat your man and drag defenders away from teammates. The opposition abandons their marks to cover, and suddenly they’re stuck in their own half.
 
