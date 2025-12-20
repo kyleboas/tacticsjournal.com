@@ -26,7 +26,7 @@ They step forward with every pass. They squeeze you into corners and wait for mi
 
 It becomes a game of ping pong. You clear it, reset, try to win it back. But this is what they want. They live in the mud. They enjoy chasing. They trap you in one-on-one duels that become a two- or three-on-one. Their forwards train weekly in these conditions. They have an edge when you play their game.
 
-And that long aerial pass? It gives the defense time to shift into position.
+And that long aerial pass to no one? It gives the opposing team time to shift into position.
 
 ## The Solution
 
