@@ -5,7 +5,7 @@ title: "I am making something big and I need your help"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/25/Image-25Dec2025_18:50:36.png"
 ---
 
-I built a social platform for football fans called SyncdChat. It syncs chat messages to your specific stream delay, ensuring everyone reacts to the goal together, no matter the delay. I need your help beta testing it.
+I built a social platform for football fans called SyncdChat. It syncs chat messages to your specific stream delay, ensuring everyone reacts to the goal together, no matter your delay. I need your help beta testing it.
 
 <!---more--->
 
