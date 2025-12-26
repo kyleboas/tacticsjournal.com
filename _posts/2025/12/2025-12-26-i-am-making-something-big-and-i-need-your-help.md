@@ -9,9 +9,9 @@ I built a social platform for football fans called SyncdChat. It syncs chat mess
 
 <!---more--->
 
-You know the feeling. You're watching the big game, the ball is on the wing, and suddenly—**BZZT.**
+You know the feeling. You're watching the big game, the ball is on the wing, and suddenly—BZZT.
 
-Your phone lights up. The group chat is going wild. You haven't seen the goal yet, but you know it happened. **The moment is ruined.**
+Your phone lights up. The group chat is going wild. You haven't seen the goal yet, but you know it happened. The moment is ruined.
 
 Streaming lag is the enemy of live sports. So, I decided to fix it.
 
