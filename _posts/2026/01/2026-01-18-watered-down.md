@@ -27,4 +27,4 @@ All this money spent. Most of Europe’s most talented players collected into on
 
 That’s why I don’t have as much to say lately. What is there to say? Their high line isn’t working? They should have converted more of their chances? The players look beyond exhausted.
 
-It is a watered down product.
+It is a watered down product. But thankfully, it's easy to fix. Schedule fewer games.
