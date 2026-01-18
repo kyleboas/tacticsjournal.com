@@ -25,6 +25,6 @@ When does it end?
 
 All this money spent. Most of Europe’s most talented players collected into one league, and we will never see them compete near their ceiling again.
 
-That’s why I don’t have as much to say lately. What is there to say? Their high line isn’t working? They should have converted more of their chances? The players look beyond exhausted.
+That’s why I don’t have as much to say lately. What is there to say? Their high line isn’t working? They should have converted more of their chances? One manager DOMINATED the other manager tactically? The players look beyond exhausted.
 
 It is a watered down product. But thankfully, it's easy to fix. Schedule fewer games.
