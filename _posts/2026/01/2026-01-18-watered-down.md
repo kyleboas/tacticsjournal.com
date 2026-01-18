@@ -11,7 +11,7 @@ In the Premier League this season, it feels like most players are playing at for
 
 <!---more--->
 
-When a hostage escapes, you don’t critique how he cut the zip ties. You congratulate him.
+When a hostage escapes, you don’t critique how he cut the zip ties. You congratulate him. 
 
 The tactical tinkering, the one-on-one battles, the big matches—technically still there, but hollowed out. Every big decision is forced upon the manager based on who is available. And most of those picked to play aren’t fully there physically.
 
