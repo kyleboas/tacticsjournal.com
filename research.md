@@ -8,6 +8,31 @@ layout: page
 .research-page { max-width: 100%; margin: 0; padding: 0; }
 .page > h1 { display: none; }
 
+/* Hero headings */
+.r-hero h1 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #111;
+  margin-bottom: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.r-hero h2 {
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #111;
+  margin-bottom: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+@media screen and (min-width: 570px) {
+  .r-hero h2 { font-size: 20px; }
+}
+@media screen and (min-width: 1000px) {
+  .r-hero h2 { font-size: 22px; }
+}
+
 /* Section structure: left label + right content */
 .r-section {
   display: grid;
@@ -42,20 +67,7 @@ layout: page
   border-top: none;
 }
 
-.r-hero-statement {
-  font-size: 22px;
-  line-height: 1.45;
-  font-weight: bold;
-  color: #111;
-  margin-bottom: 16px;
-}
 
-@media screen and (min-width: 570px) {
-  .r-hero-statement { font-size: 26px; line-height: 1.4; }
-}
-@media screen and (min-width: 1000px) {
-  .r-hero-statement { font-size: 30px; line-height: 1.35; }
-}
 
 .r-sub-statement {
   font-size: 15px;
@@ -335,9 +347,8 @@ layout: page
 
 <!-- HERO — full bleed, no label column -->
 <div class="r-hero">
-  <div class="r-hero-statement">
-    A tactical shift happens in Serie A. A pressing pattern emerges in the Bundesliga. A youth coach in Portugal tries something no one has named yet. You will read about it in English in three weeks. This pipeline reads about it now.
-  </div>
+  <h1>Research</h1>
+  <h2>A tactical shift happens in Serie A. A pressing pattern emerges in the Bundesliga. A youth coach in Portugal tries something no one has named yet. You will read about it in English in three weeks. This pipeline reads about it now.</h2>
   <p class="r-sub-statement">
     The Tactics Journal Research Pipeline monitors 148 football sources across eight languages, every hour. It detects emerging tactical patterns before they become popular and publishes citation-checked reports on what's actually changing in the sport.
   </p>
