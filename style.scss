@@ -35,22 +35,9 @@ body {
 
 #wrapper {
   margin: 10px auto;
-  padding: 0 24px;
   box-sizing: border-box;
   max-width: 100%;
   width: 100%;
-
-  @include sm {
-    padding: 20px 48px 0 48px;
-  }
-
-  @include lg {
-    padding: 20px 80px 0 80px;
-  }
-
-  @media (min-width: 1280px) {
-    padding: 20px 120px 0 120px;
-  }
 }
 
 // =============================================================================
@@ -263,7 +250,7 @@ h5 a {
   top: -10px;
   text-decoration: none;
   display: none;
-  padding: 10px;
+  padding: 0 24px;
 }
 
 h3:hover a,
@@ -1091,6 +1078,20 @@ button#subscribeButton {
 .front-page-content {
   margin: 10px auto;
   position: relative;
+  padding: 0 24px;
+  box-sizing: border-box;
+
+  @media (min-width: 768px) {
+    padding: 0 48px;
+  }
+
+  @media (min-width: 1024px) {
+    padding: 0 80px;
+  }
+
+  @media (min-width: 1280px) {
+    padding: 0 120px;
+  }
 }
 
 .filter {
@@ -1280,10 +1281,10 @@ button#subscribeButton {
   }
 
   .wrapper {
+    padding: 0 24px;
     width: 100%;
     margin: 0 auto;
     background: rgb(238, 238, 238);
-    padding: 0 24px;
     box-sizing: border-box;
 
     @media (min-width: 768px) {
