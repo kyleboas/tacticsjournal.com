@@ -342,7 +342,17 @@ layout: page
     The Tactics Journal Research Pipeline monitors 148 football sources across eight languages, every hour. It detects emerging tactical patterns before they become popular and publishes citation-checked reports on what's actually changing in the sport.
   </p>
   <div class="r-divider"></div>
-  <p class="r-hero-cta"><a href="#waitlist">Join the waitlist for early access →</a></p>
+  <div class="r-waitlist-form" style="margin-top: 20px;">
+    <form
+      action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
+      method="post"
+      target="_blank"
+    >
+      <input type="hidden" name="tag" value="research-waitlist" />
+      <input type="email" name="email" placeholder="Your email" required />
+      <button type="submit">Join Waitlist</button>
+    </form>
+  </div>
 </div>
 
 <!-- THE PROBLEM -->
