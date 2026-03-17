@@ -33,9 +33,9 @@
   .research-page {
     --r-bg: #0a0a0a;
     --r-text: #fafafa;
-    --r-text-secondary: #a1a1a1;
-    --r-text-muted: #737373;
-    --r-text-faint: #525252;
+    --r-text-secondary: #d4d4d4;
+    --r-text-muted: #a3a3a3;
+    --r-text-faint: #737373;
     --r-border: rgba(255,255,255,0.08);
     --r-border-hover: rgba(255,255,255,0.2);
     --r-border-input: rgba(255,255,255,0.12);
