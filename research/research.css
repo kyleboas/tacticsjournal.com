@@ -1,0 +1,59 @@
+@media (prefers-color-scheme: dark) {
+  html,
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  header {
+    border-top-color: #444;
+    border-bottom-color: #444;
+  }
+
+  .blog-title a,
+  .blog-author {
+    color: #e0e0e0;
+  }
+
+  .blog-slogan {
+    color: #aaa;
+  }
+
+  nav a {
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #7ab8cc;
+  }
+
+  hr {
+    border-color: #333;
+  }
+
+  input[type="email"] {
+    color: #e0e0e0;
+  }
+
+  button#subscribeButton {
+    color: #e0e0e0;
+  }
+
+  button#subscribeButton svg path {
+    stroke: #e0e0e0;
+  }
+
+  .footer {
+    background-color: #1a1a1a;
+  }
+
+  .footer .container,
+  .footer .wrapper {
+    background-color: #1a1a1a;
+  }
+
+  .footer-link a,
+  .footer-section-header {
+    color: #e0e0e0;
+  }
+}
