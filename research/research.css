@@ -78,7 +78,6 @@
   body:has(.research-page) .page,
   body:has(.research-page) article { background: transparent; }
   body:has(.research-page) .subscribe-section { border-color: rgba(255,255,255,0.1); }
-  body:has(.research-page) .site-avatar img { filter: invert(1); }
   body:has(.research-page) #subscribeButton svg path { stroke: #fafafa; }
   body:has(.research-page) footer {
     background: #0a0a0a;
