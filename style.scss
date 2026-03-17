@@ -35,21 +35,21 @@ body {
 
 #wrapper {
   margin: 10px auto;
-  padding: 0 15px;
+  padding: 0 24px;
   box-sizing: border-box;
   max-width: 100%;
+  width: 100%;
 
   @include sm {
-    width: 580px;
-    padding: 20px 0 0 0;
+    padding: 20px 48px 0 48px;
   }
 
   @include lg {
-    width: 680px;
+    padding: 20px 80px 0 80px;
   }
 
-  @include xl {
-    width: 780px;
+  @media (min-width: 1280px) {
+    padding: 20px 120px 0 120px;
   }
 }
 
@@ -58,13 +58,26 @@ body {
 // =============================================================================
 
 header {
-  padding: 5px 0;
+  padding: 5px 24px;
   border-top: 1px dashed #A9A9A9;
   border-bottom: 1px dashed #A9A9A9;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+
+  @media (min-width: 768px) {
+    padding: 5px 48px;
+  }
+
+  @media (min-width: 1024px) {
+    padding: 5px 80px;
+  }
+
+  @media (min-width: 1280px) {
+    padding: 5px 120px;
+  }
 }
 
 .logo {
@@ -1261,37 +1274,28 @@ button#subscribeButton {
   padding-top: 10px;
   height: 100%;
 
-  @include md {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  @include lg {
-    line-height: 40px;
-  }
-
   .container {
     background: rgb(238, 238, 238);
     padding-top: 10px;
   }
 
   .wrapper {
-    width: auto;
+    width: 100%;
     margin: 0 auto;
     background: rgb(238, 238, 238);
-    margin-left: 20px;
+    padding: 0 24px;
+    box-sizing: border-box;
 
-    @include sm {
-      width: 580px;
-      margin-left: auto;
+    @media (min-width: 768px) {
+      padding: 0 48px;
     }
 
-    @include lg {
-      width: 680px;
+    @media (min-width: 1024px) {
+      padding: 0 80px;
     }
 
-    @include xl {
-      width: 780px;
+    @media (min-width: 1280px) {
+      padding: 0 120px;
     }
   }
 
