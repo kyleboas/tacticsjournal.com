@@ -98,7 +98,39 @@
   font-family: 'Geist', sans-serif;
 }
 
-.research-page { max-width: 100%; margin: 0; padding: 0; background: var(--r-bg); }
+/* Make research page fill full width */
+body:has(.research-page) #wrapper {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.research-page {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0 24px;
+  box-sizing: border-box;
+  background: var(--r-bg);
+}
+
+@media (min-width: 768px) {
+  .research-page {
+    padding: 0 48px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .research-page {
+    padding: 0 80px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .research-page {
+    padding: 0 120px;
+  }
+}
+
 .page > h1 { display: none; }
 
 /* Fade-in animation */
