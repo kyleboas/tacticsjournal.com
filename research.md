@@ -196,26 +196,30 @@ layout: page
   font-family: Helvetica, Arial, sans-serif;
 }
 
-/* Waitlist form */
+/* Waitlist form — minimal, matches blog subscribe style */
 .r-waitlist-form {
   margin-top: 24px;
 }
 
 .r-waitlist-form form {
   display: flex;
-  align-items: stretch;
-  max-width: 420px;
+  flex-direction: row;
+  align-items: center;
+  gap: 0;
+  max-width: 400px;
+  border-bottom: 1px solid #333;
+  padding-bottom: 0;
 }
 
 .r-waitlist-form input[type="email"] {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
-  padding: 12px 16px;
-  border: 1px solid #333;
-  border-right: none;
-  background: #fff;
+  padding: 10px 0;
+  border: none;
+  background: transparent;
   color: #333;
   flex: 1;
+  outline: none;
   box-sizing: border-box;
 }
 
@@ -228,15 +232,15 @@ layout: page
   font-size: 11px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  padding: 12px 24px;
-  background: #333;
-  color: #fff;
-  border: 1px solid #333;
+  padding: 10px 0 10px 16px;
+  background: transparent;
+  color: #333;
+  border: none;
   cursor: pointer;
   flex-shrink: 0;
   white-space: nowrap;
 }
-.r-waitlist-form button:hover { background: #111; }
+.r-waitlist-form button:hover { color: #000; }
 
 /* Audience line */
 .r-audience {
@@ -322,11 +326,7 @@ layout: page
     min-width: auto;
   }
   .r-waitlist-form form {
-    flex-direction: column;
-  }
-  .r-waitlist-form input[type="email"] {
-    border-right: 1px solid #333;
-    margin-bottom: 8px;
+    max-width: 100%;
   }
 }
 </style>
