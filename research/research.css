@@ -193,7 +193,6 @@ body:has(.research-page) #wrapper {
   color: var(--r-text-secondary);
   line-height: 1.7;
   margin-bottom: 0;
-  max-width: 540px;
 }
 
 /* ---- PILL BUTTONS (phodex style) ---- */
