@@ -473,7 +473,7 @@ layout: page
       <div>
         <div class="r-step-title">Daily Trend Reports</div>
         <div class="r-step-body">
-          One full-length, citation-checked report every day on an emerging tactical pattern detected across the source network. Each report traces the signal back to its origin — which sources mentioned it first, how it spread, and why it matters. One report per week is free.
+          One full-length, citation-checked report every day on an emerging tactical pattern detected across the source network. Each report traces the signal back to its origin — which sources mentioned it first, how it spread, and why it matters. One report per week is free. Reports publish at <span style="font-family: Helvetica, Arial, sans-serif; font-size: 13px; color: #666;">/research/year/month/day/title/</span>
         </div>
       </div>
     </div>
