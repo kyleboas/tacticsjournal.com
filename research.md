@@ -348,7 +348,7 @@ layout: page
 <!-- HERO — full bleed, no label column -->
 <div class="r-hero">
   <h1>Research</h1>
-  <h2>A tactical shift happens in Serie A. A pressing pattern emerges in the Bundesliga. A youth coach in Portugal tries something no one has named yet. You will read about it in English in three weeks. This pipeline reads about it now.</h2>
+  <h2>Spot football's next tactical shift before anyone else.</h2>
   <p class="r-sub-statement">
     The Tactics Journal Research Pipeline monitors 148 football sources across eight languages, every hour. It detects emerging tactical patterns before they become popular and publishes citation-checked reports on what's actually changing in the sport.
   </p>
