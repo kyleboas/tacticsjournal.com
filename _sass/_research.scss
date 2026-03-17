@@ -1,0 +1,107 @@
+// =============================================================================
+// RESEARCH PAGE - DARK MODE
+// =============================================================================
+
+@media (prefers-color-scheme: dark) {
+  html,
+  body {
+    background: #121212;
+    color: #e0e0e0;
+  }
+
+  #outer-wrapper,
+  #wrapper {
+    background: #121212;
+  }
+
+  header {
+    border-top-color: #444;
+    border-bottom-color: #444;
+  }
+
+  .blog-title a {
+    color: #e0e0e0;
+  }
+
+  .blog-author {
+    color: #e0e0e0;
+  }
+
+  .blog-slogan {
+    color: #aaa;
+  }
+
+  nav a {
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #7ec8e3;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    color: #e0e0e0;
+  }
+
+  hr {
+    border-color: #444;
+  }
+
+  .front-page-content {
+    color: #e0e0e0;
+  }
+
+  .subscribe-section {
+    background: #121212;
+  }
+
+  input[type="email"] {
+    color: #e0e0e0;
+
+    &::placeholder {
+      color: #777;
+    }
+  }
+
+  button#subscribeButton {
+    color: #e0e0e0;
+
+    svg path {
+      stroke: #e0e0e0;
+    }
+  }
+
+  .footer {
+    background: #1a1a1a;
+
+    .container {
+      background: #1a1a1a;
+    }
+
+    .wrapper {
+      background: #1a1a1a;
+    }
+  }
+
+  .footer-section-header {
+    color: #e0e0e0;
+  }
+
+  .footer-link a {
+    color: #aaa;
+  }
+
+  .copyright {
+    color: #888;
+
+    p {
+      color: #888;
+    }
+  }
+}

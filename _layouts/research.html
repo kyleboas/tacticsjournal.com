@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} - Tactics Journal{% else %}Tactics Journal{% endif %}</title>
+
+    {% include favicon.html %}
+
+    {% if site.tags != "" %}
+    {% include collecttags.html %}
+    {% endif %}
+
+    {% include meta.html %}
+    {% include json-ld.html %}
+
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/research-styles.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  </head>
+
+  <body>
+    <a id="top"></a>
+    <div id="outer-wrapper">
+
+      <div id="wrapper">
+
+        <div class="subscribe-section">
+          <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
+                method="post"
+                target="_blank"
+                id="subscribeForm">
+            <div class="form-container">
+              <input type="email" name="email" id="email" placeholder="Enter your email to subscribe..." required>
+              <button type="submit" id="subscribeButton">
+                <svg width="15" height="15" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M10 50 L40 80 L90 20" stroke="black" stroke-width="15" fill="none"/>
+                </svg>
+              </button>
+            </div>
+          </form>
+        </div>
+
+        {% include header.html %}
+
+       <div class="front-page-content">
+
+         {{ content }}
+       </div>
+
+      </div>
+    </div>
+
+
+    {% include footer.html %}
+
+    <script src="/js/master.js"></script>
+    <script src="/js/date.js"></script>
+  </body>
+</html>
