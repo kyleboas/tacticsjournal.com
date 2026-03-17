@@ -98,12 +98,7 @@
   font-family: 'Geist', sans-serif;
 }
 
-/* Make research page fill full width */
-body:has(.research-page) #wrapper {
-  max-width: 100% !important;
-  width: 100% !important;
-}
-
+/* Make research page content fill full width - but not header/footer */
 .research-page {
   width: 100%;
   max-width: 100%;
