@@ -465,12 +465,15 @@ layout: page
     <p>
       The main Tactics Journal blog remains written by Kyle Boas — observation, analysis, argument built brick by brick. The research section is different. It's what the pipeline sees across 148 sources that no individual could track alone.
     </p>
+    <p>
+      One new report publishes every day. One report per week is free to read. Full access to the daily reports, early signals, and the complete archive is available to subscribers.
+    </p>
     <div class="r-step">
       <div class="r-step-num">01</div>
       <div>
-        <div class="r-step-title">Trend Reports</div>
+        <div class="r-step-title">Daily Trend Reports</div>
         <div class="r-step-body">
-          Full-length, citation-checked reports on emerging tactical patterns detected across the source network. Each report traces the signal back to its origin — which sources mentioned it first, how it spread, and why it matters.
+          One full-length, citation-checked report every day on an emerging tactical pattern detected across the source network. Each report traces the signal back to its origin — which sources mentioned it first, how it spread, and why it matters. One report per week is free.
         </div>
       </div>
     </div>
@@ -546,12 +549,34 @@ layout: page
   </div>
 </div>
 
+<!-- OPEN SOURCE -->
+<div class="r-section">
+  <div class="r-label">Open Source</div>
+  <div class="r-content">
+    <p>
+      The entire research pipeline is open source. You can inspect how it works, run it yourself, or adapt it for your own sources and use case.
+    </p>
+    <div class="r-callout">
+      <div class="r-callout-ref">GitHub Repository</div>
+      <p>
+        The pipeline code, detection algorithms, report generation logic, and self-tuning harness are all public. Clone the repo, configure your own feeds and API keys, and run your own instance. Full setup instructions included.
+      </p>
+      <p style="margin-top: 8px;">
+        <a href="https://github.com/kyleboas/research" target="_blank" style="font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; color: #333; text-decoration: none; font-family: Helvetica, Arial, sans-serif; border-bottom: 1px solid #333; padding-bottom: 1px;">View on GitHub →</a>
+      </p>
+    </div>
+    <p>
+      What you're paying for with a subscription is not the software — it's the curated source network, the tuned detection policies, the daily reports, and the fact that it's already running. The code is free. The intelligence is the product.
+    </p>
+  </div>
+</div>
+
 <!-- WAITLIST -->
 <div class="r-section" id="waitlist">
   <div class="r-label">Early Access</div>
   <div class="r-content">
     <p>
-      The pipeline is already running. Early access opens to the waitlist first — reports, early signals, and cross-language coverage before it's public.
+      The pipeline is already running. Early access opens to the waitlist first — daily reports, early signals, and cross-language coverage before it's public.
     </p>
     <div class="r-waitlist-form">
       <form
