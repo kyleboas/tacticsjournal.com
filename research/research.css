@@ -40,8 +40,11 @@
     .subscribe-section input[type="email"] { color: #fafafa; background: transparent; }
     .subscribe-section input[type="email"]::placeholder { color: #525252; }
     #subscribeButton svg path { stroke: #fafafa; }
-    footer { background: #0a0a0a; border-color: rgba(255,255,255,0.1); }
-    footer a, .footer-content { color: #737373; }
+    .footer {
+      background: #0a0a0a;
+      border-top: 1px solid rgba(255,255,255,0.1);
+    }
+    .footer a, .footer-content { color: #737373; }
     .footer-social a svg { fill: #737373; }
   }
 }
