@@ -29,24 +29,61 @@
     --btn-text: #0a0a0a;
   }
   
-  body:has(.research-page) {
-    background: #0a0a0a;
+  body:has(.research-page),
+  html:has(.research-page) {
+    background: #0a0a0a !important;
     color: #fafafa;
-    #outer-wrapper, #wrapper, .front-page-content, .entry, .page, article { background: transparent; }
-    header { border-color: rgba(255,255,255,0.1); }
-    .blog-title a, .blog-author { color: #fafafa; }
-    .blog-slogan { color: #737373; }
-    .subscribe-section { border-color: rgba(255,255,255,0.1); }
-    .subscribe-section input[type="email"] { color: #fafafa; background: transparent; }
-    .subscribe-section input[type="email"]::placeholder { color: #525252; }
-    #subscribeButton svg path { stroke: #fafafa; }
-    .footer {
-      background: #0a0a0a;
-      border-top: 1px solid rgba(255,255,255,0.1);
-    }
-    .footer a, .footer-content { color: #737373; }
-    .footer-social a svg { fill: #737373; }
   }
+  
+  body:has(.research-page) #outer-wrapper,
+  body:has(.research-page) #wrapper {
+    background: #0a0a0a !important;
+  }
+  
+  body:has(.research-page) .front-page-content,
+  body:has(.research-page) .entry,
+  body:has(.research-page) .page,
+  body:has(.research-page) article {
+    background: transparent;
+  }
+  
+  body:has(.research-page) header {
+    background: #0a0a0a;
+    border-color: rgba(255,255,255,0.1);
+  }
+  
+  body:has(.research-page) .blog-title a,
+  body:has(.research-page) .blog-author { color: #fafafa; }
+  body:has(.research-page) .blog-slogan { color: #737373; }
+  
+  body:has(.research-page) .subscribe-section {
+    border-color: rgba(255,255,255,0.1);
+    background: #0a0a0a;
+  }
+  body:has(.research-page) .subscribe-section input[type="email"] {
+    color: #fafafa;
+    background: transparent;
+  }
+  body:has(.research-page) .subscribe-section input[type="email"]::placeholder {
+    color: #525252;
+  }
+  body:has(.research-page) #subscribeButton svg path { stroke: #fafafa; }
+  
+  body:has(.research-page) .footer,
+  body:has(.research-page) .footer .container,
+  body:has(.research-page) .footer .wrapper {
+    background: #0a0a0a !important;
+    border-top: 1px solid rgba(255,255,255,0.1);
+  }
+  body:has(.research-page) .footer a,
+  body:has(.research-page) .footer-content,
+  body:has(.research-page) .footer-section,
+  body:has(.research-page) .footer-text {
+    color: #737373;
+  }
+  body:has(.research-page) .footer-link a { color: #a3a3a3; }
+  body:has(.research-page) .footer-social a svg { fill: #737373; }
+  body:has(.research-page) .copyright { color: #737373; }
 }
 
 .page > h1 { display: none; }
