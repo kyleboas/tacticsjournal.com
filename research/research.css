@@ -55,7 +55,7 @@
 }
 
 /* Hero */
-.r-hero { padding: 48px 0 56px; }
+.r-hero { padding: 15px 0 56px; }
 .r-hero h2 {
   font-size: clamp(1.6rem, 3vw, 2.4rem);
   line-height: 1.2;
