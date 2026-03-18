@@ -379,6 +379,7 @@ input[type="email"] {
   flex: 1;
   padding: 5px 0;
   font-size: 13px;
+  @include sm { font-size: 16px; }
   border: none;
   outline: none;
   max-width: 190px;
