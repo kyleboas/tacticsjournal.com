@@ -468,17 +468,8 @@ button#subscribeButton {
   line-height: 30px;
   font-size: 0.8em;
   margin-top: 100px;
-  padding-top: 10px;
-  height: 100%;
-  .container { background: rgb(238, 238, 238); padding-top: 10px; }
-  .wrapper {
-    padding: 0 var(--site-padding);
-    width: 100%;
-    margin: 0 auto;
-    background: rgb(238, 238, 238);
-    box-sizing: border-box;
-  }
-  .donations { display: block; @include lg { float: right; } }
+  padding: 10px var(--site-padding);
+  box-sizing: border-box;
 }
 
 .footer-section { padding: 10px 0; }
