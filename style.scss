@@ -33,7 +33,9 @@ html, body {
   margin: 10px auto;
   box-sizing: border-box;
   max-width: 100%;
+  padding: 0 var(--site-padding);
   width: 100%;
+  padding: 0 var(--site-padding);
 }
 
 // =============================================================================
@@ -41,7 +43,7 @@ html, body {
 // =============================================================================
 
 header {
-  padding: 5px var(--site-padding);
+  padding: 5px 0;
   border-top: 1px dashed #A9A9A9;
   border-bottom: 1px dashed #A9A9A9;
   display: flex;
@@ -403,7 +405,7 @@ button#subscribeButton {
 
 .front-page-content {
   margin: 10px auto;
-  padding: 0 var(--site-padding);
+  
   box-sizing: border-box;
 }
 
