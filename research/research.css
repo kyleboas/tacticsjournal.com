@@ -3,8 +3,8 @@
 .research-page {
   --bg: #fff;
   --text: #111;
-  --text-secondary: #333;
-  --text-muted: #666;
+  --text-secondary: #555;
+  --text-muted: #888;
   --border: rgba(0,0,0,0.08);
   --border-hover: rgba(0,0,0,0.2);
   --btn-bg: #111;
@@ -13,6 +13,19 @@
   width: 100%;
   background: var(--bg);
   font-family: 'Geist', sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  .research-page {
+    --bg: #0a0a0a;
+    --text: #fafafa;
+    --text-secondary: #d4d4d4;
+    --text-muted: #a3a3a3;
+    --border: rgba(255,255,255,0.08);
+    --border-hover: rgba(255,255,255,0.2);
+    --btn-bg: #fafafa;
+    --btn-text: #0a0a0a;
+  }
 }
 
 .page > h1 { display: none; }
