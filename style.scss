@@ -5,6 +5,27 @@
 @import 'variables';
 
 // =============================================================================
+// LAYOUT - Simple consistent padding
+// =============================================================================
+
+// CSS Custom Properties for consistent site-wide padding
+:root {
+  --site-padding: 24px;
+  
+  @media (min-width: 768px) {
+    --site-padding: 48px;
+  }
+  
+  @media (min-width: 1024px) {
+    --site-padding: 80px;
+  }
+  
+  @media (min-width: 1280px) {
+    --site-padding: 120px;
+  }
+}
+
+// =============================================================================
 // BASE STYLES (Mobile First - applies to all screen sizes)
 // =============================================================================
 
@@ -45,7 +66,7 @@ body {
 // =============================================================================
 
 header {
-  padding: 5px 24px;
+  padding: 5px var(--site-padding);
   border-top: 1px dashed #A9A9A9;
   border-bottom: 1px dashed #A9A9A9;
   display: flex;
@@ -53,18 +74,6 @@ header {
   flex-wrap: wrap;
   justify-content: flex-start;
   box-sizing: border-box;
-
-  @media (min-width: 768px) {
-    padding: 5px 48px;
-  }
-
-  @media (min-width: 1024px) {
-    padding: 5px 80px;
-  }
-
-  @media (min-width: 1280px) {
-    padding: 5px 120px;
-  }
 }
 
 .logo {
@@ -250,7 +259,7 @@ h5 a {
   top: -10px;
   text-decoration: none;
   display: none;
-  padding: 0 24px;
+  padding: 10px;
 }
 
 h3:hover a,
@@ -1078,20 +1087,8 @@ button#subscribeButton {
 .front-page-content {
   margin: 10px auto;
   position: relative;
-  padding: 0 24px;
+  padding: 0 var(--site-padding);
   box-sizing: border-box;
-
-  @media (min-width: 768px) {
-    padding: 0 48px;
-  }
-
-  @media (min-width: 1024px) {
-    padding: 0 80px;
-  }
-
-  @media (min-width: 1280px) {
-    padding: 0 120px;
-  }
 }
 
 .filter {
@@ -1281,23 +1278,11 @@ button#subscribeButton {
   }
 
   .wrapper {
-    padding: 0 24px;
+    padding: 0 var(--site-padding);
     width: 100%;
     margin: 0 auto;
     background: rgb(238, 238, 238);
     box-sizing: border-box;
-
-    @media (min-width: 768px) {
-      padding: 0 48px;
-    }
-
-    @media (min-width: 1024px) {
-      padding: 0 80px;
-    }
-
-    @media (min-width: 1280px) {
-      padding: 0 120px;
-    }
   }
 
   iframe {
@@ -1315,13 +1300,6 @@ button#subscribeButton {
   }
 }
 
-#outer-wrapper::after {
-  @include md {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-}
-
 .discord-logo {
   display: inline-block;
   float: left;
@@ -1333,4 +1311,3 @@ button#subscribeButton {
   align-items: center;
   padding-bottom: 30px;
 }
-
