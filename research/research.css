@@ -55,7 +55,7 @@
 }
 
 /* Hero */
-.r-hero { padding: 48px 0 56px; }
+.r-hero { padding: 15px 0 56px; }
 .r-hero h2 {
   font-size: clamp(1.6rem, 3vw, 2.4rem);
   line-height: 1.2;
@@ -225,7 +225,7 @@
 
 /* Responsive */
 @media (max-width: 569px) {
-  .r-hero { padding: 32px 0 40px; }
+  .r-hero { padding: 10px 0 40px; }
   .r-section { padding: 40px 0; }
   .r-stat-grid { grid-template-columns: 1fr; }
   .r-flow { flex-direction: column; align-items: stretch; gap: 0; }
