@@ -3,7 +3,6 @@ title: Research
 layout: page
 permalink: /research/
 ---
-
 <link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
 
 <div class="research-page">
@@ -12,7 +11,7 @@ permalink: /research/
 <div class="r-hero">
   <h2 class="r-fade r-fade-d1">Spot football's next tactical shift <span class="r-shimmer">before anyone else.</span></h2>
   <p class="r-sub-statement r-fade r-fade-d2">
-    Monitors 148 football sources across eight languages, every hour. Detects emerging tactical patterns before they become popular and publishes citation-checked reports on what's actually changing in the sport.
+    Monitors 151 football sources across eight languages, every hour. Detects frontier ideas before they harden into mainstream consensus and publishes citation-checked reports on what's actually changing in the sport.
   </p>
   <div class="r-hero-actions r-fade r-fade-d3">
     <div class="r-waitlist-form">
@@ -37,12 +36,12 @@ permalink: /research/
     Football tactics travel faster than anyone can follow. A manager changes shape mid-match in LaLiga. A defensive structure appears independently at three clubs across two leagues. A pressing trigger starts showing up in YouTube breakdowns in German, then French, then Portuguese — weeks before it surfaces in English-language coverage.
   </p>
   <p>
-    No person can read 118 RSS feeds, watch 30 YouTube channels, and process press conferences in eight languages. By the time a tactical trend is widely discussed, it has already been adopted. The information existed earlier. It was just scattered across too many sources for any individual to connect.
+    No person can read 118 RSS feeds, watch 33 YouTube channels, and process press conferences, interviews, and analysis in eight languages. By the time a tactical trend is widely discussed, it has already been adopted. The information existed earlier. It was just scattered across too many sources for any individual to connect.
   </p>
   <div class="r-card">
     <div class="r-card-label">From the Research Pipeline — Live</div>
     <p>
-      The system currently tracks 1,491 ingested sources, has identified 557 distinct tactical patterns, and scores each for novelty against a historical baseline. When a signal reaches sufficient strength across independent sources, a multi-agent research team produces a full report — automatically.
+      The source network now covers 151 configured outlets: 118 RSS feeds and 33 YouTube channels. Every source is tagged by frontier vs. mainstream status, football culture, and format so the detector can surface ideas that are spreading in one part of the game before the big outlets package them for everyone else.
     </p>
   </div>
 </div>
@@ -57,20 +56,20 @@ permalink: /research/
   <div class="r-flow">
     <div class="r-flow-node">
       <div class="r-flow-node-title">Ingest</div>
-      <div class="r-flow-node-sub">148 sources · hourly</div>
+      <div class="r-flow-node-sub">151 sources · hourly</div>
     </div>
     <div class="r-flow-arrow">→</div>
     <div class="r-flow-node">
       <div class="r-flow-node-title">Detect</div>
-      <div class="r-flow-node-sub">3-layer scoring</div>
+      <div class="r-flow-node-sub">Frontier-gap + weak-signal</div>
     </div>
     <div class="r-flow-arrow">→</div>
     <div class="r-flow-node">
       <div class="r-flow-node-title">Report</div>
-      <div class="r-flow-node-sub">Multi-agent, cited</div>
+      <div class="r-flow-node-sub">Finding-first, cited</div>
     </div>
   </div>
-  <div class="r-flow-note">↻ The pipeline evaluates and adjusts its own detection thresholds every cycle.</div>
+  <div class="r-flow-note">↻ A separate autoresearch loop evaluates ingest, detect, and report policy changes and applies them when the evidence is good enough.</div>
 
   <div style="margin-top: 36px;">
   <div class="r-step">
@@ -78,12 +77,13 @@ permalink: /research/
     <div>
       <div class="r-step-title">Ingest</div>
       <div class="r-step-body">
-        Every hour, the pipeline pulls from 118 RSS feeds and 30 YouTube channels across eight languages. Articles are extracted in full text. Video transcripts are fetched and processed. Content is chunked, embedded, and stored with vector representations for semantic search. It reads what the best analysts read — in every language they write in.
+        Every hour, the pipeline pulls from 118 RSS feeds and 33 YouTube channels across eight languages. RSS items are fetched directly, long-form article text and video transcripts are extracted, and every source is tagged with metadata about tier, culture, and format before it is chunked and embedded for retrieval. It reads what the best analysts read — in every language they write in.
       </div>
       <div class="r-tags">
         <span class="r-tag">RSS</span>
         <span class="r-tag">YouTube Transcripts</span>
         <span class="r-tag">Full-Text Extraction</span>
+        <span class="r-tag">Source Taxonomy</span>
         <span class="r-tag">Vector Embeddings</span>
       </div>
     </div>
@@ -94,13 +94,14 @@ permalink: /research/
     <div>
       <div class="r-step-title">Detect</div>
       <div class="r-step-body">
-        Three detection layers run in sequence. A BERTrend-inspired weak-signal detector identifies emerging clusters. A tactical pattern extractor maps specific actor–action–zone combinations across the entire corpus. An LLM fallback catches what the algorithmic detectors miss. Each candidate is scored for novelty, source diversity, and growth trajectory — surfacing the patterns that are gaining traction before they become mainstream.
+        Two complementary detectors run before report generation. A frontier-gap detector looks for ideas circulating across independent frontier sources before they cross into mainstream coverage. A BERTrend-inspired weak-signal detector clusters the corpus over time and tracks what is actually accelerating. Candidates are then rescored for novelty, source diversity, cross-culture spread, and spoken primary-source evidence from press conferences, interviews, and podcasts.
       </div>
       <div class="r-tags">
-        <span class="r-tag">Weak-Signal Detection</span>
-        <span class="r-tag">Tactical Pattern Extraction</span>
+        <span class="r-tag">Frontier Gap Detection</span>
+        <span class="r-tag">Weak-Signal Clustering</span>
         <span class="r-tag">Novelty Scoring</span>
-        <span class="r-tag">Growth Tracking</span>
+        <span class="r-tag">Cross-Culture Scoring</span>
+        <span class="r-tag">Spoken Primary Sources</span>
       </div>
     </div>
   </div>
@@ -110,10 +111,11 @@ permalink: /research/
     <div>
       <div class="r-step-title">Report</div>
       <div class="r-step-body">
-        When a trend candidate clears the quality gate, a multi-agent research team activates. A lead researcher plans the investigation. Parallel sub-agents run independent research cycles. Their findings are synthesized, checked for citation accuracy, and revised into a final report — all without human intervention. Every claim is traced back to its source.
+        When a candidate clears the quality gate, a multi-agent research team activates. A lead researcher decomposes the question, parallel sub-agents investigate the evidence, spread, mechanism, and counterevidence, and a synthesis pass turns the work into a finding-first report. Then a dedicated citation pass checks every non-obvious claim before final revision. Every claim is traced back to its source.
       </div>
       <div class="r-tags">
         <span class="r-tag">Multi-Agent Research</span>
+        <span class="r-tag">Finding-First Reports</span>
         <span class="r-tag">Citation Verification</span>
         <span class="r-tag">Quality Gates</span>
         <span class="r-tag">Automated Publishing</span>
@@ -127,12 +129,12 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">Self-Improving</div>
   <p>
-    The pipeline doesn't just run — it gets better. Every hour, it measures what it missed, what it flagged too early, and what it got right. Detection thresholds tighten. Source weighting shifts. Report quality is scored and the generation parameters are adjusted. It is, at the point you are reading this, better than it was when this page was first published.
+    The pipeline doesn't just run — it tunes itself. A separate autoresearch loop evaluates ingest policy, detect policy, and report policy from observed outcomes, then applies changes only when they improve the baseline. That means the source-overlap windows, report gates, and report-generation parameters keep moving toward better quality without requiring a human to babysit every knob.
   </p>
   <div class="r-card">
-    <div class="r-card-label">Pipeline Self-Tuning</div>
+    <div class="r-card-label">Hourly Autoresearch Loop</div>
     <p>
-      If the detection layer consistently flags a pattern that reports find unsupported, the confidence threshold for that pattern type is automatically raised. The system penalizes its own false positives. No manual tuning required.
+      Ingest policy optimization uses historical source lag and volume. Detect policy evaluation replays candidate decisions without paid model calls. Report policy optimization simulates quality and cost tradeoffs, enforces a per-report budget target, and only writes a new live policy when it beats the current one.
     </p>
   </div>
 </div>
@@ -141,7 +143,7 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">What You Get</div>
   <p>
-    The main Tactics Journal blog remains written by Kyle Boas — observation, analysis, argument built brick by brick. The research section is different. It's what the pipeline sees across 148 sources that no individual could track alone.
+    The main Tactics Journal blog remains written by Kyle Boas — observation, analysis, argument built brick by brick. The research section is different. It's what the pipeline sees across 151 sources that no individual could track alone.
   </p>
   <p>
     One new report publishes every day. One report per week is free to read. Full access to the daily reports, early signals, and the complete archive is available to subscribers.
@@ -151,7 +153,7 @@ permalink: /research/
     <div>
       <div class="r-step-title">Daily Trend Reports</div>
       <div class="r-step-body">
-        One full-length, citation-checked report every day on an emerging tactical pattern detected across the source network. Each report traces the signal back to its origin — which sources mentioned it first, how it spread, and why it matters. One report per week is free. Reports publish at <span class="r-mono">/research/year/month/day/title/</span>
+        One full-length, citation-checked report every day on an emerging idea, method, or tactical pattern detected across the source network. Each report traces the signal back to its origin — which frontier sources surfaced it first, how it spread across cultures, and why it matters. One report per week is free. Reports publish at <span class="r-mono">/research/year/month/day/title/</span>
       </div>
     </div>
   </div>
@@ -184,13 +186,14 @@ permalink: /research/
 
   <div class="r-stat-grid">
     <div class="r-stat-card">
-      <div class="r-stat-num">148</div>
+      <div class="r-stat-num">151</div>
       <div class="r-stat-label">Sources Monitored</div>
-      <div class="r-stat-sub">118 RSS · 30 YouTube</div>
+      <div class="r-stat-sub">118 RSS · 33 YouTube</div>
     </div>
     <div class="r-stat-card">
-      <div class="r-stat-num">557</div>
-      <div class="r-stat-label">Tactical Patterns</div>
+      <div class="r-stat-num">3</div>
+      <div class="r-stat-label">Source Dimensions</div>
+      <div class="r-stat-sub">Tier · culture · format</div>
     </div>
     <div class="r-stat-card">
       <div class="r-stat-num">8</div>
@@ -208,7 +211,7 @@ permalink: /research/
   <div class="r-card">
     <div class="r-card-label">Video Sources</div>
     <p>
-      Tifo Football, Statman Dave, Football Made Simple, Premier League, LaLiga, Serie A, Bundesliga, L'Équipe, El Chiringuito TV, beIN SPORTS Arabic — transcripts extracted and processed for tactical content.
+      Tifo Football, Statman Dave, Football Made Simple, Premier League, LaLiga, Serie A, Bundesliga, L'Équipe, El Chiringuito TV, beIN SPORTS Arabic, NOS Sport, DAZN Italia, Sky Sport Italia — transcripts extracted and processed for tactical content.
     </p>
   </div>
 
