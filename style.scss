@@ -38,6 +38,92 @@ html, body {
 }
 
 // =============================================================================
+// DARK MODE - Site-wide
+// =============================================================================
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0a0a0a;
+    --text: #fafafa;
+    --text-secondary: #d4d4d4;
+    --text-muted: #a3a3a3;
+    --border: rgba(255,255,255,0.1);
+    --lightGray: #1a1a1a;
+  }
+  
+  html, body {
+    background: var(--bg);
+    color: var(--text);
+  }
+  
+  #outer-wrapper, #wrapper {
+    background: var(--bg);
+  }
+  
+  header {
+    border-color: var(--border);
+    background: var(--bg);
+  }
+  
+  .blog-title a, .blog-author { color: var(--text); }
+  .blog-slogan { color: var(--text-muted); }
+  
+  .subscribe-section {
+    background: var(--bg);
+    border-color: var(--border);
+  }
+  
+  .subscribe-section input[type="email"] {
+    color: var(--text);
+    background: transparent;
+  }
+  
+  .subscribe-section input[type="email"]::placeholder {
+    color: var(--text-muted);
+  }
+  
+  #subscribeButton svg path { stroke: var(--text); }
+  
+  nav a { color: var(--text); }
+  
+  a { color: #6cb4d4; }
+  
+  h2 a { color: var(--text-secondary); }
+  
+  .post-title a { color: var(--text); }
+  .post-item .long-title { color: var(--text); }
+  
+  .post-date, .post-num-words { color: var(--text-muted); }
+  .post-date span { color: var(--text-muted); }
+  
+  blockquote { border-color: var(--border); }
+  
+  hr { border-color: var(--border); }
+  
+  code { background: #2a2a2a; }
+  
+  .footer {
+    background: var(--lightGray);
+  }
+  
+  .footer .container, .footer .wrapper {
+    background: var(--lightGray);
+  }
+  
+  .footer a, .footer-content { color: var(--text-muted); }
+  
+  .post-item { border-color: var(--border); }
+  
+  .date-separator { 
+    color: var(--text-muted);
+    border-color: var(--border);
+  }
+  
+  .filter { border-color: var(--border); }
+  .filter a { color: var(--text-muted); }
+}
+
+// =============================================================================
 // HEADER
 // =============================================================================
 
