@@ -10,13 +10,11 @@ permalink: /research/
 
 <!-- HERO -->
 <div class="r-hero">
-  <div class="r-badge r-fade">⚡ Research Pipeline</div>
-  <h1 class="r-fade r-fade-d1" style="margin-top: 20px;">Research</h1>
-  <h2 class="r-fade r-fade-d2">Spot football's next tactical shift <span class="r-shimmer">before anyone else.</span></h2>
-  <p class="r-sub-statement r-fade r-fade-d3">
-    The Tactics Journal Research Pipeline monitors 148 football sources across eight languages, every hour. It detects emerging tactical patterns before they become popular and publishes citation-checked reports on what's actually changing in the sport.
+  <h2 class="r-fade r-fade-d1">Spot football's next tactical shift <span class="r-shimmer">before anyone else.</span></h2>
+  <p class="r-sub-statement r-fade r-fade-d2">
+    Monitors 148 football sources across eight languages, every hour. Detects emerging tactical patterns before they become popular and publishes citation-checked reports on what's actually changing in the sport.
   </p>
-  <div class="r-hero-actions r-fade r-fade-d4">
+  <div class="r-hero-actions r-fade r-fade-d3">
     <div class="r-waitlist-form">
       <form
         action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
