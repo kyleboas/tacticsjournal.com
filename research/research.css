@@ -100,8 +100,8 @@
   padding: 24px;
   margin: 20px 0;
   transition: border-color 0.15s ease;
-  &:hover { border-color: var(--border-hover); }
 }
+.r-card:hover { border-color: var(--border-hover); }
 .r-card-label {
   font-size: 10px;
   letter-spacing: 0.2em;
@@ -126,8 +126,8 @@
   padding: 24px 20px;
   text-align: center;
   transition: border-color 0.15s ease;
-  &:hover { border-color: var(--border-hover); }
 }
+.r-stat-card:hover { border-color: var(--border-hover); }
 .r-stat-num { font-size: 28px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
 .r-stat-label { font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-muted); font-weight: 500; }
 .r-stat-sub { font-size: 11px; color: var(--text-muted); margin-top: 6px; font-family: 'Geist Mono', monospace; }
@@ -141,8 +141,8 @@
   min-width: 110px;
   text-align: center;
   transition: border-color 0.15s ease;
-  &:hover { border-color: var(--border-hover); }
 }
+.r-flow-node:hover { border-color: var(--border-hover); }
 .r-flow-node-title { font-size: 13px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
 .r-flow-node-sub { font-size: 11px; color: var(--text-muted); font-family: 'Geist Mono', monospace; }
 .r-flow-arrow { font-size: 16px; color: var(--text-muted); padding: 0 8px; flex-shrink: 0; }
@@ -165,8 +165,8 @@
   padding: 4px 12px;
   font-weight: 500;
   transition: border-color 0.15s ease;
-  &:hover { border-color: var(--text-muted); }
 }
+.r-tag:hover { border-color: var(--text-muted); }
 
 /* Waitlist Form */
 .r-waitlist-form form {
@@ -177,8 +177,8 @@
   border-radius: 9999px;
   padding: 4px 4px 4px 20px;
   transition: border-color 0.15s ease;
-  &:focus-within { border-color: var(--text-secondary); }
 }
+.r-waitlist-form form:focus-within { border-color: var(--text-secondary); }
 .r-waitlist-form input[type="email"] {
   font-size: 14px;
   padding: 8px 0;
@@ -187,8 +187,8 @@
   color: var(--text);
   flex: 1;
   outline: none;
-  &::placeholder { color: var(--text-muted); }
 }
+.r-waitlist-form input[type="email"]::placeholder { color: var(--text-muted); }
 .r-waitlist-form button {
   font-size: 13px;
   font-weight: 500;
@@ -199,8 +199,8 @@
   border-radius: 9999px;
   cursor: pointer;
   transition: opacity 0.15s ease;
-  &:hover { opacity: 0.85; }
 }
+.r-waitlist-form button:hover { opacity: 0.85; }
 
 /* GitHub Link */
 .r-github-link {
@@ -215,9 +215,9 @@
   border-radius: 9999px;
   padding: 8px 18px;
   transition: border-color 0.15s ease, color 0.15s ease;
-  &:hover { border-color: var(--border-hover); color: var(--text); }
-  svg { flex-shrink: 0; }
 }
+.r-github-link:hover { border-color: var(--border-hover); color: var(--text); }
+.r-github-link svg { flex-shrink: 0; }
 
 /* Misc */
 .r-audience { font-size: 13px; color: var(--text-muted); margin-top: 32px; font-style: italic; }

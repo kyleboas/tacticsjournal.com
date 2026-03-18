@@ -22,6 +22,7 @@ permalink: /research/
         target="_blank"
       >
         <input type="hidden" name="tag" value="research-waitlist" />
+        <input type="hidden" name="embed" value="1" />
         <input type="email" name="email" placeholder="Your email" required />
         <button type="submit">Join Waitlist</button>
       </form>
@@ -259,6 +260,7 @@ permalink: /research/
       target="_blank"
     >
       <input type="hidden" name="tag" value="research-waitlist" />
+      <input type="hidden" name="embed" value="1" />
       <input type="email" name="email" placeholder="Your email" required />
       <button type="submit">Join Waitlist</button>
     </form>
