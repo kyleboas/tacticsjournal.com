@@ -225,7 +225,7 @@
 
 /* Responsive */
 @media (max-width: 569px) {
-  .r-hero { padding: 32px 0 40px; }
+  .r-hero { padding: 10px 0 40px; }
   .r-section { padding: 40px 0; }
   .r-stat-grid { grid-template-columns: 1fr; }
   .r-flow { flex-direction: column; align-items: stretch; gap: 0; }
