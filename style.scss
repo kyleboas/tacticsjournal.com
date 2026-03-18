@@ -31,10 +31,9 @@ html, body {
 
 #wrapper {
   margin: 10px auto;
-  box-sizing: border-box;
-  max-width: 100%;
-  padding: 0 var(--site-padding);
   width: 100%;
+  max-width: 1280px;
+  box-sizing: border-box;
   padding: 0 var(--site-padding);
 }
 
