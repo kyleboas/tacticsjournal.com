@@ -171,6 +171,7 @@
 /* Waitlist Form */
 .r-waitlist-form form {
   display: flex;
+  flex-wrap: nowrap;
   align-items: center;
   max-width: 400px;
   border: 1px solid var(--border);
@@ -186,6 +187,7 @@
   background: transparent;
   color: var(--text);
   flex: 1;
+  min-width: 0;
   outline: none;
   &::placeholder { color: var(--text-muted); }
 }
@@ -198,6 +200,8 @@
   border: none;
   border-radius: 9999px;
   cursor: pointer;
+  flex-shrink: 0;
+  white-space: nowrap;
   transition: opacity 0.15s ease;
   &:hover { opacity: 0.85; }
 }
