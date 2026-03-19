@@ -1,13 +1,52 @@
-<header>
-<div class="logo">
-  <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-  <div class="blog-info">
-  <h1 class="blog-title">
-    <a href="/">Tactics Journal</a>
-  </h1>
+{% assign current_path = page.url | default: "/" %}
+{% assign on_research = false %}
+{% if current_path == "/research/" or current_path contains "/research/" %}
+  {% assign on_research = true %}
+{% endif %}
 
-  <p class="blog-author">by Kyle Boas</p>
-  <p class="blog-slogan">Analyzing football tactics</p>
+<header class="site-header">
+  <div class="site-header__inner">
+    <a href="{{ site.baseurl }}/" class="site-header__brand" aria-label="Tactics Journal home">
+      <img src="{{ site.avatar }}" alt="Tactics Journal" />
+    </a>
+
+    <nav class="site-header__nav" aria-label="Primary">
+      <a href="{{ site.baseurl }}/" class="{% unless on_research %}is-active{% endunless %}">Opinion</a>
+      <a href="{{ site.baseurl }}/research/" class="{% if on_research %}is-active{% endif %}">Research</a>
+    </nav>
+
+    <div class="site-header__actions">
+      <a href="{{ site.baseurl }}/search/" class="site-header__icon-link" aria-label="Search">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="11" cy="11" r="6.5"></circle>
+          <path d="M16 16L21 21"></path>
+        </svg>
+      </a>
+
+      <a href="{{ site.baseurl }}/subscribe/" class="site-header__icon-link" aria-label="Subscribe">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <circle cx="12" cy="8" r="3.5"></circle>
+          <path d="M5 20c1.5-3.5 4.1-5.25 7-5.25S17.5 16.5 19 20"></path>
+        </svg>
+      </a>
+
+      <details class="site-menu">
+        <summary class="site-header__icon-link" aria-label="Open menu">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M4 7h16"></path>
+            <path d="M4 12h16"></path>
+            <path d="M4 17h16"></path>
+          </svg>
+        </summary>
+        <div class="site-menu__panel">
+          <a href="{{ site.baseurl }}/archive/">Archive</a>
+          <a href="{{ site.baseurl }}/about/">About</a>
+          <a href="{{ site.baseurl }}/follow/">Follow</a>
+          <a href="{{ site.baseurl }}/contact/">Contact</a>
+          <a href="{{ site.baseurl }}/recommended/">Recommended</a>
+          <a href="{{ site.baseurl }}/key/">Key</a>
+        </div>
+      </details>
+    </div>
   </div>
-</div>
 </header>

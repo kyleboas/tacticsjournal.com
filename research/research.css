@@ -3,16 +3,18 @@
 .research-page {
   --bg: #fff;
   --text: #111;
-  --text-secondary: #555;
-  --text-muted: #888;
-  --border: rgba(0,0,0,0.08);
-  --border-hover: rgba(0,0,0,0.2);
+  --text-secondary: #3c3c3c;
+  --text-muted: #8b8b8b;
+  --border: rgba(0,0,0,0.1);
+  --border-hover: rgba(0,0,0,0.18);
   --btn-bg: #111;
   --btn-text: #fff;
   
   width: 100%;
   background: var(--bg);
-  font-family: 'Geist', sans-serif;
+  max-width: 760px;
+  margin: 0 auto;
+  font-family: inherit;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -46,33 +48,38 @@
   to { background-position: -200% center; }
 }
 
-.r-shimmer {
-  background: linear-gradient(90deg, var(--text-secondary) 0%, var(--text-secondary) 40%, var(--text) 50%, var(--text-secondary) 60%, var(--text-secondary) 100%);
-  -webkit-text-fill-color: transparent;
-  background-size: 200% 100%;
-  -webkit-background-clip: text;
-  animation: shimmer 3s linear infinite;
-}
-
 /* Hero */
-.r-hero { padding: 15px 0 56px; }
+.r-hero {
+  padding: 56px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  min-height: clamp(420px, calc(100svh - 120px), 780px);
+}
 .r-hero h2 {
-  font-size: clamp(1.6rem, 3vw, 2.4rem);
-  line-height: 1.2;
+  font-size: clamp(2.7rem, 8vw, 4.25rem);
+  line-height: 0.96;
   font-weight: 700;
-  letter-spacing: -0.025em;
+  letter-spacing: -0.04em;
   color: var(--text);
-  margin-bottom: 20px;
+  margin: 0 0 18px;
 }
 .r-sub-statement {
-  font-size: 15px;
+  font-size: clamp(1.3rem, 3vw, 2rem);
   color: var(--text-secondary);
-  line-height: 1.7;
+  line-height: 1.2;
+  max-width: 32rem;
   margin-bottom: 0;
 }
 
 /* Hero Actions */
-.r-hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; align-items: center; }
+.r-hero-actions {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 28px;
+}
 
 /* Sections */
 .r-section { padding: 56px 0; border-top: 1px solid var(--border); }
@@ -174,21 +181,22 @@
   grid-template-columns: minmax(0, 1fr) auto;
   align-items: center;
   gap: 8px;
-  width: min(100%, 400px);
-  max-width: 400px;
+  width: min(100%, 540px);
+  max-width: 540px;
   border: 1px solid var(--border);
   border-radius: 9999px;
-  padding: 4px 4px 4px 20px;
+  padding: 6px;
   font-family: inherit;
   transition: border-color 0.15s ease, box-shadow 0.3s ease;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.04);
 }
 .r-waitlist-form form:focus-within {
   border-color: var(--text-secondary);
-  box-shadow: 0 0 0 3px rgba(43, 91, 238, 0.1);
+  box-shadow: 0 0 0 4px rgba(17, 17, 17, 0.06);
 }
 .r-waitlist-form input[type="email"] {
-  font-size: 14px;
-  padding: 8px 0;
+  font-size: 1.05rem;
+  padding: 12px 0 12px 24px;
   border: none;
   background: transparent;
   color: var(--text);
@@ -199,9 +207,9 @@
 }
 .r-waitlist-form input[type="email"]::placeholder { color: var(--text-muted); }
 .r-waitlist-form button {
-  font-size: 13px;
+  font-size: 1.05rem;
   font-weight: 500;
-  padding: 8px 20px;
+  padding: 14px 30px;
   background: var(--btn-bg);
   color: var(--btn-text);
   border: none;
@@ -209,11 +217,9 @@
   cursor: pointer;
   white-space: nowrap;
   transition: opacity 0.15s ease, box-shadow 0.3s ease, transform 0.2s ease;
-  box-shadow: 0 0 15px 2px rgba(43, 91, 238, 0.25);
 }
 .r-waitlist-form button:hover {
   opacity: 0.95;
-  box-shadow: 0 0 20px 4px rgba(43, 91, 238, 0.35);
   transform: translateY(-1px);
 }
 .r-waitlist-form button:active { transform: translateY(0); }
@@ -241,12 +247,30 @@
 
 /* Responsive */
 @media (max-width: 569px) {
-  .r-hero { padding: 10px 0 40px; }
+  .r-hero {
+    padding: 38px 0 0;
+    min-height: calc(100svh - 92px);
+  }
   .r-section { padding: 40px 0; }
   .r-stat-grid { grid-template-columns: 1fr; }
   .r-flow { flex-direction: column; align-items: stretch; gap: 0; }
   .r-flow-arrow { transform: rotate(90deg); padding: 4px 0; text-align: center; }
   .r-flow-node { min-width: auto; }
-  .r-waitlist-form form { max-width: 100%; }
-  .r-hero-actions { flex-direction: column; align-items: flex-start; }
+  .r-sub-statement {
+    font-size: 1.05rem;
+    max-width: 18rem;
+  }
+  .r-waitlist-form form {
+    width: 100%;
+    gap: 6px;
+    padding: 5px;
+  }
+  .r-waitlist-form input[type="email"] {
+    font-size: 0.95rem;
+    padding: 11px 0 11px 18px;
+  }
+  .r-waitlist-form button {
+    font-size: 0.95rem;
+    padding: 11px 18px;
+  }
 }

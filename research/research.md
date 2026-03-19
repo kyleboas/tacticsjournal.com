@@ -9,10 +9,8 @@ permalink: /research/
 
 <!-- HERO -->
 <div class="r-hero">
-  <h2 class="r-fade r-fade-d1">Spot football's next tactical shift <span class="r-shimmer">before anyone else.</span></h2>
-  <p class="r-sub-statement r-fade r-fade-d2">
-    Monitors 151 football sources across eight languages, every hour. Detects frontier ideas before they harden into mainstream consensus and publishes citation-checked reports on what's actually changing in the sport.
-  </p>
+  <h2 class="r-fade r-fade-d1">Research</h2>
+  <p class="r-sub-statement r-fade r-fade-d2">Discover football tactics first.</p>
   <div class="r-hero-actions r-fade r-fade-d3">
     {% include research-waitlist-form.html %}
   </div>
