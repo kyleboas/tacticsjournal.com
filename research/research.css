@@ -63,6 +63,7 @@
   letter-spacing: -0.025em;
   color: var(--text);
   margin-bottom: 20px;
+  margin-top: 10px;
 }
 .r-sub-statement {
   font-size: 15px;
