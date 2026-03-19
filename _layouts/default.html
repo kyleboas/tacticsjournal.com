@@ -32,12 +32,10 @@
           <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
                 method="post" 
                 target="_blank"
-                rel="noopener"
-                data-subscribe-form
-                data-reveal-button>
+                id="subscribeForm">
             <div class="form-container">
-              <input type="email" name="email" placeholder="Enter your email to subscribe..." required data-subscribe-email>
-              <button type="submit" data-subscribe-button>
+              <input type="email" name="email" id="email" placeholder="Enter your email to subscribe..." required>
+              <button type="submit" id="subscribeButton">
                 <svg width="15" height="15" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10 50 L40 80 L90 20" stroke="black" stroke-width="15" fill="none"/>
                 </svg>
@@ -58,7 +56,6 @@
 
 
     {% include footer.html %}
-    {% include buttondown-form-script.html %}
     
     <script src="/js/master.js"></script>
     <script src="/js/date.js"></script>
