@@ -475,7 +475,7 @@ input[type="email"] {
 .subscribe-text { font-size: 13px; line-height: 1.4; }
 .subscribe-section-header { font-weight: bold; font-size: 0.8em; padding-top: 20px; }
 
-button#subscribeButton {
+.subscribe-section [data-subscribe-button] {
   display: none;
   background: transparent;
   color: $black;

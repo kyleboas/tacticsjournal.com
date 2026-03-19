@@ -170,12 +170,16 @@
 
 /* Waitlist Form */
 .r-waitlist-form form {
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items: center;
+  gap: 8px;
+  width: min(100%, 400px);
   max-width: 400px;
   border: 1px solid var(--border);
   border-radius: 9999px;
   padding: 4px 4px 4px 20px;
+  font-family: inherit;
   transition: border-color 0.15s ease;
 }
 .r-waitlist-form form:focus-within { border-color: var(--text-secondary); }
@@ -185,7 +189,9 @@
   border: none;
   background: transparent;
   color: var(--text);
-  flex: 1;
+  width: 100%;
+  max-width: none;
+  min-width: 0;
   outline: none;
 }
 .r-waitlist-form input[type="email"]::placeholder { color: var(--text-muted); }
@@ -198,6 +204,7 @@
   border: none;
   border-radius: 9999px;
   cursor: pointer;
+  white-space: nowrap;
   transition: opacity 0.15s ease;
 }
 .r-waitlist-form button:hover { opacity: 0.85; }

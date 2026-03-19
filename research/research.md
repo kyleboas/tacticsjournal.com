@@ -14,18 +14,7 @@ permalink: /research/
     Monitors 151 football sources across eight languages, every hour. Detects frontier ideas before they harden into mainstream consensus and publishes citation-checked reports on what's actually changing in the sport.
   </p>
   <div class="r-hero-actions r-fade r-fade-d3">
-    <div class="r-waitlist-form">
-      <form
-        action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
-        method="post"
-        target="_blank"
-      >
-        <input type="hidden" name="tag" value="research-waitlist" />
-        <input type="hidden" name="embed" value="1" />
-        <input type="email" name="email" placeholder="Your email" required />
-        <button type="submit">Join Waitlist</button>
-      </form>
-    </div>
+    {% include research-waitlist-form.html %}
   </div>
 </div>
 
@@ -256,18 +245,7 @@ permalink: /research/
   <p>
     The pipeline is already running. Early access opens to the waitlist first — daily reports, early signals, and cross-language coverage before it's public.
   </p>
-  <div class="r-waitlist-form">
-    <form
-      action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
-      method="post"
-      target="_blank"
-    >
-      <input type="hidden" name="tag" value="research-waitlist" />
-      <input type="hidden" name="embed" value="1" />
-      <input type="email" name="email" placeholder="Your email" required />
-      <button type="submit">Join Waitlist</button>
-    </form>
-  </div>
+  {% include research-waitlist-form.html %}
 </div>
 
 </div>
