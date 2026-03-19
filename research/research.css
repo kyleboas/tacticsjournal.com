@@ -180,9 +180,12 @@
   border-radius: 9999px;
   padding: 4px 4px 4px 20px;
   font-family: inherit;
-  transition: border-color 0.15s ease;
+  transition: border-color 0.15s ease, box-shadow 0.3s ease;
 }
-.r-waitlist-form form:focus-within { border-color: var(--text-secondary); }
+.r-waitlist-form form:focus-within {
+  border-color: var(--text-secondary);
+  box-shadow: 0 0 0 3px rgba(43, 91, 238, 0.1);
+}
 .r-waitlist-form input[type="email"] {
   font-size: 14px;
   padding: 8px 0;
@@ -205,9 +208,15 @@
   border-radius: 9999px;
   cursor: pointer;
   white-space: nowrap;
-  transition: opacity 0.15s ease;
+  transition: opacity 0.15s ease, box-shadow 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 0 15px 2px rgba(43, 91, 238, 0.25);
 }
-.r-waitlist-form button:hover { opacity: 0.85; }
+.r-waitlist-form button:hover {
+  opacity: 0.95;
+  box-shadow: 0 0 20px 4px rgba(43, 91, 238, 0.35);
+  transform: translateY(-1px);
+}
+.r-waitlist-form button:active { transform: translateY(0); }
 
 /* GitHub Link */
 .r-github-link {
