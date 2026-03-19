@@ -65,8 +65,8 @@ html, body {
     background: var(--bg);
   }
   
-  .blog-title a, .blog-author { color: var(--text); }
-  .blog-slogan { color: var(--text-muted); }
+  .nav-center a { color: var(--text); }
+  .nav-icon { color: var(--text); }
   
   .subscribe-section {
     background: var(--bg);
@@ -128,55 +128,50 @@ html, body {
 // =============================================================================
 
 header {
-  padding: 5px 0;
-  border-top: 1px dashed #A9A9A9;
+  padding: 10px 0;
   border-bottom: 1px dashed #A9A9A9;
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-between;
   box-sizing: border-box;
 }
 
-.logo {
+.nav-left {
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
-  margin: 10px 0;
 }
 
-.site-avatar img { width: 60px; margin-right: 15px; }
-.site-info { overflow: hidden; }
+.site-avatar img { width: 40px; }
 
-.blog-title {
-  margin: 0;
-  display: inline;
-  font-size: 20px;
+.nav-center {
+  display: flex;
+  align-items: center;
+  gap: 24px;
   a {
     color: $darkGray;
     text-decoration: none;
-    &:hover { text-shadow: #ffc8c8 0 0 1px; }
+    font-size: 16px;
+    font-weight: 400;
+    &:hover { text-decoration: underline; }
   }
-  @include sm { font-size: 25px; }
-  @include lg { font-size: 28px; }
 }
 
-.blog-author {
-  display: inline;
-  font-style: italic;
-  margin: 0;
-  font-size: 16px;
-  @include sm { font-size: 20px; }
-  @include lg { font-size: 23px; }
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
-.blog-slogan {
-  margin: 0 0 0 2px;
-  color: #848484;
-  font-size: 18px;
-  line-height: 1.2;
-  @include sm { font-size: 21px; }
-  @include lg { font-size: 24px; }
+.nav-icon {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  color: $darkGray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:hover { opacity: 0.6; }
 }
 
 // =============================================================================
@@ -184,19 +179,8 @@ header {
 // =============================================================================
 
 nav {
-  text-align: center;
-  width: 100%;
-  font-size: 15px;
-  margin-bottom: 10px;
-  @include sm {
-    margin-left: auto;
-    font-size: 20px;
-    width: fit-content;
-    margin-bottom: 0;
-  }
   a {
     color: $darkGray;
-    margin: 0 5px;
     text-decoration: none;
   }
 }

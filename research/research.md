@@ -9,11 +9,9 @@ permalink: /research/
 <div class="research-page">
  
 <!-- HERO -->
-<div class="r-hero">
-  <h2 class="r-fade r-fade-d1">Spot football's next tactical shift <span class="r-shimmer">before anyone else.</span></h2>
-  <p class="r-sub-statement r-fade r-fade-d2">
-    An automated research pipeline that monitors football sources in every language, every hour. It detects emerging tactical patterns and publishes citation-checked reports on what's actually changing in the sport.
-  </p>
+<div class="r-hero r-hero-centered">
+  <h2 class="r-fade r-fade-d1">Research</h2>
+  <p class="r-sub-statement r-fade r-fade-d2">Discover football tactics first.</p>
   <div class="r-hero-actions r-fade r-fade-d3">
     <div class="r-waitlist-form">
       <form
@@ -22,8 +20,8 @@ permalink: /research/
         target="_blank"
       >
         <input type="hidden" name="tag" value="research-waitlist" />
-        <input type="email" name="email" placeholder="Your email" required />
-        <button type="submit">Join Waitlist</button>
+        <input type="email" name="email" placeholder="Enter your email..." required />
+        <button type="submit">Join waitlist</button>
       </form>
     </div>
   </div>

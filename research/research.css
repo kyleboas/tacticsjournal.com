@@ -72,6 +72,32 @@
   margin-bottom: 0;
 }
 
+/* Centered Hero */
+.r-hero-centered {
+  text-align: center;
+  padding: 80px 0 80px;
+}
+.r-hero-centered h2 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin-bottom: 12px;
+}
+.r-hero-centered .r-sub-statement {
+  font-size: 18px;
+  color: var(--text-secondary);
+}
+.r-hero-centered .r-hero-actions {
+  justify-content: center;
+}
+.r-hero-centered .r-waitlist-form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.r-hero-centered .r-waitlist-form form {
+  max-width: 480px;
+  width: 100%;
+}
+
 /* Hero Actions */
 .r-hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; align-items: center; }
 
