@@ -176,8 +176,11 @@
   border: 1px solid var(--border);
   border-radius: 9999px;
   padding: 4px 4px 4px 20px;
-  transition: border-color 0.15s ease;
-  &:focus-within { border-color: var(--text-secondary); }
+  transition: border-color 0.15s ease, box-shadow 0.3s ease;
+  &:focus-within { 
+    border-color: var(--text-secondary);
+    box-shadow: 0 0 0 3px rgba(43, 91, 238, 0.1);
+  }
 }
 .r-waitlist-form input[type="email"] {
   font-size: 14px;
@@ -198,8 +201,16 @@
   border: none;
   border-radius: 9999px;
   cursor: pointer;
-  transition: opacity 0.15s ease;
-  &:hover { opacity: 0.85; }
+  transition: opacity 0.15s ease, box-shadow 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 0 15px 2px rgba(43, 91, 238, 0.25);
+  &:hover { 
+    opacity: 0.95;
+    box-shadow: 0 0 20px 4px rgba(43, 91, 238, 0.35);
+    transform: translateY(-1px);
+  }
+  &:active {
+    transform: translateY(0);
+  }
 }
 
 /* GitHub Link */
