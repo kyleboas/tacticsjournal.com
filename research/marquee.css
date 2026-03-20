@@ -17,27 +17,6 @@
   margin-top: auto;
 }
 
-.research-marquee::before,
-.research-marquee::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 120px;
-  z-index: 10;
-  pointer-events: none;
-}
-
-.research-marquee::before {
-  left: 0;
-  background: linear-gradient(90deg, var(--bg-marquee), transparent);
-}
-
-.research-marquee::after {
-  right: 0;
-  background: linear-gradient(-90deg, var(--bg-marquee), transparent);
-}
-
 .research-row {
   display: flex;
   gap: 16px;
@@ -403,7 +382,6 @@
 
 @media (max-width: 768px) {
   .research-marquee { padding: 16px 0; --speed1: 40s; --speed2: 50s; }
-  .research-marquee::before, .research-marquee::after { width: 60px; }
   .research-row { gap: 12px; }
   .research-img-card { border-radius: 6px; }
   .research-press-img, .research-interview-img { width: 240px; height: 165px; }
@@ -413,7 +391,6 @@
 
 @media (max-width: 480px) {
   .research-marquee { --speed1: 30s; --speed2: 38s; }
-  .research-marquee::before, .research-marquee::after { width: 32px; }
   .research-press-img, .research-interview-img { width: 210px; height: 145px; }
   .research-podcast-img { width: 195px; height: 145px; }
   .research-headline { width: 165px; height: 145px; padding: 12px 14px; }
