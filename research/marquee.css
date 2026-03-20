@@ -51,21 +51,23 @@
 @keyframes tj-left  { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
 @keyframes tj-right { 0% { transform: translateX(-50%); } 100% { transform: translateX(0); } }
 
-/* Waveform animations for podcast cards */
-@keyframes tj-w1 { 0%,100% { height: 8px; y: 12; } 50% { height: 28px; y: 2; } }
-@keyframes tj-w2 { 0%,100% { height: 20px; y: 6; } 50% { height: 10px; y: 11; } }
-@keyframes tj-w3 { 0%,100% { height: 28px; y: 2; } 50% { height: 14px; y: 9; } }
-@keyframes tj-w4 { 0%,100% { height: 16px; y: 8; } 50% { height: 30px; y: 1; } }
-@keyframes tj-w5 { 0%,100% { height: 24px; y: 4; } 50% { height: 8px; y: 12; } }
-.tj-w1 { animation: tj-w1 1.1s ease-in-out infinite; }
-.tj-w2 { animation: tj-w2 0.9s ease-in-out infinite; }
-.tj-w3 { animation: tj-w3 1.3s ease-in-out infinite; }
-.tj-w4 { animation: tj-w4 1.0s ease-in-out infinite; }
-.tj-w5 { animation: tj-w5 1.2s ease-in-out infinite; }
+/* Waveform animations for podcast cards (scaleY transform) */
+@keyframes tj-w1 { 0%,100%{transform:scaleY(0.3)}50%{transform:scaleY(1)} }
+@keyframes tj-w2 { 0%,100%{transform:scaleY(0.7)}50%{transform:scaleY(0.35)} }
+@keyframes tj-w3 { 0%,100%{transform:scaleY(1)}50%{transform:scaleY(0.5)} }
+@keyframes tj-w4 { 0%,100%{transform:scaleY(0.55)}50%{transform:scaleY(1)} }
+@keyframes tj-w5 { 0%,100%{transform:scaleY(0.85)}50%{transform:scaleY(0.3)} }
 
-/* Pulse for LIVE badge dot */
-@keyframes tj-pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
-.tj-pulse-dot { animation: tj-pulse 1.8s infinite; }
+.tj-wv { transform-origin: center bottom; }
+.tj-wv1 { animation: tj-w1 1.1s ease-in-out infinite; }
+.tj-wv2 { animation: tj-w2 0.9s ease-in-out infinite; }
+.tj-wv3 { animation: tj-w3 1.3s ease-in-out infinite; }
+.tj-wv4 { animation: tj-w4 1.0s ease-in-out infinite; }
+.tj-wv5 { animation: tj-w5 1.2s ease-in-out infinite; }
+
+/* Progress bar crawl for podcast cards */
+@keyframes tj-prog { 0%{width:82px}100%{width:228px} }
+.tj-prog-fill { animation: tj-prog 30s linear infinite; }
 
 /* Cards */
 .tj-card {
