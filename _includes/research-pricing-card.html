@@ -1,0 +1,37 @@
+<div class="r-tier-card{% if include.featured %} r-tier-card--featured{% endif %}">
+  <div class="r-tier-head">
+    <div class="r-tier-head-row">
+      <div class="r-tier-name">{{ include.name }}</div>
+      {% if include.badge %}
+        <span class="r-tier-badge">{{ include.badge }}</span>
+      {% endif %}
+    </div>
+    {% if include.description %}
+      <p class="r-tier-description">{{ include.description }}</p>
+    {% endif %}
+  </div>
+
+  <div class="r-tier-price-row">
+    <span class="r-tier-price" {% if include.price_yearly %}data-price-monthly="{{ include.price }}" data-price-yearly="{{ include.price_yearly }}"{% endif %}>{{ include.price }}</span>
+    <span class="r-tier-price-suffix">{{ include.price_suffix | default: "/month" }}</span>
+  </div>
+  {% if include.yearly_note %}
+    <div class="r-tier-yearly-note" data-yearly-note style="display: none;">{{ include.yearly_note }}</div>
+  {% endif %}
+
+  <div class="r-tier-list">
+    {% if include.item_1 %}<div class="r-tier-list-item">{{ include.item_1 }}</div>{% endif %}
+    {% if include.item_2 %}<div class="r-tier-list-item">{{ include.item_2 }}</div>{% endif %}
+    {% if include.item_3 %}<div class="r-tier-list-item">{{ include.item_3 }}</div>{% endif %}
+    {% if include.item_3_x %}<div class="r-tier-list-item r-tier-list-item--x">{{ include.item_3_x }}</div>{% endif %}
+    {% if include.item_4 %}<div class="r-tier-list-item">{{ include.item_4 }}</div>{% endif %}
+    {% if include.item_5 %}<div class="r-tier-list-item">{{ include.item_5 }}</div>{% endif %}
+  </div>
+
+  <a
+    class="r-tier-cta{% if include.featured %} r-tier-cta--featured{% endif %}"
+    href="{{ include.cta_href | default: '#waitlist' }}"
+  >
+    {{ include.cta_text }}
+  </a>
+</div>
