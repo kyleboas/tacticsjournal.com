@@ -14,7 +14,7 @@ permalink: /research/
 <!-- HERO -->
 <div class="r-hero">
   <h2 class="r-fade r-fade-d1">Research</h2>
-  <p class="r-sub-statement r-fade r-fade-d2">See useful football ideas before they spread everywhere.</p>
+  <p class="r-sub-statement r-fade r-fade-d2">Spot trends in football before they become popular.</p>
   <div class="r-hero-actions r-fade r-fade-d3">
     {% include research-waitlist-form.html %}
   </div>
