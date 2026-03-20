@@ -381,7 +381,7 @@
    ============================================================ */
 
 @media (max-width: 768px) {
-  .research-marquee { padding: 16px 0; --speed1: 40s; --speed2: 50s; }
+  .research-marquee { padding: 40px 0; --speed1: 40s; --speed2: 50s; }
   .research-row { gap: 12px; }
   .research-img-card { border-radius: 6px; }
   .research-press-img, .research-interview-img { width: 240px; height: 165px; }
