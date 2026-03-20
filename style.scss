@@ -464,6 +464,7 @@ blockquote {
 .post-date, .post-num-words {
   color: #888;
   font-size: 14px;
+  margin-top: 0px;
   span { color: #ccc; }
   @include sm { font-size: 18px; }
   @include lg { font-size: 20px; }
