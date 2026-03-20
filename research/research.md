@@ -26,7 +26,7 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">The Problem</div>
   <p>
-    Tactical ideas appear in frontier sources — in any language — weeks before English-language coverage picks them up. No person can track 151 sources across every language in real time.
+    Tactical ideas appear in frontier sources, in any language, weeks before English-language coverage picks them up. No person can track 151 sources across every language in real time.
   </p>
 
   <!-- Interactive: Information Overload Graphic -->
@@ -49,7 +49,7 @@ permalink: /research/
       </svg>
     </div>
     <div class="r-overload-label">
-      <span class="r-overload-num">151</span> sources across every language — updated hourly
+      <span class="r-overload-num">151</span> sources across every language, updated hourly
     </div>
   </div>
 </div>
@@ -138,7 +138,7 @@ permalink: /research/
     </svg>
   </div>
 
-  <!-- Step details — concise -->
+  <!-- Step details -->
   <div class="r-steps-compact">
     <div class="r-step-compact" tabindex="0">
       <div class="r-step-header">
@@ -147,7 +147,7 @@ permalink: /research/
         <span class="r-step-expand">+</span>
       </div>
       <div class="r-step-detail">
-        Pulls from 118 RSS feeds and 33 YouTube channels in any language every hour. Full-text extraction, transcript processing, and vector embedding — every source tagged by tier, culture, and format.
+        Pulls from 118 RSS feeds and 33 YouTube channels in any language every hour. Full-text extraction, transcript processing, and vector embedding. Every source tagged by tier, culture, and format.
         <div class="r-tags">
           <span class="r-tag">RSS</span>
           <span class="r-tag">YouTube Transcripts</span>
@@ -195,7 +195,7 @@ permalink: /research/
 <!-- SELF-IMPROVING -->
 <div class="r-section">
   <div class="r-section-label">Self-Improving</div>
-  <p>The pipeline tunes itself. A separate autoresearch loop evaluates and optimizes each stage — changes only apply when they beat the current baseline.</p>
+  <p>The pipeline tunes itself. A separate autoresearch loop evaluates and optimizes each stage. Changes only apply when they beat the current baseline.</p>
 
   <!-- Interactive: Self-tuning loop SVG -->
   <div class="r-tuning-graphic">
@@ -274,7 +274,7 @@ permalink: /research/
       </div>
       <div class="r-offering-text">
         <div class="r-offering-title">Early Signals</div>
-        <div class="r-offering-desc">See what the pipeline is tracking before it becomes a full report — before English press picks it up.</div>
+        <div class="r-offering-desc">See what the pipeline is tracking before it becomes a full report, before English press picks it up.</div>
       </div>
     </div>
 
@@ -289,7 +289,7 @@ permalink: /research/
       </div>
       <div class="r-offering-text">
         <div class="r-offering-title">Cross-Language Coverage</div>
-        <div class="r-offering-desc">Content from any language — you get the patterns that emerge from monitoring sources no individual could track.</div>
+        <div class="r-offering-desc">Content from any language. You get the patterns that emerge from monitoring sources no individual could track.</div>
       </div>
     </div>
   </div>
@@ -374,7 +374,7 @@ permalink: /research/
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg>
         <span>Subscription</span>
       </div>
-      <div class="r-oss-body">Curated sources, tuned detection, daily reports — already running. Costs less than running it yourself.</div>
+      <div class="r-oss-body">Curated sources, tuned detection, daily reports. Already running. Costs less than running it yourself.</div>
     </div>
   </div>
 
@@ -393,7 +393,7 @@ permalink: /research/
   <div class="r-pricing-graphic">
     <div class="r-pricing-card">
       <div class="r-pricing-tbd">TBD</div>
-      <div class="r-pricing-explain">Subscription cost depends on waitlist interest. More signups means higher-quality models — and a lower per-person cost.</div>
+      <div class="r-pricing-explain">Subscription cost depends on waitlist interest. More signups means higher-quality models and a lower per-person cost.</div>
       <div class="r-pricing-guarantee">A subscription will cost less than running the pipeline yourself.</div>
     </div>
 
