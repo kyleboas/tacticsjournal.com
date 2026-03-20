@@ -58,7 +58,7 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        It looks for ideas that are showing up in smaller sources before they become common in mainstream coverage. Weak ideas get pushed back. Stronger ones move forward.
+        It looks for ideas that show up in blog posts, press conferences, podcasts, and interviews before they become common in mainstream coverage. Weak ideas get pushed back. Stronger ones move forward.
         <div class="r-tags">
           <span class="r-tag">Early Ideas</span>
           <span class="r-tag">Quality Filter</span>
@@ -74,7 +74,7 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        Only the best candidates become reports. Each report is researched, checked, and revised before it is published.
+        Only the best candidates become reports. Each report is researched, checked, and revised before it is published using a multi-model LLM.
         <div class="r-tags">
           <span class="r-tag">Research</span>
           <span class="r-tag">Checks</span>
@@ -95,7 +95,7 @@ permalink: /research/
 <!-- WHAT YOU GET -->
 <div class="r-section">
   <div class="r-section-label">What You Get</div>
-  <p>The main blog is written by Kyle Boas. The research section is where this system shows what it finds.</p>
+  <p>A deep research report in your inbox.</p>
 
   <div class="r-offerings">
     <div class="r-offering">
@@ -142,20 +142,11 @@ permalink: /research/
         </svg>
       </div>
       <div class="r-offering-text">
-        <div class="r-offering-title">Corpus + Live Web Research</div>
-        <div class="r-offering-desc">Research built from a stored archive first, with live web checking when needed.</div>
+        <div class="r-offering-title">Live Web Research</div>
+        <div class="r-offering-desc">Research built from a stored archive first, with live web fact-checking.</div>
       </div>
     </div>
   </div>
-</div>
-
-<!-- SOURCES -->
-<div class="r-section">
-  <div class="r-section-label">Sources</div>
-
-  <p class="r-audience">
-    For analysts, coaches, and clubs who want to spot useful ideas early.
-  </p>
 </div>
 
 <!-- OPEN SOURCE -->
@@ -170,7 +161,7 @@ permalink: /research/
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
         <span>Code</span>
       </div>
-      <div class="r-oss-body">Free &amp; open source. Clone, configure your feeds, run your own instance.</div>
+      <div class="r-oss-body">Free &amp; open source. Fork, configure your feeds, run your own instance. Setup instructions included in the repository.</div>
     </div>
     <div class="r-oss-divider">
       <span>vs</span>
@@ -180,7 +171,7 @@ permalink: /research/
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg>
         <span>Subscription</span>
       </div>
-      <div class="r-oss-body">A running version of the system, without having to set it up or manage it yourself.</div>
+      <div class="r-oss-body">A running version, without having to set it up or manage it yourself. The cost of a subscription will be less than </div>
     </div>
   </div>
 
@@ -200,7 +191,7 @@ permalink: /research/
     <div class="r-pricing-card">
       <div class="r-pricing-tbd">$0.85</div>
       <div class="r-pricing-explain">Right now the system aims to keep report cost to about $0.85 per report.</div>
-      <div class="r-pricing-guarantee">That limit can change as the system improves.</div>
+      <div class="r-pricing-guarantee">That limit can increased by how much interest.</div>
     </div>
 
     <!-- Visual: demand bar -->
@@ -220,7 +211,7 @@ permalink: /research/
 <div class="r-section" id="waitlist">
   <div class="r-section-label">Early Access</div>
   <p>
-    Join the waitlist for early reports and updates.
+    Join the waitlist to be notified when this goes live.
   </p>
   {% include research-waitlist-form.html %}
 </div>
