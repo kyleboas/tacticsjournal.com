@@ -41,7 +41,6 @@
   border-radius: 10px;
   margin-bottom: 8px;
   overflow: hidden;
-  cursor: pointer;
   transition: border-color 0.15s ease;
 }
 .r-step-compact:hover {
@@ -80,17 +79,10 @@
   transition: transform 0.2s ease;
 }
 .r-step-detail {
-  max-height: 0;
-  overflow: hidden;
-  padding: 0 18px;
+  padding: 0 18px 18px;
   font-size: 13px;
   line-height: 1.7;
   color: var(--text-secondary);
-  transition: max-height 0.35s ease, padding 0.35s ease;
-}
-.r-step-open .r-step-detail {
-  max-height: 300px;
-  padding: 0 18px 18px;
 }
 .r-step-detail .r-tags {
   display: flex;
