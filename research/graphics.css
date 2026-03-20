@@ -1,13 +1,12 @@
 /* ============================================================
    Section Graphics — Tactics Journal Research Page
-   Inline SVG graphics for each content section
+   Interactive SVG and HTML graphics for each content section
    ============================================================ */
 
 /* Shared graphic container */
 .r-section-graphic {
   margin: 32px 0;
   width: 100%;
-  overflow-x: auto;
 }
 .r-section-graphic svg {
   width: 100%;
@@ -15,20 +14,112 @@
   display: block;
 }
 
-/* Offering grid (What You Get) */
+/* Graphic caption */
+.r-graphic-caption {
+  text-align: center;
+  font-size: 11px;
+  color: var(--text-muted);
+  font-family: 'Geist Mono', monospace;
+  margin-top: 12px;
+  letter-spacing: 0.05em;
+}
+
+/* ============================================================
+   Source Network (The Problem)
+   ============================================================ */
+
+.r-source-network svg {
+  max-height: 200px;
+}
+
+.r-lang-node {
+  transition: opacity 0.3s ease;
+}
+
+.r-source-network:hover .r-lang-node {
+  opacity: 0.4;
+}
+.r-source-network:hover .r-lang-node:hover {
+  opacity: 1;
+}
+
+/* ============================================================
+   Pipeline Graphic (How It Works)
+   ============================================================ */
+
+.r-pipeline-graphic svg {
+  max-height: 180px;
+}
+
+/* Feed fill animation (Ingest stage) */
+@keyframes r-feed-pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.9; }
+}
+.r-feed-fill { animation: r-feed-pulse 2s ease-in-out infinite; }
+.r-f1 { animation-delay: 0s; }
+.r-f2 { animation-delay: 0.3s; }
+.r-f3 { animation-delay: 0.6s; }
+.r-f4 { animation-delay: 0.9s; }
+
+/* Pulse dots for signals (Detect stage) */
+@keyframes r-pulse-slow {
+  0%, 100% { opacity: 0.7; r: 3; }
+  50% { opacity: 0.2; r: 2; }
+}
+.r-pulse-dot-slow { animation: r-pulse-slow 2.4s ease-in-out infinite; }
+
+/* Report lines animation (Report stage) */
+@keyframes r-report-write {
+  0% { width: 0; opacity: 0; }
+  50% { opacity: 0.5; }
+  100% { opacity: 0.3; }
+}
+.r-report-line { animation: r-report-write 2s ease-out forwards; }
+.r-rl1 { animation-delay: 0.2s; }
+.r-rl2 { animation-delay: 0.6s; }
+.r-rl3 { animation-delay: 1.0s; }
+.r-rl4 { animation-delay: 1.4s; }
+
+/* Pipeline stage hover */
+.r-pipeline-stage rect {
+  transition: stroke 0.2s ease;
+}
+.r-pipeline-stage:hover rect {
+  stroke: var(--text-muted);
+}
+
+/* ============================================================
+   Offering Grid (What You Get)
+   ============================================================ */
+
 .r-offering-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 16px;
   margin: 32px 0;
 }
+
 .r-offering-card {
   border: 1px solid var(--border);
   border-radius: 12px;
   padding: 20px;
-  transition: border-color 0.15s ease;
+  transition: border-color 0.2s ease, transform 0.2s ease;
 }
-.r-offering-card:hover { border-color: var(--border-hover); }
+.r-offering-card:hover {
+  border-color: var(--border-hover);
+  transform: translateY(-2px);
+}
+
+.r-offering-visual {
+  margin-bottom: 12px;
+}
+.r-offering-visual svg {
+  width: 100%;
+  height: auto;
+  max-height: 100px;
+}
+
 .r-offering-num {
   font-family: 'Geist Mono', monospace;
   font-size: 10px;
@@ -46,35 +137,176 @@
   font-size: 12px;
   color: var(--text-muted);
   line-height: 1.5;
-  margin-bottom: 16px;
-}
-.r-offering-visual svg {
-  width: 100%;
-  height: auto;
 }
 
-/* Feed fill animation (Pipeline Ingest stage) */
-@keyframes r-feed-pulse {
-  0%, 100% { opacity: 0.6; }
-  50% { opacity: 1; }
-}
-.r-feed-fill { animation: r-feed-pulse 2s ease-in-out infinite; }
-.r-f1 { animation-delay: 0s; }
-.r-f2 { animation-delay: 0.3s; }
-.r-f3 { animation-delay: 0.6s; }
-.r-f4 { animation-delay: 0.9s; }
-.r-f5 { animation-delay: 1.2s; }
-.r-f6 { animation-delay: 1.5s; }
+/* ============================================================
+   Source Type Grid (Sources)
+   ============================================================ */
 
-/* Pulse dots for signals */
-@keyframes r-pulse-slow {
-  0%,100% { opacity: 0.4; }
-  50% { opacity: 0.15; }
+.r-source-type-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 24px 0;
 }
-.r-pulse-dot-slow { animation: r-pulse-slow 2.4s infinite; }
 
-/* Responsive */
+.r-source-type-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 20px 16px;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+  cursor: default;
+}
+.r-source-type-card:hover {
+  border-color: var(--border-hover);
+  transform: translateY(-2px);
+}
+.r-source-type-card svg {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 10px;
+}
+.r-source-type-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+.r-source-type-count {
+  font-size: 10px;
+  color: var(--text-muted);
+  font-family: 'Geist Mono', monospace;
+  letter-spacing: 0.05em;
+}
+
+/* ============================================================
+   Terminal Graphic (Open Source)
+   ============================================================ */
+
+.r-terminal {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  font-family: 'Geist Mono', 'JetBrains Mono', 'SF Mono', monospace;
+}
+
+.r-terminal-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  background: rgba(128, 128, 128, 0.03);
+}
+
+.r-terminal-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  opacity: 0.7;
+}
+
+.r-terminal-title {
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 30px;
+  letter-spacing: 0.05em;
+}
+
+.r-terminal-body {
+  padding: 16px 18px;
+  font-size: 12px;
+  line-height: 1.8;
+}
+
+.r-terminal-line {
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.r-terminal-prompt {
+  color: #57AB5A;
+  margin-right: 8px;
+  user-select: none;
+}
+
+.r-terminal-cmd {
+  color: var(--text);
+}
+
+.r-terminal-output {
+  color: var(--text-muted);
+  padding-left: 18px;
+}
+
+.r-terminal-success {
+  color: #57AB5A;
+}
+
+@keyframes r-cursor-blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+.r-terminal-cursor {
+  color: var(--text);
+  animation: r-cursor-blink 1s step-end infinite;
+  font-size: 11px;
+}
+
+/* ============================================================
+   Language bar animation (Cross-Language offering card)
+   ============================================================ */
+
+@keyframes r-lang-bar-grow {
+  0% { width: 0; }
+}
+.r-lang-bar {
+  animation: r-lang-bar-grow 1.5s ease-out forwards;
+}
+.r-lb1 { animation-delay: 0.1s; }
+.r-lb2 { animation-delay: 0.3s; }
+.r-lb3 { animation-delay: 0.5s; }
+.r-lb4 { animation-delay: 0.7s; }
+.r-lb5 { animation-delay: 0.9s; }
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+
 @media (max-width: 768px) {
   .r-offering-grid { grid-template-columns: 1fr; }
-  .r-section-graphic svg { min-width: 600px; }
+  .r-source-type-row { grid-template-columns: 1fr; }
+
+  .r-pipeline-graphic {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .r-pipeline-graphic svg {
+    min-width: 620px;
+  }
+
+  .r-source-network svg {
+    min-width: 500px;
+  }
+  .r-source-network {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media (max-width: 480px) {
+  .r-terminal-body {
+    font-size: 10px;
+    padding: 12px 14px;
+  }
+  .r-terminal-line {
+    white-space: normal;
+    word-break: break-all;
+  }
 }

@@ -26,16 +26,90 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">The Problem</div>
   <p>
-    Football tactics travel faster than anyone can follow. A manager changes shape mid-match in LaLiga. A defensive structure appears independently at three clubs across two leagues. A pressing trigger starts showing up in YouTube breakdowns in German, then French, then Portuguese — weeks before it surfaces in English-language coverage.
+    Tactical ideas spread across languages and leagues faster than anyone can follow. By the time a trend is widely discussed, it has already been adopted.
   </p>
-  <p>
-    No person can read 118 RSS feeds, watch 33 YouTube channels, and process press conferences, interviews, and analysis in eight languages. By the time a tactical trend is widely discussed, it has already been adopted. The information existed earlier. It was just scattered across too many sources for any individual to connect.
-  </p>
-  <div class="r-card">
-    <div class="r-card-label">From the Research Pipeline — Live</div>
-    <p>
-      The source network now covers 151 configured outlets: 118 RSS feeds and 33 YouTube channels. Every source is tagged by frontier vs. mainstream status, football culture, and format so the detector can surface ideas that are spreading in one part of the game before the big outlets package them for everyone else.
-    </p>
+
+  <!-- Interactive Source Network Graphic -->
+  <div class="r-section-graphic r-source-network">
+    <svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg">
+      <!-- Center hub -->
+      <circle cx="360" cy="100" r="28" fill="none" stroke="var(--text-muted)" stroke-width="1" opacity="0.3"/>
+      <circle cx="360" cy="100" r="16" fill="none" stroke="var(--text-muted)" stroke-width="1" opacity="0.5"/>
+      <circle cx="360" cy="100" r="5" fill="var(--text-muted)" opacity="0.6"/>
+
+      <!-- Language nodes with labels -->
+      <g class="r-lang-node r-ln1">
+        <circle cx="80" cy="50" r="4" fill="#E5534B"/>
+        <text x="80" y="72" text-anchor="middle" fill="var(--text-muted)" font-size="9" font-weight="500">EN</text>
+        <line x1="84" y1="50" x2="332" y2="100" stroke="#E5534B" stroke-width="0.5" opacity="0.2"/>
+        <circle cx="0" cy="0" r="2.5" fill="#E5534B" opacity="0.8">
+          <animateMotion dur="3s" repeatCount="indefinite" path="M84,50 L332,100" begin="0s"/>
+        </circle>
+      </g>
+      <g class="r-lang-node r-ln2">
+        <circle cx="140" cy="160" r="4" fill="#F0883E"/>
+        <text x="140" y="182" text-anchor="middle" fill="var(--text-muted)" font-size="9" font-weight="500">ES</text>
+        <line x1="144" y1="160" x2="344" y2="100" stroke="#F0883E" stroke-width="0.5" opacity="0.2"/>
+        <circle cx="0" cy="0" r="2.5" fill="#F0883E" opacity="0.8">
+          <animateMotion dur="3.4s" repeatCount="indefinite" path="M144,160 L344,100" begin="0.5s"/>
+        </circle>
+      </g>
+      <g class="r-lang-node r-ln3">
+        <circle cx="200" cy="30" r="4" fill="#539BF5"/>
+        <text x="200" y="52" text-anchor="middle" fill="var(--text-muted)" font-size="9" font-weight="500">FR</text>
+        <line x1="204" y1="30" x2="344" y2="100" stroke="#539BF5" stroke-width="0.5" opacity="0.2"/>
+        <circle cx="0" cy="0" r="2.5" fill="#539BF5" opacity="0.8">
+          <animateMotion dur="2.8s" repeatCount="indefinite" path="M204,30 L344,100" begin="1s"/>
+        </circle>
+      </g>
+      <g class="r-lang-node r-ln4">
+        <circle cx="260" cy="170" r="4" fill="#57AB5A"/>
+        <text x="260" y="192" text-anchor="middle" fill="var(--text-muted)" font-size="9" font-weight="500">DE</text>
+        <line x1="264" y1="170" x2="350" y2="105" stroke="#57AB5A" stroke-width="0.5" opacity="0.2"/>
+        <circle cx="0" cy="0" r="2.5" fill="#57AB5A" opacity="0.8">
+          <animateMotion dur="2.6s" repeatCount="indefinite" path="M264,170 L350,105" begin="0.3s"/>
+        </circle>
+      </g>
+      <g class="r-lang-node r-ln5">
+        <circle cx="460" cy="170" r="4" fill="#347D39"/>
+        <text x="460" y="192" text-anchor="middle" fill="var(--text-muted)" font-size="9" font-weight="500">PT</text>
+        <line x1="456" y1="170" x2="370" y2="105" stroke="#347D39" stroke-width="0.5" opacity="0.2"/>
+        <circle cx="0" cy="0" r="2.5" fill="#347D39" opacity="0.8">
+          <animateMotion dur="3.2s" repeatCount="indefinite" path="M456,170 L370,105" begin="0.8s"/>
+        </circle>
+      </g>
+      <g class="r-lang-node r-ln6">
+        <circle cx="520" cy="30" r="4" fill="#F0883E"/>
+        <text x="520" y="52" text-anchor="middle" fill="var(--text-muted)" font-size="9" font-weight="500">IT</text>
+        <line x1="516" y1="30" x2="376" y2="95" stroke="#F0883E" stroke-width="0.5" opacity="0.2"/>
+        <circle cx="0" cy="0" r="2.5" fill="#F0883E" opacity="0.8">
+          <animateMotion dur="2.9s" repeatCount="indefinite" path="M516,30 L376,95" begin="1.2s"/>
+        </circle>
+      </g>
+      <g class="r-lang-node r-ln7">
+        <circle cx="580" cy="150" r="4" fill="#A371F7"/>
+        <text x="580" y="172" text-anchor="middle" fill="var(--text-muted)" font-size="9" font-weight="500">NL</text>
+        <line x1="576" y1="150" x2="376" y2="100" stroke="#A371F7" stroke-width="0.5" opacity="0.2"/>
+        <circle cx="0" cy="0" r="2.5" fill="#A371F7" opacity="0.8">
+          <animateMotion dur="3.6s" repeatCount="indefinite" path="M576,150 L376,100" begin="0.6s"/>
+        </circle>
+      </g>
+      <g class="r-lang-node r-ln8">
+        <circle cx="640" cy="60" r="4" fill="#539BF5"/>
+        <text x="640" y="82" text-anchor="middle" fill="var(--text-muted)" font-size="9" font-weight="500">AR</text>
+        <line x1="636" y1="60" x2="388" y2="100" stroke="#539BF5" stroke-width="0.5" opacity="0.2"/>
+        <circle cx="0" cy="0" r="2.5" fill="#539BF5" opacity="0.8">
+          <animateMotion dur="3.1s" repeatCount="indefinite" path="M636,60 L388,100" begin="1.5s"/>
+        </circle>
+      </g>
+
+      <!-- Hub pulse -->
+      <circle cx="360" cy="100" r="5" fill="none" stroke="var(--text-muted)" opacity="0.3">
+        <animate attributeName="r" values="5;20;5" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.3;0;0.3" dur="3s" repeatCount="indefinite"/>
+      </circle>
+    </svg>
+    <div class="r-graphic-caption">151 sources · 8 languages · monitored hourly</div>
   </div>
 </div>
 
@@ -43,92 +117,78 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">How It Works</div>
   <p>
-    The research pipeline runs continuously. Three stages, fully automated, each building on the last.
+    Three automated stages run continuously — ingest, detect, report.
   </p>
 
-  <div class="r-flow">
-    <div class="r-flow-node">
-      <div class="r-flow-node-title">Ingest</div>
-      <div class="r-flow-node-sub">151 sources · hourly</div>
-    </div>
-    <div class="r-flow-arrow">→</div>
-    <div class="r-flow-node">
-      <div class="r-flow-node-title">Detect</div>
-      <div class="r-flow-node-sub">Frontier-gap + weak-signal</div>
-    </div>
-    <div class="r-flow-arrow">→</div>
-    <div class="r-flow-node">
-      <div class="r-flow-node-title">Report</div>
-      <div class="r-flow-node-sub">Finding-first, cited</div>
-    </div>
-  </div>
-  <div class="r-flow-note">↻ A separate autoresearch loop evaluates ingest, detect, and report policy changes and applies them when the evidence is good enough.</div>
+  <!-- Interactive Pipeline Graphic -->
+  <div class="r-section-graphic r-pipeline-graphic">
+    <svg viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg">
+      <!-- Stage 1: Ingest -->
+      <g class="r-pipeline-stage">
+        <rect x="20" y="30" width="180" height="100" rx="12" fill="none" stroke="var(--border)" stroke-width="1"/>
+        <text x="110" y="58" text-anchor="middle" fill="var(--text)" font-size="14" font-weight="600">Ingest</text>
+        <!-- Animated feed bars -->
+        <rect x="45" y="72" width="50" height="4" rx="2" fill="#E5534B" class="r-feed-fill r-f1"/>
+        <rect x="45" y="82" width="40" height="4" rx="2" fill="#539BF5" class="r-feed-fill r-f2"/>
+        <rect x="45" y="92" width="55" height="4" rx="2" fill="#57AB5A" class="r-feed-fill r-f3"/>
+        <rect x="45" y="102" width="35" height="4" rx="2" fill="#F0883E" class="r-feed-fill r-f4"/>
+        <!-- Feed icons -->
+        <text x="115" y="80" text-anchor="start" fill="var(--text-muted)" font-size="9" font-family="'Geist Mono', monospace">118 RSS</text>
+        <text x="115" y="95" text-anchor="start" fill="var(--text-muted)" font-size="9" font-family="'Geist Mono', monospace">33 YouTube</text>
+        <text x="115" y="110" text-anchor="start" fill="var(--text-muted)" font-size="9" font-family="'Geist Mono', monospace">8 languages</text>
+      </g>
 
-  <div style="margin-top: 36px;">
-  <div class="r-step">
-    <div class="r-step-num">01</div>
-    <div>
-      <div class="r-step-title">Ingest</div>
-      <div class="r-step-body">
-        Every hour, the pipeline pulls from 118 RSS feeds and 33 YouTube channels across eight languages. RSS items are fetched directly, long-form article text and video transcripts are extracted, and every source is tagged with metadata about tier, culture, and format before it is chunked and embedded for retrieval. It reads what the best analysts read — in every language they write in.
-      </div>
-      <div class="r-tags">
-        <span class="r-tag">RSS</span>
-        <span class="r-tag">YouTube Transcripts</span>
-        <span class="r-tag">Full-Text Extraction</span>
-        <span class="r-tag">Source Taxonomy</span>
-        <span class="r-tag">Vector Embeddings</span>
-      </div>
-    </div>
-  </div>
+      <!-- Arrow 1 -->
+      <g class="r-pipeline-arrow">
+        <line x1="210" y1="80" x2="260" y2="80" stroke="var(--text-muted)" stroke-width="1" opacity="0.3"/>
+        <circle cx="0" cy="0" r="3" fill="var(--text-muted)" opacity="0.6">
+          <animateMotion dur="1.5s" repeatCount="indefinite" path="M210,80 L260,80" begin="0s"/>
+        </circle>
+      </g>
 
-  <div class="r-step">
-    <div class="r-step-num">02</div>
-    <div>
-      <div class="r-step-title">Detect</div>
-      <div class="r-step-body">
-        Two complementary detectors run before report generation. A frontier-gap detector looks for ideas circulating across independent frontier sources before they cross into mainstream coverage. A BERTrend-inspired weak-signal detector clusters the corpus over time and tracks what is actually accelerating. Candidates are then rescored for novelty, source diversity, cross-culture spread, and spoken primary-source evidence from press conferences, interviews, and podcasts.
-      </div>
-      <div class="r-tags">
-        <span class="r-tag">Frontier Gap Detection</span>
-        <span class="r-tag">Weak-Signal Clustering</span>
-        <span class="r-tag">Novelty Scoring</span>
-        <span class="r-tag">Cross-Culture Scoring</span>
-        <span class="r-tag">Spoken Primary Sources</span>
-      </div>
-    </div>
-  </div>
+      <!-- Stage 2: Detect -->
+      <g class="r-pipeline-stage">
+        <rect x="270" y="30" width="180" height="100" rx="12" fill="none" stroke="var(--border)" stroke-width="1"/>
+        <text x="360" y="58" text-anchor="middle" fill="var(--text)" font-size="14" font-weight="600">Detect</text>
+        <!-- Signal dots cluster -->
+        <circle cx="310" cy="82" r="3" fill="#E5534B" class="r-pulse-dot-slow" style="animation-delay:0s"/>
+        <circle cx="325" cy="76" r="2.5" fill="#539BF5" class="r-pulse-dot-slow" style="animation-delay:0.4s"/>
+        <circle cx="340" cy="90" r="3.5" fill="#57AB5A" class="r-pulse-dot-slow" style="animation-delay:0.8s"/>
+        <circle cx="330" cy="100" r="2" fill="#F0883E" class="r-pulse-dot-slow" style="animation-delay:1.2s"/>
+        <circle cx="315" cy="95" r="2.5" fill="#A371F7" class="r-pulse-dot-slow" style="animation-delay:0.6s"/>
+        <!-- Labels -->
+        <text x="365" y="80" text-anchor="start" fill="var(--text-muted)" font-size="9" font-family="'Geist Mono', monospace">frontier gap</text>
+        <text x="365" y="95" text-anchor="start" fill="var(--text-muted)" font-size="9" font-family="'Geist Mono', monospace">weak signal</text>
+        <text x="365" y="110" text-anchor="start" fill="var(--text-muted)" font-size="9" font-family="'Geist Mono', monospace">novelty score</text>
+      </g>
 
-  <div class="r-step">
-    <div class="r-step-num">03</div>
-    <div>
-      <div class="r-step-title">Report</div>
-      <div class="r-step-body">
-        When a candidate clears the quality gate, a multi-agent research team activates. A lead researcher decomposes the question, parallel sub-agents investigate the evidence, spread, mechanism, and counterevidence, and a synthesis pass turns the work into a finding-first report. Then a dedicated citation pass checks every non-obvious claim before final revision. Every claim is traced back to its source.
-      </div>
-      <div class="r-tags">
-        <span class="r-tag">Multi-Agent Research</span>
-        <span class="r-tag">Finding-First Reports</span>
-        <span class="r-tag">Citation Verification</span>
-        <span class="r-tag">Quality Gates</span>
-        <span class="r-tag">Automated Publishing</span>
-      </div>
-    </div>
-  </div>
-  </div>
-</div>
+      <!-- Arrow 2 -->
+      <g class="r-pipeline-arrow">
+        <line x1="460" y1="80" x2="510" y2="80" stroke="var(--text-muted)" stroke-width="1" opacity="0.3"/>
+        <circle cx="0" cy="0" r="3" fill="var(--text-muted)" opacity="0.6">
+          <animateMotion dur="1.5s" repeatCount="indefinite" path="M460,80 L510,80" begin="0.5s"/>
+        </circle>
+      </g>
 
-<!-- SELF-IMPROVING -->
-<div class="r-section">
-  <div class="r-section-label">Self-Improving</div>
-  <p>
-    The pipeline doesn't just run — it tunes itself. A separate autoresearch loop evaluates ingest policy, detect policy, and report policy from observed outcomes, then applies changes only when they improve the baseline. That means the source-overlap windows, report gates, and report-generation parameters keep moving toward better quality without requiring a human to babysit every knob.
-  </p>
-  <div class="r-card">
-    <div class="r-card-label">Hourly Autoresearch Loop</div>
-    <p>
-      Ingest policy optimization uses historical source lag and volume. Detect policy evaluation replays candidate decisions without paid model calls. Report policy optimization simulates quality and cost tradeoffs, enforces a per-report budget target, and only writes a new live policy when it beats the current one.
-    </p>
+      <!-- Stage 3: Report -->
+      <g class="r-pipeline-stage">
+        <rect x="520" y="30" width="180" height="100" rx="12" fill="none" stroke="var(--border)" stroke-width="1"/>
+        <text x="610" y="58" text-anchor="middle" fill="var(--text)" font-size="14" font-weight="600">Report</text>
+        <!-- Document lines animation -->
+        <rect x="545" y="72" width="65" height="3" rx="1.5" fill="var(--text-muted)" opacity="0.3" class="r-report-line r-rl1"/>
+        <rect x="545" y="81" width="50" height="3" rx="1.5" fill="var(--text-muted)" opacity="0.3" class="r-report-line r-rl2"/>
+        <rect x="545" y="90" width="60" height="3" rx="1.5" fill="var(--text-muted)" opacity="0.3" class="r-report-line r-rl3"/>
+        <rect x="545" y="99" width="40" height="3" rx="1.5" fill="var(--text-muted)" opacity="0.3" class="r-report-line r-rl4"/>
+        <!-- Labels -->
+        <text x="625" y="80" text-anchor="start" fill="var(--text-muted)" font-size="9" font-family="'Geist Mono', monospace">multi-agent</text>
+        <text x="625" y="95" text-anchor="start" fill="var(--text-muted)" font-size="9" font-family="'Geist Mono', monospace">cited</text>
+        <text x="625" y="110" text-anchor="start" fill="var(--text-muted)" font-size="9" font-family="'Geist Mono', monospace">quality gate</text>
+      </g>
+
+      <!-- Feedback loop arrow (bottom) -->
+      <path d="M610,135 L610,148 L110,148 L110,135" fill="none" stroke="var(--text-muted)" stroke-width="0.8" opacity="0.2" stroke-dasharray="4 4"/>
+      <text x="360" y="156" text-anchor="middle" fill="var(--text-muted)" font-size="8" font-family="'Geist Mono', monospace" opacity="0.5">autoresearch loop — self-tuning</text>
+    </svg>
   </div>
 </div>
 
@@ -136,36 +196,92 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">What You Get</div>
   <p>
-    The main Tactics Journal blog remains written by Kyle Boas — observation, analysis, argument built brick by brick. The research section is different. It's what the pipeline sees across 151 sources that no individual could track alone.
+    One new report every day. One per week is free. Full access for subscribers.
   </p>
-  <p>
-    One new report publishes every day. One report per week is free to read. Full access to the daily reports, early signals, and the complete archive is available to subscribers.
-  </p>
-  <div class="r-step">
-    <div class="r-step-num">01</div>
-    <div>
-      <div class="r-step-title">Daily Trend Reports</div>
-      <div class="r-step-body">
-        One full-length, citation-checked report every day on an emerging idea, method, or tactical pattern detected across the source network. Each report traces the signal back to its origin — which frontier sources surfaced it first, how it spread across cultures, and why it matters. One report per week is free. Reports publish at <span class="r-mono">/research/year/month/day/title/</span>
+
+  <div class="r-offering-grid">
+    <!-- Daily Reports -->
+    <div class="r-offering-card">
+      <div class="r-offering-visual">
+        <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+          <!-- Calendar/report stack -->
+          <rect x="50" y="20" width="100" height="80" rx="6" fill="none" stroke="var(--border)" stroke-width="1"/>
+          <rect x="60" y="35" width="60" height="3" rx="1.5" fill="var(--text-muted)" opacity="0.4"/>
+          <rect x="60" y="44" width="45" height="3" rx="1.5" fill="var(--text-muted)" opacity="0.3"/>
+          <rect x="60" y="53" width="55" height="3" rx="1.5" fill="var(--text-muted)" opacity="0.3"/>
+          <rect x="60" y="62" width="40" height="3" rx="1.5" fill="var(--text-muted)" opacity="0.2"/>
+          <!-- Citation dot -->
+          <circle cx="135" cy="37" r="3" fill="#E5534B" opacity="0.6"/>
+          <circle cx="135" cy="46" r="3" fill="#539BF5" opacity="0.6"/>
+          <!-- Daily indicator -->
+          <rect x="60" y="75" width="20" height="12" rx="3" fill="#E5534B" opacity="0.15"/>
+          <text x="70" y="83.5" text-anchor="middle" fill="#E5534B" font-size="7" font-weight="600">1/d</text>
+        </svg>
       </div>
+      <div class="r-offering-num">01</div>
+      <div class="r-offering-title">Daily Trend Reports</div>
+      <div class="r-offering-desc">Citation-checked analysis of an emerging tactical pattern, traced to its origin sources.</div>
     </div>
-  </div>
-  <div class="r-step">
-    <div class="r-step-num">02</div>
-    <div>
-      <div class="r-step-title">Early Signals</div>
-      <div class="r-step-body">
-        Access to trend candidates before they become full reports. See what the pipeline is tracking, what's gaining momentum, and what just appeared on the radar — before the English-language press picks it up.
+
+    <!-- Early Signals -->
+    <div class="r-offering-card">
+      <div class="r-offering-visual">
+        <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+          <!-- Radar/signal visualization -->
+          <circle cx="100" cy="60" r="40" fill="none" stroke="var(--border)" stroke-width="0.5"/>
+          <circle cx="100" cy="60" r="25" fill="none" stroke="var(--border)" stroke-width="0.5"/>
+          <circle cx="100" cy="60" r="10" fill="none" stroke="var(--border)" stroke-width="0.5"/>
+          <!-- Sweep line -->
+          <line x1="100" y1="60" x2="140" y2="60" stroke="var(--text-muted)" stroke-width="0.8" opacity="0.4">
+            <animateTransform attributeName="transform" type="rotate" from="0 100 60" to="360 100 60" dur="4s" repeatCount="indefinite"/>
+          </line>
+          <!-- Signal dots -->
+          <circle cx="118" cy="45" r="3" fill="#57AB5A" class="r-pulse-dot-slow" style="animation-delay:0s"/>
+          <circle cx="85" cy="42" r="2.5" fill="#F0883E" class="r-pulse-dot-slow" style="animation-delay:0.6s"/>
+          <circle cx="125" cy="70" r="2" fill="#539BF5" class="r-pulse-dot-slow" style="animation-delay:1.2s"/>
+        </svg>
       </div>
+      <div class="r-offering-num">02</div>
+      <div class="r-offering-title">Early Signals</div>
+      <div class="r-offering-desc">See what the pipeline is tracking before the English-language press picks it up.</div>
     </div>
-  </div>
-  <div class="r-step">
-    <div class="r-step-num">03</div>
-    <div>
-      <div class="r-step-title">Cross-Language Coverage</div>
-      <div class="r-step-body">
-        The pipeline reads more football analysis in a day than any person could read in a month. English, Spanish, French, German, Portuguese, Italian, Dutch, and Arabic — you get the patterns that emerge from that volume.
+
+    <!-- Cross-Language -->
+    <div class="r-offering-card">
+      <div class="r-offering-visual">
+        <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+          <!-- Language bars -->
+          <rect x="30" y="25" width="80" height="8" rx="4" fill="#E5534B" opacity="0.2"/>
+          <rect x="30" y="25" width="65" height="8" rx="4" fill="#E5534B" opacity="0.5" class="r-lang-bar r-lb1"/>
+          <text x="118" y="32" fill="var(--text-muted)" font-size="8" font-family="'Geist Mono', monospace">EN</text>
+
+          <rect x="30" y="39" width="80" height="8" rx="4" fill="#F0883E" opacity="0.2"/>
+          <rect x="30" y="39" width="55" height="8" rx="4" fill="#F0883E" opacity="0.5" class="r-lang-bar r-lb2"/>
+          <text x="118" y="46" fill="var(--text-muted)" font-size="8" font-family="'Geist Mono', monospace">ES</text>
+
+          <rect x="30" y="53" width="80" height="8" rx="4" fill="#539BF5" opacity="0.2"/>
+          <rect x="30" y="53" width="48" height="8" rx="4" fill="#539BF5" opacity="0.5" class="r-lang-bar r-lb3"/>
+          <text x="118" y="60" fill="var(--text-muted)" font-size="8" font-family="'Geist Mono', monospace">FR</text>
+
+          <rect x="30" y="67" width="80" height="8" rx="4" fill="#57AB5A" opacity="0.2"/>
+          <rect x="30" y="67" width="52" height="8" rx="4" fill="#57AB5A" opacity="0.5" class="r-lang-bar r-lb4"/>
+          <text x="118" y="74" fill="var(--text-muted)" font-size="8" font-family="'Geist Mono', monospace">DE</text>
+
+          <rect x="30" y="81" width="80" height="8" rx="4" fill="#347D39" opacity="0.2"/>
+          <rect x="30" y="81" width="42" height="8" rx="4" fill="#347D39" opacity="0.5" class="r-lang-bar r-lb5"/>
+          <text x="118" y="88" fill="var(--text-muted)" font-size="8" font-family="'Geist Mono', monospace">PT +4</text>
+
+          <!-- Connection lines -->
+          <path d="M140,32 Q160,50 140,60" fill="none" stroke="var(--text-muted)" stroke-width="0.5" opacity="0.3"/>
+          <path d="M140,46 Q155,55 140,74" fill="none" stroke="var(--text-muted)" stroke-width="0.5" opacity="0.3"/>
+          <!-- Cross indicator -->
+          <circle cx="160" cy="55" r="10" fill="none" stroke="var(--text-muted)" stroke-width="0.5" opacity="0.3"/>
+          <text x="160" y="58" text-anchor="middle" fill="var(--text-muted)" font-size="7" opacity="0.5">×</text>
+        </svg>
       </div>
+      <div class="r-offering-num">03</div>
+      <div class="r-offering-title">Cross-Language Coverage</div>
+      <div class="r-offering-desc">Eight languages. Patterns that emerge from volume no individual could process.</div>
     </div>
   </div>
 </div>
@@ -173,19 +289,16 @@ permalink: /research/
 <!-- SOURCES -->
 <div class="r-section">
   <div class="r-section-label">Sources</div>
-  <p>
-    The pipeline reads what the best analysts read — and everything they don't have time to. Sources span eight languages, every major European league, and both written analysis and video breakdowns.
-  </p>
 
   <div class="r-stat-grid">
     <div class="r-stat-card">
       <div class="r-stat-num">151</div>
-      <div class="r-stat-label">Sources Monitored</div>
+      <div class="r-stat-label">Sources</div>
       <div class="r-stat-sub">118 RSS · 33 YouTube</div>
     </div>
     <div class="r-stat-card">
       <div class="r-stat-num">3</div>
-      <div class="r-stat-label">Source Dimensions</div>
+      <div class="r-stat-label">Dimensions</div>
       <div class="r-stat-sub">Tier · culture · format</div>
     </div>
     <div class="r-stat-card">
@@ -194,29 +307,44 @@ permalink: /research/
     </div>
   </div>
 
-  <div class="r-card">
-    <div class="r-card-label">Written Analysis</div>
-    <p>
-      The Athletic, Coaches' Voice, StatsBomb, Tifo, Spielverlagerung, Total Football Analysis, Between The Posts, Analytics United, and 100+ independent analysts on Substack and personal sites.
-    </p>
-  </div>
-
-  <div class="r-card">
-    <div class="r-card-label">Video Sources</div>
-    <p>
-      Tifo Football, Statman Dave, Football Made Simple, Premier League, LaLiga, Serie A, Bundesliga, L'Équipe, El Chiringuito TV, beIN SPORTS Arabic, NOS Sport, DAZN Italia, Sky Sport Italia — transcripts extracted and processed for tactical content.
-    </p>
-  </div>
-
-  <div class="r-card">
-    <div class="r-card-label">Languages</div>
-    <p>
-      English, Spanish, French, German, Portuguese, Italian, Dutch, and Arabic. Press conferences, post-match analysis, tactical breakdowns, and transfer reporting from across European football — not just the Premier League bubble.
-    </p>
+  <!-- Interactive Source Grid -->
+  <div class="r-section-graphic r-source-grid-graphic">
+    <div class="r-source-type-row">
+      <div class="r-source-type-card" data-hover="Written analysis, stats, tactical breakdowns">
+        <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="6" width="24" height="28" rx="3" fill="none" stroke="var(--text-muted)" stroke-width="1" opacity="0.5"/>
+          <rect x="12" y="12" width="16" height="2" rx="1" fill="var(--text-muted)" opacity="0.4"/>
+          <rect x="12" y="17" width="12" height="2" rx="1" fill="var(--text-muted)" opacity="0.3"/>
+          <rect x="12" y="22" width="14" height="2" rx="1" fill="var(--text-muted)" opacity="0.3"/>
+          <rect x="12" y="27" width="10" height="2" rx="1" fill="var(--text-muted)" opacity="0.2"/>
+        </svg>
+        <span class="r-source-type-label">Written Analysis</span>
+        <span class="r-source-type-count">118 feeds</span>
+      </div>
+      <div class="r-source-type-card" data-hover="Video breakdowns, press conferences, interviews">
+        <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+          <rect x="6" y="9" width="28" height="22" rx="3" fill="none" stroke="var(--text-muted)" stroke-width="1" opacity="0.5"/>
+          <polygon points="17,15 17,26 26,20.5" fill="var(--text-muted)" opacity="0.4"/>
+        </svg>
+        <span class="r-source-type-label">Video Sources</span>
+        <span class="r-source-type-count">33 channels</span>
+      </div>
+      <div class="r-source-type-card" data-hover="Press conferences, post-match, tactical breakdowns in 8 languages">
+        <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="20" cy="20" r="13" fill="none" stroke="var(--text-muted)" stroke-width="1" opacity="0.5"/>
+          <ellipse cx="20" cy="20" rx="6" ry="13" fill="none" stroke="var(--text-muted)" stroke-width="0.7" opacity="0.3"/>
+          <line x1="7" y1="20" x2="33" y2="20" stroke="var(--text-muted)" stroke-width="0.5" opacity="0.3"/>
+          <line x1="9" y1="14" x2="31" y2="14" stroke="var(--text-muted)" stroke-width="0.5" opacity="0.2"/>
+          <line x1="9" y1="26" x2="31" y2="26" stroke="var(--text-muted)" stroke-width="0.5" opacity="0.2"/>
+        </svg>
+        <span class="r-source-type-label">8 Languages</span>
+        <span class="r-source-type-count">EN ES FR DE PT IT NL AR</span>
+      </div>
+    </div>
   </div>
 
   <p class="r-audience">
-    For individuals, analysts, coaches, and clubs who want to see what's happening before it's obvious.
+    For analysts, coaches, and clubs who want to see what's happening before it's obvious.
   </p>
 </div>
 
@@ -224,22 +352,46 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">Open Source</div>
   <p>
-    The entire research pipeline is open source. You can inspect how it works, run it yourself, or adapt it for your own sources and use case.
+    The entire pipeline is open source. Inspect it, run it, or adapt it.
   </p>
-  <div class="r-card">
-    <div class="r-card-label">GitHub Repository</div>
-    <p>
-      The pipeline code, detection algorithms, report generation logic, and self-tuning harness are all public. Clone the repo, configure your own feeds and API keys, and run your own instance. Full setup instructions included.
-    </p>
-    <p style="margin-top: 8px;">
-      <a href="https://github.com/kyleboas/research" target="_blank" class="r-github-link">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
-        View on GitHub
-      </a>
-    </p>
+
+  <!-- Terminal Graphic -->
+  <div class="r-section-graphic r-terminal-graphic">
+    <div class="r-terminal">
+      <div class="r-terminal-bar">
+        <span class="r-terminal-dot" style="background:#E5534B"></span>
+        <span class="r-terminal-dot" style="background:#F0883E"></span>
+        <span class="r-terminal-dot" style="background:#57AB5A"></span>
+        <span class="r-terminal-title">terminal</span>
+      </div>
+      <div class="r-terminal-body">
+        <div class="r-terminal-line">
+          <span class="r-terminal-prompt">$</span>
+          <span class="r-terminal-cmd">git clone https://github.com/kyleboas/research</span>
+        </div>
+        <div class="r-terminal-line r-terminal-output">Cloning into 'research'...</div>
+        <div class="r-terminal-line">
+          <span class="r-terminal-prompt">$</span>
+          <span class="r-terminal-cmd">cd research && make run</span>
+        </div>
+        <div class="r-terminal-line r-terminal-output">▸ Ingest: 151 sources configured</div>
+        <div class="r-terminal-line r-terminal-output">▸ Detect: frontier-gap + weak-signal active</div>
+        <div class="r-terminal-line r-terminal-output r-terminal-success">▸ Pipeline running</div>
+        <div class="r-terminal-line">
+          <span class="r-terminal-prompt">$</span>
+          <span class="r-terminal-cursor">█</span>
+        </div>
+      </div>
+    </div>
   </div>
+  <p style="margin-top: 12px;">
+    <a href="https://github.com/kyleboas/research" target="_blank" class="r-github-link">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+      View on GitHub
+    </a>
+  </p>
   <p>
-    What you're paying for with a subscription is not the software — it's the curated source network, the tuned detection policies, the daily reports, and the fact that it's already running. The code is free. The intelligence is the product.
+    The code is free. The intelligence — curated sources, tuned detection, daily reports — is the product.
   </p>
 </div>
 
@@ -247,7 +399,7 @@ permalink: /research/
 <div class="r-section" id="waitlist">
   <div class="r-section-label">Early Access</div>
   <p>
-    The pipeline is already running. Early access opens to the waitlist first — daily reports, early signals, and cross-language coverage before it's public.
+    The pipeline is running. Early access opens to the waitlist first.
   </p>
   {% include research-waitlist-form.html %}
 </div>
