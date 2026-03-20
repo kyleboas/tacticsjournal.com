@@ -1,6 +1,5 @@
 /* ============================================================
    Section Graphics — Tactics Journal Research Page
-   Interactive SVG + HTML graphics for each content section
    ============================================================ */
 
 /* Language color palette */
@@ -19,10 +18,6 @@
 }
 
 /* Shared animation entrance */
-.r-pipeline-graphic,
-.r-tuning-graphic,
-.r-source-network,
-.r-graphic-overload,
 .r-offerings,
 .r-oss-compare,
 .r-pricing-graphic {
@@ -33,208 +28,6 @@
 .r-visible {
   opacity: 1;
   transform: translateY(0);
-}
-
-/* ============================================================
-   Overload Graphic (The Problem section)
-   ============================================================ */
-.r-graphic-overload {
-  margin: 28px 0;
-}
-.r-overload-volume {
-  max-width: 400px;
-  margin: 0 auto;
-}
-.r-volume-svg {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-.r-stream {
-  stroke: var(--text-muted);
-  stroke-width: 1.5;
-  opacity: 0.3;
-  stroke-dasharray: 4 3;
-}
-.r-stream-1 { animation: r-stream-flow 2s ease-in-out infinite 0s; }
-.r-stream-2 { animation: r-stream-flow 2s ease-in-out infinite 0.3s; }
-.r-stream-3 { animation: r-stream-flow 2s ease-in-out infinite 0.6s; }
-.r-stream-4 { animation: r-stream-flow 2s ease-in-out infinite 0.9s; }
-.r-stream-5 { animation: r-stream-flow 2s ease-in-out infinite 1.2s; }
-@keyframes r-stream-flow {
-  0%, 100% { opacity: 0.15; }
-  50% { opacity: 0.5; }
-}
-.r-funnel-dot {
-  fill: var(--accent-detect);
-  opacity: 0.7;
-}
-.r-stream-out {
-  stroke: var(--accent-report);
-  stroke-width: 2;
-  opacity: 0.5;
-}
-.r-volume-label {
-  font-size: 9px;
-  fill: var(--text-muted);
-  text-anchor: middle;
-  font-family: 'Geist Mono', monospace;
-}
-.r-overload-label {
-  text-align: center;
-  font-size: 12px;
-  color: var(--text-muted);
-  margin-top: 14px;
-  font-family: 'Geist Mono', monospace;
-}
-.r-overload-num {
-  font-weight: 700;
-  color: var(--text);
-}
-
-/* ============================================================
-   Pipeline SVG Graphic (How It Works)
-   ============================================================ */
-.r-pipeline-graphic {
-  margin: 28px 0 20px;
-  width: 100%;
-  overflow-x: auto;
-}
-.r-pipeline-svg {
-  width: 100%;
-  height: auto;
-  display: block;
-  min-width: 500px;
-}
-/* Stage box fills */
-.r-pipe-box {
-  stroke: var(--border);
-  stroke-width: 1.5;
-  transition: stroke 0.3s ease, fill 0.3s ease;
-}
-.r-pipe-stage-1 .r-pipe-box { fill: rgba(83, 155, 245, 0.06); }
-.r-pipe-stage-2 .r-pipe-box { fill: rgba(163, 113, 247, 0.06); }
-.r-pipe-stage-3 .r-pipe-box { fill: rgba(87, 171, 90, 0.06); }
-@media (prefers-color-scheme: dark) {
-  .r-pipe-stage-1 .r-pipe-box { fill: rgba(83, 155, 245, 0.08); }
-  .r-pipe-stage-2 .r-pipe-box { fill: rgba(163, 113, 247, 0.08); }
-  .r-pipe-stage-3 .r-pipe-box { fill: rgba(87, 171, 90, 0.08); }
-}
-.r-pipe-stage:hover .r-pipe-box {
-  stroke: var(--text-muted);
-}
-.r-pipe-stage-1:hover .r-pipe-box { stroke: var(--accent-ingest); }
-.r-pipe-stage-2:hover .r-pipe-box { stroke: var(--accent-detect); }
-.r-pipe-stage-3:hover .r-pipe-box { stroke: var(--accent-report); }
-
-.r-pipe-title {
-  font-size: 16px;
-  font-weight: 600;
-  fill: var(--text);
-  text-anchor: middle;
-}
-.r-pipe-stage-1 .r-pipe-title { fill: var(--accent-ingest); }
-.r-pipe-stage-2 .r-pipe-title { fill: var(--accent-detect); }
-.r-pipe-stage-3 .r-pipe-title { fill: var(--accent-report); }
-.r-pipe-sub {
-  font-size: 10px;
-  fill: var(--text-muted);
-  text-anchor: middle;
-  font-family: 'Geist Mono', monospace;
-}
-
-/* Feed bars inside Ingest */
-.r-pipe-feed {
-  fill: var(--accent-ingest);
-  opacity: 0.3;
-}
-.r-feed-anim {
-  animation: r-feed-pulse 2s ease-in-out infinite;
-}
-@keyframes r-feed-pulse {
-  0%, 100% { opacity: 0.15; }
-  50% { opacity: 0.55; }
-}
-.r-f1 { animation-delay: 0s; }
-.r-f2 { animation-delay: 0.3s; }
-.r-f3 { animation-delay: 0.6s; }
-.r-f4 { animation-delay: 0.9s; }
-.r-f5 { animation-delay: 1.2s; }
-.r-f6 { animation-delay: 1.5s; }
-
-/* Arrows */
-.r-arrow-line {
-  stroke: var(--text-muted);
-  stroke-width: 1.5;
-  stroke-dasharray: 4 3;
-}
-.r-arrow-head {
-  fill: var(--text-muted);
-}
-@keyframes r-arrow-pulse {
-  0%, 100% { opacity: 0.4; }
-  50% { opacity: 1; }
-}
-.r-arrow-pulse-1 { animation: r-arrow-pulse 2s ease-in-out infinite; }
-.r-arrow-pulse-2 { animation: r-arrow-pulse 2s ease-in-out infinite 0.5s; }
-
-/* Signal dots inside Detect — colored */
-.r-signal-dot {
-  fill: var(--accent-detect);
-}
-@keyframes r-signal-blink {
-  0%, 100% { opacity: 0.3; r: 3; }
-  50% { opacity: 0.9; r: 5; }
-}
-.r-sig-1 { animation: r-signal-blink 2s ease infinite 0s; }
-.r-sig-2 { animation: r-signal-blink 2s ease infinite 0.4s; }
-.r-sig-3 { animation: r-signal-blink 2s ease infinite 0.8s; }
-.r-sig-4 { animation: r-signal-blink 2s ease infinite 1.2s; }
-.r-sig-5 { animation: r-signal-blink 2s ease infinite 1.6s; }
-
-.r-signal-line {
-  fill: none;
-  stroke: var(--accent-detect);
-  stroke-width: 1;
-  opacity: 0.3;
-  stroke-dasharray: 3 2;
-}
-
-/* Document icons inside Report — colored */
-.r-doc-page {
-  fill: rgba(87, 171, 90, 0.08);
-  stroke: var(--accent-report);
-  stroke-width: 1;
-  opacity: 0.6;
-}
-.r-doc-page-2 {
-  opacity: 0.35;
-}
-.r-doc-line {
-  stroke: var(--accent-report);
-  stroke-width: 1;
-  opacity: 0.4;
-}
-
-/* Self-tuning loop below pipeline */
-.r-loop-path {
-  stroke: var(--text-muted);
-  stroke-width: 1;
-  stroke-dasharray: 4 4;
-  opacity: 0.5;
-  animation: r-loop-dash 4s linear infinite;
-}
-@keyframes r-loop-dash {
-  to { stroke-dashoffset: -32; }
-}
-.r-loop-label {
-  font-size: 9px;
-  fill: var(--text-muted);
-  font-family: 'Geist Mono', monospace;
-}
-.r-loop-arrow-head {
-  fill: var(--text-muted);
-  opacity: 0.5;
 }
 
 /* ============================================================
@@ -315,94 +108,6 @@
 }
 
 /* ============================================================
-   Self-Tuning SVG (Self-Improving section)
-   ============================================================ */
-.r-tuning-graphic {
-  margin: 24px 0;
-}
-.r-tuning-svg {
-  width: 100%;
-  max-width: 400px;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-.r-tune-center {
-  fill: rgba(163, 113, 247, 0.08);
-  stroke: var(--accent-detect);
-  stroke-width: 2;
-  opacity: 0.7;
-}
-@media (prefers-color-scheme: dark) {
-  .r-tune-center { fill: rgba(163, 113, 247, 0.12); }
-}
-.r-tune-center-text {
-  font-size: 13px;
-  font-weight: 600;
-  fill: var(--text);
-  text-anchor: middle;
-}
-.r-tune-node-bg {
-  stroke-width: 1.5;
-  opacity: 0.65;
-  transition: opacity 0.3s ease, stroke 0.3s ease;
-}
-.r-tune-node-1 .r-tune-node-bg {
-  fill: rgba(83, 155, 245, 0.08);
-  stroke: var(--accent-ingest);
-}
-.r-tune-node-2 .r-tune-node-bg {
-  fill: rgba(163, 113, 247, 0.08);
-  stroke: var(--accent-detect);
-}
-.r-tune-node-3 .r-tune-node-bg {
-  fill: rgba(87, 171, 90, 0.08);
-  stroke: var(--accent-report);
-}
-@media (prefers-color-scheme: dark) {
-  .r-tune-node-1 .r-tune-node-bg { fill: rgba(83, 155, 245, 0.12); }
-  .r-tune-node-2 .r-tune-node-bg { fill: rgba(163, 113, 247, 0.12); }
-  .r-tune-node-3 .r-tune-node-bg { fill: rgba(87, 171, 90, 0.12); }
-}
-.r-tune-node:hover .r-tune-node-bg {
-  opacity: 0.9;
-}
-.r-tune-node-label {
-  font-size: 11px;
-  font-weight: 600;
-  text-anchor: middle;
-}
-.r-tune-node-1 .r-tune-node-label { fill: var(--accent-ingest); }
-.r-tune-node-2 .r-tune-node-label { fill: var(--accent-detect); }
-.r-tune-node-3 .r-tune-node-label { fill: var(--accent-report); }
-.r-tune-node-sub {
-  font-size: 9px;
-  fill: var(--text-muted);
-  text-anchor: middle;
-  font-family: 'Geist Mono', monospace;
-}
-.r-tune-arc {
-  stroke-width: 1.5;
-  stroke-dasharray: 6 4;
-  opacity: 0.5;
-}
-.r-tune-arc-1 { stroke: var(--accent-ingest); }
-.r-tune-arc-2 { stroke: var(--accent-detect); }
-.r-tune-arc-3 { stroke: var(--accent-report); }
-@keyframes r-arc-flow-1 { to { stroke-dashoffset: -40; } }
-@keyframes r-arc-flow-2 { to { stroke-dashoffset: -40; } }
-@keyframes r-arc-flow-3 { to { stroke-dashoffset: -40; } }
-.r-tune-arc-1 { animation: r-arc-flow-1 3s linear infinite; }
-.r-tune-arc-2 { animation: r-arc-flow-2 3s linear infinite 1s; }
-.r-tune-arc-3 { animation: r-arc-flow-3 3s linear infinite 2s; }
-.r-tune-bottom-label {
-  font-size: 10px;
-  fill: var(--text-muted);
-  text-anchor: middle;
-  font-family: 'Geist Mono', monospace;
-}
-
-/* ============================================================
    Offerings (What You Get)
    ============================================================ */
 .r-offerings {
@@ -478,112 +183,6 @@
   color: var(--text-secondary);
   line-height: 1.6;
 }
-
-/* ============================================================
-   Source Network SVG (Sources section)
-   ============================================================ */
-.r-source-network {
-  margin: 24px 0;
-}
-.r-source-svg {
-  width: 100%;
-  max-width: 500px;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-.r-hub-center {
-  fill: rgba(163, 113, 247, 0.06);
-  stroke: var(--accent-detect);
-  stroke-width: 2;
-  opacity: 0.7;
-}
-@media (prefers-color-scheme: dark) {
-  .r-hub-center { fill: rgba(163, 113, 247, 0.1); }
-}
-.r-hub-text {
-  font-size: 18px;
-  font-weight: 700;
-  fill: var(--text);
-  text-anchor: middle;
-}
-.r-hub-sub {
-  font-size: 9px;
-  fill: var(--text-muted);
-  text-anchor: middle;
-  font-family: 'Geist Mono', monospace;
-}
-/* RSS cluster — blue */
-.r-cluster-rss .r-cluster-node {
-  fill: rgba(83, 155, 245, 0.08);
-  stroke: var(--accent-ingest);
-  stroke-width: 1.5;
-  opacity: 0.65;
-  transition: opacity 0.3s;
-}
-.r-cluster-rss:hover .r-cluster-node { opacity: 0.9; }
-.r-cluster-rss .r-cluster-label { fill: var(--accent-ingest); }
-/* YouTube cluster — red */
-.r-cluster-yt .r-cluster-node {
-  fill: rgba(229, 83, 75, 0.08);
-  stroke: var(--lang-en);
-  stroke-width: 1.5;
-  opacity: 0.65;
-  transition: opacity 0.3s;
-}
-.r-cluster-yt:hover .r-cluster-node { opacity: 0.9; }
-.r-cluster-yt .r-cluster-label { fill: var(--lang-en); }
-@media (prefers-color-scheme: dark) {
-  .r-cluster-rss .r-cluster-node { fill: rgba(83, 155, 245, 0.12); }
-  .r-cluster-yt .r-cluster-node { fill: rgba(229, 83, 75, 0.12); }
-}
-.r-cluster-sub {
-  font-size: 8px;
-  fill: var(--text-muted);
-  text-anchor: middle;
-  font-family: 'Geist Mono', monospace;
-}
-.r-cluster-line {
-  stroke: var(--text-muted);
-  stroke-width: 1;
-  opacity: 0.25;
-  stroke-dasharray: 3 3;
-}
-.r-cluster-rss .r-cluster-line { stroke: var(--accent-ingest); opacity: 0.3; }
-.r-cluster-yt .r-cluster-line { stroke: var(--lang-en); opacity: 0.3; }
-
-/* Language dots — subtle indicators around the hub */
-.r-lang-dot {
-  fill: var(--text-muted);
-  opacity: 0.3;
-}
-@keyframes r-lang-dot-pulse {
-  0%, 100% { opacity: 0.15; }
-  50% { opacity: 0.5; }
-}
-.r-lang-dot-1 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 0s; }
-.r-lang-dot-2 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 0.4s; }
-.r-lang-dot-3 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 0.8s; }
-.r-lang-dot-4 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 1.2s; }
-.r-lang-dot-5 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 1.6s; }
-.r-lang-dot-6 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 2.0s; }
-.r-lang-dot-7 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 0.2s; }
-
-.r-hub-lang-label {
-  font-size: 10px;
-  fill: var(--text-muted);
-  text-anchor: middle;
-  font-family: 'Geist Mono', monospace;
-}
-
-/* Data pulse animations along lines — colored */
-.r-data-pulse {
-  opacity: 0.8;
-}
-.r-dp-1 { fill: var(--accent-ingest); opacity: 0.8; }
-.r-dp-2 { fill: var(--lang-en); opacity: 0.8; }
-.r-dp-3 { fill: var(--lang-en); opacity: 0.7; }
-.r-dp-4 { fill: var(--lang-pt); opacity: 0.7; }
 
 /* ============================================================
    OSS Compare (Open Source section)
@@ -719,20 +318,11 @@
    Responsive
    ============================================================ */
 @media (max-width: 569px) {
-  .r-pipeline-svg {
-    min-width: 480px;
-  }
   .r-oss-compare {
     grid-template-columns: 1fr;
     gap: 8px;
   }
   .r-oss-divider {
     padding: 4px 0;
-  }
-  .r-tuning-svg {
-    max-width: 320px;
-  }
-  .r-volume-svg {
-    max-width: 300px;
   }
 }

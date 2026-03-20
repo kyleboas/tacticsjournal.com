@@ -29,29 +29,6 @@ permalink: /research/
     Tactical ideas appear in frontier sources, in any language, weeks before English-language coverage picks them up. No person can track 151 sources across every language in real time.
   </p>
 
-  <!-- Interactive: Information Overload Graphic -->
-  <div class="r-graphic-overload">
-    <div class="r-overload-volume">
-      <svg viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg" class="r-volume-svg">
-        <!-- Stream lines representing content flowing in from many languages -->
-        <line x1="0" y1="10" x2="180" y2="40" class="r-stream r-stream-1"/>
-        <line x1="0" y1="25" x2="180" y2="40" class="r-stream r-stream-2"/>
-        <line x1="0" y1="40" x2="180" y2="40" class="r-stream r-stream-3"/>
-        <line x1="0" y1="55" x2="180" y2="40" class="r-stream r-stream-4"/>
-        <line x1="0" y1="70" x2="180" y2="40" class="r-stream r-stream-5"/>
-        <!-- Funnel point -->
-        <circle cx="200" cy="40" r="8" class="r-funnel-dot"/>
-        <!-- Output -->
-        <line x1="208" y1="40" x2="400" y2="40" class="r-stream-out"/>
-        <!-- Labels -->
-        <text x="90" y="78" class="r-volume-label">every language</text>
-        <text x="320" y="34" class="r-volume-label">one report</text>
-      </svg>
-    </div>
-    <div class="r-overload-label">
-      <span class="r-overload-num">151</span> sources across every language, updated hourly
-    </div>
-  </div>
 </div>
 
 <!-- HOW IT WORKS -->
@@ -59,86 +36,6 @@ permalink: /research/
   <div class="r-section-label">How It Works</div>
   <p>Three stages, fully automated, running continuously.</p>
 
-  <!-- Interactive Pipeline SVG -->
-  <div class="r-pipeline-graphic">
-    <svg viewBox="0 0 720 210" xmlns="http://www.w3.org/2000/svg" class="r-pipeline-svg">
-      <defs>
-        <path id="loopPath" d="M 620 178 C 620 208, 110 208, 110 178"/>
-      </defs>
-
-      <!-- Stage 1: Ingest -->
-      <g class="r-pipe-stage r-pipe-stage-1">
-        <rect x="10" y="30" width="200" height="120" rx="12" class="r-pipe-box"/>
-        <text x="110" y="65" class="r-pipe-title">Ingest</text>
-        <text x="110" y="88" class="r-pipe-sub">151 sources · hourly</text>
-        <g class="r-pipe-icons">
-          <rect x="40" y="102" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f1"/>
-          <rect x="72" y="102" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f2"/>
-          <rect x="104" y="102" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f3"/>
-          <rect x="136" y="102" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f4"/>
-          <rect x="40" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f5"/>
-          <rect x="72" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f6"/>
-          <rect x="104" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f1"/>
-          <rect x="136" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f3"/>
-          <rect x="40" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f4"/>
-          <rect x="72" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f2"/>
-          <rect x="104" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f5"/>
-          <rect x="136" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f6"/>
-        </g>
-      </g>
-
-      <!-- Arrow 1: connects right edge of Stage 1 to left edge of Stage 2 -->
-      <g class="r-pipe-arrow">
-        <line x1="214" y1="90" x2="256" y2="90" class="r-arrow-line"/>
-        <polygon points="256,84 268,90 256,96" class="r-arrow-head r-arrow-pulse-1"/>
-      </g>
-
-      <!-- Stage 2: Detect -->
-      <g class="r-pipe-stage r-pipe-stage-2">
-        <rect x="270" y="30" width="200" height="120" rx="12" class="r-pipe-box"/>
-        <text x="370" y="65" class="r-pipe-title">Detect</text>
-        <text x="370" y="88" class="r-pipe-sub">Frontier-gap · weak-signal</text>
-        <circle cx="320" cy="115" r="4" class="r-signal-dot r-sig-1"/>
-        <circle cx="345" cy="120" r="3" class="r-signal-dot r-sig-2"/>
-        <circle cx="370" cy="110" r="5" class="r-signal-dot r-sig-3"/>
-        <circle cx="395" cy="122" r="3.5" class="r-signal-dot r-sig-4"/>
-        <circle cx="420" cy="112" r="4" class="r-signal-dot r-sig-5"/>
-        <polyline points="320,115 345,120 370,110 395,122 420,112" class="r-signal-line"/>
-      </g>
-
-      <!-- Arrow 2: connects right edge of Stage 2 to left edge of Stage 3 -->
-      <g class="r-pipe-arrow">
-        <line x1="474" y1="90" x2="516" y2="90" class="r-arrow-line"/>
-        <polygon points="516,84 528,90 516,96" class="r-arrow-head r-arrow-pulse-2"/>
-      </g>
-
-      <!-- Stage 3: Report -->
-      <g class="r-pipe-stage r-pipe-stage-3">
-        <rect x="530" y="30" width="180" height="120" rx="12" class="r-pipe-box"/>
-        <text x="620" y="65" class="r-pipe-title">Report</text>
-        <text x="620" y="88" class="r-pipe-sub">Finding-first · cited</text>
-        <g class="r-pipe-doc">
-          <rect x="595" y="100" width="22" height="28" rx="3" class="r-doc-page"/>
-          <line x1="600" y1="108" x2="612" y2="108" class="r-doc-line"/>
-          <line x1="600" y1="114" x2="610" y2="114" class="r-doc-line"/>
-          <line x1="600" y1="120" x2="612" y2="120" class="r-doc-line"/>
-          <rect x="623" y="102" width="22" height="28" rx="3" class="r-doc-page r-doc-page-2"/>
-          <line x1="628" y1="110" x2="640" y2="110" class="r-doc-line"/>
-          <line x1="628" y1="116" x2="638" y2="116" class="r-doc-line"/>
-          <line x1="628" y1="122" x2="640" y2="122" class="r-doc-line"/>
-        </g>
-      </g>
-
-      <!-- Self-tuning loop arrow (curved, underneath) -->
-      <path d="M 620 155 C 620 195, 110 195, 110 155" class="r-loop-path" fill="none"/>
-      <text class="r-loop-label">
-        <textPath href="#loopPath" startOffset="50%" text-anchor="middle">autoresearch · self-tuning loop</textPath>
-      </text>
-      <polygon points="110,155 104,163 116,163" class="r-loop-arrow-head"/>
-    </svg>
-  </div>
-
-  <!-- Step details -->
   <div class="r-steps-compact">
     <div class="r-step-compact" tabindex="0">
       <div class="r-step-header">
@@ -197,45 +94,6 @@ permalink: /research/
   <div class="r-section-label">Self-Improving</div>
   <p>The pipeline tunes itself. A separate autoresearch loop evaluates and optimizes each stage. Changes only apply when they beat the current baseline.</p>
 
-  <!-- Interactive: Self-tuning loop SVG -->
-  <div class="r-tuning-graphic">
-    <svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg" class="r-tuning-svg">
-      <!-- Central circle -->
-      <circle cx="200" cy="130" r="45" class="r-tune-center"/>
-      <text x="200" y="125" class="r-tune-center-text">Auto</text>
-      <text x="200" y="143" class="r-tune-center-text">Research</text>
-
-      <!-- Orbiting nodes -->
-      <g class="r-tune-orbit">
-        <!-- Ingest Policy -->
-        <g class="r-tune-node r-tune-node-1">
-          <circle cx="200" cy="30" r="28" class="r-tune-node-bg"/>
-          <text x="200" y="27" class="r-tune-node-label">Ingest</text>
-          <text x="200" y="40" class="r-tune-node-sub">Policy</text>
-        </g>
-        <!-- Detect Policy -->
-        <g class="r-tune-node r-tune-node-2">
-          <circle cx="348" cy="195" r="28" class="r-tune-node-bg"/>
-          <text x="348" y="192" class="r-tune-node-label">Detect</text>
-          <text x="348" y="205" class="r-tune-node-sub">Policy</text>
-        </g>
-        <!-- Report Policy -->
-        <g class="r-tune-node r-tune-node-3">
-          <circle cx="52" cy="195" r="28" class="r-tune-node-bg"/>
-          <text x="52" y="192" class="r-tune-node-label">Report</text>
-          <text x="52" y="205" class="r-tune-node-sub">Policy</text>
-        </g>
-      </g>
-
-      <!-- Connecting arcs with animated dashes -->
-      <path d="M 200 75 A 100 100 0 0 1 320 170" class="r-tune-arc r-tune-arc-1" fill="none"/>
-      <path d="M 320 215 A 100 100 0 0 1 80 215" class="r-tune-arc r-tune-arc-2" fill="none"/>
-      <path d="M 80 170 A 100 100 0 0 1 200 75" class="r-tune-arc r-tune-arc-3" fill="none"/>
-
-      <!-- Bottom label -->
-      <text x="200" y="252" class="r-tune-bottom-label">Evaluates → applies only when improved</text>
-    </svg>
-  </div>
 </div>
 
 <!-- WHAT YOU GET -->
@@ -298,54 +156,6 @@ permalink: /research/
 <!-- SOURCES -->
 <div class="r-section">
   <div class="r-section-label">Sources</div>
-
-  <!-- Interactive: Source Network Visualization -->
-  <div class="r-source-network">
-    <div class="r-source-hub">
-      <svg viewBox="0 0 500 220" xmlns="http://www.w3.org/2000/svg" class="r-source-svg">
-        <!-- Central node -->
-        <circle cx="250" cy="110" r="30" class="r-hub-center"/>
-        <text x="250" y="107" class="r-hub-text">151</text>
-        <text x="250" y="121" class="r-hub-sub">sources</text>
-
-        <!-- RSS cluster -->
-        <g class="r-source-cluster r-cluster-rss">
-          <circle cx="110" cy="50" r="22" class="r-cluster-node"/>
-          <text x="110" y="47" class="r-cluster-label">118</text>
-          <text x="110" y="60" class="r-cluster-sub">RSS</text>
-          <line x1="130" y1="60" x2="224" y2="98" class="r-cluster-line"/>
-        </g>
-
-        <!-- YouTube cluster -->
-        <g class="r-source-cluster r-cluster-yt">
-          <circle cx="390" cy="50" r="22" class="r-cluster-node"/>
-          <text x="390" y="47" class="r-cluster-label">33</text>
-          <text x="390" y="60" class="r-cluster-sub">YouTube</text>
-          <line x1="370" y1="60" x2="276" y2="98" class="r-cluster-line"/>
-        </g>
-
-        <!-- "Any language" label below hub -->
-        <text x="250" y="160" class="r-hub-lang-label">any language</text>
-
-        <!-- Small dots around the hub representing many languages -->
-        <circle cx="200" cy="110" r="3" class="r-lang-dot r-lang-dot-1"/>
-        <circle cx="300" cy="110" r="3" class="r-lang-dot r-lang-dot-2"/>
-        <circle cx="220" cy="140" r="2.5" class="r-lang-dot r-lang-dot-3"/>
-        <circle cx="280" cy="140" r="2.5" class="r-lang-dot r-lang-dot-4"/>
-        <circle cx="210" cy="80" r="2.5" class="r-lang-dot r-lang-dot-5"/>
-        <circle cx="290" cy="80" r="2.5" class="r-lang-dot r-lang-dot-6"/>
-        <circle cx="250" cy="150" r="2" class="r-lang-dot r-lang-dot-7"/>
-
-        <!-- Animated data pulses along lines -->
-        <circle r="3" class="r-data-pulse r-dp-1">
-          <animateMotion dur="2.5s" repeatCount="indefinite" path="M 130 60 L 224 98"/>
-        </circle>
-        <circle r="3" class="r-data-pulse r-dp-2">
-          <animateMotion dur="2.8s" repeatCount="indefinite" path="M 370 60 L 276 98"/>
-        </circle>
-      </svg>
-    </div>
-  </div>
 
   <p class="r-audience">
     For analysts, coaches, and clubs who want to see what's happening before it's obvious.
@@ -446,7 +256,7 @@ const observer = new IntersectionObserver((entries) => {
   });
 }, { threshold: 0.2 });
 
-document.querySelectorAll('.r-pipeline-graphic, .r-tuning-graphic, .r-source-network, .r-graphic-overload, .r-offerings, .r-oss-compare, .r-pricing-graphic').forEach(el => {
+document.querySelectorAll('.r-offerings, .r-oss-compare, .r-pricing-graphic').forEach(el => {
   observer.observe(el);
 });
 </script>
