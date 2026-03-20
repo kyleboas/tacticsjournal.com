@@ -192,29 +192,78 @@ permalink: /research/
   </p>
 </div>
 
-<!-- RUNTIME BUDGET -->
+<!-- PRICING -->
 <div class="r-section">
-  <div class="r-section-label">Runtime Budget</div>
+  <div class="r-section-label">Pricing</div>
+
+  <div class="r-pricing-toggle-wrapper">
+    <span class="r-pricing-toggle-label r-pricing-toggle-label--active" id="toggle-monthly-label">Monthly</span>
+    <div class="r-pricing-toggle" id="pricing-toggle" onclick="togglePricing()">
+      <div class="r-pricing-toggle-knob"></div>
+    </div>
+    <span class="r-pricing-toggle-label" id="toggle-yearly-label">Yearly</span>
+  </div>
 
   <div class="r-pricing-graphic">
-    <div class="r-pricing-card">
-      <div class="r-pricing-tbd">$0.85</div>
-      <div class="r-pricing-explain">Right now the system aims to keep report cost to about $0.85 per report.</div>
-      <div class="r-pricing-guarantee">That limit can change as the system improves.</div>
-    </div>
+    <div class="r-pricing-grid">
+      {% include research-pricing-card.html
+        name="Free"
+        description="A simple way to sample the feed."
+        price="$0"
+        item_1="Read 1 full report per week"
+        item_2="See a 255-character opening preview on every report"
+        item_3_x="After your free report is used, the next full report prompts you to upgrade"
+        item_4="Reports arrive by email and stay accessible on the website"
+        cta_text="Get Started"
+        cta_href="#waitlist"
+      %}
 
-    <!-- Visual: demand bar -->
-    <div class="r-demand-bar">
-      <div class="r-demand-fill">
-        <div class="r-demand-pulse"></div>
-      </div>
-      <div class="r-demand-labels">
-        <span>Lower spend</span>
-        <span>More depth when it helps</span>
-      </div>
+      {% include research-pricing-card.html
+        name="Pro"
+        description="Full access to the research archive."
+        price="$10"
+        price_yearly="$8"
+        price_suffix="month"
+        yearly_note="$96 billed yearly (20% off)"
+        item_1="Read every report in full"
+        item_2="Every report delivered by email"
+        item_3="Direct links to reports on the website"
+        item_4="Built for analysts, coaches, and clubs following ideas closely"
+        cta_text="Subscribe"
+        cta_href="#waitlist"
+        featured=true
+      %}
     </div>
   </div>
 </div>
+
+<script>
+let isYearly = false;
+function togglePricing() {
+  isYearly = !isYearly;
+  const toggle = document.getElementById('pricing-toggle');
+  const monthlyLabel = document.getElementById('toggle-monthly-label');
+  const yearlyLabel = document.getElementById('toggle-yearly-label');
+  
+  if (isYearly) {
+    toggle.classList.add('r-pricing-toggle--active');
+    monthlyLabel.classList.remove('r-pricing-toggle-label--active');
+    yearlyLabel.classList.add('r-pricing-toggle-label--active');
+  } else {
+    toggle.classList.remove('r-pricing-toggle--active');
+    monthlyLabel.classList.add('r-pricing-toggle-label--active');
+    yearlyLabel.classList.remove('r-pricing-toggle-label--active');
+  }
+  
+  // Update prices
+  document.querySelectorAll('[data-price-monthly]').forEach(el => {
+    el.textContent = isYearly ? el.dataset.priceYearly : el.dataset.priceMonthly;
+  });
+  document.querySelectorAll('[data-yearly-note]').forEach(el => {
+    el.style.display = isYearly ? 'block' : 'none';
+  });
+}
+</script>
 
 <!-- WAITLIST -->
 <div class="r-section" id="waitlist">
