@@ -1,0 +1,80 @@
+/* ============================================================
+   Section Graphics — Tactics Journal Research Page
+   Inline SVG graphics for each content section
+   ============================================================ */
+
+/* Shared graphic container */
+.r-section-graphic {
+  margin: 32px 0;
+  width: 100%;
+  overflow-x: auto;
+}
+.r-section-graphic svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Offering grid (What You Get) */
+.r-offering-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin: 32px 0;
+}
+.r-offering-card {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  transition: border-color 0.15s ease;
+}
+.r-offering-card:hover { border-color: var(--border-hover); }
+.r-offering-num {
+  font-family: 'Geist Mono', monospace;
+  font-size: 10px;
+  color: var(--text-muted);
+  letter-spacing: 0.1em;
+  margin-bottom: 8px;
+}
+.r-offering-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+.r-offering-desc {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+.r-offering-visual svg {
+  width: 100%;
+  height: auto;
+}
+
+/* Feed fill animation (Pipeline Ingest stage) */
+@keyframes r-feed-pulse {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+.r-feed-fill { animation: r-feed-pulse 2s ease-in-out infinite; }
+.r-f1 { animation-delay: 0s; }
+.r-f2 { animation-delay: 0.3s; }
+.r-f3 { animation-delay: 0.6s; }
+.r-f4 { animation-delay: 0.9s; }
+.r-f5 { animation-delay: 1.2s; }
+.r-f6 { animation-delay: 1.5s; }
+
+/* Pulse dots for signals */
+@keyframes r-pulse-slow {
+  0%,100% { opacity: 0.4; }
+  50% { opacity: 0.15; }
+}
+.r-pulse-dot-slow { animation: r-pulse-slow 2.4s infinite; }
+
+/* Responsive */
+@media (max-width: 768px) {
+  .r-offering-grid { grid-template-columns: 1fr; }
+  .r-section-graphic svg { min-width: 600px; }
+}

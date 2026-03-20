@@ -4,6 +4,11 @@ layout: page
 permalink: /research/
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
+<link rel="stylesheet" href="{{ site.baseurl }}/research/marquee.css" />
+<link rel="stylesheet" href="{{ site.baseurl }}/research/graphics.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Source+Serif+4:wght@700&display=swap" rel="stylesheet">
 
 <div class="research-page">
 
@@ -14,6 +19,7 @@ permalink: /research/
   <div class="r-hero-actions r-fade r-fade-d3">
     {% include research-waitlist-form.html %}
   </div>
+  {% include research-source-marquee.html %}
 </div>
 
 <!-- THE PROBLEM -->
