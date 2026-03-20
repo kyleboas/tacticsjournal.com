@@ -14,7 +14,7 @@ permalink: /research/
 <!-- HERO -->
 <div class="r-hero">
   <h2 class="r-fade r-fade-d1">Research</h2>
-  <p class="r-sub-statement r-fade r-fade-d2">Spot trends in football before they become popular.</p>
+  <p class="r-sub-statement r-fade r-fade-d2">See useful football ideas before they spread everywhere.</p>
   <div class="r-hero-actions r-fade r-fade-d3">
     {% include research-waitlist-form.html %}
   </div>
@@ -24,7 +24,7 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">The Problem</div>
   <p>
-    Good ideas often show up first in smaller outlets, interviews, and podcasts in different leagues and languages. By the time bigger English outlets cover them, the edge is gone.
+    Good ideas often show up first in smaller outlets, interviews, and podcasts. By the time bigger outlets cover them, the edge is usually gone.
   </p>
 
 </div>
@@ -32,6 +32,7 @@ permalink: /research/
 <!-- HOW IT WORKS -->
 <div class="r-section">
   <div class="r-section-label">How It Works</div>
+  <p>Three steps.</p>
 
   <div class="r-steps-compact">
     <div class="r-step-compact">
@@ -41,7 +42,12 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        The system pulls in articles and videos and stores the useful parts in a searchable archive.
+        The system pulls in articles and videos, re-checks recent items so it does not miss late posts, and stores the useful parts for search.
+        <div class="r-tags">
+          <span class="r-tag">Articles</span>
+          <span class="r-tag">Videos</span>
+          <span class="r-tag">Searchable Archive</span>
+        </div>
       </div>
     </div>
 
@@ -52,7 +58,7 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        It looks for ideas that show up in blog posts, press conferences, podcasts, and interviews before they reach mainstream coverage. Weak ideas get pushed back. Stronger ones move forward.
+        It looks for ideas that are showing up in smaller sources before they become common in mainstream coverage. Weak ideas get pushed back. Stronger ones move forward.
         <div class="r-tags">
           <span class="r-tag">Early Ideas</span>
           <span class="r-tag">Quality Filter</span>
@@ -68,7 +74,7 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        Only the best candidates become reports. Each report is researched, checked, and revised before it is published using a multi-model LLM.
+        Only the best candidates become reports. Each report is researched, checked, and revised before it is published.
         <div class="r-tags">
           <span class="r-tag">Research</span>
           <span class="r-tag">Checks</span>
@@ -89,7 +95,7 @@ permalink: /research/
 <!-- WHAT YOU GET -->
 <div class="r-section">
   <div class="r-section-label">What You Get</div>
-  <p>A deep research report in your inbox every day.</p>
+  <p>The main blog is written by Kyle Boas. The research section is where this system shows what it finds.</p>
 
   <div class="r-offerings">
     <div class="r-offering">
@@ -136,25 +142,35 @@ permalink: /research/
         </svg>
       </div>
       <div class="r-offering-text">
-        <div class="r-offering-title">Live Web Research</div>
-        <div class="r-offering-desc">Research built from a stored archive first, with live web fact-checking.</div>
+        <div class="r-offering-title">Corpus + Live Web Research</div>
+        <div class="r-offering-desc">Research built from a stored archive first, with live web checking when needed.</div>
       </div>
     </div>
   </div>
 </div>
 
+<!-- SOURCES -->
+<div class="r-section">
+  <div class="r-section-label">Sources</div>
+
+  <p class="r-audience">
+    For analysts, coaches, and clubs who want to spot useful ideas early.
+  </p>
+</div>
+
 <!-- OPEN SOURCE -->
 <div class="r-section">
   <div class="r-section-label">Open Source</div>
-  <p>The entire system is <a href="https://github.com/kyleboas/research" target="_blank">open source</a>. You can inspect it and run it yourself.</p>
+  <p>The entire pipeline is <a href="https://github.com/kyleboas/research" target="_blank">open source</a>. You can inspect it, run it yourself, or adapt it.</p>
 
+  <!-- Interactive: Open Source vs Subscription comparison -->
   <div class="r-oss-compare">
     <div class="r-oss-col r-oss-free">
       <div class="r-oss-header">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
         <span>Code</span>
       </div>
-      <div class="r-oss-body">Free &amp; open source. Fork, configure your feeds, run your own instance. Setup instructions included in the repository.</div>
+      <div class="r-oss-body">Free &amp; open source. Clone, configure your feeds, run your own instance.</div>
     </div>
     <div class="r-oss-divider">
       <span>vs</span>
@@ -164,7 +180,7 @@ permalink: /research/
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg>
         <span>Subscription</span>
       </div>
-      <div class="r-oss-body">We run it, you use it. No setup, no maintenance.</div>
+      <div class="r-oss-body">A running version of the system, without having to set it up or manage it yourself.</div>
     </div>
   </div>
 
@@ -176,35 +192,84 @@ permalink: /research/
   </p>
 </div>
 
-<!-- RUNTIME BUDGET -->
+<!-- PRICING -->
 <div class="r-section">
   <div class="r-section-label">Pricing</div>
 
-  <div class="r-pricing-graphic">
-    <div class="r-pricing-card">
-      <div class="r-pricing-tbd">$0.85</div>
-      <div class="r-pricing-explain">Right now the system aims to keep report cost to about $0.85 per report.</div>
-      <div class="r-pricing-guarantee">That limit can increased by how much interest.</div>
+  <div class="r-pricing-toggle-wrapper">
+    <span class="r-pricing-toggle-label r-pricing-toggle-label--active" id="toggle-monthly-label">Monthly</span>
+    <div class="r-pricing-toggle" id="pricing-toggle" onclick="togglePricing()">
+      <div class="r-pricing-toggle-knob"></div>
     </div>
+    <span class="r-pricing-toggle-label" id="toggle-yearly-label">Yearly</span>
+  </div>
 
-    <!-- Visual: demand bar -->
-    <div class="r-demand-bar">
-      <div class="r-demand-fill">
-        <div class="r-demand-pulse"></div>
-      </div>
-      <div class="r-demand-labels">
-        <span>Lower spend</span>
-        <span>More depth when it helps</span>
-      </div>
+  <div class="r-pricing-graphic">
+    <div class="r-pricing-grid">
+      {% include research-pricing-card.html
+        name="Free"
+        description="A simple way to sample the feed."
+        price="$0"
+        item_1="Read 1 full report per week"
+        item_2="See a 255-character opening preview on every report"
+        item_3_x="After your free report is used, the next full report prompts you to upgrade"
+        item_4="Reports arrive by email and stay accessible on the website"
+        cta_text="Get Started"
+        cta_href="#waitlist"
+      %}
+
+      {% include research-pricing-card.html
+        name="Pro"
+        description="Full access to the research archive."
+        price="$10"
+        price_yearly="$8"
+        price_suffix="month"
+        yearly_note="$96 billed yearly (20% off)"
+        item_1="Read every report in full"
+        item_2="Every report delivered by email"
+        item_3="Direct links to reports on the website"
+        item_4="Built for analysts, coaches, and clubs following ideas closely"
+        cta_text="Subscribe"
+        cta_href="#waitlist"
+        featured=true
+      %}
     </div>
   </div>
 </div>
+
+<script>
+let isYearly = false;
+function togglePricing() {
+  isYearly = !isYearly;
+  const toggle = document.getElementById('pricing-toggle');
+  const monthlyLabel = document.getElementById('toggle-monthly-label');
+  const yearlyLabel = document.getElementById('toggle-yearly-label');
+  
+  if (isYearly) {
+    toggle.classList.add('r-pricing-toggle--active');
+    monthlyLabel.classList.remove('r-pricing-toggle-label--active');
+    yearlyLabel.classList.add('r-pricing-toggle-label--active');
+  } else {
+    toggle.classList.remove('r-pricing-toggle--active');
+    monthlyLabel.classList.add('r-pricing-toggle-label--active');
+    yearlyLabel.classList.remove('r-pricing-toggle-label--active');
+  }
+  
+  // Update prices
+  document.querySelectorAll('[data-price-monthly]').forEach(el => {
+    el.textContent = isYearly ? el.dataset.priceYearly : el.dataset.priceMonthly;
+  });
+  document.querySelectorAll('[data-yearly-note]').forEach(el => {
+    el.style.display = isYearly ? 'block' : 'none';
+  });
+}
+</script>
 
 <!-- WAITLIST -->
 <div class="r-section" id="waitlist">
   <div class="r-section-label">Early Access</div>
   <p>
-    Join the waitlist to be notified when this goes live.
+    Join the waitlist for early reports and updates.
   </p>
   {% include research-waitlist-form.html %}
 </div>
