@@ -26,39 +26,30 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">The Problem</div>
   <p>
-    Tactical ideas appear in frontier sources — in German, Portuguese, French — weeks before English-language coverage picks them up. No person can track 151 sources across eight languages in real time.
+    Tactical ideas appear in frontier sources — in any language — weeks before English-language coverage picks them up. No person can track 151 sources across every language in real time.
   </p>
 
   <!-- Interactive: Information Overload Graphic -->
   <div class="r-graphic-overload">
-    <div class="r-overload-feeds">
-      <div class="r-feed-col" data-lang="EN">
-        <div class="r-feed-bar" style="--bar-h:85%"><span>EN</span></div>
-      </div>
-      <div class="r-feed-col" data-lang="ES">
-        <div class="r-feed-bar" style="--bar-h:72%"><span>ES</span></div>
-      </div>
-      <div class="r-feed-col" data-lang="DE">
-        <div class="r-feed-bar" style="--bar-h:68%"><span>DE</span></div>
-      </div>
-      <div class="r-feed-col" data-lang="FR">
-        <div class="r-feed-bar" style="--bar-h:60%"><span>FR</span></div>
-      </div>
-      <div class="r-feed-col" data-lang="PT">
-        <div class="r-feed-bar" style="--bar-h:55%"><span>PT</span></div>
-      </div>
-      <div class="r-feed-col" data-lang="IT">
-        <div class="r-feed-bar" style="--bar-h:50%"><span>IT</span></div>
-      </div>
-      <div class="r-feed-col" data-lang="NL">
-        <div class="r-feed-bar" style="--bar-h:35%"><span>NL</span></div>
-      </div>
-      <div class="r-feed-col" data-lang="AR">
-        <div class="r-feed-bar" style="--bar-h:40%"><span>AR</span></div>
-      </div>
+    <div class="r-overload-volume">
+      <svg viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg" class="r-volume-svg">
+        <!-- Stream lines representing content flowing in from many languages -->
+        <line x1="0" y1="10" x2="180" y2="40" class="r-stream r-stream-1"/>
+        <line x1="0" y1="25" x2="180" y2="40" class="r-stream r-stream-2"/>
+        <line x1="0" y1="40" x2="180" y2="40" class="r-stream r-stream-3"/>
+        <line x1="0" y1="55" x2="180" y2="40" class="r-stream r-stream-4"/>
+        <line x1="0" y1="70" x2="180" y2="40" class="r-stream r-stream-5"/>
+        <!-- Funnel point -->
+        <circle cx="200" cy="40" r="8" class="r-funnel-dot"/>
+        <!-- Output -->
+        <line x1="208" y1="40" x2="400" y2="40" class="r-stream-out"/>
+        <!-- Labels -->
+        <text x="90" y="78" class="r-volume-label">every language</text>
+        <text x="320" y="34" class="r-volume-label">one report</text>
+      </svg>
     </div>
     <div class="r-overload-label">
-      <span class="r-overload-num">151</span> sources across <span class="r-overload-num">8</span> languages — updated hourly
+      <span class="r-overload-num">151</span> sources across every language — updated hourly
     </div>
   </div>
 </div>
@@ -70,83 +61,80 @@ permalink: /research/
 
   <!-- Interactive Pipeline SVG -->
   <div class="r-pipeline-graphic">
-    <svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" class="r-pipeline-svg">
+    <svg viewBox="0 0 720 210" xmlns="http://www.w3.org/2000/svg" class="r-pipeline-svg">
+      <defs>
+        <path id="loopPath" d="M 620 178 C 620 208, 110 208, 110 178"/>
+      </defs>
+
       <!-- Stage 1: Ingest -->
       <g class="r-pipe-stage r-pipe-stage-1">
-        <rect x="10" y="40" width="200" height="120" rx="12" class="r-pipe-box"/>
-        <text x="110" y="75" class="r-pipe-title">Ingest</text>
-        <text x="110" y="98" class="r-pipe-sub">151 sources · hourly</text>
-        <!-- Mini feed icons -->
+        <rect x="10" y="30" width="200" height="120" rx="12" class="r-pipe-box"/>
+        <text x="110" y="65" class="r-pipe-title">Ingest</text>
+        <text x="110" y="88" class="r-pipe-sub">151 sources · hourly</text>
         <g class="r-pipe-icons">
-          <rect x="40" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f1"/>
-          <rect x="72" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f2"/>
-          <rect x="104" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f3"/>
-          <rect x="136" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f4"/>
-          <rect x="40" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f5"/>
-          <rect x="72" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f6"/>
-          <rect x="104" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f1"/>
-          <rect x="136" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f3"/>
-          <rect x="40" y="132" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f4"/>
-          <rect x="72" y="132" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f2"/>
-          <rect x="104" y="132" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f5"/>
-          <rect x="136" y="132" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f6"/>
+          <rect x="40" y="102" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f1"/>
+          <rect x="72" y="102" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f2"/>
+          <rect x="104" y="102" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f3"/>
+          <rect x="136" y="102" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f4"/>
+          <rect x="40" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f5"/>
+          <rect x="72" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f6"/>
+          <rect x="104" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f1"/>
+          <rect x="136" y="112" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f3"/>
+          <rect x="40" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f4"/>
+          <rect x="72" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f2"/>
+          <rect x="104" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f5"/>
+          <rect x="136" y="122" width="28" height="4" rx="2" class="r-pipe-feed r-feed-anim r-f6"/>
         </g>
       </g>
 
-      <!-- Arrow 1 -->
+      <!-- Arrow 1: connects right edge of Stage 1 to left edge of Stage 2 -->
       <g class="r-pipe-arrow">
-        <line x1="218" y1="100" x2="250" y2="100" class="r-arrow-line"/>
-        <polygon points="250,94 262,100 250,106" class="r-arrow-head r-arrow-pulse-1"/>
+        <line x1="214" y1="90" x2="256" y2="90" class="r-arrow-line"/>
+        <polygon points="256,84 268,90 256,96" class="r-arrow-head r-arrow-pulse-1"/>
       </g>
 
       <!-- Stage 2: Detect -->
       <g class="r-pipe-stage r-pipe-stage-2">
-        <rect x="270" y="40" width="200" height="120" rx="12" class="r-pipe-box"/>
-        <text x="370" y="75" class="r-pipe-title">Detect</text>
-        <text x="370" y="98" class="r-pipe-sub">Frontier-gap · weak-signal</text>
-        <!-- Signal dots -->
-        <circle cx="320" cy="125" r="4" class="r-signal-dot r-sig-1"/>
-        <circle cx="345" cy="130" r="3" class="r-signal-dot r-sig-2"/>
-        <circle cx="370" cy="120" r="5" class="r-signal-dot r-sig-3"/>
-        <circle cx="395" cy="132" r="3.5" class="r-signal-dot r-sig-4"/>
-        <circle cx="420" cy="122" r="4" class="r-signal-dot r-sig-5"/>
-        <!-- Connecting lines between dots -->
-        <polyline points="320,125 345,130 370,120 395,132 420,122" class="r-signal-line"/>
+        <rect x="270" y="30" width="200" height="120" rx="12" class="r-pipe-box"/>
+        <text x="370" y="65" class="r-pipe-title">Detect</text>
+        <text x="370" y="88" class="r-pipe-sub">Frontier-gap · weak-signal</text>
+        <circle cx="320" cy="115" r="4" class="r-signal-dot r-sig-1"/>
+        <circle cx="345" cy="120" r="3" class="r-signal-dot r-sig-2"/>
+        <circle cx="370" cy="110" r="5" class="r-signal-dot r-sig-3"/>
+        <circle cx="395" cy="122" r="3.5" class="r-signal-dot r-sig-4"/>
+        <circle cx="420" cy="112" r="4" class="r-signal-dot r-sig-5"/>
+        <polyline points="320,115 345,120 370,110 395,122 420,112" class="r-signal-line"/>
       </g>
 
-      <!-- Arrow 2 -->
+      <!-- Arrow 2: connects right edge of Stage 2 to left edge of Stage 3 -->
       <g class="r-pipe-arrow">
-        <line x1="478" y1="100" x2="510" y2="100" class="r-arrow-line"/>
-        <polygon points="510,94 522,100 510,106" class="r-arrow-head r-arrow-pulse-2"/>
+        <line x1="474" y1="90" x2="516" y2="90" class="r-arrow-line"/>
+        <polygon points="516,84 528,90 516,96" class="r-arrow-head r-arrow-pulse-2"/>
       </g>
 
       <!-- Stage 3: Report -->
       <g class="r-pipe-stage r-pipe-stage-3">
-        <rect x="530" y="40" width="180" height="120" rx="12" class="r-pipe-box"/>
-        <text x="620" y="75" class="r-pipe-title">Report</text>
-        <text x="620" y="98" class="r-pipe-sub">Finding-first · cited</text>
-        <!-- Document icon -->
+        <rect x="530" y="30" width="180" height="120" rx="12" class="r-pipe-box"/>
+        <text x="620" y="65" class="r-pipe-title">Report</text>
+        <text x="620" y="88" class="r-pipe-sub">Finding-first · cited</text>
         <g class="r-pipe-doc">
-          <rect x="590" y="110" width="24" height="30" rx="3" class="r-doc-page"/>
-          <line x1="596" y1="118" x2="608" y2="118" class="r-doc-line"/>
-          <line x1="596" y1="124" x2="606" y2="124" class="r-doc-line"/>
-          <line x1="596" y1="130" x2="608" y2="130" class="r-doc-line"/>
-          <rect x="618" y="112" width="24" height="30" rx="3" class="r-doc-page r-doc-page-2"/>
-          <line x1="624" y1="120" x2="636" y2="120" class="r-doc-line"/>
-          <line x1="624" y1="126" x2="634" y2="126" class="r-doc-line"/>
-          <line x1="624" y1="132" x2="636" y2="132" class="r-doc-line"/>
+          <rect x="595" y="100" width="22" height="28" rx="3" class="r-doc-page"/>
+          <line x1="600" y1="108" x2="612" y2="108" class="r-doc-line"/>
+          <line x1="600" y1="114" x2="610" y2="114" class="r-doc-line"/>
+          <line x1="600" y1="120" x2="612" y2="120" class="r-doc-line"/>
+          <rect x="623" y="102" width="22" height="28" rx="3" class="r-doc-page r-doc-page-2"/>
+          <line x1="628" y1="110" x2="640" y2="110" class="r-doc-line"/>
+          <line x1="628" y1="116" x2="638" y2="116" class="r-doc-line"/>
+          <line x1="628" y1="122" x2="640" y2="122" class="r-doc-line"/>
         </g>
       </g>
 
       <!-- Self-tuning loop arrow (curved, underneath) -->
-      <path d="M 620 168 C 620 195, 110 195, 110 168" class="r-loop-path" fill="none"/>
+      <path d="M 620 155 C 620 195, 110 195, 110 155" class="r-loop-path" fill="none"/>
       <text class="r-loop-label">
         <textPath href="#loopPath" startOffset="50%" text-anchor="middle">autoresearch · self-tuning loop</textPath>
       </text>
-      <defs>
-        <path id="loopPath" d="M 620 178 C 620 210, 110 210, 110 178"/>
-      </defs>
-      <polygon points="114,170 106,178 118,178" class="r-loop-arrow-head"/>
+      <polygon points="110,155 104,163 116,163" class="r-loop-arrow-head"/>
     </svg>
   </div>
 
@@ -159,7 +147,7 @@ permalink: /research/
         <span class="r-step-expand">+</span>
       </div>
       <div class="r-step-detail">
-        Pulls from 118 RSS feeds and 33 YouTube channels across eight languages every hour. Full-text extraction, transcript processing, and vector embedding — every source tagged by tier, culture, and format.
+        Pulls from 118 RSS feeds and 33 YouTube channels in any language every hour. Full-text extraction, transcript processing, and vector embedding — every source tagged by tier, culture, and format.
         <div class="r-tags">
           <span class="r-tag">RSS</span>
           <span class="r-tag">YouTube Transcripts</span>
@@ -294,14 +282,14 @@ permalink: /research/
       <div class="r-offering-icon">
         <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
           <circle cx="20" cy="20" r="14" class="r-icon-stroke" fill="none" stroke-width="1.5"/>
-          <text x="20" y="17" class="r-icon-lang-text" font-size="5" text-anchor="middle">EN DE FR</text>
-          <text x="20" y="25" class="r-icon-lang-text" font-size="5" text-anchor="middle">ES PT IT</text>
-          <text x="20" y="33" class="r-icon-lang-text" font-size="5" text-anchor="middle">NL AR</text>
+          <path d="M10 20 h20 M20 8 c-4 6-4 18 0 24 M20 8 c4 6 4 18 0 24" class="r-icon-stroke" fill="none" stroke-width="1" />
+          <line x1="11" y1="14" x2="29" y2="14" class="r-icon-stroke" stroke-width="0.75"/>
+          <line x1="11" y1="26" x2="29" y2="26" class="r-icon-stroke" stroke-width="0.75"/>
         </svg>
       </div>
       <div class="r-offering-text">
         <div class="r-offering-title">Cross-Language Coverage</div>
-        <div class="r-offering-desc">Eight languages, every major European league — you get the patterns that emerge from that volume.</div>
+        <div class="r-offering-desc">Content from any language — you get the patterns that emerge from monitoring sources no individual could track.</div>
       </div>
     </div>
   </div>
@@ -314,75 +302,46 @@ permalink: /research/
   <!-- Interactive: Source Network Visualization -->
   <div class="r-source-network">
     <div class="r-source-hub">
-      <svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg" class="r-source-svg">
+      <svg viewBox="0 0 500 220" xmlns="http://www.w3.org/2000/svg" class="r-source-svg">
         <!-- Central node -->
-        <circle cx="250" cy="150" r="30" class="r-hub-center"/>
-        <text x="250" y="147" class="r-hub-text">151</text>
-        <text x="250" y="161" class="r-hub-sub">sources</text>
+        <circle cx="250" cy="110" r="30" class="r-hub-center"/>
+        <text x="250" y="107" class="r-hub-text">151</text>
+        <text x="250" y="121" class="r-hub-sub">sources</text>
 
         <!-- RSS cluster -->
         <g class="r-source-cluster r-cluster-rss">
-          <circle cx="100" cy="70" r="22" class="r-cluster-node"/>
-          <text x="100" y="67" class="r-cluster-label">118</text>
-          <text x="100" y="80" class="r-cluster-sub">RSS</text>
-          <line x1="122" y1="82" x2="222" y2="138" class="r-cluster-line"/>
+          <circle cx="110" cy="50" r="22" class="r-cluster-node"/>
+          <text x="110" y="47" class="r-cluster-label">118</text>
+          <text x="110" y="60" class="r-cluster-sub">RSS</text>
+          <line x1="130" y1="60" x2="224" y2="98" class="r-cluster-line"/>
         </g>
 
         <!-- YouTube cluster -->
         <g class="r-source-cluster r-cluster-yt">
-          <circle cx="400" cy="70" r="22" class="r-cluster-node"/>
-          <text x="400" y="67" class="r-cluster-label">33</text>
-          <text x="400" y="80" class="r-cluster-sub">YouTube</text>
-          <line x1="378" y1="82" x2="278" y2="138" class="r-cluster-line"/>
+          <circle cx="390" cy="50" r="22" class="r-cluster-node"/>
+          <text x="390" y="47" class="r-cluster-label">33</text>
+          <text x="390" y="60" class="r-cluster-sub">YouTube</text>
+          <line x1="370" y1="60" x2="276" y2="98" class="r-cluster-line"/>
         </g>
 
-        <!-- Language nodes scattered around -->
-        <g class="r-lang-nodes">
-          <circle cx="60" cy="180" r="14" class="r-lang-node"><title>English</title></circle>
-          <text x="60" y="184" class="r-lang-label">EN</text>
-          <line x1="74" y1="176" x2="222" y2="152" class="r-lang-line"/>
+        <!-- "Any language" label below hub -->
+        <text x="250" y="160" class="r-hub-lang-label">any language</text>
 
-          <circle cx="130" cy="240" r="14" class="r-lang-node"><title>Spanish</title></circle>
-          <text x="130" y="244" class="r-lang-label">ES</text>
-          <line x1="140" y1="228" x2="238" y2="168" class="r-lang-line"/>
-
-          <circle cx="220" cy="270" r="14" class="r-lang-node"><title>French</title></circle>
-          <text x="220" y="274" class="r-lang-label">FR</text>
-          <line x1="228" y1="256" x2="245" y2="178" class="r-lang-line"/>
-
-          <circle cx="310" cy="270" r="14" class="r-lang-node"><title>German</title></circle>
-          <text x="310" y="274" class="r-lang-label">DE</text>
-          <line x1="302" y1="256" x2="260" y2="178" class="r-lang-line"/>
-
-          <circle cx="400" cy="240" r="14" class="r-lang-node"><title>Portuguese</title></circle>
-          <text x="400" y="244" class="r-lang-label">PT</text>
-          <line x1="388" y1="228" x2="268" y2="168" class="r-lang-line"/>
-
-          <circle cx="450" cy="180" r="14" class="r-lang-node"><title>Italian</title></circle>
-          <text x="450" y="184" class="r-lang-label">IT</text>
-          <line x1="436" y1="176" x2="278" y2="152" class="r-lang-line"/>
-
-          <circle cx="160" cy="150" r="10" class="r-lang-node r-lang-sm"><title>Dutch</title></circle>
-          <text x="160" y="154" class="r-lang-label r-lang-label-sm">NL</text>
-          <line x1="170" y1="150" x2="220" y2="150" class="r-lang-line"/>
-
-          <circle cx="340" cy="150" r="10" class="r-lang-node r-lang-sm"><title>Arabic</title></circle>
-          <text x="340" y="154" class="r-lang-label r-lang-label-sm">AR</text>
-          <line x1="330" y1="150" x2="280" y2="150" class="r-lang-line"/>
-        </g>
+        <!-- Small dots around the hub representing many languages -->
+        <circle cx="200" cy="110" r="3" class="r-lang-dot r-lang-dot-1"/>
+        <circle cx="300" cy="110" r="3" class="r-lang-dot r-lang-dot-2"/>
+        <circle cx="220" cy="140" r="2.5" class="r-lang-dot r-lang-dot-3"/>
+        <circle cx="280" cy="140" r="2.5" class="r-lang-dot r-lang-dot-4"/>
+        <circle cx="210" cy="80" r="2.5" class="r-lang-dot r-lang-dot-5"/>
+        <circle cx="290" cy="80" r="2.5" class="r-lang-dot r-lang-dot-6"/>
+        <circle cx="250" cy="150" r="2" class="r-lang-dot r-lang-dot-7"/>
 
         <!-- Animated data pulses along lines -->
         <circle r="3" class="r-data-pulse r-dp-1">
-          <animateMotion dur="2.5s" repeatCount="indefinite" path="M 122 82 L 222 138"/>
+          <animateMotion dur="2.5s" repeatCount="indefinite" path="M 130 60 L 224 98"/>
         </circle>
         <circle r="3" class="r-data-pulse r-dp-2">
-          <animateMotion dur="2.8s" repeatCount="indefinite" path="M 378 82 L 278 138"/>
-        </circle>
-        <circle r="2.5" class="r-data-pulse r-dp-3">
-          <animateMotion dur="3s" repeatCount="indefinite" path="M 74 176 L 222 152"/>
-        </circle>
-        <circle r="2.5" class="r-data-pulse r-dp-4">
-          <animateMotion dur="3.2s" repeatCount="indefinite" path="M 388 228 L 268 168"/>
+          <animateMotion dur="2.8s" repeatCount="indefinite" path="M 370 60 L 276 98"/>
         </circle>
       </svg>
     </div>
