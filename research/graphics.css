@@ -41,58 +41,44 @@
 .r-graphic-overload {
   margin: 28px 0;
 }
-.r-overload-feeds {
-  display: flex;
-  align-items: flex-end;
-  gap: 8px;
-  height: 140px;
-  padding: 0 4px;
+.r-overload-volume {
+  max-width: 400px;
+  margin: 0 auto;
 }
-.r-feed-col {
-  flex: 1;
-  height: 100%;
-  display: flex;
-  align-items: flex-end;
-  position: relative;
-}
-.r-feed-bar {
+.r-volume-svg {
   width: 100%;
-  height: var(--bar-h, 50%);
-  border-radius: 6px 6px 0 0;
-  background: var(--bar-color, var(--text-muted));
+  height: auto;
+  display: block;
+}
+.r-stream {
+  stroke: var(--text-muted);
+  stroke-width: 1.5;
+  opacity: 0.3;
+  stroke-dasharray: 4 3;
+}
+.r-stream-1 { animation: r-stream-flow 2s ease-in-out infinite 0s; }
+.r-stream-2 { animation: r-stream-flow 2s ease-in-out infinite 0.3s; }
+.r-stream-3 { animation: r-stream-flow 2s ease-in-out infinite 0.6s; }
+.r-stream-4 { animation: r-stream-flow 2s ease-in-out infinite 0.9s; }
+.r-stream-5 { animation: r-stream-flow 2s ease-in-out infinite 1.2s; }
+@keyframes r-stream-flow {
+  0%, 100% { opacity: 0.15; }
+  50% { opacity: 0.5; }
+}
+.r-funnel-dot {
+  fill: var(--accent-detect);
   opacity: 0.7;
-  transition: opacity 0.3s ease, transform 0.3s ease;
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-  padding-bottom: 8px;
-  animation: r-bar-grow 1s ease forwards;
-  transform-origin: bottom;
 }
-.r-feed-col:hover .r-feed-bar {
-  opacity: 0.95;
-  transform: scaleY(1.02);
+.r-stream-out {
+  stroke: var(--accent-report);
+  stroke-width: 2;
+  opacity: 0.5;
 }
-/* Per-language bar colors */
-[data-lang="EN"] .r-feed-bar { --bar-color: var(--lang-en); }
-[data-lang="ES"] .r-feed-bar { --bar-color: var(--lang-es); }
-[data-lang="DE"] .r-feed-bar { --bar-color: var(--lang-de); }
-[data-lang="FR"] .r-feed-bar { --bar-color: var(--lang-fr); }
-[data-lang="PT"] .r-feed-bar { --bar-color: var(--lang-pt); }
-[data-lang="IT"] .r-feed-bar { --bar-color: var(--lang-it); }
-[data-lang="NL"] .r-feed-bar { --bar-color: var(--lang-nl); }
-[data-lang="AR"] .r-feed-bar { --bar-color: var(--lang-ar); }
-
-.r-feed-bar span {
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  color: #fff;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
-}
-@keyframes r-bar-grow {
-  from { transform: scaleY(0); }
-  to { transform: scaleY(1); }
+.r-volume-label {
+  font-size: 9px;
+  fill: var(--text-muted);
+  text-anchor: middle;
+  font-family: 'Geist Mono', monospace;
 }
 .r-overload-label {
   text-align: center;
@@ -104,19 +90,6 @@
 .r-overload-num {
   font-weight: 700;
   color: var(--text);
-}
-/* Subtle baseline for bar chart */
-.r-overload-feeds::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 1px;
-  background: var(--border);
-}
-.r-overload-feeds {
-  position: relative;
 }
 
 /* ============================================================
@@ -482,11 +455,6 @@
 .r-offering:nth-child(3) .r-icon-stroke { stroke: var(--accent-ingest); }
 .r-offering:nth-child(3) .r-icon-fill { fill: var(--accent-ingest); }
 
-.r-icon-lang-text {
-  fill: var(--accent-ingest);
-  font-family: 'Geist Mono', monospace;
-  font-weight: 600;
-}
 @keyframes r-radar-sweep {
   0% { opacity: 0.2; }
   50% { opacity: 0.7; }
@@ -584,65 +552,29 @@
 .r-cluster-rss .r-cluster-line { stroke: var(--accent-ingest); opacity: 0.3; }
 .r-cluster-yt .r-cluster-line { stroke: var(--lang-en); opacity: 0.3; }
 
-/* Language nodes — color-coded */
-.r-lang-node {
-  stroke-width: 1.5;
-  opacity: 0.6;
-  transition: opacity 0.3s;
+/* Language dots — subtle indicators around the hub */
+.r-lang-dot {
+  fill: var(--text-muted);
+  opacity: 0.3;
 }
-.r-lang-node:hover {
-  opacity: 0.95;
+@keyframes r-lang-dot-pulse {
+  0%, 100% { opacity: 0.15; }
+  50% { opacity: 0.5; }
 }
-.r-lang-sm {
-  opacity: 0.5;
-}
-.r-lang-label {
-  font-size: 8px;
-  font-weight: 700;
+.r-lang-dot-1 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 0s; }
+.r-lang-dot-2 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 0.4s; }
+.r-lang-dot-3 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 0.8s; }
+.r-lang-dot-4 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 1.2s; }
+.r-lang-dot-5 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 1.6s; }
+.r-lang-dot-6 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 2.0s; }
+.r-lang-dot-7 { animation: r-lang-dot-pulse 2.5s ease-in-out infinite 0.2s; }
+
+.r-hub-lang-label {
+  font-size: 10px;
+  fill: var(--text-muted);
   text-anchor: middle;
   font-family: 'Geist Mono', monospace;
 }
-.r-lang-label-sm {
-  font-size: 7px;
-}
-.r-lang-line {
-  stroke-width: 0.75;
-  opacity: 0.2;
-}
-
-/* Per-language node colors via SVG title child matching isn't possible in CSS,
-   so we use nth-child on the g.r-lang-nodes children */
-.r-lang-nodes circle:nth-of-type(1) { fill: rgba(229,83,75,0.12); stroke: var(--lang-en); }
-.r-lang-nodes text:nth-of-type(1) { fill: var(--lang-en); }
-.r-lang-nodes line:nth-of-type(1) { stroke: var(--lang-en); }
-
-.r-lang-nodes circle:nth-of-type(2) { fill: rgba(240,136,62,0.12); stroke: var(--lang-es); }
-.r-lang-nodes text:nth-of-type(2) { fill: var(--lang-es); }
-.r-lang-nodes line:nth-of-type(2) { stroke: var(--lang-es); }
-
-.r-lang-nodes circle:nth-of-type(3) { fill: rgba(163,113,247,0.12); stroke: var(--lang-fr); }
-.r-lang-nodes text:nth-of-type(3) { fill: var(--lang-fr); }
-.r-lang-nodes line:nth-of-type(3) { stroke: var(--lang-fr); }
-
-.r-lang-nodes circle:nth-of-type(4) { fill: rgba(83,155,245,0.12); stroke: var(--lang-de); }
-.r-lang-nodes text:nth-of-type(4) { fill: var(--lang-de); }
-.r-lang-nodes line:nth-of-type(4) { stroke: var(--lang-de); }
-
-.r-lang-nodes circle:nth-of-type(5) { fill: rgba(52,125,57,0.12); stroke: var(--lang-pt); }
-.r-lang-nodes text:nth-of-type(5) { fill: var(--lang-pt); }
-.r-lang-nodes line:nth-of-type(5) { stroke: var(--lang-pt); }
-
-.r-lang-nodes circle:nth-of-type(6) { fill: rgba(87,171,90,0.12); stroke: var(--lang-it); }
-.r-lang-nodes text:nth-of-type(6) { fill: var(--lang-it); }
-.r-lang-nodes line:nth-of-type(6) { stroke: var(--lang-it); }
-
-.r-lang-nodes circle:nth-of-type(7) { fill: rgba(218,170,63,0.12); stroke: var(--lang-nl); }
-.r-lang-nodes text:nth-of-type(7) { fill: var(--lang-nl); }
-.r-lang-nodes line:nth-of-type(7) { stroke: var(--lang-nl); }
-
-.r-lang-nodes circle:nth-of-type(8) { fill: rgba(219,109,40,0.12); stroke: var(--lang-ar); }
-.r-lang-nodes text:nth-of-type(8) { fill: var(--lang-ar); }
-.r-lang-nodes line:nth-of-type(8) { stroke: var(--lang-ar); }
 
 /* Data pulse animations along lines — colored */
 .r-data-pulse {
@@ -790,9 +722,6 @@
   .r-pipeline-svg {
     min-width: 480px;
   }
-  .r-overload-feeds {
-    height: 90px;
-  }
   .r-oss-compare {
     grid-template-columns: 1fr;
     gap: 8px;
@@ -800,10 +729,10 @@
   .r-oss-divider {
     padding: 4px 0;
   }
-  .r-source-svg {
-    min-width: 400px;
-  }
   .r-tuning-svg {
     max-width: 320px;
+  }
+  .r-volume-svg {
+    max-width: 300px;
   }
 }
