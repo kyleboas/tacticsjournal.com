@@ -9,7 +9,7 @@
   --border-hover: rgba(0,0,0,0.18);
   --btn-bg: #111;
   --btn-text: #fff;
-  
+
   width: 100%;
   background: var(--bg);
   max-width: 760px;
@@ -42,11 +42,6 @@
 .r-fade-d1 { animation-delay: 0.1s; }
 .r-fade-d2 { animation-delay: 0.2s; }
 .r-fade-d3 { animation-delay: 0.3s; }
-
-@keyframes shimmer {
-  0% { background-position: 200% center; }
-  to { background-position: -200% center; }
-}
 
 /* Hero */
 .r-hero {
@@ -101,68 +96,14 @@
   margin-bottom: 20px;
 }
 .r-section p:last-child { margin-bottom: 0; }
-
-/* Cards */
-.r-card {
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 24px;
-  margin: 20px 0;
-  transition: border-color 0.15s ease;
+.r-section a {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
-.r-card:hover { border-color: var(--border-hover); }
-.r-card-label {
-  font-size: 10px;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--text-muted);
-  margin-bottom: 12px;
-  font-weight: 500;
-}
-.r-card p {
-  font-size: 15px;
-  line-height: 1.65;
+.r-section a:hover {
   color: var(--text-secondary);
-  margin-bottom: 12px;
 }
-.r-card p:last-child { margin-bottom: 0; }
-
-/* Stats */
-.r-stat-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 28px 0; }
-.r-stat-card {
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 24px 20px;
-  text-align: center;
-  transition: border-color 0.15s ease;
-}
-.r-stat-card:hover { border-color: var(--border-hover); }
-.r-stat-num { font-size: 28px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
-.r-stat-label { font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-muted); font-weight: 500; }
-.r-stat-sub { font-size: 11px; color: var(--text-muted); margin-top: 6px; font-family: 'Geist Mono', monospace; }
-
-/* Flow Diagram */
-.r-flow { display: flex; align-items: center; gap: 0; margin: 28px 0; flex-wrap: wrap; }
-.r-flow-node {
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 14px 24px;
-  min-width: 110px;
-  text-align: center;
-  transition: border-color 0.15s ease;
-}
-.r-flow-node:hover { border-color: var(--border-hover); }
-.r-flow-node-title { font-size: 13px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
-.r-flow-node-sub { font-size: 11px; color: var(--text-muted); font-family: 'Geist Mono', monospace; }
-.r-flow-arrow { font-size: 16px; color: var(--text-muted); padding: 0 8px; flex-shrink: 0; }
-.r-flow-note { font-size: 12px; color: var(--text-muted); margin-top: 12px; font-family: 'Geist Mono', monospace; }
-
-/* Steps */
-.r-step { display: grid; grid-template-columns: 32px 1fr; gap: 0 14px; margin-bottom: 32px; }
-.r-step:last-child { margin-bottom: 0; }
-.r-step-num { font-size: 12px; font-weight: 500; color: var(--text-muted); padding-top: 2px; font-family: 'Geist Mono', monospace; }
-.r-step-title { font-size: 15px; font-weight: 600; color: var(--text); margin-bottom: 6px; }
-.r-step-body { font-size: 14px; line-height: 1.7; color: var(--text-secondary); }
 
 /* Tags */
 .r-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0; }
@@ -254,10 +195,6 @@
     min-height: calc(100svh - 64px);
   }
   .r-section { padding: 40px 0; }
-  .r-stat-grid { grid-template-columns: 1fr; }
-  .r-flow { flex-direction: column; align-items: stretch; gap: 0; }
-  .r-flow-arrow { transform: rotate(90deg); padding: 4px 0; text-align: center; }
-  .r-flow-node { min-width: auto; }
   .r-sub-statement {
     font-size: 1.05rem;
     max-width: 18rem;
