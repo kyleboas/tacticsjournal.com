@@ -43,6 +43,9 @@
   gap: 16px;
   padding: 8px 0;
   width: max-content;
+  will-change: transform;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
 }
 
 .research-row-1 { animation: research-left var(--speed1) linear infinite; }
@@ -88,6 +91,9 @@
   background-repeat: no-repeat;
   box-shadow: 0 2px 16px rgba(0,0,0,.12), 0 1px 4px rgba(0,0,0,.06);
   transition: transform .3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow .3s;
+  will-change: transform;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
 }
 .research-img-card:hover {
   transform: scale(1.04) translateY(-3px);
