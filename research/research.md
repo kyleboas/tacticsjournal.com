@@ -24,7 +24,7 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">The Problem</div>
   <p>
-    Good ideas often show up first in smaller outlets, interviews, and podcasts. By the time bigger outlets cover them, the edge is usually gone.
+    Good ideas often show up first in smaller outlets, interviews, and podcasts in different leagues and languages. By the time bigger English outlets cover them, the edge is gone.
   </p>
 
 </div>
@@ -32,7 +32,6 @@ permalink: /research/
 <!-- HOW IT WORKS -->
 <div class="r-section">
   <div class="r-section-label">How It Works</div>
-  <p>Three steps.</p>
 
   <div class="r-steps-compact">
     <div class="r-step-compact">
@@ -42,12 +41,7 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        The system pulls in articles and videos, re-checks recent items so it does not miss late posts, and stores the useful parts for search.
-        <div class="r-tags">
-          <span class="r-tag">Articles</span>
-          <span class="r-tag">Videos</span>
-          <span class="r-tag">Searchable Archive</span>
-        </div>
+        The system pulls in articles and videos and stores the useful parts in a searchable archive.
       </div>
     </div>
 
@@ -58,7 +52,7 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        It looks for ideas that show up in blog posts, press conferences, podcasts, and interviews before they become common in mainstream coverage. Weak ideas get pushed back. Stronger ones move forward.
+        It looks for ideas that show up in blog posts, press conferences, podcasts, and interviews before they reach mainstream coverage. Weak ideas get pushed back. Stronger ones move forward.
         <div class="r-tags">
           <span class="r-tag">Early Ideas</span>
           <span class="r-tag">Quality Filter</span>
@@ -95,7 +89,7 @@ permalink: /research/
 <!-- WHAT YOU GET -->
 <div class="r-section">
   <div class="r-section-label">What You Get</div>
-  <p>A deep research report in your inbox.</p>
+  <p>A deep research report in your inbox every day.</p>
 
   <div class="r-offerings">
     <div class="r-offering">
@@ -152,9 +146,8 @@ permalink: /research/
 <!-- OPEN SOURCE -->
 <div class="r-section">
   <div class="r-section-label">Open Source</div>
-  <p>The entire pipeline is <a href="https://github.com/kyleboas/research" target="_blank">open source</a>. You can inspect it, run it yourself, or adapt it.</p>
+  <p>The entire system is <a href="https://github.com/kyleboas/research" target="_blank">open source</a>. You can inspect it and run it yourself.</p>
 
-  <!-- Interactive: Open Source vs Subscription comparison -->
   <div class="r-oss-compare">
     <div class="r-oss-col r-oss-free">
       <div class="r-oss-header">
@@ -171,7 +164,7 @@ permalink: /research/
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg>
         <span>Subscription</span>
       </div>
-      <div class="r-oss-body">A running version, without having to set it up or manage it yourself. The cost of a subscription will be less than </div>
+      <div class="r-oss-body">We run it, you use it. No setup, no maintenance.</div>
     </div>
   </div>
 
@@ -185,7 +178,7 @@ permalink: /research/
 
 <!-- RUNTIME BUDGET -->
 <div class="r-section">
-  <div class="r-section-label">Runtime Budget</div>
+  <div class="r-section-label">Pricing</div>
 
   <div class="r-pricing-graphic">
     <div class="r-pricing-card">
