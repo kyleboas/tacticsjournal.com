@@ -71,7 +71,8 @@
   color: var(--text-secondary);
   line-height: 1.2;
   max-width: 28rem;
-  margin: 0 0 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
 }
 
 /* Hero Actions */

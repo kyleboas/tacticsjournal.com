@@ -60,7 +60,7 @@ html, body {
     background: var(--bg);
   }
   
-  header {
+  .site-header {
     border-color: var(--border);
     background: var(--bg);
   }
@@ -142,26 +142,29 @@ html, body {
 // HEADER
 // =============================================================================
 
-header {
-  display: flex;
+header.site-header {
+  display: grid;
+  grid-template-columns: 40px minmax(0, 1fr) 108px;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  min-height: 64px;
+  gap: 0;
+  min-height: 44px;
   padding: 0 20px;
-  border-bottom: 1px dashed #A9A9A9;
   box-sizing: border-box;
+  background: var(--bg, #fff);
 }
 
 .site-logo {
   display: inline-flex;
   align-items: center;
-  flex: 0 0 auto;
+  justify-self: start;
+  justify-content: flex-start;
+  width: 40px;
+  min-height: 44px;
 }
 
 .site-logo img {
-  width: 32px;
-  height: 32px;
+  width: 17px;
+  height: 17px;
   object-fit: contain;
   margin: 0;
 }
@@ -170,45 +173,56 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 20px;
-  flex: 1 1 auto;
+  gap: 28px;
   min-width: 0;
 }
 
 .site-nav a {
   color: $darkGray;
   text-decoration: none;
-  font-size: 1.1rem;
+  font-size: 0.75rem;
   font-weight: 400;
   line-height: 1;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+  transition: opacity 0.15s ease;
+}
+
+.site-nav a:hover {
+  opacity: 0.6;
 }
 
 .site-nav a.active {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .site-actions {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  gap: 4px;
-  flex: 0 0 auto;
+  justify-self: end;
+  gap: 0;
+  width: 108px;
 }
 
 .site-action {
-  width: 32px;
-  height: 32px;
+  width: 36px;
+  height: 44px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   color: $darkGray;
-  border-radius: 999px;
   text-decoration: none;
+  transition: opacity 0.15s ease;
+}
+
+.site-action:hover {
+  opacity: 0.6;
 }
 
 .site-action svg {
-  width: 18px;
-  height: 18px;
+  width: 15px;
+  height: 15px;
   stroke: currentColor;
   stroke-width: 1.75;
   fill: none;
@@ -230,7 +244,7 @@ header {
 }
 
 .site-menu[open] .site-action {
-  background: rgba(0, 0, 0, 0.05);
+  opacity: 0.6;
 }
 
 .site-menu-panel {
@@ -263,37 +277,42 @@ header {
     --site-padding: 20px;
   }
   
-  header {
-    min-height: 64px;
-    padding: 0 18px;
-    gap: 12px;
+  header.site-header {
+    grid-template-columns: 28px minmax(0, 1fr) 96px;
+    min-height: 48px;
+    padding: 0 14px;
   }
   
+  .site-logo {
+    width: 28px;
+    min-height: 48px;
+  }
+
   .site-logo img {
-    width: 34px;
-    height: 34px;
+    width: 18px;
+    height: 18px;
   }
   
   .site-nav {
-    gap: 18px;
+    gap: 16px;
   }
   
   .site-nav a {
-    font-size: 1rem;
+    font-size: 0.78rem;
   }
   
   .site-actions {
-    gap: 2px;
+    width: 96px;
   }
   
   .site-action {
     width: 32px;
-    height: 32px;
+    height: 48px;
   }
   
   .site-action svg {
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
   }
 }
 
