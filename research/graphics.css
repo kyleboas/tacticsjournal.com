@@ -34,9 +34,7 @@
 /* ============================================================
    Expandable Steps (How It Works details)
    ============================================================ */
-.r-steps-compact {
-  margin-top: 28px;
-}
+
 .r-step-compact {
   border: 1px solid var(--border);
   border-radius: 10px;
