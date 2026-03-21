@@ -130,23 +130,25 @@ permalink: /research/
         name="Free"
         description="See what the system finds."
         price="$0"
-        item_1="1 full report per week"
+        item_1="Unlock 1 full report per week"
         item_2="Preview of every report"
         item_3="Delivered by email"
         cta_text="Get Started"
         cta_href="#waitlist"
       %}
 
+
       {% include research-pricing-card.html
         name="Pro"
         description="Everything. No limits."
-        price="$10"
-        price_yearly="$8"
+        price="$15"
+        price_yearly="$12.50"
         price_suffix="month"
-        yearly_note="$96 billed yearly (20% off)"
+        yearly_note="$150 billed yearly (2 months free)"
         item_1="Every report in full"
         item_2="Full archive access"
         item_3="Delivered by email"
+        item_4="Early access to new features"
         cta_text="Subscribe"
         cta_href="#waitlist"
         featured=true
