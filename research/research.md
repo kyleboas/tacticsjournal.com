@@ -6,6 +6,7 @@ permalink: /research/
 <link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/research/graphics.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/research/scrolling-headlines.css" />
+<script src="{{ site.baseurl }}/research/scrolling-headlines.js" defer></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Source+Serif+4:wght@700&display=swap" rel="stylesheet">
