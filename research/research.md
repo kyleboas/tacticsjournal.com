@@ -51,7 +51,15 @@ permalink: /research/
   <div class="r-steps-compact">
     <div class="r-step-compact">
       <div class="r-step-header">
-        <span class="r-step-num">01</span>
+        <span class="r-step-icon r-step-icon--ingest">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path class="r-icon-arrow r-icon-arrow--1" d="M12 3v13" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <path class="r-icon-arrow r-icon-arrow--1" d="M7 12l5 5 5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path class="r-icon-arrow r-icon-arrow--2" d="M5 7v9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+            <path class="r-icon-arrow r-icon-arrow--3" d="M19 5v11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+            <path d="M3 21h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </span>
         <span class="r-step-title">Ingest</span>
       </div>
       <div class="r-step-detail">
@@ -61,7 +69,15 @@ permalink: /research/
 
     <div class="r-step-compact">
       <div class="r-step-header">
-        <span class="r-step-num">02</span>
+        <span class="r-step-icon r-step-icon--detect">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle class="r-icon-radar-ring r-icon-radar-ring--3" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.5" opacity="0.15"/>
+            <circle class="r-icon-radar-ring r-icon-radar-ring--2" cx="12" cy="12" r="7" stroke="currentColor" stroke-width="1.5" opacity="0.25"/>
+            <circle class="r-icon-radar-ring r-icon-radar-ring--1" cx="12" cy="12" r="4" stroke="currentColor" stroke-width="1.5" opacity="0.4"/>
+            <circle cx="12" cy="12" r="2" fill="currentColor" opacity="0.9"/>
+            <line class="r-icon-radar-sweep" x1="12" y1="12" x2="12" y2="2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </span>
         <span class="r-step-title">Detect</span>
       </div>
       <div class="r-step-detail">
@@ -71,7 +87,14 @@ permalink: /research/
 
     <div class="r-step-compact">
       <div class="r-step-header">
-        <span class="r-step-num">03</span>
+        <span class="r-step-icon r-step-icon--report">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="4" y="2" width="16" height="20" rx="2" stroke="currentColor" stroke-width="2"/>
+            <line class="r-icon-line r-icon-line--1" x1="8" y1="7" x2="16" y2="7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <line class="r-icon-line r-icon-line--2" x1="8" y1="11" x2="16" y2="11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <line class="r-icon-line r-icon-line--3" x1="8" y1="15" x2="12" y2="15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </span>
         <span class="r-step-title">Report</span>
       </div>
       <div class="r-step-detail">
@@ -81,7 +104,14 @@ permalink: /research/
 
     <div class="r-step-compact">
       <div class="r-step-header">
-        <span class="r-step-num">04</span>
+        <span class="r-step-icon r-step-icon--tune">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <line x1="4" y1="7" x2="20" y2="7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <line x1="4" y1="17" x2="20" y2="17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <circle class="r-icon-knob r-icon-knob--1" cx="9" cy="7" r="3" fill="currentColor" stroke="currentColor" stroke-width="1.5"/>
+            <circle class="r-icon-knob r-icon-knob--2" cx="15" cy="17" r="3" fill="currentColor" stroke="currentColor" stroke-width="1.5"/>
+          </svg>
+        </span>
         <span class="r-step-title">Tune</span>
       </div>
       <div class="r-step-detail">
@@ -102,7 +132,7 @@ permalink: /research/
 <!-- OPEN SOURCE -->
 <div class="r-section">
   <div class="r-section-label">Open Source</div>
-  <p>The entire system is open source. Subscribing is cheaper than running it yourself.​​​​​​​​​​​​​​​​</p>
+  <p>The entire system is <a href="https://github.com/kyleboas/research" target="_blank">open source</a>. Subscribing is cheaper than running it yourself.​​​​​​​​​​​​​​​​</p>
   <p>
     <a href="https://github.com/kyleboas/research" target="_blank" class="r-github-link">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
@@ -130,25 +160,23 @@ permalink: /research/
         name="Free"
         description="See what the system finds."
         price="$0"
-        item_1="Unlock 1 full report per week"
+        item_1="1 full report per week"
         item_2="Preview of every report"
         item_3="Delivered by email"
         cta_text="Get Started"
         cta_href="#waitlist"
       %}
 
-
       {% include research-pricing-card.html
         name="Pro"
         description="Everything. No limits."
-        price="$15"
-        price_yearly="$12.50"
+        price="$10"
+        price_yearly="$8"
         price_suffix="month"
-        yearly_note="$150 billed yearly (2 months free)"
+        yearly_note="$96 billed yearly (20% off)"
         item_1="Every report in full"
         item_2="Full archive access"
         item_3="Delivered by email"
-        item_4="Early access to new features"
         cta_text="Subscribe"
         cta_href="#waitlist"
         featured=true
