@@ -154,8 +154,8 @@ header.site-header {
 }
 
 .site-logo img {
-  width: 17px;
-  height: 17px;
+  width: 24px;
+  height: 24px;
   object-fit: contain;
   margin: 0;
 }
@@ -171,7 +171,7 @@ header.site-header {
 .site-nav a {
   color: $darkGray;
   text-decoration: none;
-  font-size: 0.75rem;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1;
   letter-spacing: -0.01em;
@@ -230,7 +230,7 @@ header.site-header {
   align-items: center;
   justify-content: flex-end;
   justify-self: end;
-  gap: 16px;
+  gap: 26px;
 }
 
 .site-action {
@@ -263,6 +263,9 @@ header.site-header {
 .site-menu summary {
   list-style: none;
   cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .site-menu summary::-webkit-details-marker {
@@ -333,16 +336,16 @@ header.site-header {
   }
 
   .site-logo img {
-    width: 18px;
-    height: 18px;
+    width: 24px;
+    height: 24px;
   }
   
   .site-nav {
-    gap: 16px;
+    gap: 26px;
   }
   
   .site-nav a {
-    font-size: 0.78rem;
+    font-size: 0.9rem;
   }
   
   // Mobile: hide nav items after divider

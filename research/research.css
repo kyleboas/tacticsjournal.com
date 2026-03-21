@@ -83,15 +83,17 @@
 /* Sections */
 .r-section { padding: 56px 0 }
 .r-section:first-child { border-top: none; }
+.r-section--no-top-padding { padding: 0; }
+.r-section--no-bottom-padding { padding-bottom: 0; }
 .r-section-label {
-  font-size: 26px;
+  font-size: 24px;
   font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
   margin-bottom: 20px;
 }
 .r-section p {
-  font-size: 15px;
-  line-height: 1.7;
+  font-size: 16px;
+  line-height: 1.5;
   color: var(--text-secondary);
   margin-bottom: 20px;
 }
@@ -184,15 +186,19 @@
 .r-github-link svg { flex-shrink: 0; }
 
 /* Misc */
-.r-audience { font-size: 13px; color: var(--text-muted); margin-top: 32px; font-style: italic; }
+.r-audience { font-size: 13px; color: var(--text-muted); margin-top: 32px; }
 .r-mono { font-family: 'Geist Mono', monospace; font-size: 12px; color: var(--text-muted); background: rgba(128,128,128,0.1); padding: 2px 8px; border-radius: 4px; }
+
+/* Waitlist Section */
+#waitlist p { text-align: center; }
 
 /* Responsive */
 @media (max-width: 569px) {
   .r-hero {
     padding: 38px 0 0;
   }
-  .r-section { padding: 40px 0; }
+  .r-section { padding: 36px 0; }
+  .r-section--no-top-padding { padding: 0; }
   .r-sub-statement {
     font-size: 1.05rem;
     max-width: 18rem;
