@@ -51,6 +51,15 @@ permalink: /research/
   <div class="r-steps-compact">
     <div class="r-step-compact">
       <div class="r-step-header">
+        <span class="r-step-icon r-step-icon--ingest">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path class="r-icon-arrow r-icon-arrow--1" d="M12 3v13" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            <path class="r-icon-arrow r-icon-arrow--1" d="M7 12l5 5 5-5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path class="r-icon-arrow r-icon-arrow--2" d="M5 7v9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+            <path class="r-icon-arrow r-icon-arrow--3" d="M19 5v11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+            <path d="M3 21h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </span>
         <span class="r-step-num">01</span>
         <span class="r-step-title">Ingest</span>
       </div>
@@ -61,6 +70,15 @@ permalink: /research/
 
     <div class="r-step-compact">
       <div class="r-step-header">
+        <span class="r-step-icon r-step-icon--detect">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle class="r-icon-radar-ring r-icon-radar-ring--3" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.5" opacity="0.15"/>
+            <circle class="r-icon-radar-ring r-icon-radar-ring--2" cx="12" cy="12" r="7" stroke="currentColor" stroke-width="1.5" opacity="0.25"/>
+            <circle class="r-icon-radar-ring r-icon-radar-ring--1" cx="12" cy="12" r="4" stroke="currentColor" stroke-width="1.5" opacity="0.4"/>
+            <circle cx="12" cy="12" r="2" fill="currentColor" opacity="0.9"/>
+            <line class="r-icon-radar-sweep" x1="12" y1="12" x2="12" y2="2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </span>
         <span class="r-step-num">02</span>
         <span class="r-step-title">Detect</span>
       </div>
@@ -71,6 +89,14 @@ permalink: /research/
 
     <div class="r-step-compact">
       <div class="r-step-header">
+        <span class="r-step-icon r-step-icon--report">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="4" y="2" width="16" height="20" rx="2" stroke="currentColor" stroke-width="2"/>
+            <line class="r-icon-line r-icon-line--1" x1="8" y1="7" x2="16" y2="7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <line class="r-icon-line r-icon-line--2" x1="8" y1="11" x2="16" y2="11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <line class="r-icon-line r-icon-line--3" x1="8" y1="15" x2="12" y2="15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+        </span>
         <span class="r-step-num">03</span>
         <span class="r-step-title">Report</span>
       </div>
@@ -81,6 +107,14 @@ permalink: /research/
 
     <div class="r-step-compact">
       <div class="r-step-header">
+        <span class="r-step-icon r-step-icon--tune">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <line x1="4" y1="7" x2="20" y2="7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <line x1="4" y1="17" x2="20" y2="17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            <circle class="r-icon-knob r-icon-knob--1" cx="9" cy="7" r="3" fill="currentColor" stroke="currentColor" stroke-width="1.5"/>
+            <circle class="r-icon-knob r-icon-knob--2" cx="15" cy="17" r="3" fill="currentColor" stroke="currentColor" stroke-width="1.5"/>
+          </svg>
+        </span>
         <span class="r-step-num">04</span>
         <span class="r-step-title">Tune</span>
       </div>
