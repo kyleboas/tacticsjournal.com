@@ -128,26 +128,26 @@ permalink: /research/
     <div class="r-pricing-grid">
       {% include research-pricing-card.html
         name="Free"
-        description="A simple way to sample the feed."
+        description="A simple way to sample the reports."
         price="$0"
-        item_1="Read 1 full report per week"
+        item_1="Read 1 full report per week of your choosing"
         item_2="See a preview of every report"
-        item_3_x="After your free report is used, the next full report prompts you to upgrade"
-        item_4="Reports arrive by email and stay accessible on the website"
+        item_3="Reports arrive by email and stay accessible on the website"
+        item_4_x="After your one free report is used, the next full report prompts you to upgrade"
         cta_text="Get Started"
         cta_href="#waitlist"
       %}
 
       {% include research-pricing-card.html
         name="Pro"
-        description="Full access to the research archive."
+        description="Full access to every report."
         price="$10"
         price_yearly="$8"
         price_suffix="month"
         yearly_note="$96 billed yearly (20% off)"
         item_1="Read every report in full"
         item_2="Every report delivered by email"
-        item_3="Direct links to reports on the website"
+        item_3="Reports arrive by email and stay accessible on the website"
         item_4="Built for analysts, coaches, and clubs who want to get an edge on the competition"
         cta_text="Subscribe"
         cta_href="#waitlist"
