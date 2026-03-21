@@ -13,8 +13,8 @@ permalink: /research/
 
 <!-- HERO -->
 <div class="r-hero">
-  <h2 class="r-fade r-fade-d1">Research</h2>
-  <p class="r-sub-statement r-fade r-fade-d2">Spot trends in football before they become popular.</p>
+  <h2 class="r-fade r-fade-d1">Get Ahead of the Game</h2>
+  <p class="r-sub-statement r-fade r-fade-d2">The future of football tactics, delivered to you today.</p>
   <div class="r-hero-actions r-fade r-fade-d3">
     {% include research-waitlist-form.html %}
   </div>
