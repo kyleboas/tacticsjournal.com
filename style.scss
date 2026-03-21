@@ -196,8 +196,6 @@ header.site-header {
 }
 
 .site-action {
-  width: 36px;
-  height: 44px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -211,8 +209,8 @@ header.site-header {
 }
 
 .site-action svg {
-  width: 15px;
-  height: 15px;
+  width: 22px;
+  height: 22px;
   stroke: currentColor;
   stroke-width: 1.75;
   fill: none;
@@ -295,14 +293,9 @@ header.site-header {
     width: 96px;
   }
   
-  .site-action {
-    width: 32px;
-    height: 48px;
-  }
-  
   .site-action svg {
-    width: 15px;
-    height: 15px;
+    width: 22px;
+    height: 22px;
   }
 }
 
