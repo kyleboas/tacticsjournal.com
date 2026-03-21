@@ -141,6 +141,8 @@ header.site-header {
   padding: 0 20px;
   box-sizing: border-box;
   background: var(--bg, #fff);
+  width: 100%;
+  position: relative;
 }
 
 .site-logo {
