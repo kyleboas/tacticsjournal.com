@@ -29,33 +29,30 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">The Problem</div>
   <p>
-    Useful ideas show up first in niche places in different countries. A pressing tweak mentioned in a German podcast. A positional pattern on a Portuguese blog. A phrase a manager drops in a press conference before anyone writes about the concept.
+    Useful ideas show up first in niche places. A pressing tweak mentioned in a German podcast. A positional pattern on a Portuguese blog. A phrase a manager drops in a press conference before anyone writes about the concept.
   </p>
   <p>
     By the time major outlets cover it, the edge is gone. No one can read everything, in every language.
   </p>
-
 </div>
 
-<!-- THE SOLUTION -->
+<!-- WHAT THIS IS -->
 <div class="r-section">
-  <div class="r-section-label">The Solution</div>
-  <p> 
-  An AI-powered system that monitors football analysis across leagues, languages, and cultures, and writes daily reports on what it finds before bigger outlets.
+  <div class="r-section-label">What This Is</div>
+  <p>
+    An AI-powered system that monitors football analysis across leagues, languages, and cultures, and writes reports on what it finds before bigger outlets pick it up.
   </p>
 </div>
 
 <!-- HOW IT WORKS -->
 <div class="r-section">
   <div class="r-section-label">How It Works</div>
-  <p>Three steps.</p>
 
   <div class="r-steps-compact">
     <div class="r-step-compact">
       <div class="r-step-header">
         <span class="r-step-num">01</span>
         <span class="r-step-title">Ingest</span>
-        
       </div>
       <div class="r-step-detail">
         Pulls content and transcripts from blogs, articles, YouTube videos, press conferences, interviews, and podcasts. Re-checks a rolling window so nothing is missed.
@@ -66,7 +63,6 @@ permalink: /research/
       <div class="r-step-header">
         <span class="r-step-num">02</span>
         <span class="r-step-title">Detect</span>
-        
       </div>
       <div class="r-step-detail">
         Classifies sources as frontier or mainstream. Finds ideas in smaller sources before they appear in major coverage. Scores on source diversity, cross-culture corroboration, and novelty.
@@ -77,18 +73,16 @@ permalink: /research/
       <div class="r-step-header">
         <span class="r-step-num">03</span>
         <span class="r-step-title">Report</span>
-        
       </div>
       <div class="r-step-detail">
         Only candidates that pass a quality gate get written up. Researched, citation-checked, revised. Every report requires counterevidence.
       </div>
     </div>
-    
+
     <div class="r-step-compact">
       <div class="r-step-header">
         <span class="r-step-num">04</span>
         <span class="r-step-title">Tune</span>
-        
       </div>
       <div class="r-step-detail">
         Tests its own settings hourly and keeps what works better.
@@ -100,38 +94,15 @@ permalink: /research/
 <!-- SOURCES -->
 <div class="r-section">
   <div class="r-section-label">Sources</div>
-
   <p class="r-audience">
-    Independent analysts, niche outlets, press conferences, interviews, and football media from all languages. Each source classified by tier, culture, and format. Press conferences weighted as early-signal material.
+    Independent analysts, niche outlets, press conferences, interviews, and non-English football media. Each source classified by tier, culture, and format. Press conferences weighted as early-signal material.
   </p>
 </div>
 
 <!-- OPEN SOURCE -->
 <div class="r-section">
   <div class="r-section-label">Open Source</div>
-  <p>You can inspect it, run it yourself, or adapt it.</p>
-
-  <!-- Interactive: Open Source vs Subscription comparison -->
-  <div class="r-oss-compare">
-    <div class="r-oss-col r-oss-free">
-      <div class="r-oss-header">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-        <span>Code</span>
-      </div>
-      <div class="r-oss-body">Free &amp; open source. Clone, configure your feeds, run your own instance.</div>
-    </div>
-    <div class="r-oss-divider">
-      <span>vs</span>
-    </div>
-    <div class="r-oss-col r-oss-sub">
-      <div class="r-oss-header">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"></path><path d="M2 17l10 5 10-5"></path><path d="M2 12l10 5 10-5"></path></svg>
-        <span>Subscription</span>
-      </div>
-      <div class="r-oss-body">A running version of the system, without having to set it up or manage it yourself.</div>
-    </div>
-  </div>
-
+  <p>The entire pipeline is <a href="https://github.com/kyleboas/research" target="_blank">open source</a>. Run your own instance or subscribe for less than it would cost to run it yourself.</p>
   <p>
     <a href="https://github.com/kyleboas/research" target="_blank" class="r-github-link">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
@@ -139,6 +110,7 @@ permalink: /research/
     </a>
   </p>
 </div>
+
 
 <!-- PRICING -->
 <div class="r-section">
@@ -203,7 +175,6 @@ function togglePricing() {
     yearlyLabel.classList.remove('r-pricing-toggle-label--active');
   }
   
-  // Update prices
   document.querySelectorAll('[data-price-monthly]').forEach(el => {
     el.textContent = isYearly ? el.dataset.priceYearly : el.dataset.priceMonthly;
   });
