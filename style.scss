@@ -134,7 +134,7 @@ html, body {
 
 header.site-header {
   display: grid;
-  grid-template-columns: 40px minmax(0, 1fr) 108px;
+  grid-template-columns: auto minmax(0, 1fr) auto;
   align-items: center;
   gap: 0;
   min-height: 44px;
@@ -150,7 +150,6 @@ header.site-header {
   align-items: center;
   justify-self: start;
   justify-content: flex-start;
-  width: 40px;
   min-height: 44px;
 }
 
@@ -231,8 +230,7 @@ header.site-header {
   align-items: center;
   justify-content: flex-end;
   justify-self: end;
-  gap: 0;
-  width: 108px;
+  gap: 16px;
 }
 
 .site-action {
@@ -327,13 +325,12 @@ header.site-header {
   }
   
   header.site-header {
-    grid-template-columns: 28px minmax(0, 1fr) 96px;
+    grid-template-columns: auto minmax(0, 1fr) auto;
     min-height: 48px;
     padding: 0 14px;
   }
   
   .site-logo {
-    width: 28px;
     min-height: 48px;
   }
 
@@ -357,7 +354,6 @@ header.site-header {
   }
   
   .site-actions {
-    width: 96px;
   }
   
   .site-action {
