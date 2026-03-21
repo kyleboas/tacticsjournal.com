@@ -8,7 +8,8 @@
   width: 100vw;
   margin-left: calc(-50vw + 50%);
   overflow: hidden;
-  padding: 20px 0 28px;
+  padding: 0;
+  height: 120px;
   -webkit-mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
   mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
 }
@@ -19,8 +20,15 @@
   will-change: transform;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
-  padding: 6px 0;
+  padding: 0;
+  position: absolute;
+  left: 0;
 }
+
+.sh-row:nth-child(1) { top: 0; }
+.sh-row:nth-child(2) { top: 28px; }
+.sh-row:nth-child(3) { top: 56px; }
+.sh-row:nth-child(4) { top: 84px; }
 
 .sh-row-left  { animation: sh-scroll-left 80s linear infinite; }
 .sh-row-right { animation: sh-scroll-right 80s linear infinite; }
@@ -45,15 +53,11 @@
 
 .sh-item {
   white-space: nowrap;
-  font-size: clamp(0.95rem, 2vw, 1.2rem);
-  line-height: 1.4;
+  font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+  line-height: 1.2;
   color: var(--text-muted, #8b8b8b);
-  padding: 0 12px;
-  transition: color 0.3s;
-}
-
-.sh-item:hover {
-  color: var(--text, #111);
+  padding: 0 16px;
+  opacity: 0.45;
 }
 
 .sh-dot {
@@ -120,14 +124,6 @@
 }
 
 /* ============================================================
-   Pause on hover
-   ============================================================ */
-
-.scrolling-headlines:hover .sh-row {
-  animation-play-state: paused;
-}
-
-/* ============================================================
    Reduced motion
    ============================================================ */
 
@@ -142,8 +138,12 @@
    ============================================================ */
 
 @media (max-width: 768px) {
-  .scrolling-headlines { padding: 14px 0 20px; }
-  .sh-item { font-size: clamp(0.82rem, 2vw, 1rem); padding: 0 10px; }
+  .scrolling-headlines { height: 100px; }
+  .sh-row:nth-child(1) { top: 0; }
+  .sh-row:nth-child(2) { top: 22px; }
+  .sh-row:nth-child(3) { top: 46px; }
+  .sh-row:nth-child(4) { top: 70px; }
+  .sh-item { font-size: clamp(0.95rem, 2.2vw, 1.15rem); padding: 0 10px; }
   .sh-row-left  { animation-duration: 60s; }
   .sh-row-right { animation-duration: 60s; }
   .sh-row-slow.sh-row-left  { animation-duration: 75s; }
@@ -151,9 +151,12 @@
 }
 
 @media (max-width: 480px) {
-  .scrolling-headlines { padding: 10px 0 16px; }
-  .sh-row { padding: 4px 0; }
-  .sh-item { font-size: clamp(0.78rem, 2vw, 0.9rem); padding: 0 8px; }
+  .scrolling-headlines { height: 85px; }
+  .sh-row:nth-child(1) { top: 0; }
+  .sh-row:nth-child(2) { top: 18px; }
+  .sh-row:nth-child(3) { top: 38px; }
+  .sh-row:nth-child(4) { top: 58px; }
+  .sh-item { font-size: clamp(0.85rem, 2vw, 1rem); padding: 0 8px; }
   .sh-row-left  { animation-duration: 45s; }
   .sh-row-right { animation-duration: 45s; }
   .sh-row-slow.sh-row-left  { animation-duration: 55s; }
