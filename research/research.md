@@ -29,9 +29,10 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">The Problem</div>
   <p>
-    Useful ideas show up first in niche places. A pressing tweak in a German podcast. A positional pattern on a Portuguese blog. A phrase a manager drops in a press conference before anyone writes about the concept.
-
-By the time major outlets cover it, the edge is gone. No one can read everything, in every language. That's what this does.
+    Useful ideas show up first in niche places in different countries. A pressing tweak mentioned in a German podcast. A positional pattern on a Portuguese blog. A phrase a manager drops in a press conference before anyone writes about the concept.
+  </p>
+  <p>
+    By the time major outlets cover it, the edge is gone. No one can read everything, in every language.
   </p>
 
 </div>
@@ -40,13 +41,8 @@ By the time major outlets cover it, the edge is gone. No one can read everything
 <div class="r-section">
   <div class="r-section-label">The Solution</div>
   <p> 
-Reports. Daily citation-checked research on ideas the system thinks matter early. Thin evidence is flagged. Disagreements between sources are shown, not hidden.
-
-Tracking. What the system is watching before it becomes a report.
-
-Depth. Research from a stored corpus of football content, checked against the live web. The archive grows every cycle.
+  An AI-powered system that monitors football analysis across leagues, languages, and cultures, and writes daily reports on what it finds before bigger outlets.
   </p>
-
 </div>
 
 <!-- HOW IT WORKS -->
@@ -221,7 +217,7 @@ function togglePricing() {
 <div class="r-section" id="waitlist">
   <div class="r-section-label">Early Access</div>
   <p>
-    Join the waitlist for early access.
+    Join the waitlist for early access and updates.
   </p>
   {% include research-waitlist-form.html %}
 </div>
