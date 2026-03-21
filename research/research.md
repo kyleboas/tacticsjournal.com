@@ -29,7 +29,7 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">The Problem</div>
   <p>
-    Useful ideas show up first in niche places. A pressing tweak mentioned in a German podcast. A positional pattern on a Portuguese blog. A phrase a manager drops in a press conference before anyone writes about the concept.
+    New ideas show up first in niche places. A pressing tweak mentioned in a German podcast. A positional pattern on a Portuguese blog. A quote a manager drops in a press conference before anyone writes about the concept.
   </p>
   <p>
     By the time major outlets cover it, the edge is gone. No one can read everything, in every language.
