@@ -14,7 +14,7 @@
   background: var(--bg);
   max-width: 760px;
   margin: 0 auto;
-  font-family: inherit;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {

@@ -9,7 +9,7 @@
   margin-left: calc(-50vw + 50%);
   overflow: hidden;
   padding: 0;
-  height: 180px;
+  height: 264px;
 }
 
 .sh-row {
@@ -28,6 +28,8 @@
 .sh-row:nth-child(2) { top: 42px; }
 .sh-row:nth-child(3) { top: 84px; }
 .sh-row:nth-child(4) { top: 126px; }
+.sh-row:nth-child(5) { top: 168px; }
+.sh-row:nth-child(6) { top: 210px; }
 
 .sh-row-left  { animation: sh-scroll-left 120s linear infinite; }
 .sh-row-right { animation: sh-scroll-right 120s linear infinite; }
@@ -73,57 +75,56 @@
 
 /* ============================================================
    Font Variations
-   Using a mix of system + Google Fonts already loaded (Oswald,
-   Source Serif 4) plus generic families for variety
+   All using Helvetica, Arial, sans-serif with varied weights
    ============================================================ */
 
 .sh-serif {
-  font-family: 'Source Serif 4', 'Georgia', 'Times New Roman', serif;
-  font-weight: 700;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 500;
 }
 
 .sh-serif-italic {
-  font-family: 'Source Serif 4', 'Georgia', 'Times New Roman', serif;
-  font-weight: 700;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 500;
   font-style: italic;
 }
 
 .sh-sans {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 
 .sh-sans-bold {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  font-weight: 700;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 600;
 }
 
 .sh-condensed {
-  font-family: 'Oswald', 'Arial Narrow', sans-serif;
-  font-weight: 500;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   font-size: clamp(1.3rem, 2.8vw, 1.7rem);
 }
 
 .sh-condensed-bold {
-  font-family: 'Oswald', 'Arial Narrow', sans-serif;
-  font-weight: 700;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.8px;
   font-size: clamp(1.3rem, 2.8vw, 1.7rem);
 }
 
 .sh-mono {
-  font-family: 'Geist Mono', 'JetBrains Mono', 'SF Mono', 'Consolas', monospace;
+  font-family: Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: clamp(1.2rem, 2.5vw, 1.5rem);
   letter-spacing: -0.3px;
 }
 
 .sh-slab {
-  font-family: 'Rockwell', 'Courier New', 'Georgia', serif;
-  font-weight: 700;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 500;
   letter-spacing: 0.2px;
 }
 
@@ -142,11 +143,13 @@
    ============================================================ */
 
 @media (max-width: 768px) {
-  .scrolling-headlines { height: 150px; }
+  .scrolling-headlines { height: 216px; }
   .sh-row:nth-child(1) { top: 0; }
   .sh-row:nth-child(2) { top: 34px; }
   .sh-row:nth-child(3) { top: 68px; }
   .sh-row:nth-child(4) { top: 102px; }
+  .sh-row:nth-child(5) { top: 136px; }
+  .sh-row:nth-child(6) { top: 170px; }
   .sh-item { font-size: clamp(1.3rem, 3.5vw, 1.8rem); padding: 0 14px; }
   .sh-row-left  { animation-duration: 90s; }
   .sh-row-right { animation-duration: 90s; }
@@ -155,11 +158,13 @@
 }
 
 @media (max-width: 480px) {
-  .scrolling-headlines { height: 130px; }
+  .scrolling-headlines { height: 186px; }
   .sh-row:nth-child(1) { top: 0; }
   .sh-row:nth-child(2) { top: 30px; }
   .sh-row:nth-child(3) { top: 60px; }
   .sh-row:nth-child(4) { top: 90px; }
+  .sh-row:nth-child(5) { top: 120px; }
+  .sh-row:nth-child(6) { top: 150px; }
   .sh-item { font-size: clamp(1.1rem, 3vw, 1.5rem); padding: 0 12px; }
   .sh-row-left  { animation-duration: 70s; }
   .sh-row-right { animation-duration: 70s; }
