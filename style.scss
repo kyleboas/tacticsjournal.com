@@ -186,6 +186,44 @@ header.site-header {
   font-weight: 600;
 }
 
+// Nav divider - hidden on desktop, shown on mobile
+.site-nav-divider {
+  display: none;
+}
+
+// Hide nav items after divider by default (mobile)
+.site-nav .site-nav-divider ~ a {
+  display: none;
+}
+
+// Desktop: show extra nav items, hide site-menu
+@media (min-width: 768px) {
+  .site-nav .site-nav-divider ~ a {
+    display: inline;
+  }
+  
+  .site-menu {
+    display: none;
+  }
+}
+
+// Desktop nav items after divider
+@media (min-width: 768px) {
+  .site-nav-divider {
+    display: inline-block;
+    width: 1px;
+    height: 18px;
+    background: rgba(0, 0, 0, 0.15);
+    margin: 0 8px;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .site-nav-divider {
+      background: rgba(255, 255, 255, 0.15);
+    }
+  }
+}
+
 .site-actions {
   display: flex;
   align-items: center;
@@ -235,25 +273,46 @@ header.site-header {
   opacity: 0.6;
 }
 
+// Apple-style menu panel
 .site-menu-panel {
-  position: absolute;
-  top: calc(100% + 10px);
+  position: fixed;
+  top: 44px;
+  left: 0;
   right: 0;
-  min-width: 170px;
-  padding: 10px 0;
-  border: 1px solid #e5e5e5;
-  border-radius: 18px;
-  background: #fff;
-  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.08);
-  z-index: 50;
+  min-width: auto;
+  padding: 20px 0;
+  border: none;
+  border-radius: 0;
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  z-index: 100;
+  
+  // Apple animation
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: opacity 0.32s cubic-bezier(0.4, 0, 0.6, 1) 0.08s,
+              visibility 0.32s steps(1, start) 0.08s,
+              transform 0.32s cubic-bezier(0.4, 0, 0.6, 1) 0.08s;
+}
+
+.site-menu[open] .site-menu-panel {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
 }
 
 .site-menu-panel a {
   display: block;
   color: $darkGray;
   text-decoration: none;
-  font-size: 0.95rem;
-  padding: 9px 16px;
+  font-size: 17px;
+  font-weight: 400;
+  font-family: $helvetica;
+  padding: 12px 24px;
+  transition: background 0.15s ease;
 }
 
 .site-menu-panel a:hover {
@@ -289,6 +348,12 @@ header.site-header {
     font-size: 0.78rem;
   }
   
+  // Mobile: hide nav items after divider
+  .site-nav .site-nav-divider,
+  .site-nav .site-nav-divider ~ a {
+    display: none;
+  }
+  
   .site-actions {
     width: 96px;
   }
@@ -296,6 +361,26 @@ header.site-header {
   .site-action svg {
     width: 22px;
     height: 22px;
+  }
+  
+  .site-menu-panel {
+    top: 48px;
+  }
+  
+  .site-menu-panel a {
+    padding: 14px 20px;
+  }
+}
+
+// Dark mode for menu panel
+@media (prefers-color-scheme: dark) {
+  .site-menu-panel {
+    background: rgba(30, 30, 30, 0.72);
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);
+  }
+  
+  .site-menu-panel a:hover {
+    background: rgba(255, 255, 255, 0.06);
   }
 }
 
