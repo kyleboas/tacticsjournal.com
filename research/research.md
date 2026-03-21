@@ -55,7 +55,7 @@ permalink: /research/
         <span class="r-step-title">Ingest</span>
       </div>
       <div class="r-step-detail">
-        Pulls content and transcripts from blogs, articles, YouTube videos, press conferences, interviews, and podcasts. Re-checks a rolling window so nothing is missed.
+        Pulls content, data, and transcripts from blogs, articles, videos, press conferences, interviews, and podcasts. Re-checks a rolling window so nothing is missed.
       </div>
     </div>
 
