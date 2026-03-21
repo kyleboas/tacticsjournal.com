@@ -15,7 +15,7 @@ permalink: /research/
 
 <!-- HERO -->
 <div class="r-hero">
-  <h2 class="r-fade r-fade-d1">Get Ahead of the Game</h2>
+  <h2 class="r-fade r-fade-d1">Get ahead of the game</h2>
   <p class="r-sub-statement r-fade r-fade-d2">The future of football tactics, delivered to you today.</p>
   <div class="r-hero-actions r-fade r-fade-d3">
     {% include research-waitlist-form.html %}
@@ -29,7 +29,22 @@ permalink: /research/
 <div class="r-section">
   <div class="r-section-label">The Problem</div>
   <p>
-    Good ideas often show up first in smaller outlets, interviews, and podcasts. By the time bigger outlets cover them, the edge is usually gone.
+    Useful ideas show up first in niche places. A pressing tweak in a German podcast. A positional pattern on a Portuguese blog. A phrase a manager drops in a press conference before anyone writes about the concept.
+
+By the time major outlets cover it, the edge is gone. No one can read everything, in every language. That's what this does.
+  </p>
+
+</div>
+
+<!-- THE SOLUTION -->
+<div class="r-section">
+  <div class="r-section-label">The Solution</div>
+  <p> 
+Reports. Daily citation-checked research on ideas the system thinks matter early. Thin evidence is flagged. Disagreements between sources are shown, not hidden.
+
+Tracking. What the system is watching before it becomes a report.
+
+Depth. Research from a stored corpus of football content, checked against the live web. The archive grows every cycle.
   </p>
 
 </div>
@@ -47,12 +62,7 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        The system pulls in articles and videos, re-checks recent items so it does not miss late posts, and stores the useful parts for search.
-        <div class="r-tags">
-          <span class="r-tag">Articles</span>
-          <span class="r-tag">Videos</span>
-          <span class="r-tag">Searchable Archive</span>
-        </div>
+        Pulls content and transcripts from blogs, articles, YouTube videos, press conferences, interviews, and podcasts. Re-checks a rolling window so nothing is missed.
       </div>
     </div>
 
@@ -63,12 +73,7 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        It looks for ideas that are showing up in smaller sources before they become common in mainstream coverage. Weak ideas get pushed back. Stronger ones move forward.
-        <div class="r-tags">
-          <span class="r-tag">Early Ideas</span>
-          <span class="r-tag">Quality Filter</span>
-          <span class="r-tag">Ranking</span>
-        </div>
+        Classifies sources as frontier or mainstream. Finds ideas in smaller sources before they appear in major coverage. Scores on source diversity, cross-culture corroboration, and novelty.
       </div>
     </div>
 
@@ -79,76 +84,18 @@ permalink: /research/
         
       </div>
       <div class="r-step-detail">
-        Only the best candidates become reports. Each report is researched, checked, and revised before it is published.
-        <div class="r-tags">
-          <span class="r-tag">Research</span>
-          <span class="r-tag">Checks</span>
-          <span class="r-tag">Citations</span>
-        </div>
+        Only candidates that pass a quality gate get written up. Researched, citation-checked, revised. Every report requires counterevidence.
       </div>
     </div>
-  </div>
-</div>
-
-<!-- SELF-IMPROVING -->
-<div class="r-section">
-  <div class="r-section-label">Self-Improving</div>
-  <p>The system also tests ways to improve itself. Better settings get kept. Worse ones do not.</p>
-
-</div>
-
-<!-- WHAT YOU GET -->
-<div class="r-section">
-  <div class="r-section-label">What You Get</div>
-  <p>The main blog is written by Kyle Boas. The research section is where this system shows what it finds.</p>
-
-  <div class="r-offerings">
-    <div class="r-offering">
-      <div class="r-offering-icon">
-        <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-          <rect x="6" y="4" width="28" height="32" rx="4" class="r-icon-stroke" fill="none" stroke-width="1.5"/>
-          <line x1="12" y1="12" x2="28" y2="12" class="r-icon-stroke" stroke-width="1.5"/>
-          <line x1="12" y1="18" x2="24" y2="18" class="r-icon-stroke" stroke-width="1.5"/>
-          <line x1="12" y1="24" x2="26" y2="24" class="r-icon-stroke" stroke-width="1.5"/>
-          <line x1="12" y1="30" x2="20" y2="30" class="r-icon-stroke" stroke-width="1.5"/>
-        </svg>
+    
+    <div class="r-step-compact">
+      <div class="r-step-header">
+        <span class="r-step-num">04</span>
+        <span class="r-step-title">Tune</span>
+        
       </div>
-      <div class="r-offering-text">
-        <div class="r-offering-title">Citation-Checked Reports</div>
-        <div class="r-offering-desc">Reports on ideas that look important early, with sources checked before publication.</div>
-      </div>
-    </div>
-
-    <div class="r-offering">
-      <div class="r-offering-icon">
-        <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="20" cy="20" r="14" class="r-icon-stroke" fill="none" stroke-width="1.5"/>
-          <circle cx="20" cy="20" r="3" class="r-icon-fill"/>
-          <circle cx="20" cy="20" r="8" class="r-icon-stroke r-radar-ring" fill="none" stroke-width="1"/>
-          <line x1="20" y1="6" x2="20" y2="14" class="r-icon-stroke" stroke-width="1"/>
-          <line x1="20" y1="26" x2="20" y2="34" class="r-icon-stroke" stroke-width="1"/>
-          <line x1="6" y1="20" x2="14" y2="20" class="r-icon-stroke" stroke-width="1"/>
-          <line x1="26" y1="20" x2="34" y2="20" class="r-icon-stroke" stroke-width="1"/>
-        </svg>
-      </div>
-      <div class="r-offering-text">
-        <div class="r-offering-title">Candidate Queue</div>
-        <div class="r-offering-desc">A look at what the system is tracking before it becomes a full report.</div>
-      </div>
-    </div>
-
-    <div class="r-offering">
-      <div class="r-offering-icon">
-        <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="20" cy="20" r="14" class="r-icon-stroke" fill="none" stroke-width="1.5"/>
-          <path d="M10 20 h20 M20 8 c-4 6-4 18 0 24 M20 8 c4 6 4 18 0 24" class="r-icon-stroke" fill="none" stroke-width="1" />
-          <line x1="11" y1="14" x2="29" y2="14" class="r-icon-stroke" stroke-width="0.75"/>
-          <line x1="11" y1="26" x2="29" y2="26" class="r-icon-stroke" stroke-width="0.75"/>
-        </svg>
-      </div>
-      <div class="r-offering-text">
-        <div class="r-offering-title">Corpus + Live Web Research</div>
-        <div class="r-offering-desc">Research built from a stored archive first, with live web checking when needed.</div>
+      <div class="r-step-detail">
+        Tests its own settings hourly and keeps what works better.
       </div>
     </div>
   </div>
@@ -159,14 +106,14 @@ permalink: /research/
   <div class="r-section-label">Sources</div>
 
   <p class="r-audience">
-    For analysts, coaches, and clubs who want to spot useful ideas early.
+    Independent analysts, niche outlets, press conferences, interviews, and football media from all languages. Each source classified by tier, culture, and format. Press conferences weighted as early-signal material.
   </p>
 </div>
 
 <!-- OPEN SOURCE -->
 <div class="r-section">
   <div class="r-section-label">Open Source</div>
-  <p>The entire pipeline is <a href="https://github.com/kyleboas/research" target="_blank">open source</a>. You can inspect it, run it yourself, or adapt it.</p>
+  <p>You can inspect it, run it yourself, or adapt it.</p>
 
   <!-- Interactive: Open Source vs Subscription comparison -->
   <div class="r-oss-compare">
@@ -274,7 +221,7 @@ function togglePricing() {
 <div class="r-section" id="waitlist">
   <div class="r-section-label">Early Access</div>
   <p>
-    Join the waitlist for early reports and updates.
+    Join the waitlist for early access.
   </p>
   {% include research-waitlist-form.html %}
 </div>
