@@ -168,7 +168,7 @@ description: "Tactics Journal research monitors more football content than any p
     </div>
   </div>
 
-  <p>
+  <p class="r-pricing-note">
     The entire system will be open source.
     Subscribing is cheaper than running it yourself.
   </p>

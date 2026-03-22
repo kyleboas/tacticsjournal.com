@@ -190,6 +190,9 @@
 .r-audience { font-size: 13px; color: var(--text-muted); margin-top: 32px; margin-bottom: 40px }
 .r-mono { font-family: 'Geist Mono', monospace; font-size: 12px; color: var(--text-muted); background: rgba(128,128,128,0.1); padding: 2px 8px; border-radius: 4px; }
 
+/* Pricing note */
+.r-section p.r-pricing-note { font-size: 14px; }
+
 /* Waitlist Section */
 #waitlist p { text-align: center; }
 
