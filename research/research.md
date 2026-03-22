@@ -2,7 +2,9 @@
 title: Research
 layout: page
 permalink: /research/
+image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/03/22/Image-22Mar2026_09:00:35.png"
 ---
+
 <link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/research/graphics.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/research/scrolling-headlines.css" />
