@@ -223,7 +223,7 @@ function togglePricing() {
 </div>
 
 <script>
-// Pricing CTA click handling - add tier tag and focus email input
+// Pricing CTA click handling - add tier and billing tags, focus email input
 document.querySelectorAll('.r-pricing-cta').forEach(cta => {
   cta.addEventListener('click', function(e) {
     e.preventDefault();
@@ -245,6 +245,17 @@ document.querySelectorAll('.r-pricing-cta').forEach(cta => {
           form.appendChild(tierTagInput);
         }
         tierTagInput.value = tier;
+        
+        // Add billing tag (monthly/yearly)
+        let billingTagInput = form.querySelector('input[name="tag"][data-billing-tag]');
+        if (!billingTagInput) {
+          billingTagInput = document.createElement('input');
+          billingTagInput.type = 'hidden';
+          billingTagInput.name = 'tag';
+          billingTagInput.setAttribute('data-billing-tag', 'true');
+          form.appendChild(billingTagInput);
+        }
+        billingTagInput.value = isYearly ? 'yearly' : 'monthly';
       }
       
       waitlistSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
