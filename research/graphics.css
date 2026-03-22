@@ -455,12 +455,12 @@
   transform: translateY(-1px);
   text-decoration: none;
 }
-.r-tier-cta--featured {
+.r-tier-cta.r-tier-cta--featured {
   border-color: transparent;
   color: #fff;
   background: linear-gradient(135deg, var(--accent-detect), #8c5cf6);
 }
-.r-tier-cta--featured:hover {
+.r-tier-cta.r-tier-cta--featured:hover {
   color: #fff;
   background: linear-gradient(135deg, #8c5cf6, var(--accent-detect));
   text-decoration: none;
@@ -561,7 +561,7 @@
     background: rgba(255, 255, 255, 0.06);
     text-decoration: none;
   }
-  .r-tier-cta--featured {
+  .r-tier-cta.r-tier-cta--featured {
     color: #fff;
   }
   .r-pricing-toggle-knob {
