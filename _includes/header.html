@@ -21,14 +21,27 @@
     <a href="{{ site.baseurl }}/key/">Key</a>
   </nav>
 
-  <div class="site-actions">
-    <a href="{{ site.baseurl }}/search/" class="site-action" aria-label="Search">
-      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16L21 21"/></svg>
-    </a>
+  <div class="header-input header-input--search">
+    <form action="{{ site.baseurl }}/search/" method="get" class="header-input-form">
+      <input type="text" placeholder="Search..." aria-label="Search">
+      <svg class="header-input-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16L21 21"/></svg>
+    </form>
+  </div>
 
-    <a href="{{ site.baseurl }}/subscribe/" class="site-action" aria-label="Subscribe">
+  <div class="header-input header-input--email">
+    <form action="{{ site.baseurl }}/subscribe/" method="get" class="header-input-form">
+      <input type="email" placeholder="Enter your email..." aria-label="Enter your email">
+    </form>
+  </div>
+
+  <div class="site-actions">
+    <button type="button" class="site-action site-action-search" aria-label="Search">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16L21 21"/></svg>
+    </button>
+
+    <button type="button" class="site-action site-action-subscribe" aria-label="Subscribe">
       <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c1.5-3.5 4.1-5.25 7-5.25S17.5 16.5 19 20"/></svg>
-    </a>
+    </button>
 
     <details class="site-menu">
       <summary class="site-action" aria-label="Menu">
@@ -73,6 +86,57 @@
       });
 
       overlay.addEventListener('click', closeMenu);
+
+      // Header input animations
+      var header = document.querySelector('.site-header');
+      var searchBtn = document.querySelector('.site-action-search');
+      var subscribeBtn = document.querySelector('.site-action-subscribe');
+      var searchInput = document.querySelector('.header-input--search');
+      var emailInput = document.querySelector('.header-input--email');
+
+      function closeAllInputs() {
+        header.classList.remove('input-active', 'input-search', 'input-email');
+      }
+
+      function openInput(type) {
+        var isAlreadyOpen = header.classList.contains('input-' + type);
+        closeAllInputs();
+        if (!isAlreadyOpen) {
+          header.classList.add('input-active', 'input-' + type);
+          var input = (type === 'search' ? searchInput : emailInput).querySelector('input');
+          setTimeout(function() { input.focus(); }, 300);
+        }
+      }
+
+      searchBtn.addEventListener('click', function(e) {
+        e.preventDefault();
+        openInput('search');
+      });
+
+      subscribeBtn.addEventListener('click', function(e) {
+        e.preventDefault();
+        openInput('email');
+      });
+
+      // Close input when clicking outside
+      document.addEventListener('click', function(e) {
+        if (!header.classList.contains('input-active')) return;
+        if (e.target.closest('.header-input') || e.target.closest('.site-action-search') || e.target.closest('.site-action-subscribe')) return;
+        closeAllInputs();
+      });
+
+      // Close input on Escape
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') closeAllInputs();
+      });
+
+      // Search form submit
+      var searchForm = searchInput.querySelector('form');
+      searchForm.addEventListener('submit', function(e) {
+        e.preventDefault();
+        var q = searchForm.querySelector('input').value.trim();
+        if (q) window.location.href = searchForm.getAttribute('action') + '?q=' + encodeURIComponent(q);
+      });
     })();
     </script>
   </div>
