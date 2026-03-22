@@ -40,7 +40,7 @@ permalink: /research/
 <div class="r-section r-section--no-bottom-padding">
   <div class="r-section-label">Automated daily research reports</div>
   <p>
-    An autonomous AI-powered system that monitors more football content than any person could, across leagues, languages, and cultures, and writes reports on what it finds.​​​​​​​​​​​​​​​​
+    Tactics Journal research is an autonomous AI-powered system that monitors more football content than any person could, across leagues, languages, and cultures, and writes reports on what it finds.​​​​​​​​​​​​​​​​
   </p>
 </div>
 
