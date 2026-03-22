@@ -561,6 +561,9 @@
     background: rgba(255, 255, 255, 0.06);
     text-decoration: none;
   }
+  .r-tier-cta--featured {
+    color: #fff;
+  }
   .r-pricing-toggle-knob {
     background: var(--bg);
   }
