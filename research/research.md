@@ -185,6 +185,7 @@ description: "Tactics Journal Research monitors more football content than any p
 </div>
 
 <script>
+// Pricing toggle
 let isYearly = false;
 function togglePricing() {
   isYearly = !isYearly;
@@ -222,6 +223,30 @@ function togglePricing() {
 </div>
 
 <script>
+// Pricing CTA click handling - set tag and focus email input
+document.querySelectorAll('.r-pricing-cta').forEach(cta => {
+  cta.addEventListener('click', function(e) {
+    e.preventDefault();
+    const tier = this.dataset.tier;
+    const waitlistSection = document.getElementById('waitlist');
+    
+    if (waitlistSection) {
+      const tagInput = waitlistSection.querySelector('input[name="tag"]');
+      const emailInput = waitlistSection.querySelector('input[name="email"]');
+      
+      if (tagInput && tier) {
+        tagInput.value = tier;
+      }
+      
+      waitlistSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      
+      if (emailInput) {
+        setTimeout(() => emailInput.focus(), 300);
+      }
+    }
+  });
+});
+
 const observer = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {

@@ -29,8 +29,9 @@
   </div>
 
   <a
-    class="r-tier-cta{% if include.featured %} r-tier-cta--featured{% endif %}"
+    class="r-tier-cta r-pricing-cta{% if include.featured %} r-tier-cta--featured{% endif %}"
     href="{{ include.cta_href | default: '#waitlist' }}"
+    data-tier="{% if include.name == 'Free' %}free{% elsif include.name == 'Pro' %}paid{% else %}waitlist{% endif %}"
   >
     {{ include.cta_text }}
   </a>
