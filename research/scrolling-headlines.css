@@ -171,3 +171,21 @@
   .sh-row-slow.sh-row-left  { animation-duration: 85s; }
   .sh-row-slow.sh-row-right { animation-duration: 80s; }
 }
+
+@media (min-width: 768px) {
+  .scrolling-headlines {
+    height: 180px;
+  }
+
+  .sh-row:nth-child(1) { top: 0; }
+  .sh-row:nth-child(2) { top: 30px; }
+  .sh-row:nth-child(3) { top: 60px; }
+  .sh-row:nth-child(4) { top: 90px; }
+  .sh-row:nth-child(5) { top: 120px; }
+  .sh-row:nth-child(6) { top: 150px; }
+
+  .sh-item {
+    font-size: clamp(1.1rem, 2vw, 1.55rem);
+    padding: 0 14px;
+  }
+}

@@ -195,6 +195,25 @@ header.site-header {
 
 // Desktop: show extra nav items, hide site-menu
 @media (min-width: 768px) {
+  header.site-header {
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap: 24px;
+  }
+
+  .site-logo,
+  .site-actions {
+    justify-self: auto;
+  }
+
+  .site-actions {
+    justify-content: flex-start;
+  }
+
+  .site-nav a {
+    font-size: 0.75rem;
+  }
+
   .site-nav .site-nav-divider ~ a {
     display: inline;
   }
@@ -262,6 +281,7 @@ header.site-header {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  margin-top: 3px;
 }
 
 .site-menu summary::-webkit-details-marker {
@@ -378,6 +398,10 @@ header.site-header {
 // =============================================================================
 // TYPOGRAPHY
 // =============================================================================
+
+article.page {
+  margin-top: 40px;
+}
 
 h1 { font-size: 18px; @include sm { font-size: 20px; } }
 

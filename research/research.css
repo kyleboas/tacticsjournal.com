@@ -127,6 +127,7 @@
   gap: 8px;
   width: min(100%, 540px);
   max-width: 540px;
+  margin: 0 auto;
   border: 1px solid var(--border);
   border-radius: 9999px;
   padding: 6px;
@@ -191,6 +192,38 @@
 
 /* Waitlist Section */
 #waitlist p { text-align: center; }
+
+@media (min-width: 768px) {
+  .r-hero {
+    padding: 24px 0 0;
+  }
+
+  .r-hero h2 {
+    font-size: clamp(2rem, 4vw, 3rem);
+    margin-bottom: 10px;
+  }
+
+  .r-sub-statement {
+    font-size: clamp(0.98rem, 1.3vw, 1.15rem);
+    line-height: 1.25;
+    max-width: 26rem;
+    margin-bottom: 16px;
+  }
+
+  .r-section-label {
+    font-size: 22px;
+    margin-bottom: 16px;
+  }
+
+  .r-section p {
+    font-size: 16px;
+    line-height: 1.45;
+  }
+
+  .r-pricing-graphic {
+    margin: 18px 0;
+  }
+}
 
 /* Responsive */
 @media (max-width: 569px) {
