@@ -7,12 +7,8 @@
 // =============================================================================
 
 :root {
-  --site-padding: 24px;
+  --site-padding: 22px;
 }
-
-@media (min-width: 768px) { :root { --site-padding: 48px; } }
-@media (min-width: 1024px) { :root { --site-padding: 80px; } }
-@media (min-width: 1280px) { :root { --site-padding: 120px; } }
 
 html, body {
   height: 100%;
@@ -321,10 +317,6 @@ header.site-header {
 }
 
 @media (max-width: 767px) {
-  :root {
-    --site-padding: 20px;
-  }
-  
   header.site-header {
     grid-template-columns: auto minmax(0, 1fr) auto;
     min-height: 48px;
