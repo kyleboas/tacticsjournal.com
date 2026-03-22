@@ -213,7 +213,7 @@ function togglePricing() {
 </div>
 
 <script>
-// Pricing CTA click handling - set tag and focus email input
+// Pricing CTA click handling - add tier and billing tags, focus email input
 document.querySelectorAll('.r-pricing-cta').forEach(cta => {
   cta.addEventListener('click', function(e) {
     e.preventDefault();
@@ -221,11 +221,31 @@ document.querySelectorAll('.r-pricing-cta').forEach(cta => {
     const waitlistSection = document.getElementById('waitlist');
     
     if (waitlistSection) {
-      const tagInput = waitlistSection.querySelector('input[name="tag"]');
+      const form = waitlistSection.querySelector('form');
       const emailInput = waitlistSection.querySelector('input[name="email"]');
       
-      if (tagInput && tier) {
-        tagInput.value = tier;
+      if (form && tier) {
+        // Add tier tag (free/paid)
+        let tierTagInput = form.querySelector('input[name="tag"][data-tier-tag]');
+        if (!tierTagInput) {
+          tierTagInput = document.createElement('input');
+          tierTagInput.type = 'hidden';
+          tierTagInput.name = 'tag';
+          tierTagInput.setAttribute('data-tier-tag', 'true');
+          form.appendChild(tierTagInput);
+        }
+        tierTagInput.value = tier;
+        
+        // Add billing tag (monthly/yearly)
+        let billingTagInput = form.querySelector('input[name="tag"][data-billing-tag]');
+        if (!billingTagInput) {
+          billingTagInput = document.createElement('input');
+          billingTagInput.type = 'hidden';
+          billingTagInput.name = 'tag';
+          billingTagInput.setAttribute('data-billing-tag', 'true');
+          form.appendChild(billingTagInput);
+        }
+        billingTagInput.value = isYearly ? 'yearly' : 'monthly';
       }
       
       waitlistSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
