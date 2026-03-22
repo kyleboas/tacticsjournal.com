@@ -288,14 +288,33 @@ header.site-header {
   display: none;
 }
 
+// Hamburger to X animation
+.menu-icon {
+  .menu-top, .menu-bottom {
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-origin: center;
+  }
+}
+
+.site-menu[open]:not(.closing) .menu-icon {
+  .menu-top {
+    transform: translateY(4px) rotate(45deg);
+  }
+  .menu-bottom {
+    transform: translateY(-4px) rotate(-45deg);
+  }
+}
+
 .site-menu[open] .site-action {
-  opacity: 0.6;
+  opacity: 1;
+  z-index: 102;
+  position: relative;
 }
 
 // Backdrop overlay
 .site-menu-overlay {
   position: fixed;
-  top: 44px;
+  top: 0;
   left: 0;
   right: 0;
   bottom: 0;
@@ -320,19 +339,19 @@ header.site-header {
               visibility 0s linear 0.4s;
 }
 
-// Menu panel – clip-path curtain reveal
+// Full-screen menu panel – clip-path curtain reveal
 .site-menu-panel {
   position: fixed;
-  top: 44px;
+  top: 0;
   left: 0;
   right: 0;
+  bottom: 0;
   min-width: auto;
-  padding: 12px 0;
+  padding: 80px 0 40px;
   border: none;
   border-radius: 0;
   background: #fff;
-  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08);
-  z-index: 100;
+  z-index: 101;
   clip-path: inset(0 0 100% 0);
   transition: clip-path 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -349,10 +368,10 @@ header.site-header {
   display: block;
   color: $darkGray;
   text-decoration: none;
-  font-size: 17px;
-  font-weight: 400;
+  font-size: 28px;
+  font-weight: 600;
   font-family: $helvetica;
-  padding: 12px 48px;
+  padding: 14px 48px;
   opacity: 0;
   transform: translateY(-8px);
   transition: opacity 0.3s ease, transform 0.3s ease, background 0.15s ease;
@@ -419,16 +438,9 @@ header.site-header {
     height: 22px;
   }
   
-  .site-menu-overlay {
-    top: 48px;
-  }
-
-  .site-menu-panel {
-    top: 48px;
-  }
-
   .site-menu-panel a {
     padding: 14px 32px;
+    font-size: 24px;
   }
 }
 
@@ -440,11 +452,16 @@ header.site-header {
 
   .site-menu-panel {
     background: #1d1d1f;
-    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.3);
   }
 
   .site-menu-panel a:hover {
     background: rgba(255, 255, 255, 0.06);
+  }
+
+  .site-menu[open] .menu-icon {
+    .menu-top, .menu-bottom {
+      stroke: var(--text);
+    }
   }
 }
 
