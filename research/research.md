@@ -2,6 +2,7 @@
 title: Research
 layout: page
 permalink: /research/
+description: "An autonomous AI-powered system that monitors more football content than any person could, across leagues, languages, and cultures, and writes reports on what it finds daily."
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/research/graphics.css" />
