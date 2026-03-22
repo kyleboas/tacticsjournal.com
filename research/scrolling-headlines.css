@@ -109,7 +109,6 @@
 
 .sh-condensed-bold {
   font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.8px;
   font-size: clamp(1.3rem, 2.8vw, 1.7rem);
