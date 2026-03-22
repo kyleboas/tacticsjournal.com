@@ -38,7 +38,7 @@
 .r-step-compact {
   border: 1px solid var(--border);
   border-radius: 10px;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   overflow: hidden;
   transition: border-color 0.15s ease;
 }
@@ -512,6 +512,37 @@
   font-size: 12px;
   color: var(--text-muted);
   font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@media (min-width: 768px) {
+  .r-pricing-grid {
+    gap: 16px;
+  }
+
+  .r-tier-card {
+    padding: 20px;
+    gap: 18px;
+  }
+
+  .r-tier-name {
+    font-size: 18px;
+  }
+
+  .r-tier-price {
+    font-size: 36px;
+  }
+
+  .r-tier-description,
+  .r-tier-list-item {
+    font-size: 14px;
+  }
+
+  .r-tier-cta,
+  .r-pricing-toggle-label,
+  .r-tier-price-suffix,
+  .r-tier-yearly-note {
+    font-size: 12px;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
