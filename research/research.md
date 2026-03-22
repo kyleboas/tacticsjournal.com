@@ -185,6 +185,7 @@ description: "Tactics Journal Research monitors more football content than any p
 </div>
 
 <script>
+// Pricing toggle
 let isYearly = false;
 function togglePricing() {
   isYearly = !isYearly;
@@ -222,6 +223,39 @@ function togglePricing() {
 </div>
 
 <script>
+// Pricing CTA click handling - add tier tag and focus email input
+document.querySelectorAll('.r-pricing-cta').forEach(cta => {
+  cta.addEventListener('click', function(e) {
+    e.preventDefault();
+    const tier = this.dataset.tier;
+    const waitlistSection = document.getElementById('waitlist');
+    
+    if (waitlistSection) {
+      const form = waitlistSection.querySelector('form');
+      const emailInput = waitlistSection.querySelector('input[name="email"]');
+      
+      if (form && tier) {
+        // Check if tier tag input already exists, if not create it
+        let tierTagInput = form.querySelector('input[name="tag"][data-tier-tag]');
+        if (!tierTagInput) {
+          tierTagInput = document.createElement('input');
+          tierTagInput.type = 'hidden';
+          tierTagInput.name = 'tag';
+          tierTagInput.setAttribute('data-tier-tag', 'true');
+          form.appendChild(tierTagInput);
+        }
+        tierTagInput.value = tier;
+      }
+      
+      waitlistSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      
+      if (emailInput) {
+        setTimeout(() => emailInput.focus(), 300);
+      }
+    }
+  });
+});
+
 const observer = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
