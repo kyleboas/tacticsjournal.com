@@ -4,7 +4,11 @@
 <meta name="theme-color" content="#ffffff">
 <html lang="{{ site.lang | default: 'en' }}">
 
-{% if page.excerpt %}
+{% if page.description %}
+<meta name="description" content="{{ page.description | strip_html }}" />
+<meta property="og:description" content="{{ page.description | strip_html }}" />
+<meta property="twitter:description" content="{{ page.description | strip_html }}" />
+{% elsif page.excerpt %}
 <meta name="description" content="{{ page.excerpt | strip_html }}" />
 <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
 <meta property="twitter:description" content="{{ page.excerpt | strip_html }}" />
