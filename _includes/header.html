@@ -34,6 +34,7 @@
       <summary class="site-action" aria-label="Menu">
         <svg viewBox="0 0 24 24"><path d="M4 8h16"/><path d="M4 16h16"/></svg>
       </summary>
+      <div class="site-menu-overlay"></div>
       <div class="site-menu-panel">
         <a href="{{ site.baseurl }}/about/">About</a>
         <a href="{{ site.baseurl }}/archive/">Archive</a>
@@ -43,5 +44,33 @@
         <a href="{{ site.baseurl }}/key/">Key</a>
       </div>
     </details>
+
+    <script>
+    (function() {
+      var menu = document.querySelector('.site-menu');
+      if (!menu) return;
+      var summary = menu.querySelector('summary');
+      var overlay = menu.querySelector('.site-menu-overlay');
+      var duration = 400;
+
+      function closeMenu() {
+        if (!menu.hasAttribute('open') || menu.classList.contains('closing')) return;
+        menu.classList.add('closing');
+        setTimeout(function() {
+          menu.removeAttribute('open');
+          menu.classList.remove('closing');
+        }, duration);
+      }
+
+      summary.addEventListener('click', function(e) {
+        if (menu.hasAttribute('open')) {
+          e.preventDefault();
+          closeMenu();
+        }
+      });
+
+      overlay.addEventListener('click', closeMenu);
+    })();
+    </script>
   </div>
 </header>
