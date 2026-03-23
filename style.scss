@@ -725,7 +725,6 @@ blockquote {
 
 .entry {
   margin: -10px 0 20px;
-  font-family: ui-serif, serif;
   p, ol li, ul li {
     font-size: 18px;
     line-height: 1.5;
@@ -770,7 +769,7 @@ blockquote {
     font-size: 18px;
     @include sm { font-size: 20px; }
   }
-  .post-date { font-size: 14px; color: #888; margin: 0; }
+  .post-date { font-size: 14px; color: #888; margin: 0; font-family: Helvetica, Arial, sans-serif; }
   p { font-family: ui-serif, serif; font-size: 16px; line-height: 1.5; }
 }
 
