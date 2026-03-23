@@ -1,5 +1,5 @@
 ---
-title: Subscribe
+title: Confirm your email
 layout: page
 ---
 
