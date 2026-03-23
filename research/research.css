@@ -15,6 +15,7 @@
   max-width: 760px;
   margin: 0 auto;
   font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-bottom: 48px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -233,7 +234,7 @@
   .r-hero {
     padding: 38px 0 0;
   }
-  .r-section { padding: 36px 0; }
+  .r-section { padding: 42px 0 0; }
   .r-section--no-top-padding { padding: 0; }
   .r-sub-statement {
     font-size: 1.05rem;
