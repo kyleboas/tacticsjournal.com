@@ -4,7 +4,7 @@ layout: page
 permalink: /research/
 hide_title: true
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/03/22/Image-22Mar2026_09:00:35.png"
-description: "Tactics Journal research monitors more football content than any person could, across leagues, languages, and cultures, and autonomously writes reports on what it finds."
+description: "Tactics Journal research monitors more football content than any person could, across leagues, languages, and cultures, and autonomously writes reports on what it finds. Join the waitlist."
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
