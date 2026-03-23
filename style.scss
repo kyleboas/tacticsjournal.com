@@ -897,6 +897,8 @@ button#subscribeButton {
   align-items: center;
   gap: 8px;
   width: min(100%, 540px);
+  max-width: 540px;
+  margin: 0 auto;
   border: 1px solid var(--border);
   border-radius: 9999px;
   padding: 6px;
@@ -909,27 +911,28 @@ button#subscribeButton {
   box-shadow: 0 0 0 4px rgba(17, 17, 17, 0.06);
 }
 .p-subscribe-form input[type="email"] {
-  font-size: 1rem;
-  padding: 10px 0 10px 20px;
+  font-size: 1.05rem;
+  padding: 12px 0 12px 24px;
   border: none;
   background: transparent;
   color: var(--text);
   width: 100%;
+  max-width: none;
   min-width: 0;
   outline: none;
 }
 .p-subscribe-form input[type="email"]::placeholder { color: var(--text-muted); }
 .p-subscribe-form button {
-  font-size: 1rem;
+  font-size: 1.05rem;
   font-weight: 500;
-  padding: 12px 24px;
+  padding: 14px 30px;
   background: var(--btn-bg);
   color: var(--btn-text);
   border: none;
   border-radius: 9999px;
   cursor: pointer;
   white-space: nowrap;
-  transition: opacity 0.15s ease, transform 0.2s ease;
+  transition: opacity 0.15s ease, box-shadow 0.3s ease, transform 0.2s ease;
 }
 .p-subscribe-form button:hover { opacity: 0.95; transform: translateY(-1px); }
 .p-subscribe-form button:active { transform: translateY(0); }
