@@ -735,6 +735,7 @@ blockquote {
 
 .post-title {
   font-size: 20px;
+  margin-bottom: 5px;
   a { color: $black; text-decoration: none; }
   @include sm { font-size: 20px; }
 }
