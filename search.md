@@ -1,9 +1,3 @@
----
-layout: search
-title: Search
-permalink: /search/
----
-
 <div class="searchInput">
   <div id="search-criteria-container">
     <input type="text" id="search-input" placeholder="Search...">
