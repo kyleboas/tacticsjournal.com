@@ -799,7 +799,7 @@ blockquote {
 // ARCHIVE
 // =============================================================================
 
-.archive { font-size: 14px; margin-top: 20px; @include sm { font-size: 18px; } }
+.archive { font-size: 14px; margin-top: 40px; @include sm { font-size: 18px; } }
 
 .year-month { display: flex; justify-content: space-between; margin-bottom: 5px; }
 .year, .month {
@@ -825,8 +825,12 @@ blockquote {
 }
 
 .post-title-archive {
+  display: flex;
+  align-items: center;
   flex: 1;
   min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
   a {
     font-size: 14px;
     color: $black;

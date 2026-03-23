@@ -3,6 +3,10 @@
 {% if current_path == "/research/" or current_path contains "/research/" %}
   {% assign on_research = true %}
 {% endif %}
+{% assign on_opinion = false %}
+{% if current_path == "/" or page.layout == "post" %}
+  {% assign on_opinion = true %}
+{% endif %}
 
 <header class="site-header">
   <a href="{{ site.baseurl }}/" class="site-logo" aria-label="Tactics Journal home">
@@ -10,7 +14,7 @@
   </a>
 
   <nav class="site-nav" aria-label="Primary">
-    <a href="{{ site.baseurl }}/" {% unless on_research %}class="active"{% endunless %}>Opinion</a>
+    <a href="{{ site.baseurl }}/" {% if on_opinion %}class="active"{% endif %}>Opinion</a>
     <a href="{{ site.baseurl }}/research/" {% if on_research %}class="active"{% endif %}>Research</a>
     <span class="site-nav-divider"></span>
     <a href="{{ site.baseurl }}/about/">About</a>
