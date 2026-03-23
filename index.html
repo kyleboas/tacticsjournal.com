@@ -24,40 +24,38 @@ layout: default
       </script>
 
       <a href="mailto:?subject={{ latest_post.title }}&body={{ site.url }}{{ latest_post.url }}">Email this post</a>
-      {% include copylink.html %} 
+      {% include copylink.html %}
     </div>
 
-    <div class="subscribe-section">
-          <form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
-                method="post" 
-                target="_blank"
-                id="subscribeForm">
-            <div class="form-container">
-              <input type="email" name="email" id="email" placeholder="Enter your email to subscribe..." required>
-              <button type="submit" id="subscribeButton">
-                <svg width="15" height="15" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M10 50 L40 80 L90 20" stroke="black" stroke-width="15" fill="none"/>
-                </svg>
-              </button>
-            </div>
-          </form>
-        </div>
+    <div class="p-section" id="subscribe">
+      <p>Receive every new post in your inbox.</p>
+      <div class="p-subscribe-form">
+        <form
+          action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
+          method="post"
+          target="_blank"
+          rel="noopener"
+        >
+          <input type="hidden" name="embed" value="1" />
+          <input
+            type="email"
+            name="email"
+            placeholder="Enter your email..."
+            required
+            aria-label="Email address"
+          />
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+    </div>
   {% else %}
     <p>No posts available.</p>
   {% endif %}
-  
-  <div class="archive-filters">
-    <a href="#" class="cat-link active" data-cat="all">All</a>
-    <a href="#" class="cat-link" data-cat="between-the-posts">Between The Posts</a>
-  </div>
 
   <style>
-    .archive-filters { display:flex; gap:.75rem; font-size:12px;padding-top: 10px; }
-    .cat-link { text-decoration:none; color:#333; word-spacing: -0.6px; }
-    .cat-link.active { border-color:#000; font-weight:bold; }
     .hidden { display:none !important; }
   </style>
-  
+
   <div class="archive">
   {% assign grouped_posts = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for year in grouped_posts %}
@@ -92,8 +90,7 @@ layout: default
               {% endif %}
             {% endif %}
 
-            {% assign cats_slug = post.categories | join: '|' | downcase | replace: ' ', '-' %}
-            <li data-cats="{{ cats_slug }}">
+            <li>
               <div class="post-title-archive">
                 <a href="{{ post.url }}">{{ post.title | strip_html | escape }}</a>
                 <span class="dots-archive"></span>
@@ -139,118 +136,30 @@ layout: default
 document.addEventListener("DOMContentLoaded", () => {
   const PAGE_SIZE = 40;
 
-  const links = document.querySelectorAll(".cat-link");
-  const posts = Array.from(document.querySelectorAll(".archive-list li[data-cats]"));
+  const posts = Array.from(document.querySelectorAll(".archive-list li"));
   const showMoreWrap = document.querySelector(".archive-more");
   const showMoreBtn  = document.getElementById("show-more");
 
-  let activeCat = "all";
   let visibleLimit = PAGE_SIZE;
 
-  function setActiveLink(cat) {
-    links.forEach(l => l.classList.toggle("active", l.dataset.cat === cat));
-  }
-
-  function getMatchedPosts(cat) {
-    return posts.filter(li => {
-      const cats = (li.dataset.cats || "").split("|");
-      return (cat === "all") || cats.includes(cat);
-    });
-  }
-
-  function reassignYearLabels(yearEl) {
-    // Grab the canonical year text from the original first row
-    const originalYearText = yearEl.querySelector(".year")?.textContent.trim() || "";
-    const rows = Array.from(yearEl.querySelectorAll(".year-month"));
-
-    // Reset all rows to placeholder (no year text)
-    rows.forEach(row => {
-      const label = row.querySelector(".year, .year-placeholder");
-      if (!label) return;
-      label.classList.remove("year");
-      label.classList.add("year-placeholder");
-      label.textContent = "";
+  function applyPagination() {
+    posts.forEach((li, idx) => {
+      li.classList.toggle("hidden", idx >= visibleLimit);
     });
 
-    // Find first visible row and assign the year text there
-    const firstVisibleRow = rows.find(r => !r.classList.contains("hidden"));
-    if (firstVisibleRow && originalYearText) {
-      const label = firstVisibleRow.querySelector(".year, .year-placeholder");
-      if (label) {
-        label.classList.remove("year-placeholder");
-        label.classList.add("year");
-        label.textContent = originalYearText;
-      }
-    }
-  }
-
-  function hideOrShowGroups() {
-    // Hide empty month lists and year blocks
-    document.querySelectorAll(".archive-year").forEach(yearEl => {
-      let yearHasVisible = false;
-
-      yearEl.querySelectorAll(".archive-list").forEach(list => {
-        const anyVisible = !!list.querySelector("li:not(.hidden)");
-        list.classList.toggle("hidden", !anyVisible);
-        const headerRow = list.previousElementSibling; // .year-month
-        if (headerRow && headerRow.classList.contains("year-month")) {
-          headerRow.classList.toggle("hidden", !anyVisible);
-        }
-        if (anyVisible) yearHasVisible = true;
-      });
-
-      yearEl.classList.toggle("hidden", !yearHasVisible);
-
-      // NEW: ensure a visible year label on the first visible month
-      if (yearHasVisible) reassignYearLabels(yearEl);
-    });
-  }
-
-  function applyFilterAndPaginate() {
-    // Hide everything first
-    posts.forEach(li => li.classList.add("hidden"));
-
-    // Matched by category
-    const matched = getMatchedPosts(activeCat);
-
-    // Show up to visibleLimit
-    matched.forEach((li, idx) => {
-      if (idx < visibleLimit) {
-        li.classList.remove("hidden");
-      }
-    });
-
-    // Toggle Show More visibility
-    const hasMore = matched.length > visibleLimit;
+    const hasMore = posts.length > visibleLimit;
     showMoreWrap.classList.toggle("hidden", !hasMore);
-
-    // Tidy up month/year headers (and reassign year labels)
-    hideOrShowGroups();
   }
 
-  // Category clicks
-  links.forEach(link => {
-    link.addEventListener("click", e => {
-      e.preventDefault();
-      activeCat = link.dataset.cat;
-      visibleLimit = PAGE_SIZE; // reset on category change
-      setActiveLink(activeCat);
-      applyFilterAndPaginate();
-    });
-  });
-
-  // Show More click
   if (showMoreBtn) {
     showMoreBtn.addEventListener("click", e => {
       e.preventDefault();
-      visibleLimit += PAGE_SIZE; // reveal next 40
-      applyFilterAndPaginate();
+      visibleLimit += PAGE_SIZE;
+      applyPagination();
     });
   }
 
-  // Initial render
-  setActiveLink(activeCat);
-  applyFilterAndPaginate();
+  applyPagination();
 });
 </script>
 
