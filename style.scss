@@ -246,6 +246,8 @@ header.site-header {
   justify-content: flex-end;
   justify-self: end;
   gap: 26px;
+  min-width: 0;
+  position: relative;
 }
 
 .site-action {
@@ -269,6 +271,80 @@ header.site-header {
   fill: none;
   stroke-linecap: round;
   stroke-linejoin: round;
+}
+
+.site-inline-field {
+  display: none;
+  align-items: center;
+  min-width: 0;
+  height: 36px;
+  border: 1px solid rgba(17, 17, 17, 0.12);
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(17, 17, 17, 0.06);
+  overflow: hidden;
+}
+
+.site-inline-field input {
+  flex: 1;
+  min-width: 0;
+  height: 100%;
+  border: none;
+  background: transparent;
+  outline: none;
+  padding: 0 0 0 18px;
+  color: $darkGray;
+  font-family: $helvetica;
+  font-size: 0.95rem;
+}
+
+.site-inline-field input::placeholder {
+  color: rgba(17, 17, 17, 0.38);
+}
+
+.site-inline-submit {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  width: 44px;
+  height: 100%;
+  border: none;
+  background: transparent;
+  color: inherit;
+  padding: 0 14px 0 10px;
+  cursor: pointer;
+}
+
+.site-inline-submit svg {
+  width: 20px;
+  height: 20px;
+  stroke: currentColor;
+  stroke-width: 1.3;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+// Subscribe button in inline field - grey by default, blue when valid
+.site-inline-subscribe-btn {
+  flex: 0 0 auto;
+  height: 32px;
+  margin-left: 12px;
+  margin-right: 2px;
+  padding: 0 16px;
+  border: none;
+  border-radius: 999px;
+  background: #d1d1d6;
+  font-family: $helvetica;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+  
+  &.valid {
+    background: #0071E3;
+    color: #fff;
+  }
 }
 
 .site-menu {
@@ -432,11 +508,48 @@ header.site-header {
   }
   
   .site-actions {
+    position: static;
+    transform: none;
   }
   
   .site-action svg {
     width: 22px;
     height: 22px;
+  }
+
+  // Inline fields: positioned absolutely over the header, animated expand
+  .site-inline-field {
+    position: absolute;
+    top: 50%;
+    right: 42px;
+    left: 48px;
+    transform: translateY(-50%) scaleX(0);
+    transform-origin: right center;
+    opacity: 0;
+    display: flex !important;
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+                opacity 0.15s ease;
+    pointer-events: none;
+  }
+
+  // Open state: expand the field
+  .site-actions[data-inline-open="search"] .site-inline-field-search,
+  .site-actions[data-inline-open="subscribe"] .site-inline-field-subscribe {
+    transform: translateY(-50%) scaleX(1);
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  // Hide the search toggle when search field is open
+  .site-actions[data-inline-open="search"] .site-action-toggle[data-inline-toggle="search"] {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  // Hide the subscribe toggle when subscribe field is open
+  .site-actions[data-inline-open="subscribe"] .site-action-toggle[data-inline-toggle="subscribe"] {
+    opacity: 0;
+    pointer-events: none;
   }
   
   .site-menu-panel a {
@@ -453,6 +566,20 @@ header.site-header {
 
   .site-menu-panel {
     background: #1d1d1f;
+  }
+
+  .site-inline-field {
+    background: #111214;
+    border-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  }
+
+  .site-inline-field input {
+    color: var(--text);
+  }
+
+  .site-inline-field input::placeholder {
+    color: rgba(255, 255, 255, 0.38);
   }
 
   .site-menu-panel a:hover {
@@ -725,14 +852,12 @@ blockquote {
 form {
   display: flex;
   font-family: $helvetica;
-  padding: 20px 0 10px;
 }
 
 .form-container { display: flex; overflow: hidden; }
 
 input[type="email"] {
   flex: 1;
-  padding: 5px 0;
   font-size: 13px;
   @include sm { font-size: 16px; }
   border: none;
