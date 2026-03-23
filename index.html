@@ -26,28 +26,7 @@ layout: default
       <a href="mailto:?subject={{ latest_post.title }}&body={{ site.url }}{{ latest_post.url }}">Email this post</a>
       {% include copylink.html %}
     </div>
-
-    <div class="p-section" id="subscribe">
-      <p>Receive every new post in your inbox.</p>
-      <div class="p-subscribe-form">
-        <form
-          action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
-          method="post"
-          target="_blank"
-          rel="noopener"
-        >
-          <input type="hidden" name="embed" value="1" />
-          <input
-            type="email"
-            name="email"
-            placeholder="Enter your email..."
-            required
-            aria-label="Email address"
-          />
-          <button type="submit">Subscribe</button>
-        </form>
-      </div>
-    </div>
+    
   {% else %}
     <p>No posts available.</p>
   {% endif %}
