@@ -447,7 +447,8 @@ header.site-header {
   text-decoration: none;
   font-size: 28px;
   font-weight: 700;
-  font-family: $helvetica;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: -0.03em;
   padding: 14px 48px;
   opacity: 0;
   transform: translateY(-8px);
@@ -555,6 +556,8 @@ header.site-header {
   .site-menu-panel a {
     padding: 14px 32px;
     font-size: 24px;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: -0.03em;
   }
 }
 
