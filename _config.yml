@@ -41,6 +41,10 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-4M4JSZWQE3
 
+# Buttondown API key — used to add tags to existing subscribers without removing their current ones.
+# Find yours at https://buttondown.com/requests/api_key
+buttondown_api_key: ""
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://tacticsjournal.com

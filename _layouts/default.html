@@ -43,5 +43,9 @@
     
     <script src="/js/master.js"></script>
     <script src="/js/date.js"></script>
+    {% if site.buttondown_api_key and site.buttondown_api_key != "" %}
+    <script>window.BUTTONDOWN_API_KEY = "{{ site.buttondown_api_key }}";</script>
+    {% endif %}
+    <script src="/js/buttondown-subscribe.js"></script>
   </body>
 </html>
