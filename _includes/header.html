@@ -22,11 +22,23 @@
   </nav>
 
   <div class="site-actions">
-    <a href="{{ site.baseurl }}/search/" class="site-action" aria-label="Search">
+    <form id="site-inline-search" class="site-inline-field site-inline-field-search" action="{{ site.baseurl }}/search/" method="get" role="search">
+      <input type="search" name="search" placeholder="Search..." aria-label="Search" />
+      <button type="submit" class="site-inline-submit" aria-label="Submit search">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16L21 21"/></svg>
+      </button>
+    </form>
+
+    <form id="site-inline-subscribe" class="site-inline-field site-inline-field-subscribe" action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" method="post" target="_blank">
+      <input type="email" name="email" placeholder="Enter your email..." aria-label="Email address" autocomplete="email" required />
+      <button type="submit" class="site-inline-subscribe-btn" aria-label="Subscribe">Submit</button>
+    </form>
+
+    <a href="{{ site.baseurl }}/search/" class="site-action site-action-toggle" data-inline-toggle="search" aria-label="Search" aria-expanded="false" aria-controls="site-inline-search">
       <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16L21 21"/></svg>
     </a>
 
-    <a href="{{ site.baseurl }}/subscribe/" class="site-action" aria-label="Subscribe">
+    <a href="{{ site.baseurl }}/subscribe/" class="site-action site-action-toggle site-action-subscribe-toggle" data-inline-toggle="subscribe" aria-label="Subscribe" aria-expanded="false" aria-controls="site-inline-subscribe">
       <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c1.5-3.5 4.1-5.25 7-5.25S17.5 16.5 19 20"/></svg>
     </a>
 
@@ -47,11 +59,49 @@
 
     <script>
     (function() {
+      var header = document.querySelector('.site-header');
+      if (!header) return;
+      var actions = header.querySelector('.site-actions');
+      var toggles = header.querySelectorAll('[data-inline-toggle]');
+      var forms = {
+        search: header.querySelector('#site-inline-search'),
+        subscribe: header.querySelector('#site-inline-subscribe')
+      };
       var menu = document.querySelector('.site-menu');
-      if (!menu) return;
-      var summary = menu.querySelector('summary');
-      var overlay = menu.querySelector('.site-menu-overlay');
+      var summary = menu ? menu.querySelector('summary') : null;
+      var overlay = menu ? menu.querySelector('.site-menu-overlay') : null;
       var duration = 400;
+      var mobileQuery = window.matchMedia('(max-width: 767px)');
+
+      function isMobile() {
+        return mobileQuery.matches;
+      }
+
+      function setExpanded(openName) {
+        toggles.forEach(function(toggle) {
+          toggle.setAttribute('aria-expanded', toggle.getAttribute('data-inline-toggle') === openName ? 'true' : 'false');
+        });
+      }
+
+      function closeInline() {
+        if (!actions || !actions.hasAttribute('data-inline-open')) return;
+        actions.removeAttribute('data-inline-open');
+        header.removeAttribute('data-inline-open');
+        setExpanded(null);
+      }
+
+      function openInline(name) {
+        if (!actions) return;
+        actions.setAttribute('data-inline-open', name);
+        header.setAttribute('data-inline-open', name);
+        setExpanded(name);
+        var input = forms[name] ? forms[name].querySelector('input') : null;
+        if (!input) return;
+        window.requestAnimationFrame(function() {
+          input.focus();
+          if (name === 'search' && input.value) input.select();
+        });
+      }
 
       function closeMenu() {
         if (!menu.hasAttribute('open') || menu.classList.contains('closing')) return;
@@ -63,16 +113,87 @@
         }, duration);
       }
 
-      summary.addEventListener('click', function(e) {
-        if (menu.hasAttribute('open')) {
-          e.preventDefault();
-          closeMenu();
+      // Email validation for subscribe button
+      var subscribeForm = forms.subscribe;
+      var subscribeInput = subscribeForm ? subscribeForm.querySelector('input[type="email"]') : null;
+      var subscribeBtn = subscribeForm ? subscribeForm.querySelector('.site-inline-subscribe-btn') : null;
+      
+      function isValidEmail(email) {
+        var re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return re.test(email);
+      }
+      
+      function updateSubscribeButton() {
+        if (!subscribeBtn || !subscribeInput) return;
+        if (isValidEmail(subscribeInput.value)) {
+          subscribeBtn.classList.add('valid');
         } else {
-          document.body.style.overflow = 'hidden';
+          subscribeBtn.classList.remove('valid');
+        }
+      }
+      
+      if (subscribeInput) {
+        subscribeInput.addEventListener('input', updateSubscribeButton);
+        updateSubscribeButton();
+      }
+
+      toggles.forEach(function(toggle) {
+        toggle.addEventListener('click', function(e) {
+          if (!isMobile()) return;
+          e.preventDefault();
+          var name = toggle.getAttribute('data-inline-toggle');
+          if (actions.getAttribute('data-inline-open') === name) {
+            closeInline();
+            return;
+          }
+          closeMenu();
+          openInline(name);
+        });
+      });
+
+      Object.keys(forms).forEach(function(name) {
+        if (!forms[name]) return;
+        forms[name].addEventListener('submit', function() {
+          closeInline();
+        });
+      });
+
+      document.addEventListener('click', function(e) {
+        if (!isMobile()) return;
+        if (!actions.contains(e.target)) {
+          closeInline();
         }
       });
 
-      overlay.addEventListener('click', closeMenu);
+      document.addEventListener('keydown', function(e) {
+        if (e.key !== 'Escape') return;
+        closeInline();
+        closeMenu();
+      });
+
+      if (summary) {
+        summary.addEventListener('click', function(e) {
+          closeInline();
+          if (menu.hasAttribute('open')) {
+            e.preventDefault();
+            closeMenu();
+          } else {
+            document.body.style.overflow = 'hidden';
+          }
+        });
+      }
+
+      if (overlay) {
+        overlay.addEventListener('click', closeMenu);
+      }
+
+      if (mobileQuery.addEventListener) {
+        mobileQuery.addEventListener('change', function(e) {
+          if (!e.matches) {
+            closeInline();
+          }
+        });
+      }
     })();
     </script>
   </div>
