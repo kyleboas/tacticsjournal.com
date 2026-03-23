@@ -170,8 +170,7 @@ description: "Tactics Journal research monitors more football content than any p
   </div>
 
   <p class="r-pricing-note">
-    The entire system will be open source.
-    Running it yourself would cost around $40 a month in hosting and LLM costs.
+    The entire system is open source. A subscription costs a fraction of the ~$40/month you’d spend running it yourself on hosting and LLM calls.
   </p>
 </div>
 
