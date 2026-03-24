@@ -11,27 +11,21 @@ Tactics Journal ("we", "us", "our") operates tacticsjournal.com. This policy exp
 
 ### Email address
 
-When you subscribe to our newsletter, we collect your email address. This is the only personal information we collect directly from you. Our newsletter is powered by [Buttondown](https://buttondown.com), which processes and stores your email address on our behalf.
-
-### Analytics
-
-We use Google Analytics to collect anonymous usage data such as pages visited, time spent on the site, and general location. This data is aggregated and does not personally identify you.
+When you subscribe to our newsletter, we collect your email address. This is the only personal information we collect. Our newsletter is powered by [Buttondown](https://buttondown.com), which processes and stores your email address on our behalf.
 
 ## How we use your information
 
 - **Email address:** To send you new posts and updates from Tactics Journal. You can unsubscribe at any time using the link in any email we send.
-- **Analytics data:** To understand how readers use the site and to improve our content.
 
 ## Third-party services
 
-We use the following third-party services that may collect data:
+We use the following third-party service that may collect data:
 
 - **Buttondown** — Email newsletter delivery. [Buttondown's privacy policy](https://buttondown.com/legal/privacy)
-- **Google Analytics** — Website analytics. [Google's privacy policy](https://policies.google.com/privacy)
 
 ## Cookies
 
-Google Analytics uses cookies to collect usage data. You can opt out by using a browser extension or adjusting your browser's cookie settings.
+This site does not use cookies or tracking technologies.
 
 ## Data retention
 
