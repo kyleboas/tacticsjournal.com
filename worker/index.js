@@ -48,74 +48,42 @@ export default {
       return json({ error: 'Server misconfiguration' }, 500, origin);
     }
 
-    // Get client IP for Buttondown firewall
     const clientIP = request.headers.get('CF-Connecting-IP') || '';
+    const createRes = await fetch(`${BD_API}/subscribers`, {
+      method: 'POST',
+      headers: {
+        Authorization: `Token ${apiKey}`,
+        'Content-Type': 'application/json',
+        'X-Buttondown-Collision-Behavior': 'add',
+      },
+      body: JSON.stringify({ email_address: email, tags, ip_address: clientIP }),
+    });
 
-    // Look up subscriber by email
-    const lookupRes = await fetch(
-      `${BD_API}/subscribers/${encodeURIComponent(email)}`,
-      { headers: { Authorization: `Token ${apiKey}` } }
-    );
-
-    // 404 means subscriber doesn't exist - create them
-    if (lookupRes.status === 404) {
-      const createRes = await fetch(`${BD_API}/subscribers`, {
-        method: 'POST',
-        headers: {
-          Authorization: `Token ${apiKey}`,
-          'Content-Type': 'application/json',
-          'X-Buttondown-Bypass-Firewall': 'true',
-        },
-        body: JSON.stringify({ email_address: email, tags: tags, ip_address: clientIP }),
-      });
-
-      if (!createRes.ok) {
-        const errText = await createRes.text();
-        console.error('Create failed:', createRes.status, errText);
-        return json({ error: 'Failed to create subscriber' }, 502, origin);
-      }
-      return json({ status: 'created' }, 200, origin);
+    if (!createRes.ok) {
+      console.error('Buttondown subscriber upsert failed with status', createRes.status);
+      return json({ error: 'Failed to process subscriber' }, 502, origin);
     }
 
-    if (!lookupRes.ok) {
-      return json({ error: 'Upstream error' }, 502, origin);
+    let subscriber = null;
+    try {
+      subscriber = await createRes.json();
+    } catch {
+      subscriber = null;
     }
 
-    // Existing subscriber
-    const subscriber = await lookupRes.json();
-    const existing = subscriber.tags || [];
-    const hasAllTags = tags.every(t => existing.includes(t));
-
-    // Add missing tags if needed
-    if (!hasAllTags) {
-      const merged = [...new Set([...existing, ...tags])];
-      const patchRes = await fetch(`${BD_API}/subscribers/${subscriber.id}`, {
-        method: 'PATCH',
-        headers: {
-          Authorization: `Token ${apiKey}`,
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ tags: merged }),
-      });
-
-      if (!patchRes.ok) {
-        return json({ error: 'Failed to update subscriber' }, 502, origin);
-      }
-    }
-
-    // If subscriber hasn't verified their email, resend the verification email
-    if (subscriber.type === 'unactivated') {
-      await fetch(`${BD_API}/subscribers/${subscriber.id}/send-reminder`, {
+    if (subscriber?.type === 'unactivated' && subscriber?.id) {
+      const reminderRes = await fetch(`${BD_API}/subscribers/${subscriber.id}/send-reminder`, {
         method: 'POST',
         headers: { Authorization: `Token ${apiKey}` },
       });
+
+      if (!reminderRes.ok && reminderRes.status !== 409) {
+        console.error('Buttondown reminder failed with status', reminderRes.status);
+      }
+
       return json({ status: 'verification_resent' }, 200, origin);
     }
 
-    if (hasAllTags) {
-      return json({ status: 'already_subscribed' }, 200, origin);
-    }
-
-    return json({ status: 'updated' }, 200, origin);
+    return json({ status: createRes.status === 201 ? 'created' : 'updated' }, 200, origin);
   },
 };
