@@ -1,16 +1,12 @@
 (function () {
   'use strict';
 
-  var API_BASE = 'https://api.buttondown.email/v1';
-
-  function getApiKey() {
-    return window.BUTTONDOWN_API_KEY || '';
-  }
+  // Cloudflare Worker URL — update after deploying the worker
+  var WORKER_URL = 'https://tacticsjournal-subscribe.YOUR_SUBDOMAIN.workers.dev';
 
   function getFormTags(form) {
-    var inputs = form.querySelectorAll('input[name="tag"]');
     var tags = [];
-    inputs.forEach(function (input) {
+    form.querySelectorAll('input[name="tag"]').forEach(function (input) {
       var val = input.value.trim();
       if (val) tags.push(val);
     });
@@ -29,52 +25,35 @@
     }, 3000);
   }
 
-  function patchSubscriberTags(subscriberId, existingTags, newTags, apiKey) {
-    var merged = existingTags.slice();
-    newTags.forEach(function (tag) {
-      if (merged.indexOf(tag) === -1) merged.push(tag);
-    });
-    return fetch(API_BASE + '/subscribers/' + subscriberId, {
-      method: 'PATCH',
-      headers: {
-        'Authorization': 'Token ' + apiKey,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({ tags: merged })
-    });
-  }
-
-  function lookupSubscriber(email, apiKey) {
-    return fetch(API_BASE + '/subscribers?email=' + encodeURIComponent(email), {
-      headers: { 'Authorization': 'Token ' + apiKey }
-    }).then(function (res) { return res.json(); });
-  }
-
   function handleSubmit(form, e) {
-    var apiKey = getApiKey();
-    if (!apiKey) return;
-
     var emailInput = form.querySelector('input[name="email"]');
     if (!emailInput) return;
 
     var email = emailInput.value.trim();
-    var newTags = getFormTags(form);
-    if (!email || !newTags.length) return;
+    var tags = getFormTags(form);
+    if (!email || !tags.length) return;
 
     e.preventDefault();
 
-    lookupSubscriber(email, apiKey).then(function (data) {
-      if (data.count > 0) {
-        var subscriber = data.results[0];
-        patchSubscriberTags(subscriber.id, subscriber.tags || [], newTags, apiKey)
-          .then(function () { showSuccess(form); })
-          .catch(function () { form.submit(); });
-      } else {
+    fetch(WORKER_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email: email, tags: tags }),
+    })
+      .then(function (res) { return res.json(); })
+      .then(function (data) {
+        if (data.status === 'updated') {
+          // Existing subscriber — tags merged, no need to re-submit
+          showSuccess(form);
+        } else {
+          // New subscriber — let Buttondown handle creation + confirmation email
+          form.submit();
+        }
+      })
+      .catch(function () {
+        // Network error or worker down — fall back to direct form submit
         form.submit();
-      }
-    }).catch(function () {
-      form.submit();
-    });
+      });
   }
 
   function init() {
