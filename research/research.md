@@ -268,7 +268,7 @@ const observer = new IntersectionObserver((entries) => {
   });
 }, { threshold: 0.2 });
 
-document.querySelectorAll('.r-offerings, .r-oss-compare, .r-pricing-graphic').forEach(el => {
+document.querySelectorAll('.r-pricing-graphic').forEach(el => {
   observer.observe(el);
 });
 </script>

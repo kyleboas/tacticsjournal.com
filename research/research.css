@@ -51,7 +51,6 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  justify-content: flex-start;
 }
 .r-hero h2 {
   font-size: clamp(1.8rem, 3.8vw, 2.8rem);
@@ -60,15 +59,12 @@
   letter-spacing: -0.03em;
   color: var(--text);
   margin: 0 0 12px;
-  font-family: "Inter", sans-serif;
 }
 .r-sub-statement {
   font-size: clamp(1.1rem, 2.5vw, 1.5rem);
-  font-family: "Inter", sans-serif;
   color: var(--text-secondary);
   line-height: 1.2;
   max-width: 28rem;
-  margin-top: 0px;
   margin-bottom: 20px;
 }
 
@@ -77,18 +73,14 @@
   display: flex;
   justify-content: center;
   width: 100%;
-  margin-top: 0;
   margin-bottom: 30px;
 }
 
 /* Sections */
 .r-section { padding: 56px 0 }
-.r-section:first-child { border-top: none; }
 .r-section--no-top-padding { padding: 0; }
-.r-section--no-bottom-padding { padding-bottom: 0; }
 .r-section-label {
   font-size: 24px;
-  font-family: "Inter", sans-serif;
   font-weight: 600;
   margin-bottom: 20px;
 }
@@ -106,19 +98,6 @@
 .r-section a:hover {
   color: var(--text-secondary);
 }
-
-/* Tags */
-.r-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0; }
-.r-tag {
-  font-size: 11px;
-  color: var(--text-muted);
-  border: 1px solid var(--border);
-  border-radius: 9999px;
-  padding: 4px 12px;
-  font-weight: 500;
-  transition: border-color 0.15s ease;
-}
-.r-tag:hover { border-color: var(--text-muted); }
 
 /* Waitlist Form - also works outside .research-page (in posts) */
 .r-waitlist-form {
@@ -147,7 +126,6 @@
   align-items: center;
   gap: 8px;
   width: min(100%, 540px);
-  max-width: 540px;
   margin: 0 auto;
   border: 1px solid var(--r-border, var(--border));
   border-radius: 9999px;
@@ -197,100 +175,8 @@
   color: #fff;
 }
 
-/* Subscribe form in posts - matches waitlist styling */
-.p-subscribe-form {
-  --r-border: rgba(0,0,0,0.1);
-  --r-border-focus: #3c3c3c;
-  --r-text: #111;
-  --r-text-muted: #8b8b8b;
-  --r-btn-bg: #111;
-  --r-btn-text: #fff;
-}
-
-@media (prefers-color-scheme: dark) {
-  .p-subscribe-form {
-    --r-border: rgba(255,255,255,0.08);
-    --r-border-focus: #d4d4d4;
-    --r-text: #fafafa;
-    --r-text-muted: #a3a3a3;
-    --r-btn-bg: #fafafa;
-    --r-btn-text: #0a0a0a;
-  }
-}
-
-.p-subscribe-form form {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  align-items: center;
-  gap: 8px;
-  width: min(100%, 540px);
-  max-width: 540px;
-  margin: 0 auto;
-  border: 1px solid var(--r-border);
-  border-radius: 9999px;
-  padding: 6px;
-  font-family: inherit;
-  transition: border-color 0.15s ease, box-shadow 0.3s ease;
-  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.04);
-}
-.p-subscribe-form form:focus-within {
-  border-color: var(--r-border-focus);
-  box-shadow: 0 0 0 4px rgba(17, 17, 17, 0.06);
-}
-.p-subscribe-form input[type="email"] {
-  font-size: 1.05rem;
-  padding: 12px 0 12px 24px;
-  border: none;
-  background: transparent;
-  color: var(--r-text);
-  width: 100%;
-  max-width: none;
-  min-width: 0;
-  outline: none;
-}
-.p-subscribe-form input[type="email"]::placeholder { color: var(--r-text-muted); }
-.p-subscribe-form button {
-  font-size: 1.05rem;
-  font-weight: 500;
-  padding: 14px 30px;
-  background: var(--r-btn-bg);
-  color: var(--r-btn-text);
-  border: none;
-  border-radius: 9999px;
-  cursor: pointer;
-  white-space: nowrap;
-  transition: opacity 0.15s ease, box-shadow 0.3s ease, transform 0.2s ease;
-}
-.p-subscribe-form button:hover {
-  opacity: 0.95;
-  transform: translateY(-1px);
-}
-.p-subscribe-form button:active { transform: translateY(0); }
-
-/* Post subscribe section */
-.p-section p { text-align: center; }
-.p-subscribe-form { margin-top: 12px; }
-
-/* GitHub Link */
-.r-github-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 13px;
-  font-weight: 500;
-  color: var(--text-secondary);
-  text-decoration: none;
-  border: 1px solid var(--border);
-  border-radius: 9999px;
-  padding: 8px 18px;
-  transition: border-color 0.15s ease, color 0.15s ease;
-}
-.r-github-link:hover { border-color: var(--border-hover); color: var(--text); text-decoration: none; }
-.r-github-link svg { flex-shrink: 0; }
-
 /* Misc */
 .r-audience { font-size: 13px; color: var(--text-muted); margin-top: 32px; margin-bottom: 40px }
-.r-mono { font-family: 'Geist Mono', monospace; font-size: 12px; color: var(--text-muted); background: rgba(128,128,128,0.1); padding: 2px 8px; border-radius: 4px; }
 
 /* Pricing note */
 .r-section p.r-pricing-note { font-size: 14px; }
@@ -321,7 +207,6 @@
   }
 
   .r-section p {
-    font-size: 16px;
     line-height: 1.45;
   }
 
