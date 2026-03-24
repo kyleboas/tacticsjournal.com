@@ -11,7 +11,7 @@ Tactics Journal ("we", "us", "our") operates tacticsjournal.com. This policy exp
 
 ### Email address
 
-When you subscribe to our newsletter, we collect your email address. This is the only personal information we collect. Our newsletter is powered by [Buttondown](https://buttondown.com), which processes and stores your email address on our behalf.
+When you subscribe to our newsletter, we collect your email address. Our newsletter is powered by [Buttondown](https://buttondown.com), which processes and stores your email address on our behalf. For details on how Buttondown handles your data, see [Buttondown's privacy policy](https://buttondown.com/legal/privacy).
 
 ## How we use your information
 
