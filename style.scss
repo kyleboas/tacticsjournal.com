@@ -345,11 +345,6 @@ header.site-header {
   font-size: 0.75rem;
   cursor: pointer;
   transition: background 0.2s ease, color 0.2s ease;
-  
-  &.valid {
-    background: #0071E3;
-    color: #fff;
-  }
 }
 
 .site-menu {
@@ -1209,4 +1204,13 @@ button#subscribeButton {
   .footer-legal-links {
     gap: 15px;
   }
+}
+
+// Global subscribe button validation style
+form[action*="embed-subscribe"] button[type="submit"] {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+form[action*="embed-subscribe"] button[type="submit"].valid {
+  background-color: #0071E3 !important;
+  color: #fff !important;
 }

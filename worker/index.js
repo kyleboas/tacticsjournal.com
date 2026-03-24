@@ -61,29 +61,45 @@ export default {
     const lookupData = await lookupRes.json();
 
     if (lookupData.count > 0) {
-      // Existing subscriber — merge tags without removing any
+      // Existing subscriber
       const subscriber = lookupData.results[0];
       const existing = subscriber.tags || [];
-      const merged = [...new Set([...existing, ...tags])];
+      const hasAllTags = tags.every(t => existing.includes(t));
 
-      const patchRes = await fetch(`${BD_API}/subscribers/${subscriber.id}`, {
-        method: 'PATCH',
-        headers: {
-          Authorization: `Token ${apiKey}`,
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ tags: merged }),
-      });
+      if (hasAllTags) {
+        return json({ status: 'already_subscribed' }, 200, origin);
+      } else {
+        const merged = [...new Set([...existing, ...tags])];
+        const patchRes = await fetch(`${BD_API}/subscribers/${subscriber.id}`, {
+          method: 'PATCH',
+          headers: {
+            Authorization: `Token ${apiKey}`,
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ tags: merged }),
+        });
 
-      if (!patchRes.ok) {
-        return json({ error: 'Failed to update subscriber' }, 502, origin);
+        if (!patchRes.ok) {
+          return json({ error: 'Failed to update subscriber' }, 502, origin);
+        }
+        return json({ status: 'updated' }, 200, origin);
       }
-
-      return json({ status: 'updated' }, 200, origin);
     }
 
-    // New subscriber — tell the client to submit the form normally
-    // so Buttondown sends the confirmation email
-    return json({ status: 'new' }, 200, origin);
+    // New subscriber — create them via API
+    const createRes = await fetch(`${BD_API}/subscribers`, {
+      method: 'POST',
+      headers: {
+        Authorization: `Token ${apiKey}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ email: email, tags: tags }),
+    });
+
+    if (!createRes.ok) {
+      return json({ error: 'Failed to create subscriber' }, 502, origin);
+    }
+
+    return json({ status: 'created' }, 200, origin);
   },
 };

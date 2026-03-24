@@ -33,10 +33,10 @@
       </button>
     </form>
 
-    <form id="site-inline-subscribe" class="site-inline-field site-inline-field-subscribe" action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" method="post" target="_blank">
+    <form id="site-inline-subscribe" class="site-inline-field site-inline-field-subscribe" action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" method="post">
       <input type="hidden" name="tag" value="opinion" />
       <input type="email" name="email" placeholder="Enter your email..." aria-label="Email address" autocomplete="email" required />
-      <button type="submit" class="site-inline-subscribe-btn" aria-label="Subscribe">Submit</button>
+      <button type="submit" class="site-inline-subscribe-btn" aria-label="Subscribe">Subscribe</button>
     </form>
 
     <a href="{{ site.baseurl }}/search/" class="site-action site-action-toggle" data-inline-toggle="search" aria-label="Search" aria-expanded="false" aria-controls="site-inline-search">
@@ -118,30 +118,6 @@
         }, duration);
       }
 
-      // Email validation for subscribe button
-      var subscribeForm = forms.subscribe;
-      var subscribeInput = subscribeForm ? subscribeForm.querySelector('input[type="email"]') : null;
-      var subscribeBtn = subscribeForm ? subscribeForm.querySelector('.site-inline-subscribe-btn') : null;
-      
-      function isValidEmail(email) {
-        var re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-        return re.test(email);
-      }
-      
-      function updateSubscribeButton() {
-        if (!subscribeBtn || !subscribeInput) return;
-        if (isValidEmail(subscribeInput.value)) {
-          subscribeBtn.classList.add('valid');
-        } else {
-          subscribeBtn.classList.remove('valid');
-        }
-      }
-      
-      if (subscribeInput) {
-        subscribeInput.addEventListener('input', updateSubscribeButton);
-        updateSubscribeButton();
-      }
-
       toggles.forEach(function(toggle) {
         toggle.addEventListener('click', function(e) {
           if (!isMobile()) return;
@@ -159,7 +135,9 @@
       Object.keys(forms).forEach(function(name) {
         if (!forms[name]) return;
         forms[name].addEventListener('submit', function() {
-          closeInline();
+          if (name !== 'subscribe') {
+            closeInline();
+          }
         });
       });
 
