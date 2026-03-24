@@ -48,6 +48,9 @@ export default {
       return json({ error: 'Server misconfiguration' }, 500, origin);
     }
 
+    // Get client IP for Buttondown firewall
+    const clientIP = request.headers.get('CF-Connecting-IP') || '';
+
     // Look up subscriber by email
     const lookupRes = await fetch(
       `${BD_API}/subscribers/${encodeURIComponent(email)}`,
@@ -63,7 +66,7 @@ export default {
           'Content-Type': 'application/json',
           'X-Buttondown-Bypass-Firewall': 'true',
         },
-        body: JSON.stringify({ email_address: email, tags: tags }),
+        body: JSON.stringify({ email_address: email, tags: tags, ip_address: clientIP }),
       });
 
       if (!createRes.ok) {
