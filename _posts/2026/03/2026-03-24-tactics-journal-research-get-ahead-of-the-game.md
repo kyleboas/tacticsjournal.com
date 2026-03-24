@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-03-24 11:00 UTC
-title: "Tactics Journal Research. Get ahead of the game."
+title: "Tactics Journal research. Get ahead of the game."
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/03/22/Image-22Mar2026_09:00:35.png"
 ---
 
@@ -31,30 +31,6 @@ I dropped everything to research agentic AI for three months because I saw the i
     <button type="submit">Join waitlist</button>
   </form>
 </div>
-
-Most people interact with AI through chatbots. ChatGPT, Claude, Gemini. You ask a question, get an answer, then go apply it yourself. The work still falls on you.
-
-Agents are different. You don't ask them a question. You give them a job. Research, execution, testing, delivery. The tedious work runs in the background while you focus on the things that actually matter.
-
-Two breakthroughs stopped me in my tracks.
-
-[OpenClaw](https://github.com/PeterSteinworlds/OpenClaw) by Peter Steingberger showed what autonomous agents look like when they act as a personal assistant, working unprovoked. Not waiting for a prompt. Just doing the work. 
-
-When you try OpenClaw, Hermes Agent, [Manus AI](https://manus.im/app/agents), [Perplexity Computer](https://www.perplexity.ai/products/computer), or [Claude Cowork](https://claude.com/product/cowork) you see where the world is going. When you see things like [Mission Control](https://missioncontrolhq.ai) or [Polsia](https://polsia.com/live) you witness the power of building agents that work for you.
-
-[autoresearch](https://github.com/karpathy/autoresearch) by Andrej Karpathy showed something else: a small system for training LLMs where an AI could run experiments by itself. It made a change, tested it, checked whether the result improved, kept what worked, and discarded what didn't. By morning, you had a trail of experiments and a better result. It was built for LLM training, but the loop itself can be adapted to other kinds of optimization.
-
-The cost to build and run things like this is collapsing toward zero. The differentiator is no longer knowing how to build. It's having the imagination and courage to create something.
-
-Mark Cuban said it recently, "Software is dead because everything's gonna be customized to your unique utilization."
-
-The generic tool era is ending. What replaces it is individuals building exactly what they need.
-
-Even if you have no experience in coding, with tools like Codex and Claude Code, anyone can ship something. You are not behind if you start today. But there is no excuse anymore.
-
-And if you don't want to build anything, there will be someone ready to build it for free or at a lower cost.
-
----
 
 The Tactics Journal research system does three things.
 
@@ -95,6 +71,30 @@ I'm still testing and fine tuning things. Join the waitlist to get early access.
     <button type="submit">Join waitlist</button>
   </form>
 </div>
+
+---
+
+Most people interact with AI through chatbots. ChatGPT, Claude, Gemini. You ask a question, get an answer, then go apply it yourself. The work still falls on you.
+
+Agents are different. You don't ask them a question. You give them a job. Research, execution, testing, delivery. The tedious work runs in the background while you focus on the things that actually matter.
+
+Two breakthroughs stopped me in my tracks.
+
+[OpenClaw](https://github.com/PeterSteinworlds/OpenClaw) by Peter Steingberger showed what autonomous agents look like when they act as a personal assistant, working unprovoked. Not waiting for a prompt. Just doing the work. 
+
+When you try OpenClaw, Hermes Agent, [Manus AI](https://manus.im/app/agents), [Perplexity Computer](https://www.perplexity.ai/products/computer), or [Claude Cowork](https://claude.com/product/cowork) you see where the world is going. When you see things like [Mission Control](https://missioncontrolhq.ai) or [Polsia](https://polsia.com/live) you witness the power of building agents that work for you.
+
+[autoresearch](https://github.com/karpathy/autoresearch) by Andrej Karpathy showed something else: a small system for training LLMs where an AI could run experiments by itself. It made a change, tested it, checked whether the result improved, kept what worked, and discarded what didn't. By morning, you had a trail of experiments and a better result. It was built for LLM training, but the loop itself can be adapted to other kinds of optimization.
+
+The cost to build and run things like this is collapsing toward zero. The differentiator is no longer knowing how to build. It's having the imagination and courage to create something.
+
+Mark Cuban said it recently, "Software is dead because everything's gonna be customized to your unique utilization."
+
+The generic tool era is ending. What replaces it is individuals building exactly what they need.
+
+Even if you have no experience in coding, with tools like Codex and Claude Code, anyone can ship something. You are not behind if you start today. But there is no excuse anymore.
+
+And if you don't want to build anything, there will be someone ready to build it for free or at a lower cost.
 
 ---
 
