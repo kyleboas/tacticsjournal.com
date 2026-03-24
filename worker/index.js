@@ -83,6 +83,25 @@ export default {
 
     // Existing subscriber
     const subscriber = await lookupRes.json();
+    const existing = subscriber.tags || [];
+    const hasAllTags = tags.every(t => existing.includes(t));
+
+    // Add missing tags if needed
+    if (!hasAllTags) {
+      const merged = [...new Set([...existing, ...tags])];
+      const patchRes = await fetch(`${BD_API}/subscribers/${subscriber.id}`, {
+        method: 'PATCH',
+        headers: {
+          Authorization: `Token ${apiKey}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ tags: merged }),
+      });
+
+      if (!patchRes.ok) {
+        return json({ error: 'Failed to update subscriber' }, 502, origin);
+      }
+    }
 
     // If subscriber hasn't verified their email, resend the verification email
     if (subscriber.type === 'unactivated') {
@@ -93,26 +112,10 @@ export default {
       return json({ status: 'verification_resent' }, 200, origin);
     }
 
-    const existing = subscriber.tags || [];
-    const hasAllTags = tags.every(t => existing.includes(t));
-
     if (hasAllTags) {
       return json({ status: 'already_subscribed' }, 200, origin);
     }
 
-    const merged = [...new Set([...existing, ...tags])];
-    const patchRes = await fetch(`${BD_API}/subscribers/${subscriber.id}`, {
-      method: 'PATCH',
-      headers: {
-        Authorization: `Token ${apiKey}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ tags: merged }),
-    });
-
-    if (!patchRes.ok) {
-      return json({ error: 'Failed to update subscriber' }, 502, origin);
-    }
     return json({ status: 'updated' }, 200, origin);
   },
 };
