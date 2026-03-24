@@ -1,6 +1,11 @@
 # Tactics Journal - robots.txt
 # Football tactics analysis by Kyle Boas
-# Updated: 2025-11-19
+# Updated: 2026-03-24
+#
+# NOTE: Cloudflare's "AI Bot Protection" feature may prepend blocking rules
+# for AI crawlers (GPTBot, CCBot, ClaudeBot, etc.) that override the allow
+# rules below. To enable AI crawler access, disable AI Bot Protection in
+# Cloudflare dashboard under Security > Bots.
 
 # Default crawl rules for all bots
 User-agent: *
