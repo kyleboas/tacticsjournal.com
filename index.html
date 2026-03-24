@@ -150,6 +150,21 @@ document.addEventListener("DOMContentLoaded", () => {
       li.classList.toggle("hidden", idx >= visibleLimit);
     });
 
+    // Hide month headers when all their posts are hidden
+    document.querySelectorAll(".year-month").forEach(yearMonth => {
+      const list = yearMonth.nextElementSibling;
+      if (list) {
+        const allHidden = Array.from(list.querySelectorAll("li")).every(li => li.classList.contains("hidden"));
+        yearMonth.classList.toggle("hidden", allHidden);
+      }
+    });
+
+    // Hide year groups when all their months are hidden
+    document.querySelectorAll(".archive-year").forEach(yearGroup => {
+      const allMonthsHidden = Array.from(yearGroup.querySelectorAll(".year-month")).every(ym => ym.classList.contains("hidden"));
+      yearGroup.classList.toggle("hidden", allMonthsHidden);
+    });
+
     const hasMore = posts.length > visibleLimit;
     showMoreWrap.classList.toggle("hidden", !hasMore);
   }
