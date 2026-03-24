@@ -5,9 +5,6 @@ title: "Tactics Journal research. Get ahead of the game."
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/03/22/Image-22Mar2026_09:00:35.png"
 ---
 
-<link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
-<style>.r-waitlist-form { padding: 20px 0; }</style>
-
 I dropped everything to research agentic AI for three months because I saw the impact agents will have on individuals. Not chatbots. Agents. Autonomous systems that work for you, day and night, at near-zero cost. I built one for football.
 
 <!---more--->
@@ -32,7 +29,7 @@ I dropped everything to research agentic AI for three months because I saw the i
   </form>
 </div>
 
-The Tactics Journal research system does three things.
+Tactics Journal research does four things.
 
 **It monitors more football content than any person could.** Articles, press conferences, podcasts, coaching interviews, analysis — across leagues, languages, and cultures. Every hour, it pulls in new content and stores it as searchable embeddings. German tactical blogs, Portuguese analysis, press conferences where managers drop phrases weeks before anyone writes about the concept behind them.
 
@@ -42,7 +39,7 @@ You gain experience from the entire world of football, not just the English-spea
 
 **It writes daily deep research reports.** Only candidates that pass a quality gate get written up. Each report is researched against a stored corpus and the live web, citation-checked, and revised. Every report requires counterevidence. If the evidence is thin, the report says so.
 
-And it tunes itself. Built on the same idea as Karpathy's autoresearch, the system experiments on its own detection and reporting settings. Keeps what works. Discards what doesn't.
+**It tunes itself.** Built on the same idea as Karpathy's autoresearch, the system experiments on its own detection and reporting settings. Keeps what works. Discards what doesn't.
 
 Everything will be open source. There is no point in hiding how your product works when it is this easy to take something, replicate it, and customize it to fit exactly what you want.
 
@@ -50,7 +47,7 @@ A report will be published daily. One report per week will be available to anyon
 
 Subscribing is cheaper than hosting it yourself. A subscription costs a fraction of the ~$40/month you'd spend running it yourself on hosting and LLM calls.
 
-I'm still testing and fine tuning things. Join the waitlist to get early access.
+I'm still testing and fine tuning things. <a href="https://tacticsjournal.com/research">Join the waitlist</a> to get early access.
 
 <div class="r-waitlist-form">
   <form
@@ -115,3 +112,6 @@ There are new breakthroughs, solutions, models, and ideas coming out every day. 
 I want to build platforms where agents can act unprovoked. Not waiting for a question. Just doing the work they were built to do.
 
 The people who build these things for football, for journalism, for scouting, for anything will have an unfair advantage. Not because the technology is secret. Because they had the taste to know what to build and the initiative to build it before everyone else.
+
+<link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
+<style>.r-waitlist-form { padding: 20px 0; }</style>
