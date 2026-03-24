@@ -5,9 +5,31 @@ title: "Tactics Journal Research. Get ahead of the game."
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/03/22/Image-22Mar2026_09:00:35.png"
 ---
 
+<link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
+
 I dropped everything to research agentic AI for three months because I saw the impact agents will have on individuals. Not chatbots. Agents. Autonomous systems that work for you, day and night, at near-zero cost. I built one for football.
 
 <!---more--->
+
+<div class="r-waitlist-form">
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
+    method="post"
+    target="_blank"
+    rel="noopener"
+  >
+    <input type="hidden" name="tag" value="waitlist" />
+    <input type="hidden" name="embed" value="1" />
+    <input
+      type="email"
+      name="email"
+      placeholder="Enter your email..."
+      required
+      aria-label="Email address"
+    />
+    <button type="submit">Join waitlist</button>
+  </form>
+</div>
 
 Most people interact with AI through chatbots. ChatGPT, Claude, Gemini. You ask a question, get an answer, then go apply it yourself. The work still falls on you.
 
@@ -49,9 +71,29 @@ Everything will be open source. There is no point in hiding how your product wor
 
 A report will be published daily. One report per week will be available to anyone for free. Subscribe for $15 per month to access every report. More subscribers means better models, which means better reports. The quality scales with interest.
 
-Subscribing is cheaper than hosting it yourself. A subscription costs a fraction of the ~$40/month you’d spend running it yourself on hosting and LLM calls.
+Subscribing is cheaper than hosting it yourself. A subscription costs a fraction of the ~$40/month you'd spend running it yourself on hosting and LLM calls.
 
-I'm still testing and fine tuning things. [Join the waitlist](https://tacticsjournal.com/research) to get early access.
+I'm still testing and fine tuning things. Join the waitlist to get early access.
+
+<div class="r-waitlist-form">
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
+    method="post"
+    target="_blank"
+    rel="noopener"
+  >
+    <input type="hidden" name="tag" value="waitlist" />
+    <input type="hidden" name="embed" value="1" />
+    <input
+      type="email"
+      name="email"
+      placeholder="Enter your email..."
+      required
+      aria-label="Email address"
+    />
+    <button type="submit">Join waitlist</button>
+  </form>
+</div>
 
 ---
 
