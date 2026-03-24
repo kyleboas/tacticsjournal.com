@@ -6,6 +6,7 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/03/2
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
+<style>.r-waitlist-form { padding: 20px 0; }</style>
 
 I dropped everything to research agentic AI for three months because I saw the impact agents will have on individuals. Not chatbots. Agents. Autonomous systems that work for you, day and night, at near-zero cost. I built one for football.
 
