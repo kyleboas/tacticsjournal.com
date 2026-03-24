@@ -103,6 +103,8 @@
       .then(function (data) {
         if (data.status === 'already_subscribed') {
           showMessage(form, "You are already subscribed.");
+        } else if (data.status === 'verification_resent') {
+          showMessage(form, "Check your email to confirm your subscription.");
         } else if (data.status === 'updated') {
           showMessage(form, "Successfully subscribed.");
         } else if (data.status === 'created') {

@@ -63,6 +63,16 @@ export default {
     if (lookupData.count > 0) {
       // Existing subscriber
       const subscriber = lookupData.results[0];
+
+      // If subscriber hasn't verified their email, resend the verification email
+      if (subscriber.subscriber_type === 'unactivated') {
+        await fetch(`${BD_API}/subscribers/${subscriber.id}/send-reminder`, {
+          method: 'POST',
+          headers: { Authorization: `Token ${apiKey}` },
+        });
+        return json({ status: 'verification_resent' }, 200, origin);
+      }
+
       const existing = subscriber.tags || [];
       const hasAllTags = tags.every(t => existing.includes(t));
 
