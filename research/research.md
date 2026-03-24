@@ -122,8 +122,11 @@ description: "Tactics Journal research monitors more football content than any p
     </div>
   </div>
   <p class="r-audience">
-    <strong>Over 200+ international sources:</strong> independent analysts, niche outlets, press conferences, and interviews from clubs and football media. Each source classified by tier, culture, and format. Press conferences and interviews weighted as early-signal material.
-  </p>
+  <strong>Over 200 international sources:</strong> Independent analysts, niche outlets, press conferences, and interviews from clubs and football media worldwide. Each source classified by tier, culture, and format. Press conferences and interviews weighted as early-signal material.
+</p>
+<p class="r-audience">
+  <strong>Reports translated into your language:</strong> We take in all of these sources and deliver a report in your native language.
+</p>
 </div>
 
 <!-- PRICING -->
