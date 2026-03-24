@@ -100,7 +100,7 @@ description: "Tactics Journal research monitors more football content than any p
         <span class="r-step-title">Report</span>
       </div>
       <div class="r-step-detail">
-        Only candidates that pass a quality gate get written up in English. Researched, citation-checked, revised. Every report requires counterevidence.
+        Only candidates that pass a quality gate get written up in all languages. Researched, citation-checked, revised. Every report requires counterevidence.
       </div>
     </div>
 
