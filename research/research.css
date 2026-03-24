@@ -260,6 +260,10 @@
 }
 .p-subscribe-form button:active { transform: translateY(0); }
 
+/* Post subscribe section */
+.p-section p { text-align: center; }
+.p-subscribe-form { margin-top: 12px; }
+
 /* GitHub Link */
 .r-github-link {
   display: inline-flex;
