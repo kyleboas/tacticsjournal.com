@@ -65,7 +65,7 @@
     }
   }
 
-  function showMessage(form, message, autoClose) {
+  function showMessage(form, message) {
     lockFormSize(form);
     var inputs = form.querySelectorAll('input');
     inputs.forEach(function(input) { input.style.display = 'none'; });
@@ -88,14 +88,12 @@
     msgDiv.textContent = message;
     msgDiv.style.display = 'block';
 
-    if (autoClose) {
+    setTimeout(function() {
+      closeInlineForm(form);
       setTimeout(function() {
-        closeInlineForm(form);
-        setTimeout(function() {
-          resetForm(form);
-        }, 500);
-      }, 4000);
-    }
+        resetForm(form);
+      }, 500);
+    }, 4000);
   }
 
   function showSpinner(form) {
@@ -136,17 +134,17 @@
       .then(function (res) { return res.json(); })
       .then(function (data) {
         if (data.status === 'already_subscribed') {
-          showMessage(form, "You are already subscribed.", true);
+          showMessage(form, "You are already subscribed.");
         } else if (data.status === 'updated') {
-          showMessage(form, "Successfully subscribed.", true);
+          showMessage(form, "Successfully subscribed.");
         } else if (data.status === 'created' || data.status === 'verification_resent') {
-          showMessage(form, "Check your email to confirm your subscription.", false);
+          showMessage(form, "Check your email to confirm your subscription.");
         } else {
-          showMessage(form, "Check your email to confirm your subscription.", false);
+          showMessage(form, "Check your email to confirm your subscription.");
         }
       })
       .catch(function () {
-        showMessage(form, "Check your email to confirm your subscription.", false);
+        showMessage(form, "Check your email to confirm your subscription.");
       });
   }
 
