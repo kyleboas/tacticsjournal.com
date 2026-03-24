@@ -2,7 +2,7 @@
   'use strict';
 
   // Cloudflare Worker URL — update after deploying the worker
-  var WORKER_URL = 'https://tacticsjournal-subscribe.YOUR_SUBDOMAIN.workers.dev';
+  var WORKER_URL = 'https://tacticsjournal-subscribe.heyboas.workers.dev';
 
   function getFormTags(form) {
     var tags = [];
