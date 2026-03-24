@@ -82,7 +82,7 @@ Two breakthroughs stopped me in my tracks.
 
 [OpenClaw](https://github.com/PeterSteinworlds/OpenClaw) by Peter Steingberger showed what autonomous agents look like when they act as a personal assistant, working unprovoked. Not waiting for a prompt. Just doing the work. 
 
-When you try OpenClaw, Hermes Agent, [Manus AI](https://manus.im/app/agents), [Perplexity Computer](https://www.perplexity.ai/products/computer), or [Claude Cowork](https://claude.com/product/cowork) you see where the world is going. When you see things like [Mission Control](https://missioncontrolhq.ai) or [Polsia](https://polsia.com/live) you witness the power of building agents that work for you.
+When you try OpenClaw, [Hermes Agent](https://github.com/NousResearch/hermes-agent), [Zo Computer](zo.computer), [Manus AI](https://manus.im/app/agents), [Perplexity Computer](https://www.perplexity.ai/products/computer), or [Claude Cowork](https://claude.com/product/cowork) you see where the world is going. When you see things like [Mission Control](https://missioncontrolhq.ai) or [Polsia](https://polsia.com/live) you witness the power of building agents that work for you.
 
 [autoresearch](https://github.com/karpathy/autoresearch) by Andrej Karpathy showed something else: a small system for training LLMs where an AI could run experiments by itself. It made a change, tested it, checked whether the result improved, kept what worked, and discarded what didn't. By morning, you had a trail of experiments and a better result. It was built for LLM training, but the loop itself can be adapted to other kinds of optimization.
 
