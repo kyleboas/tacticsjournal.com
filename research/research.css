@@ -190,6 +190,13 @@
 }
 .r-waitlist-form button:active { transform: translateY(0); }
 
+/* Waitlist button valid state - blue when email is valid */
+.r-waitlist-form button.waitlist-btn.valid,
+.r-waitlist-form button.valid {
+  background: #0071E3;
+  color: #fff;
+}
+
 /* Subscribe form in posts - matches waitlist styling */
 .p-subscribe-form {
   --r-border: rgba(0,0,0,0.1);
