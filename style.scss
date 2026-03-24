@@ -893,6 +893,29 @@ button#subscribeButton {
   }
 }
 
+// =============================================================================
+// SEARCH PAGE STYLES
+// =============================================================================
+
+#search-input {
+  border: none;
+  border-bottom: 1px solid #d3d3d3;
+  font-size: 20px;
+  padding: 0;
+}
+
+.searchInput.active {
+  padding-bottom: 18px;
+}
+
+#result-count {
+  font-size: 10px;
+}
+
+.suggestion-item {
+  list-style: none;
+}
+
 .p-subscribe-form form {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
