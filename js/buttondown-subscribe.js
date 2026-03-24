@@ -134,7 +134,7 @@
         } else if (data.status === 'created') {
           showMessage(form, "Check your email to confirm your subscription.");
         } else {
-          showMessage(form, "Successfully subscribed.");
+          showMessage(form, "Check your email to confirm your subscription.");
         }
       })
       .catch(function () {
