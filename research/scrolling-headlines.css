@@ -90,16 +90,16 @@
 }
 
 .sh-sans {
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
 }
 
 .sh-sans-bold {
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .sh-condensed {
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -107,14 +107,14 @@
 }
 
 .sh-condensed-bold {
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.8px;
   font-size: clamp(1.3rem, 2.8vw, 1.7rem);
 }
 
 .sh-mono {
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: clamp(1.2rem, 2.5vw, 1.5rem);
   letter-spacing: -0.3px;

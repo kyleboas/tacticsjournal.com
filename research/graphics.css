@@ -350,14 +350,14 @@
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 .r-tier-name {
   font-size: 22px;
   font-weight: 700;
   color: var(--text);
   letter-spacing: -0.02em;
-  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 .r-tier-badge {
   flex-shrink: 0;
@@ -376,7 +376,7 @@
   font-size: 14px;
   line-height: 1.65;
   color: var(--text-secondary);
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 .r-tier-price-row {
   display: flex;
@@ -391,7 +391,7 @@
   font-weight: 700;
   letter-spacing: -0.04em;
   color: var(--text);
-  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 .r-tier-price-suffix {
   font-size: 13px;
@@ -400,7 +400,7 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   margin-bottom: 6px;
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 .r-tier-list {
   display: flex;
@@ -413,7 +413,7 @@
   padding-left: 22px;
   font-size: 14px;
   line-height: 1.65;
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 .r-tier-list-item::before {
   content: "";
@@ -447,7 +447,7 @@
   color: var(--text);
   background: transparent;
   transition: border-color 0.15s ease, transform 0.2s ease, background 0.15s ease, color 0.15s ease;
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 .r-tier-cta:hover {
   border-color: var(--border-hover);
@@ -478,7 +478,7 @@
   font-size: 14px;
   font-weight: 500;
   color: var(--text-muted);
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 .r-pricing-toggle-label--active {
   color: var(--text);
@@ -511,7 +511,7 @@
 .r-tier-yearly-note {
   font-size: 12px;
   color: var(--text-muted);
-  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 @media (min-width: 768px) {
