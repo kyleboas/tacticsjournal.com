@@ -13,12 +13,34 @@
     return tags;
   }
 
+  function lockFormSize(form) {
+    if (form.dataset.lockedHeight) return;
+    form.dataset.lockedHeight = form.offsetHeight;
+    form.dataset.lockedWidth = form.offsetWidth;
+    form.style.height = form.offsetHeight + 'px';
+    form.style.width = form.offsetWidth + 'px';
+    form.style.display = 'flex';
+    form.style.alignItems = 'center';
+    form.style.justifyContent = 'center';
+  }
+
+  function unlockFormSize(form) {
+    delete form.dataset.lockedHeight;
+    delete form.dataset.lockedWidth;
+    form.style.height = '';
+    form.style.width = '';
+    form.style.display = '';
+    form.style.alignItems = '';
+    form.style.justifyContent = '';
+  }
+
   function showMessage(form, message) {
+    lockFormSize(form);
     var inputs = form.querySelectorAll('input');
     inputs.forEach(function(input) { input.style.display = 'none'; });
     var btn = form.querySelector('button[type="submit"]');
     if (btn) btn.style.display = 'none';
-    
+
     var msgDiv = form.querySelector('.subscribe-message');
     if (!msgDiv) {
       msgDiv = document.createElement('div');
@@ -56,7 +78,8 @@
          });
          if (btn) btn.style.display = '';
          msgDiv.style.display = 'none';
-         
+         unlockFormSize(form);
+
          // Trigger input event to reset button state
          var event = new Event('input', { bubbles: true });
          var emailInput = form.querySelector('input[type="email"]');
@@ -66,6 +89,7 @@
   }
 
   function showSpinner(form) {
+    lockFormSize(form);
     var inputs = form.querySelectorAll('input');
     inputs.forEach(function(input) { input.style.display = 'none'; });
     var btn = form.querySelector('button[type="submit"]');
