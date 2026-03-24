@@ -8,6 +8,9 @@
 
 :root {
   --site-padding: 22px;
+  --btn-bg: #111;
+  --btn-text: #fff;
+  --border: rgba(0,0,0,0.1);
 }
 
 html, body {
@@ -45,6 +48,8 @@ html, body {
     --text-muted: #a3a3a3;
     --border: rgba(255,255,255,0.1);
     --lightGray: #1a1a1a;
+    --btn-bg: #fafafa;
+    --btn-text: #0a0a0a;
   }
   
   html, body {
@@ -893,6 +898,7 @@ button#subscribeButton {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 16px;
+    text-align: center;
   }
 }
 
