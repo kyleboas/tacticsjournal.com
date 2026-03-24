@@ -1,5 +1,5 @@
 const ALLOWED_ORIGIN = 'https://tacticsjournal.com';
-const BD_API = 'https://api.buttondown.email/v1';
+const BD_API = 'https://api.buttondown.com/v1';
 
 function corsHeaders(origin) {
   const allowed = origin === ALLOWED_ORIGIN || origin === 'http://localhost:4000';
@@ -50,66 +50,66 @@ export default {
 
     // Look up subscriber by email
     const lookupRes = await fetch(
-      `${BD_API}/subscribers?email=${encodeURIComponent(email)}`,
+      `${BD_API}/subscribers/${encodeURIComponent(email)}`,
       { headers: { Authorization: `Token ${apiKey}` } }
     );
+
+    // 404 means subscriber doesn't exist - create them
+    if (lookupRes.status === 404) {
+      const createRes = await fetch(`${BD_API}/subscribers`, {
+        method: 'POST',
+        headers: {
+          Authorization: `Token ${apiKey}`,
+          'Content-Type': 'application/json',
+          'X-Buttondown-Bypass-Firewall': 'true',
+        },
+        body: JSON.stringify({ email_address: email, tags: tags }),
+      });
+
+      if (!createRes.ok) {
+        const errText = await createRes.text();
+        console.error('Create failed:', createRes.status, errText);
+        return json({ error: 'Failed to create subscriber' }, 502, origin);
+      }
+      return json({ status: 'created' }, 200, origin);
+    }
 
     if (!lookupRes.ok) {
       return json({ error: 'Upstream error' }, 502, origin);
     }
 
-    const lookupData = await lookupRes.json();
+    // Existing subscriber
+    const subscriber = await lookupRes.json();
 
-    if (lookupData.count > 0) {
-      // Existing subscriber
-      const subscriber = lookupData.results[0];
-
-      // If subscriber hasn't verified their email, resend the verification email
-      if (subscriber.subscriber_type === 'unactivated') {
-        await fetch(`${BD_API}/subscribers/${subscriber.id}/send-reminder`, {
-          method: 'POST',
-          headers: { Authorization: `Token ${apiKey}` },
-        });
-        return json({ status: 'verification_resent' }, 200, origin);
-      }
-
-      const existing = subscriber.tags || [];
-      const hasAllTags = tags.every(t => existing.includes(t));
-
-      if (hasAllTags) {
-        return json({ status: 'already_subscribed' }, 200, origin);
-      } else {
-        const merged = [...new Set([...existing, ...tags])];
-        const patchRes = await fetch(`${BD_API}/subscribers/${subscriber.id}`, {
-          method: 'PATCH',
-          headers: {
-            Authorization: `Token ${apiKey}`,
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ tags: merged }),
-        });
-
-        if (!patchRes.ok) {
-          return json({ error: 'Failed to update subscriber' }, 502, origin);
-        }
-        return json({ status: 'updated' }, 200, origin);
-      }
+    // If subscriber hasn't verified their email, resend the verification email
+    if (subscriber.type === 'unactivated') {
+      await fetch(`${BD_API}/subscribers/${subscriber.id}/send-reminder`, {
+        method: 'POST',
+        headers: { Authorization: `Token ${apiKey}` },
+      });
+      return json({ status: 'verification_resent' }, 200, origin);
     }
 
-    // New subscriber — create them via API
-    const createRes = await fetch(`${BD_API}/subscribers`, {
-      method: 'POST',
+    const existing = subscriber.tags || [];
+    const hasAllTags = tags.every(t => existing.includes(t));
+
+    if (hasAllTags) {
+      return json({ status: 'already_subscribed' }, 200, origin);
+    }
+
+    const merged = [...new Set([...existing, ...tags])];
+    const patchRes = await fetch(`${BD_API}/subscribers/${subscriber.id}`, {
+      method: 'PATCH',
       headers: {
         Authorization: `Token ${apiKey}`,
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ email: email, tags: tags }),
+      body: JSON.stringify({ tags: merged }),
     });
 
-    if (!createRes.ok) {
-      return json({ error: 'Failed to create subscriber' }, 502, origin);
+    if (!patchRes.ok) {
+      return json({ error: 'Failed to update subscriber' }, 502, origin);
     }
-
-    return json({ status: 'created' }, 200, origin);
+    return json({ status: 'updated' }, 200, origin);
   },
 };
