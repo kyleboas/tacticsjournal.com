@@ -71,4 +71,4 @@ There are new breakthroughs, solutions, models, and ideas coming out every day. 
 
 I want to build platforms where agents can act unprovoked. Not waiting for a question. Just doing the work they were built to do.
 
-The people who build these things — for football, for journalism, for scouting, for anything — will have an unfair advantage. Not because the technology is secret. Because they had the taste to know what to build and the initiative to build it before everyone else.
+The people who build these things for football, for journalism, for scouting, for anything will have an unfair advantage. Not because the technology is secret. Because they had the taste to know what to build and the initiative to build it before everyone else.
