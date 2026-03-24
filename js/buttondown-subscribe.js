@@ -34,7 +34,38 @@
     form.style.justifyContent = '';
   }
 
-  function showMessage(form, message) {
+  function resetForm(form) {
+    var inputs = form.querySelectorAll('input');
+    inputs.forEach(function(input) {
+      if (input.type !== 'hidden') {
+        input.style.display = '';
+        input.value = '';
+      }
+    });
+    var btn = form.querySelector('button[type="submit"]');
+    if (btn) btn.style.display = '';
+    var msgDiv = form.querySelector('.subscribe-message');
+    if (msgDiv) msgDiv.style.display = 'none';
+    unlockFormSize(form);
+
+    // Trigger input event to reset button state
+    var event = new Event('input', { bubbles: true });
+    var emailInput = form.querySelector('input[type="email"]');
+    if (emailInput) emailInput.dispatchEvent(event);
+  }
+
+  function closeInlineForm(form) {
+    var actions = form.closest('.site-actions');
+    if (actions && actions.hasAttribute('data-inline-open')) {
+      actions.removeAttribute('data-inline-open');
+      var header = document.querySelector('.site-header');
+      if (header) header.removeAttribute('data-inline-open');
+      var toggles = document.querySelectorAll('[data-inline-toggle="subscribe"]');
+      toggles.forEach(function(t) { t.setAttribute('aria-expanded', 'false'); });
+    }
+  }
+
+  function showMessage(form, message, autoClose) {
     lockFormSize(form);
     var inputs = form.querySelectorAll('input');
     inputs.forEach(function(input) { input.style.display = 'none'; });
@@ -50,42 +81,21 @@
       msgDiv.style.padding = '0.5rem';
       form.appendChild(msgDiv);
     }
-    
+
     var spinner = form.querySelector('.subscribe-spinner');
     if (spinner) spinner.style.display = 'none';
 
     msgDiv.textContent = message;
     msgDiv.style.display = 'block';
 
-    setTimeout(function() {
-      // Logic to close the inline form if it is the header inline form
-      var actions = form.closest('.site-actions');
-      if (actions && actions.hasAttribute('data-inline-open')) {
-        actions.removeAttribute('data-inline-open');
-        var header = document.querySelector('.site-header');
-        if (header) header.removeAttribute('data-inline-open');
-        var toggles = document.querySelectorAll('[data-inline-toggle="subscribe"]');
-        toggles.forEach(function(t) { t.setAttribute('aria-expanded', 'false'); });
-      }
-      
-      // Reset form visually after a small delay to allow close animation
+    if (autoClose) {
       setTimeout(function() {
-         inputs.forEach(function(input) { 
-           if (input.type !== 'hidden') {
-             input.style.display = ''; 
-             input.value = '';
-           }
-         });
-         if (btn) btn.style.display = '';
-         msgDiv.style.display = 'none';
-         unlockFormSize(form);
-
-         // Trigger input event to reset button state
-         var event = new Event('input', { bubbles: true });
-         var emailInput = form.querySelector('input[type="email"]');
-         if (emailInput) emailInput.dispatchEvent(event);
-      }, 500);
-    }, 4000);
+        closeInlineForm(form);
+        setTimeout(function() {
+          resetForm(form);
+        }, 500);
+      }, 4000);
+    }
   }
 
   function showSpinner(form) {
@@ -107,7 +117,7 @@
   }
 
   function handleSubmit(form, e) {
-    e.preventDefault();  // Always prevent default first
+    e.preventDefault();
 
     var emailInput = form.querySelector('input[name="email"]');
     if (!emailInput) return;
@@ -126,19 +136,17 @@
       .then(function (res) { return res.json(); })
       .then(function (data) {
         if (data.status === 'already_subscribed') {
-          showMessage(form, "You are already subscribed.");
-        } else if (data.status === 'verification_resent') {
-          showMessage(form, "Check your email to confirm your subscription.");
+          showMessage(form, "You are already subscribed.", true);
         } else if (data.status === 'updated') {
-          showMessage(form, "Successfully subscribed.");
-        } else if (data.status === 'created') {
-          showMessage(form, "Check your email to confirm your subscription.");
+          showMessage(form, "Successfully subscribed.", true);
+        } else if (data.status === 'created' || data.status === 'verification_resent') {
+          showMessage(form, "Check your email to confirm your subscription.", false);
         } else {
-          showMessage(form, "Check your email to confirm your subscription.");
+          showMessage(form, "Check your email to confirm your subscription.", false);
         }
       })
       .catch(function () {
-        showMessage(form, "Check your email to confirm your subscription.");
+        showMessage(form, "Check your email to confirm your subscription.", false);
       });
   }
 
@@ -161,7 +169,7 @@
           }
         }
         emailInput.addEventListener('input', updateBtn);
-        updateBtn(); // set initial state
+        updateBtn();
       }
 
       form.addEventListener('submit', function (e) {
