@@ -33,7 +33,7 @@ description: "Tactics Journal research monitors more football content than any p
 <div class="r-section">
   <div class="r-section-label">You can't watch everything</div>
   <p>
-    Right now, a manager is explaining a new pressing structure in a Portuguese interview. A German podcast is breaking down a positional pattern no one outside that country has noticed. By the time it reaches your feed, the edge is gone.
+    Right now, a manager is explaining a new pressing structure in a Portuguese interview. A German podcast is breaking down a positional pattern no one outside that country has noticed. By the time it reaches your feed, everyone else already knows.
   </p>
 </div>
 
