@@ -33,10 +33,7 @@ description: "Tactics Journal research monitors more football content than any p
 <div class="r-section">
   <div class="r-section-label">You can't watch everything</div>
   <p>
-    New ideas show up first in niche places. A pressing tweak mentioned in a German podcast. A positional pattern on a Portuguese blog. A quote a manager drops in a press conference before anyone writes about the concept.
-  </p>
-  <p>
-    By the time it reaches your feed, the edge is gone. No one can read everything, in every language
+    Right now, a manager is explaining a new pressing structure in a Portuguese interview. A German podcast is breaking down a positional pattern no one outside that country has noticed. By the time it reaches your feed, the edge is gone.
   </p>
 </div>
 
