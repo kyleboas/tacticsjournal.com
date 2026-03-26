@@ -36,15 +36,15 @@ description: "Tactics Journal research monitors more football content than any p
     New ideas show up first in niche places. A pressing tweak mentioned in a German podcast. A positional pattern on a Portuguese blog. A quote a manager drops in a press conference before anyone writes about the concept.
   </p>
   <p>
-    By the time major outlets cover it, the edge is gone. No one can read everything, in every language.
+    By the time it reaches your feed, the edge is gone. No one can read everything, in every language
   </p>
 </div>
 
 <!-- WHAT THIS IS -->
 <div class="r-section r-section--no-bottom-padding">
-  <div class="r-section-label">Automated daily research reports</div>
+  <div class="r-section-label">Daily research reports</div>
   <p>
-    Tactics Journal research monitors more football content than any person could, across leagues, languages, and cultures, and autonomously writes reports on what it finds.
+    The next big tactical trend in football is happening now, in a language you don’t speak or a league you don’t follow. Tactics Journal research tracks 200+ international sources hourly, spots it first, in any language, and delivers a daily report.
   </p>
 </div>
 
@@ -65,7 +65,7 @@ description: "Tactics Journal research monitors more football content than any p
         <span class="r-step-title">Ingest</span>
       </div>
       <div class="r-step-detail">
-        Pulls content, data, and transcripts from blogs, articles, videos, press conferences, interviews, and podcasts. Re-checks a rolling window so nothing is missed.
+        Pulls blogs, articles, podcasts, press conferences, and interviews hourly. Re-checks a rolling window so nothing slips through.
       </div>
     </div>
 
@@ -83,7 +83,7 @@ description: "Tactics Journal research monitors more football content than any p
         <span class="r-step-title">Detect</span>
       </div>
       <div class="r-step-detail">
-        Classifies sources as frontier or mainstream. Finds ideas in smaller sources before they appear in major coverage. Scores on source diversity, cross-culture corroboration, and novelty.
+        Separates frontier ideas from mainstream coverage. Finds patterns in smaller, niche places before they appear anywhere else. Scores every signal on novelty, source diversity, and cross-culture corroboration.
       </div>
     </div>
 
@@ -100,7 +100,7 @@ description: "Tactics Journal research monitors more football content than any p
         <span class="r-step-title">Report</span>
       </div>
       <div class="r-step-detail">
-        Only candidates that pass a quality gate get written up in all languages. Researched, citation-checked, revised. Every report requires counterevidence.
+        Only ideas that pass a quality gate get written up. Researched, citation-checked, revised. Every report includes counterevidence.
       </div>
     </div>
 
@@ -125,13 +125,13 @@ description: "Tactics Journal research monitors more football content than any p
   <strong>Over 200 international sources:</strong> Independent analysts, niche outlets, press conferences, and interviews from clubs and football media worldwide. Each source classified by tier, culture, and format. Press conferences and interviews weighted as early-signal material.
 </p>
 <p class="r-audience">
-  <strong>Reports translated into your language:</strong> We take in all of these sources and deliver a report in your native language.
+  <strong>Read it in your language:</strong>  Every report is delivered in your native language, no matter where the original idea came from.
 </p>
 </div>
 
 <!-- PRICING -->
 <div class="r-section">
-  <div class="r-section-label">Costs less than running it yourself</div>
+  <div class="r-section-label">Costs less than doing it yourself</div>
 
   <div class="r-pricing-toggle-wrapper">
     <span class="r-pricing-toggle-label r-pricing-toggle-label--active" id="toggle-monthly-label">Monthly billing</span>
@@ -145,7 +145,7 @@ description: "Tactics Journal research monitors more football content than any p
     <div class="r-pricing-grid">
       {% include research-pricing-card.html
         name="Free"
-        description="See what the system finds."
+        description="See what you’ve been missing."
         price="$0"
         price_suffix="month"
         item_1="1 full report per week"
@@ -157,7 +157,7 @@ description: "Tactics Journal research monitors more football content than any p
 
       {% include research-pricing-card.html
         name="Pro"
-        description="Everything. No limits."
+        description="Every report. Every trend. Daily."
         price="$15"
         price_yearly="$12"
         price_suffix="month"
@@ -208,7 +208,7 @@ function togglePricing() {
 <!-- WAITLIST -->
 <div class="r-section" id="waitlist">
   <p>
-    Join the waitlist for early access. The more interest, the better the models, the better output.
+    Join the waitlist for early access. More subscribers means better models and better reports.
   </p>
   {% include research-waitlist-form.html %}
 </div>
