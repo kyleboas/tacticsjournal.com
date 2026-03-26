@@ -44,7 +44,7 @@ description: "Tactics Journal research monitors more football content than any p
 <div class="r-section r-section--no-bottom-padding">
   <div class="r-section-label">Automated daily research reports</div>
   <p>
-    Tactics Journal Research monitors more football content than any person could, across leagues, languages, and cultures, and autonomously writes reports on what it finds.
+    Tactics Journal research monitors more football content than any person could, across leagues, languages, and cultures, and autonomously writes reports on what it finds.
   </p>
 </div>
 
