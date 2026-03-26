@@ -12,7 +12,7 @@ description: "Tactics Journal research monitors more football content than any p
 <link rel="stylesheet" href="{{ site.baseurl }}/research/scrolling-headlines.css" />
 <script src="{{ site.baseurl }}/research/scrolling-headlines.js" defer></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https:// fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Source+Serif+4:wght@700&display=swap" rel="stylesheet">
 
 <div class="research-page">
@@ -31,7 +31,7 @@ description: "Tactics Journal research monitors more football content than any p
 
 <!-- THE PROBLEM -->
 <div class="r-section">
-  <div class="r-section-label">You can't watch everything</div>
+  <div class="r-section-label">You can't watch everything.</div>
   <p>
     Right now, a manager is explaining a new pressing structure in a Portuguese interview. A German podcast is breaking down a positional pattern no one outside that country has noticed. By the time it reaches your feed, everyone else already knows.
   </p>
@@ -39,7 +39,7 @@ description: "Tactics Journal research monitors more football content than any p
 
 <!-- WHAT THIS IS -->
 <div class="r-section r-section--no-bottom-padding">
-  <div class="r-section-label">Daily research reports</div>
+  <div class="r-section-label">Know first.</div>
   <p>
     The next big tactical trend in football is happening now, in a language you don’t speak or a league you don’t follow. Tactics Journal research tracks 200+ international sources hourly, spots it first, in any language, and delivers a daily report.
   </p>
@@ -128,7 +128,7 @@ description: "Tactics Journal research monitors more football content than any p
 
 <!-- PRICING -->
 <div class="r-section">
-  <div class="r-section-label">Costs less than doing it yourself</div>
+  <div class="r-section-label">Pricing</div>
 
   <div class="r-pricing-toggle-wrapper">
     <span class="r-pricing-toggle-label r-pricing-toggle-label--active" id="toggle-monthly-label">Monthly billing</span>
