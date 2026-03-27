@@ -121,27 +121,33 @@
     if (!emailInput) return;
 
     var email = emailInput.value.trim();
-    var tags = getFormTags(form);
-    if (!email || !tags.length) return;
+    if (!email) return;
+
+    var payload = {};
+    var formData = new FormData(form);
+    formData.forEach(function (value, key) {
+      if (payload[key] === undefined) {
+        payload[key] = value;
+      } else if (Array.isArray(payload[key])) {
+        payload[key].push(value);
+      } else {
+        payload[key] = [payload[key], value];
+      }
+    });
 
     showSpinner(form);
 
     fetch(WORKER_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email: email, tags: tags }),
+      body: JSON.stringify(payload),
     })
-      .then(function (res) { return res.json(); })
-      .then(function (data) {
-        if (data.status === 'already_subscribed') {
-          showMessage(form, "You are already subscribed.");
-        } else if (data.status === 'updated') {
-          showMessage(form, "Successfully subscribed.");
-        } else if (data.status === 'created' || data.status === 'verification_resent') {
-          showMessage(form, "Check your email to confirm your subscription.");
-        } else {
-          showMessage(form, "Check your email to confirm your subscription.");
-        }
+      .then(function (res) {
+        if (!res.ok) throw new Error('Request failed');
+        return res.text();
+      })
+      .then(function () {
+        showMessage(form, "Check your email to confirm your subscription.");
       })
       .catch(function () {
         showMessage(form, "Check your email to confirm your subscription.");
@@ -154,7 +160,7 @@
   }
 
   function init() {
-    document.querySelectorAll('form[action*="embed-subscribe"]').forEach(function (form) {
+    document.querySelectorAll('form[data-subscribe-form]').forEach(function (form) {
       var emailInput = form.querySelector('input[type="email"]');
       var submitBtn = form.querySelector('button[type="submit"]');
 
