@@ -54,11 +54,12 @@ permalink: /preview/
 
 <div class="subscribe-section">
    <div class="subscribe-section-header">Subscribe</div>
-<form action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" 
+<form data-subscribe-form action="https://tacticsjournal-subscribe.heyboas.workers.dev" 
       method="post" 
       target="_blank">
 
     <div class="form-container">
+        <input type="text" name="website" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0;" />
         <input type="email" name="email" id="email" placeholder="Enter your email..." required>
 
         <button type="submit" id="subscribeButton">

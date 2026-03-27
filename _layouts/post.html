@@ -85,11 +85,13 @@ function copyToClipboard() {
   <p>Receive every new post in your inbox.</p>
   <div class="p-subscribe-form">
     <form
-      action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
+      data-subscribe-form
+      action="https://tacticsjournal-subscribe.heyboas.workers.dev"
       method="post"
     >
       <input type="hidden" name="embed" value="1" />
       <input type="hidden" name="tag" value="opinion" />
+      <input type="text" name="website" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0;" />
       <input
         type="email"
         name="email"
