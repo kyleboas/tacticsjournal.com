@@ -2,16 +2,8 @@
    Section Graphics — Tactics Journal Research Page
    ============================================================ */
 
-/* Language color palette */
+/* Accent color palette */
 .research-page {
-  --lang-en: #E5534B;
-  --lang-es: #F0883E;
-  --lang-de: #539BF5;
-  --lang-fr: #A371F7;
-  --lang-pt: #347D39;
-  --lang-it: #57AB5A;
-  --lang-nl: #DAAA3F;
-  --lang-ar: #DB6D28;
   --accent-ingest: #539BF5;
   --accent-detect: #A371F7;
   --accent-report: #57AB5A;
@@ -19,8 +11,6 @@
 }
 
 /* Shared animation entrance */
-.r-offerings,
-.r-oss-compare,
 .r-pricing-graphic {
   opacity: 0;
   transform: translateY(16px);
@@ -51,24 +41,12 @@
   gap: 12px;
   padding: 14px 18px;
 }
-.r-step-num {
-  font-size: 11px;
-  font-weight: 500;
-  color: var(--text-muted);
-  font-family: 'Geist Mono', monospace;
-  flex-shrink: 0;
-}
 .r-step-title {
   font-size: 16px;
   font-weight: 600;
   color: var(--text);
   flex: 1;
 }
-/* Color-code step numbers to match pipeline */
-.r-step-compact:nth-child(1) .r-step-num { color: var(--accent-ingest); }
-.r-step-compact:nth-child(2) .r-step-num { color: var(--accent-detect); }
-.r-step-compact:nth-child(3) .r-step-num { color: var(--accent-report); }
-.r-step-compact:nth-child(4) .r-step-num { color: var(--accent-tune); }
 /* Step icons */
 .r-step-icon {
   flex-shrink: 0;
@@ -144,170 +122,12 @@
 .r-icon-knob--1 { animation: r-knob-slide-right 1.4s ease-in-out infinite; }
 .r-icon-knob--2 { animation: r-knob-slide-left 1.4s ease-in-out 0.2s infinite; }
 
-.r-step-expand {
-  font-size: 16px;
-  color: var(--text-muted);
-  font-weight: 300;
-  width: 20px;
-  text-align: center;
-  flex-shrink: 0;
-  transition: transform 0.2s ease;
-}
 .r-step-detail {
   padding: 0 18px 18px;
   font-size: 15px;
   line-height: 1.7;
   color: var(--text-secondary);
 }
-.r-step-detail .r-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-top: 12px;
-}
-.r-step-detail .r-tag {
-  font-size: 10px;
-  color: var(--text-muted);
-  border: 1px solid var(--border);
-  border-radius: 9999px;
-  padding: 3px 10px;
-  font-weight: 500;
-}
-
-/* ============================================================
-   Offerings (What You Get)
-   ============================================================ */
-.r-offerings {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  margin: 24px 0;
-}
-.r-offering {
-  display: flex;
-  align-items: flex-start;
-  gap: 16px;
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 20px;
-  transition: border-color 0.15s ease, transform 0.2s ease;
-  cursor: default;
-}
-.r-offering:hover {
-  border-color: var(--border-hover);
-  transform: translateY(-2px);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-}
-@media (prefers-color-scheme: dark) {
-  .r-offering:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
-}
-.r-offering-icon {
-  flex-shrink: 0;
-  width: 40px;
-  height: 40px;
-}
-.r-offering-icon svg {
-  width: 100%;
-  height: 100%;
-}
-/* Offering icons — each card gets a distinct accent */
-.r-icon-stroke {
-  stroke: var(--text-muted);
-}
-.r-icon-fill {
-  fill: var(--text-muted);
-}
-/* Daily Trend Reports icon — report green */
-.r-offering:nth-child(1) .r-icon-stroke { stroke: var(--accent-report); }
-.r-offering:nth-child(1) .r-icon-fill { fill: var(--accent-report); }
-/* Early Signals icon — detect purple */
-.r-offering:nth-child(2) .r-icon-stroke { stroke: var(--accent-detect); }
-.r-offering:nth-child(2) .r-icon-fill { fill: var(--accent-detect); }
-/* Cross-Language icon — ingest blue */
-.r-offering:nth-child(3) .r-icon-stroke { stroke: var(--accent-ingest); }
-.r-offering:nth-child(3) .r-icon-fill { fill: var(--accent-ingest); }
-
-@keyframes r-radar-sweep {
-  0% { opacity: 0.2; }
-  50% { opacity: 0.7; }
-  100% { opacity: 0.2; }
-}
-.r-radar-ring {
-  animation: r-radar-sweep 2s ease-in-out infinite;
-}
-.r-offering-text {
-  flex: 1;
-  min-width: 0;
-}
-.r-offering-title {
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--text);
-  margin-bottom: 4px;
-}
-.r-offering-desc {
-  font-size: 13px;
-  color: var(--text-secondary);
-  line-height: 1.6;
-}
-
-/* ============================================================
-   OSS Compare (Open Source section)
-   ============================================================ */
-.r-oss-compare {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  gap: 0;
-  margin: 24px 0;
-  align-items: stretch;
-}
-.r-oss-col {
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 20px;
-  transition: border-color 0.15s ease;
-}
-.r-oss-col:hover {
-  border-color: var(--border-hover);
-}
-.r-oss-header {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 13px;
-  font-weight: 600;
-  color: var(--text);
-  margin-bottom: 10px;
-}
-.r-oss-free .r-oss-header svg {
-  color: var(--accent-report);
-  flex-shrink: 0;
-}
-.r-oss-sub .r-oss-header svg {
-  color: var(--accent-detect);
-  flex-shrink: 0;
-}
-.r-oss-header svg {
-  flex-shrink: 0;
-}
-.r-oss-body {
-  font-size: 13px;
-  line-height: 1.6;
-  color: var(--text-secondary);
-}
-.r-oss-divider {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0 12px;
-}
-.r-oss-divider span {
-  font-size: 11px;
-  font-weight: 500;
-  color: var(--text-muted);
-  font-family: 'Geist Mono', monospace;
-}
-
 /* ============================================================
    Pricing Section
    ============================================================ */
@@ -350,14 +170,12 @@
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  font-family: "Inter", sans-serif;
 }
 .r-tier-name {
   font-size: 22px;
   font-weight: 700;
   color: var(--text);
   letter-spacing: -0.02em;
-  font-family: "Inter", sans-serif;
 }
 .r-tier-badge {
   flex-shrink: 0;
@@ -376,7 +194,6 @@
   font-size: 14px;
   line-height: 1.65;
   color: var(--text-secondary);
-  font-family: "Inter", sans-serif;
 }
 .r-tier-price-row {
   display: flex;
@@ -391,7 +208,6 @@
   font-weight: 700;
   letter-spacing: -0.04em;
   color: var(--text);
-  font-family: "Inter", sans-serif;
 }
 .r-tier-price-suffix {
   font-size: 13px;
@@ -400,7 +216,6 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   margin-bottom: 6px;
-  font-family: "Inter", sans-serif;
 }
 .r-tier-list {
   display: flex;
@@ -413,7 +228,6 @@
   padding-left: 22px;
   font-size: 14px;
   line-height: 1.65;
-  font-family: "Inter", sans-serif;
 }
 .r-tier-list-item::before {
   content: "";
@@ -447,7 +261,6 @@
   color: var(--text);
   background: transparent;
   transition: border-color 0.15s ease, transform 0.2s ease, background 0.15s ease, color 0.15s ease;
-  font-family: "Inter", sans-serif;
 }
 .r-tier-cta:hover {
   border-color: var(--border-hover);
@@ -478,7 +291,6 @@
   font-size: 14px;
   font-weight: 500;
   color: var(--text-muted);
-  font-family: "Inter", sans-serif;
 }
 .r-pricing-toggle-label--active {
   color: var(--text);
@@ -511,7 +323,6 @@
 .r-tier-yearly-note {
   font-size: 12px;
   color: var(--text-muted);
-  font-family: "Inter", sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -530,11 +341,6 @@
 
   .r-tier-price {
     font-size: 36px;
-  }
-
-  .r-tier-description,
-  .r-tier-list-item {
-    font-size: 14px;
   }
 
   .r-tier-cta,
@@ -586,13 +392,6 @@
   }
   .r-tier-price {
     font-size: 38px;
-  }
-  .r-oss-compare {
-    grid-template-columns: 1fr;
-    gap: 8px;
-  }
-  .r-oss-divider {
-    padding: 4px 0;
   }
   .r-pricing-toggle-wrapper {
     gap: 10px;
