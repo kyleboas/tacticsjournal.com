@@ -6,9 +6,6 @@ image: "https://i.imgur.com/yWUL9YJ.jpeg"
 tweet: "I am also beginning to see firsthand in matches this dissatisfaction that @stirling_j mentioned in his latest post, 'STRANGE TRIANGULATIONS'. His entire post echoes my same thoughts."
 
 permalink: "/opinion/2024/05/11/growing-dissatisfaction/"
-
-redirect_from:
-  - "/2024/05/11/growing-dissatisfaction/"
 ---
 
 I am also beginning to see this dissatisfaction that Jamie Hamilton mentioned to in his latest post, ["STRANGE TRIANGULATIONS"](https://medium.com/@stirlingj1982/strange-triangulations-438a7ab8c458), translate into matches. His entire post echoes my same thoughts.

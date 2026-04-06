@@ -10,9 +10,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/04/Image-04Sep2024_11:16:28.png"
 
 permalink: "/opinion/2024/09/04/thiago-mottas-teams-are-both-positional-and-relational/"
-
-redirect_from:
-  - "/2024/09/04/thiago-mottas-teams-are-both-positional-and-relational/"
 ---
 
 Juventus manager Thiago Motta found "it difficult" to define the way his former team Bologna played as either positional or relational because they adapted the way they played depending on how they thought the opponent would defend against them.

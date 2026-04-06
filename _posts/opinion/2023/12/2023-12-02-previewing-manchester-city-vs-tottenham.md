@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/c5kwkl8.jpg"
 
 permalink: "/opinion/2023/12/02/previewing-manchester-city-vs-tottenham/"
-
-redirect_from:
-  - "/2023/12/02/previewing-manchester-city-vs-tottenham/"
 ---
 
 Tottenham is predictable due to limited depth from injuries and suspensions. I believe Manchester City should adopt a conservative defensive structure to control the match's pace, using runners on the wings to test Tottenham's high line.

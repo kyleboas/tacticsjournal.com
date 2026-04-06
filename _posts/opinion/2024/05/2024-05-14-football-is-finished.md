@@ -6,9 +6,6 @@ image: "https://i.imgur.com/T9HUgFm.jpeg"
 tweet: "El Clásico is no longer Messi vs Ronaldo, it is Xavi vs Carlo. The Manchester Derby is not Rooney vs Agüero, it is Ten Hag vs Pep. The emphasis is not on the players and their ability to find the solution, all of the praise or blame is for the manager."
 
 permalink: "/opinion/2024/05/14/football-is-finished/"
-
-redirect_from:
-  - "/2024/05/14/football-is-finished/"
 ---
 
 El Clásico is no longer Messi versus Ronaldo, it is Xavi versus Carlo. The Manchester Derby is not Rooney versus Agüero, it is Ten Hag versus Pep. The emphasis is not on the players and their ability to find the solution, all of the praise or blame is for the manager.

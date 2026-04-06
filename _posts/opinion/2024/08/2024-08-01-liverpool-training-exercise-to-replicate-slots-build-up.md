@@ -10,9 +10,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/01/Image-01Aug2024_00:37:11.png"
 
 permalink: "/opinion/2024/08/01/liverpool-training-exercise-to-replicate-slots-build-up/"
-
-redirect_from:
-  - "/2024/08/01/liverpool-training-exercise-to-replicate-slots-build-up/"
 ---
 
 During [Liverpool's open training](https://www.youtube.com/live/E4O1lF-57Wc?si=hjD7KUm0OGKuxlIx) they used this training exercise that simulates how they build up, with the trigger for the pass out being the opposition's forward press towards the center-back. The ball-side midfielder drops to receive.

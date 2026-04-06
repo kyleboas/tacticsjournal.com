@@ -10,9 +10,6 @@ tags:
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:38.png?raw=true"
 
 permalink: "/opinion/2024/06/01/the-netherlands-line-of-pressure-all-moving-at-once/"
-
-redirect_from:
-  - "/2024/06/01/the-netherlands-line-of-pressure-all-moving-at-once/"
 ---
 
 Like a line of thunderstorms, the Netherlands' second line rushes the ball carrier all at once. This unique pressing pattern is effective at overwhelming a team like Brazil because it allows their players to move with more freedom.

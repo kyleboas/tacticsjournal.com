@@ -10,9 +10,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/03/Image-03Sep2025_21:19:28.png"
 
 permalink: "/opinion/2025/09/04/liverpools-second-half-defensive-change-against-arsenal-that-changed-the-game/"
-
-redirect_from:
-  - "/2025/09/04/liverpools-second-half-defensive-change-against-arsenal-that-changed-the-game/"
 ---
 
 Arsenal always found solutions in the buildup as Liverpool struggled to press in the first half. In the second, they switched to a man-to-man midfield — Szoboszlai marked Calafiori and Konaté marked Martinelli — giving them the control they needed.

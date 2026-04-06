@@ -5,9 +5,6 @@ title: "Good food needs time to cook"
 image: "https://i.imgur.com/J6mLCEy.jpg"
 
 permalink: "/opinion/2023/10/10/good-food-needs-time-to-cook/"
-
-redirect_from:
-  - "/2023/10/10/good-food-needs-time-to-cook/"
 ---
 
 More managers are being added to the long list who are worried about the schedule and the high prevalence of injuries.

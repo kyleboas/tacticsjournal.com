@@ -8,9 +8,6 @@ tags:
 image: "https://i.imgur.com/sosBU42.jpg"
 
 permalink: "/opinion/2024/03/24/germanys-press-release/"
-
-redirect_from:
-  - "/2024/03/24/germanys-press-release/"
 ---
 
 Germany has a move to release pressure and open space for the third man central to receive, triggered by the pass to Toni Kroos. The two players in the half-space make a run across the field, dragging defenders with them, which opens space centrally and wide.

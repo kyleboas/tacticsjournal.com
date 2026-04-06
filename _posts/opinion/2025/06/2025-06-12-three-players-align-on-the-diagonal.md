@@ -5,9 +5,6 @@ title: "Three players align on the diagonal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/11/Image-11Jun2025_22:55:39.png"
 
 permalink: "/opinion/2025/06/12/three-players-align-on-the-diagonal/"
-
-redirect_from:
-  - "/2025/06/12/three-players-align-on-the-diagonal/"
 ---
 
 South American teams never settle for one way to attack, and the primary tool they use is the careful alignment of three players on the diagonal from out to in: the man with the ball, a middle option, and a third option.

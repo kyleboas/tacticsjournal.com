@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/VQQC9XD.jpg"
 
 permalink: "/opinion/2023/10/11/tottenhams-advanced-inverted-full-backs/"
-
-redirect_from:
-  - "/2023/10/11/tottenhams-advanced-inverted-full-backs/"
 ---
 
 Destiny Udogie's job at left-back is to invert and push Luton Town's right-wing forward when Mickey van de Veen receives the ball. This opens the space to play the ball wide to Richarlison at left-wing, but Richarlison's passes weren't precise. Richarlison's misplaced passes disturbed their rhythm.

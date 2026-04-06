@@ -16,9 +16,6 @@ link: "https://betweentheposts.net/portugal-czech-republic-the-portuguese-mixer-
 tweet: "Portugal's choice to start three fullbacks was a defensive decision. Their intention was to trap Czechia in their own end while remaining flexible enough to either go forward or defend the counter because Czechia wanted to attack. @BetweenThePosts"
 
 permalink: "/opinion/2024/06/19/portugal-czech-republic-the-portuguese-mixer-2-1/"
-
-redirect_from:
-  - "/2024/06/19/portugal-czech-republic-the-portuguese-mixer-2-1/"
 ---
 
 Portugal's choice to start three fullbacks was a defensive decision. Their intention was to trap Czechia in their own end while remaining flexible enough to either go forward or defend the counter because Czechia wanted to attack.

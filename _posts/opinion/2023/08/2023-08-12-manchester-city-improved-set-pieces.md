@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/uDuPkEN.jpg"
 
 permalink: "/opinion/2023/08/12/manchester-city-improved-set-pieces/"
-
-redirect_from:
-  - "/2023/08/12/manchester-city-improved-set-pieces/"
 ---
 
 August 12, 2023 — The most significant area of improvement for Manchester City this season will be the efficiency of their set-pieces, and we've begun to see glimpses in preseason and against Burnley yesterday.

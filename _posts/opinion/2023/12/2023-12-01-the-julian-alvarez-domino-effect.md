@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/xak6pLt.jpg"
 
 permalink: "/opinion/2023/12/01/the-julian-alvarez-domino-effect/"
-
-redirect_from:
-  - "/2023/12/01/the-julian-alvarez-domino-effect/"
 ---
 
 Manchester City has a plethora of players who dribble at defenders to draw them out, but Julian Alvarez is unique to their attack because he creates space for others with his movement off-the-ball.

@@ -8,9 +8,6 @@ tags:
 - "Real Madrid"
 
 permalink: "/opinion/2024/12/11/kylian-mbappe-is-taking-too-many-steps-at-real-madrid/"
-
-redirect_from:
-  - "/2024/12/11/kylian-mbappe-is-taking-too-many-steps-at-real-madrid/"
 ---
 
 I watched [all 256 goals Kylian Mbappe scored for Paris Saint-German](https://youtu.be/rIBeZ13aito?si=fYtEMOrH9IyC_zQy), and the common theme is that he didn't think. He took one- or two-touch shots, and more importantly, there were no wasted steps. He has been wasting steps at Real Madrid.

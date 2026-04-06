@@ -13,9 +13,6 @@ tweet: "Lyon and Monaco both put on dull, slow, and uninspiring performances in 
 link: "https://betweentheposts.net/lyon-monaco-uninspiring-0-2/"
 
 permalink: "/opinion/2024/08/25/lyon-monaco-uninspiring-0-2/"
-
-redirect_from:
-  - "/2024/08/25/lyon-monaco-uninspiring-0-2/"
 ---
 
 Lyon and Monaco both put on dull, slow, and uninspiring performances in a game filled with errors. Monaco had a hard time trying to generate clear-cut chances despite Lyon's inability to complete their passes.

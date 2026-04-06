@@ -9,9 +9,6 @@ tags:
 image: "https://github.com/kyleboas/images/blob/main/2024/05/IMG_7907.png?raw=true"
 
 permalink: "/opinion/2024/05/27/swansea-city-goalkeeper-coach-marty-margetson-details-training-with-carl-rushworth/"
-
-redirect_from:
-  - "/2024/05/27/swansea-city-goalkeeper-coach-marty-margetson-details-training-with-carl-rushworth/"
 ---
 
 Swansea City goalkeeper coach Marty Margetson explains how he used video analysis and repetition to train Carl Rushworth, improving his ability to 'know where his hands are', working on 'knee bend', and 'static diving', among many other smaller details.

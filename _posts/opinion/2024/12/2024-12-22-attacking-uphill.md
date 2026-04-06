@@ -5,9 +5,6 @@ title: "Attacking uphill"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/21/Image-21Dec2024_18:35:04.png"
 
 permalink: "/opinion/2024/12/22/attacking-uphill/"
-
-redirect_from:
-  - "/2024/12/22/attacking-uphill/"
 ---
 
 "I am sick of the team having to score two goals every game," says the fed-up fan of a team on a long losing streak that has yet to get a clean sheet. This is the mindset you have to have to win a domestic league title.

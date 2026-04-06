@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/BBTLFVQ.jpg"
 
 permalink: "/opinion/2023/05/20/manchester-city-solution-to-restore-fluidity-against-real-madrid/"
-
-redirect_from:
-  - "/2023/05/20/manchester-city-solution-to-restore-fluidity-against-real-madrid/"
 ---
 
 May 20, 2023 — Pep Guardiola made a subtle but effective change to improve Manchester City's fluidity against Real Madrid. Ruben Dias moves back to open up space, and either Rodri or John Stones must be parallel to Manuel Akanji at left-back.

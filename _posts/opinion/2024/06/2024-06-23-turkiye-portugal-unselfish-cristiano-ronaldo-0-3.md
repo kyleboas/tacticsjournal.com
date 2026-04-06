@@ -14,9 +14,6 @@ link: "https://betweentheposts.net/turkiye-portugal-unselfish-cristiano-ronaldo-
 tweet: "Portugal put on a more solid offensive performance in their orthodox back-four formation, remaining compact when defending each long vertical pass from Türkiye. The win was secured by runners in the channels and a mistake in defense. @BetweenThePosts"
 
 permalink: "/opinion/2024/06/23/turkiye-portugal-unselfish-cristiano-ronaldo-0-3/"
-
-redirect_from:
-  - "/2024/06/23/turkiye-portugal-unselfish-cristiano-ronaldo-0-3/"
 ---
 
 Portugal put on a more solid offensive performance in their orthodox back-four formation, remaining compact when defending each long vertical pass from Türkiye. The win was secured by runners in the channels and a mistake in defense.

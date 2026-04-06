@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/TxqIrgQ.jpg"
 
 permalink: "/opinion/2023/11/10/jack-is-back-central/"
-
-redirect_from:
-  - "/2023/11/10/jack-is-back-central/"
 ---
 
 There have been instances towards the end of last season where the shackles of the instructions for Jack Grealish to stick to the touchline had been loosened a bit by manager Pep Guardiola. However, more significant hints are surfacing in this week's match against Young Boys in the Champions League.

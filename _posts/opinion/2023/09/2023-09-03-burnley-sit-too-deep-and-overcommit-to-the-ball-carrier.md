@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/VP7ituo.jpg"
 
 permalink: "/opinion/2023/09/03/burnley-sit-too-deep-and-overcommit-to-the-ball-carrier/"
-
-redirect_from:
-  - "/2023/09/03/burnley-sit-too-deep-and-overcommit-to-the-ball-carrier/"
 ---
 
 August 3, 2023 — I was disappointed in the disorganization of Burnley's back-line. They sat too deep, creating space in front of their back-line and overcommitted to the ball carrier, gifting Tottenham easy goals.

@@ -5,9 +5,6 @@ title: "Corner kicks are overpowered"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/11/Image-11Oct2025_23:28:08.png"
 
 permalink: "/opinion/2025/10/12/corner-kicks-are-overpowered/"
-
-redirect_from:
-  - "/2025/10/12/corner-kicks-are-overpowered/"
 ---
 
 The only time during a match in which multiple players can be overtly physical with their arms and hands is during a corner kick. We focus on how rehearsed set-pieces are, but that added physicality from multiple players simultaneously makes them overpowered.

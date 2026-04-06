@@ -11,9 +11,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/28/Image-28Jul2024_01:45:53.png"
 
 permalink: "/opinion/2024/07/28/the-left-center-back-is-juventus-most-important-position/"
-
-redirect_from:
-  - "/2024/07/28/the-left-center-back-is-juventus-most-important-position/"
 ---
 
 It is no wonder why Thiago Motta wanted to bring Riccardo Calafiori with him from Bologna to Juventus because their most important player is the left center-back, due to their movement to the left in the buildup.

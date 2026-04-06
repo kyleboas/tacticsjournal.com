@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/28/Image-28Aug2024_01:53:29.png"
 
 permalink: "/opinion/2024/08/28/the-players-you-have/"
-
-redirect_from:
-  - "/2024/08/28/the-players-you-have/"
 ---
 
 The tactical changes that Manchester City made this season are a result of the players that they don't have, some luck, and immense versatility. It is tailored towards runners, but what happens when those players are subbed off? It changes.

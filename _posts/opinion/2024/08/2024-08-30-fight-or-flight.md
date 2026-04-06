@@ -11,9 +11,6 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/3
 tweet: "Malmö apply relational principles to their play, but when things get tough in a match, they retreat back to rigid positional play. The question now is, why isn't your team retreating to relational principles when a match is easy? @Markla94"
 
 permalink: "/opinion/2024/08/30/fight-or-flight/"
-
-redirect_from:
-  - "/2024/08/30/fight-or-flight/"
 ---
 
 Malmö apply relational principles to their play, but when things get tough in a match, they retreat back to rigid positional play. The question now is why isn't your team retreating to relational principles when a match is easy?

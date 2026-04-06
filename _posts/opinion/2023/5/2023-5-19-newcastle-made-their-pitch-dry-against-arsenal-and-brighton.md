@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/QQPqVKF.jpg"
 
 permalink: "/opinion/2023/05/19/newcastle-made-their-pitch-dry-against-arsenal-and-brighton/"
-
-redirect_from:
-  - "/2023/05/19/newcastle-made-their-pitch-dry-against-arsenal-and-brighton/"
 ---
 
 May 19, 2023 — The rule is that the home team gets to choose how tall and watered down the grass is. It sounds trivial, but Newcastle made their pitch dry when they faced Arsenal and Brighton.

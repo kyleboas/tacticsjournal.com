@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/UsMmpzT.jpg"
 
 permalink: "/opinion/2023/06/05/barcelona-femini-far-side-pin-and-patricia-guijarro-two-equalizing-goals/"
-
-redirect_from:
-  - "/2023/06/05/barcelona-femini-far-side-pin-and-patricia-guijarro-two-equalizing-goals/"
 ---
 
 June 5, 2023 — Barcelona Feminí utilized a simple, repeatable pattern on the right-wing, with Patricia Guijarro targeting her runs into the space in front of Wolfsburg's back-line, helping them recover from a 2-0 deficit in the Women's Champions League Final.

@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/k5O3OA6.jpg"
 
 permalink: "/opinion/2023/08/27/arsenal-answer-is-fabio-vieira/"
-
-redirect_from:
-  - "/2023/08/27/arsenal-answer-is-fabio-vieira/"
 ---
 
 August 27, 2023 — Arsenal has overcomplicated a change in midfield dynamics. When Fabio Vieira was introduced into the game, it reintroduced old concepts from last season, and they began to look like a winning team again. But they drew to Fulham.

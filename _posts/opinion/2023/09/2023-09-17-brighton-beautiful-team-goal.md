@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/AfTNZp4.jpg"
 
 permalink: "/opinion/2023/09/17/brighton-beautiful-team-goal/"
-
-redirect_from:
-  - "/2023/09/17/brighton-beautiful-team-goal/"
 ---
 
 September 17, 2023 — Brighton scored one of the cleanest team goals I've seen in the past year against Manchester United. 

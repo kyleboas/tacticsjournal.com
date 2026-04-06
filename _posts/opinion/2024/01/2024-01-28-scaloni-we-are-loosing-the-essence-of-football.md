@@ -5,9 +5,6 @@ title: "Scaloni: We are loosing the essence of football"
 image: "https://i.imgur.com/KOoYxNJ.jpeg"
 
 permalink: "/opinion/2024/01/28/scaloni-we-are-loosing-the-essence-of-football/"
-
-redirect_from:
-  - "/2024/01/28/scaloni-we-are-loosing-the-essence-of-football/"
 ---
 
 Here are my thoughts on Argentina manager Lionel Scaloni's [interview with Marca](https://www.marca.com/futbol/futbol-internacional/2024/01/26/65b18c7d46163f33478b4580.html) where he argues "we are losing the essence of football" because players are "remote-controlled" by coaches, and how it's affecting youth football.

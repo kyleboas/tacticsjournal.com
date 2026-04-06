@@ -7,9 +7,6 @@ categories:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/29/Image-29Dec2024_15:15:51.png"
 
 permalink: "/opinion/2025/01/01/why-the-tactics-journal-is-no-longer-posting-on-x/"
-
-redirect_from:
-  - "/2025/01/01/why-the-tactics-journal-is-no-longer-posting-on-x/"
 ---
 
 I will no longer be posting on the social media site X, formerly known as Twitter. The decision to leave is being forced upon me due to the deterioration of the website. I no longer want to contribute to their platform.

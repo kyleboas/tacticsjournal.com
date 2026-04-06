@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/y0TzF2W.jpg"
 
 permalink: "/opinion/2024/04/03/tottenham-lack-off-the-ball-movement/"
-
-redirect_from:
-  - "/2024/04/03/tottenham-lack-off-the-ball-movement/"
 ---
 Before Dejan Kulusevski came on in the 70th minute, no one was making simple dummy runs like this. Tottenham were static, ball watching. They need more movement in the final third against a low block, to help create the pockets to play through.
 

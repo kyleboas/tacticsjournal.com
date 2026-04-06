@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/89mD8L4.jpg"
 
 permalink: "/opinion/2023/07/28/bournemouth-red-tailed-boa/"
-
-redirect_from:
-  - "/2023/07/28/bournemouth-red-tailed-boa/"
 ---
 
 July 28, 2023 — Bournemouth's counter-press is already sharper under new manager Andoni Iraola, with tight man-marking mixed with constricting curved runs from the forwards to limit options.

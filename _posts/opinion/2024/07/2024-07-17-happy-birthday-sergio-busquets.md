@@ -5,9 +5,6 @@ title: "Happy Birthday, Sergio Busquets"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/16/Image-16Jul2024_16:52:34.png"
 
 permalink: "/opinion/2024/07/17/happy-birthday-sergio-busquets/"
-
-redirect_from:
-  - "/2024/07/17/happy-birthday-sergio-busquets/"
 ---
 
 Sergio Busquets never did what you would expect him to do; that is what made him special. The defense had to wait for him because he wanted to surprise with each action. He always chose the alternative. Players rarely do that nowadays.

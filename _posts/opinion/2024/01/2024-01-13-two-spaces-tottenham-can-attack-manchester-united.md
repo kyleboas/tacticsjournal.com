@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/Bi52DeJ.jpeg"
 
 permalink: "/opinion/2024/01/13/two-spaces-tottenham-can-attack-manchester-united/"
-
-redirect_from:
-  - "/2024/01/13/two-spaces-tottenham-can-attack-manchester-united/"
 ---
 
 Tottenham's left-winger needs to look for the run into the left half-space behind Manchester United's right center-back, and I'd expect at least one high-quality chance for Tottenham at the top of the box.

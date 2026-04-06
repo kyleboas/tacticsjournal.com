@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:51:23.png"
 
 permalink: "/opinion/2025/08/23/who-is-at-fault-for-a-far-post-goal/"
-
-redirect_from:
-  - "/2025/08/23/who-is-at-fault-for-a-far-post-goal/"
 ---
 
 When you are playing in a back five and you give up a goal on the far post, who is at fault for the goal? The answer is the entire team, and this is a perfect example from West Ham against Chelsea.

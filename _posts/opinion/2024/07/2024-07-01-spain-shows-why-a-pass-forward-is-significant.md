@@ -11,9 +11,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_01:42:19.png"
 
 permalink: "/opinion/2024/07/01/spain-shows-why-a-pass-forward-is-significant/"
-
-redirect_from:
-  - "/2024/07/01/spain-shows-why-a-pass-forward-is-significant/"
 ---
 
 Spain are an example of a team that not only keeps possession but also progresses forward. If the option forward is open for Rodri, he takes it, because one pass forward from a holding midfielder can completely alter the way an opponent occupies space.

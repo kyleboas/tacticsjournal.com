@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/P3RD6GX.jpg"
 
 permalink: "/opinion/2023/10/22/a-beautiful-accident/"
-
-redirect_from:
-  - "/2023/10/22/a-beautiful-accident/"
 ---
 
 It's a rainy Stamford Bridge, so it's a sloppy match, one that favors Chelsea just because they're at home. Lots of errant passes from Arsenal to start.

@@ -14,9 +14,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_00:24:52.png"
 
 permalink: "/opinion/2024/07/07/bukayo-saka-is-englands-most-important-player-against-gakpo-mbappe-and-nico-williams/"
-
-redirect_from:
-  - "/2024/07/07/bukayo-saka-is-englands-most-important-player-against-gakpo-mbappe-and-nico-williams/"
 ---
 
 Bukayo Saka is England's most important player because of his complex role out of possession, a role made at the start of the tournament to stop left-wingers like Cody Gakpo for the Netherlands, Kylian Mbappe for France, or Nico Williams for Spain.

@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/18/Image-18Nov2024_12:41:31.png"
 
 permalink: "/opinion/2024/11/23/the-role-of-the-fullback-in-the-modern-game/"
-
-redirect_from:
-  - "/2024/11/23/the-role-of-the-fullback-in-the-modern-game/"
 ---
 
 I don’t know what to do with fullbacks. The less mobile ones are being transformed into center-backs, the more mobile ones are being made into midfielders, and the limited, more traditional ones are either phased out or too good to sell. Versatility wins.

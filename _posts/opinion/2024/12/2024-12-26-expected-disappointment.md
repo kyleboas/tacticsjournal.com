@@ -5,9 +5,6 @@ title: "Expected disappointment"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/13/Image-13Dec2024_16:13:17.png"
 
 permalink: "/opinion/2024/12/26/expected-disappointment/"
-
-redirect_from:
-  - "/2024/12/26/expected-disappointment/"
 ---
 
 xG (goals), xA (assists), xCS (clean sheets), xP (points), and expected anything are great tools to help quantify anticipated success, only to be met with unmet disappointment.

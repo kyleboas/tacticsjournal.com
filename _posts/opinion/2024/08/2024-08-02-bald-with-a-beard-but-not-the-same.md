@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/01/Image-01Aug2024_19:23:47.png"
 
 permalink: "/opinion/2024/08/02/bald-with-a-beard-but-not-the-same/"
-
-redirect_from:
-  - "/2024/08/02/bald-with-a-beard-but-not-the-same/"
 ---
 
 Chelsea manager Enzo Maresca is 'bald and with a beard', but he does not play the same as those he is compared to. His team is much more rigid and positional. He commented on his frustrations with such comparisons to Pep Guardiola [in The Athletic](https://www.nytimes.com/athletic/5674021/2024/08/01/chelsea-enzo-maresca-interview/?source=user_shared_article). 

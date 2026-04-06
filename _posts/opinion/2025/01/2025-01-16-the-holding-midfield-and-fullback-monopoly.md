@@ -5,9 +5,6 @@ title: "The holding midfield and fullback monopoly"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/15/Image-15Jan2025_22:04:26.png"
 
 permalink: "/opinion/2025/01/16/the-holding-midfield-and-fullback-monopoly/"
-
-redirect_from:
-  - "/2025/01/16/the-holding-midfield-and-fullback-monopoly/"
 ---
 
 If it were up to me, fullbacks and holding midfielders would be learning to play as center-backs while midfielders and wingers would be learning to play as fullbacks. The modern game demands that you are good with the ball at your feet.

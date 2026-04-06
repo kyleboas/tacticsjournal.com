@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/hNPfqFO.jpg"
 
 permalink: "/opinion/2023/05/17/a-mundane-semi-final-win-for-inter-over-ac-milan/"
-
-redirect_from:
-  - "/2023/05/17/a-mundane-semi-final-win-for-inter-over-ac-milan/"
 ---
 
 May 17, 2023 — There was no moment of genius from Rafael Leao, resulting in a mundane match that allowed Inter to easily reach the Champions League final, eliminating AC Milan.

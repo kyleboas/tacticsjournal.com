@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/CePSOrP.jpg"
 
 permalink: "/opinion/2023/09/22/we-dont-train/"
-
-redirect_from:
-  - "/2023/09/22/we-dont-train/"
 ---
 
 September 22, 2023 — Pep Guardiola, when asked how he works with Oscar Bobb in first-team training to get him to the level needed to be a regular starter, responded: "We don't train."

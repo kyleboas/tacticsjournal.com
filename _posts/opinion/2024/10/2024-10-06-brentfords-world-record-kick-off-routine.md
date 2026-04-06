@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/06/Image-06Oct2024_02:56:54.png"
 
 permalink: "/opinion/2024/10/06/brentfords-world-record-kick-off-routine/"
-
-redirect_from:
-  - "/2024/10/06/brentfords-world-record-kick-off-routine/"
 ---
 
 Brentford analyzed one million matches and no other team managed to score a goal in under a minute in three consecutive games. Here is the best example of the world record kick off routine they used against Manchester City, Tottenham, and West Ham.

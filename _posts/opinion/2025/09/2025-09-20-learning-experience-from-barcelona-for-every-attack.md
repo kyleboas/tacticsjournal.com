@@ -10,9 +10,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/19/Image-19Sep2025_14:07:36.png"
 
 permalink: "/opinion/2025/09/20/learning-experience-from-barcelona-for-every-attack/"
-
-redirect_from:
-  - "/2025/09/20/learning-experience-from-barcelona-for-every-attack/"
 ---
 
 I had to watch back Barcelona's match against Newcastle to study what Anthony Gordon mentioned when he said, "The way in which they keep the ball was a learning experience." We don't play against that kind of style in England. At least not at that level."

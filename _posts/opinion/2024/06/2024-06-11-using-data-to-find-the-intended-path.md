@@ -6,9 +6,6 @@ image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/10/Image-10
 tweet: "When dealing with a past problem, identify instances where the issue occurs in the data. Use the instances identified to create a training regimen to solve the problem. @CarlonCarpenter explains and provides examples for my favorite use case for data."
 
 permalink: "/opinion/2024/06/11/using-data-to-find-the-intended-path/"
-
-redirect_from:
-  - "/2024/06/11/using-data-to-find-the-intended-path/"
 ---
 
 When dealing with a past problem, identify instances where the issue occurs in the data. Use the instances identified to create a training regimen to solve the problem. Carl Carpenter explains and provides examples for my favorite use case for data.

@@ -12,9 +12,6 @@ tags:
 image: "https://i.imgur.com/NvbGDq2.jpg"
 
 permalink: "/opinion/2023/10/04/real-madrid-collapse-on-the-ball-rather-than-isolate-ball-carrier/"
-
-redirect_from:
-  - "/2023/10/04/real-madrid-collapse-on-the-ball-rather-than-isolate-ball-carrier/"
 ---
 
 October 4, 2023 — Real Madrid did a better job of remaining compact to combine and play closer together against Napoli rather than back away from the ball to wait for the cross or long ball against Union Berlin.

@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/bMqMLlS.jpg"
 
 permalink: "/opinion/2023/09/18/inter-spatial-manipulation-of-ac-milan/"
-
-redirect_from:
-  - "/2023/09/18/inter-spatial-manipulation-of-ac-milan/"
 ---
 
 September 18, 2023 — Inter masterfully exploited space by manipulating it, capitalizing on AC Milan's disjointed man-marking.

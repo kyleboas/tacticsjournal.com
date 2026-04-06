@@ -10,9 +10,6 @@ image: "https://i.imgur.com/3RCeOgn.jpeg"
 tweet: "Andoni Iraola details how Bournemouth prepared in the two days between the match against Aston Villa, on Sunday, and the Wolves match, on Wednesday. 'For the analysts, probably every time we play midweek, it becomes really, really demanding.'"
 
 permalink: "/opinion/2024/04/27/iraola-praises-bournemouth-analysts-during-demanding-midweek/"
-
-redirect_from:
-  - "/2024/04/27/iraola-praises-bournemouth-analysts-during-demanding-midweek/"
 ---
 
 Andoni Iraola [speaking with the Daily Echo](https://www.bournemouthecho.co.uk/sport/24275324.andoni-iraola-hails-work-afc-bournemouth-analysts/) detailing how Bournemouth prepared in the two days between the match against Aston Villa on Sunday, and the Wolves match on Wednesday.

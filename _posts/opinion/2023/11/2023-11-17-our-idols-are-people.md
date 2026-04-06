@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/TZolWeh.jpg"
 
 permalink: "/opinion/2023/11/17/our-idols-are-people/"
-
-redirect_from:
-  - "/2023/11/17/our-idols-are-people/"
 ---
 
 Bojan Krkic on mentoring Barcelona's younger generation of players, in [Sid Lowe's story for The Guardian](https://www.theguardian.com/football/2023/nov/03/bojan-the-anxious-wonderkid-is-back-at-barcelona-guiding-next-generation):

@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/7Btvb8i.jpg"
 
 permalink: "/opinion/2023/12/11/kai-havertz-is-beginning-to-perfect-the-xhaka-cut-back/"
-
-redirect_from:
-  - "/2023/12/11/kai-havertz-is-beginning-to-perfect-the-xhaka-cut-back/"
 ---
 
 This sequence is Arsenal's bread and butter. Cut down the line into the left half-space, cut the ball back, and either a first-time shot or a lay-off. This looks well drilled into Kai Havertz now.

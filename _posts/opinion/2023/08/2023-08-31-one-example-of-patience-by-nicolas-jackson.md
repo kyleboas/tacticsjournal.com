@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/ssHKyfQ.jpg"
 
 permalink: "/opinion/2023/08/31/one-example-of-patience-by-nicolas-jackson/"
-
-redirect_from:
-  - "/2023/08/31/one-example-of-patience-by-nicolas-jackson/"
 ---
 
 August 31, 2023 — Chelsea is on the counter with Nicolas Jackson running forward with the ball. He waits for the two defenders to run towards Enzo Fernandez before making the killer final pass into the box.

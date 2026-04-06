@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/NxhXGuL.jpeg"
 
 permalink: "/opinion/2024/02/18/liverpool-slow-down-the-ball-carrier-in-defensive-transition/"
-
-redirect_from:
-  - "/2024/02/18/liverpool-slow-down-the-ball-carrier-in-defensive-transition/"
 ---
 
 Liverpool are an underrated team in defensive transition. They are one of the best at slowing down the ball carrier before attempting a tackle. Ibrahima Konate demonstrates that patience on this Brentford counter.

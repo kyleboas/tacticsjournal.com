@@ -5,9 +5,6 @@ title: "Life is too short"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/07/04/Image-04Jul2025_18:29:49.png"
 
 permalink: "/opinion/2025/07/05/life-is-too-short/"
-
-redirect_from:
-  - "/2025/07/05/life-is-too-short/"
 ---
 
 The football world mourns the loss of Diogo Jota, 28, and André Silva, 25. It puts one major issue with football into perspective: the lack of time players are given away from football. I am deeply saddened for their family and friends.

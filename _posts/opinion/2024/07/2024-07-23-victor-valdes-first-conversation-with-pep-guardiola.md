@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-13Jul2024_01:23:47.png"
 
 permalink: "/opinion/2024/07/23/victor-valdes-first-conversation-with-pep-guardiola/"
-
-redirect_from:
-  - "/2024/07/23/victor-valdes-first-conversation-with-pep-guardiola/"
 --- 
 
 Now it is common to have the center-backs spread wide away when the goalkeeper has the ball, but Victor Valdés was the first goalkeeper to put this new idea from Pep Guardiola into action. An idea he laid out in their first conversation.

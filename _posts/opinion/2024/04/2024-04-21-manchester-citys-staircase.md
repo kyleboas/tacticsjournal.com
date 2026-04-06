@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/wDLWjR3.jpeg"
 
 permalink: "/opinion/2024/04/21/manchester-citys-staircase/"
-
-redirect_from:
-  - "/2024/04/21/manchester-citys-staircase/"
 ---
 
 Manchester City stagger their double pivot, and they form staircase, connecting one side of the pitch to the wing. The direction of the staircase dictates which wing they would like to play through, left or right. 

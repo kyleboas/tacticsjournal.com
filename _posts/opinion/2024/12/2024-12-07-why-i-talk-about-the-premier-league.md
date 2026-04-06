@@ -6,9 +6,6 @@ categories:
 - "Premier League"
 
 permalink: "/opinion/2024/12/07/why-i-talk-about-the-premier-league/"
-
-redirect_from:
-  - "/2024/12/07/why-i-talk-about-the-premier-league/"
 ---
 
 I talk about the Premier League because I have an emotional attachment to the players, managers, fans, stadiums, and the entire league. Sure, the tactics are becoming more stale every year, but I am invested in the stories, the people.

@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/lLwCOR0.jpg"
 
 permalink: "/opinion/2023/11/27/the-battle-of-the-high-lines-and-aston-villas-far-side-weakness/"
-
-redirect_from:
-  - "/2023/11/27/the-battle-of-the-high-lines-and-aston-villas-far-side-weakness/"
 ---
 
 I identified a significant weakness in Aston Villa's high line, one that Tottenham failed to exploit. When you breach their back-line, a slow square ball to the far side leaves an uncontested space.

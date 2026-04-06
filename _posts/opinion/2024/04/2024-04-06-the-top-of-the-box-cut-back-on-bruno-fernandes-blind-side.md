@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/9Ng0V0P.jpeg"
 
 permalink: "/opinion/2024/04/06/the-top-of-the-box-cut-back-on-bruno-fernandes-blind-side/"
-
-redirect_from:
-  - "/2024/04/06/the-top-of-the-box-cut-back-on-bruno-fernandes-blind-side/"
 ---
 
 On most defensive transitions, over the shoulder of Bruno Fernandes on his blind-side, Manchester United leave the top of the box open for the cut-back. 

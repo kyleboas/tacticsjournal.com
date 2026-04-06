@@ -6,9 +6,6 @@ categories: "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_17:30:34.png"
 
 permalink: "/opinion/2024/11/25/football-at-a-walking-pace/"
-
-redirect_from:
-  - "/2024/11/25/football-at-a-walking-pace/"
 ---
 
 A lot of football today is played at a walking pace. The defender collects and they walk the ball up the pitch, slowly. Some teams play like they are a goal ahead and they are trying to kill time. I am sort of sick of it.

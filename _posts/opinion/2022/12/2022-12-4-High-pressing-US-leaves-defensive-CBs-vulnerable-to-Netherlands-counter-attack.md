@@ -9,9 +9,6 @@ tags:
 layout: post
 image: https://i.imgur.com/WvQtivx.jpg
 permalink: /High-pressing-US-leaves-defensive-CBs-vulnerable-to-Netherlands-counter-attack/
-
-redirect_from:
-  - "/2022/12/04/High-pressing-US-leaves-defensive-CBs-vulnerable-to-Netherlands-counter-attack/"
 ---
 
 December 4, 2023 — First goal for the Netherlands vs US in the 9:30 minute. After an interception Blind retains the ball and gets past the flat 4 in the 1–5–2–2 easily. Adams/Mckennie man-marking Memphis/Klaassen.

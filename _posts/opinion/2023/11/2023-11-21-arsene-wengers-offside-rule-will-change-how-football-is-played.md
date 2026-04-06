@@ -5,9 +5,6 @@ title: "Arsene Wenger's offside rule will change how football is played"
 image: "https://i.imgur.com/oyMKDZN.jpg"
 
 permalink: "/opinion/2023/11/21/arsene-wengers-offside-rule-will-change-how-football-is-played/"
-
-redirect_from:
-  - "/2023/11/21/arsene-wengers-offside-rule-will-change-how-football-is-played/"
 ---
 
 The offside rule proposal by Arsène Wenger, [being considered by The International Football Association Board (IFAB) for the 2024/25 season](https://m.economictimes.com/news/international/us/ifab-considering-offside-rule-change-that-arsne-wenger-recommended-what-is-the-rule-and-how-it-will-impact-football/articleshow/105318582.cms), will change the way football is played for better or worse.

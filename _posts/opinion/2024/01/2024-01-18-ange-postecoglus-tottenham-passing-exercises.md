@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/kqVRRVa.png"
 
 permalink: "/opinion/2024/01/18/ange-postecoglus-tottenham-passing-exercises/"
-
-redirect_from:
-  - "/2024/01/18/ange-postecoglus-tottenham-passing-exercises/"
 ---
 
 Here is a fantastic video breakdown by Raumdeuter13 of the passing drills used in an Ange Postecoglu training session at Tottenham this season and how they are applied in a game.

@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/v9mz9hf.jpg"
 
 permalink: "/opinion/2023/10/09/arsenal-and-manchester-citys-out-of-possession-battle/"
-
-redirect_from:
-  - "/2023/10/09/arsenal-and-manchester-citys-out-of-possession-battle/"
 ---
 
 Odd that Arsenal didn't start Kai Havertz based on how well they were able to stop Manchester City in the Community Shield with the narrow front three of Havertz, Ødegaard, and Rice counter-pressing. 

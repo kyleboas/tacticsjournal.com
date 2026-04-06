@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/Jm4FtYT.jpg"
 
 permalink: "/opinion/2023/07/04/erik-ten-hag-end-goal-for-manchester-united-is-2021-22-ajax/"
-
-redirect_from:
-  - "/2023/07/04/erik-ten-hag-end-goal-for-manchester-united-is-2021-22-ajax/"
 ---
 
 July 4, 2023 — I was becoming both confused and frustrated trying to figure out what Erik Ten Hag was doing in the January and summer transfer window. What was his end goal? Then it dawned on me; I need to backcheck his past team, the 2021/22 Ajax.

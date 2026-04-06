@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/vzfXEkv.jpeg"
 
 permalink: "/opinion/2024/01/11/luke-williams-on-why-notts-county-play-short-corners/"
-
-redirect_from:
-  - "/2024/01/11/luke-williams-on-why-notts-county-play-short-corners/"
 ---
 
 Former Notts County manager, Luke Williams, explains why his team plays more short corners than any other in League Two.

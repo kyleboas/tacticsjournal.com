@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/Nxckonr.jpeg"
 
 permalink: "/opinion/2024/03/04/manchester-city-finally-score-from-the-left-half-space-run/"
-
-redirect_from:
-  - "/2024/03/04/manchester-city-finally-score-from-the-left-half-space-run/"
 ---
 
 It is a product of Manchester City's overload on the left, and the way they pass left to right, that the left half-space run is always open. They found the run of Phil Foden against Manchester United and it finally resulted in a goal.

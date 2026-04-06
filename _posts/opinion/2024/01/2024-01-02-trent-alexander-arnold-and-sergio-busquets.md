@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/ALGDyuq.jpeg"
 
 permalink: "/opinion/2024/01/02/trent-alexander-arnold-and-sergio-busquets/"
-
-redirect_from:
-  - "/2024/01/02/trent-alexander-arnold-and-sergio-busquets/"
 ---
 
 The best holding midfielders have the ability to find the least obvious pass that will break a line. Both Trent Alexander-Arnold and Sergio Busquets have that trait.

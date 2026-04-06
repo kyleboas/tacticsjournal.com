@@ -5,9 +5,6 @@ title: "The world of football is intimidating"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/16/Image-16Nov2024_01:55:13.png"
 
 permalink: "/opinion/2024/11/18/the-world-of-football-is-intimidating/"
-
-redirect_from:
-  - "/2024/11/17/the-world-of-football-is-intimidating/"
 ---
 
 No matter how experienced you are, you have to admit that the world of football is intimidating. Everyone should be comfortable being vulnerable and admitting that to be true. Even the best of the best at the top of the game must feel that same feeling.

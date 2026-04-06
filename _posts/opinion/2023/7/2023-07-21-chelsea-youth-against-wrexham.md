@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/FOcMykR.jpg"
 
 permalink: "/opinion/2023/07/21/chelsea-youth-against-wrexham/"
-
-redirect_from:
-  - "/2023/07/21/chelsea-youth-against-wrexham/"
 ---
 
 July 21, 2023 — In this order: Malo Gusto, Nicolas Jackson, Andrey Santos, Ian Maatsen, Trevoh Chalobah, Cesare Casadei, Diego Moreira, Carney Chukwuemeka, and Bashir Humphreys. Observations from Chelsea's first half against Wrexham.

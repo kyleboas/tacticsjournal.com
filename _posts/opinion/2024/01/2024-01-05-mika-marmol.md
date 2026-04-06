@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/fpHewEG.jpeg"
 
 permalink: "/opinion/2024/01/05/mika-marmol/"
-
-redirect_from:
-  - "/2024/01/05/mika-marmol/"
 ---
 
 Mika Mármol of Las Palmas is a 22-year-old, exciting ball-playing left-footed center-back. Here are the positives and negatives I took from his performance against Barcelona.

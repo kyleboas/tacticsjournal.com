@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/In194zF.jpeg"
 
 permalink: "/opinion/2024/05/26/manchester-citys-disorganized-high-line-and-lack-of-positional-awareness/"
-
-redirect_from:
-  - "/2024/05/26/manchester-citys-disorganized-high-line-and-lack-of-positional-awareness/"
 ---
 
 Manchester City have had this problem all season where their high line is unorganized. It is easy to get played onside by at least one of the defenders because they are always staggered. They lack communication in transition to defending their box.

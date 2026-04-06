@@ -5,9 +5,6 @@ title: "Recovering"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/11/Image-11Oct2024_03:04:24.png"
 
 permalink: "/opinion/2024/10/21/recovering/"
-
-redirect_from:
-  - "/2024/10/21/recovering/"
 ---
 
 The neck surgery I had was successful and I am now recovering. I'll be back posting when I can but I'm seeing a lot of improvements in the symptoms I've been having for a long time. My head is now firmly fused to my neck. All positive things.

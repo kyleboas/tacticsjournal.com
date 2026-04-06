@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/z0jZP1Q.jpg"
 
 permalink: "/opinion/2023/11/30/its-hard-for-scott-mctominay-to-crash-the-box-when-hes-30-yards-behind-the-play/"
-
-redirect_from:
-  - "/2023/11/30/its-hard-for-scott-mctominay-to-crash-the-box-when-hes-30-yards-behind-the-play/"
 ---
 
 Scott McTominay, one of Manchester United's best box crashers, is currently playing as a box-to-box midfielder with increased responsibilities in the first phase. His position deep limits his impact in goal-scoring opportunities. He must always be positioned higher up the field.

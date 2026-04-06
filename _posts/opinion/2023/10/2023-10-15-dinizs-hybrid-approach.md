@@ -8,9 +8,6 @@ tags:
 image: "https://i.imgur.com/YXSK0z3.jpg"
 
 permalink: "/opinion/2023/10/15/dinizs-hybrid-approach/"
-
-redirect_from:
-  - "/2023/10/15/dinizs-hybrid-approach/"
 ---
 
 Attempting to impose principles of relationism on eleven Brazilians who are accustomed to the European way of life is challenging, as manager Fernando Diniz is finding.

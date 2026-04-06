@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/22/Image-22Sep2025_09:34:45.png"
 
 permalink: "/opinion/2025/09/23/ruben-amorims-manchester-united-attack-is-more-complex-than-it-looks/"
-
-redirect_from:
-  - "/2025/09/23/ruben-amorims-manchester-united-attack-is-more-complex-than-it-looks/"
 ---
 
 It is easy to oversimplify Ruben Amorim's attacking tactics. On the surface, Manchester United look predictable because they just get the ball and attack, direct play. That impression has fed the perception that United lack a sophisticated plan.

@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/hsPCgEC.jpeg"
 
 permalink: "/opinion/2024/03/27/kobbie-mainoo-shows-what-england-lacked-at-holding-midfield/"
-
-redirect_from:
-  - "/2024/03/27/kobbie-mainoo-shows-what-england-lacked-at-holding-midfield/"
 ---
 
 Kobbie Mainoo's first thought is always forward, he's comfortable finding ways to turn when receiving with his back to play, and always goes for the least obvious pass first. England have missed having a holding midfielder that does this.

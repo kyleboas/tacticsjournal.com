@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/UZpao1j.jpg"
 
 permalink: "/opinion/2023/05/22/aggressive-inter-heavily-relies-on-alessandro-bastoni/"
-
-redirect_from:
-  - "/2023/05/22/aggressive-inter-heavily-relies-on-alessandro-bastoni/"
 --- 
 
 May 22, 2023 — Napoli exposed Inter's weakness yesterday. They depend a lot on left center-back Alessandro Bastoni, and if you can pressure him, you have a good chance of forcing a turnover.

@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/0Vf0ZTL.jpeg"
 
 permalink: "/opinion/2024/02/07/what-happens-when-van-dijk-marks-odegaard-instead-of-gomez/"
-
-redirect_from:
-  - "/2024/02/07/what-happens-when-van-dijk-marks-odegaard-instead-of-gomez/"
 ---
 
 It leaves Bukayo Saka free on the far-side, but Liverpool having Virgil Van Dijk mark Martin Ødegaard instead of Joe Gomez when the ball is on Arsenal's left side is the first domino to fall in a chain of events that led to the first goal.

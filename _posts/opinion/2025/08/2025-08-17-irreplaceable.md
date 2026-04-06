@@ -5,9 +5,6 @@ title: "Irreplaceable"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/16/Image-16Aug2025_20:08:48.png"
 
 permalink: "/opinion/2025/08/17/irreplaceable/"
-
-redirect_from:
-  - "/2025/08/17/irreplaceable/"
 ---
 
 Watching players like Tijjani Reijnders, Erling Haaland, Rayan Cherki, Hugo Ekitike, Mohammed Kudus, Antoine Semenyo, or Lamine Yamal reminds you how insignificant a manager is. The coach lays the foundation, but the players are the reason we show up.

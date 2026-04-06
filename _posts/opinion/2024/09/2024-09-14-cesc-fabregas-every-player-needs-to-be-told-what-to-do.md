@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/14/Image-14Sep2024_01:30:05.png"
 
 permalink: "/opinion/2024/09/14/cesc-fabregas-every-player-needs-to-be-told-what-to-do/"
-
-redirect_from:
-  - "/2024/09/14/cesc-fabregas-every-player-needs-to-be-told-what-to-do/"
 ---
 
 Como manager Cesc Fàbregas likes structure because then "everyone will better understand what to do," and he believes that unlike before, in today's game "every single player needs to be told what to do," or they will be lost on the pitch.

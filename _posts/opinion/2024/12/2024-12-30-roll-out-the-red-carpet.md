@@ -5,9 +5,6 @@ title: "Roll out the red carpet"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/29/Image-29Dec2024_20:24:47.png"
 
 permalink: "/opinion/2024/12/30/roll-out-the-red-carpet/"
-
-redirect_from:
-  - "/2024/12/30/roll-out-the-red-carpet/"
 ---
 
 Why are we afraid of the other team shooting the ball? Why not get it over with quicker? "Expedite the shot to regain possession," says the impatient center-forward waiting for his next chance to score.

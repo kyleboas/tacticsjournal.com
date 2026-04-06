@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/dQt6NjB.jpg"
 
 permalink: "/opinion/2023/12/12/berbatov-walks-us-through-this-goal/"
-
-redirect_from:
-  - "/2023/12/12/berbatov-walks-us-through-this-goal/"
 ---
 
 Dimitar Berbatov gets in a position like this by knowing how each of his teammates like to play, and then timing his arrival into space to match their movements. Here he walks us through a goal scored for Manchester United in 2010.

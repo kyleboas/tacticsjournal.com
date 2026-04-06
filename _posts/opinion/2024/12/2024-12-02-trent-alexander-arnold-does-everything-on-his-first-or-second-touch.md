@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/01/Image-01Dec2024_20:29:03.png"
 
 permalink: "/opinion/2024/12/02/trent-alexander-arnold-does-everything-on-his-first-or-second-touch/"
-
-redirect_from:
-  - "/2024/12/02/trent-alexander-arnold-does-everything-on-his-first-or-second-touch/"
 ---
 
 No time is wasted for the Liverpool fullback. Trent Alexander-Arnold operates like a sniper on the run, and that creates panic for the opposition. I can't think of another Premier League player like him.

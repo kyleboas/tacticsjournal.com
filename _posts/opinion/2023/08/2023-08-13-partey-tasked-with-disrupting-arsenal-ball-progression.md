@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/smOylkY.jpg"
 
 permalink: "/opinion/2023/08/13/partey-tasked-with-disrupting-arsenal-ball-progression/"
-
-redirect_from:
-  - "/2023/08/13/partey-tasked-with-disrupting-arsenal-ball-progression/"
 ---
 
 On paper, the difference between Thomas Partey playing at right-back versus right center-back is small, but in practice, it impedes Arsenal's ability to progress the ball into the final third.
