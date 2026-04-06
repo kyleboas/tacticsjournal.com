@@ -5,9 +5,6 @@ title: "Football is less attractive"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_23:41:13.png"
 
 permalink: "/opinion/2024/07/08/football-is-less-attractive/"
-
-redirect_from:
-  - "/2024/07/08/football-is-less-attractive/"
 ---
 
 Football has fewer entertainers than it did before because the physicality is higher, the spaces are smaller, and the schedule is more demanding. We get more football, but it is becoming less and less attractive, as Marcelo Bielsa said.

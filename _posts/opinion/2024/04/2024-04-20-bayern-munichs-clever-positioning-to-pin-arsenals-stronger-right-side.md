@@ -12,9 +12,6 @@ tags:
 image: "https://i.imgur.com/eDtRDHT.jpeg"
 
 permalink: "/opinion/2024/04/20/bayern-munichs-clever-positioning-to-pin-arsenals-stronger-right-side/"
-
-redirect_from:
-  - "/2024/04/20/bayern-munichs-clever-positioning-to-pin-arsenals-stronger-right-side/"
 ---
 
 Bayern Munich used clever positioning to pin Jorginho and Ben White high on the left, opening space for Guerreiro to drop into. The position high from Kimmich pinned Martinelli wide, which disrupted Arsenal's press. 

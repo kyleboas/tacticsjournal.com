@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/A4VmR9d.jpeg"
 
 permalink: "/opinion/2024/01/17/iraola-on-adapting-training-to-his-team/"
-
-redirect_from:
-  - "/2024/01/17/iraola-on-adapting-training-to-his-team/"
 ---
 
 Bournemouth manager Andoni Iraola explains why, in a world where information is easy to access, it's not difficult to emulate what other coaches are doing in training, but highlights the importance of creating exercises to fit a team's needs.

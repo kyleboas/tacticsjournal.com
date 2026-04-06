@@ -10,9 +10,6 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/0
 tweet: "Pep Guardiola hired Juanma Lillo as his assistant coach at Man City because he wanted an 'intellectual challenge.' He says, 'I don’t want people agreeing with me all the time. I want people around me who’ll tell me that I should be doing things differently.'"
 
 permalink: "/opinion/2024/09/05/an-intellectual-challenge/"
-
-redirect_from:
-  - "/2024/09/05/an-intellectual-challenge/"
 ---
 
 Pep Guardiola hired Juanma Lillo as his assistant coach at Manchester City because he wanted an "intellectual challenge." He says, "I don’t want people agreeing with me all the time. I want people around me who’ll tell me that I should be doing things differently."

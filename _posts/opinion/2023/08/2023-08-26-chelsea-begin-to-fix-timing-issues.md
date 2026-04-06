@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/pORBKBz.jpg"
 
 permalink: "/opinion/2023/08/26/chelsea-begin-to-fix-timing-issues/"
-
-redirect_from:
-  - "/2023/08/26/chelsea-begin-to-fix-timing-issues/"
 ---
 
 August 26, 2023 — Luton Town are not solid defensively, but some of the timing issues Chelsea experienced in their recent matches are starting to resolve.

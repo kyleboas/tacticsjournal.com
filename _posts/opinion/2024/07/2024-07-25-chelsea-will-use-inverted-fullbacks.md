@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_12:33:03.png"
 
 permalink: "/opinion/2024/07/25/chelsea-will-use-inverted-fullbacks/"
-
-redirect_from:
-  - "/2024/07/25/chelsea-will-use-inverted-fullbacks/"
 ---
 
 Due to the versatility of the defenders, there are many different combinations Chelsea can use, but the main option they'll likely use is the right-back inverting, with the left-back operating as a left center-back in possession.

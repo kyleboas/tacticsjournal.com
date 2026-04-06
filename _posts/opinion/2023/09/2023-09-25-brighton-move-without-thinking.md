@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/cUEYZtv.jpg"
 
 permalink: "/opinion/2023/09/25/brighton-move-without-thinking/"
-
-redirect_from:
-  - "/2023/09/25/brighton-move-without-thinking/"
 ---
 
 September 25, 2023 — Brighton moves in ways that I've never seen from a team. Players execute movements without thinking. All 11 men are aligned.

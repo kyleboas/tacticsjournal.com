@@ -5,9 +5,6 @@ title: "Midfielders need help"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/06/Image-06Nov2025_18:28:05.png"
 
 permalink: "/opinion/2025/11/07/midfielders-need-help/"
-
-redirect_from:
-  - "/2025/11/07/midfielders-need-help/"
 ---
 
 When an ant can’t carry a large leaf back to the colony alone, the others step in to help. The ants are not spread apart; they are close together. In football, midfielders can starve an attack if the spacing between players is too big.

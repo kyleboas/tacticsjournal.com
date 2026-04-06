@@ -13,9 +13,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_14:17:06.png"
 
 permalink: "/opinion/2024/08/04/bayern-munich-pass-horizontally-against-tottenham-constantly-opening-play/"
-
-redirect_from:
-  - "/2024/08/04/bayern-munich-pass-horizontally-against-tottenham-constantly-opening-play/"
 ---
 
 With each pass, Bayern Munich looked to pass horizontally, ignoring passes on the ball side in favor of passing to the far side, avoiding playing several passes on one side of the pitch. This stretched Tottenham and every player shared the same mindset.

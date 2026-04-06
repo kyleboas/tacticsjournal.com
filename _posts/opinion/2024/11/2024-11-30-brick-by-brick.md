@@ -5,9 +5,6 @@ title: "Brick by brick"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/29/Image-29Nov2024_14:57:35.png"
 
 permalink: "/opinion/2024/11/30/brick-by-brick/"
-
-redirect_from:
-  - "/2024/11/30/brick-by-brick/"
 ---
 
 I want to be someone who can take something complex, simplify it, and build a case off it, brick by brick. Kind of like a lawyer. You get one example, then another, then another, and then at the end you present your case.

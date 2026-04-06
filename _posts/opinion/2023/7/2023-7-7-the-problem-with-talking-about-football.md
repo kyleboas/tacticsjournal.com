@@ -5,9 +5,6 @@ title: "The problem with talking about football"
 image: "https://i.imgur.com/6qG0SAo.jpg"
 
 permalink: "/opinion/2023/07/07/the-problem-with-talking-about-football/"
-
-redirect_from:
-  - "/2023/07/07/the-problem-with-talking-about-football/"
 ---
 
 July 7, 2023 — *"The problem with using a word is that everyone interprets it differently" - Johan Cruyff* 

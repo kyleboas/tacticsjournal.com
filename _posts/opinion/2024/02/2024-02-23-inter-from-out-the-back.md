@@ -12,9 +12,6 @@ tags:
 image: "https://i.imgur.com/atcftlO.jpeg"
 
 permalink: "/opinion/2024/02/23/inter-from-out-the-back/"
-
-redirect_from:
-  - "/2024/02/23/inter-from-out-the-back/"
 ---
 
 Inter are one of the most complete teams in Europe in all phases of play. One loss in Serie A, the least amount of goals conceded (12), a balance of the technical skill and power, with an ability to quickly work the ball back-to-front while maintaining numerical superiority in transition.

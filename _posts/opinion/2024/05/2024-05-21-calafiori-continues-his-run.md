@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/X8q4HWd.jpeg"
 
 permalink: "/opinion/2024/05/21/calafiori-continues-his-run/"
-
-redirect_from:
-  - "/2024/05/21/calafiori-continues-his-run/"
 ---
 
 Bologna is overwhelming because they allow their players to use their natural instincts to continue their run forward, especially the center-backs. Riccardo Calafori wins the ball, continues forward, and then he's in on goal unmarked.

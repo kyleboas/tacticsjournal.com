@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/RoL8LeO.jpg"
 
 permalink: "/opinion/2024/03/25/declan-rice-could-be-more-discreet/"
-
-redirect_from:
-  - "/2024/03/25/declan-rice-could-be-more-discreet/"
 ---
 
 On almost every possession, Declan Rice either fully outstretches his arms to call for the ball or points to where he thinks the ball should be played. It would benefit him and the team if he were more subtle to not alert the opponent as loudly with his body.

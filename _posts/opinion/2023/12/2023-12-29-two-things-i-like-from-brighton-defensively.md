@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/gtbuWRu.jpeg"
 
 permalink: "/opinion/2023/12/29/two-things-i-like-from-brighton-defensively/"
-
-redirect_from:
-  - "/2023/12/29/two-things-i-like-from-brighton-defensively/"
 ---
 
 There were two things I liked from Brighton when they played Tottenham: The increased pressure wide from Danny Welbeck and the improved organization of their higher line.

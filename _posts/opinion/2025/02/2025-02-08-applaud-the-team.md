@@ -5,9 +5,6 @@ title: "Applaud the team"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/07/Image-07Feb2025_08:48:43.png"
 
 permalink: "/opinion/2025/02/08/applaud-the-team/"
-
-redirect_from:
-  - "/2025/02/08/applaud-the-team/"
 ---
 
 Are the players tactically flexible or is the manager tactically flexible? It is the assumption that the manager is always in control that makes assigning blame or congratulations challenging. The manager is assumed to always be in control.

@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/03/Image-03Aug2025_12:25:04.png"
 
 permalink: "/opinion/2025/08/04/liverpool-will-miss-trent-alexander-arnold-in-the-short-term/"
-
-redirect_from:
-  - "/2025/08/04/liverpool-will-miss-trent-alexander-arnold-in-the-short-term/"
 ---
 
 Liverpool are going to miss Trent Alexander-Arnold more than they imagine because Mohamed Salah thrives from direct passes into space or into his feet. He might become lost in the game without them in the short-term. 

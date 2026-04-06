@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/17/Image-17Nov2024_20:46:11.png"
 
 permalink: "/opinion/2024/11/20/always-find-the-moment/"
-
-redirect_from:
-  - "/2024/11/20/always-find-the-moment/"
 ---
 
 Mohamed Salah recalls a conversation he had with Arsene Wenger, in his first season at Liverpool, in which Arsene answered the question, “What separates the good players from the really, really good players?” In Salah’s words, they “find the moment.”

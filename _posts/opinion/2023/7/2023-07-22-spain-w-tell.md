@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/bdBFpZf.jpg"
 
 permalink: "/opinion/2023/07/22/spain-w-tell/"
-
-redirect_from:
-  - "/2023/07/22/spain-w-tell/"
 --- 
 
 When Athenea de Castillo at right-wing for Spain moves inside of right-back Ona Batlle, they either immediately cross or quickly switch play on the ground. If they switch, Castillo is the target on the back-post. If she's outside they play to the corner. 

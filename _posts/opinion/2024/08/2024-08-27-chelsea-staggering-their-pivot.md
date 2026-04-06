@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/26/Image-26Aug2024_17:47:14.png"
 
 permalink: "/opinion/2024/08/27/chelsea-staggering-their-pivot/"
-
-redirect_from:
-  - "/2024/08/27/chelsea-staggering-their-pivot/"
 ---
 
 Staggering each line of players makes a huge difference. Chelsea midfielders Enzo Fernandez and Moises Caicedo stagger, and that opens up the pass forward out to the wing, draws a defender in, and creates space for Caicedo once they continue up the wing.

@@ -9,9 +9,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/3x035C0.jpg"
 permalink: /Arsenal-is-emotionally-exhausted-and-didnt-press-Manchester-City/
-
-redirect_from:
-  - "/2023/04/26/Arsenal-is-emotionally-exhausted-and-didnt-press-Manchester-City/"
 ---
 
 April 26, 2023 — There are certain matches where it’s almost pointless to dive in too deep into the structure of a team when you can see that they’re emotionally exhausted. Arsenal in this game was exhausted, but they were instructed not to press which compounded the overly emotional aspect of their team.

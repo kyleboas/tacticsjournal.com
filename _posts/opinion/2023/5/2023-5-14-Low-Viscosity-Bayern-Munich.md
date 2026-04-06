@@ -9,9 +9,6 @@ tags:
 - "Schalke"
 image: "https://i.imgur.com/OHnR5QY.jpg"
 permalink: /Low-Viscosity-Bayern-Munich/
-
-redirect_from:
-  - "/2023/05/14/Low-Viscosity-Bayern-Munich/"
 ---
 
 May 14, 2023 — In low-viscosity liquids, the intermolecular forces between molecules are relatively weak, allowing the molecules to move more freely. That's a good way to describe both water and Bayern Munich now under Thomas Tuchel.

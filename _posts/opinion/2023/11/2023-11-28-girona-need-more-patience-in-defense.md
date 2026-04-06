@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/EDPfLkg.jpg"
 
 permalink: "/opinion/2023/11/28/girona-need-more-patience-in-defense/"
-
-redirect_from:
-  - "/2023/11/28/girona-need-more-patience-in-defense/"
 ---
 
 In the second phase of possession, Eric Garcia and Daily Blind both jump out to pressure the ball carrier. When Athletic Club worked past one of the two, they had the numerical advantage and an easy run in on goal.

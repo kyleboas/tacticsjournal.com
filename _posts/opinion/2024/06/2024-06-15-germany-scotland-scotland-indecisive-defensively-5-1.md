@@ -14,9 +14,6 @@ tweet: "The hosts, Germany, played a Scotland team unsure of how to defend, not 
 link: "https://betweentheposts.net/germany-scotland-scotland-indecisive-defensively-5-1/"
 
 permalink: "/opinion/2024/06/15/germany-scotland-scotland-indecisive-defensively-5-1/"
-
-redirect_from:
-  - "/2024/06/15/germany-scotland-scotland-indecisive-defensively-5-1/"
 ---
 
 The hosts, Germany, played a Scotland team unsure of how to defend, not applying pressure while maintaining a high line. They relinquished control of the central zone between the lines, gifting Germany’s forwards time and space.

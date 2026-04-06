@@ -13,9 +13,6 @@ image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/13/Image-13
 tweet: "Hungary is the most tactically interesting team in Euro 2024 because of the relational principles they are going to reintroduce. Thankfully, we have people like @stirling_j and @Jozsef_Bozsik detailing the history and culture of those principles."
 
 permalink: "/opinion/2024/06/14/hungary-brazil-and-culture-in-tactics/"
-
-redirect_from:
-  - "/2024/06/14/hungary-brazil-and-culture-in-tactics/"
 ---
 
 Hungary is the most tactically interesting team in Euro 2024 because of the relational principles they are going to reintroduce. Thankfully, we have people like Jamie Hamilton and Jozsef ‘Hungaro’ Bozsik detailing the history and culture of those principles.

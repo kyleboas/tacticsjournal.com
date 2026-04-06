@@ -5,9 +5,6 @@ title: "Footedness"
 image: "https://i.imgur.com/He96NpC.jpg"
 
 permalink: "/opinion/2023/11/22/footedness/"
-
-redirect_from:
-  - "/2023/11/22/footedness/"
 ---
 
 You have to read this description of footedness by Cameron Herbert.

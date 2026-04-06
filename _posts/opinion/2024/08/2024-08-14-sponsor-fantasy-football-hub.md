@@ -9,9 +9,6 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/1
 tweet: "I follow all the finer tactical details and changes for each Premier League team, and I am very driven by fixtures in FPL. Here is my preview for the first six matches using the tools from @FFH_HQ. #ad"
 
 permalink: "/opinion/2024/08/14/sponsor-fantasy-football-hub/"
-
-redirect_from:
-  - "/2024/08/14/sponsor-fantasy-football-hub/"
 ---
 
 I follow all the finer tactical details and changes for each Premier League team, and I am very driven by fixtures in FPL. Here is my preview for the first six matches using the tools from Fantasy Football Hub.

@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/HwYNHbB.jpg"
 
 permalink: "/opinion/2023/07/14/arsenal-left-midfielder-experiment/"
-
-redirect_from:
-  - "/2023/07/14/arsenal-left-midfielder-experiment/"
 ---
 
 Leandro Trossard and Kai Havertz both moved wide when Jakub Kiwior or Kieran Tierney inverted from left-back. Arsenal tried complicated solutions to attempt to replace Granit Xhaka.

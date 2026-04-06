@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/TnWP6SK.jpeg"
 
 permalink: "/opinion/2024/05/08/psg-need-more-vitinhas/"
-
-redirect_from:
-  - "/2024/05/08/psg-need-more-vitinhas/"
 ---
 
 This was an incredible achievement by Luis Enrique to take PSG, the youngest starting XI since 2009, to a Champions League semi-final, but they needed more Vitinha's to break Borussia Dortmund down.

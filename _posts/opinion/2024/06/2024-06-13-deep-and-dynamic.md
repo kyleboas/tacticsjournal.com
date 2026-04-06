@@ -11,9 +11,6 @@ link: "https://betweentheposts.net/deep-and-dynamic/"
 tweet: "Portugal boasts one of the deepest squads in Euro 2024, with at least two starting-caliber players in every position. They can be stiff at times, but Roberto Martinez’s possession play puts the emphasis on their intelligence. @BetweenThePosts"
 
 permalink: "/opinion/2024/06/13/deep-and-dynamic/"
-
-redirect_from:
-  - "/2024/06/13/deep-and-dynamic/"
 ---
 
 Portugal boasts one of the deepest squads in Euro 2024, with at least two starting-caliber players in every position. They can be stiff at times, but Roberto Martinez’s possession play puts the emphasis on their intelligence.

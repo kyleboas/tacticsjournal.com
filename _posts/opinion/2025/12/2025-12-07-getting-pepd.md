@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/06/Image-06Dec2025_21:39:59.png"
 
 permalink: "/opinion/2025/12/07/getting-pepd/"
-
-redirect_from:
-  - "/2025/12/07/getting-pepd/"
 ---
 
 Manchester City's Rayan Cherki assisted a goal with a rabona, where a player kicks the ball by wrapping their kicking leg behind the standing leg. In the eyes of Pep Guardiola, a rabona is a problem. This is what I call 'Getting Pep'd.'

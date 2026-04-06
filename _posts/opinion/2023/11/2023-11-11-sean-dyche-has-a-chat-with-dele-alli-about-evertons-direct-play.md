@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/p5tws2e.jpg"
 
 permalink: "/opinion/2023/11/11/sean-dyche-has-a-chat-with-dele-alli-about-evertons-direct-play/"
-
-redirect_from:
-  - "/2023/11/11/sean-dyche-has-a-chat-with-dele-alli-about-evertons-direct-play/"
 ---
 
 Sean Dyche gains insight from Dele Alli, who has been observing from the sidelines as he attempts to regain full form to play after being [given another chance](https://youtu.be/LyDL9EUIdy0?si=yiLKvJcgAlaWzEII) at Everton.

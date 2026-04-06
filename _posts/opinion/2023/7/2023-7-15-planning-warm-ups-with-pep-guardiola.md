@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/K4F84oa.png"
 
 permalink: "/opinion/2023/07/15/planning-warm-ups-with-pep-guardiola/"
-
-redirect_from:
-  - "/2023/07/15/planning-warm-ups-with-pep-guardiola/"
 ---
 
 July 15, 2023 — Manchester City fitness coach Lorenzo Buenaventura recalls how they base upcoming warm-ups around future opponents at the direction of Pep Guardiola. 

@@ -5,9 +5,6 @@ title: "Don't force things"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/21/Image-21Sep2025_23:36:08.png"
 
 permalink: "/opinion/2025/09/24/dont-force-things/"
-
-redirect_from:
-  - "/2025/09/24/dont-force-things/"
 ---
 
 The best ideas are ones that are not forced. They will flow out of you. You won't even be able to give yourself a second to overthink it.

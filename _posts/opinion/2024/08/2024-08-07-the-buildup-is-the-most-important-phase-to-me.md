@@ -5,9 +5,6 @@ title: "The buildup is the most important phase to me"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/07/Image-07Aug2024_01:45:51.png"
 
 permalink: "/opinion/2024/08/07/the-buildup-is-the-most-important-phase-to-me/"
-
-redirect_from:
-  - "/2024/08/07/the-buildup-is-the-most-important-phase-to-me/"
 ---
 
 If I am starting fresh with a team and trying to get an understanding of how they'll play, I'll focus on the buildup first. Fix the buildup, and then work from there. You shouldn't have to worry every time your team gets the ball.

@@ -5,9 +5,6 @@ title: "Being a neutral"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/27/Image-27Aug2025_21:01:30.png"
 
 permalink: "/opinion/2025/08/28/being-a-neutral/"
-
-redirect_from:
-  - "/2025/08/28/being-a-neutral/"
 ---
 
 You can like an aspect of a manager's game or a set of players, even when the result goes against them. You can look forward to watching a team even if you know they'll likely lose. That is the beauty of being a neutral.

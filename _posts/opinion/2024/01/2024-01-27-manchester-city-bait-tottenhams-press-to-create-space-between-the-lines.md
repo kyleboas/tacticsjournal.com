@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/EAE454f.jpeg"
 
 permalink: "/opinion/2024/01/27/manchester-city-bait-tottenhams-press-to-create-space-between-the-lines/"
-
-redirect_from:
-  - "/2024/01/27/manchester-city-bait-tottenhams-press-to-create-space-between-the-lines/"
 ---
 
 Throughout the match, Manchester City defaulted to baiting Tottenham's second line to press by passing back, even when the option to play forward was available. This opened loads of space to isolate Hojbjerg and Tottenham's back line.

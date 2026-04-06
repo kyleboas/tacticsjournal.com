@@ -5,9 +5,6 @@ title: "The mind of an innovator"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/13/Image-13Aug2024_01:23:26.png"
 
 permalink: "/opinion/2024/08/13/the-mind-of-an-innovator/"
-
-redirect_from:
-  - "/2024/08/13/the-mind-of-an-innovator/"
 ---
 
 Innovators are always thinking of solutions to problems that no one has been able to solve; therefore, they are aware of the solutions already solved. There are two big problems in football right now.

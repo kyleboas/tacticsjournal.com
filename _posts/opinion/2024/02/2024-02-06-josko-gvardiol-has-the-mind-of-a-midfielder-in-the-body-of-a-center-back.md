@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/TEAVppB.jpeg"
 
 permalink: "/opinion/2024/02/06/josko-gvardiol-has-the-mind-of-a-midfielder-in-the-body-of-a-center-back/"
-
-redirect_from:
-  - "/2024/02/06/josko-gvardiol-has-the-mind-of-a-midfielder-in-the-body-of-a-center-back/"
 ---
 
 Manchester City used Josko Gvardiol as a quarterback in the first half against Brentford. The execution of his passes is beginning to catch up with his high football IQ, but he still needs minutes to develop that sharpness to time the pass.

@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/0LctTD4.jpeg"
 
 permalink: "/opinion/2024/05/06/you-cannot-sit-if-you-dont-have-a-chair/"
-
-redirect_from:
-  - "/2024/05/06/you-cannot-sit-if-you-dont-have-a-chair/"
 ---
 
 Chelsea manager Mauricio Pochettino says the team will tactically evolve but in his words, 'you cannot sit, if you don't have a chair'. 'You don't have a team but you expect behave like a team.' Build the relationships first and then implement ideas.

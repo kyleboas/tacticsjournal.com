@@ -11,9 +11,6 @@ tags:
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/20/Image-20Jun2024_00:12:34.png?raw=true"
 
 permalink: "/opinion/2024/06/20/foden-bellingham-rice-and-trent-in-the-midfield-can-work-for-england/"
-
-redirect_from:
-  - "/2024/06/20/foden-bellingham-rice-and-trent-in-the-midfield-can-work-for-england/"
 ---
 
 The system England used against Serbia, centered around Phil Foden, Jude Bellingham, Trent Alexander-Arnold, and Declan Rice in midfield, can work but is dependent on passes funneled through the middle and the left-back remaining active down the wing.

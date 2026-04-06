@@ -5,9 +5,6 @@ title: "Dimitar Berbatov on the mental side of football and finding space as a s
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/20/Image-20Nov2024_15:10:31.png"
 
 permalink: "/opinion/2024/11/21/dimitar-berbatov-on-the-mental-side-of-football-and-finding-space-as-a-striker/"
-
-redirect_from:
-  - "/2024/11/21/dimitar-berbatov-on-the-mental-side-of-football-and-finding-space-as-a-striker/"
 ---
 
 Dimitar Berbatov spoke about how a player, especially a forward, finds space and sometimes even avoids space if they are on bad form. And then he detailed how back in the day, he would keep to himself if he had a bad game.

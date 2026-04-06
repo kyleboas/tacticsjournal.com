@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/bmTNmI7.jpeg"
 
 permalink: "/opinion/2024/02/05/liverpools-flipped-formation-and-changed-dynamics-against-arsenal/"
-
-redirect_from:
-  - "/2024/02/05/liverpools-flipped-formation-and-changed-dynamics-against-arsenal/"
 ---
 
 Liverpool were forced to flip their formation. Left-back inverts, right-back holds width, left-wing drops, right-wing inverts. This flawed dynamic kept Arsenal in the game when they allowed Liverpool to hold the ball from minute 14 to 88.

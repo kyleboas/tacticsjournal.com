@@ -11,9 +11,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/14/Image-14Jul2024_02:19:25.png"
 
 permalink: "/opinion/2024/07/14/the-problems-for-england-against-spain/"
-
-redirect_from:
-  - "/2024/07/14/the-problems-for-england-against-spain/"
 ---
 
 England has yet to encounter an opponent of the caliber of Spain in Euro 2024. Spain has been on a tier to themselves. If England get pinned back in their own end, which they should, I don't think they have the pace to counter Spain.

@@ -7,9 +7,6 @@ categories:
 image: "https://i.imgur.com/fNITcFf.jpg"
 
 permalink: "/opinion/2023/06/07/new-watchlist/"
-
-redirect_from:
-  - "/2023/06/07/new-watchlist/"
 ---
 
 June 7, 2023 — I have decided to create a public watchlist of players whom I think are undervalued, separated by position and age, with links to both their FBref page and a YouTube compilation.

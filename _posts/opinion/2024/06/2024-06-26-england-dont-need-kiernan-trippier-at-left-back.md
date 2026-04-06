@@ -13,9 +13,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/26/Image-26Jun2024_00%3A33%3A02.png"
 
 permalink: "/opinion/2024/06/26/england-dont-need-kiernan-trippier-at-left-back/"
-
-redirect_from:
-  - "/2024/06/26/england-dont-need-kiernan-trippier-at-left-back/"
 ---
 
 I didn't think England needed Declan Rice, Kieran Trippier, Marc Guéhi, John Stones, and Kyle Walker in the rest-defense against Serbia, Denmark, or Slovenia. Trippier is often positioned deep to defend, which has a negative effect on how they attack.

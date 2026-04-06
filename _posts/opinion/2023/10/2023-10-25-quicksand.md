@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/tfAgydU.jpg"
 
 permalink: "/opinion/2023/10/25/quicksand/"
-
-redirect_from:
-  - "/2023/10/25/quicksand/"
 ---
 
 Manchester City is like quicksand. The more Brighton struggles and forces things, the easier it is to sink. If you take your time, they'll allow you to advance into their end and create chances.

@@ -9,9 +9,6 @@ tags:
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/07/Image-07Jun2024_10:09:13.png?raw=true"
 
 permalink: "/opinion/2024/06/07/englands-questionable-euro-2024-squad-selection/"
-
-redirect_from:
-  - "/2024/06/07/englands-questionable-euro-2024-squad-selection/"
 ---
 
 Gareth Southgate's England squad selection for Euro 2024 has four questionable selections, as he has omitted a healthy Jack Grealish, Marcus Rashford, Dominic Solanke, James Maddison, and Jared Branthwaite. 

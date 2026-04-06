@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/8xSd3SW.png" 
 
 permalink: "/opinion/2024/02/26/frankie-de-jongs-perfect-game/"
-
-redirect_from:
-  - "/2024/02/26/frankie-de-jongs-perfect-game/"
 ---
 
 After a 4-0 Barcelona win, [Frankie de Jong was asked how he felt after he had "a perfect game"](https://x.com/laligatv/status/1761457439784698043?s=46&t=YC8lQJTh43E_mBQW40Ct2g). His response, "I think today with the ball was one of my worst games" this season. Results based analysis is always a losing game.

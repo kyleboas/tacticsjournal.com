@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/Dcr2oi0.jpeg"
 
 permalink: "/opinion/2024/05/18/trent-taught-himself-to-pass/"
-
-redirect_from:
-  - "/2024/05/18/trent-taught-himself-to-pass/"
 ---
 
 Trent Alexander-Arnold was born with a gift and Liverpool didn't stop him. Academy director, Alex Inglethorpe, says 'they didn't teach him to pass' and 'if you want to be a player that makes the difference, you've got to have an awful lot of failure.'

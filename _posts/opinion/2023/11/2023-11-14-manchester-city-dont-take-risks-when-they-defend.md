@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/VUvG6IF.jpg"
 
 permalink: "/opinion/2023/11/14/manchester-city-dont-take-risks-when-they-defend/"
-
-redirect_from:
-  - "/2023/11/14/manchester-city-dont-take-risks-when-they-defend/"
 ---
 
 Manchester doesn't take the risk of attempting a tackle. They put their trust in their ability to shepherd their opponent into an area where they can intercept the ball, or force a difficult shot that they can attempt to block.

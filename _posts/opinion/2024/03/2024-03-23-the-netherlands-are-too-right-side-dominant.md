@@ -8,9 +8,6 @@ tags:
 image: "https://i.imgur.com/B34mr1e.jpeg"
 
 permalink: "/opinion/2024/03/23/the-netherlands-are-too-right-side-dominant/"
-
-redirect_from:
-  - "/2024/03/23/the-netherlands-are-too-right-side-dominant/"
 ---
 
 When you offer that third man on the wing, Cody Gakpo's run inside becomes more fearsome. The Netherlands need to balance things by placing someone behind Gakpo to worry Scotland's right-back when he ventures inside.

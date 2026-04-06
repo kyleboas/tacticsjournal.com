@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/GJkpP7H.jpeg"
 
 permalink: "/opinion/2024/03/08/if-we-lose-i-want-to-do-it-my-way/"
-
-redirect_from:
-  - "/2024/03/08/if-we-lose-i-want-to-do-it-my-way/"
 ---
 
 Brighton defend by attacking, but they frequently lost the ball against Roma. If they used Gross or Gilmour to follow Dybala instead of Igor or Van Hecke, they would not have had to leave Lewis Dunk 1v1 against Lukaku.

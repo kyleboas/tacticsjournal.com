@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/K6talk3.jpeg"
 
 permalink: "/opinion/2024/02/04/shielding-the-ball-from-the-goalkeeper-in-the-air-is-becoming-more-common/"
-
-redirect_from:
-  - "/2024/02/04/shielding-the-ball-from-the-goalkeeper-in-the-air-is-becoming-more-common/"
 ---
 
 Placing an attacker on the goalkeeper is not new, but shielding the ball when it's in the air is. This challenge on Vicario would normally be called a foul, but this season teams have been trying to find what the boundary of [the rule](https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-12---fouls-and-misconduct#:~:text=Impeding%20the%20progress%20of%20an%20opponent%20means%20moving%20into%20the,playing%20distance%20of%20either%20player) is.

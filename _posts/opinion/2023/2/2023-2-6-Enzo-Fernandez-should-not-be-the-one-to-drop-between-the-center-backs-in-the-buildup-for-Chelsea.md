@@ -9,9 +9,6 @@ tags:
 layout: post
 image: https://i.imgur.com/P82TaDe.jpg
 permalink: /Enzo-Fernandez-should-not-be-the-one-to-drop-between-the-center-backs-in-the-buildup-for-Chelsea/
-
-redirect_from:
-  - "/2023/02/06/Enzo-Fernandez-should-not-be-the-one-to-drop-between-the-center-backs-in-the-buildup-for-Chelsea/"
 ---
 
 February 6, 2023 — Enzo Fernandez has signed from Benfica to Chelsea for £105m in this year’s January transfer window. This is a huge signing for the London-based club because Enzo fulfills the vital role of a creative deep lying playmaker who can connect the play and provide chances for Chelsea’s incredibly young and talented overhauled front line.

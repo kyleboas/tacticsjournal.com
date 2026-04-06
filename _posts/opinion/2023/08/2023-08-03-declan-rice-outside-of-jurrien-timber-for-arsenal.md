@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/5kSP601.jpg"
 
 permalink: "/opinion/2023/08/03/declan-rice-outside-of-jurrien-timber-for-arsenal/"
-
-redirect_from:
-  - "/2023/08/03/declan-rice-outside-of-jurrien-timber-for-arsenal/"
 ---
 
 August 3, 2023 — Declan Rice played a wider role for Arsenal yesterday outside of left-back Jurrien Timber, and it better suited his style of play.

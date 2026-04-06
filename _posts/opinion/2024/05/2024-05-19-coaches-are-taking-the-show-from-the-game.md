@@ -5,9 +5,6 @@ title: "Coaches are taking the show from the game"
 image: "https://i.imgur.com/RS3kzND.jpeg"
 
 permalink: "/opinion/2024/05/19/coaches-are-taking-the-show-from-the-game/"
-
-redirect_from:
-  - "/2024/05/19/coaches-are-taking-the-show-from-the-game/"
 ---
 
 César Luis Menotti feared coaches were not taking risks in order to conform to the modernization of football as it became more positional. His concern was that 'coaches do not assume the right to take the show from the game.' He might have been right.

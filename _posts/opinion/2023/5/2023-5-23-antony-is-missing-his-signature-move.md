@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/j2TwucB.jpg"
 
 permalink: "/opinion/2023/05/23/antony-is-missing-his-signature-move/"
-
-redirect_from:
-  - "/2023/05/23/antony-is-missing-his-signature-move/"
 --- 
 
 May 23, 2023 — Antony's signature large touch to the left to open up space has been missing since he joined Manchester United, and he missed two opportunities to relive his Ajax years against Bournemouth.

@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/rq1q7vV.jpeg"
 
 permalink: "/opinion/2024/01/07/arsenals-two-keys-to-control-liverpool/"
-
-redirect_from:
-  - "/2024/01/07/arsenals-two-keys-to-control-liverpool/"
 ---
 
 Arsenal need to work the ball to the free man on the far-side quicker when they play Liverpool in the FA Cup today. That and I would like to see Rice, Ødegaard, and Zinchenko move as a group higher and more central.

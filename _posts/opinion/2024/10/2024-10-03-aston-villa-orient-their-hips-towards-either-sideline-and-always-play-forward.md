@@ -12,9 +12,6 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/0
 tweet: "Every Aston Villa player orients their hips towards either sideline, opening up the pitch and the pass forward on their first touch. With each attack, the ball always moves forward, and diagonals form. This should trouble every team they play against..."
 
 permalink: "/opinion/2024/10/03/aston-villa-orient-their-hips-towards-either-sideline-and-always-play-forward/"
-
-redirect_from:
-  - "/2024/10/03/aston-villa-orient-their-hips-towards-either-sideline-and-always-play-forward/"
 ---
 
 Every Aston Villa player orients their hips towards either sideline, opening up the pitch and the pass forward on their first touch. With each attack, the ball always moves forward, and diagonals form. This should trouble every team they play against.

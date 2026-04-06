@@ -7,9 +7,6 @@ categories:
 image: "https://i.imgur.com/HUr3k38.jpg"
 
 permalink: "/opinion/2023/11/08/football-should-be-the-focus-not-var/"
-
-redirect_from:
-  - "/2023/11/08/football-should-be-the-focus-not-var/"
 ---
 
 It is a shame that fantastic games turn into a game of who was wronged more due to bad officiating. I don't like talking about officiating because it's a part of the game that can't be controlled by a player or a team. They are their own entity.

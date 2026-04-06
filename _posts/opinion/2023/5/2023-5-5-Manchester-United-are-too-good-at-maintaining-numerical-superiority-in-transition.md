@@ -9,9 +9,6 @@ tags:
 - "Brighton"
 image: "https://i.imgur.com/WdFFujT.jpg"
 permalink: /Manchester-United-are-too-good-at-maintaining-numerical-superiority-in-transition/
-
-redirect_from:
-  - "/2023/05/05/Manchester-United-are-too-good-at-maintaining-numerical-superiority-in-transition/"
 ---
 
 May 5, 2023 - Manchester United did an incredible job at always maintaining numerical superiority in defensive transition against Brighton yesterday. They did the same in the [last match against Brighton](https://tacticsjournal.com/How-Manchester-United-man-to-man-marking-weakened-Brighton-buildup/) in the FA Cup.

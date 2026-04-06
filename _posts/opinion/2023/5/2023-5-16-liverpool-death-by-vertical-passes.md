@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/WVLYslE.jpg"
 
 permalink: "/opinion/2023/05/16/liverpool-death-by-vertical-passes/"
-
-redirect_from:
-  - "/2023/05/16/liverpool-death-by-vertical-passes/"
 ---
 
 May 16, 2023 — For most teams, it's death by passes, but for Liverpool, it's death by vertical passes. Any chance they got against Leicester, it was vertical over the top.

@@ -9,9 +9,6 @@ tags:
 image: "https://i.imgur.com/hTgLm0y.jpeg"
 
 permalink: "/opinion/2024/04/14/tottenham-take-too-many-touches/"
-
-redirect_from:
-  - "/2024/04/14/tottenham-take-too-many-touches/"
 ---
 
 When Tottenham are denied the ability to counter, they enter into a strange pattern of three-to-five-touch passing mixed in with one-touch passing, which allows the opposition defense to organize behind the ball. They take too many touches.

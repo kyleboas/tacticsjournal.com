@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/yKphFpA.jpg"
 
 permalink: "/opinion/2023/06/01/jose-mourinho-time-wasting-masterclass/"
-
-redirect_from:
-  - "/2023/06/01/jose-mourinho-time-wasting-masterclass/"
 ---
 
 May 31, 2023 — José Mourinho is the world's foremost expert on time wasting, and we should study the final 5 minutes of extra time in the Europa League Final between Roma and Sevilla. A dark arts masterclass.

@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/JuHASXs.jpeg"
 
 permalink: "/opinion/2024/04/02/odegaard-on-the-turn/"
-
-redirect_from:
-  - "/2024/04/02/odegaard-on-the-turn/"
 ---
 
 Arsenal were less pragmatic than Manchester City because of the way they attacked, and they were more effective at creating chances. A big reason for that was Martin Ødegaard and his ability to get open, immediately turn, and play the through ball.

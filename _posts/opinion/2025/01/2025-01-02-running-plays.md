@@ -5,9 +5,6 @@ title: "Running plays"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/01/Image-01Jan2025_20:43:11.png"
 
 permalink: "/opinion/2025/01/02/running-plays/"
-
-redirect_from:
-  - "/2025/01/02/running-plays/"
 ---
 
 If we choreograph the way in which players move, are we giving them more room to think, or are they thinking more about the next pass or next move? Can we get it to where the entire team moves on autopilot, and will that create more opportunities to be creative?

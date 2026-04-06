@@ -11,9 +11,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/05/Image-05Jul2024_23:52:57.png"
 
 permalink: "/opinion/2024/07/06/germany-made-themselves-look-weak-by-mirroring-spain/"
-
-redirect_from:
-  - "/2024/07/06/germany-made-themselves-look-weak-by-mirroring-spain/"
 ---
 
 Spain is more technically gifted than Germany in every position. To compensate, Germany tried to be very physical and mirror Spain by pressing high and passing quickly. I did not like their approach because it made them look weaker than they are.

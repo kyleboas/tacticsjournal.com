@@ -9,9 +9,6 @@ tags:
 - "Crystal Palace"
 
 permalink: "/opinion/2023/10/17/crystal-palace-vs-nottingham-forest/"
-
-redirect_from:
-  - "/2023/10/17/crystal-palace-vs-nottingham-forest/"
 ---
 
 This is a clash of two resolute defenses that offer little threat going forward due to most of their threats being out with injury. On paper, you'd expect neither team to score. The title of this post matches the blandness of this match. 

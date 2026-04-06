@@ -9,9 +9,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_00:40:40.png"
 
 permalink: "/opinion/2024/07/29/erling-haalands-six-scans-in-ten-seconds-for-his-goal/"
-
-redirect_from:
-  - "/2024/07/29/erling-haalands-six-scans-in-ten-seconds-for-his-goal/"
 ---
 
 Erling Haaland scanned ahead six times in the span of ten seconds before Oscar Bobb cut the ball back to him for his goal. We take each goal for granted because we don't pay close enough attention to the amount of scanning a player performs.

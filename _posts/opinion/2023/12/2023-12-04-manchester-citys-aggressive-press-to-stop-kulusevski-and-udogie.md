@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/jj8DzxI.jpg"
 
 permalink: "/opinion/2023/12/04/manchester-citys-aggressive-press-to-stop-kulusevski-and-udogie/"
-
-redirect_from:
-  - "/2023/12/04/manchester-citys-aggressive-press-to-stop-kulusevski-and-udogie/"
 ---
 
 Manchester City targeted two Tottenham players out-of-possession: Dejan Kulusevski and Destiny Udogie. Their entire defensive structure was built around pressuring those two players and taking them out of the game.

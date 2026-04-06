@@ -11,9 +11,6 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/3
 tweet: "Brighton moved their two midfielders out wide, creating two separate triangles on the wings. Nottingham Forest likes maintaining a uniform shape in defense. They won't follow the midfielders wide. This creates unique transitional moments down the wing..."
 
 permalink: "/opinion/2024/10/01/brighton-bypass-nottingham-forests-compact-zonal-defense-by-moving-two-midfielders-wide/"
-
-redirect_from:
-  - "/2024/10/01/brighton-bypass-nottingham-forests-compact-zonal-defense-by-moving-two-midfielders-wide/"
 ---
 
 Brighton moved their two midfielders out wide, creating two separate triangles on the wings. Nottingham Forest likes maintaining a uniform shape in defense. They won't follow the midfielders wide. This creates unique transitional moments down the wing.

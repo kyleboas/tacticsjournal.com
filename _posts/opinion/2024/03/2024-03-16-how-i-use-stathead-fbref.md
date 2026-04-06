@@ -8,9 +8,6 @@ image: "https://i.imgur.com/YcrRiEz.jpeg"
 tweet: "I am proud to announce I am an FBref Brand Ambassador! Tottenham have averaged 0.64 fewer goals when they have more than 70% possession compared to when they have less than 55% possession. Here I explain how I used @Stathead to gather that @FBref data."
 
 permalink: "/opinion/2024/03/16/how-i-use-stathead-fbref/"
-
-redirect_from:
-  - "/2024/03/16/how-i-use-stathead-fbref/"
 ---
 
 I am proud to announce I am an FBref Brand Ambassador! Tottenham have averaged 0.64 fewer goals when they have more than 70% possession compared to when they have less than 55% possession. Here I explain how I used [Stathead](https://stathead.com/) to gather that [FBref](https://fbref.com/en/) data.

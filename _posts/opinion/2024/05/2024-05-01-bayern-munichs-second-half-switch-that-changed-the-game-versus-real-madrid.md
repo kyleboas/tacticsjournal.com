@@ -12,9 +12,6 @@ tags:
 image: "https://i.imgur.com/7zdJbqW.jpeg"
 
 permalink: "/opinion/2024/05/01/bayern-munichs-second-half-switch-that-changed-the-game-versus-real-madrid/"
-
-redirect_from:
-  - "/2024/05/01/bayern-munichs-second-half-switch-that-changed-the-game-versus-real-madrid/"
 ---
 
 In the second half, Bayern Munich subbed out Goretzka, switching to a Laimer single pivot. That allowed them to quickly bypass the big space between Real Madrid's first and second line then attack, with Guerreiro forward, giving them a +1 in transition.

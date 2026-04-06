@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/207doWn.jpg"
 
 permalink: "/opinion/2023/09/21/how-andre-onana-should-play-out-against-a-passive-counter/"
-
-redirect_from:
-  - "/2023/09/21/how-andre-onana-should-play-out-against-a-passive-counter/"
 ---
 
 September 21, 2023 — Bayern Munich knew Andre Onana's weakness was the pass out to the right, so they baited Manchester United to play out through the right. But there was an instance where they passed through this passive counter-press, something they need to repeat in the future.

@@ -13,9 +13,6 @@ link: "https://betweentheposts.net/georgia-portugal-georgia-upsets-portugals-sec
 tweet: "A heavily rotated Portugal squad set their mind on resting for the round of 16, and a defensively solid, quick-to-counter Georgia took advantage of their opponent’s relaxed frame of mind to advance out of the group stage. @BetweenThePosts"
 
 permalink: "/opinion/2024/06/27/georgia-portugal-georgia-upsets-portugals-second-team-2-0/"
-
-redirect_from:
-  - "/2024/06/27/georgia-portugal-georgia-upsets-portugals-second-team-2-0/"
 ---
 
 A heavily rotated Portugal squad set their mind on resting for the round of 16, and a defensively solid, quick-to-counter Georgia took advantage of their opponent’s relaxed frame of mind to advance out of the group stage.

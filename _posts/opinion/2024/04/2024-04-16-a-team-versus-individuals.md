@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/BoLQ4iW.jpeg"
 
 permalink: "/opinion/2024/04/16/a-team-versus-individuals/"
-
-redirect_from:
-  - "/2024/04/16/a-team-versus-individuals/"
 ---
 
 Arsenal's leaders gifted Kai Havertz his first goal when they gave him the penalty, 2-0 up to Bournemouth. When Chelsea were 4-0 up, they chose to give the penalty to Cole Palmer for his fourth goal. That is a team versus individuals.

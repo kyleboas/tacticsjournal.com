@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/41mEsJq.jpeg"
 
 permalink: "/opinion/2024/04/11/gabriel-pinned-to-kane-isolates-arsenals-left-side/"
-
-redirect_from:
-  - "/2024/04/11/gabriel-pinned-to-kane-isolates-arsenals-left-side/"
 ---
 
 Gabriel was pinned to Harry Kane, which isolated Jakub Kiwior and Zinchenko. Bayern Munich focused on attacking their right-wing to open up the rest of the pitch. 

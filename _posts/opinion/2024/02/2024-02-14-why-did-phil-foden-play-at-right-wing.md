@@ -11,9 +11,6 @@ tags:
 image: "https://i.imgur.com/rsvtUMd.jpeg"
 
 permalink: "/opinion/2024/02/14/why-did-phil-foden-play-at-right-wing/"
-
-redirect_from:
-  - "/2024/02/14/why-did-phil-foden-play-at-right-wing/"
 ---
 
 Grealish, De Bruyne, and Bernardo Silva come into the Manchester City side. That's three changes. To maintain rhythm, Bernardo Silva played on the left to fill in for Gvardiol, taking up similar positions. That is why Phil Foden played at right-wing.

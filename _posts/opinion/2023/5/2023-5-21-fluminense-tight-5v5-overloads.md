@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/rLMj1ZB.jpg"
 
 permalink: "/opinion/2023/05/21/fluminense-tight-5v5-overloads/"
-
-redirect_from:
-  - "/2023/05/21/fluminense-tight-5v5-overloads/"
 ---
 
 May 21, 2023 — Fluminense's possession play is unique due to way they overload tight spaces. Yesterday against Botafogo, they consistently forced 5v5 situations to capitalize on their superior dribbling and ball control. 

@@ -10,9 +10,6 @@ tags:
 image: "https://i.imgur.com/vZCHhw1.jpeg"
 
 permalink: "/opinion/2024/01/31/no-room-for-brighton-bait-and-luton-score/"
-
-redirect_from:
-  - "/2024/01/31/no-room-for-brighton-bait-and-luton-score/"
 ---
 
 Brighton had to overload the ball side because that was their only chance to get that third man pass in. The issue is the distance. It had to be one-touch football because the next Luton Town defender was always less than five yards away.

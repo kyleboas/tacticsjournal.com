@@ -5,9 +5,6 @@ title: "The ability to forget his mistakes and move on"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/06/Image-06Sep2024_01:18:23.png"
 
 permalink: "/opinion/2024/09/06/the-ability-to-forget-his-mistakes-and-move-on/"
-
-redirect_from:
-  - "/2024/09/06/the-ability-to-forget-his-mistakes-and-move-on/"
 ---
 
 In the words of pro golfer Luke Donald, Tiger Woods' "ability to forget his mistakes and move on" was what made him a better golfer than everyone else. Everyone focuses on the technique, but we forget about the mental side of playing a game.

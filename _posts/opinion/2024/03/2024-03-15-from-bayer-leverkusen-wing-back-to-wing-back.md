@@ -11,9 +11,6 @@ image: "https://i.imgur.com/i9ctDHm.jpeg"
 tweet: "123"
 
 permalink: "/opinion/2024/03/15/from-bayer-leverkusen-wing-back-to-wing-back/"
-
-redirect_from:
-  - "/2024/03/15/from-bayer-leverkusen-wing-back-to-wing-back/"
 ---
 
 Bayer Leverkusen work from inside to out, ignoring the run of open players on the wings, saving that pass for the moment they want to play the final pass. They try to make sure that the player's second touch is always threatening: a cross, a cut-back, a one-two into the half-space.

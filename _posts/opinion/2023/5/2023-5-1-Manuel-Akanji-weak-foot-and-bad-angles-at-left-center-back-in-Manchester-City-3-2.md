@@ -9,9 +9,6 @@ tags:
 - "Fulham"
 image: "https://i.imgur.com/lBTLRhE.jpg"
 permalink: /Manuel-Akanji-weak-foot-and-bad-angles-at-left-center-back-in-Manchester-City-3-2
-
-redirect_from:
-  - "/2023/05/01/Manuel-Akanji-weak-foot-and-bad-angles-at-left-center-back-in-Manchester-City-3-2/"
 ---
 
 May 1, 2023 — Manuel Akanji was used as a left center-back in a 3-2 sub-structure for Manchester City yesterday when they played Fulham, and it did not work due to the poor angles and his right footedness. 

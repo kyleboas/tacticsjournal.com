@@ -11,9 +11,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/27/Image-27Jul2024_00:56:53.png"
 
 permalink: "/opinion/2024/07/27/arne-slot-shows-signs-of-balancing-liverpools-buildup/"
-
-redirect_from:
-  - "/2024/07/27/arne-slot-shows-signs-of-balancing-liverpools-buildup/"
 ---
 
 The way Liverpool buildup is balanced. They attract the defense towards the ball, but with each touch, like a spring, they are coiling up to play forward. The passing is short, but the runs are direct.

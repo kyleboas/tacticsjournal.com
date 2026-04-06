@@ -10,9 +10,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_00:43:50.png"
 
 permalink: "/opinion/2024/08/25/arsenals-right-wing-malfunctions-against-aston-villa/"
-
-redirect_from:
-  - "/2024/08/25/arsenals-right-wing-malfunctions-against-aston-villa/"
 ---
 
 Three Aston Villa players were positioning themselves in line in front of Bukayo Saka to not allow him to attack at his favored angle without abandoning marking him while tracking the underlapping or overlapping run of an Arsenal midfielder or Ben White.
