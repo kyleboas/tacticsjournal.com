@@ -8,6 +8,7 @@ tags:
 - "Brentford"
 - "Liverpool"
 image: "https://i.imgur.com/NxhXGuL.jpeg"
+
 ---
 
 Liverpool are an underrated team in defensive transition. They are one of the best at slowing down the ball carrier before attempting a tackle. Ibrahima Konate demonstrates that patience on this Brentford counter.

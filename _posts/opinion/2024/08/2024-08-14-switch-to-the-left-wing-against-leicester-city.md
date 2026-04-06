@@ -7,6 +7,7 @@ categories:
 tags:
 - "Leicester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/13/Image-13Aug2024_23:59:41.png"
+
 ---
 
 Leicester City used a back-three, with the left-back further forward in possession. When they transition to defense, the right-winger is responsible for marking the far post. They showed why the right-winger is the most important player in this setup.

@@ -9,6 +9,7 @@ tags:
 - "England"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/12/Image-12Jul2024_12:34:15.png"
 tweet: "After Cole Palmer shined in a group stage cameo, @IanWright0 suggested England move Bukayo Saka to 'left-back.' It would have gone over better if he said 'left-wing.' Why are we obsessed with the name of the position and the formation numbers?"
+
 ---
 
 After Cole Palmer shined in a group stage cameo, Ian Wright suggested England move Bukayo Saka to 'left-back.' It would have gone over better if he said 'left-wing.' Why are we obsessed with the name of the position and the formation numbers?

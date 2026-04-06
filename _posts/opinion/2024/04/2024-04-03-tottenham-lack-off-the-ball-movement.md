@@ -8,6 +8,7 @@ tags:
 - "Tottenham"
 - "West Ham"
 image: "https://i.imgur.com/y0TzF2W.jpg"
+
 ---
 Before Dejan Kulusevski came on in the 70th minute, no one was making simple dummy runs like this. Tottenham were static, ball watching. They need more movement in the final third against a low block, to help create the pockets to play through.
 

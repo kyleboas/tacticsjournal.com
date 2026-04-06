@@ -3,6 +3,7 @@ layout: post
 date: 2025-02-19 12:00 UTC
 title: "Don't become an attacking midfielder who relies on others"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/18/Image-18Feb2025_20:40:55.png"
+
 ---
 
 Attacking midfielders who have to wait for the right pass need to find new ways to get open. You know that if they receive the pass, they will perform, but the fact that they have to rely on the passer limits their effectiveness and wastes time.

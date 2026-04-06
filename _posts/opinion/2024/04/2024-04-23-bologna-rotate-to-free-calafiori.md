@@ -8,6 +8,7 @@ tags:
 - "Bologna"
 - "Roma"
 image: "https://i.imgur.com/0w6oUzx.jpeg"
+
 ---
 
 Bologna's rotations are unique. Defender Riccardo Calafiori likes to carry forward, and Roma knew this; they closed him down. To deter Roma from pressing Calafiori, they rotated midfielders out with defenders in an unpredictable way. And it worked.

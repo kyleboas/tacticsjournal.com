@@ -8,6 +8,7 @@ tags:
 - "Manchester United"
 - "Tottenham"
 image: "https://i.imgur.com/T9sw2uB.jpeg"
+
 ---
 
 Tottenham repeated this simple pattern that I shared before the match: Second man drags the second defender out, left-winger dribbles inside, and play the pass into the space in front or behind Manchester United's right center-back. Goal.

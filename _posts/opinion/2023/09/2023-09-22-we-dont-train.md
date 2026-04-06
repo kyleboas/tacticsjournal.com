@@ -8,6 +8,7 @@ tags:
 - "Manchester City"
 - "Newcastle United"
 image: "https://i.imgur.com/CePSOrP.jpg"
+
 ---
 
 September 22, 2023 — Pep Guardiola, when asked how he works with Oscar Bobb in first-team training to get him to the level needed to be a regular starter, responded: "We don't train."

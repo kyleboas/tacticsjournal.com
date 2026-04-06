@@ -8,6 +8,7 @@ tags:
 - "Chelsea"
 - "Burnley"
 image: "https://i.imgur.com/6xu2w7N.jpg"
+
 ---
 
 It's disappointing that Nicolas Jackson didn't start when he finally had a creator in Cole Palmer to pass him the ball. Jackson has been key to Chelsea's link-up play, but Chelsea needs a win, and Armando Broja was the last to score a goal. He's "in form". 

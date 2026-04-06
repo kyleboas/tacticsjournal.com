@@ -9,6 +9,7 @@ tags:
 - "Brighton"
 - "Relationism"
 image: "https://i.imgur.com/9lDnD3l.jpeg"
+
 ---
 
 Manchester City used constant positional rotations between the forwards and midfield to disrupt Brighton's man-marking. Combing positional and relational principles together is the edge for a functional attack and defense. Positions are temporary.

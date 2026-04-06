@@ -9,6 +9,7 @@ tags:
 - "Manchester City"
 - "Celtic"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_01:02:17.png"
+
 ---
 
 When the inverted fullbacks are in line with the center-backs in a 2-3 sub-structure, the distance between all five players makes passing out awkward. Manchester City provided an example of this against Celtic in their opening preseason match.

@@ -8,6 +8,7 @@ tags:
 - "Liverpool"
 - "Manchester City"
 image: "https://i.imgur.com/BgaBR8O.jpeg"
+
 ---
 
 From minute one, Manchester City were challenging the first man receiving the pass from Liverpool's half once it crossed the half-way line, but too often the player attempting the tackle was Kyle Walker. This left City vulnerable — you'd prefer it to be a midfielder attempting this tackle.

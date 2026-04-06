@@ -8,6 +8,7 @@ tags:
 - "Manchester City"
 - "Newcastle"
 image: "https://i.imgur.com/GTEvayC.jpeg"
+
 ---
 
 Phil Foden has been doing a better job of taking risks, but to take his game to the next level, when playing central, he needs to be more selfish. He needs to realize he is Phil Foden.

@@ -8,6 +8,7 @@ tags:
 - "Brentford"
 - "Manchester City"
 image: "https://i.imgur.com/TEAVppB.jpeg"
+
 ---
 
 Manchester City used Josko Gvardiol as a quarterback in the first half against Brentford. The execution of his passes is beginning to catch up with his high football IQ, but he still needs minutes to develop that sharpness to time the pass.

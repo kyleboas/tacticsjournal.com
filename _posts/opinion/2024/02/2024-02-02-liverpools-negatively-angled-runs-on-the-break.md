@@ -8,6 +8,7 @@ tags:
 - "Chelsea"
 - "Liverpool"
 image: "https://i.imgur.com/gtXTb2Z.jpeg"
+
 ---
 
 Liverpool's wide players angle their runs too narrow on the counter. If they widened their run it would open space for both the ball carrier and improve the angles for the man receiving the ball. 

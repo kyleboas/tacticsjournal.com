@@ -7,6 +7,7 @@ categories:
 tags:
 - "Manchester City"
 - "Pep Guardiola"
+
 ---
 
 Every Manchester City match, we are reminded by the commentators, "Erling Haaland has had only four touches of the ball so far in this match." What we should be focusing on is how few through balls he has been receiving, not touches.

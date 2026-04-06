@@ -8,6 +8,7 @@ tags:
 - "Brighton" 
 - "Manchester City" 
 image: "https://i.imgur.com/GNzbQYb.jpg"
+
 ---
 
 May 27, 2023 — Jan Paul van Hecke and Levi Colwill were the stars of Brighton's aggressive and brave man-to-man marking counter-press, putting pressure on Manchester City's midfielders and Erling Haaland.

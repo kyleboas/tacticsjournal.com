@@ -9,6 +9,7 @@ tags:
 - "Middlesbrough"
 - "Chelsea"
 image: "https://i.imgur.com/9uvQscM.jpeg"
+
 ---
 
 At Brighton, [defenders bait movement before passing](https://tacticsjournal.com/2023/07/18/especially-the-time-to-take-decisions/). Levi Colwill's muscle memory kicks in, but that's not what his Chelsea teammates want. You can take the man out of Brighton, but you can't instantly take the Brighton out of the man.

@@ -9,6 +9,7 @@ tags:
 - "Manchester United"
 - "Arsenal"
 image: "https://i.imgur.com/hsPCgEC.jpeg"
+
 ---
 
 Kobbie Mainoo's first thought is always forward, he's comfortable finding ways to turn when receiving with his back to play, and always goes for the least obvious pass first. England have missed having a holding midfielder that does this.

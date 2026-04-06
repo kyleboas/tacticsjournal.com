@@ -8,6 +8,7 @@ tags:
 - "Manchester City"
 - "Crystal Palace"
 image: "https://i.imgur.com/R48pZUl.jpg"
+
 ---
 
 Manchester City's two best performances of the season came in the past two matches, in a 3-4-3 diamond, with Julian Alvarez up top, Phil Foden behind as the 10, and two controllers in the half-space.

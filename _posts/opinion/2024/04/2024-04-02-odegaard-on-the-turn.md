@@ -8,6 +8,7 @@ tags:
 - "Arsenal"
 - "Manchester City"
 image: "https://i.imgur.com/JuHASXs.jpeg"
+
 ---
 
 Arsenal were less pragmatic than Manchester City because of the way they attacked, and they were more effective at creating chances. A big reason for that was Martin Ødegaard and his ability to get open, immediately turn, and play the through ball.

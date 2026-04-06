@@ -9,6 +9,7 @@ tags:
 - "Arsenal"
 - "Liverpool"
 image: "https://i.imgur.com/4KMnrlx.jpeg"
+
 ---
 
 Kai Havertz is a killer of momentum for Arsenal despite all his positives — hold-up play, dueling, positioning, finding space — his inconsistent touch and pass combined with his inability to pull the trigger ruins most plays he is involved in.

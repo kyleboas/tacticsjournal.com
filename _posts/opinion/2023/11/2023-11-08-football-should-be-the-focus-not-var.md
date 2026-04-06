@@ -5,6 +5,7 @@ title: "Football should be the focus, not VAR"
 categories:
 - "Premier League"
 image: "https://i.imgur.com/HUr3k38.jpg"
+
 ---
 
 It is a shame that fantastic games turn into a game of who was wronged more due to bad officiating. I don't like talking about officiating because it's a part of the game that can't be controlled by a player or a team. They are their own entity.

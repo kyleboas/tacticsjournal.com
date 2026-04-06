@@ -9,6 +9,7 @@ tags:
 - "Bournemouth"
 - "Southampton"
 image: "https://i.imgur.com/89mD8L4.jpg"
+
 ---
 
 July 28, 2023 — Bournemouth's counter-press is already sharper under new manager Andoni Iraola, with tight man-marking mixed with constricting curved runs from the forwards to limit options.

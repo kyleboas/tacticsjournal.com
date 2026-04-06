@@ -8,6 +8,7 @@ tags:
 - "Manchester City"
 - "Everton"
 image: "https://i.imgur.com/lB4oe1n.jpeg"
+
 ---
 
 Every team does this, but the way Manchester City seamlessly move from one tactic to the next is down to the timing and application of the small detailed changes like moving Phil Foden inside four minutes before subbing on De Bruyne and Walker.

@@ -7,6 +7,7 @@ categories:
 tags:
 - "Arsenal"
 image: "https://i.imgur.com/k5O3OA6.jpg"
+
 ---
 
 August 27, 2023 — Arsenal has overcomplicated a change in midfield dynamics. When Fabio Vieira was introduced into the game, it reintroduced old concepts from last season, and they began to look like a winning team again. But they drew to Fulham.

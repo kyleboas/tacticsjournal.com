@@ -9,6 +9,7 @@ tags:
 - "Roma"
 - "Brighton"
 image: "https://i.imgur.com/GJkpP7H.jpeg"
+
 ---
 
 Brighton defend by attacking, but they frequently lost the ball against Roma. If they used Gross or Gilmour to follow Dybala instead of Igor or Van Hecke, they would not have had to leave Lewis Dunk 1v1 against Lukaku.

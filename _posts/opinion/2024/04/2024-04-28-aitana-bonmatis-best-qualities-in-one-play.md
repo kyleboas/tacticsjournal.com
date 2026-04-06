@@ -9,6 +9,7 @@ tags:
 - "Chelsea (W)"
 image: "https://i.imgur.com/0b2utm7.jpeg"
 tweet: "If I had to show someone one play that showcases @AitanaBonmati best qualities, on and off the ball, it would be this one. Awareness, scanning, anticipation, acceleration, touch, close-control, la pausa, and intelligence. Others can learn from it."
+
 ---
 
 If I had to show someone one play that showcases Aitana Bonmati's best qualities, on and off the ball, it would be this one. Awareness, scanning, anticipation, acceleration, touch, close-control, la pausa, and intelligence. Others can learn from it.

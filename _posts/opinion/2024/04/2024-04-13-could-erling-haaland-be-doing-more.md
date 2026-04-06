@@ -7,6 +7,7 @@ categories:
 tags:
 - "Manchester City"
 image: "https://i.imgur.com/AWb1vft.jpeg"
+
 ---
 
 Erling Haaland does not need to score to have an impact. He doesn't even need to touch the ball. He moves defenders which create spaces for others. The opposition is a man down when he plays, not Manchester City, because two men have to follow him. 

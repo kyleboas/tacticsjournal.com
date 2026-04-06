@@ -8,6 +8,7 @@ tags:
 - "Hungary"
 - "Switzerland"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/15/Image-15Jun2024_17:59:29.png?raw=true"
+
 ---
 
 Poland's asymmetric shape in defense meant that the half-spaces were open for the Netherlands, with right wing-back Przemysław Frankowski tasked with tightly marking Cody Gakpo.

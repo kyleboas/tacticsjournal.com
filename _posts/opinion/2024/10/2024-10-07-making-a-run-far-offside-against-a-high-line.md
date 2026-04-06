@@ -8,6 +8,7 @@ tags:
 - "Manchester United"
 - "Aston Villa"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/07/Image-07Oct2024_01:15:56.png"
+
 ---
 
 When the ball is wide with Rashford for Manchester United, and he is ready to pass, I like the run Bruno Fernandes made, running well offside beyond Aston Villa's high line. All Fernandes has to do is stay behind Hojlund for a two-on-one with the keeper.

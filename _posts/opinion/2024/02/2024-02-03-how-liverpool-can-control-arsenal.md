@@ -8,6 +8,7 @@ tags:
 - "Arsenal"
 - "Liverpool"
 image: "https://i.imgur.com/sqXF45a.jpeg"
+
 ---
 
 Liverpool need to do four things to replicate the control they had in the 2nd half against Arsenal in the FA Cup: Overload the left-wing, use Joe Gomez against Saka, keep Trent Alexander-Arnold central, and look for the overlap on the counter.

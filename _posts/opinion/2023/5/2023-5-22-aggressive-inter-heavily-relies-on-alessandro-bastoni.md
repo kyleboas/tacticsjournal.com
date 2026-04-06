@@ -8,6 +8,7 @@ tags:
 - "Inter"
 - "Napoli"
 image: "https://i.imgur.com/UZpao1j.jpg"
+
 --- 
 
 May 22, 2023 — Napoli exposed Inter's weakness yesterday. They depend a lot on left center-back Alessandro Bastoni, and if you can pressure him, you have a good chance of forcing a turnover.

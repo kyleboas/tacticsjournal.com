@@ -8,6 +8,7 @@ tags:
 - "Fulham"
 - "Tottenham"
 image: "https://i.imgur.com/4laMrSK.jpg"
+
 ---
 
 All Fulham have to do is stay narrow in their 4-4-2 out of possession because the distribution into the box for Tottenham isn't consistent enough. And there's no one to head the ball.

@@ -8,6 +8,7 @@ tags:
 - "Bologna"
 - "Juventus"
 image: "https://i.imgur.com/X8q4HWd.jpeg"
+
 ---
 
 Bologna is overwhelming because they allow their players to use their natural instincts to continue their run forward, especially the center-backs. Riccardo Calafori wins the ball, continues forward, and then he's in on goal unmarked.

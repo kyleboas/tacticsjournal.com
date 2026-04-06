@@ -8,6 +8,7 @@ tags:
 - "Liverpool"
 - "Manchester United"
 image: "https://i.imgur.com/aNhaoNQ.jpg"
+
 ---
 
 Small tweaks to Manchester United's out-of-possession structure trapped Liverpool wide, but the space in the left half-space was still there. They needed more line-breaking passes from Wataru Endo to take advantage of that space.

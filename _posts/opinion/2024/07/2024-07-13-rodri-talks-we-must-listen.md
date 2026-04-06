@@ -10,6 +10,7 @@ tags:
 - "Spain"
 - "Manchester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_21:45:11.png"
+
 ---
 
 Rodri is the current gold standard among defensive midfielders. He does not promote himself or have any presence on social media, and he does not partake in many substantive interviews, so [when he spoke in more detail with the Guardian](https://www.theguardian.com/football/article/2024/jul/08/rodri-always-watch-games-back-alone-spain-euro-2024-manchester-city) we have to listen.

@@ -6,6 +6,7 @@ tags:
 - "Netherlands"
 - "Scotland"
 image: "https://i.imgur.com/B34mr1e.jpeg"
+
 ---
 
 When you offer that third man on the wing, Cody Gakpo's run inside becomes more fearsome. The Netherlands need to balance things by placing someone behind Gakpo to worry Scotland's right-back when he ventures inside.

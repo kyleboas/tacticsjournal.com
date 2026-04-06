@@ -6,6 +6,7 @@ categories:
 - "Premier League"
 tags:
 - "Wolves"
+
 ---
 
 When a team is losing, that brings up a lot of negative emotions. The crowd is quiet. The players look dejected. The manager is seething. The team is conceding goals, but why do we automatically assume they are not performing well offensively?

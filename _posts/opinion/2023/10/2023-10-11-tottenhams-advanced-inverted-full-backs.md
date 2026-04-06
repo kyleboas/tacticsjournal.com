@@ -8,6 +8,7 @@ tags:
 - "Tottenham"
 - "Luton Town"
 image: "https://i.imgur.com/VQQC9XD.jpg"
+
 ---
 
 Destiny Udogie's job at left-back is to invert and push Luton Town's right-wing forward when Mickey van de Veen receives the ball. This opens the space to play the ball wide to Richarlison at left-wing, but Richarlison's passes weren't precise. Richarlison's misplaced passes disturbed their rhythm.

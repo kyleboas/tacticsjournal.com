@@ -9,6 +9,7 @@ tags:
 - "Manchester City"
 - "FC Kopenhavn"
 image: "https://i.imgur.com/rsvtUMd.jpeg"
+
 ---
 
 Grealish, De Bruyne, and Bernardo Silva come into the Manchester City side. That's three changes. To maintain rhythm, Bernardo Silva played on the left to fill in for Gvardiol, taking up similar positions. That is why Phil Foden played at right-wing.

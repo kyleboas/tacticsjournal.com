@@ -3,6 +3,7 @@ layout: post
 date: 2024-09-21 11:00 UTC
 title: "Dummying the ball"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_01:52:54.png"
+
 ---
 
 Dummying the ball is an underutilized way of disguising who the pass is intended for. Two players align with the passer, the man dummying the ball lets the ball run through their legs, and the third man receives. This plants the feet of the defenders.

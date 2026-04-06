@@ -8,6 +8,7 @@ tags:
 - "Manchester United"
 - "Chelsea"
 image: "https://i.imgur.com/9Ng0V0P.jpeg"
+
 ---
 
 On most defensive transitions, over the shoulder of Bruno Fernandes on his blind-side, Manchester United leave the top of the box open for the cut-back. 

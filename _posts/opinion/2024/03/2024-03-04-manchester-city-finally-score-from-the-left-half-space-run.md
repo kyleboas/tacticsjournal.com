@@ -8,6 +8,7 @@ tags:
 - "Manchester City"
 - "Manchester United"
 image: "https://i.imgur.com/Nxckonr.jpeg"
+
 ---
 
 It is a product of Manchester City's overload on the left, and the way they pass left to right, that the left half-space run is always open. They found the run of Phil Foden against Manchester United and it finally resulted in a goal.

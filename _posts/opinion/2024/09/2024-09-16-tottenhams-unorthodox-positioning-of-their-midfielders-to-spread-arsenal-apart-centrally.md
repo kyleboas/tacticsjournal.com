@@ -8,6 +8,7 @@ tags:
 - "Arsenal"
 - "Tottenham"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/16/Image-16Sep2024_00:34:52.png"
+
 ---
 
 Tottenham midfielders James Maddison and Dejan Kulusevski spread far apart uncharacteristically when in possession in Arsenal's half, forcing their markers Jorginho and Thomas Partey to follow them. That affected Arsenal's ability to immediately counter.

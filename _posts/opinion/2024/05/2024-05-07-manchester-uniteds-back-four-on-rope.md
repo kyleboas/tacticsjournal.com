@@ -9,6 +9,7 @@ tags:
 - "Crystal Palace"
 image: "https://i.imgur.com/g8xsFLF.jpeg"
 tweet: "Gary Neville detailed on @WeAreTheOverlap how Manchester United's class of '92 used to train and the 'back four would be on rope.' Draw that rope on the current United back four against Crystal Palace and you can better see their aggressive positioning."
+
 ---
 
 Gary Neville details the training the Manchester United class of '92 went through, in the youth squad, on [The Overlap podcast](https://x.com/wearetheoverlap/status/1787150413340324135?s=46&t=YC8lQJTh43E_mBQW40Ct2g):

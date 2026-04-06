@@ -7,6 +7,7 @@ categories:
 tags: 
 - "Manchester United" 
 image: "https://i.imgur.com/heARUhe.jpg"
+
 --- 
 
 May 26, 2023 — Manchester United were narrow and at times unruly in defending against Chelsea yesterday. Their full-backs kept getting dragged inside, opening up space on the wings.
