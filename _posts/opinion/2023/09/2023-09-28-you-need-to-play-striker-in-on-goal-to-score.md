@@ -8,7 +8,6 @@ tags:
 - "Chelsea"
 - "Brighton"
 image: "https://i.imgur.com/JJOWf0t.jpg"
-
 ---
 
 September 28, 2023 — The major problem for Chelsea was no central progression into Nicolas Jackson. They fixed this issue through Cole Palmer against Brighton, and he scored after a string of missed chances.

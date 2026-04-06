@@ -3,7 +3,6 @@ layout: post
 date: 2024-05-29 11:00 UTC
 title: "Positional Laggards"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_22:22:26.png?raw=true"
-
 ---
 
 [Steve Jobs unveiled the iPhone in 2007](https://youtu.be/MnrJzXM7a6o?si=NfZCia2xPugoI1hP). It changed the way the world works. Every year since it was refined, the competition caught up, to the point now where every phone looks the same. This is where I feel we are with positional play in attack.

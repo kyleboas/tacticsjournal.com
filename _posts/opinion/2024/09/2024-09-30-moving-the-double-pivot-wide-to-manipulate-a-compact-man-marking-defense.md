@@ -11,7 +11,6 @@ tags:
 - "Bayern Munich"
 - "Bayern Leverkusen"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/29/Image-29Sep2024_19:00:07.png"
-
 ---
 
 When in their own half, both Manchester City and Bayern Munich moved their pivot out of the way to have a midfielder drop into the space they vacated to open up a clean pass through the center of Newcastle and Bayern Leverkusen's compact defense.

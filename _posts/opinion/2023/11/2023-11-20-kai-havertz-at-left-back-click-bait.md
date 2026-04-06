@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 - "Germany"
 image: "https://i.imgur.com/8DkAx09.jpg"
-
 ---
 
 If you say "Kai Havertz played at left-back for Germany," you would assume he's sitting back to the left of a center-back. You are picturing one thing, but in actuality, he played a much more advanced role. A role he has played this year at Arsenal during preseason.

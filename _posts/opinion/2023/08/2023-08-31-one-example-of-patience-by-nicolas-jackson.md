@@ -8,7 +8,6 @@ categories:
 tags:
 - "Chelsea"
 image: "https://i.imgur.com/ssHKyfQ.jpg"
-
 ---
 
 August 31, 2023 — Chelsea is on the counter with Nicolas Jackson running forward with the ball. He waits for the two defenders to run towards Enzo Fernandez before making the killer final pass into the box.

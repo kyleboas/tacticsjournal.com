@@ -8,7 +8,6 @@ categories:
 tags:
 - "Bayer Leverkusen"
 image: "https://i.imgur.com/hZkdgjS.jpeg"
-
 ---
 
 Rather than staying in-line with West Ham's back line, Bayer Leverkusen center-forward Patrik Schick moves into an offside position with separation, observes, and then checks to the ball. He is always out of view of the defender until he's needed.

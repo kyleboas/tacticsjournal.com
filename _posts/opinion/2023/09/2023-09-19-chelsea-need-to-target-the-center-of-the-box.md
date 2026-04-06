@@ -11,7 +11,6 @@ tags:
 - "Brighton"
 - "Tottenham"
 image: "https://i.imgur.com/NnTLUv6.jpg"
-
 ---
 
 September 19, 2023 — You want your center-forward receiving the ball in the center of the box. Where they receive the ball, the speed and quality of the pass needs to be taken into account when measuring underperformance. Chelsea needs to focus more on attacking the danger zone.

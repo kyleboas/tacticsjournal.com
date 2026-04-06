@@ -8,7 +8,6 @@ tags:
 - "Liverpool"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/29/Image-29Sep2024_00:13:59.png"
 tweet: "There is no point in Liverpool having a quick center-forward like Darwin Nunez if he is behind Mohamed Salah when he receives the ball on the halfway line. They should always want to have him positioned in line with Salah to provide that immediate run..."
-
 ---
 
 There is no point in Liverpool having a quick center-forward like Darwin Nunez if he is behind Mohamed Salah when he receives the ball on the halfway line. They should always want to have him positioned in line with Salah to provide that immediate run.

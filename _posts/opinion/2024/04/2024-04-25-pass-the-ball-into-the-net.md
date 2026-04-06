@@ -8,7 +8,6 @@ tags:
 - "Liverpool"
 - "Everton"
 image: "https://i.imgur.com/owHyFo3.jpeg"
-
 ---
 
 Liverpool should learn from Everton defender Jarrad Branthwaite and pass the ball into the net. They generate a ton of chances but there's little control on the shot, it's full power or nothing. Pick a corner and pass. 

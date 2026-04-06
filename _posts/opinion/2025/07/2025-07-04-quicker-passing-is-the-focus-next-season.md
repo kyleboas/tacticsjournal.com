@@ -3,7 +3,6 @@ layout: post
 date: 2025-07-04 11:00 UTC
 title: "Quicker passing is the focus next season"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/07/03/Image-03Jul2025_23:33:24.png"
-
 ---
 
 Quicker passing is the focus for next season, and that will force teams to overload the center more because you need numbers in close proximity to make those quick passes work. 

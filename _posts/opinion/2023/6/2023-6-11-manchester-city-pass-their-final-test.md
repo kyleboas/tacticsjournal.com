@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 - "Inter" 
 image: "https://i.imgur.com/yR6z1hZ.jpg"
-
 ---
 
 June 11, 2023 — Manchester City passed all seven challenges I set out before the match yesterday to beat Inter in the Champions League Final.

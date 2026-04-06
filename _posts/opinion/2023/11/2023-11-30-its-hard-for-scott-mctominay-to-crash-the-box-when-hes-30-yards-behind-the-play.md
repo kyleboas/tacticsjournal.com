@@ -7,7 +7,6 @@ categories:
 tags:
 - "Manchester United"
 image: "https://i.imgur.com/z0jZP1Q.jpg"
-
 ---
 
 Scott McTominay, one of Manchester United's best box crashers, is currently playing as a box-to-box midfielder with increased responsibilities in the first phase. His position deep limits his impact in goal-scoring opportunities. He must always be positioned higher up the field.

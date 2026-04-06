@@ -9,7 +9,6 @@ tags:
 - "Manchester United"
 - "Manchester City"
 image: "https://i.imgur.com/c846xlG.jpg"
-
 --- 
 
 June 4, 2023 — Manchester United’s piston press opened up too much space between the lines, allowing Manchester City to advance into United’s half too easily. 

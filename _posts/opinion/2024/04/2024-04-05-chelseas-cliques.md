@@ -8,7 +8,6 @@ tags:
 - "Manchester United"
 - "Chelsea"
 image: "https://i.imgur.com/rCj2Je8.jpg"
-
 ---
 
 The selfishness to try to do it all on your own and the lack of movement when the creators have the ball, because they only pass to each other, for me, is the reason why Chelsea have trouble maintaining leads past the 30 minute mark.

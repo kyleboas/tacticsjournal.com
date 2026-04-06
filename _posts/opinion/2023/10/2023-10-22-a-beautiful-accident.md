@@ -8,7 +8,6 @@ tags:
 - "Chelsea"
 - "Arsenal"
 image: "https://i.imgur.com/P3RD6GX.jpg"
-
 ---
 
 It's a rainy Stamford Bridge, so it's a sloppy match, one that favors Chelsea just because they're at home. Lots of errant passes from Arsenal to start.

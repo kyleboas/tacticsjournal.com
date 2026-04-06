@@ -7,7 +7,6 @@ categories:
 tags:
 - "Tottenham"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/07/Image-07Aug2025_14:43:39.png"
-
 ---
 
 Tottenham manager Thomas Frank is anti-chaos but not risk-averse. They take necessary risks but only in the right conditions. The football is super simple. It is similar to Nuno Espirito Santo's defend-to-counter blueprint at Nottingham Forest.

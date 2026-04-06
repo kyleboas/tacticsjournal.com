@@ -9,7 +9,6 @@ tags:
 - "Brighton"
 - "Marseille"
 image: "https://i.imgur.com/2E7oJ2L.jpg"
-
 ---
 
 Joao Pedro anticipates this passing sequence, moves back, and makes the run forward before Pascal Gross receives the ball. This proactiveness is a consequence of Brighton's practiced passing patterns that are predictable.

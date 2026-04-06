@@ -3,7 +3,6 @@ layout: post
 date: 2024-11-26 11:00 UTC
 title: "The lessons from chess players that want more spontaneity"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/24/Image-24Nov2024_20:52:50.png"
-
 ---
 
 World Chess Champion Magnus Carlsen is abandoning classical chess for another new format. Players say they “want games that are spontaneous tests of chess skill rather than endless duels of memorized sequences.” Sounds familiar when compared to football.

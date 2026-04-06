@@ -11,7 +11,6 @@ tags:
 - "PSG"
 image: "https://i.imgur.com/j5mItJT.jpeg"
 tweet: "Luis Enrique says PSG kept Nuno Mendes back in the rest-defense to protect 'the left side and allow a 2v1 against Bradley Barcola to be in position for each long ball' from Dortmund. A lot of responsibility was placed on Dembélé out-of-possession."
-
 ---
 
 Luis Enrique in a [post-match press conference](https://youtu.be/zdAUKgwiK18?si=jx7k5NVFi8vVN_FS) explaining how PSG prepared to defend the long ball against Borussia Dortmund:

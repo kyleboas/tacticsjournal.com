@@ -8,7 +8,6 @@ tags:
 - "Aston Villa"
 - "Tottenham"
 image: "https://i.imgur.com/aNoNU27.jpeg"
-
 ---
 
 Konsa moves in at an angle where his hips facing the left foot of Son. He needs to block off the pass to Maddison and Johnson with the full width of his legs. Do that and Tottenham can't progress past Aston Villa. They can't pass inside, and the pass to Udogie is covered. Son is trapped.

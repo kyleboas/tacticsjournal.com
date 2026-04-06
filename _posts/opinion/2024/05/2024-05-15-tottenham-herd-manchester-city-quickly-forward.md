@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 - "Manchester City"
 image: "https://i.imgur.com/81b3Yy5.jpeg"
-
 ---
 
 Manchester City want control so they can defend with the ball, but Tottenham forced them to play a game of many transitions by pressing them from behind. That forced them to only play forward, offering them no opportunities to command play.

@@ -9,7 +9,6 @@ tags:
 - "USA"
 - "Uruguay"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/04/Image-04Jul2024_23:32:23.png"
-
 ---
 
 Left-back Antonee Robinson pushed forward to the front line when the USA had the ball, but none of the midfielders covered for him. To negate that threat, Uruguay targeted the opposite side of the pitch, showcasing a way to control an advanced fullback.

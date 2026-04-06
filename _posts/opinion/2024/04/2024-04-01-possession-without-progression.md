@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 - "Arsenal"
 image: "https://i.imgur.com/UxzWn5b.jpeg"
-
 ---
 
 When Arsenal sat back, the onus was on Manchester City to take risks. More progression and less possession. Possession without progression is defending with the ball, which is worse than sitting back. There were gaps, but the ball needs to be played in.

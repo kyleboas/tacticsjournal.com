@@ -8,7 +8,6 @@ tags:
 - "Atletico Madrid"
 - "Girona"
 image: "https://i.imgur.com/TzoT4rP.jpeg"
-
 ---
 
 Outside of their finishing, Girona's ability to move without hesitation is what impresses me the most. They lose the ball then immediately set up a perfectly choreographed counter-press, which cuts off the pass forward and forces Atletico Madrid back.

@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 - "Arsenal"
 image: "https://i.imgur.com/BMqI76d.jpg"
-
 ---
 
 September 26, 2023 — Attempting to dribble through Arsenal's defense is like navigating through a dense thicket of tall trees. One lanky player sticks out a leg, you get by, and then another. But a relentless Tottenham eventually forced mistakes.

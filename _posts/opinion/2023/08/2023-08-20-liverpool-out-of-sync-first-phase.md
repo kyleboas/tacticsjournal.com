@@ -7,7 +7,6 @@ categories:
 tags:
 - "Liverpool"
 image: "https://i.imgur.com/GPFF0c3.jpg"
-
 ---
 
 August 20, 2023 — Liverpool appeared unsettled against Bournemouth in the first phase due to a mix of imbalances and wayward touches. However, they improved as the game progressed.

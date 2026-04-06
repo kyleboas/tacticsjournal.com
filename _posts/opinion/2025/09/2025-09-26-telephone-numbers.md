@@ -3,7 +3,6 @@ layout: post
 date: 2025-09-26 11:00 UTC
 title: "Telephone numbers"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/25/Image-25Sep2025_19:56:43.png"
-
 ---
 
 Numbers like 4-4-2, 4-3-3, 3-4-3, and 5-2-3 describe the formation to help us quickly visualize how players are arranged on the pitch, but that is our interpretation of the tactic. What is being communicated by the coach to the players is what matters.

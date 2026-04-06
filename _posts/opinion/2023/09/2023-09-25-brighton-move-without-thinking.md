@@ -7,7 +7,6 @@ categories:
 tags:
 - "Brighton"
 image: "https://i.imgur.com/cUEYZtv.jpg"
-
 ---
 
 September 25, 2023 — Brighton moves in ways that I've never seen from a team. Players execute movements without thinking. All 11 men are aligned.

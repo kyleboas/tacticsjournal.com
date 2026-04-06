@@ -9,7 +9,6 @@ tags:
 - "Manchester City"
 - "Real Madrid"
 image: "https://i.imgur.com/zklx14T.jpeg"
-
 ---
 
 Manchester City were hamstrung to start against Real Madrid because they didn't trust Foden to play as a holding midfielder. They could skip the first step by having Foden wide left instead of Silva, to keep Silva at right-wing the whole match.

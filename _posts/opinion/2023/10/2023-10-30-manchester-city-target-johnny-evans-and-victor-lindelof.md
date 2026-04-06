@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 - "Manchester United"
 image: "https://i.imgur.com/roDGw0j.jpg"
-
 ---
 
 Manchester City went with a familiar group of players from last season rather than including newer faces like Jérémy Doku, Mateo Kovacic, or Matheus Nunes. They come into this game frustrated that they aren't in first place. To win the Premier League this season, you need to be near perfect. Experience in the lineup helps turn the tide and start winning runs.

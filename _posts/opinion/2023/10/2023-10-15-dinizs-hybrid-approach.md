@@ -6,7 +6,6 @@ tags:
 - "Brazil"
 - "Relationism"
 image: "https://i.imgur.com/YXSK0z3.jpg"
-
 ---
 
 Attempting to impose principles of relationism on eleven Brazilians who are accustomed to the European way of life is challenging, as manager Fernando Diniz is finding.

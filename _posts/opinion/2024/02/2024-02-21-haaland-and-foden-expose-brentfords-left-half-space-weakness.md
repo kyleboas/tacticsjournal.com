@@ -8,7 +8,6 @@ tags:
 - "Brentford"
 - "Manchester City"
 image: "https://i.imgur.com/bnyq3Ti.jpeg"
-
 ---
 
 Erling Haaland and Phil Foden exposed the space in the left half-space behind Brentford's defense, but Manchester City ignored their runs on several occasions. Play the ball into that space and it's a simple cut-back and tap-in. 

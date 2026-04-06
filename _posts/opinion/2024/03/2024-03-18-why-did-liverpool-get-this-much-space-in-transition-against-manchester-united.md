@@ -9,7 +9,6 @@ tags:
 - "Manchester United"
 - "Liverpool"
 image: "https://i.imgur.com/DJ5x8tD.jpg"
-
 ---
 
 There was a moment after a corner kick when Manchester United allowed Liverpool to have about 40 yards of space in transition. This is an extreme example but not an isolated incident in what is a puzzling approach to defending by Ten Hag.

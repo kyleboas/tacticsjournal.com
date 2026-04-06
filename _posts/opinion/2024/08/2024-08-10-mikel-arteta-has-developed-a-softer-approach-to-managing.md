@@ -7,7 +7,6 @@ categories:
 tags:
 - "Arsenal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/09/Image-09Aug2024_02:55:07.png"
-
 ---
 
 From the outside we see the players on the pitch or in front of cameras, how they move, and the result. The coach sees the players as people and the experienced managers, like Arsenal manager Mikel Arteta, focus more on the human instead of the tactics.

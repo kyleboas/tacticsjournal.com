@@ -3,7 +3,6 @@ layout: post
 date: 2024-03-19 08:00 UTC
 title: "30 passes and 16 heart-attacks"
 image: "https://i.imgur.com/JMoBrxu.png"
-
 ---
 
 Former Rennes, Chelsea, and Arsenal goalkeeper, Petr Čech's detailed explanation on his pros and cons of playing out from the back, and how there needs to be balance between kicking the ball long to avoid the "30 passes and 16 heart-attacks" short. 

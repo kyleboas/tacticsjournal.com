@@ -6,7 +6,6 @@ categories:
 - "Premier League"
 tags:
 - "Manchester United"
-
 ---
 
 When Manchester United manager Sir Alex Ferguson appointed René Meulensteen his assistant manager, he told him, “Basically, I've written down here that when I close my eyes, this is the best Man United that I see.” Here is what he told him.

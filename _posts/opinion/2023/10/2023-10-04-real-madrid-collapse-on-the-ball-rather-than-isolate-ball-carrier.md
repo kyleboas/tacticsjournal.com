@@ -10,7 +10,6 @@ tags:
 - "Union Berlin"
 - "Napoli"
 image: "https://i.imgur.com/NvbGDq2.jpg"
-
 ---
 
 October 4, 2023 — Real Madrid did a better job of remaining compact to combine and play closer together against Napoli rather than back away from the ball to wait for the cross or long ball against Union Berlin.

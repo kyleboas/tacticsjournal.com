@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 - "Tottenham"
 image: "https://i.imgur.com/tDMIr6o.jpeg"
-
 ---
 
 Declan Rice's surgically precise and consistent delivery from the left-side into the six-yard for Arsenal, paired with with the aerial prowess of his targets, Gabriel and Havertz, makes this world football's most reproducible corner kick routine.

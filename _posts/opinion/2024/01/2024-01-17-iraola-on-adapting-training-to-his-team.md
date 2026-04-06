@@ -7,7 +7,6 @@ categories:
 tags:
 - "Bournemouth"
 image: "https://i.imgur.com/A4VmR9d.jpeg"
-
 ---
 
 Bournemouth manager Andoni Iraola explains why, in a world where information is easy to access, it's not difficult to emulate what other coaches are doing in training, but highlights the importance of creating exercises to fit a team's needs.
