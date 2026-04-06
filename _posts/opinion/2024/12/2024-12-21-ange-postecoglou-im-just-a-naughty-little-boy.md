@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/20/Image-20Dec2024_18:52:58.png"
 
-permalink: "/opinion/2024/12/21/ange-postecoglou-im-just-a-naughty-little-boy/"
 ---
 
 I think this is what makes Tottenham manager Ange Postecoglou relatable for some because he wants to be remembered. Many of us are not comfortable with being unmemorable.

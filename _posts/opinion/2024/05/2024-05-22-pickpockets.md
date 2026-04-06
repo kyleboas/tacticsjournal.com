@@ -10,7 +10,6 @@ tags:
 - "Relationism"
 image: "https://i.imgur.com/ZIH6o5Q.jpeg"
 
-permalink: "/opinion/2024/05/22/pickpockets/"
 ---
 
 As Malmö manager Henrik Rydstrom says, "You think you see everything, but there is so much going on." Their overloads promote quick passing through diagonals that breakdown closed defensive structures, which traps the opposition attack in their own end.

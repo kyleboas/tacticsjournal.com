@@ -4,7 +4,6 @@ date: 2024-12-04 12:00 UTC
 title: "Red cards ruin games"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/03/Image-03Dec2024_17:38:56.png"
 
-permalink: "/opinion/2024/12/04/red-cards-ruin-games/"
 ---
 
 A red card is a necessary evil in football, but it can ruin a match. Player goes off; it's his fault he should, and then the matchups get thrown out the window. The game slows, and every positive action from the team down to ten men is seen as a triumph.

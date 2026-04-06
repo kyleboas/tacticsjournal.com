@@ -8,7 +8,6 @@ tags:
 - "Juventus"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/05/Image-05Jun2024_01:49:52.png?raw=true"
 
-permalink: "/opinion/2024/06/05/thiago-motta-to-juventus/"
 ---
 
 I am very fascinated to see what Thiago Motta will bring to Juventus next season. Add versatility, remove the one-dimensional players, sign one of the best goalkeepers in Europe, and platform the youth players by not repressing their ability to think for themselves.

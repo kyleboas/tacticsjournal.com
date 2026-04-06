@@ -10,7 +10,6 @@ tags:
 - "Liverpool"
 - "Aston Villa"
 image: "https://i.imgur.com/BOZU4t1.jpg"
-permalink: /The-space-Manuel Akanji-positioning-creates/
 ---
 
 April 27, 2023 — Manuel Akanji, for Manchester City, was trialed at left-back when they faced Arsenal yesterday, and some of the habits he had on the right were transferred over when he played on the left.

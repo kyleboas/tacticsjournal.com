@@ -11,7 +11,6 @@ tags:
 - "Real Madrid"
 image: "https://i.imgur.com/Ixo4Quu.jpg"
 
-permalink: "/opinion/2024/04/10/manchester-citys-creative-space-ahead-of-real-madrids-midfield/"
 ---
 
 John Stones inverted from center-back into the midfield, occupying space in the pocket between Real Madrid's midfield and forwards. Manchester City lacked runners and a creator to distribute the ball quickly into the channels ahead.

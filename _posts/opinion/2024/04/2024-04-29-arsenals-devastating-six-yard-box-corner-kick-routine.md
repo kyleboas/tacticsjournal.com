@@ -9,7 +9,6 @@ tags:
 - "Tottenham"
 image: "https://i.imgur.com/tDMIr6o.jpeg"
 
-permalink: "/opinion/2024/04/29/arsenals-devastating-six-yard-box-corner-kick-routine/"
 ---
 
 Declan Rice's surgically precise and consistent delivery from the left-side into the six-yard for Arsenal, paired with with the aerial prowess of his targets, Gabriel and Havertz, makes this world football's most reproducible corner kick routine.

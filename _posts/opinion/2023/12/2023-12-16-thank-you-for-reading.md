@@ -4,7 +4,6 @@ date: 2023-12-16 08:00 UTC
 title: "Thank You For Reading"
 image: "https://i.imgur.com/9MnmTTo.jpg"
 
-permalink: "/opinion/2023/12/16/thank-you-for-reading/"
 ---
 
 Last December, I started writing about football. I watch a lot of football but I have never coached. I have no experience in "analyzing football tactics." This is you watching me learn. You choose to read my thoughts, and I thank you for that!

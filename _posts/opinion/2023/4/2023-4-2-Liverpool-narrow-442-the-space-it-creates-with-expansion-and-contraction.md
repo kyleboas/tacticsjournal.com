@@ -8,7 +8,6 @@ tags:
 - Manchester City 
 - Liverpool
 image: https://i.imgur.com/PIONpK1.jpg
-permalink: /Liverpool-narrow-442-the-space-it-creates-with-expansion-and-contraction/
 ---
 
 April 1, 2023 — Liverpool defended too narrowly against Manchester City when out of possession, which led to large amounts of space being open in the wide areas. Liverpool's front six midfielders and forwards often became detached from their backline once the ball was played wide to either one of Man City's center-midfielders or wingers.

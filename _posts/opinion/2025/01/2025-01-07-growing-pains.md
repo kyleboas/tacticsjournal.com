@@ -4,7 +4,6 @@ date: 2025-01-07 12:00 UTC
 title: "Growing pains"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/06/Image-06Jan2025_20:46:02.png"
 
-permalink: "/opinion/2025/01/07/growing-pains/"
 ---
 
 Do you know that time in your teenage years when you grew a few inches taller, and your joints ached? That is called growing pains, and the same thing happens to teams that ignore their need to rotate the lineup.

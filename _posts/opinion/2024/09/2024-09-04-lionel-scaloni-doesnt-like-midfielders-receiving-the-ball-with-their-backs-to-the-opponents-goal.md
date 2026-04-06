@@ -8,7 +8,6 @@ tags:
 - "Argentina"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/03/Image-03Oct2024_00:59:32.png"
 
-permalink: "/opinion/2024/09/04/lionel-scaloni-doesnt-like-midfielders-receiving-the-ball-with-their-backs-to-the-opponents-goal/"
 ---
 
 Argentina manager Lionel Scaloni forbids his players from passing the ball to a midfielder "if the midfielder, in addition to having his back to the opponent's goal, has an opponent pressing him." 

@@ -9,7 +9,6 @@ tags:
 - "Manchester United"
 - "Brighton"
 image: "https://i.imgur.com/x5fQINs.jpg"
-permalink: /How-Manchester-United-man-to-man-marking-weakened-Brighton-buildup/
 ---
 
 April 23, 2023 — Brighton’s normal buildup was nullified by Manchester United’s tight man-to-man marking in the FA Cup semi-final match, similar to [how United stopped Manchester City](https://tacticsjournal.com/2023-1-20-Man-City-2-3-with-inverted-lb-or-rb-leaves-them-too-vulnerable/). 

@@ -7,7 +7,6 @@ categories:
 tags:
 - "Tottenham"
 
-permalink: "/opinion/2024/12/06/joe-hart-on-ange-postecoglou-id-do-anything-for-you/"
 ---
 
 Joe Hart spoke about a conversation he had with then Celtic manager, Ange Postecoglou, before signing with the team. A conversation that showcases the class of man management that Tottenham has and why players will do anything for him.

@@ -11,7 +11,6 @@ tags:
 - "Bayern Munich"
 image: "https://i.imgur.com/TEdJTvj.jpeg"
 
-permalink: "/opinion/2024/05/09/ones-that-dont-do-anything-won/"
 ---
 
 Vinicius Jr. cut-back pass, Bayern Munich loses the ball, Vinicius Jr. cut-back pass, Neuer save, Bayern Munich loses the ball, Vinicius Jr. cut-back pass, Neuer error. The beauty of the way Real Madrid comes from Carlo Ancelotti being more hands-off.

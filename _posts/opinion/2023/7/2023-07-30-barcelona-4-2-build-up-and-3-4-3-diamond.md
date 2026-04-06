@@ -9,7 +9,6 @@ tags:
 - "Barcelona"
 image: "https://i.imgur.com/I9g8KaW.jpg"
 
-permalink: "/opinion/2023/07/30/barcelona-4-2-build-up-and-3-4-3-diamond/"
 ---
 
 July 30, 2023 — Barcelona’s four-man midfield shifts from a 4-2 sub-structure in the build-up to a 3-4-3 diamond once they break into the middle third.

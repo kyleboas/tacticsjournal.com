@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 - "Manchester United"
 
-permalink: "/opinion/2024/12/08/amad-diallo-is-playing/"
 ---
 
 If people think Bernardo Silva is playing right wing for Manchester City, why do we then label Amad Diallo a right wing-back for Manchester United, when for all intents and purposes, both players operate nearly the same out wide, in and out of possession?

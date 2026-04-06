@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/QQu15ju.jpeg"
 
-permalink: "/opinion/2024/04/07/arsenal-reinvented-the-wheel/"
 ---
 
 Unprovoked, they experimented and broke down their team's dynamics. They built back towards what worked last season after the experiments failed, and have improved upon that winning formula. Arsenal will forever be a mystery to me because of how good they now look.

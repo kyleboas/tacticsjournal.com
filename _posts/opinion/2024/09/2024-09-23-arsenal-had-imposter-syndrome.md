@@ -9,7 +9,6 @@ tags:
 - "Arsenal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/22/Image-22Sep2024_15:41:48.png"
 
-permalink: "/opinion/2024/09/23/arsenal-had-imposter-syndrome/"
 ---
 
 It is mind boggling to me why Arsenal do not play like they did in the first half every time they play Manchester City away from home. A title-winning team plays like that. On the front foot, pressuring the opponent into mistakes. They have enough quality to do it.

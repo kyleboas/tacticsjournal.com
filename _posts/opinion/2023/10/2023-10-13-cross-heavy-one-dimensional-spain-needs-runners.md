@@ -7,7 +7,6 @@ tags:
 - "Scotland"
 image: "https://i.imgur.com/ZGxhlao.jpg"
 
-permalink: "/opinion/2023/10/13/cross-heavy-one-dimensional-spain-needs-runners/"
 ---
 
 Spain needs runners like Ferran Torres and Oihan Sancet to open the wings up for the cross, but that was their only method to enter the box. They are very predictable.

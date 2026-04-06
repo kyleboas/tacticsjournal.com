@@ -9,7 +9,6 @@ tags:
 - "AC Milan"
 image: "https://i.imgur.com/o2XFabL.jpg"
 
-permalink: "/opinion/2023/10/26/ac-milan-allows-psg-to-walk-through-the-midfield/"
 ---
 
 Rafael Leao and Christian Pulisic weren't involved once PSG got past the first phase. This left midfielders Yunus Musah, Rade Krunic, and Tijani Reijnders on an island in the middle, tasked to run around like chickens with their heads cut off, trying to stop PSG's midfield three and Hakimi.

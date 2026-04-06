@@ -9,7 +9,6 @@ tags:
 - "Manchester City"
 image: "https://i.imgur.com/mNrv6ua.jpeg"
 
-permalink: "/opinion/2024/03/09/how-manchester-city-can-prevent-a-basketball-game-against-liverpool/"
 ---
 
 Once the ball crosses the half-way line, Manchester City must make immediate physical contact with the man receiving before their second touch. That is one of the ways they will stop the Liverpool match from becoming a basketball game. 

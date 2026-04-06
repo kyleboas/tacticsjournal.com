@@ -4,7 +4,6 @@ date: 2025-01-31 12:00 UTC
 title: "Eastman 910 adhesive"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/30/Image-30Jan2025_22:16:03.png"
 
-permalink: "/opinion/2025/01/31/eastman-910-adhesive/"
 ---
 
 I stopped focusing on analyzing individual games or moments within games to share original ideas based on real events. Timeless pieces of information and ideas that you could apply to any situation, past or present.

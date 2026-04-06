@@ -6,7 +6,6 @@ tags:
 - "Chelsea"
 image: "https://i.imgur.com/W7QlGI4.jpg"
 
-permalink: "/opinion/2023/12/25/philadelphias-standing-ovation-for-trea-turner/"
 ---
 
 It is not possible for players to succeed in an environment where fans are gratified by their downfall. That feeling that you're allowed to make a mistake is necessary. Fans can learn from the story of Trea Turner and the Philadelphia Phillies' fans.

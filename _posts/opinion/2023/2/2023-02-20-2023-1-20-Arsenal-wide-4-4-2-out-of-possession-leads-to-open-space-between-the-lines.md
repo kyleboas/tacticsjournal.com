@@ -7,7 +7,6 @@ tags:
 - Arsenal
 layout: post
 image: https://i.imgur.com/ryXiOBB.jpg
-permalink: /Arsenal-wide-4-4-2-out-of-possession-leads-to-open-space-between-the-lines/
 ---
 
 February 20, 2023 — In Arsenal's match against Aston Villa on February 18, 2023, they employed a wide 4-4-2 formation when out of possession, which, paired with the static movement of their defenders on the far side, created a lot of space for Aston Villa between the lines.

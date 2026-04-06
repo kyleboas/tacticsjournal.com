@@ -9,7 +9,6 @@ tags:
 - "Barcelona"
 image: "https://i.imgur.com/TYzxlz9.jpg"
 
-permalink: "/opinion/2023/10/31/jude-bellingham-the-worlds-best-interpreter-of-space/"
 ---
 
 

@@ -9,7 +9,6 @@ tags:
 - "Liverpool"
 image: "https://i.imgur.com/VhWMWbd.jpg"
 
-permalink: "/opinion/2023/08/14/chelsea-hesitate-to-play-nicolas-jackson-in/"
 ---
 
 August 14, 2023 — Chelsea hesitated to play the pass in to Nicolas Jackson against Liverpool on several occasions, wasting high-quality chances. 

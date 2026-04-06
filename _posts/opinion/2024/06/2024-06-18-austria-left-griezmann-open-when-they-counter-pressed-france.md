@@ -9,7 +9,6 @@ tags:
 - "France"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/18/Image-18Jun2024_00:05:42.png?raw=true"
 
-permalink: "/opinion/2024/06/18/austria-left-griezmann-open-when-they-counter-pressed-france/"
 ---
 
 When the ball was in France's half, Austria aggressively counter-pressed, but when you press like they did, you have to leave someone open. They left Griezmann free on the right, and it could have cost them a goal if France found the pass into Griezmann.

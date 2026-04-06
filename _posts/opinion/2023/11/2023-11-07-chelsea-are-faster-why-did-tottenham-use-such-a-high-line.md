@@ -9,7 +9,6 @@ tags:
 - "Chelsea"
 image: "https://i.imgur.com/tUVFhnS.jpg"
 
-permalink: "/opinion/2023/11/07/chelsea-are-faster-why-did-tottenham-use-such-a-high-line/"
 ---
 
 Tottenham's high line was extreme and artless. A game of who will beat who in a foot race, or who will play the correctly weighted pass, because Chelsea are faster.

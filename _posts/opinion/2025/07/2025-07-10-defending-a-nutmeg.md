@@ -4,7 +4,6 @@ date: 2025-07-10 11:00 UTC
 title: "Defending a nutmeg"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/07/09/Image-09Jul2025_22:06:12.png"
 
-permalink: "/opinion/2025/07/10/defending-a-nutmeg/"
 ---
 
 I have never understood the emphasis on a nutmeg, as it is immediately seen as a negative for the defender. You have to put that "mistake" into context if they are showing the dribbling attacker to one side.

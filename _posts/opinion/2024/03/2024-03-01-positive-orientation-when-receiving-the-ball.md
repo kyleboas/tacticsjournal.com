@@ -4,7 +4,6 @@ date: 2024-03-01 08:00 UTC
 title: "Positive orientation when receiving the ball"
 image: "https://i.imgur.com/Qog4zud.png"
 
-permalink: "/opinion/2024/03/01/positive-orientation-when-receiving-the-ball/"
 ---
 
 Pep Guardiola focuses on orienting the body to receive the ball to continue forward. Never with your back to the goal. Always positive moving forward.

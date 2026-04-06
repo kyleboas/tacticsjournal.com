@@ -10,7 +10,6 @@ tags:
 - "Manchester City"
 image: "https://i.imgur.com/c846xlG.jpg"
 
-permalink: "/opinion/2023/06/04/manchester-united-piston-press-affords-manchester-city-too-much-space-centrally/"
 --- 
 
 June 4, 2023 — Manchester United’s piston press opened up too much space between the lines, allowing Manchester City to advance into United’s half too easily. 

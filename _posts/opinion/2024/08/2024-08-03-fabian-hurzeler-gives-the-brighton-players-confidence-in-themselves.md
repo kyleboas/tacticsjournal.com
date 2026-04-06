@@ -8,7 +8,6 @@ tags:
 - "Brighton"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/01/Image-01Aug2024_23:50:46.png"
 
-permalink: "/opinion/2024/08/03/fabian-hurzeler-gives-the-brighton-players-confidence-in-themselves/"
 ---
 
 Brighton are very enjoyable to watch under new manager Fabian Hurzeler. Although he wouldn't want me to label them because they are fluid, the 3-4-3 diamond formation they used in the second half against Tokyo Verdy suits the players they have perfectly.

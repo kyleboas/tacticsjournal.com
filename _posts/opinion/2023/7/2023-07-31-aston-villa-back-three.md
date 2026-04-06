@@ -8,7 +8,6 @@ tags:
 - "Aston Villa"
 image: "https://i.imgur.com/QUutn9B.jpg"
 
-permalink: "/opinion/2023/07/31/aston-villa-back-three/"
 ---
 
 July 31, 2023 — Pau Torres slotted in at left center-back, with Tyrone Mings central, Eric Konsa on the right, and Matty Cash pushed forward up the right-wing in possession for Aston Villa. A back-three.

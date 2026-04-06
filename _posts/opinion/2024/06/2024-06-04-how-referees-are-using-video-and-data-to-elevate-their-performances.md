@@ -4,7 +4,6 @@ date: 2024-06-04 11:00 UTC
 title: "How referees are using video and data to elevate their performances"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/04/Image-04Jun2024_03:13:47.png?raw=true"
 
-permalink: "/opinion/2024/06/04/how-referees-are-using-video-and-data-to-elevate-their-performances/"
 ---
 
 Referees, like the managers and players, extensively review video and data analysis before the match to better help them anticipate where they need to position themselves on the pitch in a match.

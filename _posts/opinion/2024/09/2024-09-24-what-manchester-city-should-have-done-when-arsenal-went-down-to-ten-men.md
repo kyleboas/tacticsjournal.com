@@ -9,7 +9,6 @@ tags:
 - "Arsenal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/23/Image-23Sep2024_00:29:28.png"
 
-permalink: "/opinion/2024/09/24/what-manchester-city-should-have-done-when-arsenal-went-down-to-ten-men/"
 ---
 
 When Arsenal went down to ten men, I got an idea. Instead of having their defenders act as the providers and shooters, Manchester City could have moved two of their defenders to the front line, in the box, with Gvardiol and the forwards on the back line.

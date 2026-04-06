@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/07/Image-07Sep2024_00:25:28.png"
 
-permalink: "/opinion/2024/09/09/bernardo-silva-the-schedule-is-completely-crazy/"
 ---
 
 Manchester City midfielder Bernardo Silva thinks that the upcoming schedule is "absolutely absurd," and it is. It will be harder now more than ever to maintain a rhythm. He says that "the schedule is completely crazy."

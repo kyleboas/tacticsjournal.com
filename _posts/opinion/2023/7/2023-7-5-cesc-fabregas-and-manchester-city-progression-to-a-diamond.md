@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 image: /uploads/2023/07/04/Image-04Jul2023_12:41:36.jpeg
 
-permalink: "/opinion/2023/07/05/cesc-fabregas-and-manchester-city-progression-to-a-diamond/"
 ---
 
 July 5, 2023 — Cesc Fàbregas is going to be an incredible manager. He has a clear and descriptive way of translating things that happen on the pitch into simple terms.

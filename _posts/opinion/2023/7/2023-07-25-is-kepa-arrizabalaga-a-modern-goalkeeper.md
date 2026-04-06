@@ -9,7 +9,6 @@ tags:
 - "Brighton"
 image: "https://i.imgur.com/2YJ5ANP.jpg"
 
-permalink: "/opinion/2023/07/25/is-kepa-arrizabalaga-a-modern-goalkeeper/"
 ---
 
 July 25, 2023 — I was curious to see how good or bad Kepa Arrizabalaga's distribution was when Chelsea faced Brighton on Saturday. Here is every pass he made in that match.

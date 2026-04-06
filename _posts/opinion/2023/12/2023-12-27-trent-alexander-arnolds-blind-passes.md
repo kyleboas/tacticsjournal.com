@@ -9,7 +9,6 @@ tags:
 - "Burnley"
 image: "https://i.imgur.com/6hxo99p.jpg"
 
-permalink: "/opinion/2023/12/27/trent-alexander-arnolds-blind-passes/"
 ---
 
 Trent Alexander-Arnold should be more careful when he plays these blind passes forward. He receives, turns, and immediately attempts a medium pass. Liverpool concede a lot of high-quality chances from these misplaced passes.

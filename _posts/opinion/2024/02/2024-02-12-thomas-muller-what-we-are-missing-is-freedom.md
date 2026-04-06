@@ -9,7 +9,6 @@ tags:
 - "Leverkusen"
 image: "https://i.imgur.com/tnSwsgp.png"
 
-permalink: "/opinion/2024/02/12/thomas-muller-what-we-are-missing-is-freedom/"
 ---
 
 [An animated Thomas Müller described after the Bayer Leverkusen match](https://x.com/donotdistubr/status/1756474206336823510?s=46&t=YC8lQJTh43E_mBQW40Ct2g) what Bayern Munich are missing: "what we are missing is freedom" and "a certain level of player intelligence, with a certain degree of independence on the pitch."

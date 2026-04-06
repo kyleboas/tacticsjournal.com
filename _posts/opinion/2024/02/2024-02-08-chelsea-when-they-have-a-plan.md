@@ -9,7 +9,6 @@ tags:
 - "Chelsea"
 image: "https://i.imgur.com/aBb2NCg.jpeg"
 
-permalink: "/opinion/2024/02/08/chelsea-when-they-have-a-plan/"
 ---
 
 Chelsea were smartly set up in and out of possession against Aston Villa, using Palmer and Gallagher to shadow-cover up top, instead of Jackson. Jackson could win the ball wide and track Cash, then invert up top with Palmer in possession.

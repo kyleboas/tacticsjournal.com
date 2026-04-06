@@ -4,7 +4,6 @@ date: 2024-03-21 08:00 UTC
 title: "Football is a joy with responsibility"
 image: "https://i.imgur.com/vdCHQwS.png"
 
-permalink: "/opinion/2024/03/21/football-is-a-joy-with-responsibility/"
 ---
 
 Liverpool midfielder Thiago Alcántara goes through clips and explains his thought process. He talks like a coach. He's great at explaining his thinking simply in a way where you feel like it could be replicated with practice, but it's far from simple.

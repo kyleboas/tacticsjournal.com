@@ -11,7 +11,6 @@ tags:
 - "Manchester United"
 image: "https://i.imgur.com/BfvmDWi.jpg"
 
-permalink: "/opinion/2023/09/30/rhythm-size-of-squads-and-schedule/"
 ---
 
 September 30, 2023 — Pep Guardiola, when asked if he needs a bigger squad to cope with the number of games and the short time between them, stated, "[If] I can't handle managing games with just 11-14 players for a long time, I don't want to be a manager."

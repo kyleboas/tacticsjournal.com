@@ -8,7 +8,6 @@ tags:
 - "West Ham"
 - "Crystal Palace"
 image: "https://i.imgur.com/qYnBkQs.jpg"
-permalink: /West-Ham-and-Emperor-Penguins/
 ---
 
 April 29, 2023 — West Ham's defense has a tendency to be too compact, which gives space to attackers on the far-side. There has been a trend of back post goals over several matches with the same compact shape.

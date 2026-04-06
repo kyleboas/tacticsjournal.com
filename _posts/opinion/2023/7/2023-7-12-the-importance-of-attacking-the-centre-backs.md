@@ -6,7 +6,6 @@ tags:
 - "Manchester City"
 image: "https://i.imgur.com/kwH0n60.jpg"
 
-permalink: "/opinion/2023/07/12/the-importance-of-attacking-the-centre-backs/"
 ---
 
 July 12, 2023 — Pep Guardiola describes his first impressions of Andrés Iniesta and how he used runners to force center-backs to jump, unlocking space. 

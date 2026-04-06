@@ -9,7 +9,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/kaysVQF.jpg"
 
-permalink: "/opinion/2023/10/08/ruben-dias-knows-how-to-play-like-rodri/"
 ---
 
 There's a case to be made for Ruben Dias to play as the 6 for Manchester City in the absence of Rodri, as he is suspended for the match today against Arsenal.

@@ -8,7 +8,6 @@ tags:
 - "Liverpool"
 image: "https://i.imgur.com/GPFF0c3.jpg"
 
-permalink: "/opinion/2023/08/20/liverpool-out-of-sync-first-phase/"
 ---
 
 August 20, 2023 — Liverpool appeared unsettled against Bournemouth in the first phase due to a mix of imbalances and wayward touches. However, they improved as the game progressed.

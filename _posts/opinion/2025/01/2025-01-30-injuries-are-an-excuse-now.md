@@ -4,7 +4,6 @@ date: 2025-01-30 12:00 UTC
 title: "Injuries are an excuse now"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/29/Image-29Jan2025_20:37:01.png"
 
-permalink: "/opinion/2025/01/30/injuries-are-an-excuse-now/"
 ---
 
 The look of tiredness on the faces of the players has left me uninspired for many weeks. The opponent we face each week is not the other team; it is the schedule and those who make it. Do we want to make football a game of sacrifices?

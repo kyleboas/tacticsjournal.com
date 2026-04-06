@@ -10,7 +10,6 @@ tags:
 - "Newcastle"
 image: "https://i.imgur.com/ognuiOY.jpg"
 
-permalink: "/opinion/2023/12/21/nkunku-is-the-runner-chelsea-lacked/"
 ---
 
 Christopher Nkunku stood out for Chelsea when he came on against Newcastle because they have lacked runners behind the forwards this season. His explosive runs open space for others because it makes the opponent's defense retreat.

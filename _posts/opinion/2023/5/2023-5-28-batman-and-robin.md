@@ -8,7 +8,6 @@ tags:
 - "Inter" 
 image: "https://i.imgur.com/YdOQueT.jpg"
 
-permalink: "/opinion/2023/05/28/batman-and-robin/"
 ---
 
 May 28, 2023 — Pass into Romelu Lukaku with his back to the goal, hold up play, lay off a simple pass, and play someone into space. This efficient and assertive pattern of play sets Inter apart.

@@ -8,7 +8,6 @@ tags:
 - "Burnley"
 image: "https://i.imgur.com/iuegdYf.jpg"
 
-permalink: "/opinion/2023/08/04/burnley-basic-shape-in-and-out-of-possession/"
 ---
 
 August 4, 2023 — Burnley used a 3-2-2-3 box midfield with an inverted left-back against Real Betis in a preseason friendly. Goalkeeper James Trafford pushed forward to form a back-four in the first phase.

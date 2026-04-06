@@ -10,7 +10,6 @@ tags:
 - "Galatasaray"
 image: "https://i.imgur.com/WbzAeyM.jpg"
 
-permalink: "/opinion/2023/11/09/bayern-munich-dont-wait/"
 ---
 
 The thing I like about Bayern Munich is that they don't wait. They don't rush, but they are calculated when they start an attack. There are no wasted passes. No wasted runs.

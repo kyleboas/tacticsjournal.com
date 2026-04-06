@@ -8,7 +8,6 @@ tags:
 - "Manchester United"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/22/Image-22Nov2024_17:42:17.png"
 
-permalink: "/opinion/2024/11/24/it-is-not-just-coaching-the-team-at-manchester-united/"
 ---
 
 In his first press conference, Ruben Amorim mentioned that being a Manchester United manager is, in his words, “It’s not just coaching the team.” Does their club force their manager to do too much, and can it be hurting them on the pitch?

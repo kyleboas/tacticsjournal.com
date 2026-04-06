@@ -8,7 +8,6 @@ tags:
 - "PSG"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/15/Image-15Sep2025_16:10:13.png"
 
-permalink: "/opinion/2025/09/16/luis-enrique-starts-watching-psg-matches-from-the-stands-in-the-first-half/"
 ---
 
 PSG manager Luis Enrique has started watching the first half of matches from the stands, borrowing that idea from rugby  coaches. In his words you either "adapt, improvise, and stop being predictable for the opponent, or you're dead."

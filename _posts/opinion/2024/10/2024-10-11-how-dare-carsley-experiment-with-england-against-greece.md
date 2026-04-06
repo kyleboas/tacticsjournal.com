@@ -9,7 +9,6 @@ tags:
 - "Greece"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/11/Image-11Oct2024_01:11:23.png"
 
-permalink: "/opinion/2024/10/11/how-dare-carsley-experiment-with-england-against-greece/"
 ---
 
 If you are an international manager, when are you allowed to experiment? Do you wait for a major competition like the Euro's, World Cup, or try something in a UEFA Nations League B Group 2 match against Greece as England interim manager Lee Carsley did?

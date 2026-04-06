@@ -9,7 +9,6 @@ tags:
 - "AC Milan"
 - "Inter"
 image: "https://i.imgur.com/nw0PR4W.jpg"
-permalink: /AC-Milan-tries-to-take-advantage-of-Inter-aggressiveness-with-verticality/
 ---
 
 May 11, 2023 — Inter had both the qualitative and numerical superiority over AC Milan in the first leg of their Champions League bout, but direct vertical passes to bypass Inter's initial press created chances.

@@ -10,7 +10,6 @@ tags:
 - "FK Crvena Zvezda"
 image: "https://i.imgur.com/ovYGvqj.jpg"
 
-permalink: "/opinion/2023/09/20/manchester-city-constant-triangles/"
 ---
 
 September 20, 2023 — Constant triangles. The full-back pushes forward, and Manchester City forms a 3-4-3 diamond in possession. It was the most enjoyable match of theirs that I have ever watched.

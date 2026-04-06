@@ -8,7 +8,6 @@ tags:
 - "Reims"
 - "Lens"
 image: "https://i.imgur.com/LUi6AYC.jpg"
-permalink: /Reims-were-too-wide-against-Lens/
 --- 
 
 May 13, 2023 — I'm watching Reims more for 23-year-old French goalkeeper Yehvann Diouf now than manager Will Still. I don't think their structure played to their strengths when they played Lens yesterday.

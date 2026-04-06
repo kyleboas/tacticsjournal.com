@@ -7,7 +7,6 @@ tags:
 - Chelsea
 layout: post
 image: https://i.imgur.com/qCZUWXr.jpg
-permalink: /Zakaria-positional-movement-was-key-to-Chelsea-fluidity-vs-Bournemouth/
 ---
 
 December 28, 2022 — Chelsea are the most tactically interesting team in the Premier League. The rotations in possession with the quick change in formation out of possession.

@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 - "Manchester United"
 image: "https://i.imgur.com/M4HYNmn.jpg"
-permalink: /Tottenham-overcomes-back-post-run-struggles-to-salvage-point-against-Manchester-United/
 ---
 
 April 28, 2023 — During the first half, Manchester United's back post was open for Tottenham to attack, and passes were being played into dangerous areas, but no one was making the run to the back post. In the second half, Tottenham made those runs and scored two goals but they could have had more. 

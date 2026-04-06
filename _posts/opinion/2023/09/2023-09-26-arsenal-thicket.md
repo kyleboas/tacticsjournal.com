@@ -9,7 +9,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/BMqI76d.jpg"
 
-permalink: "/opinion/2023/09/26/arsenal-thicket/"
 ---
 
 September 26, 2023 — Attempting to dribble through Arsenal's defense is like navigating through a dense thicket of tall trees. One lanky player sticks out a leg, you get by, and then another. But a relentless Tottenham eventually forced mistakes.

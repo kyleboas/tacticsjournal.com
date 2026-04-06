@@ -8,7 +8,6 @@ tags:
 - "Liverpool"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_23:53:38.png"
 
-permalink: "/opinion/2024/08/26/which-liverpool-players-benefit-in-transition-or-when-the-opposition-defends-deep/"
 ---
 
 In transition, Mohamed Salah benefits. Against teams that defend deep, the forwards on the left benefit. But the center-forward will always be the focal point for Liverpool, and that is why I'm excited to see Darwin Nunez's pace up top.

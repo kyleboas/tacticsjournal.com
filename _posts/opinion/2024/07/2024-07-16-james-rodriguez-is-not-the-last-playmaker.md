@@ -9,7 +9,6 @@ tags:
 - "Columbia"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/16/Image-16Jul2024_02:14:55.png"
 
-permalink: "/opinion/2024/07/16/james-rodriguez-is-not-the-last-playmaker/"
 ---
 
 The Copa America final was an ode to Messi, Di Maria, Otamendi, and the rest of Argentina's greats in potentially their final tournament, but the highlight was James Rodriguez of Columbia because they don't make many playmakers like him anymore.

@@ -9,7 +9,6 @@ tags:
 - "PSG"
 image: "https://i.imgur.com/swvIbjC.jpg"
 
-permalink: "/opinion/2023/10/07/champions-league-football-at-st-james-park/"
 ---
 
 First things, first — it is a beautiful thing to see the Champions League return to St. James Park. One of the most raucous atmospheres in Europe. This match against PSG is the one I've been most looking forward to. 

@@ -9,7 +9,6 @@ tags:
 - "VfB Stuttgart"
 image: "https://i.imgur.com/MPszJjE.jpg"
 
-permalink: "/opinion/2023/12/22/thomas-tuchel-details-how-bayern-munich-defended-against-vfb-stuttgart/"
 ---
 
 I wanted to add visuals to Thomas Tuchel's insightful comments from his post-match interview after Bayern Munich's win against VfB Stuttgart. He went into detail about why a "clear-cut 4-4-2 was maybe not the best tactical shape" out-of-possession.

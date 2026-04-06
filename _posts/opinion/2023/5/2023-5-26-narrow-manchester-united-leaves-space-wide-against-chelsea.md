@@ -8,7 +8,6 @@ tags:
 - "Manchester United" 
 image: "https://i.imgur.com/heARUhe.jpg"
 
-permalink: "/opinion/2023/05/26/narrow-manchester-united-leaves-space-wide-against-chelsea/"
 --- 
 
 May 26, 2023 — Manchester United were narrow and at times unruly in defending against Chelsea yesterday. Their full-backs kept getting dragged inside, opening up space on the wings.

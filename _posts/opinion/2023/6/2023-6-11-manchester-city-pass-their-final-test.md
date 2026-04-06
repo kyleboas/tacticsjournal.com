@@ -9,7 +9,6 @@ tags:
 - "Inter" 
 image: "https://i.imgur.com/yR6z1hZ.jpg"
 
-permalink: "/opinion/2023/06/11/manchester-city-pass-their-final-test/"
 ---
 
 June 11, 2023 — Manchester City passed all seven challenges I set out before the match yesterday to beat Inter in the Champions League Final.

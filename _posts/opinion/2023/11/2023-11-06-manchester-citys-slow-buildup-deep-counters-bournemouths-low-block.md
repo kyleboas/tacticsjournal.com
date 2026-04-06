@@ -9,7 +9,6 @@ tags:
 - "Bournemouth"
 image: "https://i.imgur.com/lk5dZaG.jpg"
 
-permalink: "/opinion/2023/11/06/manchester-citys-slow-buildup-deep-counters-bournemouths-low-block/"
 ---
 
 Slow build up deeper to draw the opponent out is the key for many teams who are having trouble with breaking down low blocks. Manchester City showcased this simple method against Bournemouth.

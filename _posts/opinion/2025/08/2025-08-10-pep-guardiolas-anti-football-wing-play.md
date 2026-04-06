@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/09/Image-09Aug2025_21:26:17.png"
 
-permalink: "/opinion/2025/08/10/pep-guardiolas-anti-football-wing-play/"
 ---
 
 I saw a video of Pep Guardiola and Jeremy Doku today from Manchester City training that frustrated me. It is the worst thing Guardiola has brought into football. 

@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/11/Image-11Aug2025_22:08:48.png"
 
-permalink: "/opinion/2025/08/12/arsenals-attacking-output-should-improve-with-zubimendi/"
 ---
 
 In theory, Arsenal's attacking output should improve because they signed Martin Zubimendi. If a positional team does not have a holding midfielder that can find and play the least obvious, they might as well not have a striker.

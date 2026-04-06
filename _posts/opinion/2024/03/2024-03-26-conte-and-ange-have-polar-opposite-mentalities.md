@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 image: "https://i.imgur.com/SBwR7YS.jpeg"
 
-permalink: "/opinion/2024/03/26/conte-and-ange-have-polar-opposite-mentalities/"
 ---
 
 The mentality switch for Tottenham from Antonio Conte always having "respect for your opponent" to Ange Postecoglou playing "irrespective of the opponent" was massive.

@@ -10,7 +10,6 @@ tags:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/22/Image-22Sep2024_10:18:11.png"
 tweet: "Bayern Munich showed the power of aligning three players on the diagonal with their third goal. Olise gives and goes with Musiala, then lets Musiala's pass run through his legs to Kane. Kane passes Olise, and then Olise passes back to Kane for the goal..."
 
-permalink: "/opinion/2024/09/26/bayern-munichs-beautiful-three-man-diagonal-goal/"
 ---
 
 Bayern Munich showed the power of aligning three players on the diagonal with their third goal. Olise gives and goes with Musiala, then lets Musiala's pass run through his legs to Kane. Kane passes Olise, and then Olise passes back to Kane for the goal.

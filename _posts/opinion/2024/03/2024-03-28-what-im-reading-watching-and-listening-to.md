@@ -4,7 +4,6 @@ date: 2024-03-28 08:00 UTC
 title: "What I'm reading, watching, and listening to"
 image: "https://i.imgur.com/auPeeM9.jpg"
 
-permalink: "/opinion/2024/03/28/what-im-reading-watching-and-listening-to/"
 ---
 
 Here is a list of all the blogs, websites, YouTube channels, and Podcasts I follow to learn more about football and tactics. Everyone on this list I admire and look up to. They gave me the inspiration to write about football.

@@ -6,7 +6,6 @@ tags:
 - "England"
 image: "https://i.imgur.com/KtbpQLt.jpeg"
 
-permalink: "/opinion/2024/03/20/englands-simple-solution/"
 ---
 
 The common theory is that "complicated" tactics won't work in international football. No inverting full-backs or center-backs, simple, the least amount of instructions. I would agree that's true for almost every country, except for at least one, England.

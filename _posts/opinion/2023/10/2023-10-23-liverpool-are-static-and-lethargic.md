@@ -9,7 +9,6 @@ tags:
 - "Everton"
 image: "https://i.imgur.com/ejx81FO.jpg"
 
-permalink: "/opinion/2023/10/23/liverpool-are-static-and-lethargic/"
 ---
 
 With Trent Alexander-Arnold inverted and Tsimikas wide, once the ball is played wide, the only pass that opens up is the pass into Alexis Mac Allister centrally.

@@ -9,7 +9,6 @@ tags:
 image: "https://i.imgur.com/wB4oI9l.jpeg"
 tweet: "20.37% of Tottenham's passes into the penalty area in the past 60 days have come from crosses. Working the ball on the ground rather than through the air would likely be more effective. Data via @fbref @StatHead"
 
-permalink: "/opinion/2024/05/12/tottenham-cross-too-much/"
 ---
 
 20.37% of Tottenham's passes into the penalty area in the past 60 days have come from crosses. Working the ball on the ground rather than through the air would likely be more effective.

@@ -8,7 +8,6 @@ tags:
 - "Manchester United"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/15/Image-15Dec2025_16:38:09.png"
 
-permalink: "/opinion/2025/12/16/manchester-united-are-already-playing-in-a-4-3-3/"
 ---
 
 

@@ -9,7 +9,6 @@ tags:
 - "Manchester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/27/Image-27Nov2024_20:40:38.png"
 
-permalink: "/opinion/2024/11/28/modric-shows-why-rodri-is-important/"
 ---
 
 That one decision in the 41st minute from Luka Modric to lightly jog over to the corner flag to take the corner slowed that final five minutes of the half down. The experience to know how to slow down a game is what Manchester City misses without Rodri.

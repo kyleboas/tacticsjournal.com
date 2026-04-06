@@ -10,7 +10,6 @@ tags:
 - "England"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_00:01:41.png"
 
-permalink: "/opinion/2024/07/11/tijjani-reijnders-was-my-favorite-player-at-euro-2024/"
 ---
 
 My favorite player to watch at Euro 2024 was Tijjani Reijnders of the Netherlands because he dictates the pace of play so well, uses calm feints under pressure, and while carrying, always looks to pass forward first and passes and moves with ease.
