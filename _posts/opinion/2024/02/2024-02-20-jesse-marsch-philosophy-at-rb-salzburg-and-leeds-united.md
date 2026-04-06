@@ -9,7 +9,6 @@ tags:
 - "RB Salzburg"
 - "Leeds United"
 image: "https://i.imgur.com/XNHQ5Ji.png"
-
 ---
 
 Watch Jesse Marsch explain how he implemented his philosophy into RB Salzburg and Leeds United in-training and in-game. Minimum width, "the net", counter movements, channel runs, tap-ins, and counter-pressing are covered.

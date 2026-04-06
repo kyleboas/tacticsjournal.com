@@ -7,7 +7,6 @@ categories:
 tags:
 - "Manchester United"
 image: "https://i.imgur.com/dQt6NjB.jpg"
-
 ---
 
 Dimitar Berbatov gets in a position like this by knowing how each of his teammates like to play, and then timing his arrival into space to match their movements. Here he walks us through a goal scored for Manchester United in 2010.

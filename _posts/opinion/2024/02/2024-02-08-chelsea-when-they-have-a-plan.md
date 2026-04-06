@@ -8,7 +8,6 @@ tags:
 - "Aston Villa"
 - "Chelsea"
 image: "https://i.imgur.com/aBb2NCg.jpeg"
-
 ---
 
 Chelsea were smartly set up in and out of possession against Aston Villa, using Palmer and Gallagher to shadow-cover up top, instead of Jackson. Jackson could win the ball wide and track Cash, then invert up top with Palmer in possession.

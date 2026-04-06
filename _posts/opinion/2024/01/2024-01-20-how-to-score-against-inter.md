@@ -7,7 +7,6 @@ categories:
 tags:
 - "Inter"
 image: "https://i.imgur.com/SYSVWRT.jpeg"
-
 ---
 
 Inter have conceded the least amount of goals (10) in Europe's big 5 leagues. I watched back all the goals they conceded in the Serie A, and they showed us two repeatable patterns to score against them.

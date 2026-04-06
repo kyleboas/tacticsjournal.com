@@ -7,7 +7,6 @@ categories:
 tags:
 - "Manchester United"
 image: "https://i.imgur.com/xbvPuqu.jpg"
-
 ---
 
 Once a meme, now Manchester United's best-performing player on the night against Newcastle, Harry Maguire is in good form. He has displaced Raphael Varane at right center-back because he needs to always play on the right.

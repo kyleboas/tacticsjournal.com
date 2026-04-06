@@ -10,7 +10,6 @@ tags:
 - "Real Madrid"
 - "Dortmund"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/02/Image-02Jun2024_00:49:33.png?raw=true"
-
 ---
 
 It wasn't a masterclass, but Real Madrid deserved to win the Champions League because of how well they defended. Managers, like Carlo Ancelotti, that give freedom to the players in attack come off as withdrawn, but the difference comes in defense.

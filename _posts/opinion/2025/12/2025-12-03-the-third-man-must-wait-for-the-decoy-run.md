@@ -8,7 +8,6 @@ tags:
 - "Bayern Munich"
 - "Arsenal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:18:36.png"
-
 ---
 
 Every team uses decoy runs. Bayern Munich tied the timing of the pass and the third-man run to the moment the decoy finished his run against Arsenal. The timing between the decoy, third man, and passer was unlike anything I've ever seen before.

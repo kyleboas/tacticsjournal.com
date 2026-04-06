@@ -3,7 +3,6 @@ layout: post
 date: 2025-02-20 12:00 UTC
 title: "Optimization is a tool, not the solution"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/19/Image-19Feb2025_23:02:47.png"
-
 ---
 
 When I'm playing chess, the fun comes from finding the solution. Doing the work to study and find what works. Part of that fun is removed when the computer tells me what combination works. Assigning a percentage to an action. The same applies to football.

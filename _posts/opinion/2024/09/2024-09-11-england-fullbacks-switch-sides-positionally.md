@@ -7,7 +7,6 @@ categories:
 tags:
 - "England"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/10/Image-10Sep2024_23:10:41.png"
-
 ---
 
 When England fullbacks Rico Lewis and Trent Alexander-Arnold switched sides positionally, it got me thinking: when the opposition doesn't press, a fullback could move at speed, almost like an overlap on the wing, to help overload the opposite wing.

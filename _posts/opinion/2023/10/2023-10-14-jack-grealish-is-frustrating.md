@@ -8,7 +8,6 @@ tags:
 - "England"
 - "Manchester City"
 image: "https://i.imgur.com/x9qJaB5.jpg"
-
 ---
 
 I'm growing increasingly frustrated with Jack Grealish's unwillingness to attempt to beat his man to the corner. Every attempt for club and country is a cut infield, either to draw a foul or pass back. The only way they can progress through the left-hand side is if James Maddison makes a run beyond Grealish.

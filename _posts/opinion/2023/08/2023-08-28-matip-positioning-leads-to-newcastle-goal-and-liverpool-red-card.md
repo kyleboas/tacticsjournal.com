@@ -7,7 +7,6 @@ categories:
 tags:
 - "Liverpool"
 image: "https://i.imgur.com/chq28sR.jpg"
-
 ---
 
 August 28, 2023 — Joel Matip's poor positioning played a major role in both Newcastle's first goal and the red card challenge by Virgil Van Dijk that should have cost Liverpool the game.

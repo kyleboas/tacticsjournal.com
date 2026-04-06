@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 - "Manchester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_20:38:39.png"
-
 ---
 
 The last time Manchester City played Arsenal at the Etihad, they had [a lot of possession but no progression](https://tacticsjournal.com/2024/04/01/possession-without-progression/). To break down Arsenal's deep defensive structure, I think they have to actively arrange themselves to utilize the diagonals way more.

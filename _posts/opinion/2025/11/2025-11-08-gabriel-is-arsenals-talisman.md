@@ -5,7 +5,6 @@ title: "Gabriel is Arsenal's talisman"
 categories:
 - "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/06/Image-06Nov2025_23:12:38.png"
-
 ---
 
 For the past 25 years, every Premier League champion had a talisman. It is unlikely you will finish first if you don't have that one player to propel you to the top of the table. This could be the first year it is a defender — Gabriel for Arsenal.

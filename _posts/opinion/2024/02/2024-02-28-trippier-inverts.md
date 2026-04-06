@@ -9,7 +9,6 @@ tags:
 - "Newcastle"
 - "Blackburn"
 image: "https://i.imgur.com/5QJCTUa.jpeg"
-
 ---
 
 Newcastle intermittently had Kiernan Trippier move from his normal right-back position and invert into a double pivot with Bruno Guimaraes. He flipped back and forth. This allowed right center-midfielder Sean Longstaff to stay forward and outnumber Blackburn centrally.

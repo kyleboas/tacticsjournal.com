@@ -3,7 +3,6 @@ layout: post
 date: 2024-08-06 11:00 UTC
 title: "The new NFL kickoff rules"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/02/Image-02Aug2024_00:58:45.png"
-
 ---
 
 The person explaining the NFL's new kickoff rule [in this video](https://youtu.be/72cZKFuyEaE?si=EUUsOAv6UsCMiATB) made an interesting point. The change puts less emphasis on athleticism and more emphasis on creativity, and I think there are parallels to draw to European football in that statement.

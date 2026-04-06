@@ -3,7 +3,6 @@ layout: post
 date: 2024-12-29 12:00 UTC
 title: "Stretching the defense with a ball over the top"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/28/Image-28Dec2024_16:01:39.png"
-
 ---
 
 When you play the ball over the top and through, rarely does the defending team have the discipline to wait once they regain possession, nor does the rest of their team move back. Making it easier to immediately counter press.

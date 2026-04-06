@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 - "Liverpool"
 image: "https://i.imgur.com/vQGl47X.jpg"
-
 ---
 
 Arsenal were better structured to contain Liverpool last season, and their willingness to allow Zinchenko to mark Salah 1v1 cost them a goal. The threat of Szoboszlai in the right half-space may be the cause for this change.

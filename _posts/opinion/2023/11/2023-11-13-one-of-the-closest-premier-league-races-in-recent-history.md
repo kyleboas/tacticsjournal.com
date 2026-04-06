@@ -16,7 +16,6 @@ tags:
 - "West Ham"
 - "Chelsea"
 image: "https://i.imgur.com/eI3MkNw.jpg"
-
 ---
 
 3 points separate 1st and 5th place. One loss, and you’ll be lucky not to drop out of the top four. 10 points separate 1st and 10th. A string of three losses, bad form, and you drop out of a European spot.

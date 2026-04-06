@@ -7,7 +7,6 @@ categories:
 tags:
 - "Manchester City"
 image: "https://i.imgur.com/8iyMInP.jpg"
-
 ---
 
 July 27, 2023 — *"You cannot train because of the humidity. We don’t train. We smile, try to do good games and go back to Manchester" - Pep Guardiola*

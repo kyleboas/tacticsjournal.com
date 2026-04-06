@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 - "Mikel Arteta"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/26/Image-26Jul2024_00:43:59.png"
-
 ---
 
 You should be jealous of Arsenal for signing Ricardo Calafori because he is the poster child for the modern defender. He is Ben White, Jurrien Timber, Oleksander Zinchenko, and Jakub Kiwior combined into one. Versatility is in because rotation is a must.

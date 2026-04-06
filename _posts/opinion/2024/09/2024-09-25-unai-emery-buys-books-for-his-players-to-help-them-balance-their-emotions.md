@@ -8,7 +8,6 @@ tags:
 - "Aston Villa"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/24/Image-24Sep2024_23:35:00.png"
 tweet: "Aston Villa manager Unai Emery learned that reading books helped him when he became a coach, 'I do it to balance myself, to get that balance in difficult moments.' He buys books for his players to read to help them balance themselves..."
-
 ---
 
 Aston Villa manager Unai Emery learned that reading books helped him when he became a coach: "I do it to balance myself, to get that balance in difficult moments." He buys books for his players to read to help them balance themselves.

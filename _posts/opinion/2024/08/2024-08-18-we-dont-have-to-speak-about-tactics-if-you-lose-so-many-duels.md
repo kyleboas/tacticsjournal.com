@@ -8,7 +8,6 @@ tags:
 - "Liverpool"
 - "Ipswich Town"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_23:18:07.png"
-
 ---
 
 The difference between the first and second half for Liverpool against Ipswich Town can't be measured in numbers; you have to visually see the difference in the way Jarrel Quansah went into duels when compared to Ibrahima Konate.

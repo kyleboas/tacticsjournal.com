@@ -9,7 +9,6 @@ tags:
 - "Liverpool"
 - "Barcelona"
 image: "https://i.imgur.com/ALGDyuq.jpeg"
-
 ---
 
 The best holding midfielders have the ability to find the least obvious pass that will break a line. Both Trent Alexander-Arnold and Sergio Busquets have that trait.

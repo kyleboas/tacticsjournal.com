@@ -7,7 +7,6 @@ categories:
 tags:
 - "Tottenham"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/13/Image-13Aug2025_20:33:01.png"
-
 ---
 
 Tottenham's use of a back four or back five should be situational based on the opposition they face. The most interesting difference between the two options was the way in which the defenders jumped out to help in the man-to-man press.

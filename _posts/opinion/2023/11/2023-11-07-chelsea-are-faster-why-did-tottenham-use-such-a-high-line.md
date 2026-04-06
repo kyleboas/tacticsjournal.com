@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 - "Chelsea"
 image: "https://i.imgur.com/tUVFhnS.jpg"
-
 ---
 
 Tottenham's high line was extreme and artless. A game of who will beat who in a foot race, or who will play the correctly weighted pass, because Chelsea are faster.

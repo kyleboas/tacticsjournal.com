@@ -7,7 +7,6 @@ categories:
 tags:
 - "Manchester United"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/02/Image-02Dec2024_18:34:56.png"
-
 ---
 
 If not Joshua Zirkzee, then Manchester United should build around someone like him under Ruben Amorim. They must in order to make his preferred system work.

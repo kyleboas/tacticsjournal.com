@@ -4,7 +4,6 @@ date: 2024-12-07 12:00 UTC
 title: "Why I talk about the Premier League"
 categories:
 - "Premier League"
-
 ---
 
 I talk about the Premier League because I have an emotional attachment to the players, managers, fans, stadiums, and the entire league. Sure, the tactics are becoming more stale every year, but I am invested in the stories, the people.

@@ -8,7 +8,6 @@ tags:
 - "Manchester United"
 - "Manchester City"
 image: "https://i.imgur.com/dgOxR4J.jpeg"
-
 ---
 
 A part of Andre Onana adapting to Manchester United is adjusting the way he distributes the ball. The high lofted passes don't work. He has begun to drive through the ball, which gives the man receiving more separation from the defender.

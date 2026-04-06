@@ -8,7 +8,6 @@ tags:
 - "Chelsea"
 - "Luton Town"
 image: "https://i.imgur.com/pORBKBz.jpg"
-
 ---
 
 August 26, 2023 — Luton Town are not solid defensively, but some of the timing issues Chelsea experienced in their recent matches are starting to resolve.

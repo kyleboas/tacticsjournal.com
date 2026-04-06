@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 - "Fulham"
 image: "https://i.imgur.com/PAWhJrL.jpeg"
-
 ---
 
 Declan Rice's position on the field dictates how much pressure Arsenal put on the center of the pitch because Martin Ødegaard and Kai Havertz have to drop. The more they drop, the more isolated the wingers and center-forward are.
