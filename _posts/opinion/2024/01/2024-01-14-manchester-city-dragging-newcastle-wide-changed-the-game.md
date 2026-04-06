@@ -9,7 +9,6 @@ tags:
 - "Newcastle"
 image: "https://i.imgur.com/v2FriVw.jpeg"
 
-permalink: "/opinion/2024/01/14/manchester-city-dragging-newcastle-wide-changed-the-game/"
 ---
 
 Manchester City were unable to take advantage of the space Newcastle left behind their second line because they didn't drag Gordon, Almiron, Trippier, and Burn wide. An adjustment to drag those defenders opened space in the second half. 

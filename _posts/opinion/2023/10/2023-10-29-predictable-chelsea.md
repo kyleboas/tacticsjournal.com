@@ -9,7 +9,6 @@ tags:
 - "Brentford"
 image: "https://i.imgur.com/RmBpg89.jpg"
 
-permalink: "/opinion/2023/10/29/predictable-chelsea/"
 ---
 
 Chelsea move like a crab, back and forth. The only player looking for the pass into the box was Cole Palmer. The rest provide progression side to side and errant crosses.

@@ -4,7 +4,6 @@ date: 2024-08-31 11:00 UTC
 title: "We don't really see the formation as the end goal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/31/Image-31Aug2024_00:29:20.png"
 
-permalink: "/opinion/2024/08/31/we-dont-really-see-the-formation-as-the-end-goal/"
 ---
 
 When asked by Brentford manager Thomas Frank "why do you change your formation so many times," then Chelsea manager Graham Potter said that he "doesn't see the formation as the end goal." I don't use formation numbers in my writing for that same reason.

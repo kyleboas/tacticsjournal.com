@@ -12,7 +12,6 @@ tags:
 - "Luis de la Fuente"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/21/Image-21Jun2024_01%3A01%3A30.png"
 
-permalink: "/opinion/2024/06/21/italy-play-out-of-spains-counter-press/"
 ---
 
 [Similar to Austria's counter-press against France, which left Antoine Griezmann free](https://tacticsjournal.com/2024/06/18/austria-left-griezmann-open-when-they-counter-pressed-france/), Italy demonstrated how to play out to the free man on the far side, Nicolo Barella, when Spain pressured them in their own half.

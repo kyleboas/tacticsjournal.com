@@ -9,7 +9,6 @@ tags:
 - "Girona"
 image: "https://i.imgur.com/yFTidD2.jpeg"
 
-permalink: "/opinion/2024/01/30/artem-dovybk-shows-how-a-center-forward-should-move/"
 ---
 
 The center-forward should be constantly moving and looking to time the distance of the separation between their marker to either pin or get open, like Artem Dovbyk did in this Girona goal.

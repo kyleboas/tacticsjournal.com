@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 image: "https://i.imgur.com/Leo3Cv2.jpg"
 
-permalink: "/opinion/2023/12/07/head-the-ball-down/"
 ---
 
 If you head it high, like Erling Haaland, you generate less power and make it easier for the goalkeeper to make a save. The better technique would be to head the ball down into the ground, generating power, to make the ball bounce below the goalkeeper.

@@ -9,7 +9,6 @@ tags:
 - "Karlsruher"
 image: "https://i.imgur.com/6rqNcy2.jpg"
 
-permalink: "/opinion/2023/07/20/all-of-the-above/"
 ---
 
 July 20, 2023 — Did Liverpool play in a 4-3-3, 4-2-4, 3-2-2-3 box, 3-4-3 diamond, or all of the above in their friendly against Karlsruher? 

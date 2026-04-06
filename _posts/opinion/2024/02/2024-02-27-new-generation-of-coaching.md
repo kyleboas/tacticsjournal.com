@@ -8,7 +8,6 @@ tags:
 - "Bayer Leverkusen"
 image: "https://i.imgur.com/H1vVsMP.jpeg"
 
-permalink: "/opinion/2024/02/27/new-generation-of-coaching/"
 ---
 
 Everyone has different styles but it's not enough to demand and explain with words. The new generation of coaches are actively participating in training. Xabi Alonso [according to Granit Xhaka](https://youtu.be/troM9efh2Wk?si=VwwZONHixtKOZ7VP) is "an example of a new generation of coaching". 

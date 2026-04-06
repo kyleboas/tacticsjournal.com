@@ -8,7 +8,6 @@ tags:
 - "Brentford"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/20/Image-20Aug2024_16:33:21.png"
 
-permalink: "/opinion/2024/08/21/the-pros-and-cons-of-the-large-spacing-between-brentfords-rest-defense-and-attack/"
 ---
 
 Brentford is built to counter, but what they do when they counter is interesting. Their rest-defense sits back much deeper than most teams would, meaning that they can counter you, but you can't counter them if you win back the ball.

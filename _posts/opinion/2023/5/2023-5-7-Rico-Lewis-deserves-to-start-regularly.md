@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 - "Leeds United"
 image: "https://i.imgur.com/zYw9XPB.jpg"
-permalink: /Rico-Lewis-deserves-to-start-regularly/
 ---
 
 May 7, 2023 - 67 days since his last start, 18-year-old Rico Lewis reminded everyone why he deserves to start regularly for Manchester City when they played Leeds yesterday. 

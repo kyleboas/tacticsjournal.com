@@ -9,7 +9,6 @@ tags:
 - "Bayer Leverkusen"
 image: "https://i.imgur.com/vkP8RIM.jpeg"
 
-permalink: "/opinion/2024/05/10/bayer-leverkusen-are-undefeated-but-vulnerable/"
 ---
 
 Bayer Leverkusen's 49 games unbeaten run is the longest in Europe in all competitions since the advent of the European Cup (1955) but the streak is at threat because they have been leaving men unmarked in the middle of the box during early crosses.

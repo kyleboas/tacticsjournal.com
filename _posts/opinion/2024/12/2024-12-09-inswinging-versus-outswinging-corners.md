@@ -7,7 +7,6 @@ categories:
 tags:
 - "Arsenal"
 
-permalink: "/opinion/2024/12/09/inswinging-versus-outswinging-corners/"
 ---
 
 I prefer inswinging corners over outswinging ones because they create more chaos, thanks to the speed the corner taker can generate on the ball, which then transfers to the header, making it easier for the attackers and harder for the goalkeeper.

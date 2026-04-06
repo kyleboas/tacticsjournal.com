@@ -12,7 +12,6 @@ tags:
 - "Manchester City"
 image: "https://i.imgur.com/dP8Oqfj.jpeg"
 
-permalink: "/opinion/2024/01/03/manchester-uniteds-crisis-in-perspective/"
 ---
 
 I have put together an equivalent list of players from each team, in the current top four, to put Manchester United's injury crisis into perspective.

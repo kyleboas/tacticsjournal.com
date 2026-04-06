@@ -8,7 +8,6 @@ tags:
 - Liverpool
 layout: post
 image: https://i.imgur.com/krM5x2I.jpg
-permalink: /Was-Fred-at-fault-for-Liverpool-first-goal-against-Man-United/
 ---
 
 I'm going to go over the first goal Liverpool scored in Manchester United's 7-0 defeat at Anfield because it summed up their defensive vulnerabilities. Was it Fred's fault, or could Manchester United have been structured better as a whole?

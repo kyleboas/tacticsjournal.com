@@ -4,7 +4,6 @@ date: 2025-11-24 11:00 UTC
 title: "Diagonality"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/22/Image-22Nov2025_21:45:57.png"
 
-permalink: "/opinion/2025/11/24/diagonality/"
 ---
 
 We are used to looking at the pitch horizontally, in a straight line, from back to front. Instead, if you look at how players organize on the diagonal, on an angle, you can spot why teams have trouble progressing past the opponent's defense.

@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/18/Image-18Nov2024_15:25:45.png"
 
-permalink: "/opinion/2024/11/22/arsenal-is-bringing-back-the-long-ball-from-the-goal-kick/"
 ---
 
 How can anyone criticize Arsenal for kicking the ball long 70% of the time? What is the purpose of assembling a team that can win every aerial duel if you are afraid to kick it long?

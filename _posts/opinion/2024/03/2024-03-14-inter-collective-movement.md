@@ -10,7 +10,6 @@ tags:
 - "Atletico Madrid"
 image: "https://i.imgur.com/PfzWGKJ.jpeg"
 
-permalink: "/opinion/2024/03/14/inter-collective-movement/"
 ---
 
 It's a routine thing, but the smoothness of this moment for Inter between Acerbi and Mkhitaryan when they handed off responsibility of Depay and Barrios to one another stuck out. The timing of the movements is telepathic. Inter coordinate as one collective not individuals.

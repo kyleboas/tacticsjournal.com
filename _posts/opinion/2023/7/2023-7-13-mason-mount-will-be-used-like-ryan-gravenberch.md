@@ -8,7 +8,6 @@ tags:
 - "Manchester United"
 image: "https://i.imgur.com/1MS2gvA.jpg"
 
-permalink: "/opinion/2023/07/13/mason-mount-will-be-used-like-ryan-gravenberch/"
 ---
 
 July 13, 2023 — Manchester United's match against Leeds United in a preseason friendly confirmed my suspicion of what Mason Mount's role will be and how they will be structured next season. 

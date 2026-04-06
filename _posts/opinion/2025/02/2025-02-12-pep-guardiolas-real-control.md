@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/11/Image-11Feb2025_20:34:51.png"
 
-permalink: "/opinion/2025/02/12/pep-guardiolas-real-control/"
 ---
 
 The thing that makes Pep Guardiola's teams exciting now is not control, it's the unpredictability. You should never know how they are going to lineup or what shapes they'll transform into, but when there are injuries, they loose that surprise factor.

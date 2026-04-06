@@ -9,7 +9,6 @@ tags:
 - "Manchester United"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_00:29:24.png"
 
-permalink: "/opinion/2024/08/17/fulham-vulnerable-to-a-switch-of-play-after-committing-to-the-ball-side/"
 ---
 
 If you switch the ball enough, Fulham will become pinned back in their own end because they commit a lot of numbers to the ball side. They have to maintain a high level of intensity, but one switch opens them up, like the one in Manchester United's goal.

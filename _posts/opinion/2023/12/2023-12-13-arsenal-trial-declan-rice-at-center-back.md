@@ -9,7 +9,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/thsXbSw.jpg"
 
-permalink: "/opinion/2023/12/13/arsenal-trial-declan-rice-at-center-back/"
 ---
 
 Arsenal trialed Declan Rice at right center-back for 30 minutes to rest William Saliba, and he looked as good as I thought he would. Having his passing ability paired with quickness and awareness at center-back is unfair. Game-changing.

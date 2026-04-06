@@ -10,7 +10,6 @@ tags:
 - "Southampton"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/18/Image-18Oct2025_15:37:18.png"
 
-permalink: "/opinion/2025/10/19/am-i-allowed-to/"
 ---
 
 The saddest four words in football that a player can say is "Am I allowed to?" That question comes from the fear of the reprimanding voice of generations of coaches. Their voice echoes in the heads of the players, afraid to make their own decisions. 

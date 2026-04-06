@@ -4,7 +4,6 @@ date: 2023-11-24 08:00 UTC
 title: "Cesc Fàbregas: My obsession is to play forward"
 image: "https://i.imgur.com/zFdfwnM.png"
 
-permalink: "/opinion/2023/11/24/cesc-fabregas-my-obsession-is-to-play-forward/"
 ---
 
 I would say Cesc Fàbregas' approach to building up is both risky and pragmatic, and that combination makes it super interesting, with the two strikers playing as 10s. 

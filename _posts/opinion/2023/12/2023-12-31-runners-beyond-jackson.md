@@ -9,7 +9,6 @@ tags:
 - "Luton Town"
 image: "https://i.imgur.com/ysDR9m9.jpeg"
 
-permalink: "/opinion/2023/12/31/runners-beyond-jackson/"
 ---
 
 Nicolas Jackson's best attribute is his ability to turn a defender, but Chelsea have lacked runners in the channels once he gets past his man. Cole Palmer timed his run to perfection to match Jackson's turn for the third goal.

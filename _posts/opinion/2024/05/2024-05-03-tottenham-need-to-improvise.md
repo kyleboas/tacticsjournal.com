@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 image: "https://i.imgur.com/evYOifa.png"
 
-permalink: "/opinion/2024/05/03/tottenham-need-to-improvise/"
 ---
 
 I envy the mental profiles they are bringing in, I love the athleticism, I buy into Ange Postecoglou's way of thinking, but Tottenham don't value improvisation, and that strays from the vision I thought they had.

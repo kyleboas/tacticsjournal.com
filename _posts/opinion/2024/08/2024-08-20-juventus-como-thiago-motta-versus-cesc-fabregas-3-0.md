@@ -12,7 +12,6 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/2
 link: "https://betweentheposts.net/juventus-como-thiago-motta-versus-cesc-fabregas-3-0/"
 tweet: "Thiago Motta gave us a preview of how he will untether this talented Juventus squad in a commanding first win, as they welcomed newly promoted Como and manager Cesc Fàbregas to Serie A, who have ideas but a challenging season ahead. @BetweenThePosts"
 
-permalink: "/opinion/2024/08/20/juventus-como-thiago-motta-versus-cesc-fabregas-3-0/"
 ---
 
 Thiago Motta gave us a preview of how he will untether this talented Juventus squad in a commanding first win, as they welcomed newly promoted Como and manager Cesc Fàbregas to Serie A, who have ideas but a challenging season ahead.

@@ -11,7 +11,6 @@ tags:
 - "Atalanta"
 image: "https://i.imgur.com/FldB0Aw.jpeg"
 
-permalink: "/opinion/2024/05/23/bayer-leverkusens-spacing-accentuated-atalantas-physical-strength/"
 ---
 
 I did not understand why Bayer Leverkusen both made the pitch small and pushed their wingers high. It played into Atalanta's physical strength because the main outlet was to the ball-side winger.

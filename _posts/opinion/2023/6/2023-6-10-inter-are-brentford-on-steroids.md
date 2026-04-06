@@ -9,7 +9,6 @@ tags:
 - "Inter"
 image: "https://i.imgur.com/9Ht7mNo.jpg"
 
-permalink: "/opinion/2023/06/10/inter-are-brentford-on-steroids/"
 ---
 
 June 10, 2023 — Inter is my favorite to win the Champions League Final if Manchester City fails to tackle these seven challenges. 

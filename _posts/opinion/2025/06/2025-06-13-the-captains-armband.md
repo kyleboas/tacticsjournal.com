@@ -4,7 +4,6 @@ date: 2025-06-13 11:00 UTC
 title: "The captain's armband"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/12/Image-12Jun2025_22:45:25.png"
 
-permalink: "/opinion/2025/06/13/the-captains-armband/"
 ---
 
 The captain's armband is a powerful symbol, but it should be a shared accessory. Filling a team with leaders who aren't afraid to share that responsibility should be the goal because a competitive team has many captains.

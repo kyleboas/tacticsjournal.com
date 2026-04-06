@@ -8,7 +8,6 @@ tags:
 - "Chelsea"
 image: "https://i.imgur.com/C3MmcED.jpeg"
 
-permalink: "/opinion/2024/05/16/the-weakest-part-of-nicolas-jacksons-game/"
 ---
 
 The weakest part of Chelsea forward Nicolas Jackson's game is his movement in the box. Experienced strikers are constantly attempting to deceive defenders with their movements. Nothing should be predictable, and you must always be in an athletic stance.

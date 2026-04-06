@@ -9,7 +9,6 @@ tags:
 - "Bayern Munich"
 image: "https://i.imgur.com/9t1vL2E.jpeg"
 
-permalink: "/opinion/2024/02/11/when-to-press-when-to-wait-who-can-have-the-ball-who-could-not-have-the-ball/"
 ---
 
 As Xabi Alonso said, "to find the right moment, when to press, when to wait, who can have the ball, who could not have the ball." Those decisions allowed Bayer Leverkusen to outclass Bayern Munich out-of-possession and control the game.

@@ -8,7 +8,6 @@ tags:
 - "Germany"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/09/Image-09Jun2024_01:07:42.png?raw=true"
 
-permalink: "/opinion/2024/06/09/gundogan-provides-the-floor-on-which-musiala-and-wirtz-can-dance/"
 ---
 
 Germany is unique because they play with three number tens. Ilkay Gündoğan provides the floor on which Jamal Musiala and Florian Wirtz can dance, with Gündoğan constantly adjusting his play to aid and accentuate the other two players' strengths.

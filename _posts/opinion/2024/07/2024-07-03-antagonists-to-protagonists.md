@@ -18,7 +18,6 @@ tags:
 - "Switzerland"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/03/Image-03Jul2024_11:21:37.png"
 
-permalink: "/opinion/2024/07/03/antagonists-to-protagonists/"
 ---
 
 Austria have been the antagonist, countering their opponent, and when Türkiye scored in the first minute, they became the protagonist. Uruguay manager Marcelo Bielsa's description of the mindset of a protagonist highlights why Austria lost.

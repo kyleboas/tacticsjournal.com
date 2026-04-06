@@ -4,7 +4,6 @@ date: 2025-11-29 11:00 UTC
 title: "Explain it simply and it will spread"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/28/Image-28Nov2025_14:06:53.png"
 
-permalink: "/opinion/2025/11/29/explain-it-simply-and-it-will-spread/"
 ---
 
 Taking something that is complex and communicating it simply is *very* difficult, but it is worth it. When you make your explanation as simple as it can be, your ideas spread. There is less friction for those that want to listen.

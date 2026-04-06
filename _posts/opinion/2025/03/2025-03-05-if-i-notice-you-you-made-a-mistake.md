@@ -4,7 +4,6 @@ date: 2025-03-05 12:00 UTC
 title: "If I notice you, you made a mistake"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/03/04/Image-04Mar2025_15:56:51.png"
 
-permalink: "/opinion/2025/03/05/if-i-notice-you-you-made-a-mistake/"
 ---
 
 One of the biggest compliments you could give a defender or holding midfielder is that you never notice them. If I notice them, that usually means they made a mistake because they play a critical position. They are the last line of defense.

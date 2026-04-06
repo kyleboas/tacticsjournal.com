@@ -4,7 +4,6 @@ date: 2024-05-24 11:00 UTC
 title: "People laughed at Johan Cruyff when he started using possession play at Barcelona"
 image: "https://i.imgur.com/tjSqVVc.jpeg"
 
-permalink: "/opinion/2024/05/24/people-laughed-at-johan-cruyff-when-he-started-using-possession-play-at-barcelona/"
 ---
 
 It's great for the innovators to have theories, but if the early adopters can't win, then it will never be adopted by the majority. The tactic needs results. Johan Cruyff knows this from when he started using possession play at Barcelona in 1988.

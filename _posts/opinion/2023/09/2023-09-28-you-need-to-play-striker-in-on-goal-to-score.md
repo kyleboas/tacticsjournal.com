@@ -9,7 +9,6 @@ tags:
 - "Brighton"
 image: "https://i.imgur.com/JJOWf0t.jpg"
 
-permalink: "/opinion/2023/09/28/you-need-to-play-striker-in-on-goal-to-score/"
 ---
 
 September 28, 2023 — The major problem for Chelsea was no central progression into Nicolas Jackson. They fixed this issue through Cole Palmer against Brighton, and he scored after a string of missed chances.

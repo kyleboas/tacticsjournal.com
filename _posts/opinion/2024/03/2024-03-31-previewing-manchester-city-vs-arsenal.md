@@ -9,7 +9,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/opSeuFO.jpeg"
 
-permalink: "/opinion/2024/03/31/previewing-manchester-city-vs-arsenal/"
 ---
 
 Shutting off the passing lane to Arsenal's 8s, a high Arsenal counter-press to force Manchester City into errors, and exploiting the space on the left-wing by dragging Ben White inside. Those are my three keys to the Manchester City vs Arsenal match.

@@ -12,7 +12,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/RdVW7kL.jpeg"
 
-permalink: "/opinion/2024/01/09/for-the-first-time/"
 ---
 
 Top managers try things in the biggest of games. In the Copa del Ray Final against Barcelona in 2010/11, Jose Mourinho benched all three of his number 9s Adebayor, Benzema, and Higuaín to play Cristiano Ronaldo as the number 9 for the first time.

@@ -10,7 +10,6 @@ tags:
 - "Real Madrid"
 image: "https://i.imgur.com/zklx14T.jpeg"
 
-permalink: "/opinion/2024/04/19/manchester-city-dont-trust-phil-foden-to-play-as-a-holding-midfielder/"
 ---
 
 Manchester City were hamstrung to start against Real Madrid because they didn't trust Foden to play as a holding midfielder. They could skip the first step by having Foden wide left instead of Silva, to keep Silva at right-wing the whole match.

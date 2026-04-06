@@ -4,7 +4,6 @@ date: 2025-06-14 11:00 UTC
 title: "Football needs time to breathe"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/13/Image-13Jun2025_19:04:49.png"
 
-permalink: "/opinion/2025/06/14/football-needs-time-to-breathe/"
 ---
 
 I get more ideas in the offseason when football is given time to breathe. When there is a break. There is no break anymore, and that is not healthy for anyone.

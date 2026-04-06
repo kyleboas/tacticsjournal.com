@@ -9,7 +9,6 @@ tags:
 - "PSG"
 image: "https://i.imgur.com/t2Bmi1E.jpeg"
 
-permalink: "/opinion/2024/04/17/dembele-instructs-mbappe-to-make-the-near-post-run/"
 ---
 
 In the first half, PSG were finding Ousmane Dembélé on the far post, but Barcola and Mbappe were not making that same run. One instruction from Dembélé at the end of the half changed that, and that run opened the space for Vitinha's goal.

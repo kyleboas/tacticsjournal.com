@@ -7,7 +7,6 @@ tags:
 - "Manchester United" 
 image: "https://i.imgur.com/T50QmSo.jpg"
 
-permalink: "/opinion/2023/07/10/andre-onana-is-confident/"
 --- 
 
 July 10, 2023 — André Onana explains what a modern goalkeeper means to him, thus essentially describing himself.

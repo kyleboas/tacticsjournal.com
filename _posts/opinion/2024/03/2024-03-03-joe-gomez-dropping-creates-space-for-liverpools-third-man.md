@@ -9,7 +9,6 @@ tags:
 - "Nottingham Forest"
 image: "https://i.imgur.com/kvKMOzf.jpeg"
 
-permalink: "/opinion/2024/03/03/joe-gomez-dropping-creates-space-for-liverpools-third-man/"
 ---
 
 Liverpool had an easier time progressing past Nottingham Forest's mid-block when Joe Gomez dropped between Virgil Van Dijk and Ibrahima Konate because it opened space for the third man pass to Mac Allister, Diaz, Gakpo, and Elliott.

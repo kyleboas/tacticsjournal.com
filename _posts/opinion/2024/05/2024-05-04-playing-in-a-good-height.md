@@ -10,7 +10,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/b3G6DVQ.jpeg"
 
-permalink: "/opinion/2024/05/04/playing-in-a-good-height/"
 ---
 
 Arsenal manager Mikel Arteta wants his holding midfielders to find and then attack space from deep to progress play. Toni Kroos is the ideal role model for Declan Rice because he has perfected this ability to play in a 'good height'.

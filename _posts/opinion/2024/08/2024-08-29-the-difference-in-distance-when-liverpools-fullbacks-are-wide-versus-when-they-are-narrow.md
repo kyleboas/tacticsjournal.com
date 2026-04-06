@@ -9,7 +9,6 @@ tags:
 - "Ipswich Town"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/29/Image-29Aug2024_00:42:32.png"
 
-permalink: "/opinion/2024/08/29/the-difference-in-distance-when-liverpools-fullbacks-are-wide-versus-when-they-are-narrow/"
 ---
 
 Arne Slot wants Liverpool's fullbacks to stay as narrow as the opponent's press allows, to minimize the distance between players so they can move the ball between players "faster from one foot to another" and to give the opponent "less time to defend."

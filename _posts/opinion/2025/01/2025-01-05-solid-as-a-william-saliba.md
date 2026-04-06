@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/01/Image-01Jan2025_22:08:06.png"
 
-permalink: "/opinion/2025/01/05/solid-as-a-william-saliba/"
 ---
 
 Arsenal center-back William Saliba frees up thinking time for the rest of the team because of how consistent he is. The other players never have to worry because he always wins the ball, and he very rarely makes a mistake. You can quickly take for granted.

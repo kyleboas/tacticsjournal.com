@@ -8,7 +8,6 @@ tags:
 - Aston Villa
 layout: post
 image: /images/BDADE01E-AC19-4590-82B6-51335CD18978.jpeg
-permalink: /Leandro-Trossard-Jesus-Reincarnated-for-Arsenal/
 ---
 
 February 27, 2023 — When Gabriel Jesus got injured, Arsenal lost the unpredictability and positional rotation that created chances for Gabriel Martinelli and others. But, they regained it on Saturday versus Aston Villa when Leandro Trossard played as a false 9.

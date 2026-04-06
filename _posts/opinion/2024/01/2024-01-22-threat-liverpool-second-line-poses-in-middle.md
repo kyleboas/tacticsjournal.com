@@ -9,7 +9,6 @@ tags:
 - "Liverpool"
 image: "https://i.imgur.com/f5lfY5R.jpeg"
 
-permalink: "/opinion/2024/01/22/threat-liverpool-second-line-poses-in-middle/"
 ---
 
 Liverpool can be relentless pressers when they want to, but the main threat does not come from the first line; it comes from Alexis Mac Allister winning 12 of 17 ground duels against Bournemouth in the second line. 

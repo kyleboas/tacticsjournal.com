@@ -11,7 +11,6 @@ tags:
 image: "https://i.imgur.com/KH8dNBu.jpeg"
 tweet: "'You have to review Mbappé's press. [...] Review the press of the entire team, it has facilitated that three can press five and we could then be 4v3 in our backline.' - Luis Enrique after PSG's match against Barcelona"
 
-permalink: "/opinion/2024/04/22/luis-enrique-asks-us-to-review-mbappes-press/"
 ---
 
 Luis Enrique after PSG's second-leg Champions League match against Barcelona:

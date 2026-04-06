@@ -9,7 +9,6 @@ tags:
 - "Tottenham"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/14/Image-14Dec2024_09:16:49.png"
 
-permalink: "/opinion/2024/12/15/russel-martin-on-ange-postecoglou-i-have-a-lot-of-respect-for-him/"
 ---
 
 Southampton manager Russell Martin said he has "a lot of respect" for Tottenham manager Ange Postecoglou because of the consistency in his beliefs, despite criticism. He spoke about the challenges unconventional "stubborn" managers face when results dip.

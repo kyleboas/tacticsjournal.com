@@ -10,7 +10,6 @@ tags:
 - "Manchester City"
 image: "https://i.imgur.com/NPKdgKk.jpg"
 
-permalink: "/opinion/2023/08/07/bernardo-silva-moves-behind-akanji-opening-space-in-the-half-space/"
 ---
 
 April 7, 2023 — Arsenal's man-to-man press led by Martin Ødegaard, Kai Havertz, and Declan Rice did very well to neutralize Manchester City in the first half, but City made key adjustments in the second half to disrupt and penetrate through the press.

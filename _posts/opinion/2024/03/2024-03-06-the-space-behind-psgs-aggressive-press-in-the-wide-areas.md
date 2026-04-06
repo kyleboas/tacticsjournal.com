@@ -9,7 +9,6 @@ tags:
 - "Real Sociedad"
 image: "https://i.imgur.com/vbr6lEc.jpeg"
 
-permalink: "/opinion/2024/03/06/the-space-behind-psgs-aggressive-press-in-the-wide-areas/"
 ---
 
 PSG's full-backs have a tendency to overextend themselves moving wide, leaving space behind between them and the nearest center-back. Teams should look to play wide and then quickly work the ball behind their full-back.

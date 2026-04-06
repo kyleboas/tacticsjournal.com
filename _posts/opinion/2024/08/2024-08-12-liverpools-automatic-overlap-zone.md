@@ -8,7 +8,6 @@ tags:
 - "Liverpool"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/12/Image-12Aug2024_00:44:57.png"
 
-permalink: "/opinion/2024/08/12/liverpools-automatic-overlap-zone/"
 ---
 
 A lot of Liverpool's play involves [one player receiving and moving back with the other moving forward](https://tacticsjournal.com/2024/08/01/liverpool-training-exercise-to-replicate-slots-build-up/); naturally, their fullbacks position themselves to the inside of the wingers to automatically overlap once the ball is played wide. 

@@ -9,7 +9,6 @@ tags:
 - "Manchester City" 
 image: "https://i.imgur.com/GNzbQYb.jpg"
 
-permalink: "/opinion/2023/05/27/jan-paul-van-hecke-and-levi-colwill-star-in-brighton's-counter-press/"
 ---
 
 May 27, 2023 — Jan Paul van Hecke and Levi Colwill were the stars of Brighton's aggressive and brave man-to-man marking counter-press, putting pressure on Manchester City's midfielders and Erling Haaland.

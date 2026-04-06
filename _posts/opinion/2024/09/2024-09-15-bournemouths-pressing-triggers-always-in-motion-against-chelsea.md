@@ -9,7 +9,6 @@ tags:
 - "Bournemouth"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/15/Image-15Sep2024_00:51:05.png"
 
-permalink: "/opinion/2024/09/15/bournemouths-pressing-triggers-always-in-motion-against-chelsea/"
 ---
 
 Bournemouth's pressing triggers were well timed to always apply pressure in an athletic stance to the back of Cole Palmer and Noni Madueke when they received facing their own goal, while curving the structure of their press to block off the pass infield.

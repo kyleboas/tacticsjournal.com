@@ -4,7 +4,6 @@ date: 2024-12-14 12:00 UTC
 title: "Appropriation"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/13/Image-13Dec2024_15:54:28.png"
 
-permalink: "/opinion/2024/12/14/appropriation/"
 ---
 
 In football we find the meta, what works, who wins, and we steal those ideas and make them our own, making small tweaks. We can learn a lot about that same practice when you look at art.

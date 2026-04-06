@@ -8,7 +8,6 @@ tags:
 - "Bayern Munich"
 image: "https://i.imgur.com/f63G7Im.jpeg"
 
-permalink: "/opinion/2024/04/09/musiala-showing-to-the-ball-when-goretzka-drops/"
 ---
 
 Against Dortmund, when Leon Goretzka dropped to the left of Eric Dier, Jamal Musiala checked to the ball, moving into the half-space, and Alphonso Davies pushed up the wing. If you block off that pass, Bayern Munich are forced to switch.

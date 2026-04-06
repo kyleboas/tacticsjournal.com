@@ -10,7 +10,6 @@ tags:
 - "Germany"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/08/Image-08Jul2024_23:36:39.png"
 
-permalink: "/opinion/2024/07/09/spain-allows-space-wide-to-push-fullbacks-inside/"
 ---
 
 Spain have been doing this all tournament, but it became clear after the Germany match that they are fine with allowing space out wide to limit space central. Fullbacks Dani Carvajal and Marc Cucurella almost bait the pass wide to push inside. 

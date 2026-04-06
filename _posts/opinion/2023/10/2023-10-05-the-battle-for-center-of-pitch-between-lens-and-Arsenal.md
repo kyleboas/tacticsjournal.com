@@ -11,7 +11,6 @@ tags:
 - "Lens"
 image: "https://i.imgur.com/3CPz7Uy.jpg"
 
-permalink: "/opinion/2023/10/05/the-battle-for-center-of-pitch-between-lens-and-Arsenal/"
 ---
 
 The battle for Lens is the center of the pitch and they won that battle against Arsenal. Stopping Declan Rice and Martin Ødegaard was the key to haulting Arsenal's progression  into the final third.

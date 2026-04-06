@@ -9,7 +9,6 @@ tags:
 - "Liverpool"
 image: "https://i.imgur.com/gtXTb2Z.jpeg"
 
-permalink: "/opinion/2024/02/02/liverpools-negatively-angled-runs-on-the-break/"
 ---
 
 Liverpool's wide players angle their runs too narrow on the counter. If they widened their run it would open space for both the ball carrier and improve the angles for the man receiving the ball. 

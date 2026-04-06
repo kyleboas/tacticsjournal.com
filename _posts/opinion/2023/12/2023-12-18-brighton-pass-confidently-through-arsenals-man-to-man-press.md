@@ -9,7 +9,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/vQysKNl.jpg"
 
-permalink: "/opinion/2023/12/18/brighton-pass-confidently-through-arsenals-man-to-man-press/"
 ---
 
 If you can get past Arsenal's man-to-man counter press, you are doing something right, and Brighton were doing something right yesterday. They confidently use their ball-side forwards to quickly bait movement.

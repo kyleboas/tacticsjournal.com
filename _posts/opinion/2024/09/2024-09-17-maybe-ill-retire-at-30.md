@@ -8,7 +8,6 @@ categories:
 - "Europa League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/16/Image-16Sep2024_23:20:07.png"
 
-permalink: "/opinion/2024/09/17/maybe-ill-retire-at-30/"
 ---
 
 Liverpool goalkeeper Alisson Becker says "nobody asked the players what they think about adding more games, so maybe our opinion doesn't matter," and Manchester City defender Manuel Akanji says he "might retire at 30". The upcoming schedule is inhumane.

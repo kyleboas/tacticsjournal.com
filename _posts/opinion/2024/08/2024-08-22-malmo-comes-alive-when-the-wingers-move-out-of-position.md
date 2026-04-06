@@ -11,7 +11,6 @@ tags:
 - "Relationism"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/22/Image-22Aug2024_00:35:50.png"
 
-permalink: "/opinion/2024/08/22/malmo-comes-alive-when-the-wingers-move-out-of-position/"
 ---
 
 Up until around the 35th minute, Malmö had trouble stringing together an attack against Sparta Prague. They came alive when wingers Sebastian Nanasi and Hugo Bolin started moving to the ball side.

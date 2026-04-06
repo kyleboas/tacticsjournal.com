@@ -4,7 +4,6 @@ date: 2025-10-31 11:00 UTC
 title: "Get feedback from the right people"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/30/Image-30Oct2025_18:58:38.png"
 
-permalink: "/opinion/2025/10/31/get-feedback-from-the-right-people/"
 ---
 
 Since I started the Tactics Journal, I have received several dozen messages from other writers, podcasters, and video creators asking for feedback on their work before I find it myself. I ignore all of them. Here is why.

@@ -9,7 +9,6 @@ tags:
 - "Manchester United"
 image: "https://i.imgur.com/9dRcNjA.jpg"
 
-permalink: "/opinion/2023/08/15/andre-onana-weakness-leaning-back-passing-to-his-right/"
 ---
 
 August 15, 2023 — Andre Onana's weakness is his slower passes when he leans back to pass to the right, and Wolves used that specific pass as a press trigger to win back the ball from Manchester United.

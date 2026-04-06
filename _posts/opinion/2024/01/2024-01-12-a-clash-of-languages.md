@@ -4,7 +4,6 @@ date: 2024-01-12 08:00 UTC
 title: "A Clash of Languages"
 image: "https://i.imgur.com/F07IKmX.jpeg"
 
-permalink: "/opinion/2024/01/12/a-clash-of-languages/"
 ---
 
 I had two takeaways from [this brilliant conversation with István Beregi and Jamie Hamilton in Spielverlagerung](https://spielverlagerung.com/2024/01/10/protagonists-of-the-game-between-absolutism-and-relativism/): One, it is very hard to describe functional play. Two, the game is losing emotion.

@@ -9,7 +9,6 @@ tags:
 - "Nottingham Forest"
 image: "https://i.imgur.com/VApRyJU.jpg"
 
-permalink: "/opinion/2023/09/24/matheus-nunes-strengths-in-one-play/"
 ---
 
 September 24, 2023 — Matheus Nunes showcases his awareness to cover for Manuel Akanji and intercept a counter, his De Bruyne like qualities attacking the half-space, and then a pinpoint cross into Erling Haaland for this Manchester City goal.

@@ -8,7 +8,6 @@ tags:
 - "Bayer Leverkusen"
 image: "https://i.imgur.com/ZDUWoUb.jpeg"
 
-permalink: "/opinion/2024/01/21/florian-wirtz-acceleration-and-deceleration/"
 ---
 
 Florian Wirtz is an expert at combining acceleration and deceleration to manipulate the position of the feet and hips of the defender, creating space. 

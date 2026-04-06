@@ -8,7 +8,6 @@ tags:
 image: "https://i.imgur.com/klcQ16i.jpeg"
 tweet: "Teams that prioritize versatility will have an edge because spatial players are necessary if you want to implement relational principles. As @toni_Gagliardi and Francesco Bordin describe, this is an effective response to man-marking strategies."
 
-permalink: "/opinion/2024/05/17/perimetral-and-spacial-players/"
 ---
 
 Teams that prioritize versatility will have an edge because spatial players are necessary if you want to implement relational principles. As Antonio Gagliardi and Francesco Bordin describe, this is an effective response to man-marking strategies.

@@ -10,7 +10,6 @@ tags:
 - "Denmark"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/30/Image-30Jun2024_01:10:41.png"
 
-permalink: "/opinion/2024/06/30/germany-adjusts-gundogans-position-to-open-space-central-against-denmark/"
 ---
 
 Germany made an adjustment from the match against Switzerland to open space central against Denmark for Robert Andrich by having İlkay Gündoğan stay ahead of Jamal Musiala and Leory Sané. This gave them time to play vertically to runners ahead.

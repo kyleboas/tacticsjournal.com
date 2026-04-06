@@ -9,7 +9,6 @@ tags:
 - "Belgium"
 image: "https://i.imgur.com/N8EobJA.png"
 
-permalink: "/opinion/2023/11/23/watch-the-defenders-hips-and-opposite-foot-when-jeremy-doku-dribbles/"
 ---
 
 You don't want to watch Jeremey Doku; you want to watch two things from the defender: their hips and opposite foot to see the space he wants to attack. 

@@ -8,7 +8,6 @@ tags:
 - "Wolves"
 - "Leicester"
 image: "https://i.imgur.com/SFzNr5O.jpg"
-permalink: /Wolves-pounce-on-a-flat-footed-Youri-Tielemans-and-unprepared-Leicester/
 --- 
 
 April 22, 2023 — This has not been a good week for those passing forward to flat-footed defenders or midfielders facing goal.

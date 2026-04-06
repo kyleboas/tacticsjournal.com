@@ -9,7 +9,6 @@ tags:
 - "Crystal Palace"
 image: "https://i.imgur.com/R48pZUl.jpg"
 
-permalink: "/opinion/2023/12/17/manchester-citys-with-alvarez-foden-grealish-and-lewis/"
 ---
 
 Manchester City's two best performances of the season came in the past two matches, in a 3-4-3 diamond, with Julian Alvarez up top, Phil Foden behind as the 10, and two controllers in the half-space.

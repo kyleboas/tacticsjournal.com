@@ -4,7 +4,6 @@ date: 2025-04-30 12:00 UTC
 title: "Enjoying chasing"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/04/29/Image-29Apr2025_21:54:54.png"
 
-permalink: "/opinion/2025/04/30/enjoying-chasing/"
 ---
 
 There are people out there that enjoy watching their team not have the ball. They exist. How do you wake up in the morning and look forward to chasing the ball? I can't understand the mindset of a person who enjoys chasing the ball.

@@ -10,7 +10,6 @@ tags:
 - "Liverpool"
 image: "https://i.imgur.com/4KMnrlx.jpeg"
 
-permalink: "/opinion/2024/01/08/kai-havertz-is-a-momentum-killer/"
 ---
 
 Kai Havertz is a killer of momentum for Arsenal despite all his positives — hold-up play, dueling, positioning, finding space — his inconsistent touch and pass combined with his inability to pull the trigger ruins most plays he is involved in.

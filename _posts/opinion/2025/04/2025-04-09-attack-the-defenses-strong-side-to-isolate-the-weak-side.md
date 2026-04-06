@@ -9,7 +9,6 @@ tags:
 - "Arsenal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/04/08/Image-08Apr2025_21:34:28.png"
 
-permalink: "/opinion/2025/04/09/attack-the-defenses-strong-side-to-isolate-the-weak-side/"
 ---
 
 Entering on the strong side of a defense, overloading the strong side, makes more sense to me than attempting to play through the opposition's weak side because you want the final action to take place on the weak side. 

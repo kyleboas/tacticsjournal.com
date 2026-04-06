@@ -4,7 +4,6 @@ date: 2025-08-27 11:00 UTC
 title: "Benefit from the struggle"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/26/Image-26Aug2025_23:51:32.png"
 
-permalink: "/opinion/2025/08/27/benefit-from-the-struggle/"
 ---
 
 If you want to experience football fully, you need to watch teams at all levels, not only the high-level teams. You have to see the creative ways teams compromise.

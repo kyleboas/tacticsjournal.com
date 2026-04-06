@@ -7,7 +7,6 @@ categories:
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/18/Image-18Aug2024_01:54:31.png"
 tweet: "If I wanted to buy a rare or unique football shirt from the past, I would buy from Classic Football Shirts. They are the market leader in original classic and authentic football shirts. Here are some of my favorite shirts. #ad"
 
-permalink: "/opinion/2024/08/19/sponsor-classic-football-shirts/"
 ---
 
 If I wanted to buy a rare or unique football shirt from the past, I would buy from [Classic Football Shirts](https://www.classicfootballshirts.co.uk/?ref=mzgymjq&cid=&utm_source=affiliates). They are the market leader in original classic and authentic football shirts. Here are some of my favorite shirts.

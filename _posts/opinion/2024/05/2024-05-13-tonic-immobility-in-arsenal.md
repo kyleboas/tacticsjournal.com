@@ -9,7 +9,6 @@ tags:
 - "Arsenal"
 image: "https://i.imgur.com/4XNs5jS.jpeg"
 
-permalink: "/opinion/2024/05/13/tonic-immobility-in-arsenal/"
 ---
 
 Manchester United did something that Liverpool and Tottenham could not against Arsenal; they remained patient the entire match. If you do not rush, they will allow you to attack them, rush and they smother you. This is how you immobilize Arsenal.

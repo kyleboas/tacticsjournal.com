@@ -4,7 +4,6 @@ date: 2025-01-12 12:00 UTC
 title: "The distracted striker"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/11/Image-11Jan2025_22:42:32.png"
 
-permalink: "/opinion/2025/01/12/the-distracted-striker/"
 ---
 
 The best strikers are driven by one thing, and they focus on goals. When others are thinking about defending, the build-up, crossing, maintaining possession, the focused striker thinks about the goal. A distracted striker can become ineffective.

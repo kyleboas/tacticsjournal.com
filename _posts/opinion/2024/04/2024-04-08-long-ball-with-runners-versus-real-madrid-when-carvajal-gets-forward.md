@@ -8,7 +8,6 @@ tags:
 - "Real Madrid"
 image: "https://i.imgur.com/8zchHd0.jpeg"
 
-permalink: "/opinion/2024/04/08/long-ball-with-runners-versus-real-madrid-when-carvajal-gets-forward/"
 ---
 
 Daniel Carvajal likes to get further forward and help out on the far-side in the box. When Osasuna kick the ball long, Real Madrid have a tendency to gravitate towards the ball, leaving men open on the counter for the flick on.

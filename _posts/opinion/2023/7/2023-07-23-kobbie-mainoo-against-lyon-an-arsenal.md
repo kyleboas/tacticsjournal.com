@@ -8,7 +8,6 @@ tags:
 - "Manchester United"
 image: "https://i.imgur.com/VIrXMfS.jpg"
 
-permalink: "/opinion/2023/07/23/kobbie-mainoo-against-lyon-an-arsenal/"
 ---
 
 July 23, 2023 — Kobbie Mainoo, playing for Manchester United, has impressed in the past two matches against Lyon and Arsenal, but his movement to the back-line in the build-up is what interests me.

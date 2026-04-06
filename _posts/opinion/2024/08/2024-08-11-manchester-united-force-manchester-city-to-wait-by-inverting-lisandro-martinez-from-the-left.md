@@ -10,7 +10,6 @@ tags:
 - "Manchester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/11/Image-11Aug2024_01:10:13.png"
 
-permalink: "/opinion/2024/08/11/manchester-united-force-manchester-city-to-wait-by-inverting-lisandro-martinez-from-the-left/"
 ---
 
 When Lisandro Martinez inverted from the left for Manchester United, it halted Manchester City's press because Oscar Bobb was forced to mark him. Then all United had to do was drop a forward or midfielder back to progress forward.
