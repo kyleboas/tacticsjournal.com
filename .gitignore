@@ -10,3 +10,9 @@ node_modules
 package.json
 /_posts/2024
 2024/03/**
+_growth/
+_worker.js
+_worker_redirects/
+check_api*.py
+send_waitlist_email.py
+check_subs.py
