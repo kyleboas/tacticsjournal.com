@@ -7,7 +7,6 @@ categories:
 tags:
 - "Arsenal"
 image: "https://i.imgur.com/5kSP601.jpg"
-
 ---
 
 August 3, 2023 — Declan Rice played a wider role for Arsenal yesterday outside of left-back Jurrien Timber, and it better suited his style of play.

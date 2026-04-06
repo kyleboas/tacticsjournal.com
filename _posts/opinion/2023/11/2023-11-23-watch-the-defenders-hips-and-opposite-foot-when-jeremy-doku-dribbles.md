@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 - "Belgium"
 image: "https://i.imgur.com/N8EobJA.png"
-
 ---
 
 You don't want to watch Jeremey Doku; you want to watch two things from the defender: their hips and opposite foot to see the space he wants to attack. 

@@ -10,7 +10,6 @@ tags:
 - "PSG"
 - "Newcastle"
 image: "https://i.imgur.com/fl6PAbk.jpg"
-
 ---
 
 PSG played side-to-side in the first half, had little success, and then adjusted in the second half to execute several line-breaking passes to bypass Newcastle's wide-area dominance. That led to the final progressive pass from Vitinha that resulted in a handball.

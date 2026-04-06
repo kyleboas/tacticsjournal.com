@@ -9,7 +9,6 @@ tags:
 - "Tottenham"
 - "Hearts"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_00:00:33.png"
-
 ---
 
 There are early signs of [improvisation](https://tacticsjournal.com/2024/05/03/tottenham-need-to-improvise/) from Tottenham in their first preseason match, as they lined up with no natural center-backs. Improvisation spawned from passing and moving, more movement off the ball, and one-touch one-twos.

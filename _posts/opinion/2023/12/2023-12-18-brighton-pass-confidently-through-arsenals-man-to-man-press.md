@@ -8,7 +8,6 @@ tags:
 - "Brighton"
 - "Arsenal"
 image: "https://i.imgur.com/vQysKNl.jpg"
-
 ---
 
 If you can get past Arsenal's man-to-man counter press, you are doing something right, and Brighton were doing something right yesterday. They confidently use their ball-side forwards to quickly bait movement.

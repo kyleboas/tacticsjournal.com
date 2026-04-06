@@ -8,7 +8,6 @@ tags:
 - "Wolves"
 - "Manchester United"
 image: "https://i.imgur.com/9dRcNjA.jpg"
-
 ---
 
 August 15, 2023 — Andre Onana's weakness is his slower passes when he leans back to pass to the right, and Wolves used that specific pass as a press trigger to win back the ball from Manchester United.

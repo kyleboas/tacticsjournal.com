@@ -11,7 +11,6 @@ tags:
 - "Croatia"
 - "Albania"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/25/Image-25Jun2024_00:19:37.png"
-
 ---
 
 Flip between the two matches, and you see two opposite ways to approach a deciding match. Italy sat back and allowed Croatia to endlessly attack. Spain defended by keeping the ball from Albania. It is much harder to score when you do not have the ball.

@@ -9,7 +9,6 @@ tags:
 - "PSV"
 - "Juventus"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/18/Image-18Sep2024_01:02:51.png"
-
 ---
 
 Juventus have conceded only one goal this season because they have found a way to remain active without overextending themselves. They have a high level of patience. The key is in the way Locatelli, Bremer, and Gatti dictate their level of aggression.

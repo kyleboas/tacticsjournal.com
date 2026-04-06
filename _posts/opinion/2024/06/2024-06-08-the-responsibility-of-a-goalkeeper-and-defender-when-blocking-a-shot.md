@@ -7,7 +7,6 @@ categories:
 tags:
 - "England"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/08/Image-08Jun2024_01:05:14.png?raw=true"
-
 ---
 
 Iceland's goal against England was an example of the responsibility placed on the goalkeeper, Aaron Ramsdale, and defender, John Stones, when the defender goes to block a shot. Stones blocks the far post, and Ramsdale is responsible for the near post.

@@ -9,7 +9,6 @@ categories:
 tags:
 - "England"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/20/Image-20Jun2024_03%3A00%3A06.png"
-
 ---
 
 English food is bland, but English football, due to exports from other nations, is not. The Premier League is a giant melting pot of tactical ideas from around Europe, but the national team was detached from those ideas before.

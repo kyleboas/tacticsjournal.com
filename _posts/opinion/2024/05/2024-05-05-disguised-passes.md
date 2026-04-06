@@ -3,7 +3,6 @@ layout: post
 date: 2024-05-05 11:00 UTC
 title: "Disguised passes"
 image: "https://i.imgur.com/RkG6rja.jpeg"
-
 ---
 
 Creating space doesn't only have to come from carrying or an off-the-ball run; simple deception from the passer is enough. Holding midfielders need to find the least obvious pass, and a disguised pass tricks defenses into opening space for that pass.

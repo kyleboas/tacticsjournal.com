@@ -7,7 +7,6 @@ categories:
 tags:
 - "Barcelona"
 image: "https://i.imgur.com/TZolWeh.jpg"
-
 ---
 
 Bojan Krkic on mentoring Barcelona's younger generation of players, in [Sid Lowe's story for The Guardian](https://www.theguardian.com/football/2023/nov/03/bojan-the-anxious-wonderkid-is-back-at-barcelona-guiding-next-generation):

@@ -10,7 +10,6 @@ tags:
 - "Manchester City"
 - "Real Madrid"
 image: "https://i.imgur.com/Z0mr2qr.jpg"
-
 ---
 
 May 18, 2023 — Rodri, for Manchester City against Real Madrid, shows why he is one of the world's best defensive midfielders with his ability to see the entire field and pick the right pass.

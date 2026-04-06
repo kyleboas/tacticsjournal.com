@@ -8,7 +8,6 @@ tags:
 - "Brentford"
 - "West Ham"
 image: "https://i.imgur.com/0pweafS.jpg"
-
 ---
 
 May 15, 2023 – Brentford are experts at set-pieces, but their long throw-ins are executed to perfection, and teams should copy this routine they used against West Ham yesterday.

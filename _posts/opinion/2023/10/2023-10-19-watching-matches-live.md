@@ -2,7 +2,6 @@
 layout: post
 date: 2023-10-19 08:00 UTC
 title: "Watching matches live"
-
 ---
 
 Don't always feel the need to make a comment about a match if you haven't watched it live.

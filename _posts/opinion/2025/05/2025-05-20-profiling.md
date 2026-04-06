@@ -3,7 +3,6 @@ layout: post
 date: 2025-05-20 12:00 UTC
 title: "Profiling"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/17/Image-17May2025_10:16:13.png"
-
 ---
 
 The way a player looks plays a major part in how you rate them. Their name, their haircut, their tattoos, their face are massive factors. If Ederson looked like Jason Steele, you would rate him differently. Don't lie to yourself, you factor it in.

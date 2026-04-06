@@ -7,7 +7,6 @@ categories:
 tags:
 - "Liverpool"
 image: "https://i.imgur.com/iAayUH2.jpg"
-
 ---
 
 Harvey Elliott holding the width for Liverpool frees Mohamed Salah to move to the center of the pitch, where he is more dangerous. You need to maintain width to create space centrally, and without a wingman like Elliott, Salah is forced to stay outside.

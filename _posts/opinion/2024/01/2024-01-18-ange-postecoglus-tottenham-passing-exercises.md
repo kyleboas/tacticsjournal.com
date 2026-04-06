@@ -7,7 +7,6 @@ categories:
 tags:
 - "Tottenham"
 image: "https://i.imgur.com/kqVRRVa.png"
-
 ---
 
 Here is a fantastic video breakdown by Raumdeuter13 of the passing drills used in an Ange Postecoglu training session at Tottenham this season and how they are applied in a game.

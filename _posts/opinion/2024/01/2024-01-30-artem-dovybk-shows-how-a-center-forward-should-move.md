@@ -8,7 +8,6 @@ tags:
 - "Celta Vigo"
 - "Girona"
 image: "https://i.imgur.com/yFTidD2.jpeg"
-
 ---
 
 The center-forward should be constantly moving and looking to time the distance of the separation between their marker to either pin or get open, like Artem Dovbyk did in this Girona goal.

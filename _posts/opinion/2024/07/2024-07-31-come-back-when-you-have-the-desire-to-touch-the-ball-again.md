@@ -5,7 +5,6 @@ title: "Come back when you have the desire to touch the ball again"
 categories:
 - "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/31/Image-31Jul2024_02:59:58.png"
-
 ---
 
 This should be one of the strangest starts to a Premier League season in recent memory. Teams that had a lot of representation in the Euro's and Copa America will have players enter their own mini-preseason to start the season.

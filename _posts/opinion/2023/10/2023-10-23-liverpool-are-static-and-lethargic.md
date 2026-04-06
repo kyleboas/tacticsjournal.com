@@ -8,7 +8,6 @@ tags:
 - "Liverpool"
 - "Everton"
 image: "https://i.imgur.com/ejx81FO.jpg"
-
 ---
 
 With Trent Alexander-Arnold inverted and Tsimikas wide, once the ball is played wide, the only pass that opens up is the pass into Alexis Mac Allister centrally.

@@ -7,7 +7,6 @@ categories:
 tags:
 - "Manchester City"
 image: "https://i.imgur.com/MIfRNjD.jpg"
-
 ---
 
 Egos are everwhere in football. You need people who are hungry and willing to fight for their position, like Kalvin Phillips. More importantly, top teams need players who won't complain when they're not getting picked.

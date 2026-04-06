@@ -3,7 +3,6 @@ layout: post
 date: 2023-11-18 08:00 UTC
 title: "Experts don't always make good teachers"
 image: "https://i.imgur.com/pIJwvoE.jpg"
-
 ---
 
 Communication skills coach Vinh Giang perfectly describes, [in this YouTube short](https://youtube.com/shorts/WhUjFxU8w70?si=WAcVJUR10MWy-2OO), what I think is the most necessary quality needed in someone who is sharing their knowledge.

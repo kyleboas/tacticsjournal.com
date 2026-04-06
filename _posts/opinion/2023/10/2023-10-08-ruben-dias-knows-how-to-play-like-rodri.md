@@ -8,7 +8,6 @@ tags:
 - "Manchester City"
 - "Arsenal"
 image: "https://i.imgur.com/kaysVQF.jpg"
-
 ---
 
 There's a case to be made for Ruben Dias to play as the 6 for Manchester City in the absence of Rodri, as he is suspended for the match today against Arsenal.

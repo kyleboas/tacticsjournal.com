@@ -8,7 +8,6 @@ tags:
 - "Liverpool"
 - "Burnley"
 image: "https://i.imgur.com/6hxo99p.jpg"
-
 ---
 
 Trent Alexander-Arnold should be more careful when he plays these blind passes forward. He receives, turns, and immediately attempts a medium pass. Liverpool concede a lot of high-quality chances from these misplaced passes.

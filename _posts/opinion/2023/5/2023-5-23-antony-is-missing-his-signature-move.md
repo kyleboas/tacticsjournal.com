@@ -7,7 +7,6 @@ categories:
 tags: 
 - "Manchester United"
 image: "https://i.imgur.com/j2TwucB.jpg"
-
 --- 
 
 May 23, 2023 — Antony's signature large touch to the left to open up space has been missing since he joined Manchester United, and he missed two opportunities to relive his Ajax years against Bournemouth.

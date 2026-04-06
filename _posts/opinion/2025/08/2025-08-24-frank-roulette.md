@@ -7,7 +7,6 @@ categories:
 tags:
 - "Tottenham"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/23/Image-23Aug2025_19:43:20.png"
-
 ---
 
 The fact that Thomas Frank did not use a back five and sit back and let Manchester City attack in their own half spoke to the confidence he has in the quality of Tottenham's side. The thing that surprised me was that both center backs were active.

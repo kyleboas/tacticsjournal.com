@@ -9,7 +9,6 @@ tags:
 - "Leicester City"
 - "Chelsea"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/27/Image-27May2024_15:32:54.png?raw=true"
-
 ---
 
 Everyone can immediately picture how a 3-box-3 formation would look in attack without thinking. The differences come in how teams that use that similar system defend, and in Leicester City manager Enzo Maresca's variation, the inverted fullback does not drop back.

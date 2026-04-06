@@ -9,7 +9,6 @@ tags:
 - "West Ham"
 - "Newcastle"
 image: "https://i.imgur.com/3Y3Ym1n.jpeg"
-
 ---
 
 I compared two different passages of play of Aston Villa. One from October against West Ham, and the other from Tuesday against Newcastle. The difference in the intention and lack of movement in the Newcastle match is stark in comparison.

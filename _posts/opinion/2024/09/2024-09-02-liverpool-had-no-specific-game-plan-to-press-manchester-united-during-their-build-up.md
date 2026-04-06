@@ -8,7 +8,6 @@ tags:
 - "Manchester United"
 - "Liverpool"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_01:14:54.png"
-
 ---
 
 Arne Slot said that Liverpool did not have a "specific plan" to defend against Manchester United's buildup. Their defense was dictated by how they wanted to attack. Keeping Salah and Diaz high, with Szoboszlai on the left, attacked United's weaknesses.

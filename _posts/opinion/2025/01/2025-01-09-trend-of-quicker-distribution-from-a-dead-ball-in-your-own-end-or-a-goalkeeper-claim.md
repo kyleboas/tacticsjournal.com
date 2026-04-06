@@ -3,7 +3,6 @@ layout: post
 date: 2025-01-09 12:00 UTC
 title: "Trend of quicker distribution from a dead ball in your own end, or a goalkeeper claim"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/08/Image-08Jan2025_21:03:51.png"
-
 ---
 
 Teams that are good at set pieces are taking throw-ins and free kicks quicker when the ball is in their own half. The goalkeeper is distributing the ball quicker. The opposition will be disappointed they lost the ball and run a play when they are distracted.

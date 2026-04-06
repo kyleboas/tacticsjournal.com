@@ -7,7 +7,6 @@ categories:
 tags:
 - "Manchester United"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/04/Image-04Aug2024_21:40:06.png"
-
 ---
 
 Manchester United allow the ball-side center-back to jump out to mark the closest player, but last season this was a problem when the ball was played forward because of the space it created once that center-back retreated. There are two better solutions.

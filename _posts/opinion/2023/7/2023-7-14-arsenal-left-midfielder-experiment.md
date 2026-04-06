@@ -7,7 +7,6 @@ categories:
 tags: 
 - "Arsenal"
 image: "https://i.imgur.com/HwYNHbB.jpg"
-
 ---
 
 Leandro Trossard and Kai Havertz both moved wide when Jakub Kiwior or Kieran Tierney inverted from left-back. Arsenal tried complicated solutions to attempt to replace Granit Xhaka.
