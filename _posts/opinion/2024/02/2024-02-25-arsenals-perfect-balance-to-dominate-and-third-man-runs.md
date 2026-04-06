@@ -8,6 +8,7 @@ tags:
 - "Arsenal"
 - "Newcastle"
 image: "https://i.imgur.com/U1egAfs.jpeg"
+
 ---
 
 Arsenal were dominant against Newcastle because they found the perfect balance of open play, set-piece play, and defensive security. The key to their play in open play improving in the final third was smaller distances between players and more frequent third man runs.

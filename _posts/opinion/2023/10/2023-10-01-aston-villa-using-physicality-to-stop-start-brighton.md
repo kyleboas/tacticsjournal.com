@@ -8,6 +8,7 @@ tags:
 - "Brighton"
 - "Aston Villa"
 image: "https://i.imgur.com/htY9hR6.jpg"
+
 ---
 
 October 1, 2023 — Aston Villa's game-plan to stop Brighton from advancing with the ball was eloquent in its simplicity. Crowd the middle, leave the wide areas open, and then go heavy into the tackle when Brighton attempts to pass out wide. This stifled Brighton's passing rhythm.

@@ -8,6 +8,7 @@ tags:
 - "Manchester United"
 - "Liverpool"
 image: "https://i.imgur.com/hS0cm98.jpg"
+
 ---
 
 Manchester United learned from their mistake last season at Anfield and implemented this well-thought-out transition to counter Liverpool when Alisson stepped forward into the backline, forcing them to play short rather than direct long.

@@ -3,6 +3,7 @@ layout: post
 date: 2023-11-25 08:00 UTC
 title: "Pep Guardiola demonstrates how to orient the body when receiving the ball"
 image: "https://i.imgur.com/PZoaWJ8.jpg"
+
 ---
 
 Pep Guardiola demonstrates how to orient your body to quickly position yourself so you can quickly play the ball and get a broader vision of the entire pitch.

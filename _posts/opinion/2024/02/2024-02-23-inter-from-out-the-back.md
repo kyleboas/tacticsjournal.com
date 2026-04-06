@@ -10,6 +10,7 @@ tags:
 - "Inter"
 - "Atletico Madrid"
 image: "https://i.imgur.com/atcftlO.jpeg"
+
 ---
 
 Inter are one of the most complete teams in Europe in all phases of play. One loss in Serie A, the least amount of goals conceded (12), a balance of the technical skill and power, with an ability to quickly work the ball back-to-front while maintaining numerical superiority in transition.

@@ -8,6 +8,7 @@ tags:
 - "Inter"
 - "Bologna"
 image: "https://i.imgur.com/sFV3x7F.jpeg"
+
 ---
 
 Inter use their outside center-backs, Yann Bisseck and Alessandro Bastoni, to stretch Bologna's second line. This not only opens space between the lines but it also pins their defense back, making Bologna less of a threat on the counter.

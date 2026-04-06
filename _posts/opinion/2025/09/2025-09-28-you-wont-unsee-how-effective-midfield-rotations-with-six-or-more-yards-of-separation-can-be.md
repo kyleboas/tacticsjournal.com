@@ -7,6 +7,7 @@ categories:
 tags:
 - "Manchester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_18:40:43.png"
+
 ---
 
 I can’t unsee how effective a midfielder dropping and maintaining six or more yards of separation is to help break up a compact defense. I wish more teams rotated midfielders back like this to unlock space for easier central progression.

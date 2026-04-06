@@ -3,6 +3,7 @@ layout: post
 date: 2025-11-12 11:00 UTC
 title: "The persistent time on TV ruins football's immersion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/11/Image-11Nov2025_22:56:58.png"
+
 ---
 
 It wasn't a new camera that changed football on TV in the 90s; it was the time that persists on the scorebug. Viewers went from feeling like a member of the crowd to having their attention split between the game and a stopwatch. It ruins your immersion.

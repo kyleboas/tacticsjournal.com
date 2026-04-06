@@ -12,6 +12,7 @@ tags:
 - "Tottenham"
 - "Chelsea"
 image: "https://i.imgur.com/bjBia8n.jpg"
+
 ---
 
 All three of Manchester United's goals came from bypassing Everton's low-block, drawing them out into their own end, and then quickly attacking their back-line. Chelsea, Tottenham, and Manchester City should watch this before their matches.

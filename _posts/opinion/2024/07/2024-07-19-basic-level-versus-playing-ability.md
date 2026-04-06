@@ -3,6 +3,7 @@ layout: post
 date: 2024-07-19 11:00 UTC
 title: "Basic level versus playing ability"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/09/Image-09Jul2024_02:22:49.png"
+
 ---
 
 I was most looking forward to watching Pedri against Germany, and then, bam, in the 7th minute of the game, he is taken out by Toni Kroos in one tackle. We had crunching tackles before, but with less space, it is impossible to avoid them.

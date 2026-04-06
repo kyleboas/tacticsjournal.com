@@ -7,6 +7,7 @@ categories:
 tags:
 - "Brighton"
 image: /uploads/2023/07/18/Image-18Jul2023_06:21:20.jpeg
+
 ---
 
 July 18, 2023 — Pep Guardiola talking about the things he learns from watching Brighton:

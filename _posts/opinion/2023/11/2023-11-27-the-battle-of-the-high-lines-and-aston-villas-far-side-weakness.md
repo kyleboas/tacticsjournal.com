@@ -8,6 +8,7 @@ tags:
 - "Aston Villa"
 - "Tottenham"
 image: "https://i.imgur.com/lLwCOR0.jpg"
+
 ---
 
 I identified a significant weakness in Aston Villa's high line, one that Tottenham failed to exploit. When you breach their back-line, a slow square ball to the far side leaves an uncontested space.

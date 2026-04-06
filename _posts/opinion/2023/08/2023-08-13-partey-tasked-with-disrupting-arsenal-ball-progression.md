@@ -8,6 +8,7 @@ tags:
 - "Arsenal"
 - "Nottingham Forrest"
 image: "https://i.imgur.com/smOylkY.jpg"
+
 ---
 
 On paper, the difference between Thomas Partey playing at right-back versus right center-back is small, but in practice, it impedes Arsenal's ability to progress the ball into the final third.

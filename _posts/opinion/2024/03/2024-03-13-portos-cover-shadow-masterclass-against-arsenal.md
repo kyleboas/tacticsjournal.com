@@ -9,6 +9,7 @@ tags:
 - "Arsenal"
 - "Porto"
 image: "https://i.imgur.com/ws14VO2.jpeg"
+
 ---
 
 Arsenal move through the middle, wide, and then in on goal. Without access to Rice and Ødegaard, they can't move through the middle. They get stuck circulating the ball until they go vertical. Porto's cover shadowing blocked the 8s, blocked the pass back, and forced Arsenal to go long.

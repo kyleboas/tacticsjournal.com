@@ -7,6 +7,7 @@ categories:
 tags:
 - "Tottenham"
 image: "https://i.imgur.com/ySKsSMb.jpg"
+
 ---
 
 Tottenham has a host of injury concerns along with suspensions. Seven of their starters were missing in their 2-1 loss to Wolves on Saturday, most importantly James Maddison. They miss that creator in the middle, and I think now is the time to move Dejan Kulusevski inside.

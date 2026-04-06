@@ -3,6 +3,7 @@ layout: post
 date: 2024-09-12 11:00 UTC
 title: "Avoiding the spectacular"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/11/Image-11Sep2024_16:12:33.png"
+
 ---
 
 Data shows us what is optimal, and we modified how we play to avoid the lower probability chances, but the majority of the nostalgic football fans want to be surprised like they were ten years ago. Those moments were born from not knowing what was optimal.

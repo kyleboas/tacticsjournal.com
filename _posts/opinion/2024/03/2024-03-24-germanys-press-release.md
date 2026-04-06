@@ -6,6 +6,7 @@ tags:
 - "Germany"
 - "France"
 image: "https://i.imgur.com/sosBU42.jpg"
+
 ---
 
 Germany has a move to release pressure and open space for the third man central to receive, triggered by the pass to Toni Kroos. The two players in the half-space make a run across the field, dragging defenders with them, which opens space centrally and wide.

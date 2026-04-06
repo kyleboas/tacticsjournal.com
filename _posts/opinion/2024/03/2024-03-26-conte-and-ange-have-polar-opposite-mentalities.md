@@ -7,6 +7,7 @@ categories:
 tags:
 - "Tottenham"
 image: "https://i.imgur.com/SBwR7YS.jpeg"
+
 ---
 
 The mentality switch for Tottenham from Antonio Conte always having "respect for your opponent" to Ange Postecoglou playing "irrespective of the opponent" was massive.

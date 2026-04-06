@@ -7,6 +7,7 @@ categories:
 tags:
 - "Manchester City"
 image: "https://i.imgur.com/yBh1VFj.jpg"
+
 ---
 
 Yesterday, [I shared a video](https://tacticsjournal.com/2023/11/25/pep-guardiola-demonstrates-how-to-orient-the-body-when-receiving-the-ball/) of Pep Guardiola demonstrating how to orient the body when receiving the ball. Today, Erling Haaland showcases that technique and uses it to explode off his trailing left leg.

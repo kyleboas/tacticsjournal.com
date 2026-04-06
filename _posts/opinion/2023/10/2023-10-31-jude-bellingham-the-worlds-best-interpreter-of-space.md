@@ -8,6 +8,7 @@ tags:
 - "Real Madrid"
 - "Barcelona"
 image: "https://i.imgur.com/TYzxlz9.jpg"
+
 ---
 
 

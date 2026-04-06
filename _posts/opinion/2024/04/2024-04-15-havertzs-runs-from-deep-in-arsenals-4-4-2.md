@@ -8,6 +8,7 @@ tags:
 - "Arsenal"
 - "Aston Villa"
 image: "https://i.imgur.com/kHmSX0m.jpeg"
+
 ---
 
 Arsenal's 4-4-2 was built to get Kai Havertz in those deeper pockets to try to test and time that pass beyond Aston Villa's high-line. The timing of the run and pass was well executed, based on the trigger to pass to Ødegaard and Zinchenko.

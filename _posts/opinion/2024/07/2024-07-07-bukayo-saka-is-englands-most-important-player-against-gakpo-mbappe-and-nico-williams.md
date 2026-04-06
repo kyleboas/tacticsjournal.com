@@ -12,6 +12,7 @@ tags:
 - "Spain"
 - "Netherlands"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_00:24:52.png"
+
 ---
 
 Bukayo Saka is England's most important player because of his complex role out of possession, a role made at the start of the tournament to stop left-wingers like Cody Gakpo for the Netherlands, Kylian Mbappe for France, or Nico Williams for Spain.

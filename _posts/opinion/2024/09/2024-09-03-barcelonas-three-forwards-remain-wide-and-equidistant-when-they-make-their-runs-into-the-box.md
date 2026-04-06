@@ -8,6 +8,7 @@ tags:
 - "Barcelona"
 - "Real Valladolid"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_23:42:40.png"
+
 ---
 
 Barcelona's forwards deliberately space their runs out, equidistant to each other, when they break into the box. That makes it very hard to defend against because of how spread out and the unorthodox nature of Raphinha, Lewandowski, and Dani Olmo's runs.

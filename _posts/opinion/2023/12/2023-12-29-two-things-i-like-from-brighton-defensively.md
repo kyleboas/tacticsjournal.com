@@ -8,6 +8,7 @@ tags:
 - "Brighton"
 - "Tottenham"
 image: "https://i.imgur.com/gtbuWRu.jpeg"
+
 ---
 
 There were two things I liked from Brighton when they played Tottenham: The increased pressure wide from Danny Welbeck and the improved organization of their higher line.

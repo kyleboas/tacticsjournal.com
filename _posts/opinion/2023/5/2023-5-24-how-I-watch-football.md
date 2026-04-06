@@ -3,6 +3,7 @@ layout: post
 date: 2023-5-24 07:00:00 UTC
 title: "How I watch football"
 image: "https://i.imgur.com/Hv5pkLb.jpg"
+
 ---
 
 May 24, 2023 — This is how I watch a football match. I will take you through the first 15 minutes of the Europa League quarter-final match between Roma and Feyenoord to give you a basic view of what I look for. 

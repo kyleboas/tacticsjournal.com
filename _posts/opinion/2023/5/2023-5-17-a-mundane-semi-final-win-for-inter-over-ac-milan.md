@@ -8,6 +8,7 @@ tags:
 - "AC Milan"
 - "Inter"
 image: "https://i.imgur.com/hNPfqFO.jpg"
+
 ---
 
 May 17, 2023 — There was no moment of genius from Rafael Leao, resulting in a mundane match that allowed Inter to easily reach the Champions League final, eliminating AC Milan.

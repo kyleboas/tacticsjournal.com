@@ -5,6 +5,7 @@ title: "Tactically similar football in Euro 2024"
 categories:
 - "Euro 2024"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/05/Image-05Jun2024_03:12:08.png?raw=true"
+
 ---
 
 Kylian Mbappe says Euro 2024 is 'more complicated than the World Cup' because 'all the teams know each other, we play against each other all the time. Tactically it’s very similar football.' I agree.

@@ -3,6 +3,7 @@ layout: post
 date: 2024-11-29 12:00 UTC
 title: "There is more nuance to aerial duels"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_11:56:26.png"
+
 ---
 
 In my opinion, you need to visually see an aerial duel to determine who won, as there is more nuance involved in assessing who is to blame for not winning possession. We should consider whether that stat represents the information we are looking for.

@@ -10,6 +10,7 @@ tags:
 - "Real Madrid"
 - "VfB Stuttgart"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/19/Image-19Sep2024_00:50:38.png"
+
 ---
 
 Here are two moments to explain why VfB Stuttgart's deluge of offside runs was effective at creating space and confusion for Real Madrid's back line and second line. Make a run offside, cut back onside, while simultaneously the next man runs offside.

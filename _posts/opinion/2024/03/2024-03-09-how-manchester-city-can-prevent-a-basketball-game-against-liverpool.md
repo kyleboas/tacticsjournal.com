@@ -8,6 +8,7 @@ tags:
 - "Liverpool"
 - "Manchester City"
 image: "https://i.imgur.com/mNrv6ua.jpeg"
+
 ---
 
 Once the ball crosses the half-way line, Manchester City must make immediate physical contact with the man receiving before their second touch. That is one of the ways they will stop the Liverpool match from becoming a basketball game. 

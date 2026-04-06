@@ -7,6 +7,7 @@ categories:
 tags:
 - "Manchester United"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/02/Image-02Sep2025_10:47:08.png"
+
 ---
 
 Manchester United's newest goalkeeper Senne Lammens is 6'4 and makes great reaction saves, but he has a skinnier build and a shorter reach due to the fact that gets his hands in the game but not his legs. That makes him look less imposing in net.

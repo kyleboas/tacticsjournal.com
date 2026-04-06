@@ -8,6 +8,7 @@ tags:
 - "Inter"
 - "AC Milan"
 image: "https://i.imgur.com/bMqMLlS.jpg"
+
 ---
 
 September 18, 2023 — Inter masterfully exploited space by manipulating it, capitalizing on AC Milan's disjointed man-marking.

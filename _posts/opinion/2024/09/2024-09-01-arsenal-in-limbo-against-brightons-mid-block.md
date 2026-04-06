@@ -8,6 +8,7 @@ tags:
 - "Arsenal"
 - "Brighton"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/01/Image-01Sep2024_01:17:53.png"
+
 ---
 
 Something unusual happens when Arsenal plays against teams that defend in a mid-block. They get stuck in limbo in this middle ground where they can't attack the space behind the opposition's high line, and they can't pin the opposition back in their box.

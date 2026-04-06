@@ -8,6 +8,7 @@ tags:
 - "Girona"
 - "Athletic Club"
 image: "https://i.imgur.com/EDPfLkg.jpg"
+
 ---
 
 In the second phase of possession, Eric Garcia and Daily Blind both jump out to pressure the ball carrier. When Athletic Club worked past one of the two, they had the numerical advantage and an easy run in on goal.

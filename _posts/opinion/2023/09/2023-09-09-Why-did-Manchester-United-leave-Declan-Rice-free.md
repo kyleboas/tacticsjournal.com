@@ -8,6 +8,7 @@ tags:
 - "Manchester United"
 - "Arsenal"
 image: "https://i.imgur.com/lwKRD0N.jpg"
+
 ---
 
 September 9, 2023 — Why was Declan Rice so free on the back post against Manchester United? The better question is, 'why didn't Arsenal score more than one goal from a corner?' because United left men free on the back post all match.

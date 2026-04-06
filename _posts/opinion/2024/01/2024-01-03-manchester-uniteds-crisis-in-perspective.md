@@ -11,6 +11,7 @@ tags:
 - "Aston Villa"
 - "Manchester City"
 image: "https://i.imgur.com/dP8Oqfj.jpeg"
+
 ---
 
 I have put together an equivalent list of players from each team, in the current top four, to put Manchester United's injury crisis into perspective.

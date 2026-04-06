@@ -8,6 +8,7 @@ tags:
 - "Manchester City"
 - "Everton"
 image: "https://i.imgur.com/roJ9xLz.jpg"
+
 ---
 
 Manchester City are baiting the press more frequently than they usually do, waiting for the opponent to move before playing the ball forward. This is a good example of a well-executed baited press passing sequence.

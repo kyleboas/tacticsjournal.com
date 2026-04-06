@@ -5,6 +5,7 @@ title: "Germany is in the street again"
 tags:
 - "Germany"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/09/Image-09Jun2024_22:08:46.png?raw=true"
+
 ---
 
 Norbert Elgert has been Schalke 04's U19 coach since 1996. He says Germany is 'back on the right path' because they've reverted back to street football. 'Coaches are there to coach through supervision, not by constantly determining what’s happening.'

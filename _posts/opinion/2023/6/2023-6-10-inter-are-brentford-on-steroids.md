@@ -8,6 +8,7 @@ tags:
 - "Manchester City"
 - "Inter"
 image: "https://i.imgur.com/9Ht7mNo.jpg"
+
 ---
 
 June 10, 2023 — Inter is my favorite to win the Champions League Final if Manchester City fails to tackle these seven challenges. 

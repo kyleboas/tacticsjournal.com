@@ -5,6 +5,7 @@ title: "Reassembling Arsenal’s Invincibles"
 tags: 
 - "Arsenal"
 image: "https://i.imgur.com/xmIRHS5.jpg"
+
 ---
 
 Arsenal played behind closed doors against Watford. Mikel Arteta gave us a first preview into what the second striker role might look like for Kai Havertz and Leandro Trossard.

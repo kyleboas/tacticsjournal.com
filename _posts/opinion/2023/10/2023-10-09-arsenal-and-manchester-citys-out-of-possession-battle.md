@@ -8,6 +8,7 @@ tags:
 - "Manchester City"
 - "Arsenal"
 image: "https://i.imgur.com/v9mz9hf.jpg"
+
 ---
 
 Odd that Arsenal didn't start Kai Havertz based on how well they were able to stop Manchester City in the Community Shield with the narrow front three of Havertz, Ødegaard, and Rice counter-pressing. 

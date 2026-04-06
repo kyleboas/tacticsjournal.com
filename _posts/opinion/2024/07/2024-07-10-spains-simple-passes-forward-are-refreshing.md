@@ -9,6 +9,7 @@ tags:
 - "Spain"
 - "France"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:57:40.png"
+
 ---
 
 Watching France, Portugal, or England pass sideways is like drinking hot Dasani water in the sun, while watching Spain is like chugging an ice-cold glass of water in the shade. It's refreshing to see a team pass forward through the middle of the pitch.

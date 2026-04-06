@@ -3,6 +3,7 @@ layout: post
 date: 2024-01-24 08:00 UTC
 title: "I will see him"
 image: "https://i.imgur.com/smBnpH1.jpeg"
+
 ---
 
 Kevin-Prince Boateng tells a story from one of his first few training sessions at AC Milan that demonstrates just how good a player Andrea Pirlo was, how good is vision was, and how he wanted his teammates to communicate.

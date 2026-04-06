@@ -7,6 +7,7 @@ categories:
 tags:
 - "Bayern Munich"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/30/Image-30May2024_00:04:52.png?raw=true"
+
 ---
 
 Vincent Kompany is misunderstood. He can be successful at Bayern Munich but it takes some imagination to say how successful he can be. Burnley played as if they had Manchester City's squad, regardless of whether they had the quality to execute.

@@ -8,6 +8,7 @@ categories:
 tags:
 - "Bayern Munich"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/18/Image-18Sep2024_02:04:44.png"
+
 ---
 
 Bayern Munich manager Vincent Kompany said, "Do you just stop believing in yourself and what you can achieve because of what other people say?" when asked about the skeptics who said the Bayern job was too big a step up. "The mentality is to keep going."

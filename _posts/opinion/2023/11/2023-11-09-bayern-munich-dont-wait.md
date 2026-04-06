@@ -9,6 +9,7 @@ tags:
 - "Bayern Munich"
 - "Galatasaray"
 image: "https://i.imgur.com/WbzAeyM.jpg"
+
 ---
 
 The thing I like about Bayern Munich is that they don't wait. They don't rush, but they are calculated when they start an attack. There are no wasted passes. No wasted runs.

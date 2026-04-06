@@ -8,6 +8,7 @@ tags:
 - "England (U21)"
 - "Newcastle"
 image: "https://i.imgur.com/C82JyxI.jpg"
+
 ---
 
 July 8, 2023 — Anthony Gordon joined Newcastle for £45m in January, and the club's influence is beginning to show in his play, especially in this match for the England U21s against Portugal.

@@ -7,6 +7,7 @@ categories:
 tags:
 - "Manchester City"
 image: "https://i.imgur.com/uDuPkEN.jpg"
+
 ---
 
 August 12, 2023 — The most significant area of improvement for Manchester City this season will be the efficiency of their set-pieces, and we've begun to see glimpses in preseason and against Burnley yesterday.

@@ -8,6 +8,7 @@ tags:
 - "Manchester City"
 - "Nottingham Forest"
 image: "https://i.imgur.com/VApRyJU.jpg"
+
 ---
 
 September 24, 2023 — Matheus Nunes showcases his awareness to cover for Manuel Akanji and intercept a counter, his De Bruyne like qualities attacking the half-space, and then a pinpoint cross into Erling Haaland for this Manchester City goal.

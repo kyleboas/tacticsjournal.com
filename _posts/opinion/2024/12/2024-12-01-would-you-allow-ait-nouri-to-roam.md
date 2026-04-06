@@ -7,6 +7,7 @@ categories:
 tags:
 - "Wolves"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/30/Image-30Nov2024_17:07:39.png"
+
 ---
 
 Rayan Ait Nouri is a player worthy of you tuning in, even if you are not a fan of the team he is playing for. He plays for Wolves. But if you tune in now, you won't see him at his height, his full potential, because they are not using him in the way they did last season. Would you do the same?
