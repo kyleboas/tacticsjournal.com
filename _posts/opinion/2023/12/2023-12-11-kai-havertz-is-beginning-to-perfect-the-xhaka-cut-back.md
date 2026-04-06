@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 - "Aston Villa"
 image: "https://i.imgur.com/7Btvb8i.jpg"
-
 ---
 
 This sequence is Arsenal's bread and butter. Cut down the line into the left half-space, cut the ball back, and either a first-time shot or a lay-off. This looks well drilled into Kai Havertz now.

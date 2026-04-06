@@ -9,7 +9,6 @@ tags:
 - "Liverpool"
 - "Norwich"
 image: "https://i.imgur.com/oUts6qL.jpeg"
-
 ---
 
 Conor Bradley is an option at right-back which will allow Trent Alexander-Arnold to move into Liverpool's midfield permanently. Other than Gomez, he is their best defender at full-back, and he has the required crossing ability and link-up play.

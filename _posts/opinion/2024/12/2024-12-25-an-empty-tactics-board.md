@@ -3,7 +3,6 @@ layout: post
 date: 2024-12-25 12:00 UTC
 title: "An empty tactics board"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/22/Image-22Dec2024_08:59:33.png"
-
 ---
 
 Remove the names and numbers of the players on your tactics board, and all you have left is shapes. Those shapes can help you instruct; I can tell you where they are and where they might go, but they don't provide enough context.

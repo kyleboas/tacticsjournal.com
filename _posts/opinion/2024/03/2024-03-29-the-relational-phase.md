@@ -11,7 +11,6 @@ tags:
 - "Relationism"
 image: "https://i.imgur.com/e8IIM8F.jpeg"
 tweet: "I like Thiago Motta's phrase 'relational phase'. The word phase assumes it's temporary. A hybrid between the predictable positional phase and the unpredictable where players are allowed to move out of position to find solutions. Video by @ThePurist_"
-
 ---
 
 I like Bologna manager, Thiago Motta's phrase, "relational phase". The word phase assumes it's temporary. A hybrid between the predictable positional phase and the unpredictable where players are allowed to move out of position to find solutions.

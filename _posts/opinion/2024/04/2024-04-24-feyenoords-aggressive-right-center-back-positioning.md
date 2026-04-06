@@ -7,7 +7,6 @@ categories:
 tags:
 - "Feyenoord"
 image: "https://i.imgur.com/SYczHa6.jpeg"
-
 ---
 
 I went through all of Feyenoord's conceded goals since November 25th. Arne Slot seems to instruct all of their right center-backs to position themselves aggressively wide or to follow the center-forward, which has left them vulnerable in settled play.

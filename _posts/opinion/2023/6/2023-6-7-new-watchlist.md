@@ -5,7 +5,6 @@ title: "New Watchlist"
 categories: 
 - "Update" 
 image: "https://i.imgur.com/fNITcFf.jpg"
-
 ---
 
 June 7, 2023 — I have decided to create a public watchlist of players whom I think are undervalued, separated by position and age, with links to both their FBref page and a YouTube compilation.

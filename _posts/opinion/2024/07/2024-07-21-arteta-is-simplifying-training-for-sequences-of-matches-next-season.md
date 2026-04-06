@@ -7,7 +7,6 @@ categories:
 tags:
 - "Arsenal"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/21/Image-21Jul2024_00:09:59.png"
-
 ---
 
 Arsenal manager Mikel Arteta has hinted at simplifying the process of training for certain sequences of matches due to the more congested schedule. Instead of preparing for each individual opponent, they will prepare to play against a similar system.

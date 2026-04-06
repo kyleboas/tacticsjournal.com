@@ -9,7 +9,6 @@ tags:
 - "Kalmar"
 - "Relationism"
 image: "https://i.imgur.com/Vuy8RF9.jpeg"
-
 ---
 
 When Malmö overloads one of the wings to crowd around the ball, don't watch them, watch the opposition defense and how their shape is manipulated by their movement. It is nearly impossible to man-mark them, which makes maintaining shape more difficult.

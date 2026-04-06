@@ -3,7 +3,6 @@ layout: post
 date: 2025-05-25 12:00 UTC
 title: "Fullbacks have always been important"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/24/Image-24May2025_20:52:08.png"
-
 ---
 
 To say that, now, fast-attacking fullbacks are important is a lie. They never stopped being important, but they became too rare a commodity. No one could find them. They have started to turn up again. If you don't have two, you must get them, or else.

@@ -9,7 +9,6 @@ tags:
 - "England"
 - "Spain"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/14/Image-14Jul2024_23:11:06.png"
-
 ---
 
 If you put Kane, Saka, Bellingham, and Foden into Spain's side against the opposition England faced, I don't think they would play worse than Morata, Nico Williams, Yamal, and Pedri. Look at the players passing the ball, not those receiving the ball.

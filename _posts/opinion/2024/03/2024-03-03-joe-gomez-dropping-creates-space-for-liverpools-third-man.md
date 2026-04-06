@@ -8,7 +8,6 @@ tags:
 - "Liverpool"
 - "Nottingham Forest"
 image: "https://i.imgur.com/kvKMOzf.jpeg"
-
 ---
 
 Liverpool had an easier time progressing past Nottingham Forest's mid-block when Joe Gomez dropped between Virgil Van Dijk and Ibrahima Konate because it opened space for the third man pass to Mac Allister, Diaz, Gakpo, and Elliott.

@@ -7,7 +7,6 @@ categories:
 tags:
 - "Chelsea"
 image: "https://i.imgur.com/xLjrwv0.jpg"
-
 ---
 
 You can feel the weight of inexperience on the shoulders of the experienced Thiago Silva and Raheem Sterling when you watch Chelsea. They look like a group of kids because they are, with the second lowest average squad age at 25.1. That is a lot of weight. 

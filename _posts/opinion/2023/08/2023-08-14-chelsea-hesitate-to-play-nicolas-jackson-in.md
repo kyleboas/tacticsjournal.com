@@ -8,7 +8,6 @@ tags:
 - "Chelsea"
 - "Liverpool"
 image: "https://i.imgur.com/VhWMWbd.jpg"
-
 ---
 
 August 14, 2023 — Chelsea hesitated to play the pass in to Nicolas Jackson against Liverpool on several occasions, wasting high-quality chances. 

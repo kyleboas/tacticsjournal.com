@@ -8,7 +8,6 @@ tags:
 - "Inter"
 - "Fiorentina"
 image: "https://i.imgur.com/kB2OepC.jpg"
-
 ---
 
 May 25, 2023 — Inter is a very compact and strong side. Their entire team is composed of rocks. They are a collection of very tough and confident players. Inter controlled the middle of the pitch against Fiorentina to win the Coppa Italia.

@@ -5,7 +5,6 @@ title: "Watered down"
 categories:
 - "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/01/17/Image-17Jan2026_18:18:19.png"
-
 ---
 
 In the Premier League this season, it feels like most players are playing at forty percent rather than the sixty percent we are used to. Teams are merely surviving games. It is hard to critique what they are doing tactically because of that.

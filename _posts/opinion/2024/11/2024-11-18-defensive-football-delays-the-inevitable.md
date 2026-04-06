@@ -3,7 +3,6 @@ layout: post
 date: 2024-11-18 11:00 UTC
 title: "Defensive football delays the inevitable"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/17/Image-17Nov2024_11:48:41.png"
-
 ---
 
 Defensive football is just delaying the inevitable to me. The inevitable being that you'll make a mistake. And then when you're scored on, you scramble. I don't like this negative, pessimistic way of approaching a game. That is a personal preference. 

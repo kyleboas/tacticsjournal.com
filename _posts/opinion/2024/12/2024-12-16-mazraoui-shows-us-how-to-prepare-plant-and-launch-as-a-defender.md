@@ -8,7 +8,6 @@ tags:
 - "Manchester United"
 - "Manchester City"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:00.png"
-
 ---
 
 The player that impressed me in the Manchester Derby was Noussair Mazraoui for Manchester United. Few defenders have guarded Jérémy Doku as effectively as he did. It was all in the position of his feet, to be first to face the ball after the challenge.

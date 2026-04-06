@@ -3,7 +3,6 @@ layout: post
 date: 2025-02-26 12:00 UTC
 title: "Manufactured rivalries"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/25/Image-25Feb2025_16:21:40.png"
-
 ---
 
 When two teams hate each other, it adds a whole new different dimension to a game. An average game or play can become exciting because of the rivalry. There are fewer true rivalries nowadays. You tune in because the two teams want to kill each other.

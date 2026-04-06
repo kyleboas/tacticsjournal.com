@@ -3,7 +3,6 @@ layout: post
 date: 2025-09-01 11:00 UTC
 title: "Close the window"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/31/Image-31Aug2025_19:18:32.png"
-
 ---
 
 The mood of the team is a thing that you cannot quantify from the outside, and the transfer market is a massive distraction. Don't be surprised when teams who are underperforming to start the season start to turn it on when this summer window closes.

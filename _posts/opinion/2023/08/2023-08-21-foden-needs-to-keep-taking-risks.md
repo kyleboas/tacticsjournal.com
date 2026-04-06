@@ -7,7 +7,6 @@ categories:
 tags:
 - "Manchester City"
 image: "https://i.imgur.com/4bqn75H.jpg"
-
 ---
 
 August 21, 2023 — Phil Foden of Manchester City has had a habit of playing it safe, always looking for the simple back-pass, but he is slowly beginning to break out of his shell and take more risks. 

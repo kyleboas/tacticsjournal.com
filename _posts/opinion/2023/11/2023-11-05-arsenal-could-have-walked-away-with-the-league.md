@@ -8,7 +8,6 @@ tags:
 - "Arsenal"
 - "Newcastle"
 image: "https://i.imgur.com/XykyTna.jpg"
-
 ---
 
 Arsenal transformed from a nearly unbeatable team, capable of passing through opponents while denying teams a chance on goal, to a team that most could stop. [Still good defensively though](https://tacticsjournal.com/2023/09/26/arsenal-thicket/). If they had retained Granit Xhaka and maintained the same style as last season, I believe they could have walked away with the league title this season. 

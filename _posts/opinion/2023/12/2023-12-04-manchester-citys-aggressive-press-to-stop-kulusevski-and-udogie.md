@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 - "Manchester City"
 image: "https://i.imgur.com/jj8DzxI.jpg"
-
 ---
 
 Manchester City targeted two Tottenham players out-of-possession: Dejan Kulusevski and Destiny Udogie. Their entire defensive structure was built around pressuring those two players and taking them out of the game.

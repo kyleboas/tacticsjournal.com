@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 - "Manchester City"
 image: "https://i.imgur.com/c5kwkl8.jpg"
-
 ---
 
 Tottenham is predictable due to limited depth from injuries and suspensions. I believe Manchester City should adopt a conservative defensive structure to control the match's pace, using runners on the wings to test Tottenham's high line.

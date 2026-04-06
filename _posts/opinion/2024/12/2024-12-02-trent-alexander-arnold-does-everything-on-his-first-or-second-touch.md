@@ -7,7 +7,6 @@ categories:
 tags:
 - "Liverpool"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/01/Image-01Dec2024_20:29:03.png"
-
 ---
 
 No time is wasted for the Liverpool fullback. Trent Alexander-Arnold operates like a sniper on the run, and that creates panic for the opposition. I can't think of another Premier League player like him.

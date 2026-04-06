@@ -9,7 +9,6 @@ tags:
 - "Tottenham"
 - "Burnley"
 image: "https://i.imgur.com/BwsmMF4.jpeg"
-
 ---
 
 It will be important for Tottenham to take advantage of space when it's created when their wingers invert. Without Son Heung-min, they create their best chances when the opponent is stretched wide. They need men in those wide spaces when they invert.

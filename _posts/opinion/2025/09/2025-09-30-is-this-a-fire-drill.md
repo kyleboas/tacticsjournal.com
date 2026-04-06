@@ -3,7 +3,6 @@ layout: post
 date: 2025-09-30 11:00 UTC
 title: "Is this a fire drill"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/29/Image-29Sep2025_15:31:34.png"
-
 ---
 
 Imagine you are a singer, comedian, speaker, any form of entertainer. Their worst nightmare is the audience leaving mid-performance. Now think of the impact a crowd leaving in the middle of a match can have on a football team. That aspect is overlooked.

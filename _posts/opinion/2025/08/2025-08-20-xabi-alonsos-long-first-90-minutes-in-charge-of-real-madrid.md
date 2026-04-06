@@ -7,7 +7,6 @@ categories:
 tags:
 - "Real Madrid"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/19/Image-19Aug2025_19:13:11.png"
-
 ---
 
 I feel sorry for those who in ten to twenty years will want to go back to watch Xabi Alonso's first match in charge of Real Madrid, only to be met with a lifeless performance of a team drained of its personality.

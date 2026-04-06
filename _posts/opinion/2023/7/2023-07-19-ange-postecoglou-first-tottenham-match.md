@@ -8,7 +8,6 @@ tags:
 - "Tottenham"
 - "West Ham"
 image: /uploads/2023/07/18/Image-FF9FC48C-0825-47AC-B6E5-6BA3AD98341A.jpeg
-
 ---
 
 July 19, 2023 — Ange Postecoglou applied some interesting ideas in his first game in charge of Tottenham against West Ham. Full-backs invert, with the center-midfielders pushed forward in line with the full-backs, while the wingers provide the width.

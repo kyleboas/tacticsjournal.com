@@ -8,7 +8,6 @@ tags:
 - "England"
 - "Ireland"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/08/Image-08Sep2024_01:49:34.png"
-
 ---
 
 England interim manager Lee Carsley said after their resounding win to Ireland that the way the team played was "definitely not his style; it's the players'." It was not the zonal Southgate team; it was a much more fluid team tailored to each individual.

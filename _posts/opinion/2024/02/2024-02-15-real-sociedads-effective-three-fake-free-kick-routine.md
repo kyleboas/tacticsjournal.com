@@ -10,7 +10,6 @@ tags:
 - "Real Sociedad"
 - "PSG"
 image: "https://i.imgur.com/vFDTM9n.jpeg"
-
 ---
 
 This unique Real Sociedad free kick was stuck in my head the entire first half against PSG. Simple three fakes, pass over the top, pass across goal, tap-in goal. This one didn't result in a goal, but it's effective. The third fake sells it.
