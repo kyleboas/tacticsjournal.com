@@ -17,12 +17,12 @@ Attempting to impose principles of relationism on eleven Brazilians who are accu
 This is not like watching Fluminense. It's a hybrid approach, combining [relationism and positionism](https://medium.com/@stirlingj1982/what-is-relationism-c98d6233d9c2). Rome was not built in a day, and neither will Brasília.
 
 <figure>
-    <img src="https://i.imgur.com/YXSK0z3.jpg">
+    <img src="https://i.imgur.com/YXSK0z3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - A free man open on the right side.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/WVhzoLY.jpg">
+    <img src="https://i.imgur.com/WVhzoLY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - A free man open on the right side.</figcaption>
 </figure>
 

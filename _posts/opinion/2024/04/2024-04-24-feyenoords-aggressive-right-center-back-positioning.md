@@ -15,22 +15,22 @@ I went through all of Feyenoord's conceded goals since November 25th. Arne Slot 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/SYczHa6.jpeg">
+    <img src="https://i.imgur.com/SYczHa6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Thomas Beelen follows a forward when he drops.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0kMXfqB.jpeg">
+    <img src="https://i.imgur.com/0kMXfqB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Space behind Feyenoord's defense and PSV are in on goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/IxDXab9.jpeg">
+    <img src="https://i.imgur.com/IxDXab9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Thomas Beelen moves up the wing aggressively out-of-possession.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/zsrGGkT.jpeg">
+    <img src="https://i.imgur.com/zsrGGkT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Feyenoord are caught out 2v2 on the counter.</figcaption>
 </figure> 
 
@@ -41,40 +41,40 @@ If he can win the ball, it's effective. If he doesn't win the ball, the left cen
 He jumps, and then there's a space behind to attack. 
 
 <figure>
-    <img src="https://i.imgur.com/PxyRWeD.jpeg">
+    <img src="https://i.imgur.com/PxyRWeD.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Feyenoord with a flat back four to start.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DflElw3.jpeg">
+    <img src="https://i.imgur.com/DflElw3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Gernot Trauner steps forward, leaving the second man free once Lazio break past Feyenoord's defense.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4UBYVsg.jpeg">
+    <img src="https://i.imgur.com/4UBYVsg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Atletico Madrid work the ball in the corner, out.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/JDqpHai.jpeg">
+    <img src="https://i.imgur.com/JDqpHai.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Gernot Trauner moves over to double-team Álvaro Morata. Atletico Madrid play the ball over the top into the open left half-space.</figcaption>
 </figure> 
 
 It doesn't matter if it's Beelen, Traumer, or Geertruida; the right center-back is tasked with marking closely the opposition's center-forward. Regardless of whether or not moving to mark the center-forward would mean there will be a large space free between the ball-side full-back or far-side center-back. 
 
 <figure>
-    <img src="https://i.imgur.com/tE4F04i.jpeg">
+    <img src="https://i.imgur.com/tE4F04i.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Lutsharel Geertruida is positioned very wide, leaving a large amount of space for Excelsior to play through.</figcaption>
 </figure>
 
 Geertruida likes to carry forward, and when he's at right center-back, there's often a lot of space between him and the left center-back. 
 
 <figure>
-    <img src="https://i.imgur.com/yXTnwL2.jpeg">
+    <img src="https://i.imgur.com/yXTnwL2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - When Excelsior play the ball forward, Thomas Beelen is positioned too far wide, leaving center-back Sven Nieuwpoort exposed.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Ah4bBAq.jpeg">
+    <img src="https://i.imgur.com/Ah4bBAq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - The ball is played behind Sven Nieuwpoort once he jumps to the ball.</figcaption>
 </figure> 
 

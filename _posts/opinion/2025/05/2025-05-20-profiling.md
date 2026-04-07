@@ -4,7 +4,7 @@ date: 2025-05-20 12:00 UTC
 title: "Profiling"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/17/Image-17May2025_10:16:13.png"
+image: "/images/uploads/2025/05/17/Image-17May2025_10:16:13.png"
 ---
 
 The way a player looks plays a major part in how you rate them. Their name, their haircut, their tattoos, their face are massive factors. If Ederson looked like Jason Steele, you would rate him differently. Don't lie to yourself, you factor it in.
@@ -16,7 +16,7 @@ Don’t paint your car red — it gets more attention from the cops. That is a c
 Phil Foden for example looks faster than he is because of his haircut, the racing stripe fade on the sides makes him look pacey. He has some acceleration off his first and second touch, but in a straight line, he is not fast. But you expect him to be fast, because that is how he would like to be perceived.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/17/Image-17May2025_10:16:13.png">
+    <img src="/images/uploads/2025/05/17/Image-17May2025_10:16:13.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The same player with four different haircuts.</figcaption>
 </figure>
 

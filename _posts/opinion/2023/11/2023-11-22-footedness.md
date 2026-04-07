@@ -22,12 +22,12 @@ Read the full explanation [here](https://theweeklyrondo.substack.com/p/feet-anal
 This is the more concise and simple explanation of what I was trying to describe in regards to Manuel Akanji at left center-back [here](https://tacticsjournal.com/Manuel-Akanji-weak-foot-and-bad-angles-at-left-center-back-in-Manchester-City-3-2).
 
 <figure>
-    <img src="https://i.imgur.com/He96NpC.jpg">
+    <img src="https://i.imgur.com/He96NpC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Akanji takes his first touch with his left foot to switch the ball to his right foot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/lBTLRhE.jpg">
+    <img src="https://i.imgur.com/lBTLRhE.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Akanji readies the pass but all the passing lanes are blocked off except for the pass to Jack Grealish, who is out of picture.</figcaption>
 </figure> 
 
@@ -36,7 +36,7 @@ This is the more concise and simple explanation of what I was trying to describe
 I think this can also apply to players like Kai Havertz, who rely on passing. He won't try to dribble past you. They will find space and then combine with others to advance the ball. He needs that positive touch towards the opponent's goal. 
 
 <figure>
-    <img src="https://i.imgur.com/U79Ytda.jpg">
+    <img src="https://i.imgur.com/U79Ytda.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Kai Havertz receives the ball with his back to goal.</figcaption>
 </figure> 
 

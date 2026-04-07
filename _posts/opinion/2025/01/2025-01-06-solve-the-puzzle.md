@@ -4,7 +4,7 @@ date: 2025-01-06 12:00 UTC
 title: "Solve the puzzle"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/03/Image-03Jan2025_12:57:28.png"
+image: "/images/uploads/2025/01/03/Image-03Jan2025_12:57:28.png"
 ---
 
 Solutions, solutions, solutions, more solutions. So often we talk about the past and how it can be different, but the hard part is finding the solutions to the problems.

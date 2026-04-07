@@ -14,34 +14,34 @@ Pep Guardiola focuses on orienting the body to receive the ball to continue forw
 [Watch the full video](https://youtu.be/gkzX1STqQkk?si=KFHaRMV9FmVBZJ_l)
 
 <figure>
-    <img src="https://i.imgur.com/LxVhdUp.png">
+    <img src="https://i.imgur.com/LxVhdUp.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Qog4zud.png">
+    <img src="https://i.imgur.com/Qog4zud.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 </figcaption>
 </figure> 
 
 This is a negative orientation. The easiest one or two touch immediate passing options are all back, towards your own goal.
 
 <figure>
-    <img src="https://i.imgur.com/1BW8yAR.png">
+    <img src="https://i.imgur.com/1BW8yAR.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/eZql3MR.png">
+    <img src="https://i.imgur.com/eZql3MR.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/tb8Ehmk.png">
+    <img src="https://i.imgur.com/tb8Ehmk.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/xIh6U4Q.png">
+    <img src="https://i.imgur.com/xIh6U4Q.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 </figcaption>
 </figure> 
 
@@ -54,24 +54,24 @@ This desire for positive body orientation was instilled in Pep during his playin
 If you don't orient your body towards the opposition goal, then you can't immediately look to play the ball forward. 
 
 <figure>
-    <img src="https://i.imgur.com/hrNCRj0.png">
+    <img src="https://i.imgur.com/hrNCRj0.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1</figcaption>
 </figure> 
 
 Orient your body to the side and you have the option to play it forward, down the wing or turn to play it to the center-forward. Always be a positive passing option. 
 
 <figure>
-    <img src="https://i.imgur.com/dlOs99j.png">
+    <img src="https://i.imgur.com/dlOs99j.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/kW4YEoj.png">
+    <img src="https://i.imgur.com/kW4YEoj.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/T7HHYKR.png">
+    <img src="https://i.imgur.com/T7HHYKR.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 </figcaption>
 </figure> 
 

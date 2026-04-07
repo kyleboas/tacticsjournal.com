@@ -16,12 +16,12 @@ As Xabi Alonso said, "to find the right moment, when to press, when to wait, who
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/XQwJHlt.jpeg">
+    <img src="https://i.imgur.com/XQwJHlt.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Leroy Sané drops into space behind Leverkusen's first-line, and Robert Andrich follows.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/xTIkHI0.jpeg">
+    <img src="https://i.imgur.com/xTIkHI0.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Leroy Sané turns around Robert Andrich and attacks Bayer Leverkusen's back-line.</figcaption>
 </figure> 
 
@@ -34,19 +34,19 @@ Bayer Leverkusen manager Xabi Alonso [detailed after the game](https://x.com/arc
 > Today, for me the defensive work of [Nathan Tella], [Florian Wirtz], and [Amine Adli] has been fantastic because when they have choose the right time to go press the center-back, when they need to cut the passes to the midfielders. Our midfielders, they were not jumping to [Bayern Munich's] double 6 and create that space [behind]. Musiala and Sane, they were waiting to find this space, and Kane was dropping. He likes to drop, so we have chosen to take many right decisions, when and where right to press. And because of that, we have been able to control the game, most of the times, without the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/pUuAkDJ.jpeg">
+    <img src="https://i.imgur.com/pUuAkDJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bayer Leverkusen's 5-2-3 out-of-possession shape in settled play.</figcaption>
 </figure> 
 
 This was Bayer Leverkusen's initial shape that they'd work from. Clogging the middle and cutting off passing lanes to the forwards, allowing the pass back and around from Bayern Munich's center-backs to the wing-backs. 
 
 <figure>
-    <img src="https://i.imgur.com/9t1vL2E.jpeg">
+    <img src="https://i.imgur.com/9t1vL2E.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Bayer Leverkusen's movement to block off any pass central.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DRojFYO.jpeg">
+    <img src="https://i.imgur.com/DRojFYO.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Nathan Tella curving his run to force Kim Min-Jae back.</figcaption>
 </figure> 
 
@@ -56,7 +56,7 @@ The speedy Nathan Tella did a lot of work to track the runs of Kim Min-Jae when 
 Amine Adli did the same on the opposite side of the pitch when Leroy Sané attempted to combine with Noussair Mazraoui, to allow Robert Andrich to stay put in the pivot. 
 
 <figure>
-    <img src="https://i.imgur.com/QA5H9kl.jpeg">
+    <img src="https://i.imgur.com/QA5H9kl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Granit Xhaka, Nathan Tella, and Florian Wirtz block off the pass to Harry Kane. Amine Adli blocks off the pass central or back to Kim Min-Jae.</figcaption>
 </figure> 
 
@@ -65,12 +65,12 @@ Jonathan Tah did a great job following the most threatening central player aroun
 If Kane, Sané or Musiala dropped in front of Xhaka or Andrich, Tella and Wirtz would rush to block them off and force the ball pack to the center-backs. In particular, force it back to Eric Dier. 
 
 <figure>
-    <img src="https://i.imgur.com/YfJdpCz.jpeg">
+    <img src="https://i.imgur.com/YfJdpCz.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Bayer Leverkusen press to force the pass into Leon Goretzka.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/kDij17u.jpeg">
+    <img src="https://i.imgur.com/kDij17u.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Nathan Tella pressures Leon Goretzka into passing back to Eric Dier.</figcaption>
 </figure> 
 

@@ -7,7 +7,7 @@ categories:
 tags:
 - "Leicester City"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/13/Image-13Aug2024_23:59:41.png"
+image: "/images/uploads/2024/08/13/Image-13Aug2024_23:59:41.png"
 ---
 
 Leicester City used a back-three, with the left-back further forward in possession. When they transition to defense, the right-winger is responsible for marking the far post. They showed why the right-winger is the most important player in this setup.
@@ -15,7 +15,7 @@ Leicester City used a back-three, with the left-back further forward in possessi
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/13/Image-13Aug2024_23:59:36.png">
+    <img src="/images/uploads/2024/08/13/Image-13Aug2024_23:59:36.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Leicester City build-up with the left-back pushed forward, wide, and the three defenders forming a back-three.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ I have not included the names of the players because it would distract from the 
 Everyone is familiar with this in-and-out of possession setup. Manchester City have used it; Arsenal, Liverpool, Newcastle, Chelsea, England—almost every top English team has tried this at some point. Back-three, left-back pushes forward, double pivot, left-winger inverts, attacking midfielder, and center-forward central.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/13/Image-13Aug2024_23:59:38.png">
+    <img src="/images/uploads/2024/08/13/Image-13Aug2024_23:59:38.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - The right-winger is responsible for marking the man on the back-post.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ When everyone shifts over, the right-back will leave someone free behind them, i
 If the coordination is off, the opponent can target the left wing from the right side of the pitch. You would want to have the ball on the right side of the pitch because that means Leicester City's right-back will have a man on his blind side behind him.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/13/Image-13Aug2024_23:59:39.png">
+    <img src="/images/uploads/2024/08/13/Image-13Aug2024_23:59:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - The right-winger is left out of position when the ball is turned over to the opposition.</figcaption>
 </figure>
 

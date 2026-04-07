@@ -43,17 +43,17 @@ Arsenal should easily top that group but a season in the Champions League is a m
 And it's not the trees that tire, it's the rest of the team. Once Bukayo Saka, Martin Ødegaard, and Fabio Vieira began to succumb to fatigue chances opened up. Players get caught up field. Everything becomes looser between the lines.
 
 <figure>
-    <img src="https://i.imgur.com/BMqI76d.jpg">
+    <img src="https://i.imgur.com/BMqI76d.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Dejan Kulusevski drives infield as Son Hueng-min overlaps into space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0twrbmi.jpg">
+    <img src="https://i.imgur.com/0twrbmi.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Dejan Kulusevski passes the ball to Son Hueng-min, and then Brennan Johnson drops back to receive the pass from Son.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/VxSOSJI.jpg">
+    <img src="https://i.imgur.com/VxSOSJI.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - David Raya's acrobatic save to deny Brennan Johnson the goal.</figcaption>
 </figure> 
 

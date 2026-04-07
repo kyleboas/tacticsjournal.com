@@ -16,33 +16,33 @@ Small tweaks to Manchester United's out-of-possession structure trapped Liverpoo
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/RThBl4m.jpg">
+    <img src="https://i.imgur.com/RThBl4m.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester United's pressing structure against Liverpool last season on March 5, 2023.</figcaption>
 </figure> 
 
 Last March, this is how Manchester United pressed Liverpool out-of-possession. They had four men in that first line, but Fred was allowed to venture further forward, leaving a space open in the left half-space for Gakpo or Nunez to drop into. [Read more about that here](https://tacticsjournal.com/Was-Fred-at-fault-for-Liverpool-first-goal-against-Man-United/). 
 
 <figure>
-    <img src="https://i.imgur.com/LqkYzmY.jpg">
+    <img src="https://i.imgur.com/LqkYzmY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Sofyan Amrabat and Kobbie Mainoo man-mark Dominic Szoboszlai and Ryan Gravenberch.</figcaption>
 </figure> 
 
 On the weekend, Kobbie Mainoo took the place of Fred and was much more measured in his positioning. Mainoo and Amrabat stayed very tight to Szoboszlai and Gravenberch. 
 
 <figure>
-    <img src="https://i.imgur.com/aNhaoNQ.jpg">
+    <img src="https://i.imgur.com/aNhaoNQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Highlighting the space open in the left half-space when Konstantinos Tsimikas receives the ball.</figcaption>
 </figure> 
 
 Diogo Dalot moved tight to Luis Diaz the moment the ball was passed wide. That space for Nunez to drop into was still there, but Antony's curved pressure forced all passes wide to be immediately returned back. 
 
 <figure>
-    <img src="https://i.imgur.com/1m7czV0.jpg">
+    <img src="https://i.imgur.com/1m7czV0.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Virgil Van Dijk passes to Wataru Endo.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/jPt8dmP.jpg">
+    <img src="https://i.imgur.com/jPt8dmP.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Wataru Endo turns, and no one enters the space for the pass forward, so he's forced to pass back.</figcaption>
 </figure> 
 
@@ -51,24 +51,24 @@ Liverpool did a good job slowly building up from the back to create pockets of s
 When Wataru Endo turns, someone should immediately be positioned in that space. If they can get a pass off into that space, they force United to retreat. When United retreat, that space between the back and second line grows. They have to be quick to not give United time to regroup. 
 
 <figure>
-    <img src="https://i.imgur.com/PcEbijx.jpg">
+    <img src="https://i.imgur.com/PcEbijx.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Trent Alexander-Arnold passes to Wataru Endo.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/EHKmN1J.jpg">
+    <img src="https://i.imgur.com/EHKmN1J.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Wataru Endo decides not to turn and first-time passes to Virgil Van Dijk. Ryan Gravenberch enters the space.</figcaption>
 </figure> 
 
 Here Endo does not decide to turn. If he did, Gravenberch is free in the space. Antony is stuck in two minds between marking Tsimikas or switching to mark Gravenberch. 
 
 <figure>
-    <img src="https://i.imgur.com/kYR3HPW.jpg">
+    <img src="https://i.imgur.com/kYR3HPW.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Virgil Van Dijk is forced to pass wide. Manchester United block off all other passing lanes.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/n9aO83t.jpg">
+    <img src="https://i.imgur.com/n9aO83t.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.4 - Manchester United trap Konstantinos Tsimikas wide with no outlet forward.</figcaption>
 </figure> 
 
@@ -77,24 +77,24 @@ When the ball goes wide, that space in the left half-space closes. Tsimikas is t
 Liverpool are doing what United want them to do. Pass wide, trap, pass back, repeat. 
 
 <figure>
-    <img src="https://i.imgur.com/yHlO7ax.jpg">
+    <img src="https://i.imgur.com/yHlO7ax.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Trent Alexander-Arnold receives, turns, and makes the line-breaking pass to Wataru Endo.</figcaption>
 </figure> 
 
 Trent Alexander-Arnold and Wataru Endo showcase in this play what is needed to bypass United's second line. Turn and then immediately play the line-breaking pass to the man in the half-space. 
 
 <figure>
-    <img src="https://i.imgur.com/z4L3n8J.jpg">
+    <img src="https://i.imgur.com/z4L3n8J.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - Wataru Endo turns and passes to Ryan Gravenberch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/UOHHO0l.jpg">
+    <img src="https://i.imgur.com/UOHHO0l.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.3 - Liverpool have Manchester United retreating into their box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/VmCa0M1.jpg">
+    <img src="https://i.imgur.com/VmCa0M1.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.4 - Konstantinos Tsimikas is free on the left, but Mohamed Salah elects to shoot.</figcaption>
 </figure> 
 

@@ -15,12 +15,12 @@ If you head it high, like Erling Haaland, you generate less power and make it ea
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/0TMIeH0.jpg">
+    <img src="https://i.imgur.com/0TMIeH0.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Erling Haaland jumps to head the ball. Emiliano Martinez is positioned well to save the shot across goal and the near post.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Leo3Cv2.jpg">
+    <img src="https://i.imgur.com/Leo3Cv2.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Emiliano Martinez saves at body level, to his right.</figcaption>
 </figure> 
 
@@ -29,29 +29,29 @@ Erling Haaland gets enough height on the jump but elects to head the ball at the
 This is a choice Haaland made previously in the match against Manchester United, and Onana made the save.
 
 <figure>
-    <img src="https://i.imgur.com/BsEy1dT.jpg">
+    <img src="https://i.imgur.com/BsEy1dT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Erling Haaland jumps to head the ball. Andre Onana has left the entire left side of the goal open.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/zz7UAlV.jpg">
+    <img src="https://i.imgur.com/zz7UAlV.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Erling Haaland heads the ball to the left, allowing Onana to make the difficult but simple diving save.</figcaption>
 </figure> 
 
 Instead of heading the ball into the open net to the right, towards the ground, Haaland attempts to head it at head height, to the left, across goal. This header requires a lot of control and precision, and the ball will float into the net. More air time. That choice to go for the far-side gives the out-of-position Andre Onana a chance to make the save. 
 
 <figure>
-    <img src="https://i.imgur.com/FVcb8de.jpg">
+    <img src="https://i.imgur.com/FVcb8de.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Erling Haaland gets a similar unmarked header on the back post. Andre Onana is positioned far to the right.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/1T3PCxM.jpg">
+    <img src="https://i.imgur.com/1T3PCxM.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Another angle of Erling Haaland heading the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/treNzdl.jpg">
+    <img src="https://i.imgur.com/treNzdl.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Erling Haaland heads the ball to the left over Andre Onana.</figcaption>
 </figure>
 
@@ -60,17 +60,17 @@ Haaland later in the game gets a similar chance, free on the back post, and he a
 Here is a good example by Virgil Van Dijk in 2019 of the type of header I think Haaland should elect to use next time.  Head the ball into the ground with power. 
 
 <figure>
-    <img src="https://i.imgur.com/pYdbIYm.jpg">
+    <img src="https://i.imgur.com/pYdbIYm.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Virgil Van Dijk heads the ball down.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/40VhEFr.jpg">
+    <img src="https://i.imgur.com/40VhEFr.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - The ball bounces beneath the goalkeepers legs.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/gOOEsbN.jpg">
+    <img src="https://i.imgur.com/gOOEsbN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Ball bounces into the net for the goal.</figcaption>
 </figure> 
 

@@ -29,12 +29,12 @@ This is important because last year, [Manchester City poached one of Brentford's
 I'm not directly crediting Jack Wilson for the new routines we saw in the early part of 2023, it's a team effort, but the changes made were noticeable. 
 
 <figure>
-    <img src="https://i.imgur.com/z4Q9Znf.jpg">
+    <img src="https://i.imgur.com/z4Q9Znf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - (14 Mar 2023 vs RB Leipzig) — Before the corner is taken.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/qt40kB0.jpg">
+    <img src="https://i.imgur.com/qt40kB0.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - (14 Mar 2023 vs RB Leipzig) - As the corner is taken.</figcaption>
 </figure>
 
@@ -45,21 +45,21 @@ There was movement, but the corner taker rarely found Erling Haaland at the near
 With time since the beginning of 2023, through the preseason, to today, City's corner taking and set-pieces seem to be becoming more and more polished and complicated. Less predictable. There's a larger variety. 
 
 <figure>
-    <img src="https://i.imgur.com/gOI1E8V.jpg">
+    <img src="https://i.imgur.com/gOI1E8V.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Setup for the set-piece to be taken.</figcaption>
 </figure>
 
 This looks normal to start. Foden near the goalkeeper, Haaland at the near post for a flick-on, with four men at the top of the box. But this routine is to play short to Foden, as he makes his run in front of Haaland, while Julian Alvarez makes his run into the space at the top of the box. 
 
 <figure>
-    <img src="https://i.imgur.com/JgyHcme.jpg">
+    <img src="https://i.imgur.com/JgyHcme.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Nathan Ake and Manuel Akanji set a screen for Julian Alvarez.</figcaption>
 </figure>
 
 There was space open to the right of Akanji before they began to move, but by setting a screen, that sets up even more separation for Alvarez. He's completely free.
 
 <figure>
-    <img src="https://i.imgur.com/uDuPkEN.jpg">
+    <img src="https://i.imgur.com/uDuPkEN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Ball is played short to Phil Foden, and Julian Alvarez is free in space.</figcaption>
 </figure>
 
@@ -68,24 +68,24 @@ Play works perfectly, Alvarez is free, but I'm not sure why Foden didn't play th
 Pass it short to Foden, then all Foden has to do is turn and pass to Alvarez for the open shot. 
 
 <figure>
-    <img src="https://i.imgur.com/b8cob5Y.jpg">
+    <img src="https://i.imgur.com/b8cob5Y.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Ball gets recycled back to Bernardo Silva, and he plays it to Kevin De Bruyne.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/QVbrbD1.jpg">
+    <img src="https://i.imgur.com/QVbrbD1.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Three to aim for in the box. Kevin De Bruyne crosses to Rodri.</figcaption>
 </figure>
 
 Manchester City has options, though, because they leave enough men behind the ball to play out and recycle the play. Then those three men on the far side, within the box, are ready for the cross.
 
 <figure>
-    <img src="https://i.imgur.com/q1kGdd3.jpg">
+    <img src="https://i.imgur.com/q1kGdd3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Rodri heads it down to Erling Haaland, who has curved his run to create space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/TQLqvYg.jpg">
+    <img src="https://i.imgur.com/TQLqvYg.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.7 - Erling Haaland scores.</figcaption>
 </figure>
 
@@ -97,24 +97,24 @@ My guess is that there's a plan A and plan B:
 - If the free man isn't free, play it back to Bernardo Silva, to give the three men in the box time to reset for Kevin De Bruyne's cross.
 
 <figure>
-    <img src="https://i.imgur.com/UPYs27H.jpg">
+    <img src="https://i.imgur.com/UPYs27H.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Players highlighted time their jump behind Burnley's high line, as Nathan Ake pins a defender.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/tQOAxvN.jpg">
+    <img src="https://i.imgur.com/tQOAxvN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Ball is chipped to Rodri over the top.</figcaption>
 </figure>
 
 What stands out are the corner kicks, but the free kicks are also slightly more polished. They always seemed planned last season, but never this on point. Players are timing their runs better. Everyone seems more on the same page. 
 
 <figure>
-    <img src="https://i.imgur.com/o5J4oUK.jpg">
+    <img src="https://i.imgur.com/o5J4oUK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Manchester City remains compact.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/eIyErfx.jpg">
+    <img src="https://i.imgur.com/eIyErfx.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Manchester City spreads out, while Manuel Akanji and Rodri set a screen for Nathan Ake.</figcaption>
 </figure>
 
@@ -123,12 +123,12 @@ As noted in the Tifo Football video, a big part to Brentford's routines is start
 They'll never give away what play they're running if they remain compact because their positioning remains the same to start. Only when they scatter, when the ball is kicked, is the play revealed. By that time the defenders are just focusing on their man, which allows players to more easily get free. 
 
 <figure>
-    <img src="https://i.imgur.com/rmi0o5x.jpg">
+    <img src="https://i.imgur.com/rmi0o5x.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Manchester City compact with Manuel Akanji attacking the near post.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/51lFm0O.jpg">
+    <img src="https://i.imgur.com/51lFm0O.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Manchester City spreads out once the ball is kicked.</figcaption>
 </figure>
 

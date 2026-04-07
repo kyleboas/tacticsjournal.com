@@ -17,36 +17,36 @@ Joao Pedro anticipates this passing sequence, moves back, and makes the run forw
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/NsS1bmF.jpg">
+    <img src="https://i.imgur.com/NsS1bmF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Jan Paul van Hecke passes to Billy Gilmour.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/kQCWEvg.jpg">
+    <img src="https://i.imgur.com/kQCWEvg.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Billy Gilmour passes to Adam Lallana. Joao Pedro moves back. A defender from the back-line is drawn towards Lallana.</figcaption>
 </figure> 
 
 Joao Pedro can see the final pass coming as the ball is passed to Lallana, so he moves back. That pins the full-back back, as a defender is drawn forward towards Lallana. 
 
 <figure>
-    <img src="https://i.imgur.com/2E7oJ2L.jpg">
+    <img src="https://i.imgur.com/2E7oJ2L.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Adam Lallana one-touch passes to Pascal Gross. Joao Pedro begins his run into space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/lYRdKLQ.jpg">
+    <img src="https://i.imgur.com/lYRdKLQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Pascal Gross one-touch passes to Joao Pedro.</figcaption>
 </figure> 
 
 When Lallana passes to Gross, that is when Pedro makes the run into the space behind that defender that jumped forward. The pinning of the full-back to the outside of Pedro, paired with the jump from the defender, and the run 5 yards behind Marseille's back-line gives Gross a large window to ping the first-pass into Pedro. 
 
 <figure>
-    <img src="https://i.imgur.com/SfTukbQ.jpg">
+    <img src="https://i.imgur.com/SfTukbQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Joao Pedro receives the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SZeRc6F.jpg">
+    <img src="https://i.imgur.com/SZeRc6F.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Joao Pedro shifts around to his right foot to get on the other side of the defender, shoots, and scores.</figcaption>
 </figure> 
 

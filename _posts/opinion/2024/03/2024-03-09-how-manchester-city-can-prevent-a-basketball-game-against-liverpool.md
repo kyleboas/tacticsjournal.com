@@ -16,7 +16,7 @@ Once the ball crosses the half-way line, Manchester City must make immediate phy
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/mNrv6ua.jpeg">
+    <img src="https://i.imgur.com/mNrv6ua.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bernardo Silva challenges the man receiving as the ball is played past the half-way line. </figcaption>
 </figure> 
 
@@ -27,12 +27,12 @@ It must be the first pass, past the halfway line. Not the second or third pass. 
 It throws off the timing of the runs of Liverpool's forwards. It doesn't affect the wingers as much as it affects the striker when play is halted.
 
 <figure>
-    <img src="https://i.imgur.com/tywkak9.jpeg">
+    <img src="https://i.imgur.com/tywkak9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Curtis Jones is allowed time and space to turn.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/XGiD7CA.jpeg">
+    <img src="https://i.imgur.com/XGiD7CA.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Time and space to turn into the space.</figcaption>
 </figure> 
 

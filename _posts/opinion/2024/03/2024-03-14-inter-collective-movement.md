@@ -17,27 +17,27 @@ It's a routine thing, but the smoothness of this moment for Inter between Acerbi
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/CHkGKUD.jpeg">
+    <img src="https://i.imgur.com/CHkGKUD.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Francesco Acerbi follows Memphis Depay out to the wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/a0sE6la.jpeg">
+    <img src="https://i.imgur.com/a0sE6la.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Francesco Acerbi hands off responsibility of Memphis Depay to Henrikh Mkhitaryan. Pablo Barrios begins his run central.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/m9bFMv1.jpeg">
+    <img src="https://i.imgur.com/m9bFMv1.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Francesco Acerbi follows Pablo Barrios.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/PfzWGKJ.jpeg">
+    <img src="https://i.imgur.com/PfzWGKJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Francesco Acerbi hands off responsibility of Pablo Barrios to Henrikh Mkhitaryan. He follows Memphis Depay.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/8zAhUEt.jpeg">
+    <img src="https://i.imgur.com/8zAhUEt.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Pablo Barrios and Memphis Depay continue their runs.</figcaption>
 </figure> 
 
@@ -50,12 +50,12 @@ It's like a tired parent changing their kid's diaper. 87th minute in a hard foug
 They know through repetition where each player should be, who should be assigned to, who should be in this zone when the ball is here or there. 
 
 <figure>
-    <img src="https://i.imgur.com/qIH03e7.jpeg">
+    <img src="https://i.imgur.com/qIH03e7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Henrikh Mkhitaryan follows Pablo Barrios forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Zflflwh.jpeg">
+    <img src="https://i.imgur.com/Zflflwh.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Inter trap Atlético Madrid in a 5v2. </figcaption>
 </figure> 
 

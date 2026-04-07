@@ -18,17 +18,17 @@ May 18, 2023 — Rodri, for Manchester City against Real Madrid, shows why he is
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/eXjkYAp.jpg">
+    <img src="https://i.imgur.com/eXjkYAp.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Rodri is passed the ball.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/Z0mr2qr.jpg">
+    <img src="https://i.imgur.com/Z0mr2qr.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - On the turn, Rodri scans and sees Kevin De Bruyne is open.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/uqEqTox.jpg">
+    <img src="https://i.imgur.com/uqEqTox.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Before playing the ball, Rodri notices Toni Kroos making the run to cut off the pass to Kevin De Bruyne.</figcaption>
 </figure>
 
@@ -37,12 +37,12 @@ Most midfielders would have forced that pass to Kevin De Bruyne, but Rodri has t
 Rodri remains patient.
 
 <figure>
-    <img src="https://i.imgur.com/b8faPg6.jpg">
+    <img src="https://i.imgur.com/b8faPg6.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Kyle Walker checks to the play, to make himself available for a pass out. Rodri sees this but chooses the progressive pass to John Stones, in space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/L9cJinP.jpg">
+    <img src="https://i.imgur.com/L9cJinP.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - John Stones runs into the space, and Manchester City have the numerical advantage on the break.</figcaption>
 </figure>
 
@@ -53,25 +53,25 @@ These are things that go unnoticed. Good defensive midfielders are boring, but i
 This makes you appreciate the buildup to Manchester City’s first goal even more.
 
 <figure>
-    <img src="https://i.imgur.com/JhxZXFo.jpg">
+    <img src="https://i.imgur.com/JhxZXFo.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Ilkay Gündoğan makes a run, and Daniel Carvajal jumps to anticipate the pass from Rodri.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/Fm9L9M4.jpg">
+    <img src="https://i.imgur.com/Fm9L9M4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Rodri fakes the pass and turns, anticipating that conflict. He then passes out to Bernardo Silva.</figcaption>
 </figure>
 
 Again, reading the play. Anticipating when defenders will move and ignoring “open” players. By the time they’re not open, Rodri is already making the next pass.
 
 <figure>
-    <img src="https://i.imgur.com/rOhhLow.jpg">
+    <img src="https://i.imgur.com/rOhhLow.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - John Stones makes a run to the corner, and Bernardo Silva plays him the ball.</figcaption>
 </figure>
 
 
 <figure>
-    <img src="https://i.imgur.com/yJhdOgG.jpg">
+    <img src="https://i.imgur.com/yJhdOgG.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Bernardo Silva moves immediately after the pass.</figcaption>
 </figure>
 
@@ -80,24 +80,24 @@ I mentioned during the [Bayern Munich match last week](https://tacticsjournal.co
 Don't think, pass and move.
 
 <figure>
-    <img src="https://i.imgur.com/cilb6Zs.jpg">
+    <img src="https://i.imgur.com/cilb6Zs.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - John Stones draws three defenders, and then passes to Kyle Walker.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/Wx9hHiD.jpg">
+    <img src="https://i.imgur.com/Wx9hHiD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Bernardo Silva has now slipped into a pocket of space, as Kevin De Bruyne is played the ball.</figcaption>
 </figure>
 
 The combined intelligence of both John Stones and Bernardo Silva could power a supercomputer. They know when to go, they know when to stay, and they do it without thinking. 
 
 <figure>
-    <img src="https://i.imgur.com/cblgUUy.jpg">
+    <img src="https://i.imgur.com/cblgUUy.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.7 - Kevin De Bruyne passes to Bernardo Silva.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/PgXfdPT.jpg">
+    <img src="https://i.imgur.com/PgXfdPT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.8 - Another angle showing the gap Kevin De Bruyne had to pass through.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ date: 2025-05-08 12:00 UTC
 title: "1 counter vs 100 throw-ins"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/07/Image-07May2025_20:46:38.png"
+image: "/images/uploads/2025/05/07/Image-07May2025_20:46:38.png"
 ---
 
 When a set piece works consistently, it feels like cheating. It is a tempting proposition to become the world's best team at set pieces because almost no team is built to defend against them, but nothing beats a lethal attack.

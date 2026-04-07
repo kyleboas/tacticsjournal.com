@@ -12,7 +12,7 @@ The offside rule proposal by Arsène Wenger, [being considered by The Internatio
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/9qpAbdL.jpg">
+    <img src="https://i.imgur.com/9qpAbdL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of the new offside rule. <a href="https://x.com/433/status/1675597068839124994?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Visual credit to 433</a></figcaption>
 </figure> 
 
@@ -27,7 +27,7 @@ Arsène says teams will defend higher up, but I'm not sure that's what teams wil
 Take the players now, who have mastered timing a run to break a high line. You have to make your run so your entire body is in line with the last defender. That's a difficult skill for both the passer and the receiver. 
 
 <figure>
-    <img src="https://i.imgur.com/tUVFhnS.jpg">
+    <img src="https://i.imgur.com/tUVFhnS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Marc Cucurella begins his run while Reece James has the ball on the far side.</figcaption>
 </figure> 
 
@@ -36,7 +36,7 @@ You get a very small run-up to make that run, unless you make the run from a dee
 Now take those same players, allow them to make that same exact run, but with a whole body's length of room for error. That will not be difficult.
 
 <figure>
-    <img src="https://i.imgur.com/IFVf21x.jpg">
+    <img src="https://i.imgur.com/IFVf21x.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Illustration of the difference between the head start a forward gets with the new offside rule versus the current offside rule.</figcaption>
 </figure> 
 
@@ -47,7 +47,7 @@ The receiver can start their run next to the back-line and gain a head-start ahe
 In my opinion, teams will be forced to defend deeper, not higher. How can you allow players to have the space behind? That will cause teams to not counter-press as aggressively because of the gap that deeper back-line would create. 
 
 <figure>
-    <img src="https://i.imgur.com/xhcbT6A.jpg">
+    <img src="https://i.imgur.com/xhcbT6A.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of the difference in the gap between the back-line and second line if the back-line does or does not defend deeper.</figcaption>
 </figure> 
 

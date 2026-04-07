@@ -30,22 +30,22 @@ It doesn't matter if they score or win, if they are not a team, they will not be
 If the team do not have these relationships, they will never execute the tactic. These are humans, not robots. A lot of Pochettinho's work will go unseen because it's team-bonding. It's not finishing, better passing, an inverted full-back, a different formation, it is people. 
 
 <figure>
-    <img src="https://i.imgur.com/0LctTD4.jpeg">
+    <img src="https://i.imgur.com/0LctTD4.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Conor Gallagher moves out wide when Marc Cucurella inverts. Gallagher passes back to Benoit Badiashile.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/bgtSF4B.jpeg">
+    <img src="https://i.imgur.com/bgtSF4B.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Marc Cucurella moves forward as Cole Palmer drops.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/zpCl7NS.jpeg">
+    <img src="https://i.imgur.com/zpCl7NS.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Marc Cucurella continues moving forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/c7lkACs.jpeg">
+    <img src="https://i.imgur.com/c7lkACs.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Moises Caicedo plays a wall pass from Nicolas Jackson to Trevoh Chalobah.</figcaption>
 </figure> 
 
@@ -56,32 +56,32 @@ And it's not just two or three players swapping positions, it's the entire team 
 This is why I feel players like Cole Palmer look better in this side compared to the more positional Manchester City, because he has freedom to roam and dribble. It is a style that fits many players in Chelsea's squad.
 
 <figure>
-    <img src="https://i.imgur.com/i9CUqH5.jpeg">
+    <img src="https://i.imgur.com/i9CUqH5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Trevoh Chalobah passes to Noni Madueke and continues forward up the right-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/6tShX1Q.jpeg">
+    <img src="https://i.imgur.com/6tShX1Q.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Moises Caicedo moves wide to occupy the space Trevoh Chalobah leaves. Noni Madueke passes to Caicedo, and Caicedo passes to Chalobah.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/C195VtL.jpeg">
+    <img src="https://i.imgur.com/C195VtL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Trevoh Chalobah plays Noni Madueke in down the right-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vN36tTk.jpeg">
+    <img src="https://i.imgur.com/vN36tTk.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8 - Noni Madueke crosses into the box towards Nicolas Jackson.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/83UirsD.jpeg">
+    <img src="https://i.imgur.com/83UirsD.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.9 - Nicolas Jackson lays the ball off to Cole Palmer.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/lW1M4bl.jpeg">
+    <img src="https://i.imgur.com/lW1M4bl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.10 - Cole Palmer slots the ball into the bottom left-hand corner for the goal. </figcaption>
 </figure> 
 
@@ -92,7 +92,7 @@ Jackson has built a stronger relationship with Madueke, so he knows when to atta
 It is a team goal. This specific goal being the most beautiful because it showcased the team and the way in which they were able to work together to score. 20 consecutive passes. 
 
 <figure>
-    <img src="https://i.imgur.com/cB2tk3g.jpeg">
+    <img src="https://i.imgur.com/cB2tk3g.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.10 - Marc Cucurella rotates with Benoit Badiashile out-of-possession.</figcaption>
 </figure> 
 

@@ -4,7 +4,7 @@ date: 2025-11-04 11:00 UTC
 title: "Win the second ball, not the header"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/02/Image-02Nov2025_19:35:11.png"
+image: "/images/uploads/2025/11/02/Image-02Nov2025_19:35:11.png"
 ---
 
 Teams are becoming more successful at passing long, in the air, because they are prioritizing placing more players around the header to win the second ball. You do not have to win the header, but you must win the second ball.
@@ -12,7 +12,7 @@ Teams are becoming more successful at passing long, in the air, because they are
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/02/Image-02Nov2025_19:35:11.png">
+    <img src="/images/uploads/2025/11/02/Image-02Nov2025_19:35:11.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The three zones.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Haaland is improving at heading, but he would admit heading the ball with his ba
 It's not like Arsenal, where they are incredible at finding these overloads near the ball, incredible at coordinating movement when they kick it long, and then they have the tall, physical players to outmuscle you. These teams with the physical disadvantage need to get creative to win the second ball.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/03/Image-03Nov2025_13:48:15.png">
+    <img src="/images/uploads/2025/11/03/Image-03Nov2025_13:48:15.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bruno Fernandes serves as the plus one in the zone of mutual support as Bryan Mbeumo tries to head the ball.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Manchester United aren't intending to 'win that header'—all they want is the s
 Bruno Fernandes comes swooping in to create an overload in the zone of mutual support. Their full focus is long ball, second ball, then close combinations, and then transitions into space.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/03/Image-03Nov2025_13:48:19.png">
+    <img src="/images/uploads/2025/11/03/Image-03Nov2025_13:48:19.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Bruno Fernandes wins the second ball and then passes out to Amad Diallo.</figcaption>
 </figure>
 
@@ -59,15 +59,15 @@ Bruno Fernandes wins the ball, and now we have a mini breakout forming with Virg
 Liverpool are at a disadvantage because they didn't prioritize winning the second ball. They were spaced out and outnumbered.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/03/Image-03Nov2025_13:48:22.png">
+    <img src="/images/uploads/2025/11/03/Image-03Nov2025_13:48:22.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Amad Diallo carries the ball forward.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/03/Image-03Nov2025_13:48:25.png">
+    <img src="/images/uploads/2025/11/03/Image-03Nov2025_13:48:25.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Amad Diallo passes to Bryan Mbeumo.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/03/Image-03Nov2025_18:00:26.png">
+    <img src="/images/uploads/2025/11/03/Image-03Nov2025_18:00:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Bryan Mbeumo scores.</figcaption>
 </figure>
 

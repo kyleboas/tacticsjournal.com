@@ -7,7 +7,7 @@ categories:
 tags:
 - "Sponsor"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_14:47:47.png"
+image: "/images/uploads/2024/08/14/Image-14Aug2024_14:47:47.png"
 tweet: "I follow all the finer tactical details and changes for each Premier League team, and I am very driven by fixtures in FPL. Here is my preview for the first six matches using the tools from @FFH_HQ. #ad"
 ---
 
@@ -32,7 +32,7 @@ Or you can use the **[auto-join link](https://fantasy.premierleague.com/leagues/
 ## [Fixture Analyzer](https://www.fantasyfootballhub.co.uk/fixture-ticker?via=tacticsjournal)*
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_03:25:31.png">
+    <img src="/images/uploads/2024/08/14/Image-14Aug2024_03:25:31.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Fixture difficulty in attack for Gameweek 1 to 6.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ If the game is more even, [Tottenham might benefit](https://tacticsjournal.com/2
 Shout-out to [FPL Blackbox](https://www.youtube.com/live/eo4piiTmrio?si=Pfuuj-jxwRmGEywg) who go into far more detail regarding this topic of who performs best against different strength opposition. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_03:29:53.png">
+    <img src="/images/uploads/2024/08/14/Image-14Aug2024_03:29:53.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Projected goals for GW1-GW6.</figcaption>
 </figure>
 
@@ -62,12 +62,12 @@ Erik Ten Hag has his full focus on coaching and less on recruitment, how much wi
 Brighton are [a fun team to watch](https://tacticsjournal.com/2024/08/03/fabian-hurzeler-gives-the-brighton-players-confidence-in-themselves/), and I want them to succeed. I am unsure who will benefit within the team the most from their more fluid approach as compared to last season.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_03:29:54.png">
+    <img src="/images/uploads/2024/08/14/Image-14Aug2024_03:29:54.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Defensive fixture difficulty for GW1-GW6.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_03:29:52.png">
+    <img src="/images/uploads/2024/08/14/Image-14Aug2024_03:29:52.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Projected clean sheets for GW1-GW6.</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ For every cross, you get one point. Think about how we target players specifical
 I like the change because it will now disproportionately reward attackers, and they'll have at least a chance to win the bonus points battle against the defenders in a goalless draw.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_13:43:00.png">
+    <img src="/images/uploads/2024/08/14/Image-14Aug2024_13:43:00.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Midfielders and Forwards per 90 minutes data sorted by shots on target. </figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Whether you like that £15m price point or not, Erling Haaland should lead the l
 My advice, and I might be wrong, is to go down the list and try to fill your team with the players that you think will have the most shots on target. Favoring those who put in a lot of crosses seems like a smart play.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_13:20:51.png">
+    <img src="/images/uploads/2024/08/14/Image-14Aug2024_13:20:51.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Opta stats data filters.</figcaption>
 </figure>
 

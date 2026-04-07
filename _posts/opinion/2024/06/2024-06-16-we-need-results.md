@@ -8,7 +8,7 @@ tags:
 - "Hungary"
 - "Switzerland"
 - "Euro 2024"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/15/Image-15Jun2024_17:59:29.png?raw=true"
+image: "/images/uploads/2024/06/15/Image-15Jun2024_17:59:29.png"
 ---
 
 Poland's asymmetric shape in defense meant that the half-spaces were open for the Netherlands, with right wing-back Przemysław Frankowski tasked with tightly marking Cody Gakpo.
@@ -16,7 +16,7 @@ Poland's asymmetric shape in defense meant that the half-spaces were open for th
 <!---more---> 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/15/Image-15Jun2024_17:59:29.png?raw=true">
+    <img src="/images/uploads/2024/06/15/Image-15Jun2024_17:59:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Poland's asymmetric back line with Przemysław Frankowski out to challenge Cody Gakpo.</figcaption>
 </figure>
 

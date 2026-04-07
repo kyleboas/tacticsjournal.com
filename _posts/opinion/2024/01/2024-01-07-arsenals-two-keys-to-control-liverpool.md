@@ -17,7 +17,7 @@ Arsenal need to work the ball to the free man on the far-side quicker when they 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/lL6wOtV.jpeg">
+    <img src="https://i.imgur.com/lL6wOtV.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Kai Havertz moves to the right side while Martin Ødegaard miscues a lofted pass to Bukayo Saka.</figcaption>
 </figure> 
 
@@ -26,7 +26,7 @@ Arsenal like to overload the right-wing, but what is an overload without an isol
 I understand the intention from Martin Ødegaard in this example. Saka has lost his marker, chip a pass into him 1v1, in on goal. But look how much space Martinelli has on that far-side. 
 
 <figure>
-    <img src="https://i.imgur.com/rq1q7vV.jpeg">
+    <img src="https://i.imgur.com/rq1q7vV.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Ben White receives the ball but elects to play the ball down the right-wing rather than play in any of the Arsenal players on the far-side.</figcaption>
 </figure> 
 
@@ -37,12 +37,12 @@ Pass to any of them, Martinelli is in for the cross across the ground to Jesus, 
 Ben White hesitates and continues to cycle the ball on the right.
 
 <figure>
-    <img src="https://i.imgur.com/6vs3Uax.jpeg">
+    <img src="https://i.imgur.com/6vs3Uax.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Martin Ødegaard passes to Oleksandr Zinchenko and ignores Gabriel Jesus. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/e0OJ7tR.jpeg">
+    <img src="https://i.imgur.com/e0OJ7tR.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Oleksandr Zinchenko takes the low-quality shoot, misses, and ignores Gabriel Jesus.</figcaption>
 </figure> 
 
@@ -53,14 +53,14 @@ When Martin Ødegaard turns, immediately pass across to Gabriel Jesus. If Arsena
 Fine from Ødegaard to ignore Jesus, but Zinchenko has to play Jesus in on goal. That is a high-quality chance for Jesus from a good angle with Konate, Trent Alexander-Arnold, and Szoboszlai all attracted to the ball.
 
 <figure>
-    <img src="https://i.imgur.com/diNenDh.jpeg">
+    <img src="https://i.imgur.com/diNenDh.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Declan Rice, Martin Ødegaard and Oleksandr Zinchenko all shifted to the right, deep, pinned back in their own half.</figcaption>
 </figure> 
 
 Liverpool did a good job of pinning Rice back, which pinned Arsenal back. Pin and then swarm the ball. They can't invite Liverpool to counter-press. 
 
 <figure>
-    <img src="https://i.imgur.com/cQBgDjX.jpeg">
+    <img src="https://i.imgur.com/cQBgDjX.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - (Left) Illustration of Figure 4.1. (Right) Arsenal central with Oleksandr Zinchenko and Martin Ødegaard pushing forward, allowing Kai Havertz to move central. </figcaption>
 </figure> 
 

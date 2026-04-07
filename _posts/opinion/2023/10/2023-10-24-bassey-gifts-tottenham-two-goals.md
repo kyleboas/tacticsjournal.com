@@ -16,7 +16,7 @@ All Fulham have to do is stay narrow in their 4-4-2 out of possession because th
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/VjXv3kf.jpg">
+    <img src="https://i.imgur.com/VjXv3kf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Fulham's narrow 4-4-2 out of possession</figcaption>
 </figure>
 
@@ -33,37 +33,37 @@ James Maddison on Tottenham's work rate, pressing:
 > “The gaffer went ballistic at us at half-time in a pre-season game against Shaktar, when we went 1-0 up and then sat off and stopped pressing. He said that’s exactly how Tottenham have been in the past [under previous managers] and that it has cost them, and that we have to keep going and never sit off.”
 
 <figure>
-    <img src="https://i.imgur.com/hsIWlpT.jpg">
+    <img src="https://i.imgur.com/hsIWlpT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Son Hueng-min pressures Bernd Leno as he passes to Calvin Bassey.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/o6f7kj6.jpg">
+    <img src="https://i.imgur.com/o6f7kj6.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Calvin Bassey passes to no one while James Maddison and Richarlison close in.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/w6qCuMU.jpg">
+    <img src="https://i.imgur.com/w6qCuMU.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Richarlison intercepts the ball and passes to Son Hueng-min, who is in space, for the goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4laMrSK.jpg">
+    <img src="https://i.imgur.com/4laMrSK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - James Maddison pressures Calvin Bassey and Richarlison steps forward to mark Maddison's mark.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/klRUUbP.jpg">
+    <img src="https://i.imgur.com/klRUUbP.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Calvin Bassey attempts to clear it up the line under pressure.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/x9Mrd6B.jpg">
+    <img src="https://i.imgur.com/x9Mrd6B.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Pierre-Emile Hojbjerg intercepts the pass and passes to Son Hueng-min.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/esVQQM2.jpg">
+    <img src="https://i.imgur.com/esVQQM2.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Son Heung-min passes to James Maddison. Calvin Bassey is keeping everyone onside.</figcaption>
 </figure> 
 

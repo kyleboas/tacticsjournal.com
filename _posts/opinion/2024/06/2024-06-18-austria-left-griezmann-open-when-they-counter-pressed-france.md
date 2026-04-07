@@ -8,7 +8,7 @@ tags:
 - "Austria"
 - "France"
 - "Euro 2024"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/18/Image-18Jun2024_00:05:42.png?raw=true"
+image: "/images/uploads/2024/06/18/Image-18Jun2024_00:05:42.png"
 ---
 
 When the ball was in France's half, Austria aggressively counter-pressed, but when you press like they did, you have to leave someone open. They left Griezmann free on the right, and it could have cost them a goal if France found the pass into Griezmann.
@@ -16,7 +16,7 @@ When the ball was in France's half, Austria aggressively counter-pressed, but wh
 <!---more--->
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/18/Image-18Jun2024_00:05:44.png?raw=true">
+    <img src="/images/uploads/2024/06/18/Image-18Jun2024_00:05:44.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - France play through the Austria counter-press high to Antoine Grizemann, marked by left center-back Maximilian Wöber.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ They hounded France for as much of the match as they could, a testament to Upame
 France has three forwards, and Austria has four defenders. When they counter-press, they commit all of their forwards and midfielders to shift pressure man-to-man to the ball-side. That leaves Grizemann free, unless left center-back Maximilian Wöber jumps out to mark him. 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/18/Image-18Jun2024_00:05:47.png?raw=true">
+    <img src="/images/uploads/2024/06/18/Image-18Jun2024_00:05:47.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Austria counter-press France in their own half, with right-back Stefan Posch advanced forward, which forced the rest of Austria's defense to shift over to mark Kylian Mbappe. Antoine Griezmann and Ousmane Dembélé outnumber Philipp Mwene.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Wöber was marking Griezmann, Austria continued to commit everyone to the ball, 
 It's a tough call on Austria's part for who to give that free space to. Maybe you could leave Dembele alone, but you can't leave Thuram or Mbappe open. Maybe you don't need to mark right-back Jules Kounde, but that leaves the safe switch to the right side open, so that would make it easier for France to retain possession. The goal is to pinch France to force them forward. 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/18/Image-18Jun2024_01:49:42.png?raw=true">
+    <img src="/images/uploads/2024/06/18/Image-18Jun2024_01:49:42.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - France win back the ball near the half-way line, play the ball to Antoine Griezmann, and Griezmann passes the ball over the top to Kylian Mbappe.</figcaption>
 </figure>
 

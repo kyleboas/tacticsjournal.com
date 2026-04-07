@@ -15,17 +15,17 @@ Harvey Elliott holding the width for Liverpool frees Mohamed Salah to move to th
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/6kkjRb9.jpg">
+    <img src="https://i.imgur.com/6kkjRb9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Mohamed Salah inverts to the center of the pitch while Harvey Elliott helps maintain the triangle on the right-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/u4kU5DV.jpg">
+    <img src="https://i.imgur.com/u4kU5DV.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Mohamed Salah inverts to the center of the pitch while Harvey Elliott attacks the right-wing with Trent Alexander-Arnold.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vatjR3E.jpg">
+    <img src="https://i.imgur.com/vatjR3E.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Mohamed Salah inverts into the right half-space while Harvey Elliott readies himself to maintain width on the right-wing.</figcaption>
 </figure> 
 
@@ -38,12 +38,12 @@ Salah can't abandon the wing without someone filling in because if he does, the 
 Despite the fact that Harvey Elliott lacks physicality right now, other than Salah, he has the best close control, fast decision making, and 1v1 dribbling ability of the options available to Liverpool on the right side of the pitch. This is important because of the way they attack—quick; you can't afford an errant touch, a pass into a non-threatening area, or to lose out in a 1v1. You need quick decisive action that acts as close to the same pace that Salah runs.
 
 <figure>
-    <img src="https://i.imgur.com/fpRfs00.jpg">
+    <img src="https://i.imgur.com/fpRfs00.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Harvey  maintains width, allowing Mohamed Salah to invert into the half-space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/iAayUH2.jpg">
+    <img src="https://i.imgur.com/iAayUH2.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Joe Gomez crosses while Mohamed Salah attacks the unmarked space at the top of the box.</figcaption>
 </figure> 
 

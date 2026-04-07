@@ -26,7 +26,7 @@ If I had to name one defining feature of Arsenal from last season, I think of pa
 You can see that spark or connection start to come back in the Nottingham Forest match, against Burnley, and today versus Newcastle. 
 
 <figure>
-    <img src="https://i.imgur.com/QQu15ju.jpeg">
+    <img src="https://i.imgur.com/QQu15ju.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Gabriel Martinelli inverting next to Kai Havertz with Jakub Kiwior pushing forward.</figcaption>
 </figure> 
 
@@ -37,22 +37,22 @@ Arsenal like to work a lot on the right-wing, so that usually meant Martinelli i
 The far-side winger inverts to the ball-side, and then you have an extra man close to Kai Havertz and Martin Ødegaard.  
 
 <figure>
-    <img src="https://i.imgur.com/fFIEq1b.jpeg">
+    <img src="https://i.imgur.com/fFIEq1b.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Jorginho passes over the top to Gabriel Martinelli.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/hy0D6S8.jpg">
+    <img src="https://i.imgur.com/hy0D6S8.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Gabriel Martinelli runs on to the ball. Kai Havertz makes the run to the six yard box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/U1egAfs.jpeg">
+    <img src="https://i.imgur.com/U1egAfs.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Gabriel Martinelli crosses to Kai Havertz.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SLXDF8J.jpeg">
+    <img src="https://i.imgur.com/SLXDF8J.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Kai Havertz scores.</figcaption>
 </figure> 
 

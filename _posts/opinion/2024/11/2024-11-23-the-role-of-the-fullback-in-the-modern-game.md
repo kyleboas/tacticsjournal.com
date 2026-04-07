@@ -7,7 +7,7 @@ categories:
 tags:
 - "Chelsea"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/18/Image-18Nov2024_12:41:31.png"
+image: "/images/uploads/2024/11/18/Image-18Nov2024_12:41:31.png"
 ---
 
 I don’t know what to do with fullbacks. The less mobile ones are being transformed into center-backs, the more mobile ones are being made into midfielders, and the limited, more traditional ones are either phased out or too good to sell. Versatility wins.

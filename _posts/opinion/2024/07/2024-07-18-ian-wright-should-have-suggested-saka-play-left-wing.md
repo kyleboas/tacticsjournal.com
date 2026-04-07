@@ -8,7 +8,7 @@ tags:
 - "England"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/12/Image-12Jul2024_12:34:15.png"
+image: "/images/uploads/2024/07/12/Image-12Jul2024_12:34:15.png"
 tweet: "After Cole Palmer shined in a group stage cameo, @IanWright0 suggested England move Bukayo Saka to 'left-back.' It would have gone over better if he said 'left-wing.' Why are we obsessed with the name of the position and the formation numbers?"
 ---
 
@@ -21,14 +21,14 @@ When Bukayo Saka plays for Arsenal, we say he is dropping deep from the right-wi
 Why are we not talking about the fact Gareth Southgate has attempted to copy the exact dynamic Manchester City uses with a left-back, Kieran Trippier for England or Josko Gvardiol for Manchester City, pushed up high to act as a left-winger in possession, with the left-winger, Phil Foden, inverted infield? 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/12/Image-12Jul2024_02:40:00.png">
+    <img src="/images/uploads/2024/07/12/Image-12Jul2024_02:40:00.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - This is the BBC's line-up image prior to the match against the Netherlands. Every major broadcaster, FotMob, and Sofascore all use this same formation. </figcaption>
 </figure>
 
 I understand that it is common for a broadcaster to get the formation wrong, but this is a snapshot of the discussion online, on TV, during play-by-play commentary. Everything is seen through a defensive lens. It does not match what is happening on the pitch.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/18/Image-18Jul2024_10:37:48.png">
+    <img src="/images/uploads/2024/07/18/Image-18Jul2024_10:37:48.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - England in possession against Spain.</figcaption>
 </figure>
 

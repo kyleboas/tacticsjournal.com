@@ -16,7 +16,7 @@ Manchester City used Josko Gvardiol as a quarterback in the first half against B
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/TEAVppB.jpeg">
+    <img src="https://i.imgur.com/TEAVppB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Passing options open to Josko Gvardiol</figcaption>
 </figure> 
 
@@ -31,17 +31,17 @@ As time has passed, there are still instances where the pass is slightly behind 
 His dribbling is getting sharper, decisions are quicker, passing is becoming more accurate, he's judging the weight of the pass better, and he's making more intelligent runs. 
 
 <figure>
-    <img src="https://i.imgur.com/NpN43tP.jpeg">
+    <img src="https://i.imgur.com/NpN43tP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Josko Gvardiol passes to Kevin De Bruyne, and moves.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/k9wYnx1.jpeg">
+    <img src="https://i.imgur.com/k9wYnx1.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Kevin De Bruyne chips the ball over to Josko Gvardiol.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/GhsRwUN.jpeg">
+    <img src="https://i.imgur.com/GhsRwUN.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Erling Haaland curves his run to the back-post.</figcaption>
 </figure> 
 
@@ -51,7 +51,7 @@ This is the run of an intelligent midfielder in the body of a center-back. Pass 
 Training the larger players to play like smaller players is the advantage teams are looking to opt for. 
 
 <figure>
-    <img src="https://i.imgur.com/XX7JhSN.jpeg">
+    <img src="https://i.imgur.com/XX7JhSN.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Josko Gvardiol takes the shot but it goes wide.</figcaption>
 </figure> 
 

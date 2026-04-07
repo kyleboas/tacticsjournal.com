@@ -42,17 +42,17 @@ Brentford play better against teams that hold possession because they get tons o
 The space behind Marc Cucurella was begging for a ball and then a cut-back. The first warning was in the 49th minute.
 
 <figure>
-    <img src="https://i.imgur.com/7VXdkIe.jpg">
+    <img src="https://i.imgur.com/7VXdkIe.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Marc Cucurella jumps out to challenge the ball, and Conor Gallagher follows his man into space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/bwhG1ee.jpg">
+    <img src="https://i.imgur.com/bwhG1ee.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ball gets cut back into the box.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/aZABuGn.jpg">
+    <img src="https://i.imgur.com/aZABuGn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Robert Sanchez makes the save from Vitaly Janelt's shot.</figcaption>
 </figure>
 
@@ -61,22 +61,22 @@ The main responsibility for that shot falls on Connor Gallagher, unfortunately. 
 Later in the half, we have the same setup.
 
 <figure>
-    <img src="https://i.imgur.com/pTguKND.jpg">
+    <img src="https://i.imgur.com/pTguKND.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Marc Cucurella steps out and Bryan Mbeumo is played in to the space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/RmBpg89.jpg">
+    <img src="https://i.imgur.com/RmBpg89.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Conor Gallagher is a little slower to react.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/F0DCEb2.jpg">
+    <img src="https://i.imgur.com/F0DCEb2.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Both Chelsea defenders on the back post don't track Ethan Pinnock. Bryan Mbeumo crosses to him.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/ZQnAKib.jpg">
+    <img src="https://i.imgur.com/ZQnAKib.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Ethan Pinnock heads in the goal.</figcaption>
 </figure>
 

@@ -8,7 +8,7 @@ tags:
 - "Racing Santander"
 - "Relationism"
 - "La Liga 2"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/26/Image-26Nov2024_07:55:10.png"
+image: "/images/uploads/2024/11/26/Image-26Nov2024_07:55:10.png"
 ---
 
 The way Racing Santander spontaneously prepares not just for the next pass but also organizes and orients their bodies for the third or fourth pass forward is the reason why they are one of the main relational teams to watch. Their minds are exceptional.
@@ -16,7 +16,7 @@ The way Racing Santander spontaneously prepares not just for the next pass but a
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_22:09:46.png">
+    <img src="/images/uploads/2024/11/25/Image-25Nov2024_22:09:46.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Players move into position on the left as the center-back carries the ball forward.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ And yes, the elephant in the room. Why am I watching a random La Liga 2 match? R
 First, the center-back waits. Most would immediately pass to **Player 1**, but they want to organize in a way in which they can go from back to front quickly. In a flash. They don’t wait around in the midfield; they go.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_19:52:04.png">
+    <img src="/images/uploads/2024/11/25/Image-25Nov2024_19:52:04.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - The center-back passes to Player 1 as Player 2 moves forward into space, and Player 1 passes to Player 2.</figcaption>
 </figure>
 
@@ -37,12 +37,12 @@ All four players, advanced ahead of the ball, are aligned and open to receive on
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_22:10:53.png">
+    <img src="/images/uploads/2024/11/25/Image-25Nov2024_22:10:53.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Player 2 dribbles forward, drawing in a defender, and then passes to Player 3.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/25/Image-25Nov2024_22:10:55.png">
+    <img src="/images/uploads/2024/11/25/Image-25Nov2024_22:10:55.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Player 3 passes to Player 4, and Players 4 and 5 are in on goal.</figcaption>
 </figure>
 

@@ -20,12 +20,12 @@ PSG are a rigid positional team, built like they have a pole taped to their back
 In the first leg against Dortmund, Nuno Mendes was [kept back in the rest-defense to 'protect the left' from Dortmund's long-balls](https://tacticsjournal.com/2024/05/02/psg-protecting-the-left-for-each-long-ball-from-borussia-dortmund/). Dembélé had this interesting integral role that had him covering a lot of ground. 
 
 <figure>
-    <img src="https://i.imgur.com/Q3teFP3.jpeg">
+    <img src="https://i.imgur.com/Q3teFP3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Goncalo Ramos tracking back to follow then tackle Emre Can.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/TnWP6SK.jpeg">
+    <img src="https://i.imgur.com/TnWP6SK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Fabián Ruiz drops into PSG's back-three to allow Nuno Mendes to get forward, which allows Kylian Mbappé to invert.</figcaption>
 </figure> 
 

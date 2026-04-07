@@ -10,7 +10,7 @@ tags:
 - "Champions League"
 - "Bundesliga"
 - "La Liga"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/19/Image-19Sep2024_00:50:38.png"
+image: "/images/uploads/2024/09/19/Image-19Sep2024_00:50:38.png"
 ---
 
 Here are two moments to explain why VfB Stuttgart's deluge of offside runs was effective at creating space and confusion for Real Madrid's back line and second line. Make a run offside, cut back onside, while simultaneously the next man runs offside.
@@ -18,12 +18,12 @@ Here are two moments to explain why VfB Stuttgart's deluge of offside runs was e
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/19/Image-19Sep2024_00:50:39.png">
+    <img src="/images/uploads/2024/09/19/Image-19Sep2024_00:50:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Chris Führich and Deniz Undav both make runs offside, and Führich cuts back first. Angelo Stiller passes to Führich, and then Führich back-heels the ball to Undav.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/19/Image-19Sep2024_00:50:41.png">
+    <img src="/images/uploads/2024/09/19/Image-19Sep2024_00:50:41.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Angelo Stiller passes and moves, then Deniz Undav plays Stiller through into the box.</figcaption>
 </figure>
 
@@ -36,11 +36,11 @@ Then, the runner checks back to the ball, timing their run to arrive in an onsid
 Pair that with a simple pass and move run from deep, and VfB Stuttgart could walk their way through the center of Real Madrid's defense into their penalty box.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/19/Image-19Sep2024_00:50:42.png">
+    <img src="/images/uploads/2024/09/19/Image-19Sep2024_00:50:42.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Antonio Rüdiger follows a forward back as they are played the ball, and Deniz Undav makes an offside run behind Real Madrid's defense. The ball is passed wide.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/19/Image-19Sep2024_00:50:44.png">
+    <img src="/images/uploads/2024/09/19/Image-19Sep2024_00:50:44.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Deniz Undav continues his run. Antonio Rüdiger tracks back, and Aurélien Tchouameni runs back to help, opening space for Stuttgart in midfield. The ball is passed to Undav instead of a midfielder behind Tchouameni.</figcaption>
 </figure>
 

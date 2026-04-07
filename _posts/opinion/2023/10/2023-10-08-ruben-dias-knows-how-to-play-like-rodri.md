@@ -26,7 +26,7 @@ He is a minimalist on the ball.
 He makes minimal movements to help him read play better. He stays on his feet and jogs from open space to space. When is the last time you've seen Rodri attempt a sliding tackle? He knows when to force a pass and when to pause. He's never rushed and is confident. His back is straight, and you can sense he knows exactly what he wants to do with the ball when he gets it.
 
 <figure>
-    <img src="https://i.imgur.com/Fm9L9M4.jpg">
+    <img src="https://i.imgur.com/Fm9L9M4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Rodri fakes the pass and turns, anticipating that conflict. He then passes out to Bernardo Silva.</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Kalvin Phillips came on in the second half and attempted to play like Rodri, but
 The only way to fix this is to play them, but Foden, Kovacic, and Nunes need time to understand how to play deeper, and Phillips needs time to get his sea legs back.
 
 <figure>
-    <img src="https://i.imgur.com/kaysVQF.jpg">
+    <img src="https://i.imgur.com/kaysVQF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Ruben Dias lofts a pass to Jack Grealish, who is on the wing.</figcaption>
 </figure>
 
@@ -62,12 +62,12 @@ Akanji is also another candidate. He has featured in a double pivot with Rodri, 
 > April 7, 2023 — Arsenal’s man-to-man press led by Martin Ødegaard, Kai Havertz, and Declan Rice did very well to neutralize Manchester City in the first half, but City made key adjustments in the second half to disrupt and penetrate through the press.
 
 <figure>
-    <img src="https://i.imgur.com/zQViTcs.jpg">
+    <img src="https://i.imgur.com/zQViTcs.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Illustration of the change in structure in the second half at the 64th-minute mark of the Community Shield against Arsenal.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/G9LmWAc.jpg">
+    <img src="https://i.imgur.com/G9LmWAc.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Illustration of a proposed lineup for today's match against Arsenal.</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Knowing what we know from the Community Shield between Arsenal and Manchester Ci
 I'd love to see a back-line of Nathan Ake at left-back to shut down Bukayo Saka, Josko Gvardiol as the center center-back, and Manuel Akanji at right center-back. Then Kyle Walker can push forward to right-wing.
 
 <figure>
-    <img src="https://i.imgur.com/IYkid8J.jpg">
+    <img src="https://i.imgur.com/IYkid8J.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Illustration of the switch from a back-three to a back-four.</figcaption>
 </figure>
 

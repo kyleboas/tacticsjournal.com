@@ -11,7 +11,7 @@ tags:
 - "Luis de la Fuente"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/21/Image-21Jun2024_01%3A01%3A30.png"
+image: "/images/uploads/2024/06/21/Image-21Jun2024_01%3A01%3A30.png"
 ---
 
 [Similar to Austria's counter-press against France, which left Antoine Griezmann free](https://tacticsjournal.com/2024/06/18/austria-left-griezmann-open-when-they-counter-pressed-france/), Italy demonstrated how to play out to the free man on the far side, Nicolo Barella, when Spain pressured them in their own half.
@@ -19,7 +19,7 @@ image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/2
 <!---more--->
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/21/Image-21Jun2024_00:41:37.png?raw=true">
+    <img src="/images/uploads/2024/06/21/Image-21Jun2024_00:41:37.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Di Lorenzo chips a pass over to the free man, Nicolo Barella.</figcaption>
 </figure>
 

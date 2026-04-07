@@ -9,7 +9,7 @@ tags:
 - "Thiago Motta"
 - "Serie A"
 - "Preseason"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/28/Image-28Jul2024_01:45:53.png"
+image: "/images/uploads/2024/07/28/Image-28Jul2024_01:45:53.png"
 ---
 
 It is no wonder why Thiago Motta wanted to bring Riccardo Calafiori with him from Bologna to Juventus because their most important player is the left center-back, due to their movement to the left in the buildup.
@@ -17,7 +17,7 @@ It is no wonder why Thiago Motta wanted to bring Riccardo Calafiori with him fro
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/28/Image-28Jul2024_02:38:10.png">
+    <img src="/images/uploads/2024/07/28/Image-28Jul2024_02:38:10.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Jonas Rouhi drops back and passes to Facundo González, and González passes wide.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ The moment one of the center-backs moves into the midfield, moving from inside t
 When Juventus don't move the center-backs, they use an orthodox 4-2-3-1 formation. The back four is where you expect them to be: two center-backs central with two fullbacks wide. They then work the ball through the wings. The movement from the center-backs is what makes them special. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/28/Image-28Jul2024_02:37:52.png">
+    <img src="/images/uploads/2024/07/28/Image-28Jul2024_02:37:52.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Facundo González inverts from left center-back into the center of the midfield.</figcaption>
 </figure>
 

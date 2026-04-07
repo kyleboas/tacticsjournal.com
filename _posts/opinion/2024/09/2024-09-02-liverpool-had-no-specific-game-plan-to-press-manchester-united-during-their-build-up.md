@@ -8,7 +8,7 @@ tags:
 - "Manchester United"
 - "Liverpool"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_01:14:54.png"
+image: "/images/uploads/2024/09/02/Image-02Sep2024_01:14:54.png"
 ---
 
 Arne Slot said that Liverpool did not have a "specific plan" to defend against Manchester United's buildup. Their defense was dictated by how they wanted to attack. Keeping Salah and Diaz high, with Szoboszlai on the left, attacked United's weaknesses.
@@ -16,7 +16,7 @@ Arne Slot said that Liverpool did not have a "specific plan" to defend against M
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_00:51:54.png">
+    <img src="/images/uploads/2024/09/02/Image-02Sep2024_00:51:54.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Liverpool's counter-press when Manchester United built up in their own half.</figcaption>
 </figure>
 
@@ -37,11 +37,11 @@ When Casemiro moved forward, Gravenberch could attack him from behind. Or when J
 All the pressure is on United's left side to work the ball out from the back because Szoboszlai, Diogo Jota, and Luis Diaz overload their right. Diogo Dalot can't bomb forward to overload right-back Trent Alexander-Arnold or invert into the midfield as often because he has to move wide to help Lisandro Martinez on United's left.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_00:51:51.png">
+    <img src="/images/uploads/2024/09/02/Image-02Sep2024_00:51:51.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Liverpool's press in the middle third when Manchester United had the ball.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_00:51:53.png">
+    <img src="/images/uploads/2024/09/02/Image-02Sep2024_00:51:53.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Liverpool's press in the middle third when Manchester United had the ball.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ All four of Liverpool's goals (including the one that was disallowed for offside
 Because of how aggressively United position themselves, Kobbie Mainoo is more likely to try to get forward. When Szoboszlai wins the ball, he can turn and then play towards Salah's side to play him through. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_00:51:55.png">
+    <img src="/images/uploads/2024/09/02/Image-02Sep2024_00:51:55.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Liverpool building up from the back with Manchester United defending in an aggressive 4-4-2.</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ tags:
 - "Chelsea"
 - "Premier League"
 - "Championship"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/27/Image-27May2024_15:32:54.png?raw=true"
+image: "/images/uploads/2024/05/27/Image-27May2024_15:32:54.png"
 ---
 
 Everyone can immediately picture how a 3-box-3 formation would look in attack without thinking. The differences come in how teams that use that similar system defend, and in Leicester City manager Enzo Maresca's variation, the inverted fullback does not drop back.
@@ -23,7 +23,7 @@ Enzo Maresca previously served as an assistant coach to Pep Guardiola at Manches
 I think teams at the highest levels in Europe are starting to figure out how to halt the progression of the ball when teams use this type of system.
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/27/Image-27May2024_15:32:54.png?raw=true">
+    <img src="/images/uploads/2024/05/27/Image-27May2024_15:32:54.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Back-three and double pivot maintain their shape after losing the ball. Image credit: The Coaches' Voice</figcaption>
 </figure>
 

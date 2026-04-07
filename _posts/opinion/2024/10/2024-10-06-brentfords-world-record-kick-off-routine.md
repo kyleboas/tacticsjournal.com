@@ -7,7 +7,7 @@ categories:
 tags:
 - "Brentford"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/06/Image-06Oct2024_02:56:54.png"
+image: "/images/uploads/2024/10/06/Image-06Oct2024_02:56:54.png"
 ---
 
 Brentford analyzed one million matches and no other team managed to score a goal in under a minute in three consecutive games. Here is the best example of the world record kick off routine they used against Manchester City, Tottenham, and West Ham.
@@ -15,12 +15,12 @@ Brentford analyzed one million matches and no other team managed to score a goal
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/06/Image-06Oct2024_02:06:06.png">
+    <img src="/images/uploads/2024/10/06/Image-06Oct2024_02:06:06.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Brentford kick off.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/06/Image-06Oct2024_02:06:09.png">
+    <img src="/images/uploads/2024/10/06/Image-06Oct2024_02:06:09.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ethan Pinnock kicks it forward to the front line. Nathan Collins and Kristoffer Ajer move forward to join the second line.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Nathan Pinnock kicks the ball long to the forwards, aiming for the first player 
 Nathan Collins' positioning is interesting because he is a center-back; he is not a fullback, and he is further forward than Sepp van den Berg, who is a fullback. He is there to win the second balls and possibly charge into the box to attack the right post, the near post.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/06/Image-06Oct2024_02:06:11.png">
+    <img src="/images/uploads/2024/10/06/Image-06Oct2024_02:06:11.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Nathan Collins passes back to Sepp van den Berg and then forward to Kevin Schade.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ They did work the ball down the left-hand side against Tottenham to score, but t
 Collins passes back, and then they want to quickly work it to the right wing, this time through Kevin Schade. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/06/Image-06Oct2024_02:06:13.png">
+    <img src="/images/uploads/2024/10/06/Image-06Oct2024_02:06:13.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Kevin Schade dribbles past his marker to the right corner, and then crosses to the far side of the box.</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ The first goal scoring opportunity arises here. If the pass is on, Schade can cr
 If the near post cross isn't on, they go to the far post, and the aim isn't necessarily to score from the far post cross.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/06/Image-06Oct2024_02:06:15.png">
+    <img src="/images/uploads/2024/10/06/Image-06Oct2024_02:06:15.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Ball gets passed back Kristoffer Ajer, and Ajer crosses to the right side of the box, and the ball is crossed to the left side of the box.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ So we have gone back, forward to the front line, back to the second line, up the
 And then the player that receives Ajer's cross crosses to the opposite side, the left side of the box.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/06/Image-06Oct2024_02:06:17.png">
+    <img src="/images/uploads/2024/10/06/Image-06Oct2024_02:06:17.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Ball is headed sideways to Bryan Mbuemo, and Mbuemo scores on the half volley, first time. </figcaption>
 </figure>
 

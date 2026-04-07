@@ -16,29 +16,29 @@ In the second phase of possession, Eric Garcia and Daily Blind both jump out to 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/EDPfLkg.jpg">
+    <img src="https://i.imgur.com/EDPfLkg.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Daily Blind moves out wide to challenge the ball, leaving a massive space behind him.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/2pkI10g.jpg">
+    <img src="https://i.imgur.com/2pkI10g.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Daily Blind remains attracted to the ball.</figcaption>
 </figure> 
 
 Daily Blind was more a culprit of this. He often chased the ball, an instinct he carries over from playing full-back for most of his career.  
 
 <figure>
-    <img src="https://i.imgur.com/xWqiiCO.jpg">
+    <img src="https://i.imgur.com/xWqiiCO.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Girona's middle three defenders step out, towards the ball, while the full-backs stay still. This leaves space open in the half-space for the pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/OdCoQ2V.jpg">
+    <img src="https://i.imgur.com/OdCoQ2V.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Another view of Figure 2.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/G9HRITa.jpg">
+    <img src="https://i.imgur.com/G9HRITa.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Pass is received and Athletic Club are in on goal.</figcaption>
 </figure> 
 
@@ -51,12 +51,12 @@ Overall, I would say Girona are very well organized though apart from this. They
 Girona move at the perfect pace on-and-off the ball. They hardly break a sweat. 
 
 <figure>
-    <img src="https://i.imgur.com/BTo0IBl.jpg">
+    <img src="https://i.imgur.com/BTo0IBl.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Girona remain compact central, man-marking.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/aaBQhSi.jpg">
+    <img src="https://i.imgur.com/aaBQhSi.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Eric Garcia overcommits to the challenge and Athletic Club has the entire left side of the box free.</figcaption>
 </figure> 
 

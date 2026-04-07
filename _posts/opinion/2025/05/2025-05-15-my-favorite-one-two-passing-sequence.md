@@ -4,7 +4,7 @@ date: 2025-05-15 12:00 UTC
 title: "My favorite one-two passing sequence"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/13/Image-13May2025_22:37:20.png"
+image: "/images/uploads/2025/05/13/Image-13May2025_22:37:20.png"
 ---
 
 This is the most satisfying one-two passing sequence. Line-breaking pass through the middle, one-touch pass to the close second center-forward, peel away from the pass, one-touch through ball back to the center-forward, and you are in on goal.
@@ -12,14 +12,14 @@ This is the most satisfying one-two passing sequence. Line-breaking pass through
 <!---more--->
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/13/Image-13May2025_22:37:20.png">
+<img src="/images/uploads/2025/05/13/Image-13May2025_22:37:20.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.1 - Pass through the middle to the right center-forward.</figcaption>
 </figure>
 
 The pass to the right center-forward needs to be led ahead and to the left of the right center-forward to force the trailing center-back to move to the inside.
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/13/Image-13May2025_22:37:21.png">
+<img src="/images/uploads/2025/05/13/Image-13May2025_22:37:21.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.2 - First-touch pass with the left foot of the right center-forward to the left center-forward.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Then the right center-forward plays the pass on their first touch to the left-ce
 Having the left center-back cheat to the inside, leading them infield, is important because it creates that necessary separation for the final through pass.
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/13/Image-13May2025_22:37:22.png">
+<img src="/images/uploads/2025/05/13/Image-13May2025_22:37:22.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.3 - The right center-forward peels off away from the pass towards the goal. One-touch pass from the left center-forward to play through the right center-forward.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ If the right center-forward takes a touch, this play doesn't work because the ri
 If the pass is well timed, on the left center-forward's first touch, it is an easy chance if the right center-forward has the pace to outrun the two center-backs.
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/13/Image-13May2025_22:37:23.png">
+<img src="/images/uploads/2025/05/13/Image-13May2025_22:37:23.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.4 - Ball is played through to the right center-forward, who is in on goal.</figcaption>
 </figure>
 

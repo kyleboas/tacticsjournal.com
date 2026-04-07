@@ -9,7 +9,7 @@ tags:
 - "Germany"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/05/Image-05Jul2024_23:52:57.png"
+image: "/images/uploads/2024/07/05/Image-05Jul2024_23:52:57.png"
 ---
 
 Spain is more technically gifted than Germany in every position. To compensate, Germany tried to be very physical and mirror Spain by pressing high and passing quickly. I did not like their approach because it made them look weaker than they are.
@@ -27,7 +27,7 @@ I think one of the reasons Robert Andrich and Maximilian Mittelstädt did not st
 An international manager acts more like Luis de la Fuente; he puts out his best eleven players regardless of what the opposition is doing. A club manager is more calculated, like Julian Nagelsmann; he carefully plans out each substitute for the tactic and game state. He saved Robert Andrich, Maximilian Mittelstädt, and Florian Wirtz for the second half. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/05/Image-05Jul2024_23:52:09.png">
+    <img src="/images/uploads/2024/07/05/Image-05Jul2024_23:52:09.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Germany presses high when Spain tries to pass out from the back, with right-back Joshua Kimmich and right center-back Antonio Rüdiger. </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ On Rodri, Nagelsmann said:
 You started to see Lamine Yamal give in to that pressure by dribbling less than he would normally, but that faster play is contagious. When Germany won back the ball, they in turn tried to mimic Spain by playing fast. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/06/Image-06Jul2024_00:51:14.png">
+    <img src="/images/uploads/2024/07/06/Image-06Jul2024_00:51:14.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Spain pressures Germany high and wins back the ball as Germany tries to quickly work the ball through the middle.</figcaption>
 </figure>
 

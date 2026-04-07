@@ -7,7 +7,7 @@ categories:
 tags:
 - "Barcelona"
 - "La Liga"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-13Jul2024_01:23:47.png"
+image: "/images/uploads/2024/07/13/Image-13Jul2024_01:23:47.png"
 --- 
 
 Now it is common to have the center-backs spread wide away when the goalkeeper has the ball, but Victor Valdés was the first goalkeeper to put this new idea from Pep Guardiola into action. An idea he laid out in their first conversation.
@@ -19,7 +19,7 @@ Goalkeeper Victor Valdés [telling the story](https://x.com/h3uno_/status/181031
 > I remember my first conversation with Guardiola when he took over as coach. It was in his office at the Camp Nou. He had a tactics board with two small magnets on either side of the goal, just outside of the box. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-13Jul2024_01:27:43.png">
+    <img src="/images/uploads/2024/07/13/Image-13Jul2024_01:27:43.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - What Pep Guardiola showed to Victor Valdés.</figcaption>
 </figure>
 

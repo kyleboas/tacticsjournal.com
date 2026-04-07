@@ -14,10 +14,6 @@
 
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   </head>
@@ -41,8 +37,8 @@
 
     {% include footer.html %}
     
-    <script src="/js/master.js"></script>
-    <script src="/js/date.js"></script>
-    <script src="/js/buttondown-subscribe.js"></script>
+    <script src="/js/master.js" defer></script>
+    <script src="/js/date.js" defer></script>
+    <script src="/js/buttondown-subscribe.js" defer></script>
   </body>
 </html>

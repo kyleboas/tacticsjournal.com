@@ -4,7 +4,7 @@ date: 2024-12-23 12:00 UTC
 title: "Move with the wind"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/22/Image-22Dec2024_10:41:26.png"
+image: "/images/uploads/2024/12/22/Image-22Dec2024_10:41:26.png"
 ---
 
 Wind is swirling; the ball moves even when the ball is stopped. If you try to attack through the middle, on the ground, the ball bobbles too much. Attack in-to-out, then out-to-in to move with the wind.
@@ -12,7 +12,7 @@ Wind is swirling; the ball moves even when the ball is stopped. If you try to at
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/22/Image-22Dec2024_20:39:40.png">
+    <img src="/images/uploads/2024/12/22/Image-22Dec2024_20:39:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Pass from out wide, at the back, back in to the middle of the pitch. </figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ I'm talking high wind. Wind that would annoy even those that avoid playing throu
 It is harder to work the ball into the middle, out from the back, and then out to the wings in high wind for this reason. Playing one- or two-touch football is too unpredictable and frustrating.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/22/Image-22Dec2024_10:41:26.png">
+    <img src="/images/uploads/2024/12/22/Image-22Dec2024_10:41:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - A pass from the middle of the pitch, out to the wing, and then a cross into the box.</figcaption>
 </figure>
 

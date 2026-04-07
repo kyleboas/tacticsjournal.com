@@ -24,7 +24,7 @@ They did not have Destiny Udogie when they played Wolves, he will be back from s
 - Manor Salmon, meniscus, out till early February
 
 <figure>
-    <img src="https://i.imgur.com/ySKsSMb.jpg">
+    <img src="https://i.imgur.com/ySKsSMb.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of my idea for Tottenham's lineup and structure going forward.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ They lack depth at several positions, but I feel they need that orchestrator in 
 Dejan Kulusevski has the same attributes that James Maddison has. He can pick out a pass, he has world-class vision, great decision making. He can beat his man 1v1 when he dribbles with the ball. Now would be the time.
 
 <figure>
-    <img src="https://i.imgur.com/cwZfXDT.jpg">
+    <img src="https://i.imgur.com/cwZfXDT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Illustration of Tottenham's movement in possession.</figcaption>
 </figure>
 
@@ -46,12 +46,12 @@ Mickey Van de Veen covers the distance of two normal defenders; he's so fast, so
 We might get in a situation where they are "found out" by other teams because of how predictable their setup is. Then those teams can take advantage of the fact that they are tired due to the lack of depth, a mixture of a significant drop off in quality within the starting eleven mixed with fatigue. Plus, [their upcoming fixtures are significantly tougher](https://tacticsjournal.com/2023/10/24/bassey-gifts-tottenham-two-goals/).
 
 <figure>
-    <img src="https://i.imgur.com/3UbKT23.jpg">
+    <img src="https://i.imgur.com/3UbKT23.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Australia's structure in possession in the 2017 Confederations Cup under Ange Postecoglou. <a href="https://www.coachesvoice.com/cv/ange-postecoglou-tottenham-celtic/">Credit for the image to The Coaches' Voice</a></figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/3jLa4oN.jpg">
+    <img src="https://i.imgur.com/3jLa4oN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Illustration of Tottenham in a 3-4-3 like that used by Australia, with depth included.</figcaption>
 </figure>
 

@@ -7,7 +7,7 @@ categories:
 tags:
 - "Juventus"
 - "Serie A"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/05/Image-05Jun2024_01:49:52.png?raw=true"
+image: "/images/uploads/2024/06/05/Image-05Jun2024_01:49:52.png"
 ---
 
 I am very fascinated to see what Thiago Motta will bring to Juventus next season. Add versatility, remove the one-dimensional players, sign one of the best goalkeepers in Europe, and platform the youth players by not repressing their ability to think for themselves.
@@ -29,7 +29,7 @@ Wojciech Szczesny is a legend of the game, but Michele Di Gregorio is one of, if
 Defenders that are prepared to move essentially everywhere, wide left or right, in the midfield, [through the channels to the forward line](https://tacticsjournal.com/2024/05/21/calafiori-continues-his-run/) are a necessity. The fullbacks must be able to shift from their position to center-back and the center-backs to fullback. Thiago Motta taking Riccardo Calafiori with him from Bologna is not a surprise, for this reason. Cambiaso and Bremer fit into that category. 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/05/Image-05Jun2024_00:20:57.png?raw=true">
+    <img src="/images/uploads/2024/06/05/Image-05Jun2024_00:20:57.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of a potential Juventus line-up under Thiago Motta.</figcaption>
 </figure>
 

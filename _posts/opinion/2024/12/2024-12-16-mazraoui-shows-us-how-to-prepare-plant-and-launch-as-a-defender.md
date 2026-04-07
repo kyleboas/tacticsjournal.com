@@ -8,7 +8,7 @@ tags:
 - "Manchester United"
 - "Manchester City"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:00.png"
+image: "/images/uploads/2024/12/15/Image-15Dec2024_19:50:00.png"
 ---
 
 The player that impressed me in the Manchester Derby was Noussair Mazraoui for Manchester United. Few defenders have guarded Jérémy Doku as effectively as he did. It was all in the position of his feet, to be first to face the ball after the challenge.
@@ -16,11 +16,11 @@ The player that impressed me in the Manchester Derby was Noussair Mazraoui for M
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:49:55.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:49:55.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Noussair Mazraoui goes in to challenge Jérémy Doku.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:49:57.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:49:57.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Jérémy Doku puts the ball through Noussair Mazraoui's legs. Mazraoui plants his right leg into the ground, with his left foot facing infield.</figcaption>
 </figure>
 
@@ -29,11 +29,11 @@ To prepare for the pivot to the left, see how Mazraoui points his left foot infi
 The first goal is to win the race to face the ball once he pivots. Let Doku win that battle, and he's gone because of his acceleration.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:49:58.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:49:58.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Noussair Mazraoui turns to face the ball. His right foot is off the ground.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:00.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:00.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Noussair Mazraoui plants his right foot and launches off his toes facing the ball.</figcaption>
 </figure>
 
@@ -46,45 +46,45 @@ He won the battle on the turn, first to face the ball with his hips. Now he plan
 First he faces the ball with his hips, then he launches towards it. And he doesn't waste time; he doesn't wait for his right heel to make contact with the ground, he launches off his toes.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:03.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:03.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Second step with the left foot to separate. </figcaption>
 </figure>
 
 The entire movement is quick and seamless. He is being proactive by always positioning his feet to counter the direction of his hips, ready to turn to win the battle to the ball, and then he quickly plants the right foot to launch off his toes. Challenge won.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:12.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:12.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Noussair Mazraoui jockeys with Jérémy Doku for a longer ball from the goalkeeper, Ederson.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:10.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:10.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Arm to the chest to switch to the inside to force Doku outside.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:08.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:08.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Jérémy Doku takes a touch.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:16.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:16.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Noussair Mazraoui full stretch across the body of Jérémy Doku while planting the back foot facing infield.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:15.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:15.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - First lunge to knock out the ball, failed.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:14.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:14.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Second lunge to knock out the ball, successful.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:21.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:21.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.7 - Noussair Mazraoui lands flat-footed.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:20.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:20.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.8 - Noussair Mazraoui plants his right foot and launches off his toes facing the ball.</figcaption>
 </figure>
 
@@ -93,29 +93,29 @@ Here, he has his left foot facing where he wants the ball to go as he makes the 
 [Most defenders](https://tacticsjournal.com/2023/11/23/watch-the-defenders-hips-and-opposite-foot-when-jeremy-doku-dribbles/) don't move at this speed, they would let Doku win the battle of the hips. The key is the hips and who wins the battle to face the ball. Mazraoui won that first battle to face the ball, which gave him the time to plant his feet and launch towards the ball before Doku even got his feet set.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:18.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:18.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.9 - Body leaning fully forward after launching off his right foot.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:25.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:25.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.10 - Noussair Mazraoui wins the race to the ball and makes contact with his left foot. </figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:22.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:22.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.11 - Jérémy Doku attempts a diving tackle. </figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:29.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.12 - Tackle fails.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:28.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:28.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.13 - Noussair Mazraoui passes infield, square, to Rasmus Hojlund.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:26.png">
+    <img src="/images/uploads/2024/12/15/Image-15Dec2024_19:50:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.14 - Rasmus Hojlund plays Bruno Fernandes in, through on goal.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ date: 2025-03-28 12:00 UTC
 title: "The marauding center-back"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/03/27/Image-27Mar2025_13:19:11.png"
+image: "/images/uploads/2025/03/27/Image-27Mar2025_13:19:11.png"
 ---
 
 The most powerful addition to an attack has to be a marauding center-back. A player who shows up in places that the opposition would not suspect. You will be able take the penalty box by force.

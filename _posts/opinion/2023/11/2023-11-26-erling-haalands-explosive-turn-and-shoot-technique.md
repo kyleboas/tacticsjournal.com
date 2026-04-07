@@ -15,24 +15,24 @@ Yesterday, [I shared a video](https://tacticsjournal.com/2023/11/25/pep-guardiol
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/CCD9rbE.jpg">
+    <img src="https://i.imgur.com/CCD9rbE.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Critical scan, check over his left shoulder, as the ball is passed.</figcaption>
 </figure> 
 
 The critical scan's purpose is to locate Virgil Van Dijk behind him, so he can judge how much space he has to work with once he turns. With less space, he would likely need to take one less touch or possibly go near post. 
 
 <figure>
-    <img src="https://i.imgur.com/laqAyjM.jpg">
+    <img src="https://i.imgur.com/laqAyjM.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ready the body.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/uOXyTRS.jpg">
+    <img src="https://i.imgur.com/uOXyTRS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Shift right with the middle of the body towards the right, to face where he wants to turn.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/89wkchS.jpg">
+    <img src="https://i.imgur.com/89wkchS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Further rotation before the ball touches his foot.</figcaption>
 </figure> 
 
@@ -41,36 +41,36 @@ The rotation to position the hips towards the space he wants to attack is import
 Within one motion he can then explode off his left heel. If he doesn't rotate, that wouldn't happen in one fluid motion. He would have to take a touch and turn. By then, Matip or Van Dijk could close down the space and block his shot. 
 
 <figure>
-    <img src="https://i.imgur.com/0aPfv6f.jpg">
+    <img src="https://i.imgur.com/0aPfv6f.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - First touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Fn3FoN5.jpg">
+    <img src="https://i.imgur.com/Fn3FoN5.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Explode off the back of the left heel.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/yBh1VFj.jpg">
+    <img src="https://i.imgur.com/yBh1VFj.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Fully extend the body to accelerate.</figcaption>
 </figure> 
 
 Look at the amount of power he can get out of one stride. He moves like a cartoon character. It looks fake. Full stretch like the Grinch. 
 
 <figure>
-    <img src="https://i.imgur.com/vs9jBEX.jpg">
+    <img src="https://i.imgur.com/vs9jBEX.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Second touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/cDUfiTV.jpg">
+    <img src="https://i.imgur.com/cDUfiTV.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Plants right foot far ahead of the ball. Right toe is pointed at the goalie.</figcaption>
 </figure> 
 
 Look at how far ahead of the ball he plants his right foot. If his right foot was pointed towards the right corner of the goal, further to the right, his shot would likely go wide. But because he plants his foot so far ahead of the ball, he has to twist his hips into the ball. This is how he generates a little bit more power in the shot.
 
 <figure>
-    <img src="https://i.imgur.com/rC9DGGU.jpg">
+    <img src="https://i.imgur.com/rC9DGGU.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Connection with the ball on the inside of the foot.</figcaption>
 </figure> 
 

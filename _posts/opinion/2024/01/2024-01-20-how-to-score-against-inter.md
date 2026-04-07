@@ -15,34 +15,34 @@ Inter have conceded the least amount of goals (10) in Europe's big 5 leagues. I 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/mXrKXSl.jpeg">
+    <img src="https://i.imgur.com/mXrKXSl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The overlap drags Inter out.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SYSVWRT.jpeg">
+    <img src="https://i.imgur.com/SYSVWRT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Space opens for the pass, and the pass is played.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/b0BXQG1.jpeg">
+    <img src="https://i.imgur.com/b0BXQG1.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Sassuolo are in on goal.</figcaption>
 </figure> 
 
 Sassuolo showed the power of an overlap when Inter sit further back in their own half. They were the only team to manipulate Inter's shape and break down their structure, in open play. 
 
 <figure>
-    <img src="https://i.imgur.com/uOhVU3k.jpeg">
+    <img src="https://i.imgur.com/uOhVU3k.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Overlap draws Inter out.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/lvOEoo7.jpeg">
+    <img src="https://i.imgur.com/lvOEoo7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - 1v1 with space to run into behind the two Inter defenders who came out.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/D7TJkvj.jpeg">
+    <img src="https://i.imgur.com/D7TJkvj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Goal from outside the box.</figcaption>
 </figure> 
 
@@ -51,41 +51,41 @@ That overlap pins Dimarco and isolates the second defender wide with the ball ca
 Those two goals were it. Like last season, Inter are very organized defensively and hard to breakdown. The rest of the goals were either from a set-piece, mistake, or a turnover. 
 
 <figure>
-    <img src="https://i.imgur.com/o2Vy30y.jpeg">
+    <img src="https://i.imgur.com/o2Vy30y.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Slow pass back to Federico Dimarco with pressure.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ogrC8Zh.jpeg">
+    <img src="https://i.imgur.com/ogrC8Zh.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Turnover in the box.</figcaption>
 </figure> 
 
 Game-state plays a big part in some of these goals. Inter have a tendency to play at a slower pace and make uncharacteristic mistakes, like this one above, when they're up by one or two goals. 
 
 <figure>
-    <img src="https://i.imgur.com/GgOAmJU.jpeg">
+    <img src="https://i.imgur.com/GgOAmJU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Line-breaking pass through Inter's second line.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/rlubOzi.jpeg">
+    <img src="https://i.imgur.com/rlubOzi.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Turn and pass to Rafael Leao.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/wkEUs76.jpeg">
+    <img src="https://i.imgur.com/wkEUs76.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Rafael Leao is in on goal.</figcaption>
 </figure> 
 
 Inter are up two goals to AC Milan, and their second line becomes more lax. A quick line-breaking pass is enough to break their structure. They leave a massive gap between their back line and second line. If you can get it in quick, there's a good chance you can catch them out. 
 
 <figure>
-    <img src="https://i.imgur.com/pX3nM6X.jpeg">
+    <img src="https://i.imgur.com/pX3nM6X.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Denzel Dumfries makes a mistake and Dusan Vlahovic forces a turnover.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/z6dSYEC.jpeg">
+    <img src="https://i.imgur.com/z6dSYEC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Hellas Verona force a quick turnover from an aerial duel.</figcaption>
 </figure> 
 
@@ -96,22 +96,22 @@ They commit a lot of players forward to their front line, and leave a massive ga
 Both lead to a turnover and then the quick counter results in a goal. 
 
 <figure>
-    <img src="https://i.imgur.com/9p5v0Dg.jpeg">
+    <img src="https://i.imgur.com/9p5v0Dg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Turnover from a long pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Y1nmN0Q.jpeg">
+    <img src="https://i.imgur.com/Y1nmN0Q.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.2 - Quick pass over the top to Joshua Zirkzee.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/lqhkYTP.jpeg">
+    <img src="https://i.imgur.com/lqhkYTP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.3 - Joshua Zirkzee in on goal with Inter converging central.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SaAPxJt.jpeg">
+    <img src="https://i.imgur.com/SaAPxJt.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.4 - Joshua Zirkzee goal outside of the box.</figcaption>
 </figure> 
 

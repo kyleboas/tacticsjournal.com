@@ -9,7 +9,7 @@ tags:
 - "Aston Villa"
 - "Premier League"
 - "Champions League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/03/Image-03Oct2024_00:53:01.png"
+image: "/images/uploads/2024/10/03/Image-03Oct2024_00:53:01.png"
 tweet: "Every Aston Villa player orients their hips towards either sideline, opening up the pitch and the pass forward on their first touch. With each attack, the ball always moves forward, and diagonals form. This should trouble every team they play against..."
 ---
 
@@ -18,14 +18,14 @@ Every Aston Villa player orients their hips towards either sideline, opening up 
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/03/Image-03Oct2024_00:10:35.png">
+    <img src="/images/uploads/2024/10/03/Image-03Oct2024_00:10:35.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Aston Villa's double pivot faces their own goal.</figcaption>
 </figure>
 
 Aston Villa use a double pivot when they build up from the back, and last season the two midfielders in that pivot would face the goal when the goalkeeper or center-backs had the ball. Their hips would face their own goal.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/03/Image-03Oct2024_00:10:32.png">
+    <img src="/images/uploads/2024/10/03/Image-03Oct2024_00:10:32.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Aston Villa's double pivot faces the sidelines.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Notice the difference between **Figure 1.1** and **Figure 2.1**. The field feels
 The opponent can apply pressure, but if the ball is played to either player in the pivot in **Figure 2.1**, say Tielemans, he can get off a pass on his first touch to a winger, one of the forwards, or directly into Onana.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/03/Image-03Oct2024_00:10:34.png">
+    <img src="/images/uploads/2024/10/03/Image-03Oct2024_00:10:34.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Aston Villa work the ball up the left wing.</figcaption>
 </figure>
 
@@ -47,11 +47,11 @@ If the ball doesn't move forward either through a pass or a carry, they kick it 
 If the timing gets thrown off even once, they will look to reset.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/03/Image-03Oct2024_00:33:48.png">
+    <img src="/images/uploads/2024/10/03/Image-03Oct2024_00:33:48.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Aston Villa play forward on a diagonal. Pau Torres passes to Youri Tielemans.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/03/Image-03Oct2024_00:10:38.png">
+    <img src="/images/uploads/2024/10/03/Image-03Oct2024_00:10:38.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Youri Tielemans turns and carries forward, and the players on the diagonal peel off, making runs forward. </figcaption>
 </figure>
 

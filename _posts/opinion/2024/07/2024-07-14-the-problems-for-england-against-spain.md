@@ -9,7 +9,7 @@ tags:
 - "England"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/14/Image-14Jul2024_02:19:25.png"
+image: "/images/uploads/2024/07/14/Image-14Jul2024_02:19:25.png"
 ---
 
 England has yet to encounter an opponent of the caliber of Spain in Euro 2024. Spain has been on a tier to themselves. If England get pinned back in their own end, which they should, I don't think they have the pace to counter Spain.
@@ -17,7 +17,7 @@ England has yet to encounter an opponent of the caliber of Spain in Euro 2024. S
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/14/Image-14Jul2024_01:41:29.png">
+    <img src="/images/uploads/2024/07/14/Image-14Jul2024_01:41:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The potential shape of England and Spain when Spain has the ball.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ If England get the ball, they will need to slowly progress the ball forward, wor
 Spain are effective at pressing high off the ball, but if England get past that press, Spain have a habit of [intentionally leaving space wide](https://tacticsjournal.com/2024/07/09/spain-allows-space-wide-to-push-fullbacks-inside/).
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/14/Image-14Jul2024_01:37:48.png">
+    <img src="/images/uploads/2024/07/14/Image-14Jul2024_01:37:48.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - The potential shape of England and Spain when England has the ball. </figcaption>
 </figure>
 

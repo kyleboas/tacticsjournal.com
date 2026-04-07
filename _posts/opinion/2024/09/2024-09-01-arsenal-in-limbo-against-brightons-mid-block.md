@@ -8,7 +8,7 @@ tags:
 - "Arsenal"
 - "Brighton"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/01/Image-01Sep2024_01:17:53.png"
+image: "/images/uploads/2024/09/01/Image-01Sep2024_01:17:53.png"
 ---
 
 Something unusual happens when Arsenal plays against teams that defend in a mid-block. They get stuck in limbo in this middle ground where they can't attack the space behind the opposition's high line, and they can't pin the opposition back in their box.
@@ -16,12 +16,12 @@ Something unusual happens when Arsenal plays against teams that defend in a mid-
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/01/Image-01Sep2024_00:22:35.png">
+    <img src="/images/uploads/2024/09/01/Image-01Sep2024_00:22:35.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Jurrien Timber wins the ball, turns, and then passes to Declan Rice.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/01/Image-01Sep2024_00:22:37.png">
+    <img src="/images/uploads/2024/09/01/Image-01Sep2024_00:22:37.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Declan Rice dribbles into Brighton's end and then passes the ball to Leandro Trossard.</figcaption>
 </figure>
 
@@ -32,12 +32,12 @@ They can attempt a run, but the timing of the runs isn't in sync with each pass.
 Bukayo Saka is ready for a pass in-behind, but if the pass were to be played over the top, it would be him versus three or more other defenders because neither Kai Havertz nor Martin Ødegaard are ready to help.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/01/Image-01Sep2024_00:32:17.png">
+    <img src="/images/uploads/2024/09/01/Image-01Sep2024_00:32:17.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Leandro Trossard dribbles towards the box and then is forced to dribble backwards.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/01/Image-01Sep2024_00:43:53.png">
+    <img src="/images/uploads/2024/09/01/Image-01Sep2024_00:43:53.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - The ball is worked back to Arsenal's defenders, and Brighton push out.</figcaption>
 </figure>
 

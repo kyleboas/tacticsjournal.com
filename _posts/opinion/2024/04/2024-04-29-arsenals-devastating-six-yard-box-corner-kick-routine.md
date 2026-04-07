@@ -16,7 +16,7 @@ Declan Rice's surgically precise and consistent delivery from the left-side into
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/1MnxqSv.jpeg">
+    <img src="https://i.imgur.com/1MnxqSv.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Declan Rice's target prior to Arsenal moving from the far-side to the target.</figcaption>
 </figure> 
 
@@ -33,14 +33,14 @@ It's devastating because Arsenal are ahead of the curve in the evolution of mode
 Arsenal have the height and physicality, and now they have the accuracy. You can stop them in open-play, but you're behind a goal off one simple corner. Devastating.
 
 <figure>
-    <img src="https://i.imgur.com/v9nzfai.jpeg">
+    <img src="https://i.imgur.com/v9nzfai.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Targets Kai Havertz and Gabriel's position at the start of the routine.</figcaption>
 </figure> 
 
 Arsenal start by overloading the far-post, and then when Rice is ready to take the corner, they move to the front-post, the target area. Doing this makes it difficult for Tottenham to track the targets, as they defend the cross zonally. 
 
 <figure>
-    <img src="https://i.imgur.com/DM1htsN.jpg">
+    <img src="https://i.imgur.com/DM1htsN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Ben White backs his body into Tottenham goalkeeper Guglielmo Vicario.</figcaption>
 </figure> 
 
@@ -49,12 +49,12 @@ The pace and placement of the cross means that Vicario can't come out to claim o
 The second benefit is that when Rice kicks the ball, Vicario is off-balance and discombobulated. He can't track the ball as effectively, so if the ball is headed in, he won't likely be able to get a strong enough hand to bat it away to safety. If he makes the save, the ball will likely fall to the floor just in front of goal, where Arsenal are crowded.
 
 <figure>
-    <img src="https://i.imgur.com/tDMIr6o.jpeg">
+    <img src="https://i.imgur.com/tDMIr6o.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Declan Rice's target area when he hits the cross in.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/QoYEQGW.jpeg">
+    <img src="https://i.imgur.com/QoYEQGW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Arsenal forming a line in the path of the ball, in the six-yard box, as the ball is crossed in.</figcaption>
 </figure> 
 
@@ -65,17 +65,17 @@ The second benefit is that when Rice kicks the ball, Vicario is off-balance and 
 * Saliba remains on the back-post for the tap-in if the cross is over-hit, or if there's some kind of small deflection or dinked header.
 
 <figure>
-    <img src="https://i.imgur.com/tfHGy7m.jpeg">
+    <img src="https://i.imgur.com/tfHGy7m.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Gabriel and Kai Havertz jumping for the header, with Takehiro Tomiyasu preoccupying Tottenham defender Mickey van de Ven.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vbk9GUd.jpeg">
+    <img src="https://i.imgur.com/vbk9GUd.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Side angle of Gabriel and Kai Havertz jumping up for the header.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/bwrU939.jpeg">
+    <img src="https://i.imgur.com/bwrU939.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8 - Kai Havertz making contact with the header unmarked. </figcaption>
 </figure> 
 

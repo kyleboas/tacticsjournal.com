@@ -15,22 +15,22 @@ Scott McTominay, one of Manchester United's best box crashers, is currently play
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/NywnFbX.jpg">
+    <img src="https://i.imgur.com/NywnFbX.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - McTominay identifies a 1v3 situation, initiating a forward sprint.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/z0jZP1Q.jpg">
+    <img src="https://i.imgur.com/z0jZP1Q.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - As the ball is played wide, McTominay angles his run to exploit space behind the left-back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/zdPQztx.jpg">
+    <img src="https://i.imgur.com/zdPQztx.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - A cross reaches McTominay, setting up his scoring opportunity.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/VmrXOUf.jpg">
+    <img src="https://i.imgur.com/VmrXOUf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - McTominay scores with a sliding shot.</figcaption>
 </figure> 
 
@@ -39,12 +39,12 @@ His ability to read space and time his runs to reach dangerous areas is [a rare 
 It's hard to crash a box when you are 30 yards behind the play.
 
 <figure>
-    <img src="https://i.imgur.com/UPcTvK4.jpg">
+    <img src="https://i.imgur.com/UPcTvK4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - McTominay positioned behind the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Uax0jnk.jpg">
+    <img src="https://i.imgur.com/Uax0jnk.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Ball in the box, McTominay sprints 20 yards to reach the top, out of play.</figcaption>
 </figure>
 
@@ -53,29 +53,29 @@ He has a great engine, athleticism, which allows him to run up and down the pitc
 He must be near the box at the start of Manchester United's attack, not trailing behind the front line but on it. It's a waste of his skillset in attack to have him this far behind the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/wLOifZS.jpg">
+    <img src="https://i.imgur.com/wLOifZS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - McTominay's shot from outside the box narrowly misses.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/5WxQJnR.jpg">
+    <img src="https://i.imgur.com/5WxQJnR.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Ball circulates back to McTominay, attempting an outside-the-box shot.</figcaption>
 </figure> 
 
 His game isn't about long shots or spotting passes on the far side. He excels as a poacher and goal-scorer in tight areas, because he can use his ability to find space to expand those tight areas.
 
 <figure>
-    <img src="https://i.imgur.com/KAJIyVT.jpg">
+    <img src="https://i.imgur.com/KAJIyVT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - McTominay attacks space behind the left-back, seeking a pass into the box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/XtKawZf.jpg">
+    <img src="https://i.imgur.com/XtKawZf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - McTominay waits on the edge of the box, anticipating a shot to attack the penalty area.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/3cV83LN.jpg">
+    <img src="https://i.imgur.com/3cV83LN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - McTominay exploits space left by Martial, receiving a ball over the top.</figcaption>
 </figure> 
 

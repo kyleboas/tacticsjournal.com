@@ -17,12 +17,12 @@ As Malmö manager Henrik Rydstrom says, "You think you see everything, but there
 <!---more---> 
 
 <figure>
-    <img src="https://i.imgur.com/ZIH6o5Q.jpeg">
+    <img src="https://i.imgur.com/ZIH6o5Q.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Malmö forms a diagonal ladder structure. Elison Makolli passes to Sebastian Nanasi, and Nansi lays it off to Erik Botheim.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/bB3luEX.jpeg">
+    <img src="https://i.imgur.com/bB3luEX.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Erik Botheim immediately plays one-touch to Sebastian Nanasi, and Nansi passes to Isaac Kiese Thelin.</figcaption>
 </figure> 
 
@@ -34,22 +34,22 @@ Malmö is organized, and Häcken is now reacting.
 
 
 <figure>
-    <img src="https://i.imgur.com/aRjsSYn.jpeg">
+    <img src="https://i.imgur.com/aRjsSYn.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Isaac Kiese Thelin holds the ball up and plays it back to Erik Botheim. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/NEx9Lpz.jpeg">
+    <img src="https://i.imgur.com/NEx9Lpz.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Erik Botheim rolls it back to Isaac Kiese Thelin. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CReOqOW.jpeg">
+    <img src="https://i.imgur.com/CReOqOW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Isaac Kiese Thelin plays the ball one-touch back to Erik Botheim, and Botheim shoots at goal. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/44BRsDO.jpeg">
+    <img src="https://i.imgur.com/44BRsDO.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Illustration of this quick passage of play from Malmö.</figcaption>
 </figure> 
 

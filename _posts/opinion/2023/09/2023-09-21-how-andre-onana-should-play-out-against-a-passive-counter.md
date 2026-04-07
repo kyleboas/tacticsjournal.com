@@ -23,14 +23,14 @@ September 21, 2023 — Bayern Munich knew Andre Onana's weakness was the pass ou
 Manchester City put pressure on Onana in the Champions League Final last season, but Wolves had a different approach this season: sit off and wait. This is the approach Bayern Munich took.
 
 <figure>
-    <img src="https://i.imgur.com/agsnZ7M.jpg">
+    <img src="https://i.imgur.com/agsnZ7M.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of Bayern Munich's counter-pressing structure when Andre Onana had the ball.</figcaption>
 </figure>
 
 Harry Kane would cover shadow Lisandro Martinez, and Jamal Musiala covered Casemiro. Kane wouldn't run towards Onana to make him pass; everyone stood still, tempting Onana to pass.
 
 <figure>
-    <img src="https://i.imgur.com/yqjA80L.jpg">
+    <img src="https://i.imgur.com/yqjA80L.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bayern Munich's counter-pressing structure when Andre Onana had the ball.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Onana had three options:
 3. Pass to Victor Lindelof.
 
 <figure>
-    <img src="https://i.imgur.com/BLyNXZ1.jpg">
+    <img src="https://i.imgur.com/BLyNXZ1.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Andre Onana passes to Victor Lindelof, and Lindelof passes long to the forwards under pressure.</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ More often than not, when the pass was made long, Bayern Munich easily won back 
 I'm not going to show you every instance of this happening, this happened on several occasions, but every time Onana received the ball, this is what he was met with. 
 
 <figure>
-    <img src="https://i.imgur.com/oacgLWt.jpg">
+    <img src="https://i.imgur.com/oacgLWt.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Andre Onana ignores the pass to Victor Lindelof.</figcaption>
 </figure>
 
@@ -65,12 +65,12 @@ Brighton is very good at doing this. They'll sit and wait, let everyone get in p
 This movement can either be prompted by normal pressure or in reaction to one of their players moving, like Diogo Dalot dropping in Figure 3.2, for example.
 
 <figure>
-    <img src="https://i.imgur.com/207doWn.jpg">
+    <img src="https://i.imgur.com/207doWn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Diogo drops to receive the pass from Onana, and then plays the ball to Victor Lindelof.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/xRlJicW.jpg">
+    <img src="https://i.imgur.com/xRlJicW.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Victor Lindelof passes to Andre Onana.</figcaption>
 </figure>
 
@@ -81,12 +81,12 @@ Now Bayern Munich is off.
 - Musiala now switches his attention to marking Dalot instead of Casemiro.
 
 <figure>
-    <img src="https://i.imgur.com/aG5NSGH.jpg">
+    <img src="https://i.imgur.com/aG5NSGH.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Andre Onana passes to Diogo Dalot under pressure from Harry Kane.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/hhYDu7m.jpg">
+    <img src="https://i.imgur.com/hhYDu7m.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.5 - Diogo Dalot runs into space.</figcaption>
 </figure>
 

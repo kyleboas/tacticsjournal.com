@@ -16,7 +16,7 @@ Chelsea were smartly set up in and out of possession against Aston Villa, using 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/aBb2NCg.jpeg">
+    <img src="https://i.imgur.com/aBb2NCg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Chelsea out-of-possession </figcaption>
 </figure> 
 
@@ -31,7 +31,7 @@ The problem is that Diego Carlos and Clément Lenglet aren't as accurate or prof
 When Chelsea turned the ball over you'd notice them back off, reset, and allow Aston Villa to pass back to Carlos and Lenglet. When Aston Villa passed back they were trapped into that long speculative ball. 
 
 <figure>
-    <img src="https://i.imgur.com/VQhrpYb.jpeg">
+    <img src="https://i.imgur.com/VQhrpYb.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Illustration of Chelsea in and out of possession shape.</figcaption>
 </figure> 
 
@@ -40,7 +40,7 @@ Aston Villa need the numerical superiority central to break out quickly. Start c
 Nicolas Jackson is Chelsea's best ball-winner in the first and second line. To have him shadow-marking Kamara or Douglas Luiz would be a waste. He would not be impacting play enough. By tracking Cash, you not only eliminate the out ball to Villa's favored right side but you also then have a quick forward there to attack the space behind Cash when Cash makes runs forward. 
 
 <figure>
-    <img src="https://i.imgur.com/J5nFRiC.jpeg">
+    <img src="https://i.imgur.com/J5nFRiC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Chelsea in-possession</figcaption>
 </figure>
 

@@ -16,22 +16,22 @@ Bologna is overwhelming because they allow their players to use their natural in
 <!---more---> 
 
 <figure>
-<img src="https://i.imgur.com/u7ZXG93.jpeg">
+<img src="https://i.imgur.com/u7ZXG93.jpeg" loading="lazy" decoding="async">
 <figcaption> Figure 1.1: Riccardo Calafiori jumps forward to tackle from behind and wins Bologna the ball. </figcaption>
 </figure> 
 
 <figure>
-<img src="https://i.imgur.com/z4235SU.jpeg">
+<img src="https://i.imgur.com/z4235SU.jpeg" loading="lazy" decoding="async">
 <figcaption> Figure 1.2: Riccardo Calafiori continues moving forward after he wins the ball. </figcaption>
 </figure> 
 
 <figure>
-<img src="https://i.imgur.com/X8q4HWd.jpeg">
+<img src="https://i.imgur.com/X8q4HWd.jpeg" loading="lazy" decoding="async">
 <figcaption> Figure 1.3: The ball is passed to an unmarked Riccardo Calafiori, in on goal. </figcaption>
 </figure> 
 
 <figure>
-<img src="https://i.imgur.com/5x6Mlpp.jpeg">
+<img src="https://i.imgur.com/5x6Mlpp.jpeg" loading="lazy" decoding="async">
 <figcaption> Figure 1.4: Riccardo Calafiori calmly chips the goalkeeper to score Bologna's third goal. </figcaption>
 </figure> 
 

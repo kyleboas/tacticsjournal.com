@@ -17,12 +17,12 @@ June 4, 2023 — Manchester United’s piston press opened up too much space bet
 <!---more---> 
 
 <figure>
-    <img src="https://i.imgur.com/c846xlG.jpg">
+    <img src="https://i.imgur.com/c846xlG.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Christian Eriksen challenges John Stones and Jadon Sancho begins his run to Ruben Dias.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/mtJm6HS.jpg">
+    <img src="https://i.imgur.com/mtJm6HS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Jadon Sancho presses Ruben Dias and Bruno Fernandes readies his run to Manuel Akanji.</figcaption>
 </figure> 
 
@@ -31,17 +31,17 @@ Piston press. One man presses, ball is passed, another man presses the ball, the
 Once the first line is finished making their runs forward, space opens behind them. 
 
 <figure>
-    <img src="https://i.imgur.com/oWJXplL.jpg">
+    <img src="https://i.imgur.com/oWJXplL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Ilkay Gündoğan runs out wide into the space Bruno Fernandes left. Rodri runs wide anticipating the pass to Gündoğan.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/WQf3Y9j.jpg">
+    <img src="https://i.imgur.com/WQf3Y9j.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Ilkay Gündoğan passes to Rodri, and John Stones is free.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/v6AhJ5C.jpg">
+    <img src="https://i.imgur.com/v6AhJ5C.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4.1 - Illustration of Figure 1.4</figcaption>
 </figure> 
 
@@ -50,12 +50,12 @@ Once Manchester City triggered Manchester United’s piston press and got past t
 United’s far side was not as active as the ball side, so in this instance, John Stones became free centrally. 
 
 <figure>
-    <img src="https://i.imgur.com/dhwNpGq.jpg">
+    <img src="https://i.imgur.com/dhwNpGq.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Rodri passes to John Stones unmarked, and then John Stones passes to Ruben Dias.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/U5jAqC3.jpg">
+    <img src="https://i.imgur.com/U5jAqC3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Erling Haaland drops to receive the pass from Ruben Dias.</figcaption>
 </figure> 
 
@@ -66,27 +66,27 @@ Drop Haaland, pass into him, and Haaland lays the ball off to either Rodri, John
 Both Ilkay Gündoğan and Kevin De Bruyne were pushing higher up the pitch to further expand the space centrally. 
 
 <figure>
-    <img src="https://i.imgur.com/ieCq2bn.jpg">
+    <img src="https://i.imgur.com/ieCq2bn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Erling Haaland drops to receive a pass from Ruben Dias. Rodri moves into space anticipating the pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/PU2YuNH.jpg">
+    <img src="https://i.imgur.com/PU2YuNH.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Erling Haaland passes to Rodri, and then immediately turns to run behind Victor Lindelof.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/GBNNfPV.jpg">
+    <img src="https://i.imgur.com/GBNNfPV.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Rodri passes to Ilkay Gündoğan.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ya7ctU4.jpg">
+    <img src="https://i.imgur.com/ya7ctU4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Erling Haaland running into space behind Raphael Varane.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/em2lfrQ.jpg">
+    <img src="https://i.imgur.com/em2lfrQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Ilkay Gündoğan passes to Erling Haaland.</figcaption>
 </figure> 
 
@@ -94,26 +94,26 @@ I expected Manchester United to instead press in the middle third like they did 
 
 
 <figure>
-    <img src="https://i.imgur.com/ShMwNKF.jpg">
+    <img src="https://i.imgur.com/ShMwNKF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Illustration of how Manchester United should have pressed. Bruno Fernandes curves his run to cut off the pass to Manuel Akanji. Marcus Rashford cover shadows John Stones. Fred, Casemiro, and Christian Eriksen tightly man-mark Kevin De Bruyne, Ilkay Gündoğan, and Rodri.</figcaption>
 </figure> 
 
 Herd Manchester City into one side of the pitch. 
 
 <figure>
-    <img src="https://i.imgur.com/1sKCZ5a.jpg">
+    <img src="https://i.imgur.com/1sKCZ5a.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Bruno Fernandes presses Akanji, while Eriksen and Casemiro follow Gündoğan and Rodri.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/lISYW3j.jpg">
+    <img src="https://i.imgur.com/lISYW3j.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Ilkay Gündoğan becomes trapped out wide with Bruno Fernandes and Casemiro pressuring him.</figcaption>
 </figure> 
 
 And then trap them out wide, without giving them as much space centrally. Force Manchester City to play long out of tight spaces. Don’t hand them huge pockets. 
 
 <figure>
-    <img src="https://i.imgur.com/SXR9cGQ.jpg">
+    <img src="https://i.imgur.com/SXR9cGQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - (23 April 2023) Manchester United's pressing pattern against Brighton.</figcaption>
 </figure> 
 
@@ -123,7 +123,7 @@ I said before the match that this final would be decided in Manchester City’s 
 
 
 <figure>
-    <img src="https://i.imgur.com/aPYIAxC.jpg">
+    <img src="https://i.imgur.com/aPYIAxC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Manchester United tired in the second half, not pressing Manchester City's backline and leaving large amounts of space open between the lines.</figcaption>
 </figure> 
 

@@ -16,45 +16,45 @@ September 24, 2023 — Matheus Nunes showcases his awareness to cover for Manuel
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/3t2NJjK.jpg">
+    <img src="https://i.imgur.com/3t2NJjK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Matheus Nunes drops back into the area Manuel Akanji would normally operate, at right center-back, and intercepts the ball.</figcaption>
 </figure> 
 
 This is the role John Stones normally takes up, responsible for covering for either Manuel Akanji or Kyle Walker when they get forward. Someone has to protect that space to the right of Ruben Dias, or it's an easy counter. 
 
 <figure>
-    <img src="https://i.imgur.com/ZtNqzrs.jpg">
+    <img src="https://i.imgur.com/ZtNqzrs.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Matheus Nunes passes to Julian Alvarez</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/xDFzrCN.jpg">
+    <img src="https://i.imgur.com/xDFzrCN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Matheus Nunes continues his run into the right half-space as Julian Alvarez drives forward</figcaption>
 </figure> 
 
 Immediately attacking the space is key. Pass and then move. No one from Nottingham Forest effectively tracks him, so a 3v2 is created with both Phil Foden and Julian Alvarez marked. 
 
 <figure>
-    <img src="https://i.imgur.com/VApRyJU.jpg">
+    <img src="https://i.imgur.com/VApRyJU.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Matheus Nunes lets the ball run to Phil Foden from Julian Alvarez, as he continues his run</figcaption>
 </figure> 
 
 Smart from Nunes to let the ball run to Foden so he can continue attacking the space at full speed. Had he taken the ball in stride, Foden's marker would have been able to stick out a leg and stop the play. 
 
 <figure>
-    <img src="https://i.imgur.com/o2yswXm.jpg">
+    <img src="https://i.imgur.com/o2yswXm.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Phil Foden passes to Matheus Nunes behind the back-line. Erling Haaland will make his run to the back-post</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/p5tv1bH.jpg">
+    <img src="https://i.imgur.com/p5tv1bH.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Matheus Nunes crosses to Erling Haaland</figcaption>
 </figure> 
 
 Erling Haaland always favors attacking the back-post. That is his default. And Nunes puts this ball exactly where he needed to. 
 
 <figure>
-    <img src="https://i.imgur.com/Gq5wJWy.jpg">
+    <img src="https://i.imgur.com/Gq5wJWy.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Erling Haaland heads the ball into the goal</figcaption>
 </figure> 
 

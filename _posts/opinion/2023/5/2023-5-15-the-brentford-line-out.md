@@ -18,24 +18,24 @@ May 15, 2023 – Brentford are experts at set-pieces, but their long throw-ins a
 The requirement is that you have a player like Mathias Jensen who can throw the ball long and accurately.
 
 <figure>
-    <img src="https://i.imgur.com/0pweafS.jpg">
+    <img src="https://i.imgur.com/0pweafS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 – Mathias Jensen throws the ball into the penalty area towards Kevin Schade.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/nOvsHnh.jpg">
+    <img src="https://i.imgur.com/nOvsHnh.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 – Ethan Pinnock sets a screen for Kevin Schade so Schade can head the ball on to the next man inside the box.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/4orNqWi.jpg">
+    <img src="https://i.imgur.com/4orNqWi.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 – The ball fumbles around and eventually pops out for a high-quality Brentford shot that gets blocked.</figcaption>
 </figure>
 
 The way Ethan Pinnock blocks the West Ham defender to allow Kevin Schade to get an uncontested header on the ball reminds me of a Rugby line-out.
 
 <figure>
-    <img src="https://i.imgur.com/qpvHGLt.jpg">
+    <img src="https://i.imgur.com/qpvHGLt.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 – Rugby line-out.</figcaption>
 </figure>
 
@@ -44,12 +44,12 @@ Ball is thrown in from the sidelines, one player jumps to knock it down, and the
 You can see it clearer in this next example, which ended in a goal for Brentford.
 
 <figure>
-    <img src="https://i.imgur.com/4wnttPh.jpg">
+    <img src="https://i.imgur.com/4wnttPh.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 – Mathias Jensen throws the ball into the area Ben Mee is going to arrive in.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/rUruRjy.jpg">
+    <img src="https://i.imgur.com/rUruRjy.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 – Illustration of what is happening in Figure 3.1.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ You can see it clearer in this next example, which ended in a goal for Brentford
 - Two players sit back inside the penalty box, free, waiting for any spilled balls.
 
 <figure>
-    <img src="https://i.imgur.com/MKUB0rx.jpg">
+    <img src="https://i.imgur.com/MKUB0rx.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 – Ben Mee heads the ball onto Yoane Wissa, and Wissa heads the ball into the top left-hand corner for the goal.</figcaption>
 </figure>
 

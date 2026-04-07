@@ -11,7 +11,7 @@ tags:
 - "Bayern Leverkusen"
 - "Bundesliga"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/29/Image-29Sep2024_19:00:07.png"
+image: "/images/uploads/2024/09/29/Image-29Sep2024_19:00:07.png"
 ---
 
 When in their own half, both Manchester City and Bayern Munich moved their pivot out of the way to have a midfielder drop into the space they vacated to open up a clean pass through the center of Newcastle and Bayern Leverkusen's compact defense.
@@ -19,11 +19,11 @@ When in their own half, both Manchester City and Bayern Munich moved their pivot
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/29/Image-29Sep2024_18:43:44.png">
+    <img src="/images/uploads/2024/09/29/Image-29Sep2024_18:43:44.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester City and Newcastle's default structure when City have the ball in their own half.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/29/Image-29Sep2024_18:43:46.png">
+    <img src="/images/uploads/2024/09/29/Image-29Sep2024_18:43:46.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Manuel Akanji, Mateo Kovacic, and Rico Lewis vacate the space central to open it up for İlkay Gündoğan to drop into. </figcaption>
 </figure>
 
@@ -35,11 +35,11 @@ When Gündoğan drops, the player that marks him is far away. He has tons of tim
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/29/Image-29Sep2024_18:43:40.png">
+    <img src="/images/uploads/2024/09/29/Image-29Sep2024_18:43:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bayern Munich and Bayern Leverkusen's default defensive shape when Bayern Munich are passing out from the back. </figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/29/Image-29Sep2024_18:43:42.png">
+    <img src="/images/uploads/2024/09/29/Image-29Sep2024_18:43:42.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Joshua Kimmich and Aleksandar Pavlovic move wide into the half-space and Jamal Musiala drops into the space they vacated.</figcaption>
 </figure>
 

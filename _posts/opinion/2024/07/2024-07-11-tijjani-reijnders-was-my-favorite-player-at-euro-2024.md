@@ -9,7 +9,7 @@ tags:
 - "England"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_00:01:41.png"
+image: "/images/uploads/2024/07/11/Image-11Jul2024_00:01:41.png"
 ---
 
 My favorite player to watch at Euro 2024 was Tijjani Reijnders of the Netherlands because he dictates the pace of play so well, uses calm feints under pressure, and while carrying, always looks to pass forward first and passes and moves with ease.
@@ -17,11 +17,11 @@ My favorite player to watch at Euro 2024 was Tijjani Reijnders of the Netherland
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_00:22:38.png">
+    <img src="/images/uploads/2024/07/11/Image-11Jul2024_00:22:38.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Virgil van Dijk passes to Tijjani Reijnders, and Reijnders passes to Nathan Ake, who then moves wide when Ake dribbles inside.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_00:22:40.png">
+    <img src="/images/uploads/2024/07/11/Image-11Jul2024_00:22:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Nathan Ake passes forward to the man dropping into the pocket of space Tijjani Reijnders vacated.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ He never waits in the pocket after receiving. He is always looking for the next 
 Passes forward [like this](https://tacticsjournal.com/2024/07/10/spains-simple-passes-forward-are-refreshing/) are not necessary, but they are helpful to help break England's shape by forcing them to collapse on the ball carrier. Force England to collapse, play it back from where it originally came, and then switch. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_00:01:38.png">
+    <img src="/images/uploads/2024/07/11/Image-11Jul2024_00:01:38.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Tijjani Reijnders receives and then passes forward to Xavi Simmons. </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ He receives, looks upfield as he receives, takes two or three touches, then play
 He always looks forward first. The moment the pass is open in the pocket for the midfielder or forward to receive, he plays the pass. And the pass is perfectly weighted to roll past in front of Xavi Simmons, anticipating the pressure ahead from Declan Rice. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_00:01:40.png">
+    <img src="/images/uploads/2024/07/11/Image-11Jul2024_00:01:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Tijjani Reijnders continues his run after the pass, and then Xavi Simmons passes back to Reijnders.</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ I can't quite explain the way he runs off the ball. It is not a sprint, and it i
 Look at the distance he covered within 30 seconds of playing. The space on the left in the pocket, created by him; the space on the right, created by him; the line-breaking pass; and then the run to finish the move, locking the English block back in their own half. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_00:01:42.png">
+    <img src="/images/uploads/2024/07/11/Image-11Jul2024_00:01:42.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Tijjani Reijnders receives with his back to play in the left half-space, carries wide, passes to Cody Gakpo, and then continues his run to receive down the left wing.</figcaption>
 </figure>
 

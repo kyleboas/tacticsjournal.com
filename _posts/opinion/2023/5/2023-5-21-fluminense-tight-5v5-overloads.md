@@ -16,24 +16,24 @@ May 21, 2023 — Fluminense's possession play is unique due to way they overload
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/rLMj1ZB.jpg">
+    <img src="https://i.imgur.com/rLMj1ZB.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The ball is played to Jhon Arias.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/eHdQz5v.jpg">
+    <img src="https://i.imgur.com/eHdQz5v.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Jhon Arias turns and immediately passes up the line.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/xRjRda9.jpg">
+    <img src="https://i.imgur.com/xRjRda9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - One-two pass back to Jhon Arias.</figcaption>
 </figure> 
 
 On every possession, Fluminense would choose one side of the pitch, and at least four to five players would venture over to one side, no matter what “position” they would traditionally be labeled as.
 
 <figure>
-    <img src="https://i.imgur.com/80HNkNj.jpg">
+    <img src="https://i.imgur.com/80HNkNj.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Jhon Arias runs out of the 5v5 into space.</figcaption>
 </figure> 
 
@@ -44,12 +44,12 @@ Fluminense excels at dribbling and performing one-twos, while Botafogo does not.
 3. Switch the play to the isolated Fluminense forward. 
 
 <figure>
-    <img src="https://i.imgur.com/HLJMhtp.jpg">
+    <img src="https://i.imgur.com/HLJMhtp.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Jhon Arias passes to his left to find the free man on the far side.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/78U8fXQ.jpg">
+    <img src="https://i.imgur.com/78U8fXQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - The ball is played to the free man.</figcaption>
 </figure> 
 
@@ -58,7 +58,7 @@ Overload-to-isolate. Overload the right-wing, isolate a forward on the far side,
 It’s not rigid, and there are no automations. All outfield players are free to be expressive. 
 
 <figure>
-    <img src="https://i.imgur.com/Wz3VRfs.jpg">
+    <img src="https://i.imgur.com/Wz3VRfs.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - 4-4-2 out of possession Fluminense shape.</figcaption>
 </figure> 
 
@@ -67,12 +67,12 @@ Out of possession, Fluminense didn't use anything too exotic. A simple 4-4-2 all
 An advantage of favoring one side in possession was that if Fluminense lost the ball, they could quickly regain possession because they had the numbers to overwhelm the ball carrier. 
 
 <figure>
-    <img src="https://i.imgur.com/NDUyqLG.jpg">
+    <img src="https://i.imgur.com/NDUyqLG.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Fluminense loses the ball in the corner.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/eY8wFfV.jpg">
+    <img src="https://i.imgur.com/eY8wFfV.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Fluminense keeps their five men close to the ball to surround the ball carrier and win back the ball.</figcaption>
 </figure> 
 
@@ -81,7 +81,7 @@ A disadvantage of favoring one side in possession is that Fluminense would somet
 There was no one to pass to, and the play ended there. 
 
 <figure>
-    <img src="https://i.imgur.com/l9eyM3S.jpg">
+    <img src="https://i.imgur.com/l9eyM3S.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Unoccupied space on the far side for Fluminense on the break.</figcaption>
 </figure> 
 
@@ -90,14 +90,14 @@ Botafogo's numerical superiority meant that it was impossible for Fluminense to 
 Fernando Diniz, Fluminense's manager, is drawing a lot of attention because of this unique system, but I see a lot of similarities to Liverpool when I watched Fluminense play today. 
 
 <figure>
-    <img src="https://i.imgur.com/7TNHb0S.jpg">
+    <img src="https://i.imgur.com/7TNHb0S.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - (17 April 2023 - Leeds vs Liverpool) Liverpool's in possession structure favoring one half of the pitch.</figcaption>
 </figure> 
 
 Fluminense is much more conservative in the way they allocate their players. Liverpool commits all ten outfield players to one side of the pitch, while Fluminense only commits five. The rest spread across the pitch. 
 
 <figure>
-    <img src="https://i.imgur.com/YnA23Ys.jpg">
+    <img src="https://i.imgur.com/YnA23Ys.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Fluminense's in possession shape.</figcaption>
 </figure> 
 

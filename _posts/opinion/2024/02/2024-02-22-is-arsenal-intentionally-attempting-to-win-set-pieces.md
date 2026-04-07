@@ -17,7 +17,7 @@ Arsenal have a very simple game plan: Win the ball, control possession in the mi
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/gTFJ88o.jpeg">
+    <img src="https://i.imgur.com/gTFJ88o.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Arsenal with possession in the middle third.</figcaption>
 </figure> 
 
@@ -26,12 +26,12 @@ Almost no one can defend against Arsenal's short passing patterns, bouncing betw
 What they lack is the cutting edge in the final third. This is something I've suspected for several games, but as time goes on I'm beginning to become more confident that this lack of progression central is by design. 
 
 <figure>
-    <img src="https://i.imgur.com/23Rumy7.jpeg">
+    <img src="https://i.imgur.com/23Rumy7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Kai Havertz attempting a cross into the box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/5ACjjcE.jpeg">
+    <img src="https://i.imgur.com/5ACjjcE.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Ben White attempting a cross.</figcaption>
 </figure> 
 
@@ -41,7 +41,7 @@ Do they move players into the box when the ball is played wide? Yes. Does it see
 
 
 <figure>
-    <img src="https://i.imgur.com/x30AssC.jpeg">
+    <img src="https://i.imgur.com/x30AssC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - 2023/24 Premier League matches sorted by teams with the most corner kicks in a single game with 58% possession or less. <a href="https://stathead.com/tiny/26Gm2">Data via StatHead</a></figcaption>
 </figure>
 
@@ -54,12 +54,12 @@ Declan Rice is one of the most consistent corner and free-kick takers I have eve
 When you are that good at converting from a dead-ball, what's the point of trying to score from open play? 
 
 <figure>
-    <img src="https://i.imgur.com/M0rmed9.jpeg">
+    <img src="https://i.imgur.com/M0rmed9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Gabriel lifts a ball over the top, wide, to Leandro Trossard. No one availble in the middle.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ncXibSa.jpeg">
+    <img src="https://i.imgur.com/ncXibSa.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Bukayo Saka breaks down the wing and no one is central for Arsenal.</figcaption>
 </figure>
 

@@ -15,105 +15,105 @@ When Tottenham are denied the ability to counter, they enter into a strange patt
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/7OsZf9e.jpeg">
+    <img src="https://i.imgur.com/7OsZf9e.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - James Maddison's first touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/aBhDpx8.jpeg">
+    <img src="https://i.imgur.com/aBhDpx8.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - James Maddison's second touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0jfxddC.jpeg">
+    <img src="https://i.imgur.com/0jfxddC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - James Maddison passes to Rodrigo Bentancur.</figcaption>
 </figure> 
 
 Rodrigo Bentancur and Timo Werner were both calling for the ball on James Maddison's first touch. By waiting for that third touch to pass, Newcastle can quickly move to anticipate the subsequent passes.
 
 <figure>
-    <img src="https://i.imgur.com/VwMwwL6.jpeg">
+    <img src="https://i.imgur.com/VwMwwL6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Rodrigo Bentancur one-touch pass to Yves Bissouma, and Bissouma's one-touch pass to Destiny Udogie.</figcaption>
 </figure> 
 
 The one-touch passing is then mixed in to speed things along. 
 
 <figure>
-    <img src="https://i.imgur.com/JuaUwUf.jpeg">
+    <img src="https://i.imgur.com/JuaUwUf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Destiny Udogie's first touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/2raMfvv.jpeg">
+    <img src="https://i.imgur.com/2raMfvv.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Destiny Udogie's second touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/EZkihnC.jpeg">
+    <img src="https://i.imgur.com/EZkihnC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Destiny Udogie's third touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/zj3KOKi.jpeg">
+    <img src="https://i.imgur.com/zj3KOKi.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8 - Destiny Udogie passes to Timo Werner.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/MqKTJmQ.jpeg">
+    <img src="https://i.imgur.com/MqKTJmQ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.9 - Timo Werner's first touch. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Tzo0KkV.jpeg">
+    <img src="https://i.imgur.com/Tzo0KkV.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.10 - Timo Werner's second touch. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/hSEo87W.jpeg">
+    <img src="https://i.imgur.com/hSEo87W.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.11 - Timo Werner attempts a pass to Destiny Udogie but it is blocked.</figcaption>
 </figure> 
 
 But both Destiny Udogie and Timo Werner take too many touches and the space is closed down. There's no room for Bentancur or Udogie to receive the ball. Bissouma is open but Werner doesn't look backwards. 
 
 <figure>
-    <img src="https://i.imgur.com/SKj79DJ.jpeg">
+    <img src="https://i.imgur.com/SKj79DJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.12 - James Maddison one-touch pass to Rodrigo Bentancur.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/rXGZnKN.jpeg">
+    <img src="https://i.imgur.com/rXGZnKN.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.13 - Rodrigo Bentancur's one-touch pass to Hueng-min Son that's wide of the mark.</figcaption>
 </figure> 
 
 And now after that failed sequence, back to one-touch passing. There needs to be a middle ground. Four touches is too many. It should be one or two touch, quick. 
 
 <figure>
-    <img src="https://i.imgur.com/qKliw0h.jpeg">
+    <img src="https://i.imgur.com/qKliw0h.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Cristian Romero's first touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ytYW9xT.jpeg">
+    <img src="https://i.imgur.com/ytYW9xT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Cristian Romero's second touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/5LmCDrR.jpeg">
+    <img src="https://i.imgur.com/5LmCDrR.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Cristian Romero's third touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vi7DTVA.jpeg">
+    <img src="https://i.imgur.com/vi7DTVA.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Cristian Romero's fourth touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/PY3Rqz3.jpeg">
+    <img src="https://i.imgur.com/PY3Rqz3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Cristian Romero passes to Pedro Porro.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/TUQsMyJ.jpeg">
+    <img src="https://i.imgur.com/TUQsMyJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Pedro Porro's first touch.</figcaption>
 </figure> 
 
@@ -122,27 +122,27 @@ Look at the space available wide when Cristian Romero takes his first touch, com
 By taking all those touches, you allow Newcastle to easily regroup, get in position, and then they can cut off that third man once Pedro Porro receives the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/lbOGIDB.jpeg">
+    <img src="https://i.imgur.com/lbOGIDB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Pedro Porro's first touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0ulzr8e.jpeg">
+    <img src="https://i.imgur.com/0ulzr8e.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Pedro Porro's second touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/xsFodDj.jpeg">
+    <img src="https://i.imgur.com/xsFodDj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Pedro Porro's third touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/rXriNSc.jpeg">
+    <img src="https://i.imgur.com/rXriNSc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Pedro Porro's fourth touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/wvCQ3me.jpeg">
+    <img src="https://i.imgur.com/wvCQ3me.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.5 - Pedro Porro passes back to Cristian Romero.</figcaption>
 </figure> 
 

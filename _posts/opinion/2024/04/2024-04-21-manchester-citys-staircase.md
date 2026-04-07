@@ -17,14 +17,14 @@ Manchester City stagger their double pivot, and they form staircase, connecting 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/nfvf9Xv.jpeg">
+    <img src="https://i.imgur.com/nfvf9Xv.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Flat double pivot.</figcaption>
 </figure> 
 
 We are used to this, a flat double pivot. John Stones will stay in line with Rodri. This is the measured approach, great for working the ball quickly between the back-three center-backs and the pivot, but it can be difficult to play out of this when there's limited space.  
 
 <figure>
-    <img src="https://i.imgur.com/VCe5wfV.jpeg">
+    <img src="https://i.imgur.com/VCe5wfV.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Staggered double pivot.</figcaption>
 </figure> 
 
@@ -33,12 +33,12 @@ When you stagger the pivot, now you open up passing lanes between the lines. Who
 If they want to play to the left, Rodri will drop, and Stones will move forward. If they want to play to the right, Stones will drop, and Rodri will move forward.
 
 <figure>
-    <img src="https://i.imgur.com/wDLWjR3.jpeg">
+    <img src="https://i.imgur.com/wDLWjR3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Staircase facing towards the left-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/GfTXMJj.jpeg">
+    <img src="https://i.imgur.com/GfTXMJj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Staircase facing towards the left-wing.</figcaption>
 </figure> 
 
@@ -48,12 +48,12 @@ And you'll notice the intent because Manchester City's midfielders react to the 
 In relational terms, this is known as escadinhas, meaning ‘staircase’ or ‘ladder'. Players arrange themselves on a diagonal. This arrangement then opens up one-two quick passes to play through the lines. You can [learn more about relationism here](https://medium.com/@stirlingj1982/what-is-relationism-c98d6233d9c2).
 
 <figure>
-    <img src="https://i.imgur.com/qENErAS.jpeg">
+    <img src="https://i.imgur.com/qENErAS.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Staircase facing towards the right-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4xaUwdI.jpeg">
+    <img src="https://i.imgur.com/4xaUwdI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Wall pass off Manuel Akanji to Rodri from Kyle Walker.</figcaption>
 </figure> 
 
@@ -62,12 +62,12 @@ I've always called this a wall pass — these naturally form due to the staggeri
 If the pivot remained flat, this passing lane would never be open. They'd be stuck passing between the back-line and the pivot. It's harder to access the midfielders or the wing.
 
 <figure>
-    <img src="https://i.imgur.com/R5jswve.jpeg">
+    <img src="https://i.imgur.com/R5jswve.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Wall pass off Manuel Akanji to Jérémy Doku from Nathan Ake.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DLub27o.jpeg">
+    <img src="https://i.imgur.com/DLub27o.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Jérémy Doku plays Kevin De Bruyne in, and De Bruyne crosses to Bernardo Silva for the winning goal.</figcaption>
 </figure> 
 

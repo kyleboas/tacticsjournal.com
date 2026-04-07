@@ -8,7 +8,7 @@ tags:
 - "Arsenal"
 - "Manchester City"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_20:38:39.png"
+image: "/images/uploads/2024/09/21/Image-21Sep2024_20:38:39.png"
 ---
 
 The last time Manchester City played Arsenal at the Etihad, they had [a lot of possession but no progression](https://tacticsjournal.com/2024/04/01/possession-without-progression/). To break down Arsenal's deep defensive structure, I think they have to actively arrange themselves to utilize the diagonals way more.
@@ -16,7 +16,7 @@ The last time Manchester City played Arsenal at the Etihad, they had [a lot of p
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_20:38:35.png">
+    <img src="/images/uploads/2024/09/21/Image-21Sep2024_20:38:35.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - 63rd minute: Manchester City have possession with Rodri as Arsenal defend deep in their own half.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ They can maintain possession, but they will have to work the ball through the wi
 Rarely did you see three players align diagonally in that last match. Each set of two players in close proximity were isolated from the rest. They need that third or fourth player to break out of the smaller spaces.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_20:38:37.png">
+    <img src="/images/uploads/2024/09/21/Image-21Sep2024_20:38:37.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Manchester City with the ball on the right side.</figcaption>
 </figure>
 
@@ -44,14 +44,14 @@ They should vary who is inverted and who is wide randomly, not have it be based 
 Second, have Erling Haaland drop to allow someone to occupy the space at the top of City's attack. Arsenal will double-team him the entire match, with one of either center-backs Gabriel or William Saliba coming out to man-mark him tightly. Haaland doesn't get a lot of touches, but he has been used previously as a decoy to move either of those defenders, creating space for others.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_20:38:38.png">
+    <img src="/images/uploads/2024/09/21/Image-21Sep2024_20:38:38.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Manchester City with the ball on the left side.</figcaption>
 </figure>
 
 If they can align diagonally in the center of the pitch, maintaining more adequate numbers to work the ball through Arsenal's first line of defense, and if Haaland can drop back to the second line to drag a defender with him, that could create opportunities for them to attack that last line from the smaller pockets with Haaland running into the box, well off the ball, at speed.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_21:22:17.png">
+    <img src="/images/uploads/2024/09/21/Image-21Sep2024_21:22:17.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - 58th minute: Manchester City on the counter with Phil Foden and Kevin De Bruyne open.</figcaption>
 </figure>
 

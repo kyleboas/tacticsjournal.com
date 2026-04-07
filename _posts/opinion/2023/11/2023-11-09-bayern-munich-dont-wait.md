@@ -21,27 +21,27 @@ The goal is to dominate Galatasaray psychologically more than anything. They did
 If Bayern Munich aren't threatening your goal within three to four passes, they are doing something wrong. Something they didn't plan to do. When they get stuck, look down at the touchline, and you'll see Bayern manager Thomas Tuchel flailing his arms around, directing the ball carrier to pass to the open player because someone is always open. 
 
 <figure>
-    <img src="https://i.imgur.com/KbI47dW.jpg">
+    <img src="https://i.imgur.com/KbI47dW.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manuel Neuer kicks the ball upfield, high into the air.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/iF01a9u.jpg">
+    <img src="https://i.imgur.com/iF01a9u.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Leon Goretzka begins his run anticipating the header on.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/WbzAeyM.jpg">
+    <img src="https://i.imgur.com/WbzAeyM.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Leon Goretzka receives the ball, and Bayern Munich have a 3v4 on the break.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/TPyabJj.jpg">
+    <img src="https://i.imgur.com/TPyabJj.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Leon Goretzka plays a through ball to Leroy Sané.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/B1X7cv2.jpg">
+    <img src="https://i.imgur.com/B1X7cv2.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Leroy Sané is in on goal, but the shot is saved.</figcaption>
 </figure> 
 
@@ -52,12 +52,12 @@ Bayern did not pin Galatasaray back into their own end to slowly pass it about, 
 Midfield drops, lure them into your own half, and then go direct to take advantage of your speed. 
 
 <figure>
-    <img src="https://i.imgur.com/IIxwMn3.jpg">
+    <img src="https://i.imgur.com/IIxwMn3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Ball is switched to Kingsley Coman. Two men make a run in the box for the cross.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Vi7Wd99.jpg">
+    <img src="https://i.imgur.com/Vi7Wd99.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Kingsley Coman doesn't have the angle for the cross, so he takes the shot.</figcaption>
 </figure> 
 
@@ -68,27 +68,27 @@ Intelligent runs. Runs that are practiced, and predictable to a degree, but they
 It's a matter of how precise the passes are. The opponent can't keep up with this amount of constant movement. If the pass is accurate, it's guaranteed to be a high-quality chance.
 
 <figure>
-    <img src="https://i.imgur.com/oOOncvp.jpg">
+    <img src="https://i.imgur.com/oOOncvp.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Thomas Muller spots the space as Victor Nelsson steps forward to head the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/YakDJIl.jpg">
+    <img src="https://i.imgur.com/YakDJIl.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Thomas Muller attacks the space and curves his run to stay onside. Harry Kane plays him in with a through ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/61wuUtK.jpg">
+    <img src="https://i.imgur.com/61wuUtK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Thomas Muller draws in all of Galatasaray's defense, leaving Mathys Tel and Harry Kane open. Thomas Muller passes to Mathys Tel.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/o8cp36j.jpg">
+    <img src="https://i.imgur.com/o8cp36j.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Mathys Tel passes to Harry Kane.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/KkJeRhW.jpg">
+    <img src="https://i.imgur.com/KkJeRhW.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.5 - Harry Kane scores.</figcaption>
 </figure> 
 

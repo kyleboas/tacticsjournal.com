@@ -16,17 +16,17 @@ Manchester City want control so they can defend with the ball, but Tottenham for
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/81b3Yy5.jpeg">
+    <img src="https://i.imgur.com/81b3Yy5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Phil Foden's passing options while pressed from behind.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DoaqtDY.jpeg">
+    <img src="https://i.imgur.com/DoaqtDY.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bernardo Silva's passing options when pressed from the side, not allowed to go back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/onDKR59.jpg">
+    <img src="https://i.imgur.com/onDKR59.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Phil Foden's passing options forward as Tottenham block off the pass back.</figcaption>
 </figure> 
 
@@ -37,24 +37,24 @@ Tottenham pressed City's backline, but once the pass was played forward to the m
 They made them play quickly. City need the pass backwards to walk the ball up the pitch. They don't have the pace necessary as a collective to compete against Tottenham in a straight line. They need that slow build-up to take advantage of their technical ability superiority.
 
 <figure>
-    <img src="https://i.imgur.com/DaY4ymA.jpeg">
+    <img src="https://i.imgur.com/DaY4ymA.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Phil Foden's passing options wide and forward as the pass back is blocked off.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/YJcaa7X.jpeg">
+    <img src="https://i.imgur.com/YJcaa7X.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Kevin De Bruyne's passing option forward as he is pressed from all directions.</figcaption>
 </figure> 
 
 Tottenham were fine with allowing that space to be open in behind because they could be bailed out by the pace of Mickey van de Ven. The most important thing was to make Manchester City rush. 
 
 <figure>
-    <img src="https://i.imgur.com/C8lumZu.jpeg">
+    <img src="https://i.imgur.com/C8lumZu.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Phil Foden's passing options wide right as he is surrounded.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/L6nsq6Q.jpeg">
+    <img src="https://i.imgur.com/L6nsq6Q.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Space left wide by Tottenham. Rodri plays the ball over the top to Kyle Walker.</figcaption>
 </figure> 
 

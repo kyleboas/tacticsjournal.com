@@ -15,17 +15,17 @@ Compare Erling Haaland's ability to control the ball with his feet from last yea
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/y3rbFRm.gif">
+    <img src="https://i.imgur.com/y3rbFRm.gif" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bad pass back to Rico Lewis with Erling Haaland's left foot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/YdxQXlK.gif">
+    <img src="https://i.imgur.com/YdxQXlK.gif" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - First touch with right foot directs the ball high, allowing the defender to close down the space behind.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ccSXVE1.gif">
+    <img src="https://i.imgur.com/ccSXVE1.gif" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Large first touch with Erling Haaland's left foot, which closes the space Kevin De Bruyne has to receive, and then Erling Haaland passes out-of-bounds.</figcaption>
 </figure> 
 
@@ -44,17 +44,17 @@ René Marić coached Haaland at Borussia Dortmund, and he talks about how fast a
 With each match he just gets better and better and better. He's gone from someone you would want to avoid passing the ball to, to dribbling like a midfielder, in one season.
 
 <figure>
-    <img src="https://i.imgur.com/MMK0zz7.gif">
+    <img src="https://i.imgur.com/MMK0zz7.gif" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Okay reach out with the left foot, good first touch, and then quick second touch to ready the pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Hsag7tv.gif">
+    <img src="https://i.imgur.com/Hsag7tv.gif" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Good first touch inside with the left foot, close control quick little touches hold-up play, and then pass-and-move.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/hCIVj4Q.gif">
+    <img src="https://i.imgur.com/hCIVj4Q.gif" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Good first touch into space with the left foot and then quick smaller touches to control.</figcaption>
 </figure> 
 

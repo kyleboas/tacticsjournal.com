@@ -8,7 +8,7 @@ tags:
 - "Bayern Munich"
 - "Arsenal"
 - "Champions League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:18:36.png"
+image: "/images/uploads/2025/12/01/Image-01Dec2025_22:18:36.png"
 ---
 
 Every team uses decoy runs. Bayern Munich tied the timing of the pass and the third-man run to the moment the decoy finished his run against Arsenal. The timing between the decoy, third man, and passer was unlike anything I've ever seen before.
@@ -22,11 +22,11 @@ There are three players to watch.
 3. The player looking for and waiting for that decoy run to create the space they need to get open, the third man. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:17:22.png">
+    <img src="/images/uploads/2025/12/01/Image-01Dec2025_22:17:22.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Before the decoy runner begins their run.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:17:28.png">
+    <img src="/images/uploads/2025/12/01/Image-01Dec2025_22:17:28.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - After the decoy run is made, the third man checks to receive the ball in the space the decoy creates.</figcaption>
 </figure>
 
@@ -37,11 +37,11 @@ Without the decoy run, the pass into that third man is blocked off. There is a d
 Once the decoy makes the run, the passing lane opens and the third man can step into that space to receive the ball.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:18:36.png">
+    <img src="/images/uploads/2025/12/01/Image-01Dec2025_22:18:36.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - The decoy runner comes from deep to check to the ball.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:18:45.png">
+    <img src="/images/uploads/2025/12/01/Image-01Dec2025_22:18:45.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - After the decoy run is made, the third man attacks the space behind the defense and the ball is played into that space.</figcaption>
 </figure>
 
@@ -60,11 +60,11 @@ It is like [that scene in *Elf*](https://youtu.be/ppDhmg7nk8s?si=qY_2fTvf9QJjE73
 I can tell it is deliberate because of the way in which the third man holds their run and then takes off running at a full sprint once the decoy finishes their run. Then the passer knows to look for a second run. He scanned to see the decoy run ball side and then looked to the far side for the third man run. It was never a surprise to any of those three players. It was practiced.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:20:55.png">
+    <img src="/images/uploads/2025/12/01/Image-01Dec2025_22:20:55.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - The ball is passed over the top to Serge Gnabry, the third man, as Lennart Karl, the decoy, makes a curved run towards the box.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:20:59.png">
+    <img src="/images/uploads/2025/12/01/Image-01Dec2025_22:20:59.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Gnabry squares it to Karl on his first touch, and Karl scores.</figcaption>
 </figure>
 
@@ -77,15 +77,15 @@ You'll notice in each of these examples that the player that was defending the s
 That pivot and turn from the defender is what frees up Karl for the pass from Gnabry for the goal. The left center-back follows Karl, then the defender pivots and turns to challenge the pass to Gnabry. That pivot and turn opens a gap for Karl to slip in behind the left center-back once Gnabry passes on his first touch.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:19:55.png">
+    <img src="/images/uploads/2025/12/01/Image-01Dec2025_22:19:55.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Ball is passed forward to the decoy, the decoy lays it back, and then makes a run to the left side of the pitch.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:20:01.png">
+    <img src="/images/uploads/2025/12/01/Image-01Dec2025_22:20:01.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - The ball is passed over the top to the third man making the run from deep.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:20:08.png">
+    <img src="/images/uploads/2025/12/01/Image-01Dec2025_22:20:08.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - The decoy peels off to attack the far post, open for the square pass across the box.</figcaption>
 </figure>
 

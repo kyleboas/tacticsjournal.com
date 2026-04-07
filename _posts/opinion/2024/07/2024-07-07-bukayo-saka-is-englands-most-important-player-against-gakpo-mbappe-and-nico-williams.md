@@ -12,7 +12,7 @@ tags:
 - "Netherlands"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_00:24:52.png"
+image: "/images/uploads/2024/07/07/Image-07Jul2024_00:24:52.png"
 ---
 
 Bukayo Saka is England's most important player because of his complex role out of possession, a role made at the start of the tournament to stop left-wingers like Cody Gakpo for the Netherlands, Kylian Mbappe for France, or Nico Williams for Spain.
@@ -20,7 +20,7 @@ Bukayo Saka is England's most important player because of his complex role out o
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_00:22:33.png">
+    <img src="/images/uploads/2024/07/07/Image-07Jul2024_00:22:33.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bukayo Saka drops back to move in line with Kieran Trippier when Switzerland win back possession.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Gareth Southgate mentioned that he gave Bukayo Saka "very complex instructions" 
 When England loses the ball, Bukayo Saka drops back to move in line with left-back Kieran Trippier. Depending on where the ball is, that would place Saka on the outside or inside of Kyle Walker.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_00:08:27.png">
+    <img src="/images/uploads/2024/07/07/Image-07Jul2024_00:08:27.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bukayo Saka tracks the run in the half-space and then wins a tackle once Switzerland attempts to play past England's initial press.</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ If someone does make a run through the half-space ahead of Walker, Saka then tra
 If the ball is played behind England's initial press into the half-space, Saka will jump to tackle. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_00:08:28.png">
+    <img src="/images/uploads/2024/07/07/Image-07Jul2024_00:08:28.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Bukayo Saka tracks the run inside of Kyle Walker.</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Tracking the run inside of Walker is important because Walker needs to fully foc
 The midfielder moving over will become important when they face the Netherlands, France, or Spain because of the threat of overlapping or underlapping fullbacks Nathan Ake, Theo Hernandez, or Marc Cucurella. Bukayo Saka will be responsible for tracking the fullback, leaving Walker to mark the winger. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_00:08:29.png">
+    <img src="/images/uploads/2024/07/07/Image-07Jul2024_00:08:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Kyle Walker moves infield and Bukayo Saka stays wide to mark Switzerland's left-winger.</figcaption>
 </figure>
 

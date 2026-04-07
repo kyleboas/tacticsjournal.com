@@ -18,31 +18,31 @@ Destiny Udogie's job at left-back is to invert and push Luton Town's right-wing 
 Pedro Porro has also found himself further infield from right-back, higher up the pitch.
 
 <figure>
-    <img src="https://i.imgur.com/VQQC9XD.jpg">
+    <img src="https://i.imgur.com/VQQC9XD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Both full-backs Pedro Porro and Destiny Udogie invert, giving space to Tottenham's center-backs. James Maddison drops, creating space behind him. Mickey van de Veen passes to Son Heung-min.</figcaption>
 </figure>
 
 James Maddison was an underappreciated player at Leicester City. He can do anything.
 
 <figure>
-    <img src="https://i.imgur.com/ungOXJL.jpg">
+    <img src="https://i.imgur.com/ungOXJL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Son Heung-min lays the ball off to the onrushing Pedro Porro.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/TK9BAl3.jpg">
+    <img src="https://i.imgur.com/TK9BAl3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Mads Juel Andersen jumps forward, creating space behind him. Pedro Porro passes back to Son Heung-min and then continues his run.</figcaption>
 </figure>
 
 Look at Mads Juel Andersen's stance here. Both feet facing Porro. Not set to track Porro if he attempts to run behind him. Completely vulnerable. He should have one foot forward and the other behind like right center-back Tom Lockyer does in this picture to the right. Jump but be ready to run with Porro, who is at full speed.
 
 <figure>
-    <img src="https://i.imgur.com/xPVaq95.jpg">
+    <img src="https://i.imgur.com/xPVaq95.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Son Heung-min passes to Pedro Porro behind Luton Town's back-line.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/nS45vJg.jpg">
+    <img src="https://i.imgur.com/nS45vJg.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Pedro Porro attempts a first-time shot but puts it wide.</figcaption>
 </figure>
 

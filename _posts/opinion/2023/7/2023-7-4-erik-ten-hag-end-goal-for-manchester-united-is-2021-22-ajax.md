@@ -32,7 +32,7 @@ What does that leave for new signing Mason Mount? Neither Mount nor Bruno Fernan
 He's likely abandoning the double pivot they used last season for a single pivot. Casemiro being the pivot, with Mason Mount and Bruno Fernandes as the center midfielders further forward.
 
 <figure>
-    <img src="https://i.imgur.com/Jm4FtYT.jpg">
+    <img src="https://i.imgur.com/Jm4FtYT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester United's players' names are listed below the 2021/22 Ajax players they would be replacing in the same roles.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ I don't know what this means for Fred and Christian Eriksen because they're not 
 Maybe they switch back to a double pivot if changes are made? They'll have to remain flexible. 
 
 <figure>
-    <img src="https://i.imgur.com/re04Akf.jpg">
+    <img src="https://i.imgur.com/re04Akf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Potential lineup and player movements when compared to Ajax's 2021/22 lineup.</figcaption>
 </figure>
 

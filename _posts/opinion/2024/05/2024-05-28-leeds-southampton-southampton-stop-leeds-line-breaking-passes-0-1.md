@@ -9,7 +9,7 @@ tags:
 - "Southampton"
 - "Championship"
 - "Premier League"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/27/Image-27May2024_17:58:45.png?raw=true"
+image: "/images/uploads/2024/05/27/Image-27May2024_17:58:45.png"
 link: "https://betweentheposts.net/leeds-southampton-southampton-stop-leeds-line-breaking-passes-0-1/"
 tweet: "Southampton outplayed Leeds in the Championship Playoff Final to gain automatic promotion to the Premier League, credited mainly to their defensive organization stopping almost every attempted line-breaking pass. My match report for @BetweenThePosts."
 ---

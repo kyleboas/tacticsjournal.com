@@ -16,19 +16,19 @@ May 9, 2023 — Brighton leak goals because they don't commit enough players to 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/DV6xcfZ.jpg">
+    <img src="https://i.imgur.com/DV6xcfZ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Everton win the ball back and the ball is played to Calvert-Lewin.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/bJgvyea.jpg">
+    <img src="https://i.imgur.com/bJgvyea.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Dunk's stretches his leg to intercept the pass but misses.</figcaption>
 </figure>
 
 Now Brighton are in panic mode. Lewis Dunk was their last defense, now they have to scramble back, which never ends well. Dunk's out of the play because it'll take too long to recover from stretching for the ball like that.
 
 <figure>
-    <img src="https://i.imgur.com/ExbIzgp.jpg">
+    <img src="https://i.imgur.com/ExbIzgp.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Calvert-Lewin plays the ball behind Webster to Doucouré for the goal.</figcaption>
 </figure>
 
@@ -37,35 +37,35 @@ Doucouré was smart to hold his run and allow Webster to get ahead of him, openi
 Brighton only kept two players in their rest defense, committing every other player forward. On occasions, even Webster joined the attack, which left them fully vulnerable if they lost the ball, which they did.
 
 <figure>
-    <img src="https://i.imgur.com/ebJLfVh.jpg">
+    <img src="https://i.imgur.com/ebJLfVh.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Webster carries the ball forward into the right half-space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/ErJfSrd.jpg">
+    <img src="https://i.imgur.com/ErJfSrd.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Webster turns over the ball and Everton pump the ball over Dunk's head.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/1VtWvcy.jpg">
+    <img src="https://i.imgur.com/1VtWvcy.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Brighton panic to get back and forget to mark Doucouré on the far side.</figcaption>
 </figure>
 
 Classic super compact contraction towards the ball in the panic to get back.
 
 <figure>
-    <img src="https://i.imgur.com/eJDpAzP.jpg">
+    <img src="https://i.imgur.com/eJDpAzP.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - McNeil passes to Doucouré who is free, for the goal.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/wCFzE4a.jpg">
+    <img src="https://i.imgur.com/wCFzE4a.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Brighton turnover the ball, 2v1.</figcaption>
 </figure>
 
 
 <figure>
-    <img src="https://i.imgur.com/GEq7VL8.jpg">
+    <img src="https://i.imgur.com/GEq7VL8.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Brighton turnover the ball, 3v2.</figcaption>
 </figure> 
 

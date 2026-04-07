@@ -8,7 +8,7 @@ tags:
 - "Arsenal"
 - "Aston Villa"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_00:43:50.png"
+image: "/images/uploads/2024/08/25/Image-25Aug2024_00:43:50.png"
 ---
 
 Three Aston Villa players were positioning themselves in line in front of Bukayo Saka to not allow him to attack at his favored angle without abandoning marking him while tracking the underlapping or overlapping run of an Arsenal midfielder or Ben White.
@@ -16,7 +16,7 @@ Three Aston Villa players were positioning themselves in line in front of Bukayo
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_00:43:13.png">
+    <img src="/images/uploads/2024/08/25/Image-25Aug2024_00:43:13.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Three Aston Villa defenders position themselves to defend against Ben White, Bukayo Saka, and Martin Ødegaard. </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ The second thing it does is that it somewhat neutralizes the overlapping and und
 A third defender joins, and then those three defenders divide the wing into three parts. If one of White, Saka, Ødegaard, or someone else attempts to make a run behind into that zone, one of those defenders can track their run. But they don't have to immediately move to track them. They let them make the run and tried to draw them offside with the rest of the defense. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_01:02:24.png">
+    <img src="/images/uploads/2024/08/25/Image-25Aug2024_01:02:24.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Kai Havertz joins the right wing to offer himself as an option as Ben White attempts an overlap.</figcaption>
 </figure>
 

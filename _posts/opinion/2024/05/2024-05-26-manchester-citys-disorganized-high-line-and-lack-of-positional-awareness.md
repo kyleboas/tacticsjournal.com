@@ -16,14 +16,14 @@ Manchester City have had this problem all season where their high line is unorga
 <!---more---> 
 
 <figure>
-    <img src="https://i.imgur.com/In194zF.jpeg">
+    <img src="https://i.imgur.com/In194zF.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - John Stones keeps Alejandro Garnacho onside when he follows Marcus Rashford forward up the left-wing.</figcaption>
 </figure> 
 
 The moment John Stones follows Rashford, Gvardiol and Ake should notice this and move in line with Stones. There's a very large pocket of space for Garnacho to run into behind Stones, and they never attempt to close that space. Garnacho has the jump. 
 
 <figure>
-    <img src="https://i.imgur.com/ccRm5z9.jpeg">
+    <img src="https://i.imgur.com/ccRm5z9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - John Stones still keeping Alejandro Garnacho onside after Marcus Rashford finishes his run.</figcaption>
 </figure> 
 
@@ -34,7 +34,7 @@ Even when Stones abandons Rashford, Ake isn't in line with Stones, and Gvardiol 
 The ball over the top was played, and it resulted in the first goal.
 
 <figure>
-    <img src="https://i.imgur.com/uF3bXoE.jpeg">
+    <img src="https://i.imgur.com/uF3bXoE.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Nathan Ake keeps Alejandro Garnacho onside as Marcus Rashford switches the ball to Garnacho.</figcaption>
 </figure> 
 
@@ -43,12 +43,12 @@ The second goal was the same exact thing. Stones and Ake are roughly in-line, Ak
 I don't necessarily understand the reasoning behind why they wouldn't be worried about a ball played ahead of Gvardiol to Garnacho. They are happy to rely on their pace to compensate for the space they're allowing Garnacho to have, while simultaneously guarding no one. There's no obvious benefit for Gvardiol to position himself the way he is.
 
 <figure>
-    <img src="https://i.imgur.com/s79P7E7.jpeg">
+    <img src="https://i.imgur.com/s79P7E7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Alejandro dribbles on the wing. Kobbie Mainoo is ahead of his marker, Kyle Walker.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/X4ZanCY.jpeg">
+    <img src="https://i.imgur.com/X4ZanCY.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Alejandro Garnacho dribbles inside.</figcaption>
 </figure> 
 
@@ -59,12 +59,12 @@ The ball is played wide, so they get away with Gvardiol's positioning, but now t
 I would assume he is expecting John Stones to see and mark Kobbie Mainoo; therefore, he's fine with jogging back, but Walker should be back marking Mainoo. Stones is preoccupied with watching Fernandes and can't see or defend against a low-cross to Mainoo behind him. 
 
 <figure>
-    <img src="https://i.imgur.com/d2iIbMr.jpeg">
+    <img src="https://i.imgur.com/d2iIbMr.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Alejandro Garancho crosses on the ground to Kobbie Mainoo. Kyle Walker is jogging back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Xfh3b55.jpeg">
+    <img src="https://i.imgur.com/Xfh3b55.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Kyle Walker attempts to close down Kobbie Mainoo at the last second, but he gets off his shot, and scores.</figcaption>
 </figure> 
 

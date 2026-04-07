@@ -16,7 +16,7 @@ April 22, 2023 — This match against Mainz is the first of seven matches that T
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/rBp2Qgb.jpg">
+    <img src="https://i.imgur.com/rBp2Qgb.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bayern Munich 5-2-1-2</figcaption>
 </figure> 
 
@@ -41,18 +41,18 @@ That one you can look past, that’s football. Unexpected things happen when you
 Watch **Joao Cancelo** on this play closely. He tended to show little awareness defensively and showed the same during this sequence.
 
 <figure>
-    <img src="https://i.imgur.com/brhlCuN.jpg">
+    <img src="https://i.imgur.com/brhlCuN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Mainz goalkeeper Robin Zenter takes the free-kick and kicks it upfield to the forwards</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://i.imgur.com/6qBGJi5.jpg">
+    <img src="https://i.imgur.com/6qBGJi5.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Ajorque heads the ball past Upamecano to Onisiwo</figcaption>
 </figure>  
 
 <figure>
-    <img src="https://i.imgur.com/Te60VTK.jpg">
+    <img src="https://i.imgur.com/Te60VTK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Onisiwo wins his header over Stansic and passes to Leandro Barreiro for the goal</figcaption>
 </figure> 
 
@@ -66,18 +66,18 @@ Bayern Munich’s structure was compromised *the second Upamecano didn’t win t
 Instead of being higher up the pitch, the wing-backs are now further back, and the back-line of five is more compact, which is an improvement. 
 
 <figure>
-    <img src="https://i.imgur.com/Q1odIXq.jpg">
+    <img src="https://i.imgur.com/Q1odIXq.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Cross into the box from Widmer</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://i.imgur.com/hxp2vJu.jpg">
+    <img src="https://i.imgur.com/hxp2vJu.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Mazraoui challenges the ball carrier leaving Caricol free. The ball is passed to Hanche-Olsen</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/LJdUKFt.jpg">
+    <img src="https://i.imgur.com/LJdUKFt.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Andreas Hanche-Olsen passes to Aaron Caricol</figcaption>
 </figure> 
 
@@ -85,7 +85,7 @@ Instead of being higher up the pitch, the wing-backs are now further back, and t
 
 
 <figure>
-    <img src="https://i.imgur.com/hSL3avZ.jpg">
+    <img src="https://i.imgur.com/hSL3avZ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Caricol shot to the bottom right corner across goal for Mainz’s third goal</figcaption>
 </figure> 
 

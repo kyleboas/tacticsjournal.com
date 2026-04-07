@@ -6,7 +6,7 @@ categories:
 - "opinion"
 tags:
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/15/Image-15Aug2024_00:04:30.png"
+image: "/images/uploads/2024/08/15/Image-15Aug2024_00:04:30.png"
 ---
 
 The Premier League will be changing many things this season in regard to officiating matches, but one change is going under the radar: limiting an attacker's ability to 'stop the movement' of defenders or goalkeepers during set pieces.

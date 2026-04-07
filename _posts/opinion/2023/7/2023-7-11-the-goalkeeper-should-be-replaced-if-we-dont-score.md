@@ -21,20 +21,20 @@ The perfect example is André Onana versus Kepa Arrizabalaga. Here is a basic co
 Inter Milan scored 71 goals last season, and Chelsea scored 38 goals. 
 
 <figure>
-    <img src="https://i.imgur.com/iOaoC3F.jpg">
+    <img src="https://i.imgur.com/iOaoC3F.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Goalkeeping per 90 comparison via FBref.</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://i.imgur.com/kr0R1eq.jpg">
+    <img src="https://i.imgur.com/kr0R1eq.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Advanced Goalkeeping per 90 comparison via FBref.</figcaption>
 </figure> 
 
 Kepa was the better shot-stopper statistically last season, with a PSxG+/- of 0.18 per 90. They both had nearly identical save percentages, yet Kepa faced 0.75 more shots per 90. Onana has the upper hand in the cross-stopping department though, stopping 0.5% more crosses attempted.  
 
 <figure>
-    <img src="https://i.imgur.com/MYQ5w1u.jpg">
+    <img src="https://i.imgur.com/MYQ5w1u.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Passing per 90 comparison via FBref.</figcaption>
 </figure> 
 

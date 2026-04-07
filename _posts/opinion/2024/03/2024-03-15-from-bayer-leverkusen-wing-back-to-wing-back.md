@@ -17,7 +17,7 @@ Bayer Leverkusen work from inside to out, ignoring the run of open players on th
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/Qd3Imcl.jpeg">
+    <img src="https://i.imgur.com/Qd3Imcl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bayer Leverkusen in transition to attack. Alejandro Grimaldo is open.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ For context, Qarabag FK went down to 10 men in the 62nd minute, but did not rela
 What I found interesting is that when in transition, throughout the entire match, Leverkusen ignored the pass to the player holding width on the wing. They elected to play through the middle whenever possible.
 
 <figure>
-    <img src="https://i.imgur.com/tXoFIYS.jpeg">
+    <img src="https://i.imgur.com/tXoFIYS.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Alejandro Grimaldo and Jeremie Frimpong maintain width.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ If you play the ball to the man on the wing, that will draw a defender out to th
 If you never play the ball to the man on the wing, that threat of the pass always remains in the mind of the opposition full-back. They can't move out to mark the man holding width until that ball is played, because that would leave space open in the half-space. They are always ready in space.
 
 <figure>
-    <img src="https://i.imgur.com/WtkY9AF.jpeg">
+    <img src="https://i.imgur.com/WtkY9AF.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Josip Stanisic steps forward to maintain width on the right when Jeremie Frimpong moves into the box.</figcaption>
 </figure>
 
@@ -44,12 +44,12 @@ That threat always needs to remain, so if Grimaldo or Frimpong get forward, insi
 Then when the pieces are in place, Leverkusen will try to play to the open man on the wing. Work the ball around, back-and-forth if necessary, and then use that built-up space to attack the box.
 
 <figure>
-    <img src="https://i.imgur.com/i9ctDHm.jpeg">
+    <img src="https://i.imgur.com/i9ctDHm.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Alejandro Grimaldo crosses to Jeremie Frimpong.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/QC8yWUq.jpeg">
+    <img src="https://i.imgur.com/QC8yWUq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Jeremie Frimpong volleys the ball with the inside of his foot and scores.</figcaption>
 </figure>
 

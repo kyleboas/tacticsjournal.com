@@ -18,12 +18,12 @@ April 20, 2023 — A fairly routine play was turned complicated by David De Gea 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/gZYOjIF.jpg">
+    <img src="https://i.imgur.com/gZYOjIF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Harry Maguire passes back to David De Gea</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/zRSAJUe.jpg">
+    <img src="https://i.imgur.com/zRSAJUe.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ocampos curves his run to force De Gea to pass to his right</figcaption>
 </figure> 
 
@@ -35,13 +35,13 @@ In this position, David De Gea has two choices.
 De Gea instead choices to play the ball to Harry Maguire with his back to the goal. 
 
 <figure>
-    <img src="https://i.imgur.com/7GINsHz.jpg">
+    <img src="https://i.imgur.com/7GINsHz.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - De Gea passes to Harry Maguire, and Sevilla collapses on the ball</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://i.imgur.com/HnmRcEO.jpg">
+    <img src="https://i.imgur.com/HnmRcEO.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Harry Maguire loses the ball</figcaption>
 </figure> 
 

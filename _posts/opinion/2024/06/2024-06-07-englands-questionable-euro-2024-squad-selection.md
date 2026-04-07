@@ -7,7 +7,7 @@ categories:
 tags:
 - "England"
 - "Euro 2024"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/07/Image-07Jun2024_10:09:13.png?raw=true"
+image: "/images/uploads/2024/06/07/Image-07Jun2024_10:09:13.png"
 ---
 
 Gareth Southgate's England squad selection for Euro 2024 has four questionable selections, as he has omitted a healthy Jack Grealish, Marcus Rashford, Dominic Solanke, James Maddison, and Jared Branthwaite. 
@@ -93,7 +93,7 @@ Jude Bellingham and Phil Foden should be the advanced midfielders; Bukayo Saka w
 ---
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/07/Image-07Jun2024_02:34:58.png?raw=true">
+    <img src="/images/uploads/2024/06/07/Image-07Jun2024_02:34:58.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of a potential England Euro 2024 starting lineup. </figcaption>
 </figure> 
 

@@ -17,22 +17,22 @@ Kai Havertz is a killer of momentum for Arsenal despite all his positives — ho
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/GezLvcK.jpeg">
+    <img src="https://i.imgur.com/GezLvcK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Declan Rice passes to Kai Havertz's right side.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ADcnCMw.jpeg">
+    <img src="https://i.imgur.com/ADcnCMw.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - His first touch hits the ball into the air.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CHxooa4.jpeg">
+    <img src="https://i.imgur.com/CHxooa4.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Kai Havertz passes to Jakub Kiwior.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/8AeDkpi.jpeg">
+    <img src="https://i.imgur.com/8AeDkpi.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - The pass is placed too far ahead of Jakub Kiwior so he has to stretch for the ball.</figcaption>
 </figure> 
 
@@ -45,63 +45,63 @@ Both delay the momentum of the play. By the time Kiwior settles the ball, Liverp
 Arsenal could have had the numerical advantage to Liverpool's back-line if the turn and pass were quicker and more well executed. 
 
 <figure>
-    <img src="https://i.imgur.com/W2chiCz.jpeg">
+    <img src="https://i.imgur.com/W2chiCz.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Martin Ødegaard carries the ball forward. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/gGJaO9I.jpeg">
+    <img src="https://i.imgur.com/gGJaO9I.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Martin Ødegaard passes to Kai Havertz. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/uh5od5N.jpeg">
+    <img src="https://i.imgur.com/uh5od5N.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Kai Havertz takes his first touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/u9yaJqP.jpeg">
+    <img src="https://i.imgur.com/u9yaJqP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Kai Havertz whiffs the pass to Jakub Kiwior with his back left heel.</figcaption>
 </figure> 
 
 Kai's first touch is too close to his body. For that reason, when he attempts to pass the ball, he hits the ball with his back heel. He gets zero power on the pass, that was intended for Kiwior. 
 
 <figure>
-    <img src="https://i.imgur.com/vZ8x0Lb.jpeg">
+    <img src="https://i.imgur.com/vZ8x0Lb.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Reiss Nelson comes back to gather the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/WsLcTOF.jpeg">
+    <img src="https://i.imgur.com/WsLcTOF.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Reiss Nelson touches the ball. Liverpool's second line are behind the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/TRCoIB4.jpeg">
+    <img src="https://i.imgur.com/TRCoIB4.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.7 - Reiss Nelson gathers the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/gxbbPPw.jpeg">
+    <img src="https://i.imgur.com/gxbbPPw.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.8 - Jakub Kiwior has the ball on the touch-line.</figcaption>
 </figure> 
 
 Reiss Nelson then has to come back to receive the ball, Liverpool have time to get their second line back. The play ends. Momentum is dead. Now Arsenal get to circulate the ball for the umpteenth time. 
 
 <figure>
-    <img src="https://i.imgur.com/PyqEY7A.jpeg">
+    <img src="https://i.imgur.com/PyqEY7A.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Kai Havertz peels off to the right to receive the pass from Martin Ødegaard. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4KMnrlx.jpeg">
+    <img src="https://i.imgur.com/4KMnrlx.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Kai Havertz has not prepared his body to shoot.</figcaption>
 </figure> 
 
 It's great that Havertz pulled off to the right to open the space for the pass but a striker prepares their body to shoot. The entire right side of the net is open to pass it in first time to the bottom right hand corner. 
 
 <figure>
-    <img src="https://i.imgur.com/ELJwWkW.jpeg">
+    <img src="https://i.imgur.com/ELJwWkW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Kai Havertz takes a touch left.</figcaption>
 </figure> 
 
@@ -110,12 +110,12 @@ His first touch is negative, backwards. Alisson has now closed down the angle fo
 If he strikes it hard enough, Alisson will have a hard time saving it. The ball is too close to his body though to generate the necessary power or accuracy. 
 
 <figure>
-    <img src="https://i.imgur.com/nkIWhhG.jpeg">
+    <img src="https://i.imgur.com/nkIWhhG.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Kai Havertz takes another touch and Reiss Nelson is open.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/xPDBqci.jpeg">
+    <img src="https://i.imgur.com/xPDBqci.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.5 - Kai Havertz shoots into traffic and Martin Ødegaard is free to receive a pass.</figcaption>
 </figure> 
 
@@ -128,19 +128,19 @@ That is a simple tap-in for Nelson first-time, and Ødegaard can take one touch 
 Instead, Kai Havertz chooses to shoot and it gets deflected, and the ball does not even reach the goal.
 
 <figure>
-    <img src="https://i.imgur.com/UVpudMV.jpeg">
+    <img src="https://i.imgur.com/UVpudMV.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Kai Havertz receives the ball.</figcaption>
 </figure> 
 
 Ibrahima Konate is off-balance: What is the most negative touch one can take in this scenario to allow Konate to get back into a good position to defend? 
 
 <figure>
-    <img src="https://i.imgur.com/tNYjKrg.jpeg">
+    <img src="https://i.imgur.com/tNYjKrg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Kai Havertz takes a touch diagonal to the left, away from goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Gl8XySH.jpeg">
+    <img src="https://i.imgur.com/Gl8XySH.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Second touch.</figcaption>
 </figure> 
 
@@ -149,17 +149,17 @@ This is the most negative touch Havertz could take. He can't shoot, he can't pas
 The positive first-touch would have been forward, towards Konate, to take advantage of his panicked gate.
 
 <figure>
-    <img src="https://i.imgur.com/FzHzP68.jpeg">
+    <img src="https://i.imgur.com/FzHzP68.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.4 - Kai Havertz takes his third touch into the box to the left of Ibrahima Konate.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/2IQfM6y.jpeg">
+    <img src="https://i.imgur.com/2IQfM6y.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.5 - Martin Ødegaard calls for the ball as Kai Havertz takes his fifth touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/X9xnZTf.jpeg">
+    <img src="https://i.imgur.com/X9xnZTf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.6 - Kai Havertz shoots with his fifth touch, ignoring the cut-back to Martin Ødegaard.</figcaption>
 </figure> 
 
@@ -168,12 +168,12 @@ The man is free on the far-side again and they are ignored. That cut-back to Ød
 Cut-back to Ødegaard, first-time shot on the ground for the goal. We saw it happen dozens of times last season. 
 
 <figure>
-    <img src="https://i.imgur.com/KRnCP21.jpeg">
+    <img src="https://i.imgur.com/KRnCP21.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.7 - Alisson makes the easy save with his chest.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/eTqDlAh.jpeg">
+    <img src="https://i.imgur.com/eTqDlAh.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Premier League teams ordered by goals from open play in 2023/24. Data via WhoScored</figcaption>
 </figure> 
 

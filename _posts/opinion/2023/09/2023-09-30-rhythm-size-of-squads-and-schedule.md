@@ -40,7 +40,7 @@ They have the depth, how will they use it? Will they stick to just one or two ch
 Two to three changes max and maintain rhythm. Manchester City can be unpredictable because of the versatility in the squad, with players changing position to rest other players, but no wholesale changes every match.
 
 <figure>
-    <img src="https://i.imgur.com/YKuVlZV.jpg">
+    <img src="https://i.imgur.com/YKuVlZV.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Premier League, European, and Cup matches for Premier League teams from GW7-GW16. <a href="https://x.com/legomane_fpl/status/1707651879151280363?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Visual made by @Legomane_FPL</a></figcaption>
 </figure>
 

@@ -8,7 +8,7 @@ tags:
 - "Fulham"
 - "Manchester United"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_00:29:24.png"
+image: "/images/uploads/2024/08/17/Image-17Aug2024_00:29:24.png"
 ---
 
 If you switch the ball enough, Fulham will become pinned back in their own end because they commit a lot of numbers to the ball side. They have to maintain a high level of intensity, but one switch opens them up, like the one in Manchester United's goal.
@@ -16,7 +16,7 @@ If you switch the ball enough, Fulham will become pinned back in their own end b
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_00:29:22.png">
+    <img src="/images/uploads/2024/08/17/Image-17Aug2024_00:29:22.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Fulham committing almost everyone to the ball side.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ This was a risk, being that it was the first match of the season, and teams were
 [This season's Bayern Munich](https://tacticsjournal.com/2024/08/04/bayern-munich-pass-horizontally-against-tottenham-constantly-opening-play/) would love to play against a team that plays like Fulham. Not the quality of the players, the positioning, because they would be stretched if the attacking team worked the ball horizontally up the pitch.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_00:29:20.png">
+    <img src="/images/uploads/2024/08/17/Image-17Aug2024_00:29:20.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Manchester United advancing down the right wing. </figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Play one pass, and then those seven men have to file back into their own end and
 I didn't like how slowly United were moving the ball across the pitch, when they trapped Fulham on the one side. It wasn't until the second half that they realized how significant switching the play was to help stretch Fulham.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_00:29:23.png">
+    <img src="/images/uploads/2024/08/17/Image-17Aug2024_00:29:23.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - The lead up to Manchester United's goal, as Bruno Fernandes passes to Joshua Zirkzee.</figcaption>
 </figure>
 

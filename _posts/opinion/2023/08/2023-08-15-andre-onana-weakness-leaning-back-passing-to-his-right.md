@@ -16,7 +16,7 @@ August 15, 2023 — Andre Onana's weakness is his slower passes when he leans ba
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/9dRcNjA.jpg">
+    <img src="https://i.imgur.com/9dRcNjA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Andre Onana brings the ball forward while Wolves sit and wait for Manchester United's next move.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Wolves are in no rush. They sit back and wait. The 'come on, try to play through
 The positive with Andre Onana is that he is a holding midfielder with gloves on in possession.
 
 <figure>
-    <img src="https://i.imgur.com/bUQiJlg.jpg">
+    <img src="https://i.imgur.com/bUQiJlg.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Andre Onana's pass map against Wolves.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Manchester United don't have an Edin Dzeko or Romelu Lukaku to pass long, so the
 Wolves know this so they simply sit back. Onana can't dribble through them, so waiting for his one weakness is the way you win back the ball.
 
 <figure>
-    <img src="https://i.imgur.com/pIRSZSK.jpg">
+    <img src="https://i.imgur.com/pIRSZSK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - (21 May 2023) Andre Onana passes vertically wide right under pressure.</figcaption>
 </figure>
 
@@ -47,12 +47,12 @@ Knee is not over the ball, he's leaning back. The pass comes off inaccurate with
 He'll plant his foot, lean back, throw his leading arm high up in the air, and when he makes contact with the ball he stumbles a bit. The pass bounces slowly to its intended target, but that slight change gives defenders time to get into position to intercept the ball.
 
 <figure>
-    <img src="https://i.imgur.com/xvcOFRP.jpg">
+    <img src="https://i.imgur.com/xvcOFRP.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Wolves curve their press to force Andre Onana to pass long. Onana passes on the ground to Mason Mount.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/HiMzDt7.jpg">
+    <img src="https://i.imgur.com/HiMzDt7.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - The pass is too slow and the Wolves' defender easily picks off the pass.</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Lean back, off-balance, leading arm up high, and that results in the pass being 
 Mount is expecting a quicker pass, he gets caught flat-footed, and the defender easily cuts off the pass.
 
 <figure>
-    <img src="https://i.imgur.com/oDmigFA.jpg">
+    <img src="https://i.imgur.com/oDmigFA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Illustration of Andre Onana </figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ The goal for any opposition defense will be to force Onana to play this pass bec
 For that reason, Wolves will force Manchester United to the right with the use of cover shadows, while leaving right-back Aaron Wan-Bisakka free. You leave him free to say 'here you go,' here's your outlet, but it's a trap.
 
 <figure>
-    <img src="https://i.imgur.com/73UKbil.gif">
+    <img src="https://i.imgur.com/73UKbil.gif" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Andre Onana passes to Aaron Wan-Bissaka.</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Lean back, off-balance, leading arm up high, and the pass bobbles slower than yo
 Once Wolves see this, this triggers their press, because they know that that pass is harder to control. It's going to take Wan-Bisakka more time to bring it down and make the next pass.
 
 <figure>
-    <img src="https://i.imgur.com/X5apHoT.jpg">
+    <img src="https://i.imgur.com/X5apHoT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 </figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ By the time Wan-Bisakka is ready to pass, Marcus Rashford (right-wing, out of th
 Wan-Bisakka has only one option, Casemiro.
 
 <figure>
-    <img src="https://i.imgur.com/oHuFwAY.jpg">
+    <img src="https://i.imgur.com/oHuFwAY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.3</figcaption>
 </figure>
 

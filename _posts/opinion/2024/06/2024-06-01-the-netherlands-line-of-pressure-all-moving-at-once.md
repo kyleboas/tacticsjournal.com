@@ -8,7 +8,7 @@ tags:
 - "Netherlands"
 - "Brazil"
 - "World Cup 1994"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:38.png?raw=true"
+image: "/images/uploads/2024/05/28/Image-28May2024_00:21:38.png"
 ---
 
 Like a line of thunderstorms, the Netherlands' second line rushes the ball carrier all at once. This unique pressing pattern is effective at overwhelming a team like Brazil because it allows their players to move with more freedom.
@@ -16,16 +16,16 @@ Like a line of thunderstorms, the Netherlands' second line rushes the ball carri
 <!---more---> 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:18.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:18.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The Netherlands' second line waiting to jump. </figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:19.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:19.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - The Netherlands' second line jump at the same time to suffocate the ball carrier.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:20.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:20.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - The Netherlands' second line sprints to the ball carrier all at once.</figcaption>
 </figure>
 
@@ -35,52 +35,52 @@ They did this a lot immediately after losing the ball. They didn't allow Brazil 
 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:21.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:21.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - The Netherlands surrounding the ball carrier.</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:25.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:25.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Going in for the tackle.</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:26.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - The Netherlands' second line jumps forward, taking turns lunging at the ball carrier.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:36.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:36.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Lunge for the tackle.</figcaption>
 </figure>
 
 Once they commit to the press, everyone has to also commit to the tackle and get a foot in. Brazil can never feel comfortable on the ball. Each touch is met with a lunge. 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:35.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:35.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - The Netherlands' initial pressing line, moving as one.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:27.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:27.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.4 - The Netherlands' second line of pressure pointed to Brazil's left. </figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:40.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.5 - The Netherlands' second line of pressure pointed to Brazil's left continued.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:39.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - The Netherlands prepares to jump out at the ball.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:38.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_00:21:38.png" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - The Netherlands' line of pressure towards the ball carrier.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_02:52:44.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_02:52:44.png" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Illustration of the Netherlands' line of pressure.</figcaption>
 </figure>
 

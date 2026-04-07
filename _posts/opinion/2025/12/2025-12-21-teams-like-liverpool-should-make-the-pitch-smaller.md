@@ -8,7 +8,7 @@ tags:
 - "Liverpool"
 - "Manchester City"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/16/Image-16Dec2025_22:58:07.png"
+image: "/images/uploads/2025/12/16/Image-16Dec2025_22:58:07.png"
 ---
 
 Liverpool have struggled this season in attack and one of the main reasons is spacing. They’re too spread out. Manchester City faced the same problem and solved it by making the pitch smaller in possession. Teams like Liverpool should do the same.
@@ -44,12 +44,12 @@ Abandon the wings. Start with shorter spacing, draw the opposition in, then esca
 Bournemouth press high. Every City player is marked man-to-man.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/14/Image-14Dec2025_14:32:49.png">
+    <img src="/images/uploads/2025/12/14/Image-14Dec2025_14:32:49.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - City vs Bournemouth: the "draw them in" phase, with shorter spacing to connect passes under man-to-man pressure.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/14/Image-14Dec2025_14:32:53.png">
+    <img src="/images/uploads/2025/12/14/Image-14Dec2025_14:32:53.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Manchester City vs Bournemouth: the "expand and escape" moment after the short-pass sequence creates space to play through pressure.</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Last season, Liverpool had that lethal combination: technical ability and athlet
 This season, the dynamics have changed. They lost that speed advantage and must adapt.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/16/Image-16Dec2025_22:58:07.png">
+    <img src="/images/uploads/2025/12/16/Image-16Dec2025_22:58:07.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Liverpool being man-marked under pressure: the difference in distances between Liverpool's attacking options utilizing larger spacing (left) and shorter spacing (right), and how many passing options are available.</figcaption>
 </figure>
 

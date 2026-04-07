@@ -20,14 +20,14 @@ Tottenham put their faith in Chelsea's inability to put the correct amount of we
 They were nearly correct about the inability to put the correct amount of weight on their passes because Chelsea's passes were poorly weighted for a majority of the game, with some exceptions, like Reece James' trivela, for example. 
 
 <figure>
-    <img src="https://i.imgur.com/wzgUoG3.jpg">
+    <img src="https://i.imgur.com/wzgUoG3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Reece James' trivela to Raheem Sterling over Pedro Porro's head.</figcaption>
 </figure> 
 
 The target was Raheem Sterling in the first half. Everyone in the stadium knew who would be on the receiving end of each progressive pass. Nicolas Jackson would only attempt to make a run when Levi Colwill, Reece James, Marc Cucurella, Mykhaylo Mudryk, and Cole Palmer were on the ball. Watch Jackson make a run when those four received the ball. It's very hard to score when you don't have a chance to touch the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/amDWvdG.jpg">
+    <img src="https://i.imgur.com/amDWvdG.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Raheem Sterling ignores Nicolas Jackson and passes to Cole Palmer, despite the fact that Tottenham is covering Palmer.</figcaption>
 </figure> 
 
@@ -44,38 +44,38 @@ The way Chelsea finally cracked the high line was fairly simple.
 The first to make a deeper run was Marc Cucurella in the second half.
 
 <figure>
-    <img src="https://i.imgur.com/tUVFhnS.jpg">
+    <img src="https://i.imgur.com/tUVFhnS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Marc Cucurella begins his run while Reece James has the ball on the far side.</figcaption>
 </figure> 
 
 Look at how comically high the high line is from Tottenham. They were down to nine men at that point in the game. The entire team in one line waiting for the pass through. Bizarre. 
 
 <figure>
-    <img src="https://i.imgur.com/Wr8ZZEY.jpg">
+    <img src="https://i.imgur.com/Wr8ZZEY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Marc Cucurella receives the ball.</figcaption>
 </figure> 
 
 Impressive timing from a full-back to judge when to make the run. Full-back to full-back from Reece James to Marc Cucurella. 
 
 <figure>
-    <img src="https://i.imgur.com/oRZeoBU.jpg">
+    <img src="https://i.imgur.com/oRZeoBU.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Raheem Sterling makes a run from a deeper position in a pocket.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/E9gvrkw.jpg">
+    <img src="https://i.imgur.com/E9gvrkw.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Raheem Sterling receives the through ball.</figcaption>
 </figure> 
 
 Then Raheem Sterling made the next deeper run, not standing on Tottenham's back line, in a pocket so he can attack the space at full speed. 
 
 <figure>
-    <img src="https://i.imgur.com/Rd2z8WM.jpg">
+    <img src="https://i.imgur.com/Rd2z8WM.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Conor Gallagher makes a run from deep.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ObSh8iJ.jpg">
+    <img src="https://i.imgur.com/ObSh8iJ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Conor Gallagher receives the through ball.</figcaption>
 </figure> 
 
