@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-3 07:00:00 UTC
 title: "Jakub Kiwior's left-side passing bias at right center-back for Arsenal"
 categories: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-24 11:00 UTC
 title: "What Manchester City should have done when Arsenal went down to ten men"
 categories:

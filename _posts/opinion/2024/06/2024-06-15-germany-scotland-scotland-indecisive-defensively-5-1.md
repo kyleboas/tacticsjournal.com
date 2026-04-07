@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-15 11:00 UTC
 title: "Germany — Scotland: Scotland Indecisive Defensively (5-1)"
 categories:

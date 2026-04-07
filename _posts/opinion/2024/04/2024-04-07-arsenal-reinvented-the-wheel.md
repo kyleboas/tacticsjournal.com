@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-07 08:00 UTC
 title: "Arsenal reinvented the wheel"
 categories:

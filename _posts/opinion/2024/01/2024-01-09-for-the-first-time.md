@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-09 08:00 UTC
 title: "For the First Time"
 categories:

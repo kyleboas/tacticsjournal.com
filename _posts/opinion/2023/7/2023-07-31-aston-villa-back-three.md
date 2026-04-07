@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-07-31 08:00 UTC
 title: "Aston Villa's back-three"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-05-25 12:00 UTC
 title: "Fullbacks have always been important"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/24/Image-24May2025_20:52:08.png"

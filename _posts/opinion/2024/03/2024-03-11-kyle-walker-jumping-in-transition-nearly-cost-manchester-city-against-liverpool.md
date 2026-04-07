@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-11 08:00 UTC
 title: "Kyle Walker jumping in transition nearly cost Manchester City against Liverpool"
 categories:

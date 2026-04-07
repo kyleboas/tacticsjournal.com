@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-09-04 11:00 UTC
 title: "Liverpool's second-half defensive change against Arsenal that changed the game"
 categories:

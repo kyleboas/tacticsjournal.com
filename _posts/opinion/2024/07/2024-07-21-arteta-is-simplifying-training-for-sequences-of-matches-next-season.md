@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-21 11:00 UTC
 title: "Arteta is simplifying training for sequences of matches next season"
 categories:

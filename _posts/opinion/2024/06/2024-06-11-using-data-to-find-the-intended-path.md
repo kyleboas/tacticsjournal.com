@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-11 11:00 UTC
 title: "Using data to find the intended path"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/10/Image-10Jun2024_02:57:41.png?raw=true"

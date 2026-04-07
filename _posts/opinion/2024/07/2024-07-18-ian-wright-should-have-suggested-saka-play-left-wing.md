@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-18 11:00 UTC
 title: "Ian Wright should have suggested Saka play left-wing"
 categories:

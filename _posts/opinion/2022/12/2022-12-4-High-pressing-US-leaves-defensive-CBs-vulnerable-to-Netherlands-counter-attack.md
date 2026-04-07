@@ -7,6 +7,7 @@ tags:
 - USA
 - Netherlands
 layout: post
+category: opinion
 image: https://i.imgur.com/WvQtivx.jpg
 ---
 

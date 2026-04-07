@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-7-7 07:00:00 UTC
 title: "The problem with talking about football" 
 image: "https://i.imgur.com/6qG0SAo.jpg"

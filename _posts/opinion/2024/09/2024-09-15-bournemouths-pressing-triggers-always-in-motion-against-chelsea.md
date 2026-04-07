@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-15 11:00 UTC
 title: "Bournemouth's pressing triggers, always in motion, against Chelsea"
 categories:

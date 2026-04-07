@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-02 11:00 UTC
 title: "Liverpool had no specific game plan to press Manchester United during their build up"
 categories:

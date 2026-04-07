@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-11 08:00 UTC
 title: "Kai Havertz is Beginning to Perfect the Xhaka Cut-Back"
 categories:

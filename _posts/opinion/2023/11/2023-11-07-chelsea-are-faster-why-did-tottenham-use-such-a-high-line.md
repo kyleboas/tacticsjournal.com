@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-07 08:00 UTC
 title: "Chelsea are faster, why did Tottenham use such a high line"
 categories:

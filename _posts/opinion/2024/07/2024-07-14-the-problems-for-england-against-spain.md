@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-14 11:00 UTC
 title: "The problems for England against Spain"
 categories:

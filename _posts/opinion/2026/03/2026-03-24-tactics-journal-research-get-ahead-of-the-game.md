@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2026-03-24 11:00 UTC
 title: "Tactics Journal research. Get ahead of the game."
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/03/22/Image-22Mar2026_09:00:35.png"

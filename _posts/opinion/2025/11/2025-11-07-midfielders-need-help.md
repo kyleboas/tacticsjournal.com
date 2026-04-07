@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-11-07 11:00 UTC
 title: "Midfielders need help"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/06/Image-06Nov2025_18:28:05.png"

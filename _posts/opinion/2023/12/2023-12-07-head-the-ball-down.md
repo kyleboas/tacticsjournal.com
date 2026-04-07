@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-07 08:00 UTC
 title: "Head the Ball Down" 
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-09 11:00 UTC
 title: "Writer's block is a myth"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/09/Image-09Aug2024_01:53:00.png"

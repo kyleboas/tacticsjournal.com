@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-12 11:00 UTC
 title: "Tottenham cross too much"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-01 11:00 UTC
 title: "The Netherlands line of pressure all moving at once"
 categories:

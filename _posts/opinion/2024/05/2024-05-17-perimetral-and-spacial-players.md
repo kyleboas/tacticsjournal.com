@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-17 08:00 UTC
 title: "Perimetral and Spacial players"
 tags:

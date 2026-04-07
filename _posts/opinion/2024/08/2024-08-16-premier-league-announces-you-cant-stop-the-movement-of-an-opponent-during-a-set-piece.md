@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-16 11:00 UTC
 title: "Premier League announces you can't stop the movement of an opponent during a set piece"
 categories:

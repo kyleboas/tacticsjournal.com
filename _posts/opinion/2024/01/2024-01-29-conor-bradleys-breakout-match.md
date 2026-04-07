@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-29 08:00 UTC
 title: "Conor Bradley's breakout match"
 categories:

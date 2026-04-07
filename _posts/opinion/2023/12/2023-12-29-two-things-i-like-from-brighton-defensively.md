@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-29 08:00 UTC
 title: "Two Things I Like From Brighton Defensively"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-08 08:00 UTC
 title: "Ruben Dias knows how to play like Rodri"
 categories:

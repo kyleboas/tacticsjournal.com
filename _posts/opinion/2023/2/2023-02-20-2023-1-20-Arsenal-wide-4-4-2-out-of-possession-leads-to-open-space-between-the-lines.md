@@ -6,6 +6,7 @@ categories:
 tags:
 - Arsenal
 layout: post
+category: opinion
 image: https://i.imgur.com/ryXiOBB.jpg
 ---
 

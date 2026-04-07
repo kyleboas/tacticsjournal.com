@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-14 08:00 UTC
 title: "Inter collective movement"
 categories:

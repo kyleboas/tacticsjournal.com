@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-13 11:00 UTC
 title: "Rodri talks, we must listen"
 categories:

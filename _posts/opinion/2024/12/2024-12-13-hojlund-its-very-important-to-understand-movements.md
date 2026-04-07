@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-13 12:00 UTC
 title: "Hojlund: 'It's very important to understand movements'"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-08-12 11:00 UTC
 title: "Arsenal's attacking output should improve with Zubimendi"
 categories:

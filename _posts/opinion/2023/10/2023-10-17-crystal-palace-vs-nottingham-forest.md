@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-17 08:00 UTC
 title: "Crystal Palace vs Nottingham Forest"
 categories:

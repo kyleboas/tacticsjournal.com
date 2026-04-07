@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-09-20 11:00 UTC
 title: "A learning experience from Barcelona for every attack"
 categories:

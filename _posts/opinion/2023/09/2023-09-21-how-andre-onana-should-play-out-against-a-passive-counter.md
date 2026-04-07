@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-09-21 08:00 UTC
 title: "How Andre Onana should play out against a passive counter-press"
 categories:

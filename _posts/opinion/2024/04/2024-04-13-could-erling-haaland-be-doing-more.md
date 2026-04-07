@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-13 08:00 UTC
 title: "Could Erling Haaland be doing more?"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-20 11:00 UTC
 title: "Foden, Bellingham, Rice, and Trent in the midfield can work for England"
 categories:

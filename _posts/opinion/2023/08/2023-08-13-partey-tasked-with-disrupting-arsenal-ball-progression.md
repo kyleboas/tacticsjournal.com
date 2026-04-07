@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-08-13 08:00 UTC
 title: "Partey tasked with disrupting Arsenal's ball progression"
 categories:

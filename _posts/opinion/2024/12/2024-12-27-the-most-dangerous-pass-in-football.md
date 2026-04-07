@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-27 12:00 UTC
 title: "The most dangerous pass in football"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/24/Image-24Dec2024_19:24:18.png"

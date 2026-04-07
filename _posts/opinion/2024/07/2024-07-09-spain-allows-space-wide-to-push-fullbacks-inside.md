@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-09 11:00 UTC
 title: "Spain allows space wide to push fullbacks inside"
 categories:

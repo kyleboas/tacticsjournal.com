@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-22 11:00 UTC
 title: "How Manchester City should break down Arsenal's low block on the diagonal"
 categories:

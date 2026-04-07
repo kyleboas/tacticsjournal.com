@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-08 11:00 UTC
 title: "England are free of Southgate and their positions"
 categories:

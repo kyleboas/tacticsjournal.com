@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-28 11:00 UTC
 title: "Lionel Messi says football is too tactical"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/27/Image-27Jun2024_16%3A54%3A40.png"

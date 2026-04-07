@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-30 11:00 UTC
 title: "Fight or flight"
 categories:

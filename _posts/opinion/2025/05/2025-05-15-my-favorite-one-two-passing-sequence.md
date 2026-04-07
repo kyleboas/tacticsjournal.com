@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-05-15 12:00 UTC
 title: "My favorite one-two passing sequence"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/13/Image-13May2025_22:37:20.png"

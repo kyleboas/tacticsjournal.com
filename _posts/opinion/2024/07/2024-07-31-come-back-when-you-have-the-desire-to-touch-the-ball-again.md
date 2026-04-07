@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-31 11:00 UTC
 title: "Come back when you have the desire to touch the ball again"
 categories:

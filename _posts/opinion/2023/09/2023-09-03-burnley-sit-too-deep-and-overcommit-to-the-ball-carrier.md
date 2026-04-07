@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-09-03 08:00 UTC
 title: "Burnley sit too deep and overcommit to the ball carrier"
 categories:

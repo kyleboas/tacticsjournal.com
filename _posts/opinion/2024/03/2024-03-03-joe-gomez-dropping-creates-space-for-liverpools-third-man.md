@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-03 07:00 UTC
 title: "Joe Gomez dropping creates space for Liverpool's third man"
 categories:

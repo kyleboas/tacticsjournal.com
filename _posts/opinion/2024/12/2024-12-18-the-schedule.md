@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-18 12:00 UTC
 title: "The schedule"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-6-1 07:00:00 UTC
 title: "A José Mourinho time-wasting masterclass"
 categories: 

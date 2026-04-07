@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-23 07:00:00 UTC
 title: "Antony is missing his signature move"
 categories: 

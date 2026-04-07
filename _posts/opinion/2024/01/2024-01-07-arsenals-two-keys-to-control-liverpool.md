@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-07 08:00 UTC
 title: "Arsenal's Two Keys to Control Liverpool"
 categories:

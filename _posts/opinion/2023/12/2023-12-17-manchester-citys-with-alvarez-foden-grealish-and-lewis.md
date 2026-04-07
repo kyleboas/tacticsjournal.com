@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-17 08:00 UTC
 title: "Manchester City's +1 with Alvarez, Foden, Grealish, and Lewis"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-19 11:00 UTC
 title: "Manchester City's rest area on the wing"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-18 11:00 UTC
 title: "Trent taught himself to pass"
 categories:

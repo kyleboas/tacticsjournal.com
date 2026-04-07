@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-01-05 12:00 UTC
 title: "Solid as a William Saliba"
 categories:

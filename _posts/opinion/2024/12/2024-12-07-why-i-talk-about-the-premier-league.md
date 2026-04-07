@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-07 12:00 UTC
 title: "Why I talk about the Premier League"
 categories:

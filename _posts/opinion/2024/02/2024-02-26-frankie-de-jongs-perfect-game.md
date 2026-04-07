@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-26 08:00 UTC
 title: "Frankie de Jong's perfect game"
 categories:

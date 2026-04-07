@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-7-8 07:00:00 UTC
 title: "Newcastle's influence on Anthony Gordon is showing"
 categories: 

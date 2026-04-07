@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-28 08:00 UTC
 title: "Manchester City Baiting Everton's Press"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-07-19 07:00 UTC
 title: "Ange Postecoglou's first Tottenham match"
 categories:

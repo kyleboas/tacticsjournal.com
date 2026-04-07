@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-09-01 11:00 UTC
 title: "Close the window"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/31/Image-31Aug2025_19:18:32.png"

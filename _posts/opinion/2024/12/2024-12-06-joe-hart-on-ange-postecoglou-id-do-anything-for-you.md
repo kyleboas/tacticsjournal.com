@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-06 12:00 UTC
 title: "Joe Hart on Ange Postecoglou: 'I'd do anything for you'"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-20 11:00 UTC
 title: "Early signs of improvisation from Tottenham"
 categories:

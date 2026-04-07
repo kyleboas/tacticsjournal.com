@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-21 11:00 UTC
 title: "Manchester City's staircase"
 categories:

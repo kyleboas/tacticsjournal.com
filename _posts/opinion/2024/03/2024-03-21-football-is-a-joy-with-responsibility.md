@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-21 08:00 UTC
 title: "Football is a joy with responsibility"
 image: "https://i.imgur.com/vdCHQwS.png"

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-02-08 12:00 UTC
 title: "Applaud the team"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/07/Image-07Feb2025_08:48:43.png"

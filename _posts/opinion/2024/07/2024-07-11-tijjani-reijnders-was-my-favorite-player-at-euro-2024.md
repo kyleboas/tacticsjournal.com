@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-11 11:00 UTC
 title: "Tijjani Reijnders was my favorite player at Euro 2024"
 categories:

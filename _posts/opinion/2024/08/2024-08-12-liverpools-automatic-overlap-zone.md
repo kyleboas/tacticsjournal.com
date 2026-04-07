@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-12 11:00 UTC
 title: "Liverpool's automatic overlap zone"
 categories:

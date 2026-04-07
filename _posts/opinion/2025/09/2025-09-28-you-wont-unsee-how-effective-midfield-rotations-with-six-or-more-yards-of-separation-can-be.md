@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-09-28 11:00 UTC
 title: "You won't unsee how effective midfield rotations with six or more yards of separation can be"
 categories:

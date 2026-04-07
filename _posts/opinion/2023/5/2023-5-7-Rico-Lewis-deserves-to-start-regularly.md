@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-7 07:00:00 UTC
 title: "Rico Lewis deserves to start regularly"
 categories: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-10-09 11:00 UTC
 title: "Manchester City defend with the ball"
 categories:

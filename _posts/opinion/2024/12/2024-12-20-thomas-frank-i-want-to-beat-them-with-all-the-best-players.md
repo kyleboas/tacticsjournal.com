@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-20 12:00 UTC
 title: "Thomas Frank: 'I want to beat them with all the best players'"
 categories:

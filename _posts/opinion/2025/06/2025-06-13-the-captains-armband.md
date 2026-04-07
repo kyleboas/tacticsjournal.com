@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-06-13 11:00 UTC
 title: "The captain's armband"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/12/Image-12Jun2025_22:45:25.png"

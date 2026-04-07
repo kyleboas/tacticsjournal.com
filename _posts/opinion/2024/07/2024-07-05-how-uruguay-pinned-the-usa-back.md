@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-05 11:00 UTC
 title: "How Uruguay pinned the USA back" 
 categories:

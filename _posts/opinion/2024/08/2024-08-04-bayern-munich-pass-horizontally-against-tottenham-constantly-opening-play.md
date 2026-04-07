@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-04 11:00 UTC
 title: "Bayern Munich pass horizontally against Tottenham, constantly opening play"
 categories:

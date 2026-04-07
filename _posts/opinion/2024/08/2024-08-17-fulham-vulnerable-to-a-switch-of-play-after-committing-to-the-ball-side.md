@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-17 11:00 UTC
 title: "Fulham vulnerable to a switch of play after committing to the ball side"
 categories:

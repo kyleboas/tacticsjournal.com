@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-29 08:00 UTC
 title: "The relational phase"
 categories:

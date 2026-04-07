@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-11 12:00 UTC
 title: "Kylian Mbappe is taking too many steps at Real Madrid"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-22 08:00 UTC
 title: "The threat Liverpool's second line poses in the middle"
 categories:

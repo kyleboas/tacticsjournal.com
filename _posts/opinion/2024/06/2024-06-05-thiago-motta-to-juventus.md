@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-05 11:00 UTC
 title: "Thiago Motta to Juventus"
 categories:

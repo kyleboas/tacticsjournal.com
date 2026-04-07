@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-29 11:00 UTC
 title: "The difference in distance when Liverpool's fullbacks are wide versus when they are narrow"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-03-05 12:00 UTC
 title: "If I notice you, you made a mistake"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/03/04/Image-04Mar2025_15:56:51.png"

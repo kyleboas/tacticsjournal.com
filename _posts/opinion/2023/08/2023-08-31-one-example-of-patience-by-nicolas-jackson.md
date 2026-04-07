@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-08-31 08:00 UTC
 title: "One example of patience by Nicolas Jackson"
 categories:

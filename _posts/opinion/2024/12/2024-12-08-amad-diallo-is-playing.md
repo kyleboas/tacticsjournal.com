@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-08 12:00 UTC
 title: "Amad Diallo is playing"
 categories:

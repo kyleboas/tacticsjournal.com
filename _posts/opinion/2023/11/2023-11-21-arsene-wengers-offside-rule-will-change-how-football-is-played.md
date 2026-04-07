@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-21 08:00 UTC
 title: "Arsene Wenger's offside rule will change how football is played"
 image: "https://i.imgur.com/oyMKDZN.jpg"

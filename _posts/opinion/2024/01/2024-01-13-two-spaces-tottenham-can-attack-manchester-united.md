@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-13 08:00 UTC
 title: "Two spaces Tottenham can attack Manchester United"
 categories:

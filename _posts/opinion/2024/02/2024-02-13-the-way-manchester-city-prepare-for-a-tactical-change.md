@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-13 08:00 UTC
 title: "The way Manchester City prepare for a tactical change"
 categories:

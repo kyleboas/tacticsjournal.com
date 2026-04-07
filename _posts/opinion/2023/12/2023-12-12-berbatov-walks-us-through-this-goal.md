@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-12 08:00 UTC
 title: "Berbatov Walks Us Through This Goal"
 categories:

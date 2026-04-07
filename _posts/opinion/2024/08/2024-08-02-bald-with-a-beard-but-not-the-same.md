@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-02 11:00 UTC
 title: "Bald with a beard, but not the same"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-15 11:00 UTC
 title: "Tottenham herd Manchester City quickly forward"
 categories:

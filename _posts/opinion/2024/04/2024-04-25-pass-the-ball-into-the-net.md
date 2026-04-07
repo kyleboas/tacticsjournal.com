@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-25 11:00 UTC
 title: "Pass the ball into the net"
 categories:

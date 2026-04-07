@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-7-14 07:00:00 UTC
 title: "Arsenal's left midfielder experiment"
 categories:

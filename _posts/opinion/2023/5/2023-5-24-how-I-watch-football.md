@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-24 07:00:00 UTC
 title: "How I watch football"
 image: "https://i.imgur.com/Hv5pkLb.jpg"

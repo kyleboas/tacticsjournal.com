@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-13 11:00 UTC
 title: "The mind of an innovator"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/13/Image-13Aug2024_01:23:26.png"

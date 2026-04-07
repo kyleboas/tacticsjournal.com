@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-09 11:00 UTC
 title: "Ones that don't do anything won"
 categories:

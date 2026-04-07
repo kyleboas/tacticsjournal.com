@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-16 12:00 UTC
 title: "Mazraoui shows us how to prepare, plant, and launch as a defender"
 categories:

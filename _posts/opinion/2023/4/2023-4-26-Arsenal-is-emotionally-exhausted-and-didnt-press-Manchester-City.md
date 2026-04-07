@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-26 07:35:00 -0500
 title: "Arsenal is emotionally exhausted and didn’t press Manchester City"
 categories: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-28 20:42:00 UTC
 title: "Tottenham overcomes back post run struggles to salvage point against Manchester United" 
 categories: 

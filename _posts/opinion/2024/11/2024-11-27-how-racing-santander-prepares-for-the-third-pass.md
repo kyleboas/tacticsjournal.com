@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-11-27 12:00 UTC
 title: "How Racing Santander prepares for the third pass"
 categories:

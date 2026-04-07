@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-05 08:00 UTC
 title: "More driven passes from Andre Onana and less lofted passes"
 categories:

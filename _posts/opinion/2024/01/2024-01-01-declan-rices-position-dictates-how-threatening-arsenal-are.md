@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-01 08:00 UTC
 title: "Declan Rice's Position Dictates How Threatening Arsenal Are"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-23 11:00 UTC
 title: "Arsenal had imposter syndrome"
 categories:

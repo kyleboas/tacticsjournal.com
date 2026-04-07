@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-30 11:00 UTC
 title: "Moving the double pivot wide to manipulate a compact man-marking defense"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-11-19 11:00 UTC
 title: "Sir Alex Ferguson's Golden Rules"
 categories:

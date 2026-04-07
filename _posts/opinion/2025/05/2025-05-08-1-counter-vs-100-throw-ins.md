@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-05-08 12:00 UTC
 title: "1 counter vs 100 throw-ins"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/07/Image-07May2025_20:46:38.png"

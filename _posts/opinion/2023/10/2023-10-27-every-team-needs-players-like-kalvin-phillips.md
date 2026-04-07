@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-27 08:00 UTC
 title: "Every team needs players like Kalvin Phillips"
 categories:

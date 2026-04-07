@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-04 08:00 UTC
 title: "Manchester City's aggressive press to stop Kulusevski and Udogie"
 categories:

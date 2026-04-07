@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-01 11:00 UTC
 title: "Liverpool training exercise to replicate Slot's build up"
 categories:

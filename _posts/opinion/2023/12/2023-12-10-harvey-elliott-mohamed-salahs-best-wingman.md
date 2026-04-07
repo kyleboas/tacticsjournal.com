@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-10 08:00 UTC
 title: "Harvey Elliott: Mohamed Salah's Best Wingman"
 categories:

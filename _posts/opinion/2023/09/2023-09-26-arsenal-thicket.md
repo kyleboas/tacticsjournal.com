@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-09-26 08:00 UTC
 title: "Arsenal's thicket"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-09 08:00 UTC
 title: "Bayern Munich don't wait"
 categories:

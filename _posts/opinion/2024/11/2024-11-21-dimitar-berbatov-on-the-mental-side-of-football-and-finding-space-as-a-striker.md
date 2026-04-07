@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-11-21 12:00 UTC
 title: "Dimitar Berbatov on the mental side of football and finding space as a striker"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/20/Image-20Nov2024_15:10:31.png"

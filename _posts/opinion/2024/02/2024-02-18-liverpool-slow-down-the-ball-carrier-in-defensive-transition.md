@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-18 08:00 UTC
 title: "Liverpool slow down the ball carrier in defensive transition"
 categories:

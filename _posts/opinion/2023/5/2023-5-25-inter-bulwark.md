@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-25 07:00:00 UTC
 title: "Inter bulwark"
 categories: 

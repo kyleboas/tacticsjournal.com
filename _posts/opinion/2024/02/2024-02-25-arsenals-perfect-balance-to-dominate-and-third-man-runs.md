@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-25 08:00 UTC
 title: "Arsenal's perfect balance to dominate and third-man runs"
 categories:

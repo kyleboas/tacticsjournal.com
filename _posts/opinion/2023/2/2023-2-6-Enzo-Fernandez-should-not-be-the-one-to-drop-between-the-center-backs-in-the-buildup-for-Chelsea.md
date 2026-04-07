@@ -7,6 +7,7 @@ categories:
 tags:
 - Chelsea
 layout: post
+category: opinion
 image: https://i.imgur.com/P82TaDe.jpg
 ---
 

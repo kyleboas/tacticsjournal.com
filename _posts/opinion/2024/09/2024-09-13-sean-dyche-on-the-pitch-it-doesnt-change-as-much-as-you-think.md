@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-13 11:00 UTC
 title: "Sean Dyche: 'On the pitch, it doesn't change as much as you think'"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-01-02 12:00 UTC
 title: "Running plays"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/01/Image-01Jan2025_20:43:11.png"

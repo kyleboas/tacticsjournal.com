@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-11-29 11:00 UTC
 title: "Explain it simply and it will spread"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/28/Image-28Nov2025_14:06:53.png"

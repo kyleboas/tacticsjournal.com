@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-07-11 07:00:00 UTC
 title: "The goalkeeper should be replaced if we don't score"
 tags: 

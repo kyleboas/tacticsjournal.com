@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-20 08:00 UTC
 title: "Jesse Marsch philosophy at RB Salzburg and Leeds United"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-02 11:00 UTC
 title: "PSG protecting the left for each long ball from Borussia Dortmund"
 categories:

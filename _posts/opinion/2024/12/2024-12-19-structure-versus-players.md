@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-19 12:00 UTC
 title: "Structure versus the players"
 categories:

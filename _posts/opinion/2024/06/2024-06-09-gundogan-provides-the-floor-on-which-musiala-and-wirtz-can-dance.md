@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-09 11:00 UTC
 title: "Gundogan provides the floor on which Musiala and Wirtz can dance"
 categories:

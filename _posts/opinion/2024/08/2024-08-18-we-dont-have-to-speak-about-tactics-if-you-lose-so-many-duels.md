@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-18 11:00 UTC
 title: "We don't have to speak about tactics if you lose so many duels"
 categories:

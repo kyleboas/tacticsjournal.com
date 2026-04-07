@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-03 11:00 UTC
 title: "Barcelona's three forwards remain wide and equidistant when they make their runs into the box"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-04 11:00 UTC
 title: "Playing in a 'good height'"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-08-25 11:00 UTC
 title: "Sign a tall goalkeeper"
 categories:

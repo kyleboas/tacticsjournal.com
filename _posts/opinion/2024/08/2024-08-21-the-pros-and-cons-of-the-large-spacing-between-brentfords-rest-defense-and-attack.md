@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-21 11:00 UTC
 title: "The pros and cons of the large spacing between Brentford's rest-defense and attack"
 categories:

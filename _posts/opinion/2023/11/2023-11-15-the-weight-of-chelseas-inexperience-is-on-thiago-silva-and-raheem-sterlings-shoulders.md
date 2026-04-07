@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-15 08:00 UTC
 title: "The weight of Chelsea's inexperience is on Thiago Silva and Raheem Sterling's shoulders"
 categories:

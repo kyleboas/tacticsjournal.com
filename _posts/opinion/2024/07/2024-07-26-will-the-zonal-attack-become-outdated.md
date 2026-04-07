@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-26 11:00 UTC
 title: "Will the zonal attack become outdated?"
 categories:

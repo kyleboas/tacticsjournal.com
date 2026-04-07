@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-03 08:00 UTC
 title: "Manchester United's Crisis In Perspective"
 categories:

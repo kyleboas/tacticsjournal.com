@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-09-09 08:00 UTC
 title: "Why did Manchester United leave Declan Rice free?"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-03 11:00 UTC
 title: "Antagonists to Protagonists"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-08-24 11:00 UTC
 title: "Frank roulette"
 categories:

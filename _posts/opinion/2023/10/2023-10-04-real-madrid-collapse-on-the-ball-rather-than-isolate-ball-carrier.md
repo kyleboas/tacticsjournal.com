@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-04 08:00 UTC
 title: "Real Madrid collapse on the ball rather than isolate the carrier"
 categories:

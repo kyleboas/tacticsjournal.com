@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-22 9:20:00 -0500
 title: "What happened to Bayern Munich vs Mainz in their 3-1 loss?"
 categories: 

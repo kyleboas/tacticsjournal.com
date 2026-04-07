@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-16 08:00 UTC
 title: "Thank You For Reading"
 image: "https://i.imgur.com/9MnmTTo.jpg"

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-23 11:00 UTC
 title: "Bologna rotate to free Calafiori"
 categories:

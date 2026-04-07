@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-23 11:00 UTC
 title: "Bayer Leverkusen's spacing accentuated Atalanta's physical strength"
 categories:

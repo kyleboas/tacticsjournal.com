@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-6-7 07:00:00 UTC
 title: "New Watchlist" 
 categories: 

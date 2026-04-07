@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-26 11:00 UTC
 title: "Manchester City's disorganized high line and lack of positional awareness"
 categories:

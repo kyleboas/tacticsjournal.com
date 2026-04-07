@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-16 11:00 UTC
 title: "A team versus individuals"
 categories:

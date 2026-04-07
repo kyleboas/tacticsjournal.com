@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-14 12:00 UTC
 title: "Appropriation"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/13/Image-13Dec2024_15:54:28.png"

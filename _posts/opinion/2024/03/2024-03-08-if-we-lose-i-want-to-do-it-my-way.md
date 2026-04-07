@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-08 08:00 UTC
 title: "If we lose, I want to do it my way" 
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-21 12:00 UTC
 title: "Ange Postecoglou: 'I'm just a naughty little boy'"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-11-14 11:00 UTC
 title: "Aliens are going extinct"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/13/Image-13Nov2025_22:54:03.png"

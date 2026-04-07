@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-10-21 11:00 UTC
 title: "Recovering"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/11/Image-11Oct2024_03:04:24.png"

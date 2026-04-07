@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-10-03 11:00 UTC
 title: "Aston Villa orient their hips towards either sideline and always play forward"
 categories:

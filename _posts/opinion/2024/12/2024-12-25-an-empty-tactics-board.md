@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-25 12:00 UTC
 title: "An empty tactics board"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/22/Image-22Dec2024_08:59:33.png"

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-27 07:00:00 UTC
 title: "Jan Paul van Hecke and Levi Colwill star in Brighton's counter-press"
 categories: 

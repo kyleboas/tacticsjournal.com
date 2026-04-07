@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-11 08:00 UTC
 title: "Gabriel pinned to Kane isolates Arsenal's left side"
 categories:

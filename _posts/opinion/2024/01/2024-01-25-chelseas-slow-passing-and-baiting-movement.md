@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-25 08:00 UTC
 title: "Chelsea's slow passing and baiting movement"
 categories:

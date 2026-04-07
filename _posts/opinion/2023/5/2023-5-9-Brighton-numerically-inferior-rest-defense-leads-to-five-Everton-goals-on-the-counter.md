@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-9 07:00:00 UTC
 title: "Brighton's numerically inferior rest-defense leads to five Everton goals on the counter"
 categories: 

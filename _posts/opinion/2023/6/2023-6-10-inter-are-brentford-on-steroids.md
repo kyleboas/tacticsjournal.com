@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-6-10 07:00:00 UTC
 title: "Inter are Brentford on steroids" 
 categories: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-30 11:00 UTC
 title: "Vincent Kompany to Bayern Munich"
 categories:

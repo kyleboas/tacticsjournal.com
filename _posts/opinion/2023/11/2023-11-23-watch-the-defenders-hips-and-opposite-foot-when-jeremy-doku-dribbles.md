@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-23 08:00 UTC
 title: "Watch the defender's hips and opposite foot when Jeremy Doku dribbles"
 categories:

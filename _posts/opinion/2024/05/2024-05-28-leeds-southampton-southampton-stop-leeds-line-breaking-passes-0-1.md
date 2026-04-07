@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-28 11:00 UTC
 title: "Leeds — Southampton: Southampton Stop Leeds' Line-Breaking Passes (0-1)"
 categories:

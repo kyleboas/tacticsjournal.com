@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-30 08:00 UTC
 title: "Erling Haaland's exponential dribbling improvement"
 categories:

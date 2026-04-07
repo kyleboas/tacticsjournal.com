@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-29 11:00 UTC
 title: "Nunez should never be behind Salah on the halfway line"
 categories:

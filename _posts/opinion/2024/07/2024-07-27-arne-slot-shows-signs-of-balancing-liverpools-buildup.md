@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-27 11:00 UTC
 title: "Arne Slot shows signs of balancing Liverpool's buildup"
 categories:

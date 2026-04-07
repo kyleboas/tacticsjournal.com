@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-26 08:00 UTC
 title: "Erling Haaland's explosive turn-and-shoot technique"
 categories:

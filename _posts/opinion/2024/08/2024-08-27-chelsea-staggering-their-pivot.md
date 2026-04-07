@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-27 11:00 UTC
 title: "Chelsea staggering their pivot"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-25 08:12:00 -0500
 title: "Éder Militão looks tired"
 categories: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-01 08:00 UTC
 title: "The difference in intention of Aston Villa's movement"
 categories:

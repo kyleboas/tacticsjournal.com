@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-01 08:00 UTC
 title: "Aston Villa using physicality to stop-start Brighton"
 categories:

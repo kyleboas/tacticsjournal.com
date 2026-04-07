@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-26 11:00 UTC
 title: "Which Liverpool players benefit in transition or when the opposition defends deep?"
 categories:

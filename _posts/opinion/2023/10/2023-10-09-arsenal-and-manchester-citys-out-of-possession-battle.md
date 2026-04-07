@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-09 08:00 UTC
 title: "Arsenal and Manchester City's out-of-possession battle"
 categories:

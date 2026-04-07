@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-22 08:00 UTC
 title: "A beautiful accident"
 categories:

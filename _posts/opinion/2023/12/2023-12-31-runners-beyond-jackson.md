@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-31 08:00 UTC
 title: "Runners Beyond Jackson"
 categories:

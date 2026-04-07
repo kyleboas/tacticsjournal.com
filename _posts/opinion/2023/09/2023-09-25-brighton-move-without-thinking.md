@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-09-25 08:00 UTC
 title: "Brighton move without thinking"
 categories:

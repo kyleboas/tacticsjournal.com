@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-08 11:00 UTC
 title: "The responsibility of a goalkeeper and defender when blocking a shot"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-28 12:00 UTC
 title: "Don't assume everyone knows what you know"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/27/Image-27Dec2024_17:52:23.png"

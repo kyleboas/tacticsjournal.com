@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-24 11:00 UTC
 title: "Erik ten Hag's fitness concerns at Manchester United"
 categories:

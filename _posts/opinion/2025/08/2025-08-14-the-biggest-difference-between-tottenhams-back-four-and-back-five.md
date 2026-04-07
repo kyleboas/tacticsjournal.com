@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-08-14 11:00 UTC
 title: "The biggest difference between Tottenham's back four and back five"
 categories:

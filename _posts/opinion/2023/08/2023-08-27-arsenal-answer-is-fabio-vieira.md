@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-08-27 08:00 UTC
 title: "Arsenal's answer is Fabio Vieira" 
 categories:

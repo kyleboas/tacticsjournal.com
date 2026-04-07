@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-18 11:00 UTC
 title: "Juventus' unique ability in defense to remain patient and not overcommit"
 categories:

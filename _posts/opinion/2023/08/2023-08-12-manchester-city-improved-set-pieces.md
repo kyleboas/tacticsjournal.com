@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-08-12 08:00 UTC
 title: "Manchester City's improved set-pieces"
 categories:

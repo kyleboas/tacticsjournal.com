@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-11 08:00 UTC
 title: "Tottenham's advanced inverted full-backs"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-27 08:00 UTC
 title: "New generation of coaching"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-22 11:00 UTC
 title: "Luis Enrique asks us to review Mbappe's press"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-12-07 11:00 UTC
 title: "Getting Pep'd"
 categories:

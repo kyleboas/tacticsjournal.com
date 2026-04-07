@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-18 08:00 UTC
 title: "Brighton Pass Confidently Through Arsenal's Man-to-Man Press"
 categories:

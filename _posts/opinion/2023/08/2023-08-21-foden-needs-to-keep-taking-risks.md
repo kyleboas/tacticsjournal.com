@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-08-21 08:00 UTC
 title: "Phil Foden needs to keep taking risks"
 categories:

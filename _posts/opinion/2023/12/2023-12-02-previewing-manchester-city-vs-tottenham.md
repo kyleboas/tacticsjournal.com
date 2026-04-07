@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-02 08:00 UTC
 title: "Previewing Manchester City vs Tottenham"
 categories:

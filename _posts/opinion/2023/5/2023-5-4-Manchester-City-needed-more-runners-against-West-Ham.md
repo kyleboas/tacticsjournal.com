@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-4 07:00:00 UTC
 title: "Manchester City needed more runners against West Ham"
 categories: 

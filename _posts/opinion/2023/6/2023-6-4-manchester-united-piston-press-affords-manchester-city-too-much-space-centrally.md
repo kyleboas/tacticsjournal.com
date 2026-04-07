@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-6-4 07:00:00 UTC
 title: "Manchester United's piston press affords Manchester City too much space centrally" 
 categories: 
