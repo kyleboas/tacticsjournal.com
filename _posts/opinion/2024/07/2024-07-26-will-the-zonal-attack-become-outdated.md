@@ -7,7 +7,7 @@ categories:
 tags:
 - "Chelsea"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/25/Image-25Jul2024_03:07:17.png"
+image: "/images/uploads/2024/07/25/Image-25Jul2024_03:07:17.png"
 ---
 
 Attacking zonally means that players stay in their zone, but the game looks more open when players enter other players' zones where there is overlap to combine. The old approach forcing players not to roam might be outdated.
@@ -15,7 +15,7 @@ Attacking zonally means that players stay in their zone, but the game looks more
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/25/Image-25Jul2024_03:00:45.png">
+    <img src="/images/uploads/2024/07/25/Image-25Jul2024_03:00:45.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Chelsea's zonal attacking 3-4-3 box midfield formation. </figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Risk takers like Noni Madueke and Cole Palmer are annoying in a zonal attack bec
 It is like working in an office cubicle. You stay within your cubicle, do your job, and pass the tasks around to the next worker. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/25/Image-25Jul2024_03:06:26.png">
+    <img src="/images/uploads/2024/07/25/Image-25Jul2024_03:06:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Christopher Nkunku encroaches on the pivot's zone and they work the ball through him out to the left wing.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ But then the more dynamic players become restless, and it's only until then, whe
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/25/Image-25Jul2024_22:10:33.png">
+    <img src="/images/uploads/2024/07/25/Image-25Jul2024_22:10:33.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - An example of a non-zonal attack where players' zones always overlap as they coalesce around the ball.</figcaption>
 </figure>
 

@@ -17,17 +17,17 @@ July 28, 2023 — Bournemouth's counter-press is already sharper under new manag
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/dS5hLNV.png">
+    <img src="https://i.imgur.com/dS5hLNV.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The ball is passed to the left center-back, Shea Charles. Bournemouth man-mark.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/89mD8L4.jpg">
+    <img src="https://i.imgur.com/89mD8L4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Bournemouth tightens their marking spacing once the ball is received.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/XFupzeR.jpg">
+    <img src="https://i.imgur.com/XFupzeR.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Dominic Solanke curves his press to shadow cover the right center-back. Shea Charles attempts a pass to a player on the far side with pressure from Ryan Christie.</figcaption>
 </figure>
 
@@ -36,24 +36,24 @@ Dominic Solanke curving his press is akin to a red-tailed boa constricting upon 
 He attempts the risky pass, and Southampton pay.
 
 <figure>
-    <img src="https://i.imgur.com/V7BLvSz.jpg">
+    <img src="https://i.imgur.com/V7BLvSz.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Jaidon Anthony makes a tackle to intercept the pass.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/UsSekWC.jpg">
+    <img src="https://i.imgur.com/UsSekWC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Bournemouth wins the ball, and Dominic Solanke passes to Ryan Christie who is free in space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/9KSKvkK.jpg">
+    <img src="https://i.imgur.com/9KSKvkK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Ryan Christie scores.</figcaption>
 </figure>
 
 Philip Billing and Dango Ouattara patrol on the edges with Ryan Christie central in the pocket of space. If Christie's shot gets blocked, those two are there to shoot from range.
 
 <figure>
-    <img src="https://i.imgur.com/GNDvGXc.jpg">
+    <img src="https://i.imgur.com/GNDvGXc.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Andoni Iraola talking to new Southampton manager Russell Martin.</figcaption>
 </figure>
 

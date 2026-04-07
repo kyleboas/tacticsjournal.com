@@ -16,33 +16,33 @@ Arsenal were less pragmatic than Manchester City because of the way they attacke
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/2olT45o.jpeg">
+    <img src="https://i.imgur.com/2olT45o.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Ball is passed to Martin Ødegaard. Bukayo Saka anticipates the pass and begins his run.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ndpGVMn.jpeg">
+    <img src="https://i.imgur.com/ndpGVMn.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Martin Ødegaard plays in Bukayo Saka. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/UB1AaC0.jpeg">
+    <img src="https://i.imgur.com/UB1AaC0.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Martin Ødegaard moves into the space for Thomas Partey to play the pass forward. </figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/kLKUzgL.jpeg">
+    <img src="https://i.imgur.com/kLKUzgL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Martin Ødegaard immediately passes to Leandro Trossard.</figcaption>
 </figure> 
 
 Arsenal sat back in defense but they did not waste time when they had the ball. They looked likely to score on each attack in either settled play, when City had time to get back behind the ball, or on the counter. 
 
 <figure>
-    <img src="https://i.imgur.com/gEkgG2E.jpeg">
+    <img src="https://i.imgur.com/gEkgG2E.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Manchester City press Arsenal, blocking off the pass to the midfielders via cover shadows, forcing them to play back to goalkeeper David Raya.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/44tLi9y.jpeg">
+    <img src="https://i.imgur.com/44tLi9y.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Aggressive press from Manchester City forcing Arsenal back to David Raya.</figcaption>
 </figure> 
 
@@ -60,17 +60,17 @@ Manchester City did a masterful job for a majority of the match at pressuring Ar
 
 
 <figure>
-    <img src="https://i.imgur.com/JuHASXs.jpeg">
+    <img src="https://i.imgur.com/JuHASXs.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Martin Ødegaard plays Kai Havertz in to the box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/i3weMP5.jpeg">
+    <img src="https://i.imgur.com/i3weMP5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Martin Ødegaard finds a pocket to receive the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/mDnavce.jpeg">
+    <img src="https://i.imgur.com/mDnavce.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Martin Ødegaard immediately turns and plays the through ball to Kai Havertz.</figcaption>
 </figure> 
 

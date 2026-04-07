@@ -17,17 +17,17 @@ Arsenal manager Mikel Arteta wants his holding midfielders to find and then atta
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/GdeDQR5.jpeg">
+    <img src="https://i.imgur.com/GdeDQR5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Real Madrid progresses with the ball on the right and Toni Kroos drifts into the middle of the pitch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/reg5zLN.jpeg">
+    <img src="https://i.imgur.com/reg5zLN.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ball is passed over Bayern Munich's midfield to Toni Kroos.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/b3G6DVQ.jpeg">
+    <img src="https://i.imgur.com/b3G6DVQ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Toni Kroos receives the ball in space.</figcaption>
 </figure> 
 
@@ -48,12 +48,12 @@ If Kroos never makes that run, and stays deep, Bayern Munich might successfully 
 It is a constant game of peek-a-boo. You never know where the next danger will come from. 
 
 <figure>
-    <img src="https://i.imgur.com/KXCpb81.jpeg">
+    <img src="https://i.imgur.com/KXCpb81.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Toni Kroos is wide left when the ball is played wide right.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/te8HeAX.jpeg">
+    <img src="https://i.imgur.com/te8HeAX.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Toni Kroos anticipates how Bayern Munich will press Real Madrid wide, and aligns himself into the center of the open space.</figcaption>
 </figure> 
 

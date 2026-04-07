@@ -18,42 +18,42 @@ This unique Real Sociedad free kick was stuck in my head the entire first half a
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/nifEig6.jpeg">
+    <img src="https://i.imgur.com/nifEig6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Brais Méndez and Ander Barrenetxea stand over the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Dd3kDp8.jpeg">
+    <img src="https://i.imgur.com/Dd3kDp8.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Fake #1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/RiddNJ6.jpeg">
+    <img src="https://i.imgur.com/RiddNJ6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Fake #2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vFDTM9n.jpeg">
+    <img src="https://i.imgur.com/vFDTM9n.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Fake #3</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/K74P2z8.jpeg">
+    <img src="https://i.imgur.com/K74P2z8.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - High lofted pass to the back post.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/NKK57Ju.jpeg">
+    <img src="https://i.imgur.com/NKK57Ju.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Another view when the ball is played over the top. André Silva starts in an offside position before the ball is played.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/9uSvLHo.jpeg">
+    <img src="https://i.imgur.com/9uSvLHo.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Ball in the air to the free man on the far post.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sJD7REW.jpeg">
+    <img src="https://i.imgur.com/sJD7REW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8 - Three available for the tap-in central.</figcaption>
 </figure> 
 

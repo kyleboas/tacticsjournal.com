@@ -7,7 +7,7 @@ categories:
 tags:
 - "Tottenham"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/13/Image-13Aug2025_20:33:01.png"
+image: "/images/uploads/2025/08/13/Image-13Aug2025_20:33:01.png"
 ---
 
 Tottenham's use of a back four or back five should be situational based on the opposition they face. The most interesting difference between the two options was the way in which the defenders jumped out to help in the man-to-man press.
@@ -15,7 +15,7 @@ Tottenham's use of a back four or back five should be situational based on the o
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/13/Image-13Aug2025_20:39:31.png">
+    <img src="/images/uploads/2025/08/13/Image-13Aug2025_20:39:31.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Tottenham's pressing structure in a back four.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ When the left center-back jumps, the entire backline shifts over to cover for th
 In this scenario the right center-back, Cristiano Romero, would be passive, covering for the left center-back, Kevin Danso. They don't switch responsibility, meaning if the ball is on Romero's side, he does not then become active. One center-back is active, normally the left center-back, and the other center-back is passive. And the player jumping out from the second line, usually a midfielder, to press will almost always come from the far side.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/13/Image-13Aug2025_20:33:01.png">
+    <img src="/images/uploads/2025/08/13/Image-13Aug2025_20:33:01.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Tottenham's pressing structure in a back five.</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ date: 2024-07-04 11:00 UTC
 title: "Focus on the eyes, and the head, and the legs of the players and teach the game"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/03/Image-03Jul2024_23:44:38.png"
+image: "/images/uploads/2024/07/03/Image-03Jul2024_23:44:38.png"
 tweet: "We talk about what we see from a birds eye view but what each individual player sees is unique. That's why this @ReneMaric quote from @ground_guru podcast, 'focus on the eyes, and the head, and the legs of the players, and teach the game,' sticks with me."
 ---
 
@@ -23,7 +23,7 @@ Simon Austin talking to René Marić on [the Training Ground Guru podcast](https
 I binge-watch [JFootballTV videos](https://youtube.com/@jfootballtv?si=t3uPm_ayXuowFWnx), a YouTube channel by Lee Jung-Jin, a South Korean professional football player. He straps a camera to his head when he plays to show his first-person perspective. He has had a very inspiring journey through football, now adventuring to many countries, hopping from one opportunity to the next. I'd recommend checking out his channel and learning more about his story. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/03/Image-03Jul2024_23:44:38.png">
+    <img src="/images/uploads/2024/07/03/Image-03Jul2024_23:44:38.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Screenshot from <a href="https://youtu.be/tSABCVMDhZs?si=-Gani_q7fCAm6wpi" target="_blank">this video</a> where Lee Jung-Jin is going in for a challenge.</figcaption>
 </figure>
 

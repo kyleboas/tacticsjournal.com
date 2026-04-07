@@ -16,12 +16,12 @@ Brighton had to overload the ball side because that was their only chance to get
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/vZCHhw1.jpeg">
+    <img src="https://i.imgur.com/vZCHhw1.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - 9v8 Brighton advantage on the ball side, with a 2v1 on the far side.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/a0vyZ96.jpeg">
+    <img src="https://i.imgur.com/a0vyZ96.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Attempted passing triangle from Brighton.</figcaption>
 </figure> 
 
@@ -32,7 +32,7 @@ Two players can pass back and forth, but you need that third man to come in so y
 Therefore, Brighton pack the ball side of the pitch to attempt to play in quick triangles. Move the ball to move the opponent. This isn't Brighton's game. 
 
 <figure>
-    <img src="https://i.imgur.com/Gkd12Je.jpeg">
+    <img src="https://i.imgur.com/Gkd12Je.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Errant pass from Pervis Estupinan intercepted by Ross Barkley. Barkley passes forward to Elijah Adebayo.</figcaption>
 </figure> 
 
@@ -51,17 +51,17 @@ If you can get the ball to the third man, you can get it forward past the next l
 It's a constant game of small spaces, triangles, and the passing has to be perfect. If you connect enough passes, Luton will eventually be forced to back off. 
 
 <figure>
-    <img src="https://i.imgur.com/S4KU976.jpeg">
+    <img src="https://i.imgur.com/S4KU976.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Elijah Adebayo passes back to Ross Barkley as he carries the ball forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/TprulF7.jpeg">
+    <img src="https://i.imgur.com/TprulF7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Ross Barkley passes to Elijah Adebayo.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ZdRaEIH.jpeg">
+    <img src="https://i.imgur.com/ZdRaEIH.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Elijah Adebayo is in on goal for the goal.</figcaption>
 </figure> 
 

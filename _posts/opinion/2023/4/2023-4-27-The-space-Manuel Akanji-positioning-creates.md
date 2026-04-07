@@ -26,25 +26,25 @@ Akanji is a highly intelligent defender and is elite in 1v1 situations, but he h
 Because of the poor positioning of his body, he will often leave large spaces behind him, forcing Ruben Dias at left center-back to fill that space, which then leaves space behind Dias.
 
 <figure>
-    <img src="https://i.imgur.com/BOZU4t1.jpg">
+    <img src="https://i.imgur.com/BOZU4t1.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Ball is played over Akanji and Dias</figcaption>
 </figure> 
 
 In Figure 1.1, the ball is played over Akanji's head, so Dias steps out to help, but that then leaves space behind Dias for someone to run into. John Stones, at right center-back, can't commit to cover that space behind Dias.
 
 <figure>
-    <img src="https://i.imgur.com/L3ecWkJ.jpg">
+    <img src="https://i.imgur.com/L3ecWkJ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Akanji steps out leaving space behind him.</figcaption>
 </figure>
 
 Akanji jumping in Figure 2.1 is likely by design, he's allowed to do that, but like I said, he's not as agile as Nathan Ake. He could be more careful not to jump in this type of situation because it forces Dias to cover for him.
 
 <figure>
-    <img src="https://i.imgur.com/Y3VFY9o.jpg">
+    <img src="https://i.imgur.com/Y3VFY9o.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Pass to Saka over Akanji's head.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/rXA92ae.jpg">
+    <img src="https://i.imgur.com/rXA92ae.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Akanji recovers the ball.</figcaption>
 </figure> 
 
@@ -61,23 +61,23 @@ He had the space behind him covered.
 Here are two examples from past matches that showcase his lapses in awareness when he played at right-back and right center-back.
 
 <figure>
-    <img src="https://i.imgur.com/jqy4hpW.jpg">
+    <img src="https://i.imgur.com/jqy4hpW.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Against Liverpool, Ake and Dias move but Akanji stays stationary allowing a large space to form between him and Dias.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/0wfLDwr.jpg">
+    <img src="https://i.imgur.com/0wfLDwr.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - The ball is played to Jota between Dias and Akanji.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/t8Ab0xl.jpg">
+    <img src="https://i.imgur.com/t8Ab0xl.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Against Aston Villa, Dias moves but Akanji stays stationary allowing a large space to form centrally. The ball is played to Watkins.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/zIQ7xzD.jpg">
+    <img src="https://i.imgur.com/zIQ7xzD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - What happened against Aston Villa that allowed the goal.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/71ZVAcY.jpg">
+    <img src="https://i.imgur.com/71ZVAcY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.3 - What should have happened against Aston Villa to stop the goal.</figcaption>
 </figure> 
 

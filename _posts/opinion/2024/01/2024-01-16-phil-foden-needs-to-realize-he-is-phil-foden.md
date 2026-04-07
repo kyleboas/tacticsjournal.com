@@ -16,22 +16,22 @@ Phil Foden has been doing a better job of taking risks, but to take his game to 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/y98fNfa.jpeg">
+    <img src="https://i.imgur.com/y98fNfa.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bernardo Silva passes the ball to Phil Foden.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SbW8R3Y.jpeg">
+    <img src="https://i.imgur.com/SbW8R3Y.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Phil Foden prepares his hips to turn.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/cLVa3nu.jpeg">
+    <img src="https://i.imgur.com/cLVa3nu.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Phil Foden lets the ball run across his body while shielding the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/rQSONOA.jpeg">
+    <img src="https://i.imgur.com/rQSONOA.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Phil Foden takes his first touch towards the space infield.</figcaption>
 </figure> 
 
@@ -42,17 +42,17 @@ This is why he's more useful inside, between the lines. When you're on the touch
 Phil is agile but he's not fast. He won't beat Dan Burn in a 40-yard race side to side, but in the smaller distances, you can't catch him. Quick zero to sixty but not fast in a straight line.
 
 <figure>
-    <img src="https://i.imgur.com/GTEvayC.jpeg">
+    <img src="https://i.imgur.com/GTEvayC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Newcastle collapse on Phil Foden.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Ush0pDg.jpeg">
+    <img src="https://i.imgur.com/Ush0pDg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Further collapse and Phil Foden is still carrying.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/TaLEM7R.jpeg">
+    <img src="https://i.imgur.com/TaLEM7R.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Phil Foden passes to Jérémy Doku.</figcaption>
 </figure> 
 
@@ -61,12 +61,12 @@ Last season, [he wasn't progressing the ball forward](https://tacticsjournal.com
 Part of this is confidence, unselfishness, or inexperience. Another part is that Foden has a plan in his head to spread the ball to Gvardiol that Doku doesn't see it or ignores it. 
 
 <figure>
-    <img src="https://i.imgur.com/W6FKOYM.jpeg">
+    <img src="https://i.imgur.com/W6FKOYM.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8 - Jérémy Doku ignores the free man, Josko Gvardiol, and shoots into traffic. The shot gets blocked.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/393zQIP.jpeg">
+    <img src="https://i.imgur.com/393zQIP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.9 - Phil Foden points at Josko Gvardiol, telling Jérémy Doku that he should have passed the ball to Gvardiol.</figcaption>
 </figure> 
 
@@ -75,7 +75,7 @@ You can see Foden telling Doku who the intended target was. Gvardiol gets the ba
 But Doku has that selfish trait. He takes the shot and Foden does not. Sure, Foden is surrounded by the time he plays the pass, but he had a moment to get off a quick shot into either corner, on the ground. 
 
 <figure>
-    <img src="https://i.imgur.com/gTZijTr.gif">
+    <img src="https://i.imgur.com/gTZijTr.gif" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Phil Foden goal against Everton on December 27, 2023.</figcaption>
 </figure> 
 
@@ -84,12 +84,12 @@ Foden has the quality to rocket a shot into the bottom corner from outside the b
 If you miss, you miss. It's worth it to take the risk when you are that clinical. It's all volume. Sometimes you need to take one to warm up to get the next on target, but you can't score if you don't attempt it. 
 
 <figure>
-    <img src="https://i.imgur.com/yKe2hRT.jpeg">
+    <img src="https://i.imgur.com/yKe2hRT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Kevin De Bruyne is in uncontested.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/1yGYVSy.jpeg">
+    <img src="https://i.imgur.com/1yGYVSy.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Kevin De Bruyne shoots and scores through the legs of the defender.</figcaption>
 </figure> 
 

@@ -16,22 +16,22 @@ May 5, 2023 - Manchester United did an incredible job at always maintaining nume
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/uTek80N.jpg">
+    <img src="https://i.imgur.com/uTek80N.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - 6v3</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/acX4lYn.jpg">
+    <img src="https://i.imgur.com/acX4lYn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - 5v2 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vydAIa4.jpg">
+    <img src="https://i.imgur.com/vydAIa4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - 4v2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/WdFFujT.jpg">
+    <img src="https://i.imgur.com/WdFFujT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - 4v2</figcaption>
 </figure>  
 
@@ -40,7 +40,7 @@ Throughout the season Manchester United have had issues in the second half of ma
 This obsession with having a +1 in transition might be contributing to their lack of energy at the end of matches. 90 minutes of full sprinting up and down the pitch is not sustainable. 
 
 <figure>
-    <img src="https://i.imgur.com/ZMMHlMx.jpg">
+    <img src="https://i.imgur.com/ZMMHlMx.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Out of possession shape of Brighton and Manchester United. Image courtesy <a href="https://twitter.com/datobhj/status/1654276483266019328?s=46&t=YC8lQJTh43E_mBQW40Ct2g">@DatoBHJ</a></figcaption>
 </figure> 
 

@@ -19,7 +19,7 @@ September 19, 2023 — You want your center-forward receiving the ball in the ce
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/BrnHplw.jpg">
+    <img src="https://i.imgur.com/BrnHplw.jpg" loading="lazy" decoding="async">
     <figcaption>Erling Haaland, 2023, Pass Receptions</figcaption>
 </figure> 
 
@@ -30,21 +30,21 @@ The yellow box is the danger zone. This is the area that creators aim for and go
 Manchester City peppers that area and tees Haaland up so he has the best chance at scoring.
 
 <figure>
-    <img src="https://i.imgur.com/KIGMoPs.jpg">
+    <img src="https://i.imgur.com/KIGMoPs.jpg" loading="lazy" decoding="async">
     <figcaption>Odsonne Edouard, Crystal Palace, 2023, Pass Receptions</figcaption>
 </figure> 
 
 Odsonne Edouard has flown under the radar and scored 4 goals from 2.6 npxG (non-penalty xG). Crystal Palace continually feeds him through balls through the center so he can go one-on-one with the keeper. 
 
 <figure>
-    <img src="https://i.imgur.com/u9KigdJ.jpg">
+    <img src="https://i.imgur.com/u9KigdJ.jpg" loading="lazy" decoding="async">
     <figcaption>Evan Ferguson, Brighton, 2023, Pass Receptions </figcaption>
 </figure> 
 
 Brighton drives to the touch-line and then squares it back to Evan Ferguson. 4 goals from 2.6 npxG.
 
 <figure>
-    <img src="https://i.imgur.com/DvD4V3G.jpg">
+    <img src="https://i.imgur.com/DvD4V3G.jpg" loading="lazy" decoding="async">
     <figcaption>Son Heung-Min, Tottenham, 2023, Pass Receptions </figcaption>
 </figure> 
 
@@ -53,7 +53,7 @@ When Son Heung-Min converted to a center-forward from left-wing against Burnley,
 It's not at a poor angle on the side and quick, it's right in the center at an easy speed. Give the goalscorer the choice to pick his corner.
 
 <figure>
-    <img src="https://i.imgur.com/NnTLUv6.jpg">
+    <img src="https://i.imgur.com/NnTLUv6.jpg" loading="lazy" decoding="async">
     <figcaption>Nicolas Jackson, Chelsea, 2023, Pass Receptions </figcaption>
 </figure> 
 
@@ -62,19 +62,19 @@ Now compare that to Nicolas Jackson at Chelsea this season, and you can see the 
 This may seem obvious, but Chelsea needs to focus their effort on providing Jackson passes through the middle that he can run onto. 
 
 <figure>
-    <img src="https://i.imgur.com/timnfHB.jpg">
+    <img src="https://i.imgur.com/timnfHB.jpg" loading="lazy" decoding="async">
     <figcaption>Nicolas Jackson, Villarreal, 2022, Pass Receptions </figcaption>
 </figure> 
 
 And compare this season with Chelsea to last season with Villarreal. Jackson needs those through balls, central, towards goal, that allow him to run onto the ball in stride and shoot facing the goal.
 
 <figure>
-    <img src="https://i.imgur.com/wQVGc9b.jpg">
+    <img src="https://i.imgur.com/wQVGc9b.jpg" loading="lazy" decoding="async">
     <figcaption>Nicolas Jackson miss against Liverpool</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/1ld3RqQ.jpg">
+    <img src="https://i.imgur.com/1ld3RqQ.jpg" loading="lazy" decoding="async">
     <figcaption>Nicolas Jackson miss against Nottingham Forest</figcaption>
 </figure> 
 

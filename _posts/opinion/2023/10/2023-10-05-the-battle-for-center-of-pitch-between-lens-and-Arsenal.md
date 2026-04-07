@@ -30,17 +30,17 @@ Later in the 2nd half, Leandro Trossard moved to center-forward with Gabriel Jes
 Kai Havertz is very stiff and slow to play the ball. He appears like he's playing at half speed, not in sync with the rest of the Arsenal squad. This has begun to improve slowly as each match goes but Fabio Vierira has looked more comfortable in his natural center-mid position in place of Kai Havertz when he has been played there.
 
 <figure>
-    <img src="https://i.imgur.com/0qOWj32.jpg">
+    <img src="https://i.imgur.com/0qOWj32.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Takehiro Tomiyasu starts his overlapping run, behind Bukayo Saka, as two Lens defenders move to challenge Saka.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/3CPz7Uy.jpg">
+    <img src="https://i.imgur.com/3CPz7Uy.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Bukayo Saka sees Takehiro Tomiyasu making the run.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/BkobKbi.jpg">
+    <img src="https://i.imgur.com/BkobKbi.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Bukayo Saka passes to an unmarked Takehiro Tomiaysu.</figcaption>
 </figure> 
 

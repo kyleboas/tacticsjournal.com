@@ -7,7 +7,7 @@ categories:
 tags:
 - "Manchester City"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_18:40:43.png"
+image: "/images/uploads/2025/09/27/Image-27Sep2025_18:40:43.png"
 ---
 
 I can’t unsee how effective a midfielder dropping and maintaining six or more yards of separation is to help break up a compact defense. I wish more teams rotated midfielders back like this to unlock space for easier central progression.
@@ -15,7 +15,7 @@ I can’t unsee how effective a midfielder dropping and maintaining six or more 
 <!---more--->
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_19:03:38.png">
+<img src="/images/uploads/2025/09/27/Image-27Sep2025_19:03:38.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.1 - Nico Gonzalez drops to offer himself up for the pass and then passing options once he receives the ball.</figcaption>
 </figure>
 
@@ -30,14 +30,14 @@ Nico Gonzalez will often drop back to offer up a safe progressive pass when they
 When he achieves five or fewer yards of separation from the man marking him, the Burnley defender in the second line doesn't have enough incentive to follow him and jump when he drops. That forces Nico to play the ball wide to keep circulating play. The central space stays clogged, and Burnley remains compact.
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_18:40:39.png">
+<img src="/images/uploads/2025/09/27/Image-27Sep2025_18:40:39.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.2 - Passing options are central if the Burnley defender jumps to challenge Nico Gonzalez.</figcaption>
 </figure>
 
 When Nico gets six or more yards of separation, his marker has incentive to jump. If they don't jump, he can continue to circulate the ball, but if the defender jumps, notice now the space for Foden and Reijnders increases. They gain separation from their markers, and space opens centrally.
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_19:21:34.png">
+<img src="/images/uploads/2025/09/27/Image-27Sep2025_19:21:34.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.3 - Burnley contract towards the ball, and Tijjani Reijnders plays the ball through to the forwards into the box.</figcaption>
 </figure>
 
@@ -46,12 +46,12 @@ Now you play the pass central to Foden or Reijnders. Burnley starts compact; the
 The defense is compact; they expand, they contract, they expand, they contract, and then you score a goal. But you need them to expand or contract.
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_18:40:43.png">
+<img src="/images/uploads/2025/09/27/Image-27Sep2025_18:40:43.png" loading="lazy" decoding="async">
 <figcaption>Figure 2.1 - Phil Foden drops, and Nico Gonzalez moves forward.</figcaption>
 </figure>
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_18:40:47.png">
+<img src="/images/uploads/2025/09/27/Image-27Sep2025_18:40:47.png" loading="lazy" decoding="async">
 <figcaption>Figure 2.2—Passing options for Phil Foden once he receives the ball.</figcaption>
 </figure>
 
@@ -64,12 +64,12 @@ Pass to that midfielder, and then force the opposition's defense to jump. Then w
 Then you should have at least one pass open centrally and a free man on the wing because defenders are getting dragged inside.
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_18:40:57.png">
+<img src="/images/uploads/2025/09/27/Image-27Sep2025_18:40:57.png" loading="lazy" decoding="async">
 <figcaption>Figure 3.1 - Tijjani Reijnders drops to receive the ball with six or more yards of space. Nico Gonzalez does not move forward.</figcaption>
 </figure>
 
 <figure>
-<img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_18:41:01.png">
+<img src="/images/uploads/2025/09/27/Image-27Sep2025_18:41:01.png" loading="lazy" decoding="async">
 <figcaption>Figure 3.2—Passing options for Tijjani Reijnders.</figcaption>
 </figure>
 

@@ -16,12 +16,12 @@ The selfishness to try to do it all on your own and the lack of movement when th
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/rCj2Je8.jpg">
+    <img src="https://i.imgur.com/rCj2Je8.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Malo Gusto on the overlap with Manchester United drawn to Cole Palmer. Nicolas Jackson is free in the box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/aMhROYA.jpeg">
+    <img src="https://i.imgur.com/aMhROYA.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Cole Palmer takes the shot and it's easily saved.</figcaption>
 </figure> 
 
@@ -34,12 +34,12 @@ Once those 30 minutes end, the patterns become predictable. Cole Palmer receives
 Doing it all on your own only works in short periods. After a while you are double and triple-teamed, then you constantly lose possession. The shot is blocked or saved, he misses. Chances elsewhere are wasted.
 
 <figure>
-    <img src="https://i.imgur.com/oAeuEEJ.jpeg">
+    <img src="https://i.imgur.com/oAeuEEJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Carney Chukwuemeka is open for a wall pass to an onrushing Enzo Fernandez into the box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/86IKWm7.jpeg">
+    <img src="https://i.imgur.com/86IKWm7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Cole Palmer doesn't pass to Carney Chukwuemeka, who's open to turn into the box, and instead shoots into traffic. The shot is blocked. </figcaption>
 </figure> 
 
@@ -59,12 +59,12 @@ Then there's in-between players like Caicedo, Gusto, Madueke, Gilchrist, Chaloba
 You'll notice these cliques because the players in the second group won't make runs when the players in the first group have the ball. Compare it to when a player in the second group has the ball. Their run is purposeful, they're on the same page, the pass arrives in time. When the first group has the ball, why make the run when you know you won't get the ball? 
 
 <figure>
-    <img src="https://i.imgur.com/GE3a6r5.jpeg">
+    <img src="https://i.imgur.com/GE3a6r5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Axel Disasi plays a through ball to Nicolas Jackson. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/tuLb5O2.jpeg">
+    <img src="https://i.imgur.com/tuLb5O2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Nicolas Jackson takes the shot. Look at the space for Enzo Fernandez and Cole Palmer.</figcaption>
 </figure> 
 

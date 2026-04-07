@@ -4,7 +4,7 @@ date: 2024-09-21 11:00 UTC
 title: "Dummying the ball"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_01:52:54.png"
+image: "/images/uploads/2024/09/21/Image-21Sep2024_01:52:54.png"
 ---
 
 Dummying the ball is an underutilized way of disguising who the pass is intended for. Two players align with the passer, the man dummying the ball lets the ball run through their legs, and the third man receives. This plants the feet of the defenders.
@@ -12,11 +12,11 @@ Dummying the ball is an underutilized way of disguising who the pass is intended
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_01:30:54.png">
+    <img src="/images/uploads/2024/09/21/Image-21Sep2024_01:30:54.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The passer aligns with two forwards on a diagonal, and the ball is dummied to the center-forward. </figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_01:30:56.png">
+    <img src="/images/uploads/2024/09/21/Image-21Sep2024_01:30:56.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - The ball is played through to the player that dummied the ball.</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Then, in **Figure 1.2**, that player that dummies the ball can immediately peel 
 Aligning on that diagonal is a conscious choice. All three players will know where each other are, and that's why they can execute this. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_01:30:57.png">
+    <img src="/images/uploads/2024/09/21/Image-21Sep2024_01:30:57.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - An initial pass, dummy, and ball through to the player dummying the ball.</figcaption>
 </figure>
 
@@ -38,11 +38,11 @@ The players marking the forward dummying the ball are ready for that first touch
 That deception buys the forward receiving a few seconds more time to play the ball through on their first touch, and the defenders marking the forward dummying the ball are frozen, stuck engaging the first touch as that forward surges into the box. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_01:30:58.png">
+    <img src="/images/uploads/2024/09/21/Image-21Sep2024_01:30:58.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - The passer passes and moves as the ball is played to the center-forward, with another player dummying the ball.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_01:31:00.png">
+    <img src="/images/uploads/2024/09/21/Image-21Sep2024_01:31:00.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - The ball is passed back to the passer from the center-forward.</figcaption>
 </figure>
 

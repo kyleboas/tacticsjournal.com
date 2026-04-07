@@ -32,7 +32,7 @@ Give most of the credit to the players first for most in-game changes against Ba
 But also give credit to Carlo Ancelotti because he became the first manager in history to reach six Champions League Finals (AC Milan 2003, 2005, 2007; Real Madrid 2014, 2022, 2024). He has won four of five (AC Milan 2003, 2007; Real Madrid 2014, 2022).
 
 <figure>
-    <img src="https://i.imgur.com/TEdJTvj.jpeg">
+    <img src="https://i.imgur.com/TEdJTvj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Rodrygo joining Vinicius Jr. and Jude Bellingham on the left-wing to overload Bayern Munich right-back Joshua Kimmich.</figcaption>
 </figure> 
 
@@ -43,7 +43,7 @@ A positive to Real Madrid's approach to allow Rodrygo to drift over to the left-
 Vincius Jr., Bellingham, and Rodrygo versus Borussia Dortmund right-back Julian Ryerson could be a mis-match in the final. 
 
 <figure>
-    <img src="https://i.imgur.com/TDzsb4U.jpeg">
+    <img src="https://i.imgur.com/TDzsb4U.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bayern Munich surrounding the ball with five players.</figcaption>
 </figure> 
 

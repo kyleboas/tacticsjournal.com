@@ -17,17 +17,17 @@ When Malmö overloads one of the wings to crowd around the ball, don't watch the
 <!---more---> 
 
 <figure>
-    <img src="https://i.imgur.com/2iLTxpn.jpeg">
+    <img src="https://i.imgur.com/2iLTxpn.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Kalmar shifts over to defend against Malmö's overload on the right-wing, as they switch to the left-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/FTngOFf.jpeg">
+    <img src="https://i.imgur.com/FTngOFf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Kalmar attempts to collapse on the ball as Malmö overloads the right-wing in transition from defense.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Vuy8RF9.jpeg">
+    <img src="https://i.imgur.com/Vuy8RF9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Kalmar shifts over to defend against Malmö's overload on the right-wing as they switch to the left-wing.</figcaption>
 </figure> 
 
@@ -36,7 +36,7 @@ Modern rigid defensive shapes aren't made to follow all this movement. You can't
 Shift as a unit, and then the free man is there on the far-side. We normally say overload to isolate, but that underplays it, that is an acre of space.
 
 <figure>
-    <img src="https://i.imgur.com/SRrWEML.jpeg">
+    <img src="https://i.imgur.com/SRrWEML.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Kalmar contract central leaving Malmö space open to the wings.</figcaption>
 </figure> 
 

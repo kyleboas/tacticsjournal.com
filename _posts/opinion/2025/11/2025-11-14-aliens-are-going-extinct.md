@@ -4,7 +4,7 @@ date: 2025-11-14 11:00 UTC
 title: "Aliens are going extinct"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/13/Image-13Nov2025_22:54:03.png"
+image: "/images/uploads/2025/11/13/Image-13Nov2025_22:54:03.png"
 ---
 
 Footballers like Pirlo, Nedved, or Zico don't exist in our mind today because we are overexposed to football. If a new movie was released by an actor every week instead of every other year, that actor would feel less special to us.

@@ -4,7 +4,7 @@ date: 2025-10-20 11:00 UTC
 title: "Putting makeup on a pig"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/19/Image-19Oct2025_15:56:11.png"
+image: "/images/uploads/2025/10/19/Image-19Oct2025_15:56:11.png"
 ---
 
 We put too much emphasis on the manager's role in the game. Sometimes the players are the problem, and sometimes they are the solution, but they are first. They are the reason the play happened, not everything is by design.

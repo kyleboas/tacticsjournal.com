@@ -17,17 +17,17 @@ There was a moment after a corner kick when Manchester United allowed Liverpool 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/QtOiy8X.jpeg">
+    <img src="https://i.imgur.com/QtOiy8X.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Liverpool building up from the back after a Manchester United corner.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ZYIWyKL.jpeg">
+    <img src="https://i.imgur.com/ZYIWyKL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ball is played forward to Dominik Szoboszlai. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DJ5x8tD.jpg">
+    <img src="https://i.imgur.com/DJ5x8tD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Liverpool transitioning to attack with 40 yards of space.</figcaption>
 </figure> 
 
@@ -44,12 +44,12 @@ It has to be an instruction from the coach. Erik Ten Hag never looked upset with
 > "Maybe after a free kick, Ten Hag was imploring his defenders to stay high, and they dropped and he slapped his hands together in frustration which led to Szoboszlai having a lot of space in midfield to run through" - [Laurie Whitwell on Talk of the Devils](https://x.com/everydaymufc22/status/1769797741020942482?s=46&t=YC8lQJTh43E_mBQW40Ct2g)
 
 <figure>
-    <img src="https://i.imgur.com/n6aQmNk.jpeg">
+    <img src="https://i.imgur.com/n6aQmNk.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Space between the back line and second line.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0fgnpd0.jpeg">
+    <img src="https://i.imgur.com/0fgnpd0.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Space between the back line and second line when Manchester United press higher.</figcaption>
 </figure> 
 

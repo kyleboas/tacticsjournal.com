@@ -21,36 +21,36 @@ Newly appointed Germany manager, Julian Nagelsmann, before the match:
 
 
 <figure>
-    <img src="https://i.imgur.com/n81nmdP.jpg">
+    <img src="https://i.imgur.com/n81nmdP.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Possession starts for Germany. Kai Havertz prepares to move forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/8DkAx09.jpg">
+    <img src="https://i.imgur.com/8DkAx09.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Kai Havertz moves forward in line with Germany's front-line.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/68VnJio.jpg">
+    <img src="https://i.imgur.com/68VnJio.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Germany advance the ball into Turkey's end. Kai Havertz remains further forward.</figcaption>
 </figure> 
 
 It oversimplifies a more complicated process to then form an opinion solely off of the word "left-back" without seeing where Havertz played during the match.
 
 <figure>
-    <img src="https://i.imgur.com/lk5dZaG.jpg">
+    <img src="https://i.imgur.com/lk5dZaG.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Illustration of Manchester City's two modes in possession. Notice Kyle Walker's role further forward.</figcaption>
 </figure> 
 
 I would compare Havertz's position to [that of Kyle Walker for Manchester City](https://tacticsjournal.com/2023/11/06/manchester-citys-slow-buildup-deep-counters-bournemouths-low-block/). Walker starts at a more traditional right-back position, and he can stay back if needed, but he will move forward to allow Bernardo Silva to invert infield. 
 
 <figure>
-    <img src="https://i.imgur.com/S0peqQd.jpg">
+    <img src="https://i.imgur.com/S0peqQd.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Kai Havertz moves wide when Kieran Tierney inverts.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/I9HbBb7.jpg">
+    <img src="https://i.imgur.com/I9HbBb7.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Kai Havertz advances with the ball uncontested, and Arsenal have a 5v4.</figcaption>
 </figure> 
 
@@ -65,7 +65,7 @@ Julian Nagelsmann [after the match](https://www.getfootballnewsgermany.com/2023/
 > "Kai said he wanted to do it, wanted to try it. I don’t see this as a risk for him, but as a very, very big opportunity to play a key role at the Euros. For the first time in an unfamiliar position, he did extremely well and probably was our best player."
 
 <figure>
-    <img src="https://i.imgur.com/U6e2f45.jpg">
+    <img src="https://i.imgur.com/U6e2f45.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - In the second phase of a set-piece, Leroy Sané cuts back a pass to Kai Havertz for the goal.</figcaption>
 </figure> 
 
@@ -74,12 +74,12 @@ And Kai Havertz scoring in the first 5 minutes has nothing to do with him playin
 This goal is an example of how well he can find space. He's an intelligent player. He's like [Thomas Muller or Jude Bellingham](https://tacticsjournal.com/2023/10/31/jude-bellingham-the-worlds-best-interpreter-of-space/) but without the necessary skill to finish chances. Raumdeuter.
 
 <figure>
-    <img src="https://i.imgur.com/h14Pm6r.jpg">
+    <img src="https://i.imgur.com/h14Pm6r.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Germany counter-pressing; Kai Havertz is further forward, in-line with Leroy Sané.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/8bKnhfs.jpg">
+    <img src="https://i.imgur.com/8bKnhfs.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Kai Havertz back to defend deep in Germany's half.</figcaption>
 </figure> 
 

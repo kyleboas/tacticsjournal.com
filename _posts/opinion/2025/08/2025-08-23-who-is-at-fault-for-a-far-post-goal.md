@@ -7,7 +7,7 @@ categories:
 tags:
 - "West Ham"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:51:23.png"
+image: "/images/uploads/2025/08/22/Image-22Aug2025_19:51:23.png"
 ---
 
 When you are playing in a back five and you give up a goal on the far post, who is at fault for the goal? The answer is the entire team, and this is a perfect example from West Ham against Chelsea.
@@ -15,19 +15,19 @@ When you are playing in a back five and you give up a goal on the far post, who 
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:19:27.png">
+    <img src="/images/uploads/2025/08/22/Image-22Aug2025_19:19:27.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Malick Diouf passes to Lucas Paqueta.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:19:31.png">
+    <img src="/images/uploads/2025/08/22/Image-22Aug2025_19:19:31.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Lucas Paqueta is tackled.</figcaption>
 </figure>
 
 It starts off as a normal play, passing out from the back. Then Lucas Paqueta is bodied off the ball. Now West Ham are immediately under pressure in full reaction mode. Get into position; prepare to defend against the immediate chance.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:19:36.png">
+    <img src="/images/uploads/2025/08/22/Image-22Aug2025_19:19:36.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Joao Pedro drives forward with the ball into the box.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ They should prioritize Enzo Fernandez in the center of the box first, which they
 Then they need to ensure the cross is blocked to the far post. I don't care if they have it covered, in my opinion, the pass to Pedro Neto should be blocked. Reason being, it is a very awkward pass to defend for the far side center-back, Jean-Clair Todibo. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:19:45.png">
+    <img src="/images/uploads/2025/08/22/Image-22Aug2025_19:19:45.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Joao Pedro crosses to Pedro Neto on the far post.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ It is a domino effect. If Soucek cuts down the space in time, and Aguerd doesn't
 James Ward-Prowse sees the pass into Enzo Fernandez is shut off; he then backs off to cover the top of the box to defend against a cutback.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:19:55.png">
+    <img src="/images/uploads/2025/08/22/Image-22Aug2025_19:19:55.png" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Pedro Neto scores.</figcaption>
 </figure>
 

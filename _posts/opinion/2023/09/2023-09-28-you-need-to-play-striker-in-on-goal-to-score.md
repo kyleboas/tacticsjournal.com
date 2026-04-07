@@ -24,7 +24,7 @@ Up until the Aston Villa match on the weekend, Chelsea did not play Nicolas Jack
 Today, Jackson was paired with new signing Cole Palmer, and Palmer has the pausa and composure to play those central passes, towards the penalty spot, that Christopher Nkunku would be playing him if he wasn't injured. 
 
 <figure>
-    <img src="https://i.imgur.com/kG5HW5b.jpg">
+    <img src="https://i.imgur.com/kG5HW5b.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Ian Maatsen passes to Cole Palmer. Jan Paul Van Hecke helps close down Palmer, leaving Nicolas Jackson free.</figcaption>
 </figure> 
 
@@ -35,27 +35,27 @@ Strikers need someone behind them to play off of. It's very important. To drag d
 When Nkunku left the side from injury, Jackson had no one to play off of. Enzo Fernandez wasn't drawing any attention away from Jackson nor was he playing that final pass straight in on goal.
 
 <figure>
-    <img src="https://i.imgur.com/yVQ8cWy.jpg">
+    <img src="https://i.imgur.com/yVQ8cWy.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ian Maatsen receives the ball, Jan Paul van Hecke follows Cole Palmer.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/WgINOKH.jpg">
+    <img src="https://i.imgur.com/WgINOKH.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Cole Palmer receives the ball with his back to goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/JEOk0pC.jpg">
+    <img src="https://i.imgur.com/JEOk0pC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Cole Palmer puts the ball between his legs on his first touch to turn.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/6Pv06On.jpg">
+    <img src="https://i.imgur.com/6Pv06On.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Cole Palmer calmly takes a touch and then passes to Nicolas Jackson through Jan Paul van Hecke's legs.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/JJOWf0t.jpg">
+    <img src="https://i.imgur.com/JJOWf0t.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Nicolas Jackson scores.</figcaption>
 </figure> 
 
@@ -66,22 +66,22 @@ I'd only become worried if Jackson misses these types of chances. These must be 
 He hasn't been clinical in this short span to start the season, but long-term this is the context that's needed when judging if a player is clinical or not. Are you scoring these simple chances.
 
 <figure>
-    <img src="https://i.imgur.com/9ilS2Ug.jpg">
+    <img src="https://i.imgur.com/9ilS2Ug.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Mykhaylo Mudryk drives inside and then plays Nicolas Jackson in.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/iCoLf9i.jpg">
+    <img src="https://i.imgur.com/iCoLf9i.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Another angle of the pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/qk1qbCf.jpg">
+    <img src="https://i.imgur.com/qk1qbCf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Nicolas Jackson is in on goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/El4Fviv.jpg">
+    <img src="https://i.imgur.com/El4Fviv.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Nicolas Jackson shoots and Jan Paul van Hecke attempts to tackle Jackson. Bart Verbruggen blocks the near post while showing Jackson the far side.</figcaption>
 </figure> 
 
@@ -90,17 +90,17 @@ This chance is also great, another one created by Mudryk, but it's to the side s
 These are the chances you don't finish if your confidence is low. 
 
 <figure>
-    <img src="https://i.imgur.com/OF5PZlv.jpg">
+    <img src="https://i.imgur.com/OF5PZlv.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Another angle of the shot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/3ljfcFv.jpg">
+    <img src="https://i.imgur.com/3ljfcFv.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Bart Verbruggen save with his left foot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/MGjstHa.jpg">
+    <img src="https://i.imgur.com/MGjstHa.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.7 - Another angle of the save.</figcaption>
 </figure> 
 
@@ -109,12 +109,12 @@ Jackson has no confidence right now. The first goal will help, but he needs more
 Take a bow Bart Verbruggen. What a remarkable save from the Brighton keeper to show Jackson to the far side and then the technique to stick out a leg and firmly block the shot. Jackson should have placed it higher, between Verbruggen's outstretched arm and his leg, but fair play to the goalkeeper. Positioned himself perfectly to cut off the angle as best he could. 
 
 <figure>
-    <img src="https://i.imgur.com/DkuKw3J.jpg">
+    <img src="https://i.imgur.com/DkuKw3J.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Gallagher great run to open the space for Mudryk to play in Jackson. 1st time Jackson has been played straight in on goal like this, this season.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/kW07O5x.jpg">
+    <img src="https://i.imgur.com/kW07O5x.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Emi Martinez save with his right palm.</figcaption>
 </figure> 
 
@@ -127,19 +127,19 @@ Martinez is a massive individual, so he makes himself big and sprawls out, almos
 Correct decision in my opinion from Jackson to try the chip to Martinez's right side rather than try to dribble past him. Martinez would have had that fully covered.
 
 <figure>
-    <img src="https://i.imgur.com/sIs5kw9.jpg">
+    <img src="https://i.imgur.com/sIs5kw9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Pass to Cole Palmer with the angle of Nicolas Jackson's run in on goal waiting.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SPAzCEQ.jpg">
+    <img src="https://i.imgur.com/SPAzCEQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Cole Palmer attracts the attention of both of Brighton's center-backs. Palmer swiftly turns and passes to Nicolas Jackson.</figcaption>
 </figure> 
 
 Again a chance from Palmer drawing Brighton's defenders in. Look at the angle Jackson is attacking the goal. Direct straight towards the penalty area. 
 
 <figure>
-    <img src="https://i.imgur.com/daQYOGt.jpg">
+    <img src="https://i.imgur.com/daQYOGt.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Nicolas Jackson scores.</figcaption>
 </figure> 
 

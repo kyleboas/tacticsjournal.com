@@ -27,7 +27,7 @@ The main point from the video being how they plan a warm-up based on the next ga
 It's not only the rotation within the lineups game to game, it's the little details like this that allow the team to properly recover. 
 
 <figure>
-    <img src="https://i.imgur.com/K4F84oa.png">
+    <img src="https://i.imgur.com/K4F84oa.png" loading="lazy" decoding="async">
 </figure> 
 
 Buenaventura joined Guardiola at Barcelona in 2008 and followed him along to Bayern Munich, and then Manchester City.

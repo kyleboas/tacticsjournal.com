@@ -17,12 +17,12 @@ Christopher Nkunku stood out for Chelsea when he came on against Newcastle becau
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/PyruKPn.jpg">
+    <img src="https://i.imgur.com/PyruKPn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Cole Palmer receives the ball. Christopher Nkunku begins his run behind Newcastle's second line.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ognuiOY.jpg">
+    <img src="https://i.imgur.com/ognuiOY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Cole Palmer chips the ball to Christopher Nkunku.</figcaption>
 </figure> 
 
@@ -33,7 +33,7 @@ The finishing has been poor, but the main reason for why Chelsea have trouble ag
 Connor Galagher and Enzo Fernandez are world-class but they are slower moving. When they receive the ball they won't draw a defender towards them and they will never worry a defense if they attempt to carry the ball forward. They will never make a run like the one seen in this example by Nkunku, and if they do it's rare.
 
 <figure>
-    <img src="https://i.imgur.com/DkuKw3J.jpg">
+    <img src="https://i.imgur.com/DkuKw3J.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Connor Gallagher's great run to open the space for Mykhaylo Mudryk to play in Nicolas Jackson. 1st time Nicolas Jackson was played straight in on goal like this, this season.</figcaption>
 </figure> 
 
@@ -42,17 +42,17 @@ When they did make the rare run, like Conor Gallagher did in this example from t
 Cole Palmer will carry to drag a defender out, but he's not explosive or fast like Nkunku. If Palmer makes a run it's not going to worry a defender to make them jump or retreat back. 
 
 <figure>
-    <img src="https://i.imgur.com/OfEXMWZ.jpg">
+    <img src="https://i.imgur.com/OfEXMWZ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Christopher Nkunku controls the ball with his back to lay the ball off to Armando Broja.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/G5qdJ4l.jpg">
+    <img src="https://i.imgur.com/G5qdJ4l.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Armando Broja collects the ball and draws in two Newcastle defenders. Space for runs in the channels and on the right-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/fubXBtn.jpg">
+    <img src="https://i.imgur.com/fubXBtn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Armando Broja attempts to pass to Christopher Nkunku. Tons of space on the right side.</figcaption>
 </figure> 
 

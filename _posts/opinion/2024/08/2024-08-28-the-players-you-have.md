@@ -7,7 +7,7 @@ categories:
 tags:
 - "Manchester City"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/28/Image-28Aug2024_01:53:29.png"
+image: "/images/uploads/2024/08/28/Image-28Aug2024_01:53:29.png"
 ---
 
 The tactical changes that Manchester City made this season are a result of the players that they don't have, some luck, and immense versatility. It is tailored towards runners, but what happens when those players are subbed off? It changes.
@@ -15,7 +15,7 @@ The tactical changes that Manchester City made this season are a result of the p
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/28/Image-28Aug2024_01:53:27.png">
+    <img src="/images/uploads/2024/08/28/Image-28Aug2024_01:53:27.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Kevin De Bruyne rotates wide left and plays a ball over the top.</figcaption>
 </figure>
 

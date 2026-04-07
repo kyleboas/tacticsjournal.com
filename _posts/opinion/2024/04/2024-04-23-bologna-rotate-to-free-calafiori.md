@@ -16,17 +16,17 @@ Bologna's rotations are unique. Defender Riccardo Calafiori likes to carry forwa
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/zq1arTU.jpeg">
+    <img src="https://i.imgur.com/zq1arTU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Riccardo Calafiori is closed down.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/eQskVno.jpeg">
+    <img src="https://i.imgur.com/eQskVno.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Roma win the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Oysjmit.jpeg">
+    <img src="https://i.imgur.com/Oysjmit.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Riccardo Calafiori is closed down.</figcaption>
 </figure> 
 
@@ -35,58 +35,58 @@ Roma gave Calafiori a lot of space to receive initially, before the pass, when t
 Bologna had to free Calafiori and open that space wide. 
 
 <figure>
-    <img src="https://i.imgur.com/0w6oUzx.jpeg">
+    <img src="https://i.imgur.com/0w6oUzx.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Bologna prepare to move when Roma pressure Riccardo Calafiori.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sRnZvy6.jpeg">
+    <img src="https://i.imgur.com/sRnZvy6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Bologna's finished movement when Riccardo Calafiori is closed down. He is forced to pass back.</figcaption>
 </figure> 
 
 Their first attempt was this. An elaborate movement with Lucumi moving wide left, Aebischer dropping, and El Azzouzi filling the space Lucumi moved from. Calafiori was forced to pass back to the goalkeeper due to a lack of space and passing options forward. 
 
 <figure>
-    <img src="https://i.imgur.com/WiGC9qY.jpeg">
+    <img src="https://i.imgur.com/WiGC9qY.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Riccardo Calafiori moves into the midfield.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7GIYboL.jpeg">
+    <img src="https://i.imgur.com/7GIYboL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Michel Aebischer moves back to the position Jhon Lucumi took up.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/e4rbiW9.jpeg">
+    <img src="https://i.imgur.com/e4rbiW9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Jhon Lucumi moves wide left, and Michel Aebischer receives the ball.</figcaption>
 </figure> 
 
 The second attempt was this. Instead of having Calafiori stay wide left, he inverted into the midfield, while Aebischer moved back to the back-line, and Lucumi moved wide left again. You can see Bologna manager Thiago Motta motioning to Calafiori to move into the midfield.  
 
 <figure>
-    <img src="https://i.imgur.com/MHOfhNI.jpeg">
+    <img src="https://i.imgur.com/MHOfhNI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.4 - Michel Aebischer passes central.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/mpgd4T2.jpeg">
+    <img src="https://i.imgur.com/mpgd4T2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.5 - Riccardo Calafiori intercepts the pass near the half-way line.</figcaption>
 </figure> 
 
 Calafiori lost possession here but Roma are wide open. Look how much space he has if he takes that touch towards the half-way line. Roma will now have to think twice before placing all their chips on pressuring Calafiori because before you know it, he'll be playing left-wing, or center-forward. [Positions don't matter in Thiago Motta's system](https://tacticsjournal.com/2024/03/29/the-relational-phase/).
 
 <figure>
-    <img src="https://i.imgur.com/34KNZrm.jpeg">
+    <img src="https://i.imgur.com/34KNZrm.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Riccardo Calafiori has more space the next time he receives the ball, but is still pressured by Roma. Jhon Lucumi rotated wide left to create space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/6AjcmI5.jpeg">
+    <img src="https://i.imgur.com/6AjcmI5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Riccardo Calafiori closed down.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4MhIJHl.jpeg">
+    <img src="https://i.imgur.com/4MhIJHl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Riccardo Calafiori with tons of space to carry into on the third opportunity to receive from the back.</figcaption>
 </figure> 
 

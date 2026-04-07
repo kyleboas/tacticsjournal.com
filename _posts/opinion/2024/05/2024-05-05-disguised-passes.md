@@ -12,7 +12,7 @@ Creating space doesn't only have to come from carrying or an off-the-ball run; s
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/RkG6rja.jpeg">
+    <img src="https://i.imgur.com/RkG6rja.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Pep Guardiola plays a disguised pass forward with his shoulders pointed sideways.</figcaption>
 </figure> 
 

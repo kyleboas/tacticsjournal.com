@@ -7,7 +7,7 @@ categories:
 tags:
 - "Manchester City"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_00:40:40.png"
+image: "/images/uploads/2024/07/29/Image-29Jul2024_00:40:40.png"
 ---
 
 Erling Haaland scanned ahead six times in the span of ten seconds before Oscar Bobb cut the ball back to him for his goal. We take each goal for granted because we don't pay close enough attention to the amount of scanning a player performs.
@@ -15,34 +15,34 @@ Erling Haaland scanned ahead six times in the span of ten seconds before Oscar B
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:01:23.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:01:23.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of the path Oscar Bobb took to pass to Erling Haaland.</figcaption>
 </figure>
 
 The play starts on the right wing. When Erling Haaland scans forward, he is going to notice the defenders are retreating back towards their own goal, and Haaland positions himself to receive behind the defenders at the top of the box. Oscar Bobb dribbles into the box, cuts it back to Haaland, and Haaland scores across goal into the bottom left-hand corner. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:31:56.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:31:56.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Erling Haaland looks back at the ball as it goes out of play.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:16.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:16.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Walks forward and looks ahead at the defenders.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:17.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:17.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Looks back at the sideline as the throw-in is taken.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:18.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:18.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Looks inside the box to see how the defenders are reacting.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:20.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:20.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Stops moving.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:21.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:21.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Walks backward as he looks back at the defenders.</figcaption>
 </figure>
 
@@ -51,42 +51,42 @@ Not only is Haaland constantly scanning, he is also thinking ahead. If there is 
 The space is behind the defenders as they run back toward their own goal. Allow the defenders to run towards their own goal and then be ready for the cut-back at the top of the box. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:22.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:22.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.7 - Looks back at the ball.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:24.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:24.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.8 - Looks at the defenders.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:25.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:25.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.9 - Looks at the ball.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:26.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.10 - Looks at the defenders and thinks about making the run.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:28.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:28.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.11 - Decides to curve his run because Oscar Bobb continued dribbling.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:29.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.12 - Looks forward at the defenders as he initiates his run.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:32.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:32.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.13 - Looks at Oscar Bobb as he is about to pass.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:34.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:34.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.14 - Scores.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_01:32:35.png">
+    <img src="/images/uploads/2024/07/29/Image-29Jul2024_01:32:35.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.15 - Celebrates with Oscar Bobb.</figcaption>
 </figure>
 

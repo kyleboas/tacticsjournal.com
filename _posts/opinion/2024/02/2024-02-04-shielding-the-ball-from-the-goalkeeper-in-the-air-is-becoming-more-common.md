@@ -17,17 +17,17 @@ Placing an attacker on the goalkeeper is not new, but shielding the ball when it
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/K6talk3.jpeg">
+    <img src="https://i.imgur.com/K6talk3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Jack Harrison backs his body into Guglielmo Vicario.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Wp931xq.jpeg">
+    <img src="https://i.imgur.com/Wp931xq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Guglielmo Vicario jumps for the ball, off-balance.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/qcj4SWJ.jpeg">
+    <img src="https://i.imgur.com/qcj4SWJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Guglielmo Vicario misses the ball as it sails over his outstretched hand.</figcaption>
 </figure> 
 
@@ -56,12 +56,12 @@ This changes the game for corners. Everton attempted to shield the goalkeeper wh
 The rule is either going to be changed to take this out of the game, or every team is going to bully the goalkeeper on every corner.
 
 <figure>
-    <img src="https://i.imgur.com/3ofa7dr.jpeg">
+    <img src="https://i.imgur.com/3ofa7dr.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Ruben Dias backs his body into Guglielmo Vicario as they both go up for the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SsiiBMf.jpeg">
+    <img src="https://i.imgur.com/SsiiBMf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Nathan Ake kicks the ball into the net as Guglielmo Vicario falls.</figcaption>
 </figure> 
 

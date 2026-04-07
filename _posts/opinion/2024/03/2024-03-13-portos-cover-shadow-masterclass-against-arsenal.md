@@ -17,28 +17,28 @@ Arsenal move through the middle, wide, and then in on goal. Without access to Ri
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/BcTqY4h.jpeg">
+    <img src="https://i.imgur.com/BcTqY4h.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Porto shadow cover blocking the pass to Jorginho and pass on the ground wide to the wing.</figcaption>
 </figure>
 
 Most teams do this. They block off the pass to the lone pivot, Jorginho. Block the pass on the ground to the wings to force Arsenal to play around the press.
 
 <figure>
-    <img src="https://i.imgur.com/ws14VO2.jpeg">
+    <img src="https://i.imgur.com/ws14VO2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Porto shadow cover to force Arsenal to play up the wing, blocking the pass inside or back.</figcaption>
 </figure> 
 
 But most teams do not do this. Porto not only block the pass forward, they also block the pass back. This forces Arsenal wide. Porto always had someone in front of Declan Rice and Martin Ødegaard, but in particular Ødegaard. Stop Ødegaard and Arsenal cannot progress the ball into the box easily without going long or around on the wings.
 
 <figure>
-    <img src="https://i.imgur.com/yGwj5x2.jpeg">
+    <img src="https://i.imgur.com/yGwj5x2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Porto shadow cover to block the pass to Martin Ødegaard, Kai Havertz, and across field to Jakub Kiwior.</figcaption>
 </figure> 
 
 Force Arsenal to play short. The switch on the ground to the other wing is covered. The pass central is covered. Everything must go through the wings or vertical.
 
 <figure>
-    <img src="https://i.imgur.com/JNXnaTP.jpeg">
+    <img src="https://i.imgur.com/JNXnaTP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Ben White inverting to try to disrupt Porto's structure. Jorginho drops. Porto continue their shadow cover to block the pass central or wide on the ground.</figcaption>
 </figure> 
 
@@ -47,27 +47,27 @@ By this point in the first half, Martin Ødegaard only had 13 touches. Porto wer
 Arsenal began to try new things to throw off Porto. One such thing was to have Ben White invert to distract Evanilson. Jorginho could drop back and then he could play long.
 
 <figure>
-    <img src="https://i.imgur.com/U4uh82I.jpeg">
+    <img src="https://i.imgur.com/U4uh82I.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Jorginho passes long.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/3CPbZZQ.jpeg">
+    <img src="https://i.imgur.com/3CPbZZQ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Ball bounces back to Martin Ødegaard.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7z0AaHr.jpeg">
+    <img src="https://i.imgur.com/7z0AaHr.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.4 - Martin Ødegaard passes to Leandro Trossard. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/cgRypGW.jpeg">
+    <img src="https://i.imgur.com/cgRypGW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.5 - Leandro Trossard passes to Martin Ødegaard and moves. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/p2IwCCd.jpeg">
+    <img src="https://i.imgur.com/p2IwCCd.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.6 - Martin Ødegaard plays Leandro Trossard through. </figcaption>
 </figure> 
 

@@ -18,41 +18,41 @@ I identified a significant weakness in Aston Villa's high line, one that Tottenh
 The key is to roll the ball slowly; since the space is uncontested, there's no need for a firm quick pass. It's a simple tap-in. 
 
 <figure>
-    <img src="https://i.imgur.com/vIdRNHA.jpg">
+    <img src="https://i.imgur.com/vIdRNHA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1</figcaption>
 </figure>
 
 Aston Villa converges on Destiny Udogie, leaving Son Hueng-min free for a slow pass and tap-in. Had they known about this weakness before the game, Udogie would be looking to pass for the tap-in.
 
 <figure>
-    <img src="https://i.imgur.com/C284gyr.jpg">
+    <img src="https://i.imgur.com/C284gyr.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1</figcaption>
 </figure>
 
 Dejan Kulusevski hits the post, but observe Bryan Gil running at speed toward the far post. Ezri Konsa is jogging back, Gil is beating him to that space. Kulusevski takes the shot, as he should, but a slow roll to the far post would result in a tap-in for Gil. 
 
 <figure>
-    <img src="https://i.imgur.com/lLwCOR0.jpg">
+    <img src="https://i.imgur.com/lLwCOR0.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Attempted shot, no pass.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/6VdFBT5.jpg">
+    <img src="https://i.imgur.com/6VdFBT5.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Attempted shot, pass ignored.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/a7QPmlT.jpg">
+    <img src="https://i.imgur.com/a7QPmlT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Pass was inaccurate, but notice the freedom on the far post.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/b6qHggF.jpg">
+    <img src="https://i.imgur.com/b6qHggF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - 2v1 on the back-post.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/UWPp0YA.jpg">
+    <img src="https://i.imgur.com/UWPp0YA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Attempted shot, pass ignored.</figcaption>
 </figure>
 

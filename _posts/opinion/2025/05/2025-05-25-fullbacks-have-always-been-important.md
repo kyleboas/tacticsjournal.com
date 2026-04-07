@@ -4,7 +4,7 @@ date: 2025-05-25 12:00 UTC
 title: "Fullbacks have always been important"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/24/Image-24May2025_20:52:08.png"
+image: "/images/uploads/2025/05/24/Image-24May2025_20:52:08.png"
 ---
 
 To say that, now, fast-attacking fullbacks are important is a lie. They never stopped being important, but they became too rare a commodity. No one could find them. They have started to turn up again. If you don't have two, you must get them, or else.
@@ -22,7 +22,7 @@ The second these managers get their hands on two fullbacks to play on both sides
 It is like surviving on rainwater for several years, and then you discover a water well. A spring. An oasis of overlaps and underlaps was underneath your feet. You no longer have to do all that work collecting rainwater; use the well.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/24/Image-24May2025_20:52:08.png">
+    <img src="/images/uploads/2025/05/24/Image-24May2025_20:52:08.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The run of a full-back on the underlap or overlap, with the threat of a cross across the goal, or a dribble infield from the winger.</figcaption>
 </figure>
 

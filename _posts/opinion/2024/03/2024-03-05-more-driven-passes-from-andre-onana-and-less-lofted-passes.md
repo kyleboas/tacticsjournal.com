@@ -16,12 +16,12 @@ A part of Andre Onana adapting to Manchester United is adjusting the way he dist
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/rvZVnJS.gif">
+    <img src="https://i.imgur.com/rvZVnJS.gif" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Driven pass, wide right.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7gjaH53.gif">
+    <img src="https://i.imgur.com/7gjaH53.gif" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Lofted pass, wide right, for Inter in the Champions League Final.</figcaption>
 </figure> 
 
@@ -32,12 +32,12 @@ The lofted pass brings Jack Grealish and Nathan Ake into the mix. Repeat this en
 With the driven pass, even if the defense predicts it, they don't have enough time to close down the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/5ZIVZ7C.gif">
+    <img src="https://i.imgur.com/5ZIVZ7C.gif" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Lofted long pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Wx31SiD.jpeg">
+    <img src="https://i.imgur.com/Wx31SiD.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Leaning back as he makes contact with the ball.</figcaption>
 </figure> 
 
@@ -47,24 +47,24 @@ You bring the defender into the mix and the man attempting to head the ball down
 
 
 <figure>
-    <img src="https://i.imgur.com/zF7KvAG.gif">
+    <img src="https://i.imgur.com/zF7KvAG.gif" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Driven long pass to the left.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/RUlrDGp.jpeg">
+    <img src="https://i.imgur.com/RUlrDGp.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Puts his knee over the ball and finishes then through the ball.</figcaption>
 </figure> 
 
 You don't want Marcus Rashford jumping up in the air, contesting a header, up against Kyle Walker. You want it fizzed into him so he has that separation to have a chance when the ball falls. 
 
 <figure>
-    <img src="https://i.imgur.com/O4ztEFB.gif">
+    <img src="https://i.imgur.com/O4ztEFB.gif" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Driven long pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/dgOxR4J.jpeg">
+    <img src="https://i.imgur.com/dgOxR4J.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Puts his knee over the ball and finishes then through the ball.</figcaption>
 </figure> 
 

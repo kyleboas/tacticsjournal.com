@@ -17,17 +17,17 @@ Conor Bradley is an option at right-back which will allow Trent Alexander-Arnold
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/s7YU8FE.jpeg">
+    <img src="https://i.imgur.com/s7YU8FE.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Conor Bradley closing down the ball wide.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ov9xku2.jpeg">
+    <img src="https://i.imgur.com/ov9xku2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Tackle, getting his body between the man and the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/KFKWSqs.jpeg">
+    <img src="https://i.imgur.com/KFKWSqs.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Turn into space, dispatching of the ball carrier.</figcaption>
 </figure> 
 
@@ -36,58 +36,58 @@ Quickly dispatches the ball carrier, using his body to shield off the ball, and 
 He's a composed defender who knows how to use the angles to his advantage and when to stick out a leg. He doesn't get caught out. He is of slim build but knows how to position his outstretched leg to put the carrier off balance. 
 
 <figure>
-    <img src="https://i.imgur.com/OIrvF2i.jpeg">
+    <img src="https://i.imgur.com/OIrvF2i.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - One-two pass and move from Conor Bradley to Diogo Jota and back to Bradley. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/dB5F1AJ.jpeg">
+    <img src="https://i.imgur.com/dB5F1AJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Conor Bradley carries into space ahead.</figcaption>
 </figure> 
 
 He is quick and has the close control to receive and continue this run without breaking stride. Like a midfielder coming off the wing. Doesn't awkwardly pass the ball, he accurately passes and immediately moves, as he should. 
 
 <figure>
-    <img src="https://i.imgur.com/tMSHx1f.jpeg">
+    <img src="https://i.imgur.com/tMSHx1f.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Conor Bradley draws a defender out and then passes to Darwin Nunez.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/UEznuEx.jpeg">
+    <img src="https://i.imgur.com/UEznuEx.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Darwin Nunez shot for the goal.</figcaption>
 </figure> 
 
 And then the weight of pass, perfectly placed on Darwin Nunez's left foot so he too doesn't have to break stride. Passing from out wide is his main skill. 
 
 <figure>
-    <img src="https://i.imgur.com/o3RAWQa.jpeg">
+    <img src="https://i.imgur.com/o3RAWQa.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Conor Bradley makes the curved run in behind and Joe Gomez lifts the ball into him.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ieLyF6y.jpeg">
+    <img src="https://i.imgur.com/ieLyF6y.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Conor Bradley fully body stretch out to get a foot on the ball and bring it down to the onrushing Cody Gakpo.</figcaption>
 </figure> 
 
 It is a difficult skill to perfectly time this run, but Bradley pulls it off. And then again, high technical quality displayed to stretch out that telescopic leg and control the ball so it's placed directly into Cody Gakpo's path. Too bad Gakpo shanks the shot or that would have been the second assist. 
 
 <figure>
-    <img src="https://i.imgur.com/oUts6qL.jpeg">
+    <img src="https://i.imgur.com/oUts6qL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Conor Bradley volley from a cross.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/A7qIWLF.jpeg">
+    <img src="https://i.imgur.com/A7qIWLF.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Conor Bradley volleys the ball into the ground across goal to Ryan Gravenberch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/fZ9BVVK.jpeg">
+    <img src="https://i.imgur.com/fZ9BVVK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/IVkzfRi.jpeg">
+    <img src="https://i.imgur.com/IVkzfRi.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Ryan Gravenberch header for the goal.</figcaption>
 </figure> 
 
@@ -102,7 +102,7 @@ The main thing that will stop him from immediately starting at right-back, other
 This system where you are constantly pressing, the right-back is inverting, and tracking back to defend the wide area, and making runs down the wing. It's relentless work. And Bradley has the ability to invert like Trent would. 
 
 <figure>
-    <img src="https://i.imgur.com/itWewN3.jpeg">
+    <img src="https://i.imgur.com/itWewN3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Liverpool's depth</figcaption>
 </figure> 
 

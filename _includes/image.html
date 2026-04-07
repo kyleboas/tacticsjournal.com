@@ -3,7 +3,7 @@
     {% if include.url %}
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
     {% endif %}
-        <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
+        <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}" loading="lazy" decoding="async"/>
     {% if include.url %}
     </a>
     {% endif %}

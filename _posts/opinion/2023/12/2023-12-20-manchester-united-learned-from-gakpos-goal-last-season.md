@@ -16,24 +16,24 @@ Manchester United learned from their mistake last season at Anfield and implemen
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/Ezlyc1W.jpg">
+    <img src="https://i.imgur.com/Ezlyc1W.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Ball played out from Alisson to Andrew Robertson, dragging Diogo Dalot out wide to challenge Robertson. This left a huge space open behind Dalot, which Cody Gakpo ran into.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/dHeFIwX.jpg">
+    <img src="https://i.imgur.com/dHeFIwX.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - This move by Dalot forced Fred to cover a large amount of ground to mark Gakpo far up the field. Robertson then drove into the open space in their left half-space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/krM5x2I.jpg">
+    <img src="https://i.imgur.com/krM5x2I.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Andrew Robertson enters into the left half-space and then plays Cody Gakpo into the box.</figcaption>
 </figure> 
 
 This is from last season. [Cody Gakpo scored from this sequence](https://tacticsjournal.com/Was-Fred-at-fault-for-Liverpool-first-goal-against-Man-United/). They, particularly Fred, were caught out too high, leaving too much space in the left half-space behind United's first and second line. 
 
 <figure>
-    <img src="https://i.imgur.com/drMzTQ9.jpg">
+    <img src="https://i.imgur.com/drMzTQ9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Illustration of the transition of Manchester United's counter-press when Alisson stepped out from the back.</figcaption>
 </figure> 
 
@@ -44,12 +44,12 @@ Hojlund and McTominay shadow cover Liverpool's double-pivot, and Antony moves ba
 Then when Van Dijk gets the ball, they immediately switch back to the 4-2-4, and this forces Van Dijk to pass short to Tsimikas. 
 
 <figure>
-    <img src="https://i.imgur.com/LqkYzmY.jpg">
+    <img src="https://i.imgur.com/LqkYzmY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Sofyan Amrabat and Kobbie Mainoo man-mark Dominic Szoboszlai and Ryan Gravenberch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/hS0cm98.jpg">
+    <img src="https://i.imgur.com/hS0cm98.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - When Alisson pushes forward, Manchester United abandons their normal pressing structure. Everyone moves back to force the pass to Virgil Van Dijk. Scott McTominay and Rasmus Hojlund shadow cover Liverpool's double pivot.</figcaption>
 </figure> 
 

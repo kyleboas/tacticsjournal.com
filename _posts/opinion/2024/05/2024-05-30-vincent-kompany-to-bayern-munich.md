@@ -7,7 +7,7 @@ categories:
 tags:
 - "Bayern Munich"
 - "Bundesliga"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/30/Image-30May2024_00:04:52.png?raw=true"
+image: "/images/uploads/2024/05/30/Image-30May2024_00:04:52.png"
 ---
 
 Vincent Kompany is misunderstood. He can be successful at Bayern Munich but it takes some imagination to say how successful he can be. Burnley played as if they had Manchester City's squad, regardless of whether they had the quality to execute.
@@ -23,7 +23,7 @@ Burnley's lineup in the Championship the season they were promoted was stronger 
 Kompany completely transformed the way they play to help them get promoted, but I don't think many managers would be able to save Burnley from relegation based on the lower budget they had and the recruitment that resulted from said budget. Burnley did not have the quality to play the way he wants but he persisted anyway. 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_17:48:52.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_17:48:52.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of a possible potential Bayern Munich lineup next season under Vincent Kompany.</figcaption>
 </figure> 
 

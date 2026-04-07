@@ -11,7 +11,7 @@ tags:
 - "Serbia"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/26/Image-26Jun2024_00%3A33%3A02.png"
+image: "/images/uploads/2024/06/26/Image-26Jun2024_00%3A33%3A02.png"
 ---
 
 I didn't think England needed Declan Rice, Kieran Trippier, Marc Guéhi, John Stones, and Kyle Walker in the rest-defense against Serbia, Denmark, or Slovenia. Trippier is often positioned deep to defend, which has a negative effect on how they attack.
@@ -19,7 +19,7 @@ I didn't think England needed Declan Rice, Kieran Trippier, Marc Guéhi, John St
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/25/Image-25Jun2024_22%3A06%3A40.png">
+    <img src="/images/uploads/2024/06/25/Image-25Jun2024_22%3A06%3A40.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The difference between the opposition's back-line when Kiernan Trippier stays back (left) versus when he gets forward (right). Notice the opposition right-back.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ The problem for England is that Trippier does this half-committal movement where
 When Trippier pushes fully forward down the left-wing, the opposition right-back has to stay pinned back, which creates space for Foden and Bellingham in the zone ahead of Rice and in the left half-space. Foden and Bellingham can stay close to both wings, moving from half-space to half-space individually, and Declan Rice and the defenders have larger paths through the middle to pass the ball forward.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/26/Image-26Jun2024_00:55:32.png">
+    <img src="/images/uploads/2024/06/26/Image-26Jun2024_00:55:32.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - 39th minute: Kiernan Trippier whips in a cross towards the back-post.</figcaption>
 </figure>
 

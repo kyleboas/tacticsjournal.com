@@ -18,7 +18,7 @@ April 22, 2023 — This has not been a good week for those passing forward to fl
 First, we had [David De Gea to Harry Maguire for Manchester United](https://tacticsjournal.com/David-De-Gea-risky-pass-to-Maguire-facing-goal-costs-Manchester-United/) on Thursday, then [Aaron Ramsdale to Zinchenko for Arsenal](https://tacticsjournal.com/Aaron-Ramsdale-channels-his-inner-David-De-Gea/) on Friday, and Wout Faes to Youri Tielemans for Leicester today. 
 
 <figure>
-    <img src="https://i.imgur.com/SFzNr5O.jpg">
+    <img src="https://i.imgur.com/SFzNr5O.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Wout Faes passes the ball to Youri Tielemans</figcaption>
 </figure> 
 
@@ -28,14 +28,14 @@ Youri Tielemans is flat-footed receiving this ball and not prepared for the chal
 Wolves are the opposite, moving and chasing the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/85ZC2vY.jpg">
+    <img src="https://i.imgur.com/85ZC2vY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Mario Lemina tackle on Youri Tielemans</figcaption>
 </figure> 
 
 Mario Lemina’s defensive instincts in this play are top realizing the weakness and pouncing to regain possession. 
 
 <figure>
-    <img src="https://i.imgur.com/MauIcNu.jpg">
+    <img src="https://i.imgur.com/MauIcNu.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - 4v3 versus Leicester’s back-line; Matheus Cunha shots and scores</figcaption>
 </figure> 
 

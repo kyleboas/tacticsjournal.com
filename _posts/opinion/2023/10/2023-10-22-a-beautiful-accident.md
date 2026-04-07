@@ -28,12 +28,12 @@ Marc Cucurella is a player who is playing angrily. When a player plays angrily, 
 Chelsea scored from a mistake, the handball, and then sat off, allowing Arsenal to attack them. Arsenal was making mistakes under pressure, but the game state changes when Chelsea goes 1-0 up. Arsenal still had issues advancing the ball and creating chances. Chelsea's defense is underrated. 
 
 <figure>
-    <img src="https://i.imgur.com/tb0HQMo.jpg">
+    <img src="https://i.imgur.com/tb0HQMo.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Declan Rice and Gabriel Martinelli open, in space, 2v1 against Malo Gusto in the 1st half.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/9WkpRxE.jpg">
+    <img src="https://i.imgur.com/9WkpRxE.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Declan Rice calling for the ball at the beginning of the 2nd half in space with Gabriel Martinelli presumably in space.</figcaption>
 </figure> 
 
@@ -57,19 +57,19 @@ After the match, a question to Mikel Arteta:
 > Arteta: “He said it was intentional? Ah, okay, it didn’t seem, but if they did it on purpose, then credit to them.” 
 
 <figure>
-    <img src="https://i.imgur.com/wvlqb3A.jpg">
+    <img src="https://i.imgur.com/wvlqb3A.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - David Raya's positioning last season for Brentford when the ball is at a tight angle. <a href="https://youtu.be/2xDNR_n2gCU?si=dG6hAR4LKRa_slvu">Video source VERIF Football</a></figcaption>
 </figure> 
 
 I mentioned before that David Raya likes to cheat forward and aggressively position himself outside the near post to limit the ball carrier at a tight angle, relying on defenders to cover the cut-back while sacrificing the far side. He did it again, and Mudryk took that opportunity.
 
 <figure>
-    <img src="https://i.imgur.com/P3RD6GX.jpg">
+    <img src="https://i.imgur.com/P3RD6GX.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - David Raya moves forward, anticipating the cross. Mykahilo Mudryk shoots it over Raya's head.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Z33ma7o.jpg">
+    <img src="https://i.imgur.com/Z33ma7o.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - The ball goes over David Raya's head for the goal.</figcaption>
 </figure> 
 
@@ -84,17 +84,17 @@ There's a lot of pressure on David Raya right now. That's the issue with having 
 The one time Marc Cucurella lets Bukayo Saka have space, he punishes them with one of the nicest pinpoint crosses you'll see all season.
 
 <figure>
-    <img src="https://i.imgur.com/HHyqyol.jpg">
+    <img src="https://i.imgur.com/HHyqyol.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Bukayo Saka receives the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/MJunI8Z.jpg">
+    <img src="https://i.imgur.com/MJunI8Z.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Marc Cucurella has to allow Noni Madueke to pick up Bukayo Saka, and Saka passes to Leandro Trossard.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/MnhUslC.jpg">
+    <img src="https://i.imgur.com/MnhUslC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Leandro Trossard one-touch volley for the goal across the goal.</figcaption>
 </figure> 
 

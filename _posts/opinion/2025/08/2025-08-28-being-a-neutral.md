@@ -4,7 +4,7 @@ date: 2025-08-28 11:00 UTC
 title: "Being a neutral"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/27/Image-27Aug2025_21:01:30.png"
+image: "/images/uploads/2025/08/27/Image-27Aug2025_21:01:30.png"
 ---
 
 You can like an aspect of a manager's game or a set of players, even when the result goes against them. You can look forward to watching a team even if you know they'll likely lose. That is the beauty of being a neutral.

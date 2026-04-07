@@ -17,24 +17,24 @@ Kylian would take a touch to enter the box and then fire on the next touch. One 
 
 With every action, he exuded complete confidence. The only reason he would take an extra step would be to draw the goalkeeper in. His eyes were not trained on the defenders; he only had eyes for the goal. He would be thinking about the goal while others around him thought about the next pass or defensive clearance. He has the ability to surprise his teammates.
 
-<figure><img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/10/Image-10Dec2024_20:19:22.png"><figcaption>Figure 1.1 - Kylian Mbappe gets ready to receive the pass.</figcaption>
+<figure><img src="/images/uploads/2024/12/10/Image-10Dec2024_20:19:22.png"><figcaption>Figure 1.1 - Kylian Mbappe gets ready to receive the pass.</figcaption loading="lazy" decoding="async">
 </figure>
-<figure><img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/10/Image-10Dec2024_20:19:24.png"><figcaption>Figure 1.2 - First touch with the left foot.</figcaption>
+<figure><img src="/images/uploads/2024/12/10/Image-10Dec2024_20:19:24.png"><figcaption>Figure 1.2 - First touch with the left foot.</figcaption loading="lazy" decoding="async">
 </figure>
-<figure><img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/10/Image-10Dec2024_20:19:26.png">
+<figure><img src="/images/uploads/2024/12/10/Image-10Dec2024_20:19:26.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.3 - Drive off the back heel. </figcaption>
 </figure>
-<figure><img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/10/Image-10Dec2024_20:19:28.png">
+<figure><img src="/images/uploads/2024/12/10/Image-10Dec2024_20:19:28.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.4 - Second step before the shot.</figcaption>
 </figure>
-<figure><img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/10/Image-10Dec2024_20:19:29.png">
+<figure><img src="/images/uploads/2024/12/10/Image-10Dec2024_20:19:29.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.5 - Third step.</figcaption>
 </figure>
-<figure><img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/10/Image-10Dec2024_20:19:30.png">
+<figure><img src="/images/uploads/2024/12/10/Image-10Dec2024_20:19:30.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.6 - Fourth step.</figcaption></figure>
-<figure><img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/10/Image-10Dec2024_20:19:32.png">
+<figure><img src="/images/uploads/2024/12/10/Image-10Dec2024_20:19:32.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.7 - Step to plant the left foot.</figcaption></figure>
-<figure><img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/10/Image-10Dec2024_20:19:34.png">
+<figure><img src="/images/uploads/2024/12/10/Image-10Dec2024_20:19:34.png" loading="lazy" decoding="async">
 <figcaption>Figure 1.8 - Shot with the right foot.</figcaption></figure>
 
 The goal he scored against Atalanta in the Champions League on Tuesday looked like the PSG version of Mbappe. Quick, one touch to open to shoot, minimal steps taken before the shot, shoot on the second touch, hips and shoulders aligned with the target.

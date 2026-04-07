@@ -8,7 +8,7 @@ tags:
 - "Bologna"
 - "Juventus"
 - "Serie A"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/04/Image-04Sep2024_11:16:28.png"
+image: "/images/uploads/2024/09/04/Image-04Sep2024_11:16:28.png"
 ---
 
 Juventus manager Thiago Motta found "it difficult" to define the way his former team Bologna played as either positional or relational because they adapted the way they played depending on how they thought the opponent would defend against them.

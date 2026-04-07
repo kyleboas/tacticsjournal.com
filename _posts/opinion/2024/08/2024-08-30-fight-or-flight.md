@@ -8,7 +8,7 @@ tags:
 - "Malmö"
 - "Relationism"
 - "Allsvenskan"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/30/Image-30Aug2024_01:50:40.png"
+image: "/images/uploads/2024/08/30/Image-30Aug2024_01:50:40.png"
 tweet: "Malmö apply relational principles to their play, but when things get tough in a match, they retreat back to rigid positional play. The question now is, why isn't your team retreating to relational principles when a match is easy? @Markla94"
 ---
 

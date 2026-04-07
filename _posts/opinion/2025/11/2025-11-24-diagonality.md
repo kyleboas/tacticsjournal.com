@@ -4,7 +4,7 @@ date: 2025-11-24 11:00 UTC
 title: "Diagonality"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/22/Image-22Nov2025_21:45:57.png"
+image: "/images/uploads/2025/11/22/Image-22Nov2025_21:45:57.png"
 ---
 
 We are used to looking at the pitch horizontally, in a straight line, from back to front. Instead, if you look at how players organize on the diagonal, on an angle, you can spot why teams have trouble progressing past the opponent's defense.
@@ -14,11 +14,11 @@ We are used to looking at the pitch horizontally, in a straight line, from back 
 I'm going to show you two different ways a team could setup on the diagonal. You tell me which team looks the best setup to pass through the opponents defense.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/22/Image-22Nov2025_21:45:57.png">
+    <img src="/images/uploads/2025/11/22/Image-22Nov2025_21:45:57.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Team A</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/22/Image-22Nov2025_21:46:02.png">
+    <img src="/images/uploads/2025/11/22/Image-22Nov2025_21:46:02.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Team B</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ If that man receiving the ball on the wing can consistently dribble past several
 If the man receiving the ball cannot dribble past several defenders, they'll need players to bounce off of. Even the unicorns will benefit from that help. The goal, then, should be to have several players form ahead of that player receiving the ball to act as a wall to pass off of. A wall pass.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/22/Image-22Nov2025_21:44:38.png">
+    <img src="/images/uploads/2025/11/22/Image-22Nov2025_21:44:38.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Several wall passes form ahead of the ball.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ You've kicked a ball against a wall. Bounce the ball off the wall, receive, and 
 When you setup to help the man receiving the ball on the diagonal, players ahead of the ball can stagger each wall. Play the ball into one wall, bounce it to the next wall, and the next wall in quick succession on the ground. That creates avenues through a compact press.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/23/Image-23Nov2025_09:55:40.png">
+    <img src="/images/uploads/2025/11/23/Image-23Nov2025_09:55:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - A corridor opens ahead of the ball for players to pass-and-move through, with the switch open to the right-winger.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ The free man on the opposite wing is always there as the safe positive outlet ou
 This is [the law of contraction and expansion](https://tacticsjournal.com/Liverpool-narrow-442-the-space-it-creates-with-expansion-and-contraction/). Allow the defense to contract on the ball on the wing, disrupt their shape by passing through them, and then play out with a switch to the free man on the opposite wing to force the opposition defense to expand. When they expand, then you attack their weak points with the ball side players joining the right-winger in attack.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/23/Image-23Nov2025_09:47:45.png">
+    <img src="/images/uploads/2025/11/23/Image-23Nov2025_09:47:45.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Team B are forced to play around the outside with the inside blocked off by cover shadows.</figcaption>
 </figure>
 

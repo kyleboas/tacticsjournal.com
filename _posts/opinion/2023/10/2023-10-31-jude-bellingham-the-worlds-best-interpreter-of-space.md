@@ -21,17 +21,17 @@ Timing your run to perfectly arrive in the space when the ball arrives is an art
 Which translates roughly as "I am an interpreter of space", or "I am a space investigator". This is Bellingham but he has more skill on the ball when compared to Muller. 
 
 <figure>
-    <img src="https://i.imgur.com/pnny1Am.jpg">
+    <img src="https://i.imgur.com/pnny1Am.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Barcelona is narrow. Antonio Rudiger passes to Daniel Carvajal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/orq22J5.jpg">
+    <img src="https://i.imgur.com/orq22J5.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Daniel Carvajal receives the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/TYzxlz9.jpg">
+    <img src="https://i.imgur.com/TYzxlz9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Daniel Carvajal attempts a pass to Jude Bellingham or Luka Modric.</figcaption>
 </figure> 
 
@@ -40,17 +40,17 @@ The narrowness of Barcelona at the start forces Real Madrid wide, but once the b
 The key to this play is the center-forward Joselu pinning center-back Andreas Christensen. With Christensen pinned, it is man-to-man. Bellingham has a free run on goal once he gets past Oriol Romeu. 
 
 <figure>
-    <img src="https://i.imgur.com/7tlk3vU.jpg">
+    <img src="https://i.imgur.com/7tlk3vU.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Luka Modric gets a foot on it and redirects it over Inigo Martinez to Jude Bellingham.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/dLR7hSX.jpg">
+    <img src="https://i.imgur.com/dLR7hSX.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Jude Bellingham kicks the ball mid-air with his right foot on the laces.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/qI8qDUB.jpg">
+    <img src="https://i.imgur.com/qI8qDUB.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - The ball goes through Marc-Andre ter Stegen's legs for the goal.</figcaption>
 </figure> 
 

@@ -36,28 +36,28 @@ Aggressive in all departments is the important part.
 I chose this lineup for Manchester City because it mirrors what they used against Liverpool, another team with an aggressive potent attack. It's a pragmatic control approach at the back with a back-three that can turn into a back-four if the opponent doesn't apply pressure. But that is not how teams under Ange operate; they pressure you.
 
 <figure>
-    <img src="https://i.imgur.com/vjGUQ8p.jpg">
+    <img src="https://i.imgur.com/vjGUQ8p.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of Tottenham and Manchester City's shape when Manchester City is in possession.</figcaption>
 </figure> 
 
 Pace from Kyle Walker at right-back to track runs from Son Heung-min, and Manuel Akanji inverting into the double pivot with Rodri. They then have the option to switch between a back-four with Kyle Walker advancing down the right-wing, and Phil Foden inverting to overload the middle of the pitch. 
 
 <figure>
-    <img src="https://i.imgur.com/wzgUoG3.jpg">
+    <img src="https://i.imgur.com/wzgUoG3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Reece James' trivela to Raheem Sterling over Pedro Porro's head.</figcaption>
 </figure> 
 
 Ever since [the 4-1 loss to Chelsea](https://tacticsjournal.com/2023/11/07/chelsea-are-faster-why-did-tottenham-use-such-a-high-line/), I have been waiting to see Jérémy Doku attack that space with pace on Manchester City's left-wing. Tottenham allowed, tempted, or dared Chelsea to attack the left-wing. I will be disappointed if we don't see him get a chance to attack Pedro Porro. 
 
 <figure>
-    <img src="https://i.imgur.com/Rd2z8WM.jpg">
+    <img src="https://i.imgur.com/Rd2z8WM.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Conor Gallagher makes a run from deep.</figcaption>
 </figure> 
 
 And then have Julian Alvarez and Phil Foden attack the space from deep on the right-wing like Conor Gallagher and Raheem Sterling did. 
 
 <figure>
-    <img src="https://i.imgur.com/tUVFhnS.jpg">
+    <img src="https://i.imgur.com/tUVFhnS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Marc Cucurella begins his run while Reece James has the ball on the far side.</figcaption>
 </figure> 
 
@@ -70,7 +70,7 @@ A lot of the game will be Manchester City reacting to Tottenham, rather than bei
 Like Muhammad Ali, they'll let the opponent throw haymakers and tire, and Manchester City should throw jabs. Quick curved runs in behind from Erling Haaland down the middle, switches from Rodri to the runners on the wings.
 
 <figure>
-    <img src="https://i.imgur.com/c5kwkl8.jpg">
+    <img src="https://i.imgur.com/c5kwkl8.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Illustration of Tottenham and Manchester City's shape when Tottenham is in possession.</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ They have moved Dejan Kulusevski central, [as I suggested they should do](https:
 Kulusevski will be roaming between the right half-space and right-wing. I think a combination of Bernardo Silva intelligently pressuring, getting in the way, with Nathan Ake physically helping would be enough to neutralize him. If Tottenham can keep Kulusevski moving unmarked than they should create good chances for the forwards. 
 
 <figure>
-    <img src="https://i.imgur.com/vIdRNHA.jpg">
+    <img src="https://i.imgur.com/vIdRNHA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Destiny Udogie makes a run from left-back between Aston Villa's center-backs, and Son Hueng-min is making a run behind him, but Udogie takes the shot over the bar.</figcaption>
 </figure> 
 

@@ -16,14 +16,14 @@ July 21, 2023 — In this order: Malo Gusto, Nicolas Jackson, Andrey Santos, Ian
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/FOcMykR.jpg">
+    <img src="https://i.imgur.com/FOcMykR.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Carney Chukwuemeka gets too close to Marc Cucurella and Andrey Santos.</figcaption>
 </figure>
 
 Carney Chukwuemeka wasn't very active off the ball. He's great on the ball carrying, but off the ball, he was far too static. There were several occasions when there was an unoccupied space that he could have taken up, which would have improved the flow of passing.
 
 <figure>
-    <img src="https://i.imgur.com/xj8y2po.jpg">
+    <img src="https://i.imgur.com/xj8y2po.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Carney Chukwuemeka could occupy this space instead of staying further forward.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Ball-watching and waiting for the pass rather than moving to make yourself avail
 Trevoah Chalobah and Bashir Humphreys has to delay their pass forward because of lack of options, passing the ball back and forth. Once they made the pass forward the second and third pass were never in sync. 
 
 <figure>
-    <img src="https://i.imgur.com/XdScD34.jpg">
+    <img src="https://i.imgur.com/XdScD34.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Ian Maatsen, Marc Cucurella, and Carney Chukwuemeka form a triangle on the wing, with Maatsen inverting.</figcaption>
 </figure>
 
@@ -45,12 +45,12 @@ The plan was to overload the wings in the second phase. The trigger for full-bac
 And then all three wait in a triangle for the pass out wide.
 
 <figure>
-    <img src="https://i.imgur.com/t5ZILpw.jpg">
+    <img src="https://i.imgur.com/t5ZILpw.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Cesare Casadei begins to move wide to create space centrally.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/v5MxsB0.jpg">
+    <img src="https://i.imgur.com/v5MxsB0.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Cesare Casadei's movement wide creates space for Andrey Santos.</figcaption>
 </figure>
 
@@ -59,19 +59,19 @@ Cesare Casadei had this automation on his side of the pitch where he'd drop to c
 Casadei has good situational awareness and positioning, but his dribbling could use more work. His touches are wayward, and the ball can get stuck under his feet. Little control, like he's dribbling a balloon.
 
 <figure>
-    <img src="https://i.imgur.com/AToLEky.jpg">
+    <img src="https://i.imgur.com/AToLEky.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - The trigger for Malo Gusto's run forward down the wing is Cesare Casadei's run wide.</figcaption>
 </figure>
 
 Here's an example of Casadei dropping to open up space on the wing.
 
 <figure>
-    <img src="https://i.imgur.com/X0569xx.jpg">
+    <img src="https://i.imgur.com/X0569xx.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Same thing on the other side. Carney Chukwuemeka dropping triggers Marc Cucurella and Nicolas Jackson's run forward, opening up space down the wing.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/l1cxL4p.jpg">
+    <img src="https://i.imgur.com/l1cxL4p.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - The ball is not played down the wing into space.</figcaption>
 </figure>
 

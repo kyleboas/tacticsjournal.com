@@ -17,19 +17,19 @@ Brighton defend by attacking, but they frequently lost the ball against Roma. If
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/wBfxXL9.jpeg">
+    <img src="https://i.imgur.com/wBfxXL9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Brighton's pressing shape in the middle third.</figcaption>
 </figure> 
 
 This is fine the way they're pressing here if Igor and Van Hecke stay back to defend with Lewis Dunk. 
 
 <figure>
-    <img src="https://i.imgur.com/YZqtYPB.jpeg">
+    <img src="https://i.imgur.com/YZqtYPB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Brighton counter-pressing with Igor following Paulo Dybala forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/a0jcM6d.jpeg">
+    <img src="https://i.imgur.com/a0jcM6d.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Igor again following Paulo Dybala forward as Brighton press in Roma's half.</figcaption>
 </figure> 
 
@@ -40,26 +40,26 @@ My solution would be to have the far-side pivot player drop back and follow Dyba
 That would allow for the ball-side center-back to stay back with the rest of the center-backs. This slightly more thoughtful approach would leave them less vulnerable in transition. 
 
 <figure>
-    <img src="https://i.imgur.com/fOi5EN5.jpeg">
+    <img src="https://i.imgur.com/fOi5EN5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Roma pass through behind down the right-wing with a lot of space between Brighton's back and second line.</figcaption>
 </figure> 
 
 This space between the back line and second line is not positive. This is living on the edge. They aren't aggressive enough in the press to win back the ball, and when the ball is played through they surrender control of the pitch. Now they are chasing. 
 
 <figure>
-    <img src="https://i.imgur.com/GJkpP7H.jpeg">
+    <img src="https://i.imgur.com/GJkpP7H.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Igor and Jan Paul van Hecke push forward to cover the space Pascal Gross and Billy Gilmour would take up. Ball is played over the top to Romelu Lukaku.</figcaption>
 </figure> 
 
 In this example, Gilmour is fine to press high but what if Gross stayed back? That would allow Igor to mark or double-team Lukaku with Dunk. 
 
 <figure>
-    <img src="https://i.imgur.com/8cr6GRl.jpeg">
+    <img src="https://i.imgur.com/8cr6GRl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Romelu Lukaku is 1v1 with Lewis Dunk.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Ze4OxPV.jpeg">
+    <img src="https://i.imgur.com/Ze4OxPV.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Lewis Dunk miss-controls the ball and Romelu Lukaku is in on goal. Lukaku scores.</figcaption>
 </figure> 
 

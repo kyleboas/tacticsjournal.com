@@ -16,7 +16,7 @@ tweet: "20.37% of Tottenham's passes into the penalty area in the past 60 days h
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/lJz0usJ.jpeg">
+    <img src="https://i.imgur.com/lJz0usJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Out-swinging crossing opportunity for Pedro Porro with a run to the near post.</figcaption>
 </figure> 
 
@@ -27,7 +27,7 @@ The problem is that when the crosser is this far away from the box, the only opt
 Then you're hoping for a deflection. It is not a super high probability cross because of how difficult it is to hit it accurately with pace. If they time it perfectly they could get a flick.
 
 <figure>
-    <img src="https://i.imgur.com/n0oINVi.jpeg">
+    <img src="https://i.imgur.com/n0oINVi.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Pedro Porro forced backwards to Brennan Johnson, and Johnson can only attempt a higher out-swinging cross off his back foot first-time.</figcaption>
 </figure> 
 
@@ -38,7 +38,7 @@ Block off the initial cross, allow the players in the box to finish their runs, 
 Hard to get any power on the header. 
 
 <figure>
-    <img src="https://i.imgur.com/wB4oI9l.jpeg">
+    <img src="https://i.imgur.com/wB4oI9l.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - In-swinging cross from Dejan Kulusevski on the right and out-swinging cross option from Pedro Porro.</figcaption>
 </figure> 
 
@@ -47,7 +47,7 @@ These in-swinging crosses are almost always aimed towards the back post. Really 
 Again, forcing the pass back is better. Very rarely do these out-swinging cross from the position Pedro Porro is standing in **Figure 2.1** work. Of note, Pedro Porro in particular has only completed 3 of 25 crosses in the past four matches. 
 
 <figure>
-    <img src="https://i.imgur.com/amiFWe6.jpg">
+    <img src="https://i.imgur.com/amiFWe6.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Premier League teams ranked by percentage of crosses into the penalty area to passes into the penalty area in the past 60 days. <a href="https://stathead.com/tiny/eQ0Es">Data via Stathead FBref</a></figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ There is no right or wrong way of attacking the penalty area but I wouldn't asso
 I feel they are limiting their effectiveness of their attack and wasting chances by relying on higher looping crosses, rather than working the ball into the box on the ground. Why cross if you can't head the ball?
 
 <figure>
-    <img src="https://i.imgur.com/vB93tOJ.jpeg">
+    <img src="https://i.imgur.com/vB93tOJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Quick early out-swinging cross across the box to the opposite side winger.</figcaption>
 </figure> 
 
@@ -65,7 +65,7 @@ When there's space, they will look to cross early. This is their bread and butte
 In transition, as the opposition defense consolidate towards the center of the box, these passes from side-to-side across the ground are deadly. The defense should always look to mark the man on the far-side, that is almost always the target. 
 
 <figure>
-    <img src="https://i.imgur.com/mENDdQ6.jpeg">
+    <img src="https://i.imgur.com/mENDdQ6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Square pass to Rodrigo Bentancur at the top of the box.</figcaption>
 </figure> 
 

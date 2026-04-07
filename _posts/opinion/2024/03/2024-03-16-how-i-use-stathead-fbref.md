@@ -15,7 +15,7 @@ I am proud to announce I am an FBref Brand Ambassador! Tottenham have averaged 0
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/QoWg7ap.jpeg">
+    <img src="https://i.imgur.com/QoWg7ap.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Space wide against Burnley.</figcaption>
 </figure> 
 
@@ -28,14 +28,14 @@ With Stathead, I can take that idea and quickly grab the data to back up my theo
 The sample size is small but by using their "Team Match Stats Finder," I can filter out all of FBref's data into one table.
 
 <figure>
-    <img src="https://i.imgur.com/7ozO05r.jpeg">
+    <img src="https://i.imgur.com/7ozO05r.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Stathead Team Match Stats Finder search criteria</figcaption>
 </figure> 
 
 You can [view the search I used to create this graphic here](https://stathead.com/tiny/xw4Ky). I went for touches in the attacking penalty area and average shot distance as my outlying data, but if you go to that link you can change and add other criteria. 
 
 <figure>
-    <img src="https://i.imgur.com/HlJkhjD.jpeg">
+    <img src="https://i.imgur.com/HlJkhjD.jpeg" loading="lazy" decoding="async">
 </figure> 
 
 I took the data from that search and made this graphic. I found the shot distance data to be interesting. 
@@ -45,12 +45,12 @@ You'd expect that when they have 70% possession, facing a team sitting back in t
 When they have less than 55% possession they are taking shots from further out. 
 
 <figure>
-    <img src="https://i.imgur.com/TK9BAl3.jpg">
+    <img src="https://i.imgur.com/TK9BAl3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Pedro Porro and Destiny Udogie invert into the half-space, and Porro runs forward behind Luton Town's back-line.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7dQh2Mp.jpeg">
+    <img src="https://i.imgur.com/7dQh2Mp.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Tottenham against West Ham's compact low-block.</figcaption>
 </figure> 
 

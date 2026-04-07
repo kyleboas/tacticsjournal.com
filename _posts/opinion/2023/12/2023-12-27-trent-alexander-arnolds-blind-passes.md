@@ -16,17 +16,17 @@ Trent Alexander-Arnold should be more careful when he plays these blind passes f
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/6hxo99p.jpg">
+    <img src="https://i.imgur.com/6hxo99p.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Trent Alexander-Arnold dinks the ball up the right-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/gkotiYD.jpg">
+    <img src="https://i.imgur.com/gkotiYD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ball is intercepted by Burnley.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CUgzb0F.jpg">
+    <img src="https://i.imgur.com/CUgzb0F.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Burnley begins to play the ball forward.</figcaption>
 </figure> 
 
@@ -35,17 +35,17 @@ You never want to give the ball away in your own half in this spot. Trent is wid
 In a way, this pass, whether it's successful or unsuccessful, does serve as an easy pressure release valve. Get it out and then reset. The problem is that he doesn't complete this type of quick pass often enough to justify continuing to attempt it. 
 
 <figure>
-    <img src="https://i.imgur.com/J7Q47Uo.jpg">
+    <img src="https://i.imgur.com/J7Q47Uo.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Trent Alexander-Arnold turns and immediately plays a pass on the ground into a space between two Liverpool players.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/h9UXGXN.jpg">
+    <img src="https://i.imgur.com/h9UXGXN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Diogo Jota attempts to shield the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/rCTaZdf.jpg">
+    <img src="https://i.imgur.com/rCTaZdf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Diogo Jota successfully shields the ball and Wataru Endo plays the ball forward to Dominik Szoboszlai. </figcaption>
 </figure> 
 
@@ -58,24 +58,24 @@ This is not good vision; this is gambling.
 It works this time, but if Jota is just a fraction off, that could have been a Burnley equalizer, 1-1, because Burnley would have a numerical advantage.
 
 <figure>
-    <img src="https://i.imgur.com/ZaDwS7e.jpg">
+    <img src="https://i.imgur.com/ZaDwS7e.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Dominik Szoboszlai plays the ball central.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ERxv3IJ.jpg">
+    <img src="https://i.imgur.com/ERxv3IJ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Liverpool counter 5v4 with a +1 on the left side. </figcaption>
 </figure> 
 
 When this progressive pass from Trent works, though, Liverpool has the numerical advantage going forward. High risk, high reward. 
 
 <figure>
-    <img src="https://i.imgur.com/KS1l8OS.jpg">
+    <img src="https://i.imgur.com/KS1l8OS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Trent Alexander-Arnold blindly turns and hits the ball up the field on the ground.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/dYoXeMi.jpg">
+    <img src="https://i.imgur.com/dYoXeMi.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Ball is intercepted immediately as Trent Alexander-Arnold misplaces the pass.</figcaption>
 </figure> 
 

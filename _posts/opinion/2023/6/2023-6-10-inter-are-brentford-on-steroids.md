@@ -29,36 +29,36 @@ Alessandro Bastoni is in charge of conducting the buildup from the back. A lot o
 > May 22, 2023 — Napoli exposed Inter's weakness yesterday. They depend a lot on left center-back Alessandro Bastoni, and if you can pressure him, you have a good chance of forcing a turnover.
 
 <figure>
-    <img src="https://i.imgur.com/Q8GLevZ.jpg">
+    <img src="https://i.imgur.com/Q8GLevZ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Napoli overload Inter's right side, forcing them to pass back and out to Alessandro Bastoni.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/RaRQrBO.jpg">
+    <img src="https://i.imgur.com/RaRQrBO.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Alessandro Bastoni passes long, into space.</figcaption>
 </figure> 
 
 Inter will avoid playing through their right-side if the pass into Denzel Dumfries is cut-off. 
 
 <figure>
-    <img src="https://i.imgur.com/f5cYNxE.jpge">
+    <img src="https://i.imgur.com/f5cYNxE.jpge" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Alessandro Bastoni passes long, into space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/b6zQ9TH.jpg">
+    <img src="https://i.imgur.com/b6zQ9TH.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Another Alessandro Bastoni long pass, into space.</figcaption>
 </figure> 
 
 Manchester City can't afford to give Bastoni time and space to spray balls around the pitch, like he did against Napoli in this example. 
 
 <figure>
-    <img src="https://i.imgur.com/B10fSrD.jpg">
+    <img src="https://i.imgur.com/B10fSrD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Napoli pressures Alessandro Bastoni, forcing him to pass back to Andre Onana.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/pIRSZSK.jpg">
+    <img src="https://i.imgur.com/pIRSZSK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Andre Onana passes long, and the ball goes out of play.</figcaption>
 </figure> 
 
@@ -76,14 +76,14 @@ To control the center, Manchester City will need to stop:
 
 
 <figure>
-    <img src="https://i.imgur.com/9Ht7mNo.jpg">
+    <img src="https://i.imgur.com/9Ht7mNo.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Tactics board showing the tight man-marking of Marcelo Brozovic and Nicolo Barella, with pressure on Alessandro Bastoni.</figcaption>
 </figure> 
 
 Manchester City will likely counter-press in a 4-2-4 shape, as seen in Figure 5.1. If they can take Barella, Brozovic, and Bastoni out of the match, they should be able to quickly win back the ball. Brozovic and Bastoni are important outlets for the wing-backs and forwards. Limit their creativity. 
 
 <figure>
-    <img src="https://i.imgur.com/oS1d9E3.jpg">
+    <img src="https://i.imgur.com/oS1d9E3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Denzel Dumfries pins Fiorentina's left-back, Biraghi. The ball is played to Lautaro Martinez in space.</figcaption>
 </figure>
 
@@ -94,12 +94,12 @@ If they do not control those three players, Inter will be able to obtain numeric
 Inter's wing-backs Federico Dimarco and Denzel Dumfries act as distractions, pinning the opposition full-backs to open space in the center of the pitch.
 
 <figure>
-    <img src="https://i.imgur.com/NqQvvUZ.jpg">
+    <img src="https://i.imgur.com/NqQvvUZ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Inter plays out of the 3v2 overload. Federico Dimarco runs into space on the far side.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/Z1hElxo.jpg">
+    <img src="https://i.imgur.com/Z1hElxo.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 7.2 - Marcelo Brozovic plays Lautaro Martinez in for Inter's first goal.</figcaption>
 </figure>
 
@@ -111,12 +111,12 @@ Ignore them, remain compact. They're not the main threats.
 > May 28, 2023 — Pass into Romelu Lukaku with his back to the goal, hold up play, lay off a simple pass, and play someone into space. This efficient and assertive pattern of play sets Inter apart.
 
 <figure>
-    <img src="https://i.imgur.com/WXbx0nL.jpg">
+    <img src="https://i.imgur.com/WXbx0nL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 8.1 - Inter buildup from the back. Alessandro Bastoni passes directly on the ground to Romelu Lukaku. </figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/d0eldXZ.jpg">
+    <img src="https://i.imgur.com/d0eldXZ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 8.2 - Romelu Lukaku holds up play, and then passes to Lautaro Martinez.</figcaption>
 </figure>
 
@@ -125,12 +125,12 @@ It is unclear right now whether or not Romelu Lukaku or Edin Dzeko will start th
 Inter will go direct into the taller center-forward, on the ground or through the air, and then they will lay off the ball to Lautaro Martinez or a center-midfielder.
 
 <figure>
-    <img src="https://i.imgur.com/2pBqIdc.jpg">
+    <img src="https://i.imgur.com/2pBqIdc.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 9.1 - The ball is played directly to Romelu Lukaku. He holds up play and then passes to Marcelo Brozovic. Center-back Francesco Acerbi makes the run into space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/Fc7I4ks.jpg">
+    <img src="https://i.imgur.com/Fc7I4ks.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 9.2 - Marcelo Brozovic plays Francesco Acerbi into space.</figcaption>
 </figure>
 
@@ -142,19 +142,19 @@ If Bastoni is stopped, they'll have one less way to get the ball into Lukaku or 
 Inter will provide little to no space for Manchester City to advance on the ground out from the back and past the middle third.
 
 <figure>
-    <img src="https://i.imgur.com/kfl6cfp.jpg">
+    <img src="https://i.imgur.com/kfl6cfp.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 10.1 - Illustration of Inter's out-of-possession shape against AC Milan. </figcaption>
 </figure>
 
 Inter's first and second line will form a rigid and compact 3-2 sub-structure, overloading the middle. Once the ball is played wide, they should press the ball carrier aggressively with two to three men.
 
 <figure>
-    <img src="https://i.imgur.com/bIlRN1d.jpg">
+    <img src="https://i.imgur.com/bIlRN1d.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 11.1 - Mike Maignan kicks the ball vertically upfield to the forwards.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/fqtdwxd.jpg">
+    <img src="https://i.imgur.com/fqtdwxd.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 12.1 - Inter's counter-pressing structure.</figcaption>
 </figure>
 
@@ -171,7 +171,7 @@ Inter is organized. They will always leave enough men back to maintain numerical
 > May 25, 2023 — Inter is a very compact and strong side. Their entire team is composed of rocks. They are a collection of very tough and confident players. Inter controlled the middle of the pitch against Fiorentina to win the Coppa Italia.
 
 <figure>
-    <img src="https://i.imgur.com/RrHxGwb.jpg">
+    <img src="https://i.imgur.com/RrHxGwb.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 13.1 - Inter's 5-3-2 low block.</figcaption>
 </figure>
 
@@ -185,12 +185,12 @@ Stretch Inter wide and then play Ilkay Gündoğan, Erling Haaland, and Kevin De 
 Inter is the superior team in the air. If Manuel Akanji plays, he will be the weak spot for Manchester City because he is very weak in the air.
 
 <figure>
-    <img src="https://i.imgur.com/JVJirMK.jpg">
+    <img src="https://i.imgur.com/JVJirMK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 14.1 - Edin Dzeko makes the far post run, and Lautaro Martinez makes the near post run. Nicolo Barella plays the ball to the near post.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/3NrCK2o.jpg">
+    <img src="https://i.imgur.com/3NrCK2o.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 14.2 - Lautaro Martinez scores.</figcaption>
 </figure>
 

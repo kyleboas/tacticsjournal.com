@@ -16,7 +16,7 @@ October 1, 2023 — Aston Villa's game-plan to stop Brighton from advancing with
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/htY9hR6.jpg">
+    <img src="https://i.imgur.com/htY9hR6.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Aston Villa's shape, tightly marking Brighton's double pivot with man-marking and a cover shadow, while leaving the pass wide open.</figcaption>
 </figure> 
 
@@ -25,14 +25,14 @@ Brighton always looks to bait the press — make Aston Villa come to them before
 By cutting off the double pivot completely, Aston Villa forces Brighton wide or long to a forward. Teams have tried this before, and Brighton can wear you down to the point where you become less compact as the game goes on. 
 
 <figure>
-    <img src="https://i.imgur.com/FE3SgtC.jpg">
+    <img src="https://i.imgur.com/FE3SgtC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - A pass forward as an attempt to break past Aston Villa's midfield.</figcaption>
 </figure> 
 
 Once the ball is played wide, Aston Villa would curve their runs to quickly cut off the pass back to the center-backs. If Brighton commits to one side, Villa has the other side blocked through a series of cover shadows and man-marking. 
 
 <figure>
-    <img src="https://i.imgur.com/YeLzhQA.jpg">
+    <img src="https://i.imgur.com/YeLzhQA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Aston Villa converge on the ball while blocking off the simple pass out.</figcaption>
 </figure> 
 
@@ -43,7 +43,7 @@ They collapsed on the ball carrier. Pau Torres stuck his body right up against D
 They used their physical advantage to boss Danny Welbeck, Solly March, Billy Gilmour, Jack Hinshelwood, and Joel Veltman in particular. 
 
 <figure>
-    <img src="https://i.imgur.com/bM0NPYE.jpg">
+    <img src="https://i.imgur.com/bM0NPYE.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Aston Villa win back the ball and draw a foul. Ollie Watkins' shadow covers Adam Webster to block Brighton in.</figcaption>
 </figure> 
 

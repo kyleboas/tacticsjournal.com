@@ -25,7 +25,7 @@ Tottenham has made wholesale changes with a new manager, but even [Ange Postecog
 > "Wouldn't read too much into lineups at the moment. Lots of it down to where they are physically, so it's about putting two elevens out there to put enough in the tank. Not about selecting players based on who will play."
 
 <figure>
-    <img src="https://i.imgur.com/M7iw3X9.jpg">
+    <img src="https://i.imgur.com/M7iw3X9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ This is the same 3-2-2-3 with a box midfield that Manchester City was using last
 Nothing too special. Lots of rotation within the squad to get the full 25-man squad involved.
 
 <figure>
-    <img src="https://i.imgur.com/ZE58pV8.jpg">
+    <img src="https://i.imgur.com/ZE58pV8.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Ederson steps forward to fill in to the left of Ruben Dias.</figcaption>
 </figure>
 
@@ -43,46 +43,46 @@ This isn't new, but I did notice the higher frequency at which Ederson would inv
 On almost every possession, Nathan Ake and Kyle Walker would push wide almost to the touchline automatically, and then Ederson would creep forward to form a back four with Ruben Dias.
 
 <figure>
-    <img src="https://i.imgur.com/avql7Gr.jpg">
+    <img src="https://i.imgur.com/avql7Gr.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Ederson moving to the right of Ruben Dias</figcaption>
 </figure>
 
 Ederson would move to either side of Ruben Dias.
 
 <figure>
-    <img src="https://i.imgur.com/OKm4022.jpg">
+    <img src="https://i.imgur.com/OKm4022.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Nathan Ake pushes wide and Ederson fills</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/8iyMInP.jpg">
+    <img src="https://i.imgur.com/8iyMInP.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/ddeRvMQ.jpg">
+    <img src="https://i.imgur.com/ddeRvMQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1</figcaption>
 </figure>
 
 Manchester City would normally sit more narrow in their first-phase buildup, with the outside center-backs tucked in, inside the width of a penalty area.
 
 <figure>
-    <img src="https://i.imgur.com/Czjb30C.jpg">
+    <img src="https://i.imgur.com/Czjb30C.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - vs Real Madrid</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/h3k5SOm.jpg">
+    <img src="https://i.imgur.com/h3k5SOm.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - vs Liverpool</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/ND02V0N.jpg">
+    <img src="https://i.imgur.com/ND02V0N.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.3 - vs Manchester United</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/OTcq886.jpg">
+    <img src="https://i.imgur.com/OTcq886.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.4 - vs Inter Milan</figcaption>
 </figure>
 

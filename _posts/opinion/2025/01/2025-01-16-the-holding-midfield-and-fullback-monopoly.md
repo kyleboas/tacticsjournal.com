@@ -4,7 +4,7 @@ date: 2025-01-16 12:00 UTC
 title: "The holding midfield and fullback monopoly"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/15/Image-15Jan2025_22:04:26.png"
+image: "/images/uploads/2025/01/15/Image-15Jan2025_22:04:26.png"
 ---
 
 If it were up to me, fullbacks and holding midfielders would be learning to play as center-backs while midfielders and wingers would be learning to play as fullbacks. The modern game demands that you are good with the ball at your feet.
@@ -14,7 +14,7 @@ If it were up to me, fullbacks and holding midfielders would be learning to play
 A position is but a constraint you put on a player. They can play in any position, other than as a goalkeeper. You need experience in practice to fill in for a goalkeeper. I think it limits the player's potential when you label them a center-back or fullback. Why can't they play other positions? 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/15/Image-15Jan2025_22:04:26.png">
+    <img src="/images/uploads/2025/01/15/Image-15Jan2025_22:04:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The rotations of Declan Rice, Moises Caicedo, Amadou Onana, Aurélien Tchouaméni, Khéphren Thuram-Ulien, and Carlos Baleba.</figcaption>
 </figure>
 

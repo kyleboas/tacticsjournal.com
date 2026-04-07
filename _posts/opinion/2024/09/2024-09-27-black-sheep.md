@@ -4,7 +4,7 @@ date: 2024-09-27 11:00 UTC
 title: "Black sheep"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/20/Image-20Sep2024_02:28:15.png"
+image: "/images/uploads/2024/09/20/Image-20Sep2024_02:28:15.png"
 ---
 
 If the goal is to win trophies, you do not have to play out from the back, you do not have to be pragmatic, and you do not have to play positional football. There is no one correct way to play football.

@@ -4,7 +4,7 @@ date: 2025-07-04 11:00 UTC
 title: "Quicker passing is the focus next season"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/07/03/Image-03Jul2025_23:33:24.png"
+image: "/images/uploads/2025/07/03/Image-03Jul2025_23:33:24.png"
 ---
 
 Quicker passing is the focus for next season, and that will force teams to overload the center more because you need numbers in close proximity to make those quick passes work. 
@@ -24,7 +24,7 @@ If you can match their momentum in defensive transition, you get numbers back to
 The attacking team constantly has the momentum, and you don't want to give the defending team time to breathe. The only thing that should save the defending team is halftime and the full-time whistle. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/07/03/Image-03Jul2025_23:33:24.png">
+    <img src="/images/uploads/2025/07/03/Image-03Jul2025_23:33:24.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Wingers invert central and the attacking team quickly plays through the center of the pitch, with fullbacks holding width. </figcaption>
 </figure>
 

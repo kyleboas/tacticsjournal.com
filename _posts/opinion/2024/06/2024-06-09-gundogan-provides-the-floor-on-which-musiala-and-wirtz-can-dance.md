@@ -7,7 +7,7 @@ categories:
 tags:
 - "Germany"
 - "Euro 2024"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/09/Image-09Jun2024_01:07:42.png?raw=true"
+image: "/images/uploads/2024/06/09/Image-09Jun2024_01:07:42.png"
 ---
 
 Germany is unique because they play with three number tens. Ilkay Gündoğan provides the floor on which Jamal Musiala and Florian Wirtz can dance, with Gündoğan constantly adjusting his play to aid and accentuate the other two players' strengths.
@@ -21,7 +21,7 @@ Ilkay Gündoğan [speaking to SPIEGAL](https://www.spiegel.de/sport/fussball/ilk
 > **Gündoğan:** My role has changed. We now play with three number tens up front. Each of us has a similar drive towards goal, makes similar runs, and wants to dribble with the ball. It's all the more important that I pay attention to what Flo and Jamal are doing. How can I adjust my runs so that we find the right balance?
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/09/Image-09Jun2024_01:06:00.png?raw=true">
+    <img src="/images/uploads/2024/06/09/Image-09Jun2024_01:06:00.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of Germany's two formation options.</figcaption>
 </figure>
 

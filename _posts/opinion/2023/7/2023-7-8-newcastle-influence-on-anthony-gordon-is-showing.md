@@ -16,12 +16,12 @@ July 8, 2023 — Anthony Gordon joined Newcastle for £45m in January, and the c
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/I6tBNLT.jpg">
+    <img src="https://i.imgur.com/I6tBNLT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Anthony Gordon begins to peel off behind Portugal's right-back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/qvi7RUC.jpg">
+    <img src="https://i.imgur.com/qvi7RUC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Pass to Noni Madueke. Portugal's back-line charge into the box.</figcaption>
 </figure> 
 
@@ -30,12 +30,12 @@ This may seem normal, and it is, but this is quintessential Newcastle. This is h
 Attack the right wing, and the left winger's job is to attack the space in front of the backline. Not behind the backline in their shadow, but in front, in space. 
 
 <figure>
-    <img src="https://i.imgur.com/xHkElpb.jpg">
+    <img src="https://i.imgur.com/xHkElpb.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Noni Madueke passes to Morgan Gibbs-White.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/C82JyxI.jpg">
+    <img src="https://i.imgur.com/C82JyxI.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Portugal run into the goal but forget to mark Anthony Gordon on the back-post. Gordon shifts into the open space, receives the pass, and scores.</figcaption>
 </figure> 
 

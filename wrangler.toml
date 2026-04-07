@@ -1,0 +1,25 @@
+name = "tacticsjournal"
+type = "site"
+account_id = "2d3ea24699352951b9856db8ea1ceb49"
+workers_dev = false
+route = "tacticsjournal.com/*"
+zone_id = "a20e7b0d6446adecb133305fc2ded954"
+
+[build]
+command = "jekyll build"
+cwd = "./"
+watch_paths = ["_posts/**", "_layouts/**", "_includes/**", "_sass/**", "*.md", "*.html", "*.yml", "*.yaml"]
+
+[build.upload]
+format = "service-worker"
+
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "tacticsjournal-images"
+
+[env.production]
+vars = { ENVIRONMENT = "production" }
+
+[[routes]]
+pattern = "tacticsjournal.com/images/*"
+zone_name = "tacticsjournal.com"

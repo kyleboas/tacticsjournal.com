@@ -7,7 +7,7 @@ categories:
 tags:
 - "Everton"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/12/Image-12Sep2024_22:11:24.png"
+image: "/images/uploads/2024/09/12/Image-12Sep2024_22:11:24.png"
 ---
 
 When comparing past eras of football to today, Everton manager Sean Dyche says there haven't been "radical shifts" on the pitch, that it "doesn't change as much as you think." He said, "Football develops usually in the ways of the minutia and the detail."

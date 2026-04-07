@@ -17,7 +17,7 @@ September 25, 2023 — Brighton moves in ways that I've never seen from a team. 
 If player X receives the ball here, player 1 overlaps, player 2 makes a run through the half-space, player 3 pushes wide on the far-side to open space centrally, player 4 holds his run to pin a defender. Each of these movements depends on the angle, speed, and position of the pass. 
 
 <figure>
-    <img src="https://i.imgur.com/cUEYZtv.jpg">
+    <img src="https://i.imgur.com/cUEYZtv.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Ball is passed to Pervis Estupinan who is on the overlap, then Kaoura Mitoma makes a run to the top of the goal area</figcaption>
 </figure> 
 

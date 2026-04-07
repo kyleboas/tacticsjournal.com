@@ -15,12 +15,12 @@ Erling Haaland does not need to score to have an impact. He doesn't even need to
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/dH2wpcH.jpeg">
+    <img src="https://i.imgur.com/dH2wpcH.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - John Stones plays Erling Haaland in on goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SJn0BNl.jpeg">
+    <img src="https://i.imgur.com/SJn0BNl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Erling Haaland shoots, but it's right at Andriy Lunin.</figcaption>
 </figure> 
 
@@ -29,19 +29,19 @@ Erling Haaland was played in on goal once during the first half of Wednesday's C
 He made a good run, but it's a tough shot to take from a difficult angle off balance. 
 
 <figure>
-    <img src="https://i.imgur.com/gjDJxBv.jpeg">
+    <img src="https://i.imgur.com/gjDJxBv.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Erling Haaland recovers the ball and passes to Jack Grealish.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/L5o9Mh2.jpeg">
+    <img src="https://i.imgur.com/L5o9Mh2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Jack Grealish has the entire right side of the net open, but his shot is blocked.</figcaption>
 </figure> 
 
 The good thing is that he has the awareness to get up and make this simple pass to Jack Grealish. You'd expect that to be planted into the right side of the net. That's an assist and second goal gone to waste but well set up by Haaland. 
 
 <figure>
-    <img src="https://i.imgur.com/xMuI6X5.jpeg">
+    <img src="https://i.imgur.com/xMuI6X5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Erling Haaland doesn't check/move into this space.</figcaption>
 </figure> 
 
@@ -58,19 +58,19 @@ When asked if the key aspect of his play is to occupy the two central defender's
 Manchester City have him making unique runs off-the-ball as a decoy to move opposition center-backs, which opens space for others.
 
 <figure>
-    <img src="https://i.imgur.com/AWb1vft.jpeg">
+    <img src="https://i.imgur.com/AWb1vft.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - In offensive transition, Erling Haaland runs away from play, dragging Aurélin Tchouameni and Antonio Rudiger with him, to open space ahead of the ball carrier.</figcaption>
 </figure> 
 
 In transition to attack, on the counter, Haaland will often run the opposite direction of where the ball is going. He's not expecting to be played the ball, but his run moves the two defenders. Then when they move, there's a massive space open ahead. 
 
 <figure>
-    <img src="https://i.imgur.com/0Y9YHU0.jpeg">
+    <img src="https://i.imgur.com/0Y9YHU0.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Erling Haaland checks to the ball when Bernardo Silva has rotated back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/PFvdjlP.jpeg">
+    <img src="https://i.imgur.com/PFvdjlP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Erling Haaland plays a one-touch pass back to Bernardo Silva.</figcaption>
 </figure> 
 
@@ -79,19 +79,19 @@ It's all very choreographed. The only time you'll see him move to receive is whe
 But notice how congested that right side of the pitch is now. They don't want him doing that movement back because it draws a center-back with him. There's less space, and now there's no one occupying the space central, close to the penalty box.
 
 <figure>
-    <img src="https://i.imgur.com/9Y7Och7.jpeg">
+    <img src="https://i.imgur.com/9Y7Och7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Erling Haaland curves his run to the back post for the cross, opening space for Phil Foden in the middle of the box.</figcaption>
 </figure> 
 
 When there's a cross, he'll almost always make the back-post run. That back-post run opens space in the middle for Foden to arrive into.
 
 <figure>
-    <img src="https://i.imgur.com/ZI0Vzkp.jpeg">
+    <img src="https://i.imgur.com/ZI0Vzkp.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - When John Stones receives the ball out of the triangle on the wing, Erling Haaland makes a run away from the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/8EoaEyo.jpeg">
+    <img src="https://i.imgur.com/8EoaEyo.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - Antonio Rudiger is drawn towards John Stones and now there's a massive space behind Real Madrid's defense.</figcaption>
 </figure> 
 

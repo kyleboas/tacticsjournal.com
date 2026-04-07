@@ -4,7 +4,7 @@ date: 2024-12-29 12:00 UTC
 title: "Stretching the defense with a ball over the top"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/28/Image-28Dec2024_16:01:39.png"
+image: "/images/uploads/2024/12/28/Image-28Dec2024_16:01:39.png"
 ---
 
 When you play the ball over the top and through, rarely does the defending team have the discipline to wait once they regain possession, nor does the rest of their team move back. Making it easier to immediately counter press.
@@ -13,7 +13,7 @@ When you play the ball over the top and through, rarely does the defending team 
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/28/Image-28Dec2024_16:01:39.png">
+    <img src="/images/uploads/2024/12/28/Image-28Dec2024_16:01:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Team with the ball plays over the top to the center-forward.</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ This is not a risky pass and a good place to lose the ball. The chance you will 
 Knowing where to lose the ball is a skill. This is a good place to lose the ball because if you win the race to the ball, your center-forward is in on goal, one-on-one with the goalkeeper.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/28/Image-28Dec2024_16:01:40.png">
+    <img src="/images/uploads/2024/12/28/Image-28Dec2024_16:01:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - The defending team regains possession, and the space between the back line and second line is large. </figcaption>
 </figure>
 

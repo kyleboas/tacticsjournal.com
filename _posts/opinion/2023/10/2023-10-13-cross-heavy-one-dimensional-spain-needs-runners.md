@@ -15,36 +15,36 @@ Spain needs runners like Ferran Torres and Oihan Sancet to open the wings up for
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/sPbriLG.jpg">
+    <img src="https://i.imgur.com/sPbriLG.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Ferran Torres passes to Jesús Navas and then moves.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/X73NgIY.jpg">
+    <img src="https://i.imgur.com/X73NgIY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ferran Torres continues his run, opening space for Jesús Navas.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/qQ2BHCF.jpg">
+    <img src="https://i.imgur.com/qQ2BHCF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Jesús Navas fakes a cross. Oihan Sancet begins a run forward, and Álvaro Morata holds his run.</figcaption>
 </figure>
 
 The faked cross bides time for Oihan Sancet to make his run so that Álvaro Morata is guaranteed space on the actual cross.
 
 <figure>
-    <img src="https://i.imgur.com/ZGxhlao.jpg">
+    <img src="https://i.imgur.com/ZGxhlao.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Both Ferran Torres and Oihan Sancet's runs push Scotland's defensive line back, giving Álvaro Morata a run onside in space.</figcaption>
 </figure>
 
 It was smart from Spain to force Scotland back so Álvaro Morata had the space to attack. That is one of the purposes of the runners: to make a run to drag defenders and create space. Those runs keep him onside once he gets past his man.
 
 <figure>
-    <img src="https://i.imgur.com/W7sppVz.jpg">
+    <img src="https://i.imgur.com/W7sppVz.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Jesús Navas crosses into Álvaro Morata.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/BbQckpr.jpg">
+    <img src="https://i.imgur.com/BbQckpr.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Álvaro Morata heads it into the ground and scores.</figcaption>
 </figure>
 

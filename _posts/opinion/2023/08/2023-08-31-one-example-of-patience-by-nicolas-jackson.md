@@ -16,17 +16,17 @@ August 31, 2023 — Chelsea is on the counter with Nicolas Jackson running forwa
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/jaAOnea.jpg">
+    <img src="https://i.imgur.com/jaAOnea.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Chelsea on the break with Nicolas Jackson on the ball. Enzo Fernandez is making the run wide.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/HzpqDTP.jpg">
+    <img src="https://i.imgur.com/HzpqDTP.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - The two AFC Wimbledon defenders follow Enzo Fernandez.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ssHKyfQ.jpg">
+    <img src="https://i.imgur.com/ssHKyfQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Nicolas Jackson waits until the two defenders fully commit to one side.</figcaption>
 </figure> 
 
@@ -37,7 +37,7 @@ Most would panic and play the ball wide to Enzo Fernandez, trapping Enzo in the 
 The patience to wait for the space is the difference that creates the chance for an uncontested shot like the one by Madueke. 
 
 <figure>
-    <img src="https://i.imgur.com/ekd3fcG.jpg">
+    <img src="https://i.imgur.com/ekd3fcG.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Noni Madueke's shot is saved.</figcaption>
 </figure> 
 

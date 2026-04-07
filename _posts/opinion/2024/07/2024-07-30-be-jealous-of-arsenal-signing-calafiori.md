@@ -8,7 +8,7 @@ tags:
 - "Arsenal"
 - "Mikel Arteta"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/26/Image-26Jul2024_00:43:59.png"
+image: "/images/uploads/2024/07/26/Image-26Jul2024_00:43:59.png"
 ---
 
 You should be jealous of Arsenal for signing Ricardo Calafori because he is the poster child for the modern defender. He is Ben White, Jurrien Timber, Oleksander Zinchenko, and Jakub Kiwior combined into one. Versatility is in because rotation is a must.
@@ -16,7 +16,7 @@ You should be jealous of Arsenal for signing Ricardo Calafori because he is the 
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/26/Image-26Jul2024_00:43:49.png">
+    <img src="/images/uploads/2024/07/26/Image-26Jul2024_00:43:49.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The positions Ricardo Calafori can take up.</figcaption>
 </figure>
 

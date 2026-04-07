@@ -16,7 +16,7 @@ From minute one, Manchester City were challenging the first man receiving the pa
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/4DQXerM.jpeg">
+    <img src="https://i.imgur.com/4DQXerM.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Kyle Walker jumps forward to challenge the ball carrier as they are receiving at the half-way line.</figcaption>
 </figure> 
 
@@ -27,7 +27,7 @@ That someone was often right-back Kyle Walker.
 I would have preferred a midfielder, like Bernardo Silva, to be the one to make those types of tackles at the half-way line to allow Kyle Walker to stay back and mark Luis Diaz. 
 
 <figure>
-    <img src="https://i.imgur.com/AUa6roQ.jpeg">
+    <img src="https://i.imgur.com/AUa6roQ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Manchester City's man-to-man counter-press with Bernardo Silva man marking Alexis Mac Allister.</figcaption>
 </figure> 
 
@@ -37,7 +37,7 @@ They wanted him higher up the pitch to apply pressure when the ball was in Liver
 
 
 <figure>
-    <img src="https://i.imgur.com/kF4xcQN.jpeg">
+    <img src="https://i.imgur.com/kF4xcQN.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Illustration of Manchester City's in possession shape and their shape defending in transition.</figcaption>
 </figure>
 
@@ -46,12 +46,12 @@ Something to note: John Stones inverted from left center-back instead of the rig
 It was a very offensive attacking strategy from Manchester City. John Stones inverting into the pivot left Ake, Akanji, and Walker back to defend against four Liverpool forwards most times. 
 
 <figure>
-    <img src="https://i.imgur.com/GOeHHfm.jpeg">
+    <img src="https://i.imgur.com/GOeHHfm.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Kyle Walker begins to jump as Alexis Mac Allister plays the ball to Dominik Szoboszlai.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/BgaBR8O.jpeg">
+    <img src="https://i.imgur.com/BgaBR8O.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Luis Diaz in massive amounts of space as Kyle Walker attempts the tackle.</figcaption>
 </figure> 
 
@@ -60,7 +60,7 @@ When you commit that many forward with only three back, Kyle Walker gets a littl
 They would have been less defensively vulnerable if the back-line stayed in line, stayed back, didn't jump. Let the midfield chase and apply pressure.
 
 <figure>
-    <img src="https://i.imgur.com/6hrcWkV.jpeg">
+    <img src="https://i.imgur.com/6hrcWkV.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Illustration of what Manchester City could have instead used in possession and when defending in transition.</figcaption>
 </figure> 
 

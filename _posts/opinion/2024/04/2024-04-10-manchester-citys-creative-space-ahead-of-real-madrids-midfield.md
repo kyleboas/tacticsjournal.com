@@ -18,22 +18,22 @@ John Stones inverted from center-back into the midfield, occupying space in the 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/Ixo4Quu.jpg">
+    <img src="https://i.imgur.com/Ixo4Quu.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - John Stones in a pocket between Real Madrid's second and front line.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/t0Uj9As.jpeg">
+    <img src="https://i.imgur.com/t0Uj9As.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Rodri carrying the ball forward in the pocket ahead of Real Madrid's midfield. Lack of runners ahead.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/QRsMKGK.jpeg">
+    <img src="https://i.imgur.com/QRsMKGK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - John Stones in the pocket.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Gsq5Vbk.jpeg">
+    <img src="https://i.imgur.com/Gsq5Vbk.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Ball is wide, space central in front of Real Madrid's second line, but Manchester City lack runners into the box.</figcaption>
 </figure> 
 
@@ -44,24 +44,24 @@ It's one thing to get in to that space, it's another thing to try to get into th
 Rodri is capable of playing that pass through but Stones is a little more clumsy and slow to turn to pass. Both were slow to release the ball once they received in that space. 
 
 <figure>
-    <img src="https://i.imgur.com/8HYGRe5.jpeg">
+    <img src="https://i.imgur.com/8HYGRe5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Vinicius Junior plays a through ball to Rodrygo.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7TJCrOK.jpg">
+    <img src="https://i.imgur.com/7TJCrOK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Rodrygo in on goal past Manuel Akanji.</figcaption>
 </figure> 
 
 The main threat is the counter from Real Madrid, which should have deterred John Stones from inverting into the midfield, but it didn't in the first half. Stones persisted and City left Akanji, Dias, and Gvardiol back to defend against Real Madrid's potent counter down the left-hand side. 
 
 <figure>
-    <img src="https://i.imgur.com/9G0Hx4r.jpeg">
+    <img src="https://i.imgur.com/9G0Hx4r.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - John Stones running beyond Real Madrid's back line and Rodri attempts to play him in.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/O0YcwfU.jpeg">
+    <img src="https://i.imgur.com/O0YcwfU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of possible passing patterns with a player like Kevin De Bruyne in the pocket ahead of Real Madrid's midfield.</figcaption>
 </figure> 
 

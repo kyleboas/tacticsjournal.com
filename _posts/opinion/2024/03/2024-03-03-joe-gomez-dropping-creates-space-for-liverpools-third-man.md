@@ -16,7 +16,7 @@ Liverpool had an easier time progressing past Nottingham Forest's mid-block when
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/YIBJBZo.jpeg">
+    <img src="https://i.imgur.com/YIBJBZo.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Joe Gomez stays in the pivot with Alexis Mac Allister, while Harvey Elliot drifts over to the left.</figcaption>
 </figure> 
 
@@ -27,26 +27,26 @@ They'd be free, like Elliot is in this example, because their man could not foll
 The problem is that Joe Gomez, acting as a 6, was staying in the double pivot with Alexis Mac Allister. This clogged the middle of the pitch.
 
 <figure>
-    <img src="https://i.imgur.com/kvKMOzf.jpeg">
+    <img src="https://i.imgur.com/kvKMOzf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Joe Gomez drops between Virgil van Dijk and Ibrahima Konate.</figcaption>
 </figure> 
 
 When Gomez dropped between the center-backs, everything opened up. 
 
 <figure>
-    <img src="https://i.imgur.com/sKj7kiC.jpeg">
+    <img src="https://i.imgur.com/sKj7kiC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Joe Gomez drops between the center-backs, opening space for Harvey Elliott to drop and receive the ball.</figcaption>
 </figure>
 
 Now Elliott has space on the ball to recieve and turn to play to the third man, Cody Gakpo. If Gomez stays in the pivot, Mac Allister can't form that triangle with Elliott and Gakpo. 
 
 <figure>
-    <img src="https://i.imgur.com/DuKD61u.jpeg">
+    <img src="https://i.imgur.com/DuKD61u.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Joe Gomez drops between the center-backs.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/dYEAaop.jpeg">
+    <img src="https://i.imgur.com/dYEAaop.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Bobby Clark carries the ball forward and the third man, Alexis Mac Allister, is free.</figcaption>
 </figure> 
 

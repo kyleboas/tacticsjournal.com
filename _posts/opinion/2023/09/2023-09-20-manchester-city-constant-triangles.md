@@ -17,12 +17,12 @@ September 20, 2023 — Constant triangles. The full-back pushes forward, and Man
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/ovYGvqj.jpg">
+    <img src="https://i.imgur.com/ovYGvqj.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester City's 3-4-3 diamond</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/GDd86wF.jpg">
+    <img src="https://i.imgur.com/GDd86wF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - An illustration of Manchester City's 3-4-3 diamond in the first and second half</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ A diamond is the opposite. Rodri, Foden, Nunes, and Alvarez are constantly switc
 Another difference is the wingers and how they interact with the midfielder underlapping in the half-space and the defender overlapping behind.
 
 <figure>
-    <img src="https://i.imgur.com/slrbJDX.jpg">
+    <img src="https://i.imgur.com/slrbJDX.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Illustration of the difference between Manchester City's box midfield and diamond when the right-winger has the ball</figcaption>
 </figure>
 
@@ -64,29 +64,29 @@ They did manage to create overlapping runs towards the end of the 1st half, but 
 This one minor drawback with the wingers can be quickly overlooked because the number of passing options each player has is a dream.
 
 <figure>
-    <img src="https://i.imgur.com/hbasJr7.jpg">
+    <img src="https://i.imgur.com/hbasJr7.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/ORDsIav.jpg">
+    <img src="https://i.imgur.com/ORDsIav.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/lzCY3ve.jpg">
+    <img src="https://i.imgur.com/lzCY3ve.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/SV8YTFw.jpg">
+    <img src="https://i.imgur.com/SV8YTFw.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4</figcaption>
 </figure>
 
 Each player has at least two passing options at all times. It is mentally and physically exhausting to defend against.
 
 <figure>
-    <img src="https://i.imgur.com/tjukkXi.jpg">
+    <img src="https://i.imgur.com/tjukkXi.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Illustration of a rondo drill with three defenders</figcaption>
 </figure>
 
@@ -97,41 +97,41 @@ Normally it's like this where the other team is chasing City, but with a 3-4-3 d
 No matter where you go on the pitch, there is a triangle. Pass, immediate triangle, pass, immediate triangle, pass, immediate triangle. You can't get that with any other formation. It's a constant.
 
 <figure>
-    <img src="https://i.imgur.com/urF0P25.jpg">
+    <img src="https://i.imgur.com/urF0P25.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.5</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/MTNdyEI.jpg">
+    <img src="https://i.imgur.com/MTNdyEI.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.6</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/XcU9rEN.jpg">
+    <img src="https://i.imgur.com/XcU9rEN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.7</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/AJWp7pk.jpg">
+    <img src="https://i.imgur.com/AJWp7pk.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.8</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/0kXdsu7.jpg">
+    <img src="https://i.imgur.com/0kXdsu7.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.9</figcaption>
 </figure>
 
 Those constant triangles allow Manchester City to easily maintain possession while they swiftly play through between the lines, slotting in either a midfielder in the half-space, a winger, the odd run by Kyle Walker from the back, or Erling Haaland into the box.
 
 <figure>
-    <img src="https://i.imgur.com/utkg7Qq.jpg">
+    <img src="https://i.imgur.com/utkg7Qq.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - <a href="https://x.com/betweentheposts/status/1704255231511437563?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Pitchplot of the entire match by Between The Posts</a></figcaption>
 </figure>
 
 They very easily created tons of high-quality chances. 38 shots with 4.12 open play xG is immense. Should have finished more of those chances, but that's football. Some days you can't buy a goal; other days, they would have had 10.
 
 <figure>
-    <img src="https://i.imgur.com/qlcgUCF.jpg">
+    <img src="https://i.imgur.com/qlcgUCF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - The positional movement when in defensive transition.</figcaption>
 </figure>
 

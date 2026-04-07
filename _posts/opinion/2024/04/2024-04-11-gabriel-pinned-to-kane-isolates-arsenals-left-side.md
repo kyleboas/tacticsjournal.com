@@ -16,36 +16,36 @@ Gabriel was pinned to Harry Kane, which isolated Jakub Kiwior and Zinchenko. Bay
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/07BjYtl.jpeg">
+    <img src="https://i.imgur.com/07BjYtl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Joshua Kimmich and Matthijs de Ligt collect the ball from Manuel Neuer, then play it up the wing.</figcaption>
 </figure> 
 
 Bayern Munich had this smart routine during goal kicks. Matthijs de Ligt stayed close to Kimmich to ensure both Havertz and Martinelli marked them. Because Arsenal like pressing aggressively, this forced Declan Rice to push high. If de Ligt isn't there, Havertz can mark the player Rice is marking. 
 
 <figure>
-    <img src="https://i.imgur.com/Dp5njEs.jpeg">
+    <img src="https://i.imgur.com/Dp5njEs.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Leroy Sané receives with Jakub Kiwior at his back. Gabriel pushes forward to cover Harry Kane.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4ce4CPj.jpeg">
+    <img src="https://i.imgur.com/4ce4CPj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Leroy Sané in on goal because Gabriel is pinned to Harry Kane.</figcaption>
 </figure> 
 
 Gabriel can't help Kiwior because he is tasked with marking Harry Kane. The moment he dismarks from Kane, Kane is in on goal. Instead, they allow Sané in on goal. 
 
 <figure>
-    <img src="https://i.imgur.com/q8hU0nl.jpeg">
+    <img src="https://i.imgur.com/q8hU0nl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Gabriel in-line with Harry Kane.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/OdULHPB.jpeg">
+    <img src="https://i.imgur.com/OdULHPB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Gabriel in-line with Harry Kane during a throw-in.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/41mEsJq.jpeg">
+    <img src="https://i.imgur.com/41mEsJq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Gabriel jumps forward to cover Harry Kane, and the pass is on down the right-wing because Zinchenko challenges the ball.</figcaption>
 </figure> 
 
@@ -56,7 +56,7 @@ Arsenal should keep their back-line in line with Gabriel. Saliba and White on th
 Maybe Declan Rice can try to not take the bait by staying forward, and instead sit further back when the left-back moves forward. Avoid the De Ligt pressing trigger, allow De Ligt to pass the ball, and move Havertz back to mark the player Rice would normally mark. Allow Bayern Munich to have more possession in their own half but shut-off distribution into the wingers and Musiala. 
 
 <figure>
-    <img src="https://i.imgur.com/XC8J9Ri.jpeg">
+    <img src="https://i.imgur.com/XC8J9Ri.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Space in transition after attacking down the right-wing.</figcaption>
 </figure> 
 

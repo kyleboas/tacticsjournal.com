@@ -16,7 +16,7 @@ Liverpool can be relentless pressers when they want to, but the main threat does
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/V6kO1DX.jpeg">
+    <img src="https://i.imgur.com/V6kO1DX.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Alexis Mac Allister challenges the ball carrier.</figcaption>
 </figure> 
 
@@ -29,12 +29,12 @@ Bournemouth manager Andoni Iraola in the [post-match press conference](https://y
 > "I think we could defend better, react more quickly to these second balls. It's really physical. They keep 400 minutes of this high intensity. They win a lot of duels in the middle. Once you become a little bit weaker, don't arrive too early, start leaving them a little bit more space, it becomes really difficult because they take their chances."
 
 <figure>
-    <img src="https://i.imgur.com/f5lfY5R.jpeg">
+    <img src="https://i.imgur.com/f5lfY5R.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Alexis Mac Allister wins the ball and passes forward to Diogo Jota.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/VnI8JO1.jpeg">
+    <img src="https://i.imgur.com/VnI8JO1.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Liverpool on the counter, but Diogo Jota does not pass the ball to Darwin Nunez.</figcaption>
 </figure> 
 

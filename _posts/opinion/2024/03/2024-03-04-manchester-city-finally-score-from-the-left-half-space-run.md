@@ -17,22 +17,22 @@ It is a product of Manchester City's overload on the left, and the way they pass
 
 
 <figure>
-    <img src="https://i.imgur.com/F8OBTkP.jpeg">
+    <img src="https://i.imgur.com/F8OBTkP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Phil Foden passes to Julian Alvarez as he moves wide.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Nxckonr.jpeg">
+    <img src="https://i.imgur.com/Nxckonr.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Phil Foden immediately makes the run into the left half-space after the pass, and Erling Haaland makes a run into the box to drag his defender away from the space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/W7pchVo.jpeg">
+    <img src="https://i.imgur.com/W7pchVo.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Julian Alvarez passes to Phil Foden.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/K4l4Um5.jpeg">
+    <img src="https://i.imgur.com/K4l4Um5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Illustration of the potential pass to Phil Foden and cross to Erling Haaland.</figcaption>
 </figure> 
 
@@ -43,7 +43,7 @@ I predicted [after the Brentford game](https://tacticsjournal.com/2024/02/21/haa
 Erling Haaland dragging the defender away from the space is key to Foden having the room to drive at the goal.
 
 <figure>
-    <img src="https://i.imgur.com/g5fxa3W.jpeg">
+    <img src="https://i.imgur.com/g5fxa3W.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Phil Foden shoots and scores but the cut-back to Erling Haaland is availble as he holds his run.</figcaption>
 </figure> 
 
@@ -52,19 +52,19 @@ With how expert Haaland is at curving and timing his runs to create space, the c
 Credit to Foden for trying the harder option, shooting. The shot was so well executed, it caught Andre Onana off-guard. 
 
 <figure>
-    <img src="https://i.imgur.com/eEavj9K.jpeg">
+    <img src="https://i.imgur.com/eEavj9K.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Erling Haaland begins a curved run as Kevin De Bruyne passes to Rodri.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/zqGgSjA.jpeg">
+    <img src="https://i.imgur.com/zqGgSjA.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Rodri receives the ball as Erling Haaland completes his run.</figcaption>
 </figure> 
 
 As Manchester City slowly work the ball left to right, these little runs to surprise the opposition defense are always happening. If Rodri gets that ball half a second sooner, he could chip a ball over the top and Haaland would have a first-time shot at goal. 
 
 <figure>
-    <img src="https://i.imgur.com/uJR7fDa.jpeg">
+    <img src="https://i.imgur.com/uJR7fDa.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Phil Foden receives the pass from Rodri.</figcaption>
 </figure> 
 

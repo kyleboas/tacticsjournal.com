@@ -16,22 +16,22 @@ Shutting off the passing lane to Arsenal's 8s, a high Arsenal counter-press to f
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/yHYbWQx.jpg">
+    <img src="https://i.imgur.com/yHYbWQx.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Martin Ødegaard free in the right half-space. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/p6Icb1L.jpeg">
+    <img src="https://i.imgur.com/p6Icb1L.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Manchester City allow Martin Ødegaard to check to the ball, opening up this wall pass infield. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0Ipgakc.jpeg">
+    <img src="https://i.imgur.com/0Ipgakc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Martin Ødegaard open in the middle of the pitch to receive and turn.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/N82L9JZ.jpeg">
+    <img src="https://i.imgur.com/N82L9JZ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Martin Ødegaard turns and passes wide to Gabriel Jesus.</figcaption>
 </figure> 
 
@@ -40,12 +40,12 @@ In [their last meeting at the Emirates in October](https://tacticsjournal.com/20
 Arsenal need access to Martin Ødegaard. They need those wall passes like in **Figure 2.1** to work from the wide areas, out to in, to open play. If you allow them to have that central outlet in the midfield to turn and switch play like in **Figure 3.1 and 3.2**, you can't press as aggressively and play becomes very open. 
 
 <figure>
-    <img src="https://i.imgur.com/ws14VO2.jpeg">
+    <img src="https://i.imgur.com/ws14VO2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Porto shadow cover to force Arsenal to play up the wing, blocking the pass inside or back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/JNXnaTP.jpeg">
+    <img src="https://i.imgur.com/JNXnaTP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Ben White inverting to try to disrupt Porto's structure. Jorginho drops. Porto continue their shadow cover to block the pass central or wide on the ground.</figcaption>
 </figure> 
 
@@ -58,7 +58,7 @@ Worst comes to worst, Ødegaard must always be covered. This sounds like a job f
 If I'm Arsenal, I would constantly be moving Ødegaard around to open that passing lane into him, into feet. Get the ball into his feet and it will become a basketball game, and we know how well City have managed transition games lately. 
 
 <figure>
-    <img src="https://i.imgur.com/opSeuFO.jpeg">
+    <img src="https://i.imgur.com/opSeuFO.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Arsenal's high and intense counter-press.</figcaption>
 </figure> 
 
@@ -74,23 +74,23 @@ Billy Carpenter put out a preview for the match, delving deep into the data, [wh
 Josko Gvardiol is great but having someone like Jack Grealish, Bernardo Silva, or Phil Foden there on the left side of the pitch to the left of Nathan Ake would help in the build-up and in attack. 
 
 <figure>
-    <img src="https://i.imgur.com/1C0ZBEn.jpg">
+    <img src="https://i.imgur.com/1C0ZBEn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Phil Foden moves infield opening space wide for Nathan Ake to play Josko Gvardiol in.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Y5A5w1s.jpg">
+    <img src="https://i.imgur.com/Y5A5w1s.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Josko Gvardiol open on the break because Phil Foden drags Ben White infield.</figcaption>
 </figure> 
 
 Arsenal ignored Gvardiol. Ben White followed Phil Foden inside on several occasions leaving Gvardiol free. The problem is that Gvardiol is not very good at crossing. He has the pace to be a problem down the wing, but the delivery on the run is inconsistent. 
 
 <figure>
-    <img src="https://i.imgur.com/EPDxVKK.jpeg">
+    <img src="https://i.imgur.com/EPDxVKK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 8.1 - Ball is played forward to Phil Foden and Josko Gvardiol runs on to the pass.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/iUd3aT9.jpeg">
+    <img src="https://i.imgur.com/iUd3aT9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 8.2 - Josko Gvardiol carries infield and Ben White follows him.</figcaption>
 </figure> 
 
@@ -99,7 +99,7 @@ You'd rather have someone like a Jack Grealish bursting into the middle of the f
 Have someone like Jérémy Doku or Phil Foden invert from the left-wing, then have Bernardo Silva or Jack Grealish holding width. Overload that left-wing and put a lot of pressure on Ben White's ankles.
 
 <figure>
-    <img src="https://i.imgur.com/iu8Dwhj.jpeg">
+    <img src="https://i.imgur.com/iu8Dwhj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 9.1 - Illustration of a proposed lineup and formation out-of-possession for Manchester City.</figcaption>
 </figure> 
 

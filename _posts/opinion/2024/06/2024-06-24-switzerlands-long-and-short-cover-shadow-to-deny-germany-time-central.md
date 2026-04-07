@@ -9,7 +9,7 @@ tags:
 - "Germany"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/24/Image-24Jun2024_00:16:02.png"
+image: "/images/uploads/2024/06/24/Image-24Jun2024_00:16:02.png"
 ---
 
 The entire match I watched Granit Xhaka and Remo Freuler to see how Switzerland denied Germany time central. There was always at least one cover-shadow for the longer pass, and depending on where the ball was, one cover-shadow for the shorter pass.
@@ -17,14 +17,14 @@ The entire match I watched Granit Xhaka and Remo Freuler to see how Switzerland 
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/24/Image-24Jun2024_00%3A12%3A39.png">
+    <img src="/images/uploads/2024/06/24/Image-24Jun2024_00%3A12%3A39.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Granit Xhaka provides the long cover-shadow, and Remo Freuler provides the short cover-shadow.</figcaption>
 </figure>
 
 Being that Xhaka and Freuler were at the base of their midfield, they were the ones most responsible for finding the pass no one else was looking for. As holding midfielders, they know best how to read Toni Kroos, Robert Andrich, and the rest of the German defenders when they look to play forward into Kai Havertz, İlkay Gündoğan, Jamal Musiala, and Florian Wirtz. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/24/Image-24Jun2024_00%3A12%3A41.png">
+    <img src="/images/uploads/2024/06/24/Image-24Jun2024_00%3A12%3A41.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Granit Xhaka provides the long cover-shadow, and Remo Freuler provides the short cover-shadow.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Each German forward had their own zone of attack. They would swap between zones,
 Switzerland's backline stays flat in a line across the pitch.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/24/Image-24Jun2024_00%3A12%3A42.png">
+    <img src="/images/uploads/2024/06/24/Image-24Jun2024_00%3A12%3A42.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Switzerland press and Remo Freuler stay back to provide the long cover-shadow.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Once Switzerland commits to pressing the ball, each player follows their closest
 It was almost as if Switzerland were baiting this pass because each player in and around the ball was waiting to collapse centrally. They put pressure on the backline but always had an eye behind them to anticipate and surround the pass forward.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/24/Image-24Jun2024_00%3A12%3A44.png">
+    <img src="/images/uploads/2024/06/24/Image-24Jun2024_00%3A12%3A44.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Remo Freuler provides the long cover-shadow as Germany transitions into the final third. </figcaption>
 </figure>
 

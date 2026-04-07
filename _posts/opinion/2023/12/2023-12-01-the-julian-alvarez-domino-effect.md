@@ -18,34 +18,34 @@ Manchester City has a plethora of players who dribble at defenders to draw them 
 Alvarez was subbed on in the 54th minute, and seconds later, Manchester City scored their first goal.
 
 <figure>
-    <img src="https://i.imgur.com/3H9dXEC.jpg">
+    <img src="https://i.imgur.com/3H9dXEC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - 3-4-3 build-up shape in the middle third. Manuel Akanji passes to Rodri.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/xak6pLt.jpg">
+    <img src="https://i.imgur.com/xak6pLt.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Julian Alvarez moves back to receive the pass in space.</figcaption>
 </figure>
 
 Julian Alvarez's movement back, before receiving the ball, opens up the space ahead of him to take his first touch into.
 
 <figure>
-    <img src="https://i.imgur.com/QXnx4HX.jpg">
+    <img src="https://i.imgur.com/QXnx4HX.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Julian Alvarez's first touch.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/Oig5bzc.jpg">
+    <img src="https://i.imgur.com/Oig5bzc.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Julian Alvarez passes to Phil Foden.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/MCK96FK.jpg">
+    <img src="https://i.imgur.com/MCK96FK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Phil Foden passes to Erling Haaland.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/JiPimhF.jpg">
+    <img src="https://i.imgur.com/JiPimhF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Erling Haaland is in on goal.</figcaption>
 </figure>
 
@@ -54,29 +54,29 @@ Four passes and they are in on goal. That movement draws the defender behind Alv
 It's a domino effect.
 
 <figure>
-    <img src="https://i.imgur.com/3B3asXD.jpg">
+    <img src="https://i.imgur.com/3B3asXD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Julian Alvarez feints towards the ball and then moves back.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/6RWHnlc.jpg">
+    <img src="https://i.imgur.com/6RWHnlc.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Julian Alvarez backpedals into the right half-space, drawing two defenders towards him. This creates more space for Phil Foden, 1v1.</figcaption>
 </figure>
 
 Julian Alvarez again creates space for his teammates. That movement back creates space on the opposite side of the pitch for Phil Foden to operate in, isolating him 1v1. It shifts RB Leipzig to the ball-side, leaving more space free on the far-side.
 
 <figure>
-    <img src="https://i.imgur.com/nWKALaQ.jpg">
+    <img src="https://i.imgur.com/nWKALaQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Josko Gvardiol passes to Phil Foden.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/r22tVG1.jpg">
+    <img src="https://i.imgur.com/r22tVG1.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Phil Foden receives the pass in space.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/97WChfN.jpg">
+    <img src="https://i.imgur.com/97WChfN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Phil Foden beats his man, shoots, and scores.</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ That space for Phil Foden is created by Julian Alvarez. They are already marking
 Foden doesn't need a lot of space, but if you give him a ton he can beat his man 1v1. Without that space, there's a good chance he wouldn't sit in that pocket at the top of the box, or attempt to dribble past his marker.
 
 <figure>
-    <img src="https://i.imgur.com/TSMXY0K.jpg">
+    <img src="https://i.imgur.com/TSMXY0K.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - After Manchester City equalize, the switch to a 3-2-2-3 box midfield.</figcaption>
 </figure>
 
@@ -94,17 +94,17 @@ Of note; when Alvarez came on, Manchester City was using a 3-4-3 diamond formati
 The box midfield, once an exotic and new formation last season, has now turned into their conservative approach to maintain the scoreline or stem the tide of a desperate opposition's attack. They only needed a draw to top the group, so going safe is smart, but it's interesting that is now their defensive go-to.
 
 <figure>
-    <img src="https://i.imgur.com/fyzWC6W.jpg">
+    <img src="https://i.imgur.com/fyzWC6W.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Phil Foden feints left but turns towards the goal-line.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/fOEQYZi.jpg">
+    <img src="https://i.imgur.com/fOEQYZi.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Julian Alvarez holds his run, to sit in a pocket of space, and Phil Foden cuts back a pass to him.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/BLglpps.jpg">
+    <img src="https://i.imgur.com/BLglpps.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Julian Alvarez receives the ball, in space, and scores.</figcaption>
 </figure>
 

@@ -7,7 +7,7 @@ categories:
 tags:
 - "Liverpool"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/12/Image-12Aug2024_00:44:57.png"
+image: "/images/uploads/2024/08/12/Image-12Aug2024_00:44:57.png"
 ---
 
 A lot of Liverpool's play involves [one player receiving and moving back with the other moving forward](https://tacticsjournal.com/2024/08/01/liverpool-training-exercise-to-replicate-slots-build-up/); naturally, their fullbacks position themselves to the inside of the wingers to automatically overlap once the ball is played wide. 
@@ -15,7 +15,7 @@ A lot of Liverpool's play involves [one player receiving and moving back with th
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/12/Image-12Aug2024_00:44:56.png">
+    <img src="/images/uploads/2024/08/12/Image-12Aug2024_00:44:56.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The zone which fullbacks Trent Alexander-Arnold and Konstantinos Tsimikas overlap into when the ball is played wide.</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ tags:
 - "Uruguay"
 - "Copa America"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/04/Image-04Jul2024_23:32:23.png"
+image: "/images/uploads/2024/07/04/Image-04Jul2024_23:32:23.png"
 ---
 
 Left-back Antonee Robinson pushed forward to the front line when the USA had the ball, but none of the midfielders covered for him. To negate that threat, Uruguay targeted the opposite side of the pitch, showcasing a way to control an advanced fullback.
@@ -17,7 +17,7 @@ Left-back Antonee Robinson pushed forward to the front line when the USA had the
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/04/Image-04Jul2024_16:55:40.png">
+    <img src="/images/uploads/2024/07/04/Image-04Jul2024_16:55:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Antonee Robinson moves forward down the left-wing, Facundo Pellistri follows him, and Giovanni Reyna moves wide behind Robinson.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ When Antonee Robinson pushed forward, Giovanni Reyna moved from the left half-sp
 Midfielders Weston McKennie, Tyler Adams, and Yunus Musah focused all of their efforts on occupying central zones. If the ball was lost, Robinson was responsible for getting back to defend. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/04/Image-04Jul2024_16:55:43.png">
+    <img src="/images/uploads/2024/07/04/Image-04Jul2024_16:55:43.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Uruguay pass the ball vertically into the left-hand side behind the USA's right-back, forcing Antonee Robinson to stay back with the center-backs..</figcaption>
 </figure>
 

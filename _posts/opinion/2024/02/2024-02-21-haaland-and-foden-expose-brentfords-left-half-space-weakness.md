@@ -16,32 +16,32 @@ Erling Haaland and Phil Foden exposed the space in the left half-space behind Br
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/z2Kd42T.jpeg">
+    <img src="https://i.imgur.com/z2Kd42T.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Phil Foden run ignored in the 21st minute.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/K5i1ZV6.jpeg">
+    <img src="https://i.imgur.com/K5i1ZV6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Erling Haaland run ignored a few seconds later in the 21st minute.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/NymPpAj.jpeg">
+    <img src="https://i.imgur.com/NymPpAj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Phil Foden run ignored in the 45th minute.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/bnyq3Ti.jpeg">
+    <img src="https://i.imgur.com/bnyq3Ti.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Phil Foden ignored again as he continues his run.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/w9gq48p.jpeg">
+    <img src="https://i.imgur.com/w9gq48p.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Phil Foden run ignored in the 59th minute.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/K4l4Um5.jpeg">
+    <img src="https://i.imgur.com/K4l4Um5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Illustration of the potential pass to Phil Foden and cross to Erling Haaland.</figcaption>
 </figure> 
 

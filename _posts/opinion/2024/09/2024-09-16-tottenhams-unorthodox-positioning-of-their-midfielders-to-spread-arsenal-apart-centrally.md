@@ -8,7 +8,7 @@ tags:
 - "Arsenal"
 - "Tottenham"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/16/Image-16Sep2024_00:34:52.png"
+image: "/images/uploads/2024/09/16/Image-16Sep2024_00:34:52.png"
 ---
 
 Tottenham midfielders James Maddison and Dejan Kulusevski spread far apart uncharacteristically when in possession in Arsenal's half, forcing their markers Jorginho and Thomas Partey to follow them. That affected Arsenal's ability to immediately counter.
@@ -16,18 +16,18 @@ Tottenham midfielders James Maddison and Dejan Kulusevski spread far apart uncha
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/16/Image-16Sep2024_00:34:50.png">
+    <img src="/images/uploads/2024/09/16/Image-16Sep2024_00:34:50.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Tottenham in settled play in the second half. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/16/Image-16Sep2024_00:34:54.png">
+    <img src="/images/uploads/2024/09/16/Image-16Sep2024_00:34:54.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Arsenal more reserved in the second half, creating more space centrally.</figcaption>
 </figure>
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/16/Image-16Sep2024_00:34:56.png">
+    <img src="/images/uploads/2024/09/16/Image-16Sep2024_00:34:56.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Tottenham in transition to attack, moving to slower settled play, with a lot of space created centrally.</figcaption>
 </figure>
 

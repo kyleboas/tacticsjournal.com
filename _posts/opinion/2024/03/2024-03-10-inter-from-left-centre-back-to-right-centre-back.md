@@ -16,12 +16,12 @@ Inter use their outside center-backs, Yann Bisseck and Alessandro Bastoni, to st
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/sFV3x7F.jpeg">
+    <img src="https://i.imgur.com/sFV3x7F.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Yann Bisseck and Alessandro Bastoni push wide up the field opening space central.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DxKk75U.jpeg">
+    <img src="https://i.imgur.com/DxKk75U.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Space in front of the second line because Bologna are pushed back.</figcaption>
 </figure> 
 
@@ -32,12 +32,12 @@ As Bisseck and Bastoni move wide, this draws Bologna's left and right midfielder
 When Bisseck makes this run into the box, that midfielder that should be clogging the middle of the pitch is now having to follow him. If Bologna were to win back the ball, now they're down one less man in attack.
 
 <figure>
-    <img src="https://i.imgur.com/XLQMpHU.jpeg">
+    <img src="https://i.imgur.com/XLQMpHU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Alessandro Bastoni crosses towards the back post.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4ZBLVJ5.jpeg">
+    <img src="https://i.imgur.com/4ZBLVJ5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Yann Bisseck heads the ball in for the goal.</figcaption>
 </figure> 
 

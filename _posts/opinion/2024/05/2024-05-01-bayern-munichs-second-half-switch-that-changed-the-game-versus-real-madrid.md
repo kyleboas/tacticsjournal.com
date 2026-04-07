@@ -18,7 +18,7 @@ In the second half, Bayern Munich subbed out Goretzka, switching to a Laimer sin
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/uoIqsnQ.jpeg">
+    <img src="https://i.imgur.com/uoIqsnQ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bayern Munich's 3-box-3 with space between Real Madrid's first and second line.</figcaption>
 </figure> 
 
@@ -27,17 +27,17 @@ This 3-box-3 is a defense. It's not conservative like a low-block or back-four, 
 If Real Madrid win the ball, Goretzka and Laimer can quickly shift back to help defenders Eric Dier, Kim Min-Jae, and Joshua Kimmich. 
 
 <figure>
-    <img src="https://i.imgur.com/YASEJdG.jpeg">
+    <img src="https://i.imgur.com/YASEJdG.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Space between Real Madrid's first and second line in the Bayern Munich build-up.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/LIdOsWR.jpeg">
+    <img src="https://i.imgur.com/LIdOsWR.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Leon Goretzka receives the ball and turns into space, to play the ball wide right.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/beSYAgx.jpeg">
+    <img src="https://i.imgur.com/beSYAgx.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - 4v3 favoring Real Madrid on the right-wing.</figcaption>
 </figure> 
 
@@ -48,12 +48,12 @@ Bayern Munich's slow automations were being outdone by Real Madrid's killer impr
 But Real Madrid are giving them a ton of space between their first and second line. That space was something that was noted in [Real Madrid's quarter-final match against Manchester City](https://tacticsjournal.com/2024/04/10/manchester-citys-creative-space-ahead-of-real-madrids-midfield/). 
 
 <figure>
-    <img src="https://i.imgur.com/UJQy5BI.jpeg">
+    <img src="https://i.imgur.com/UJQy5BI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Konrad Laimer as the single pivot for Bayern Munich with massive amounts of space between Real Madrid's first and second line.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7zdJbqW.jpeg">
+    <img src="https://i.imgur.com/7zdJbqW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Jamal Musiala inverts as Raphaël Guerreiro pushes forward, when Konrad Laimer carries forward.</figcaption>
 </figure> 
 
@@ -70,22 +70,22 @@ Play the ball into Laimer, allow Real Madrid to jump to him, the space opens in 
 Bayern Munich now always had their players attacking space ahead when the ball was played wide. That made it easier for them to quickly connect and drive into the box. 
 
 <figure>
-    <img src="https://i.imgur.com/DFcMEui.jpeg">
+    <img src="https://i.imgur.com/DFcMEui.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Pass to Konrad Laimer our of the overload on the left-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/YItBCUC.jpeg">
+    <img src="https://i.imgur.com/YItBCUC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Konrad Laimer switches to Leroy Sané.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/J1lhWq9.jpeg">
+    <img src="https://i.imgur.com/J1lhWq9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.3 - Leroy Sané receives the ball and two Bayern Munich players make dummy runs forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0F7O4YW.jpeg">
+    <img src="https://i.imgur.com/0F7O4YW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.4 - Leroy Sané shoots and scores.</figcaption>
 </figure> 
 
@@ -96,12 +96,12 @@ Now Bayern Munich allocate all their players to the back-line and front-line, wi
 Take advantage of their tired legs, immediately overload to isolate, and then quickly attack the box. 
 
 <figure>
-    <img src="https://i.imgur.com/fJ4PpJJ.jpeg">
+    <img src="https://i.imgur.com/fJ4PpJJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Kim Min-Jae passes to Thomas Müller.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/brtJjJb.jpeg">
+    <img src="https://i.imgur.com/brtJjJb.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Thomas Müller switches to Jamal Musiala.</figcaption>
 </figure>
 

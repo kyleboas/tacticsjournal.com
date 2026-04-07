@@ -7,7 +7,7 @@ categories:
 tags:
 - "Manchester United"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/24/Image-24Aug2024_01:25:20.png"
+image: "/images/uploads/2024/08/24/Image-24Aug2024_01:25:20.png"
 tweet: "Understanding the why in regard to injuries is becoming more and more important as the schedule becomes more congested. Manchester United are the most interesting team to follow because of how many problems they've had. @guillaumevdwege @UtdDistrict"
 ---
 
@@ -16,7 +16,7 @@ Understanding the why in regard to injuries is becoming more and more important 
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/24/Image-24Aug2024_01:17:39.png">
+    <img src="/images/uploads/2024/08/24/Image-24Aug2024_01:17:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Training intensity versus volume. Image credit to professionalsoccercoaching</figcaption>
 </figure>
 

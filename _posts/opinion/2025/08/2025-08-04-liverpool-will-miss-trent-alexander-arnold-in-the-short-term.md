@@ -7,7 +7,7 @@ categories:
 tags:
 - "Liverpool"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/03/Image-03Aug2025_12:25:04.png"
+image: "/images/uploads/2025/08/03/Image-03Aug2025_12:25:04.png"
 ---
 
 Liverpool are going to miss Trent Alexander-Arnold more than they imagine because Mohamed Salah thrives from direct passes into space or into his feet. He might become lost in the game without them in the short-term. 

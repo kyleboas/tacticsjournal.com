@@ -17,12 +17,12 @@ Throughout the match, Manchester City defaulted to baiting Tottenham's second li
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/XgRGle3.jpeg">
+    <img src="https://i.imgur.com/XgRGle3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Tottenham 4-1-4-1 out of possession structure.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/73EqAyy.jpeg">
+    <img src="https://i.imgur.com/73EqAyy.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Tottenham's compact lines with a high offside trap.</figcaption>
 </figure> 
 
@@ -31,7 +31,7 @@ Manchester City did not have the necessary speed in attack to take advantage of 
 They need to force Tottenham to defend in their own box because City are made for the tighter spaces. Quick acceleration and short passes. Tottenham have the advantage in the larger spaces due to their speed and elite defensive organization.
 
 <figure>
-    <img src="https://i.imgur.com/kUMSZ8P.jpg">
+    <img src="https://i.imgur.com/kUMSZ8P.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Bernardo Silva receives the ball and has several passing options open forward.</figcaption>
 </figure> 
 
@@ -40,17 +40,17 @@ I began to notice in the first half, but more so in the second half, that Manche
 Bernardo Silva can carry the ball forward or attempt a progressive pass, but when he does, Tottenham's second line will be able to collapse on the ball carrier, with the help of either Cristian Romero or Micky Van de Veen stepping out from the back line. 
 
 <figure>
-    <img src="https://i.imgur.com/EAE454f.jpeg">
+    <img src="https://i.imgur.com/EAE454f.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Bernardo Silva ignores all those choices and passes back to Ruben Dias.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ZspkeK9.jpeg">
+    <img src="https://i.imgur.com/ZspkeK9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Ruben Dias passes back to Stefan Ortega.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/87hb3YS.jpeg">
+    <img src="https://i.imgur.com/87hb3YS.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Stefan Ortega kicks the ball forward to the two front men.</figcaption>
 </figure> 
 
@@ -59,17 +59,17 @@ Bernardo Silva can carry the ball forward or attempt a progressive pass, but whe
 Tottenham is hard-wired to press without thinking so they always take the bait. 
 
 <figure>
-    <img src="https://i.imgur.com/GfAVUF7.jpeg">
+    <img src="https://i.imgur.com/GfAVUF7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.5 - Mateo Kovacic heads the ball down to Phil Foden. Manchester City has the numerical advantage.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/6zZdFCQ.jpeg">
+    <img src="https://i.imgur.com/6zZdFCQ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.6 - Phil Foden carries the ball forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/y4T0EQT.jpeg">
+    <img src="https://i.imgur.com/y4T0EQT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.7 - 6v5 for Manchester City with Tottenham's lines stretched.</figcaption>
 </figure> 
 

@@ -18,19 +18,19 @@ PSG played side-to-side in the first half, had little success, and then adjusted
 <!---more---> 
 
 <figure>
-    <img src="https://i.imgur.com/D0RaF67.jpg">
+    <img src="https://i.imgur.com/D0RaF67.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Newcastle's 4-5-1 low-block in the final third.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/K2nYuj5.jpg">
+    <img src="https://i.imgur.com/K2nYuj5.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Another angle of Newcastle's 4-5-1 low-block.</figcaption>
 </figure> 
 
 Like in [their last meeting at St. James' Park](https://tacticsjournal.com/2023/10/07/champions-league-football-at-st-james-park/), Newcastle were set up very well defensively. It was passive, but I was impressed at the two different ways they neutralized Kylian Mbappe and stopped whoever attempted to attack from the right-wing. 
 
 <figure>
-    <img src="https://i.imgur.com/Js1aLXc.jpg">
+    <img src="https://i.imgur.com/Js1aLXc.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Newcastle double-team Kylian Mbappe, while tightly marking in the box 4v3, and blocking off the pass to the man at the top of the box.</figcaption>
 </figure> 
 
@@ -41,7 +41,7 @@ Cutting off the pass at the top of the box was smart because if I were Mbappe, t
 That is why they didn't want him to take it to the goal line, and instead attempted to force him inside, because if he did, the cut-back would likely be hard to mark. 
 
 <figure>
-    <img src="https://i.imgur.com/yC2BGTJ.jpg">
+    <img src="https://i.imgur.com/yC2BGTJ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - When PSG receives the ball wide on their right, Newcastle form this box.</figcaption>
 </figure> 
 
@@ -50,24 +50,24 @@ Valentino Livramento at left-back had an exceptional game, but it was the coordi
 That forced PSG to attempt to progress centrally, and they only began to create chances through the middle in the second half.
 
 <figure>
-    <img src="https://i.imgur.com/3pjj0Gn.jpg">
+    <img src="https://i.imgur.com/3pjj0Gn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Kang-In Lee passes through a line, and PSG breaks into the box off a wall pass to Ousmane Dembele.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vCVRVfl.jpg">
+    <img src="https://i.imgur.com/vCVRVfl.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Ousmane Dembele is in.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sF96rYq.jpg">
+    <img src="https://i.imgur.com/sF96rYq.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Manuel Ugarte passes through a line to Kylian Mbappe, with an option for the wall pass into the box.</figcaption>
 </figure> 
 
 Bypassing a line, breaking a line, was PSG's only hope. By playing those line-breaking passes, they remove the ability for Newcastle to surround the carrier with two or more defenders. It's 2v2 or 2v1, and then 1v1 with the impenetrable Nick Pope in goal. 
 
 <figure>
-    <img src="https://i.imgur.com/fl6PAbk.jpg">
+    <img src="https://i.imgur.com/fl6PAbk.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Vitinha passes through a line to Ousmane Dembele, the pass that created the handball situation.</figcaption>
 </figure> 
 

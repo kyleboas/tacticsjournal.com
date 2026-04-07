@@ -9,7 +9,7 @@ tags:
 - "Denmark"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/30/Image-30Jun2024_01:10:41.png"
+image: "/images/uploads/2024/06/30/Image-30Jun2024_01:10:41.png"
 ---
 
 Germany made an adjustment from the match against Switzerland to open space central against Denmark for Robert Andrich by having İlkay Gündoğan stay ahead of Jamal Musiala and Leory Sané. This gave them time to play vertically to runners ahead.
@@ -17,14 +17,14 @@ Germany made an adjustment from the match against Switzerland to open space cent
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/30/Image-30Jun2024_00:31:53.png">
+    <img src="/images/uploads/2024/06/30/Image-30Jun2024_00:31:53.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Granit Xhaka provides the long cover-shadow, and Remo Freuler provides the short cover-shadow. İlkay Gündoğan is ahead of Florian Wirtz and Jamal Musiala. </figcaption>
 </figure>
 
 Switzerland used [their long cover-shadow and short cover-shadow](https://tacticsjournal.com/2024/06/24/switzerlands-long-and-short-cover-shadow-to-deny-germany-time-central/) to deny Germany time in the center of the pitch. İlkay Gündoğan, as he normally does, sits ahead of Florian Wirtz and Jamal Musiala, closer to the ball.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/29/Image-29Jun2024_23%3A07%3A33.png">
+    <img src="/images/uploads/2024/06/29/Image-29Jun2024_23%3A07%3A33.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - İlkay Gündoğan is behind Florian Wirtz and Jamal Musiala, with Robert Andrich in a pocket of space. </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Germany manager Julian Nagelsmann talked before the match about why he started L
 In order to facilitate 'deep runs' with short to medium-length passes through, you need to receive the ball central. If you are denied space central, then you would have to play longer-range passes. Longer-range passes are effective, but they are more effective when paired with short and medium-length passes. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/30/Image-30Jun2024_00:50:27.png">
+    <img src="/images/uploads/2024/06/30/Image-30Jun2024_00:50:27.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - The ball is played into İlkay Gündoğan's feet; he passes back-and-forth once with Jamal Musiala; Gündoğan passes to Robert Andrich; and then out to Joshua Kimmich. </figcaption>
 </figure>
 

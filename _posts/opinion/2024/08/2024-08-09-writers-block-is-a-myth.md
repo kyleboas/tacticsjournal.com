@@ -4,7 +4,7 @@ date: 2024-08-09 11:00 UTC
 title: "Writer's block is a myth"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/09/Image-09Aug2024_01:53:00.png"
+image: "/images/uploads/2024/08/09/Image-09Aug2024_01:53:00.png"
 ---
 
 If you want to write about football, make your own blog, own access to your work, own your space, and then ship. Don't be afraid of being imperfect. It will never be perfect. Write like you talk.

@@ -6,7 +6,7 @@ categories:
 - "opinion"
 tags:
 - "Sponsor"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/07/Image-07Aug2024_13:05:12.png"
+image: "/images/uploads/2024/08/07/Image-07Aug2024_13:05:12.png"
 ---
 
 Sponsored: I asked people I know, "where do you shop for sports gear?" The site mentioned the most was Fanatics. With the new season starting, now is the perfect time to buy your team's new kit.

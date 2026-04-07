@@ -10,7 +10,7 @@ tags:
 - "La Liga"
 - "Bundesliga"
 - "Champions League"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/02/Image-02Jun2024_00:49:33.png?raw=true"
+image: "/images/uploads/2024/06/02/Image-02Jun2024_00:49:33.png"
 ---
 
 It wasn't a masterclass, but Real Madrid deserved to win the Champions League because of how well they defended. Managers, like Carlo Ancelotti, that give freedom to the players in attack come off as withdrawn, but the difference comes in defense.
@@ -29,7 +29,7 @@ This approach is foreign in the modern game, but it wasn't foreign years ago. I 
 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/02/Image-02Jun2024_01:22:30.png?raw=true">
+    <img src="/images/uploads/2024/06/02/Image-02Jun2024_01:22:30.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Real Madrid sits off Dortmund.</figcaption>
 </figure>
 
@@ -38,23 +38,23 @@ The instructions come in defense. Real Madrid allowed Dortmund to occupy certain
 Dortmund outplayed Real Madrid in the first half because Madrid kept misplacing passes and losing possession unnecessarily. If the passes were more accurate, we'd see a more succinct performance from Real Madrid, like we saw for the majority of the second half.
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/02/Image-02Jun2024_01:22:28.png?raw=true">
+    <img src="/images/uploads/2024/06/02/Image-02Jun2024_01:22:28.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Real Madrid counter-pressure forces Dortmund to play through the center of the pitch.</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/02/Image-02Jun2024_01:22:29.png?raw=true">
+    <img src="/images/uploads/2024/06/02/Image-02Jun2024_01:22:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Real Madrid wins the ball off the progressive pass forward.</figcaption>
 </figure>
 
 I liked the way Real Madrid applied pressure on Dortmund, especially when the ball was in Dortmund's own half on the left side. The pressure in moments where they had the numbers to overwhelm was well timed. That pressure tired Dortmund. 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/02/Image-02Jun2024_01:22:27.png?raw=true">
+    <img src="/images/uploads/2024/06/02/Image-02Jun2024_01:22:27.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Real Madrid double-team Dortmund the minute they attempt to advance wide into Madrid's half. </figcaption>
 </figure>
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/02/Image-02Jun2024_01:22:31.png?raw=true">
+    <img src="/images/uploads/2024/06/02/Image-02Jun2024_01:22:31.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Real Madrid double-team Dortmund in the wide area, not allowing Jadon Sancho to advance past. The two cut-back passes are covered off.</figcaption>
 </figure>
 

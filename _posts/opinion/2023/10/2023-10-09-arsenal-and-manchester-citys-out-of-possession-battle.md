@@ -26,7 +26,7 @@ Bukayo Saka was not in the squad, so that drastically changed how Manchester Cit
 In the first half, David Raya and Arsenal had issues moving the ball out of their end. You need to zoom out to see why David Raya had no options. Why he was making errors. That pressure from Kovacic, Silva, and Lewis was making it impossible for Arsenal to progress in the first phase. Manchester City gave them a taste of their own medicine, sort of replicating how Arsenal pressed them in the Community Shield.
 
 <figure>
-    <img src="https://i.imgur.com/H6fDLmz.jpg">
+    <img src="https://i.imgur.com/H6fDLmz.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of Manchester City's out-of-possession zonal marking structure.</figcaption>
 </figure> 
 
@@ -35,22 +35,22 @@ Manchester City used zonal man-marking. Each player was assigned to defend a zon
 Jorginho's inclusion meant Zinchenko did not invert from left-back as often. When he did invert, it was very crowded centrally. Declan Rice had to move wide at times to open up more space when Zinchenko inverted. They tried many things to create options for Raya. 
 
 <figure>
-    <img src="https://i.imgur.com/qkhdiod.jpg">
+    <img src="https://i.imgur.com/qkhdiod.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/AH9EBK1.jpg">
+    <img src="https://i.imgur.com/AH9EBK1.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/v9mz9hf.jpg">
+    <img src="https://i.imgur.com/v9mz9hf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sZWTLep.jpg">
+    <img src="https://i.imgur.com/sZWTLep.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4</figcaption>
 </figure> 
 
@@ -59,12 +59,12 @@ Arsenal never looked like scoring in the first half. Rico Lewis was a major reas
 Erling Haaland had a great game. I was impressed with his hold-up play, an area of his game that has massively improved since last season. His performance went under the radar because he didn't score. His head-on to Nathan Ake in the first half should have been scored.
 
 <figure>
-    <img src="https://i.imgur.com/Dz67IME.jpg">
+    <img src="https://i.imgur.com/Dz67IME.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Erling Haaland heads on a cross behind to Nathan Ake.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/O17B4qi.jpg">
+    <img src="https://i.imgur.com/O17B4qi.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Nathan Ake shoots the ball over the bar as William Saliba pressures him.</figcaption>
 </figure> 
 
@@ -85,12 +85,12 @@ Pep Guardiola after the game:
 Manchester City was narrow; that's why Josko Gvardiol and Kyle Walker had so much space wide. 
 
 <figure>
-    <img src="https://i.imgur.com/1C0ZBEn.jpg">
+    <img src="https://i.imgur.com/1C0ZBEn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Phil Foden moves infield opening space wide for Nathan Ake to play Josko Gvardiol in.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Y5A5w1s.jpg">
+    <img src="https://i.imgur.com/Y5A5w1s.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Josko Gvardiol open on the break because Phil Foden drags Ben White infield.</figcaption>
 </figure> 
 

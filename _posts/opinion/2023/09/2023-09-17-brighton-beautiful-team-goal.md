@@ -15,36 +15,36 @@ September 17, 2023 — Brighton scored one of the cleanest team goals I've seen 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/ZDfJghh.jpg">
+    <img src="https://i.imgur.com/ZDfJghh.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Jan Paul van Hecke passes to Danny Welbeck</figcaption>
 </figure> 
 
 Brilliant from van Hecke to pick out this pass to Danny Welbeck, who has dropped back from his center-forward position, a move Welbeck often likes to make. 
 
 <figure>
-    <img src="https://i.imgur.com/y2d5e8A.jpg">
+    <img src="https://i.imgur.com/y2d5e8A.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Danny Welbeck passes to Pascal Gross and then to Joel Veltman</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/LTkktkN.jpg">
+    <img src="https://i.imgur.com/LTkktkN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Simon Adingra drives wide as Lisandro Martinez is pinned to Danny Welbeck</figcaption>
 </figure> 
 
 Smart from Joel Veltman to pass to Danny Welbeck instead of Simon Adingra. Most would make the pass to Adingra but the pass to Welbeck pins Lisandro Martinez, opening space for Adingra wide.
 
 <figure>
-    <img src="https://i.imgur.com/iAwBzcI.jpg">
+    <img src="https://i.imgur.com/iAwBzcI.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Danny Welbeck passes Simon Adingra</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/M9wxFG6.jpg">
+    <img src="https://i.imgur.com/M9wxFG6.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Adam Lallana runs ahead of Danny Welbeck as Simon Adingra crosses towards the penalty spot</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/AfTNZp4.jpg">
+    <img src="https://i.imgur.com/AfTNZp4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Adam Lallana dummies the ball allowing it to roll to Danny Welbeck who is unmarked</figcaption>
 </figure> 
 
@@ -53,7 +53,7 @@ This is when you know this is direct from the training ground. Remarkable awaren
 Unsure why Casemiro doesn't pick up Danny Welbeck, as he's completely free. The only man unmarked, it should be Casemiro's responsibility to follow the center-forward when they drop if a center-back doesn't pick them up. 
 
 <figure>
-    <img src="https://i.imgur.com/trzFL9A.jpg">
+    <img src="https://i.imgur.com/trzFL9A.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Danny Welbeck slots it past Andre Onana to his right below his glove</figcaption>
 </figure> 
 

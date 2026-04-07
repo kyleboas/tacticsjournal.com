@@ -6,7 +6,7 @@ categories:
 - "opinion"
 tags:
 - "Update"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/15/Image-15Jul2024_17:41:09.png"
+image: "/images/uploads/2024/07/15/Image-15Jul2024_17:41:09.png"
 ---
 
 It brings me joy seeing people join my [tactics community on Discord](https://discord.gg/pQuympz34q) despite the fact that I don't promote it. I put a link in the footer but nothing else. It's a fun place to talk about football and tactics, you should join.

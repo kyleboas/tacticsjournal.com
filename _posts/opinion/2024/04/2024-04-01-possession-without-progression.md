@@ -16,24 +16,24 @@ When Arsenal sat back, the onus was on Manchester City to take risks. More progr
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/7mdru9Q.jpeg">
+    <img src="https://i.imgur.com/7mdru9Q.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Kevin De Bruyne begins making a run into the half-space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ZFoQkZH.jpeg">
+    <img src="https://i.imgur.com/ZFoQkZH.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ball is not played to Kevin De Bruyne.</figcaption>
 </figure> 
 
 Every run like this one from Kevin De Bruyne should be rewarded with a through ball. To create chances, you need that pass in. Without that riskier pass in, you can't score. 
 
 <figure>
-    <img src="https://i.imgur.com/Hf1NAJI.jpeg">
+    <img src="https://i.imgur.com/Hf1NAJI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Erling Haaland peels off to make a run behind Gabriel.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Vq5x5Q7.jpeg">
+    <img src="https://i.imgur.com/Vq5x5Q7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Ball is not played to Erling Haaland.</figcaption>
 </figure> 
 
@@ -42,12 +42,12 @@ These dummy runs from Erling Haaland are rarely ever rewarded, but they do creat
 Gabriel has his hips pointed towards the left-wing. When Haaland peels off behind Gabriel, the ball should be played behind.
 
 <figure>
-    <img src="https://i.imgur.com/vcCF2Tk.jpg">
+    <img src="https://i.imgur.com/vcCF2Tk.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Mateo Kovacic plays the ball long to Erling Haaland.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/xMFiiOe.jpeg">
+    <img src="https://i.imgur.com/xMFiiOe.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Arsenal head the ball down, and look at the space between the back and front line.</figcaption>
 </figure> 
 
@@ -58,7 +58,7 @@ By Mateo Kovacic playing that ball long, it opens Arsenal up. It forces them to 
 You need these through balls to break up the low block, whether they are successful or not. 
 
 <figure>
-    <img src="https://i.imgur.com/Ui0hjiQ.jpeg">
+    <img src="https://i.imgur.com/Ui0hjiQ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Josko Gvardiol ignores the open run of Kevin De Bruyne into the box.</figcaption>
 </figure> 
 
@@ -67,7 +67,7 @@ Josko Gvardiol was great the entire match, probably Manchester City's best playe
 2v1 with Haaland versus Gabriel in the box. If De Bruyne is played in, this could be a deciding goal. At the very least, it could be a shot. 
 
 <figure>
-    <img src="https://i.imgur.com/RPltGav.jpeg">
+    <img src="https://i.imgur.com/RPltGav.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Bernardo Silva doesn't see Phil Foden and Kevin De Bruyne open at the top of the box.</figcaption>
 </figure> 
 
@@ -78,7 +78,7 @@ They needed to take advantage of that space afforded to them to open up Arsenal'
 The crossing was off and several opportunities to play De Bruyne, Foden, and Haaland in were avoided. Haaland can't have an effect on the game if he never receives the ball. It's hard to play Haaland in if Foden and De Bruyne never receive the ball between the lines.
 
 <figure>
-    <img src="https://i.imgur.com/7huRria.jpeg">
+    <img src="https://i.imgur.com/7huRria.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Illustration of Manchester City and Arsenal's position and lineup in the first half (left) and the second half (right).</figcaption>
 </figure> 
 
@@ -87,38 +87,38 @@ In the 60th minute, Manchester City subbed Jack Grealish and Jérémy Doku in. G
 They used a combination of Grealish, Bernardo Silva, De Bruyne to try to overload the left-wing. 
 
 <figure>
-    <img src="https://i.imgur.com/5FRHc5d.jpeg">
+    <img src="https://i.imgur.com/5FRHc5d.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Phil Foden not passed the ball in a small pocket.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/i6AVfuL.jpeg">
+    <img src="https://i.imgur.com/i6AVfuL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 8.1 - Rodri passes to Kevin De Bruyne in a pocket.</figcaption>
 </figure> 
 
 One massive improvement in the second half was this. The pass to Phil Foden in the first half in **Figure 7.1** was ignored. The pass to Kevin De Bruyne, in the second half, in **Figure 8.1** was played. 
 
 <figure>
-    <img src="https://i.imgur.com/GNHb6qB.jpeg">
+    <img src="https://i.imgur.com/GNHb6qB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 9.1 - Rico Lewis plays a wall pass off Erling Haaland to Bernardo Silva.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Uf9Gzu4.jpeg">
+    <img src="https://i.imgur.com/Uf9Gzu4.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 9.2 - Erling Haaland continues his run and Bernardo Silva plays him in.</figcaption>
 </figure> 
 
 You need these line-breaking passes to break down a low block. Credit to Arsenal, they had the runs covered once City broke through, but it's volume. City needed to take more risks. They needed more shots. They needed more progressive passes through. 
 
 <figure>
-    <img src="https://i.imgur.com/E0XI9am.jpeg">
+    <img src="https://i.imgur.com/E0XI9am.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 10.1 - Rodri plays Bernardo Silva in over Arsenal's defensive line.</figcaption>
 </figure> 
 
 The next positive change in the second half, this type of pass from Rodri is a byproduct of the overload on the left-wing. Overload, play central, and then someone from the overload breaks off into the box. Bernardo Silva is played in and then the cut-back is there. 
 
 <figure>
-    <img src="https://i.imgur.com/UxzWn5b.jpeg">
+    <img src="https://i.imgur.com/UxzWn5b.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 11.1 - Jack Grealish ignores the run of Erling Haaland.</figcaption>
 </figure> 
 

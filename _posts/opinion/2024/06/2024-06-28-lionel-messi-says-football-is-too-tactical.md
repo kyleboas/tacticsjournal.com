@@ -4,7 +4,7 @@ date: 2024-06-28 11:00 UTC
 title: "Lionel Messi says football is too tactical"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/27/Image-27Jun2024_16%3A54%3A40.png"
+image: "/images/uploads/2024/06/27/Image-27Jun2024_16%3A54%3A40.png"
 tweet: "Lionel Messi went into more detail than ever before in an interview with @JPVarsky for @clank_media! Notably, he talks about tactics, not being a 'natural right-winger' and how 'Enganche’s' helped Argentina play short, four- to five-meter passes."
 ---
 

@@ -16,22 +16,22 @@ There were two things I liked from Brighton when they played Tottenham: The incr
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/WuFFCo3.jpeg">
+    <img src="https://i.imgur.com/WuFFCo3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Danny Welbeck pressing wide to win back the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/VAcTi66.jpeg">
+    <img src="https://i.imgur.com/VAcTi66.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Brighton man-to-man press with Danny Welbeck aggressively pressuring the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/8jBUJSb.jpeg">
+    <img src="https://i.imgur.com/8jBUJSb.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Brighton squeezing the ball carrier with Jan Paul Van Hecke jumping forward to help put pressure on the man receiving.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7VSZuLO.jpeg">
+    <img src="https://i.imgur.com/7VSZuLO.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Jan Paul Van Hecke intercepting the ball.</figcaption>
 </figure> 
 
@@ -40,12 +40,12 @@ Brighton's center-backs are known to jump forward to help pressure a forward tha
 Danny Welbeck aggressively pressuring the ball carrier forced a number of turnovers. I've felt that pressure from the center-forward has been lacking in previous matches. 
 
 <figure>
-    <img src="https://i.imgur.com/4AOyypo.jpeg">
+    <img src="https://i.imgur.com/4AOyypo.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Brighton offside trap.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/gtbuWRu.jpeg">
+    <img src="https://i.imgur.com/gtbuWRu.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Brighton's high-line in Tottenham's half.</figcaption>
 </figure> 
 
@@ -56,7 +56,7 @@ It gave Tottenham very little space between the first and second line, which mad
 Once they introduced Estupinan into the mix, that organization they maintained was thrown off. He was not aligned with the other three defenders which created opportunities for Tottenham to exploit those small lapses in organization. 
 
 <figure>
-    <img src="https://i.imgur.com/X7LP7xC.jpeg">
+    <img src="https://i.imgur.com/X7LP7xC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Brighton's high-line in the middle third.</figcaption>
 </figure> 
 

@@ -8,7 +8,7 @@ tags:
 - "Liverpool"
 - "Ipswich Town"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_23:18:07.png"
+image: "/images/uploads/2024/08/17/Image-17Aug2024_23:18:07.png"
 ---
 
 The difference between the first and second half for Liverpool against Ipswich Town can't be measured in numbers; you have to visually see the difference in the way Jarrel Quansah went into duels when compared to Ibrahima Konate.
@@ -22,7 +22,7 @@ Arne Slot when asked what it was that they changed in the second half:
 That sounds like something Arsenal manager Mikel Arteta would say but it is true in almost any team.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_23:18:06.png">
+    <img src="/images/uploads/2024/08/17/Image-17Aug2024_23:18:06.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Jarell Quansah waits until the ball is passed to close down his man, forcing him to foul the forward.</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Jarell Quansah did win duels, but oftentimes his positioning before contact was 
 In that way, Van Dijk and Konate balance each other out. Van Dijk can sit back and sweep a large section of the defense, while Konate can be more aggressive to help eliminate the number of passing options forward. When Quansah matches Van Dijk's passiveness, there's more space for the opposition in front of the defense.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_23:18:08.png">
+    <img src="/images/uploads/2024/08/17/Image-17Aug2024_23:18:08.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Ibrahima Konate immediately closely marks Ipswich Town center-forward Liam Delap at the start of the second half.</figcaption>
 </figure>
 

@@ -17,17 +17,17 @@ April 23, 2023 — Brighton’s normal buildup was nullified by Manchester Unite
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/NXG70FX.jpg">
+    <img src="https://i.imgur.com/NXG70FX.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Manchester United’s man-marking against Manchester City on January 14, 2023</figcaption>
 </figure>
  
 <figure>
-    <img src="https://i.imgur.com/x5fQINs.jpg">
+    <img src="https://i.imgur.com/x5fQINs.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Brighton’s in-possession structure in the first half</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/mQc8pez.jpg">
+    <img src="https://i.imgur.com/mQc8pez.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - First half tactics board</figcaption>
 </figure> 
 
@@ -38,14 +38,14 @@ This created no room for their supporting creators Caicedo, Mac Allister, and En
 It played perfectly into Manchester United’s hands, and they always had the numbers back to match Mitoma, March, Enciso, and Welbeck 4v4 with Casemiro as the plus one. 
 
 <figure>
-    <img src="https://i.imgur.com/DGvBVPY.jpg">
+    <img src="https://i.imgur.com/DGvBVPY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Brighton’s in-possession structure in the second half</figcaption>
 </figure> 
 
 
 
 <figure>
-    <img src="https://i.imgur.com/PnUhpLd.jpg">
+    <img src="https://i.imgur.com/PnUhpLd.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Second half tactics board</figcaption>
 </figure> 
 
@@ -54,7 +54,7 @@ Robert De Zerbi countered this by having Estupinan and Gross invert in the secon
 Estupinan inverting allowed Mitoma, who had a difficult job separating from Aaron Wan-Bissaka, more space on the left wing. This change also allowed Mac Allister to push forward, disrupting the pressing assignments of Manchester United’s first line. 
 
 <figure>
-    <img src="https://i.imgur.com/yaqHEKq.jpg">
+    <img src="https://i.imgur.com/yaqHEKq.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Estupinan makes a run in behind Antony in the first half</figcaption>
 </figure> 
 
@@ -64,7 +64,7 @@ The negative to this run was that it left space open for Antony on the right win
 
 
 <figure>
-    <img src="https://i.imgur.com/N5L0jsL.jpg">
+    <img src="https://i.imgur.com/N5L0jsL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Estupinan dismarks from Antony to make a run into the left half-space in the second half</figcaption>
 </figure> 
 
@@ -72,19 +72,19 @@ Estupinan did the same in the second half, but now that Brighton were more compa
 
 
 <figure>
-    <img src="https://i.imgur.com/Le1cHoN.jpg">
+    <img src="https://i.imgur.com/Le1cHoN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Webster passes to Welbeck, who dropped, then Welbeck passes to Dunk</figcaption>
 </figure> 
 
 This move by Estupinan paired with Welbeck dropping began to cause Manchester United problems. Brighton began to gain numerical superiority versus United’s back-line making their attacks in the second half more potent then they were in the first half. Brighton could now create transitional threats through simple movements in their buildup. They were unable to convert the chances that superiority created.
 
 <figure>
-    <img src="https://i.imgur.com/qWmVUKC.jpg">
+    <img src="https://i.imgur.com/qWmVUKC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Estupinan makes the run behind Antony into the left half-space, and Dunk passes him the ball</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/OgyZcVj.jpg">
+    <img src="https://i.imgur.com/OgyZcVj.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.3 - Estupinan brings the ball down, and Brighton has a 5v4 advantage</figcaption>
 </figure> 
 

@@ -16,17 +16,17 @@ I wanted to add visuals to Thomas Tuchel's insightful comments from his post-mat
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/PQrX2T2.jpg">
+    <img src="https://i.imgur.com/PQrX2T2.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Harry Kane and Thomas Muller track Angelo Stiller and Atakan Karazor, while Bayern Munich's midfield begins to collapse centrally.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/MPszJjE.jpg">
+    <img src="https://i.imgur.com/MPszJjE.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Bayern Munich's first and second lines are compact centrally, collapsing on VfB Stuttgart's double pivot, 5v2.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/2G2ojwb.jpg">
+    <img src="https://i.imgur.com/2G2ojwb.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Bayern Munich's first and second lines are compact centrally, collapsing on VfB Stuttgart's double pivot and a +1, 5v3.</figcaption>
 </figure> 
 
@@ -39,12 +39,12 @@ By "a lot of extra meters," I believe Tuchel is referring to overloading VfB Stu
 VfB Stuttgart's double pivot is constantly moving to try to get out into a pocket to receive the ball, but Kane and Muller are shadow covering, blocking off that passing lane. 
 
 <figure>
-    <img src="https://i.imgur.com/RPiySmQ.jpg">
+    <img src="https://i.imgur.com/RPiySmQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - VfB Stuttgart advance down the right-wing, and Bayern Munich outnumbers them 4v3, with Leroy Sané tracking back to help.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DauOVgA.jpg">
+    <img src="https://i.imgur.com/DauOVgA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Bayern Munich outnumbers VfB Stuttgart 5v4, and Leroy Sané pressures the ball carrier to make them pass back.</figcaption>
 </figure> 
 

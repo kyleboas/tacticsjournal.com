@@ -9,7 +9,7 @@ tags:
 - "Georgia"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_01:42:19.png"
+image: "/images/uploads/2024/07/01/Image-01Jul2024_01:42:19.png"
 ---
 
 Spain are an example of a team that not only keeps possession but also progresses forward. If the option forward is open for Rodri, he takes it, because one pass forward from a holding midfielder can completely alter the way an opponent occupies space.
@@ -17,7 +17,7 @@ Spain are an example of a team that not only keeps possession but also progresse
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/30/Image-30Jun2024_23:52:51.png">
+    <img src="/images/uploads/2024/06/30/Image-30Jun2024_23:52:51.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Rodri passes forward, ignoring the pass backwards or side to side.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ The pass backward or side to side is open, but the window to the most forward pa
 Even if you don't complete it, you force the opposition to defend the pass. If that pass is never even attempted, why guard the players centrally? The opposition can focus their attention more on the perimeter, applying pressure to Rodri, the defenders, and wingers while ignoring Pedri, Ruiz, and Morata. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_00:44:03.png">
+    <img src="/images/uploads/2024/07/01/Image-01Jul2024_00:44:03.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Rodri passes forward to Pedri, ignoring the switch or the passes backwards and side to side. </figcaption>
 </figure>
 
@@ -34,14 +34,14 @@ Rodri could switch to Lamine Yamal, pass to the left from where the ball last ca
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_00:44:05.png">
+    <img src="/images/uploads/2024/07/01/Image-01Jul2024_00:44:05.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2a - Pedri takes a touch and passes back to the center-back, who then passes out to Lamine Yamal. </figcaption>
 </figure>
 
 Rodri turns and with his third touch he chooses to play the most forward pass central to Pedri. No hesitation. If there was space open behind Pedri when he received the ball, he could turn to play the center-forward in. When Pedri receives the ball, he takes his touch forward, and Georgia's midfield collapses on him. He allows them to collapse and then passes backward.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_00:44:06.png">
+    <img src="/images/uploads/2024/07/01/Image-01Jul2024_00:44:06.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.3a - The space offered to Spain when Lamine Yamal receives the ball.</figcaption>
 </figure>
 
@@ -55,14 +55,14 @@ By playing the forward pass central to Pedri, when the ball is worked around to 
 Every Spanish outfield player has more space from that one pass by Rodri. Georgia is having to defend both the pass to the wings, the half-spaces, the pass back, and central; therefore, they are stretched.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_00:44:08.png">
+    <img src="/images/uploads/2024/07/01/Image-01Jul2024_00:44:08.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2b - The pressing options for Georgia to remain compact when Rodri passes back to the center-back, ignoring the pass forward central to Pedri.</figcaption>
 </figure>
 
 Hypothetically, if Rodri were to play a pass to one of the center-backs to get the ball to Yamal, ignoring Pedri, Georgia would defend differently. They'd be able to stay more compact because they wouldn't be drawn centrally to collapse on Pedri. They'd immediately anticipate the pass wide to the wing.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_00:44:09.png">
+    <img src="/images/uploads/2024/07/01/Image-01Jul2024_00:44:09.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.3b - Georgia stays compact when Lamine Yamal receives the ball.</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ And the same would happen if Rodri were to switch it to Lamine Yamal instead of 
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_01:03:59.png">
+    <img src="/images/uploads/2024/07/01/Image-01Jul2024_01:03:59.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Rodri passes straight forward to Fabián Ruiz, Georgia collapses on him, and then he passes out of pressure to the center-back.</figcaption>
 </figure>
 

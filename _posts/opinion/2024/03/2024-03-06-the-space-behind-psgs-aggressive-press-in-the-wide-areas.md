@@ -16,29 +16,29 @@ PSG's full-backs have a tendency to overextend themselves moving wide, leaving s
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/cE28LJT.jpeg">
+    <img src="https://i.imgur.com/cE28LJT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Lucas Hernández reads the pass wide and moves to intercept the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/C9MhpSi.jpeg">
+    <img src="https://i.imgur.com/C9MhpSi.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Lucas Hernández wins the ball and heads it forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vbr6lEc.jpeg">
+    <img src="https://i.imgur.com/vbr6lEc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Real Sociedad reclaim the ball and the man behind Lucas Hernández is free.</figcaption>
 </figure> 
 
 If Lucas Hernández is going to move wide like this, the ball-side center-back should shift over to attempt to cover up that space. 
 
 <figure>
-    <img src="https://i.imgur.com/DKnzXHf.jpeg">
+    <img src="https://i.imgur.com/DKnzXHf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Three PSG players jump to the wing. Ball is passed right to left to Martin Zubimendi.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CEqSXzJ.jpeg">
+    <img src="https://i.imgur.com/CEqSXzJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Two men are free in space for Martin Zubimendi to play into the box.</figcaption>
 </figure> 
 

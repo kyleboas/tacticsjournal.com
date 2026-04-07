@@ -22,7 +22,7 @@ There's no one in this starting lineup that will play a pass behind. That's not 
 If the creators aren't there, the creation has to come from someone carrying the ball. That someone today is Jérémy Doku. One goal and four assists in the 33rd, 37th, 64th, and 83rd minute. The Belgian phenom becomes the youngest player in Premier League history with five goal involvements in a single game, as well as the youngest player to assist four goals. 
 
 <figure>
-    <img src="https://i.imgur.com/lk5dZaG.jpg">
+    <img src="https://i.imgur.com/lk5dZaG.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of Manchester City's two modes in possession.</figcaption>
 </figure> 
 
@@ -36,34 +36,34 @@ The slow build up between the center-backs was far more productive to take advan
 A midfielder or two would drop to drag Bournemouth in, to the ball, and then those front three would make a run behind. 
 
 <figure>
-    <img src="https://i.imgur.com/hmvrW4Y.jpg">
+    <img src="https://i.imgur.com/hmvrW4Y.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bernardo Silva drops to drag a Bournemouth defender back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/PmgQXNV.jpg">
+    <img src="https://i.imgur.com/PmgQXNV.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Ederson passes forward to Jérémy Doku.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/PwFOoOW.jpg">
+    <img src="https://i.imgur.com/PwFOoOW.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Jérémy Doku one-touch passes to Julian Alvarez, and Alvarez dribbles into the space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Us7WPxQ.jpg">
+    <img src="https://i.imgur.com/Us7WPxQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Julian Alvarez dribbling into the space left behind Bournemouth's right center-back.</figcaption>
 </figure> 
 
 Both Jérémy Doku and Bernardo Silva draw Bournemouth forward, leaving space behind for Alvarez and Haaland. 
 
 <figure>
-    <img src="https://i.imgur.com/4ZDt6Zu.jpg">
+    <img src="https://i.imgur.com/4ZDt6Zu.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Erling Haaland curves his run to the right to attack the pass into space from Julian Alvarez to the left.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/9kFKlrA.jpg">
+    <img src="https://i.imgur.com/9kFKlrA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Erling Haaland is in on goal.</figcaption>
 </figure> 
 

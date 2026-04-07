@@ -18,7 +18,7 @@ October 4, 2023 — Real Madrid did a better job of remaining compact to combine
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/erb76cs.jpg">
+    <img src="https://i.imgur.com/erb76cs.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Real Madrid's spacing moving away from the ball against Union Berlin</figcaption>
 </figure> 
 
@@ -29,7 +29,7 @@ This made Union Berlin's job easier because they could overload a wing and easil
 They were of no threat over the top for pace with Joselu and Rodrygo, and a lot of their higher looping long passes were too difficult for both forwards to bring down. 
 
 <figure>
-    <img src="https://i.imgur.com/1LOvTx8.jpg">
+    <img src="https://i.imgur.com/1LOvTx8.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Eduardo Camavinga passes to Jude Bellingham</figcaption>
 </figure> 
 
@@ -40,22 +40,22 @@ A +1 of Modric, Camavinga, Valverde, Tchouaméni would join in to help overload 
 This play in tight space complemented their flair and high level of technical ability better. They excel in close quarters, with their expert slaloming runs past defenders, and quick one-two combination passes. 
 
 <figure>
-    <img src="https://i.imgur.com/NvbGDq2.jpg">
+    <img src="https://i.imgur.com/NvbGDq2.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Vinicius Junior runs to the right to open the space for Jude Bellingham driving forward with the ball</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/gsjDl6T.jpg">
+    <img src="https://i.imgur.com/gsjDl6T.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Vinicius Junior and Rodrygo both check to the ball</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0id7P76.jpg">
+    <img src="https://i.imgur.com/0id7P76.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Vinicius Junior and Rodrygo hold their runs to open up for the pass and create more space for Jude Bellingham</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sj0RpI6.jpg">
+    <img src="https://i.imgur.com/sj0RpI6.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Jude Bellingham scores</figcaption>
 </figure> 
 

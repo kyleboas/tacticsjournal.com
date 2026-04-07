@@ -4,7 +4,7 @@ date: 2025-06-02 11:00 UTC
 title: "I miss the people on Twitter"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/01/Image-01Jun2025_23:16:16.png"
+image: "/images/uploads/2025/06/01/Image-01Jun2025_23:16:16.png"
 ---
 
 I miss connecting with those on X, formerly Twitter, but I don't miss participating on the platform.

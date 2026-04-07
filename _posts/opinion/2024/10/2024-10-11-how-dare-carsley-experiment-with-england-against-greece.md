@@ -8,7 +8,7 @@ tags:
 - "England"
 - "Greece"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/11/Image-11Oct2024_01:11:23.png"
+image: "/images/uploads/2024/10/11/Image-11Oct2024_01:11:23.png"
 ---
 
 If you are an international manager, when are you allowed to experiment? Do you wait for a major competition like the Euro's, World Cup, or try something in a UEFA Nations League B Group 2 match against Greece as England interim manager Lee Carsley did?
@@ -40,7 +40,7 @@ They looked more like Gareth Southgate's version of England, just with Jude Bell
 The only two major differences were the fact Bellingham is quicker and drops deeper, and the fullbacks, Rico Lewis and Trent Alexander-Arnold, *both* are free to invert in and out of the midfield, able to choose to stay wide or drift inside. That left them vulnerable at times in defense, but that plays into Carsley's philosophy to attack first. You score two goals; we'll score three. A huge culture shift from the pragmatic past.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/11/Image-11Oct2024_01:39:11.png">
+    <img src="/images/uploads/2024/10/11/Image-11Oct2024_01:39:11.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The combined touch map of Cole Palmer, Phil Foden, and Jude Bellingham.</figcaption>
 </figure>
 

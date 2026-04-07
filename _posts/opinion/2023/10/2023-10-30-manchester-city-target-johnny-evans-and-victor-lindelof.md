@@ -24,7 +24,7 @@ United's entire buildup hinged on whether Rasmus Hojlund would beat Ruben Dias i
 Manchester City were far more interesting to watch out of possession than in possession. When do they press, who do they press, what part of the field are we on?
 
 <figure>
-    <img src="https://i.imgur.com/roDGw0j.jpg">
+    <img src="https://i.imgur.com/roDGw0j.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bernardo Silva crosses to Erling Haaland in space for the headed goal.</figcaption>
 </figure>
 
