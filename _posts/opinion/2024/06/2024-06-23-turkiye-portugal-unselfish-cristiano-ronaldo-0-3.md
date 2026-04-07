@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-23 11:00 UTC
 title: "Türkiye — Portugal: An Unselfish Cristiano Ronaldo (0-3)"
 categories:

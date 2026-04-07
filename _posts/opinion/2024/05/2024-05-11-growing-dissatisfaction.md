@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-11 11:00 UTC
 title: "Growing dissatisfaction"
 image: "https://i.imgur.com/yWUL9YJ.jpeg"

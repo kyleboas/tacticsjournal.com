@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-10-01 11:00 UTC
 title: "Brighton bypass Nottingham Forest's compact zonal defense by moving two midfielders wide"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-10-22 11:00 UTC
 title: "Results-based analysis"
 categories:

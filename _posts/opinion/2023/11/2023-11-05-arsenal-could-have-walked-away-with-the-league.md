@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-05 08:00 UTC
 title: "Arsenal could have walked away with the league"
 categories:

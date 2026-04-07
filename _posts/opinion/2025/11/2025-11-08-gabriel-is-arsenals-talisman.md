@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-11-08 11:00 UTC
 title: "Gabriel is Arsenal's talisman"
 categories:

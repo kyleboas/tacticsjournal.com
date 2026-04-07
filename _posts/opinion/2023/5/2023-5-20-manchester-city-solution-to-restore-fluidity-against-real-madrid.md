@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-20 07:00:00 UTC
 title: "Manchester City's solution to restore fluidity against Real Madrid"
 categories: 

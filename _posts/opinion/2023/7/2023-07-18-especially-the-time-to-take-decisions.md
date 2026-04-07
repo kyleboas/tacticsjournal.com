@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-07-18 07:00 UTC
 title: "Especially the time to take decisions"
 categories:

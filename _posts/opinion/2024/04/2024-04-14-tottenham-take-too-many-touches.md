@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-14 11:00 UTC
 title: "Tottenham take too many touches"
 categories:

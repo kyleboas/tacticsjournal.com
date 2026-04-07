@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-11-25 12:00 UTC
 title: "Football at a walking pace"
 categories: "Premier League"

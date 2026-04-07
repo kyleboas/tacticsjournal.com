@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-22 11:00 UTC
 title: "England doesn't use their spices"
 categories:

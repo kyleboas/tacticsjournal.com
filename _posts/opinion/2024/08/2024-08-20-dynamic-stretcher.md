@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-20 11:00 UTC
 title: "Dynamic Stretcher"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/16/Image-16Aug2024_23:29:09.png"

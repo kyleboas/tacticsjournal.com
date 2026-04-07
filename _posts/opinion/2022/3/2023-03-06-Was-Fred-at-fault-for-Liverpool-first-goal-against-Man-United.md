@@ -7,6 +7,7 @@ tags:
 - Manchester United
 - Liverpool
 layout: post
+category: opinion
 image: https://i.imgur.com/krM5x2I.jpg
 ---
 

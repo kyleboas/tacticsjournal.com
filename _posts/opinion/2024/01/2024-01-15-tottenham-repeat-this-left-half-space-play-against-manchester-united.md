@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-15 08:00 UTC
 title: "Tottenham repeat this left-half space play against Manchester United"
 categories:

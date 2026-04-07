@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-10 08:00 UTC
 title: "Jack is back, central"
 categories:

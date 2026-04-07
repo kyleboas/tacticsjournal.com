@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-09-17 08:00 UTC
 title: "Brighton's beautiful team goal"
 categories:

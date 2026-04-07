@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-25 11:00 UTC
 title: "Chelsea will use inverted fullback(s)"
 categories:

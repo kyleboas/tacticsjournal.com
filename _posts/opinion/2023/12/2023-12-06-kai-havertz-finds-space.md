@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-06 08:00 UTC
 title: "Kai Havertz Finds Space"
 categories:

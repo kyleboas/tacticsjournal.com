@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-11-24 11:00 UTC
 title: "It's not just coaching the team at Manchester United"
 categories:

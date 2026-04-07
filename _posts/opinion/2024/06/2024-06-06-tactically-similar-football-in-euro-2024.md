@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-06 11:00 UTC
 title: "Tactically similar football in Euro 2024"
 categories:

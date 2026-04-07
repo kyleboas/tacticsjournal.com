@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-27 08:00 UTC
 title: "Trent Alexander-Arnold's Blind Passes"
 categories:

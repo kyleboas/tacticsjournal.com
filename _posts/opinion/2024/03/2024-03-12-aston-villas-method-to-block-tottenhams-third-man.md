@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-12 08:00 UTC
 title: "Aston Villa's method to block Tottenham's third man"
 categories:

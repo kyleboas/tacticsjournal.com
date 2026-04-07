@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-10-02 11:00 UTC
 title: "Positionism and Relationism change the way we look at football"
 tags: "Relationism"

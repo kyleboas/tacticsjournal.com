@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-19 18:00 UTC
 title: "[Sponsor] Classic Football Shirts"
 categories:

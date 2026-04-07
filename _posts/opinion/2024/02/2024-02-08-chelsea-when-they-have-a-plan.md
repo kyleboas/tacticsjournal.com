@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-08 08:00 UTC
 title: "Chelsea when they have a plan"
 categories:

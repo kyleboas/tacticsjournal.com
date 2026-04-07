@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-7-5 07:00:00 UTC
 title: "Cesc Fàbregas and Manchester City’s progression to a diamond"
 categories: 

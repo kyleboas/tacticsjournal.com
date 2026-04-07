@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-29 08:00 UTC
 title: "Predictable Chelsea"
 categories:

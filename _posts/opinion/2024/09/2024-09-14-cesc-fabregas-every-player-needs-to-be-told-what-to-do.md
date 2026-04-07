@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-14 11:00 UTC
 title: "Cesc Fabregas: 'Every player needs to be told what to do'" 
 categories:

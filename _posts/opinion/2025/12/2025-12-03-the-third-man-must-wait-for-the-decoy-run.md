@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-12-03 11:00 UTC
 title: "The third man must wait for the decoy run"
 categories:

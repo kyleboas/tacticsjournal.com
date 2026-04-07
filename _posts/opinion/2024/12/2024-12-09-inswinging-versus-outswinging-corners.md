@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-09 12:00 UTC
 title: "Inswinging versus outswinging corners"
 categories:

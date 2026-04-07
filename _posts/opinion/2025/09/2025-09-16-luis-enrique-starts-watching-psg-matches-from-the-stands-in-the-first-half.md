@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-09-16 11:00 UTC
 title: "Luis Enrique starts watching PSG matches from the stands in the first half"
 categories:

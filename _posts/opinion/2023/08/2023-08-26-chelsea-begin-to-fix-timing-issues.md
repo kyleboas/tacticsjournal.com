@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-08-26 08:00 UTC
 title: "Chelsea begin to fix timing issues"
 categories:

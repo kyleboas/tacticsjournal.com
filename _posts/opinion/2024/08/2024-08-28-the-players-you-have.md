@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-28 11:00 UTC
 title: "The players you have"
 categories:

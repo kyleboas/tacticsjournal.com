@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-07-28 08:00 UTC
 title: "The Bournemouth Red-Tailed Boa"
 categories:

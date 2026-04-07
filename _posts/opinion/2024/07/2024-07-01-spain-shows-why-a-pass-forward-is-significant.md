@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-01 11:00 UTC
 title: "Spain shows why a pass forward is significant"
 categories:

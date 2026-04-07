@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-29 08:00 UTC
 title: "Newcastle's dominance in the wide-areas force PSG into playing line-breaking passes"
 categories:

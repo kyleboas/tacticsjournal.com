@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-03 12:00 UTC
 title: "Manchester United should build around Zirkzee"
 categories:

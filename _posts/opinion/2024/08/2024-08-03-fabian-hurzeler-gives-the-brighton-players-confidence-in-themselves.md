@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-03 11:00 UTC
 title: "Fabian Hurzeler gives the Brighton players confidence in themselves"
 categories:

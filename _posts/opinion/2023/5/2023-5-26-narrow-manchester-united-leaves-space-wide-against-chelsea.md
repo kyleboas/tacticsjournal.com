@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-26 07:00:00 UTC
 title: "Narrow Manchester United leave space wide against Chelsea"
 categories: 

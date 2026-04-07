@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-25 11:00 UTC
 title: "To defend or defend with the ball"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-01-01 12:00 UTC
 title: "Why the Tactics Journal is no longer posting on X"
 categories:

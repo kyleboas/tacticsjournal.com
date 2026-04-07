@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-13 11:00 UTC
 title: "Deep and Dynamic"
 categories:

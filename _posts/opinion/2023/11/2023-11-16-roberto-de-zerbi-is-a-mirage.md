@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-16 08:00 UTC
 title: "Roberto De Zerbi is a mirage"
 categories:

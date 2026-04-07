@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-11 11:00 UTC
 title: "England's fullbacks switch sides positionally" 
 categories:

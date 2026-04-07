@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-12 11:00 UTC
 title: "Avoiding the spectacular"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/11/Image-11Sep2024_16:12:33.png"

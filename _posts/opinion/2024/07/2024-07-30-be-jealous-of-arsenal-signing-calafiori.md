@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-30 11:00 UTC
 title: "Be jealous of Arsenal signing Calafiori"
 categories:

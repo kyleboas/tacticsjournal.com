@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-01-30 12:00 UTC
 title: "Injuries are an excuse now"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/29/Image-29Jan2025_20:37:01.png"

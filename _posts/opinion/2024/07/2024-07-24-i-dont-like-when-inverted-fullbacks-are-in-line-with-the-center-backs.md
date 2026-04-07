@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-24 11:00 UTC
 title: "I don't like when inverted fullbacks are in line with the center-backs"
 categories:

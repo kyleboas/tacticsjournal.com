@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-09-30 08:00 UTC
 title: "Rhythm, size of squads, and the schedule"
 categories:

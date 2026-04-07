@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-25 18:00 UTC
 title: "Lyon — Monaco: Uninspiring (0-2)"
 categories:

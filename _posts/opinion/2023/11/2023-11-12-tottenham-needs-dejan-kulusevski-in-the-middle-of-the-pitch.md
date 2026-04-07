@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-12 08:00 UTC
 title: "Tottenham needs Dejan Kulusevski in the middle of the pitch"
 categories:

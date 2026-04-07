@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-05 08:00 UTC
 title: "Chelsea's cliques"
 categories:

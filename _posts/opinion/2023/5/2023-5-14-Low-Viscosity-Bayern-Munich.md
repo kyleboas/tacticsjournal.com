@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-14 07:00:00 UTC
 title: "Low-Viscosity Bayern Munich"
 categories: 

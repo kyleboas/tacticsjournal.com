@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-16 11:00 UTC
 title: "James Rodriguez is not the last playmaker"
 categories:

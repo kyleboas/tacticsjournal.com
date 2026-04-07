@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-11 08:00 UTC
 title: "Sean Dyche has a chat with Dele Alli about Everton's direct play"
 categories:

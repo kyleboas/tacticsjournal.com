@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-14 11:00 UTC
 title: "Football is finished"
 image: "https://i.imgur.com/T9HUgFm.jpeg"

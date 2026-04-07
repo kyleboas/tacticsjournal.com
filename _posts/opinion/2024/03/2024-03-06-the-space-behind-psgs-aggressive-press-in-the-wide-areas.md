@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-06 08:00 UTC
 title: "The space behind PSG's aggressive press in the wide areas"
 categories:

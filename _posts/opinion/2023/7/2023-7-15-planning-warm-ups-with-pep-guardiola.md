@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-7-15 07:00:00 UTC
 title: "Planning warm-ups with Pep Guardiola"
 categories: 

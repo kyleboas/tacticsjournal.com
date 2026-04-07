@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-12-21 11:00 UTC
 title: "Teams like Liverpool should make the pitch smaller in possession"
 categories:

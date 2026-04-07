@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-27 08:10:00 -0500
 title: "The space Manuel Akanji's positioning creates"
 categories: 

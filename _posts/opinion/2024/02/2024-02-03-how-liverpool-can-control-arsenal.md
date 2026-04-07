@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-03 08:00 UTC
 title: "How Liverpool can control Arsenal"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-02-12 12:00 UTC
 title: "Pep Guardiola's real control"
 categories:

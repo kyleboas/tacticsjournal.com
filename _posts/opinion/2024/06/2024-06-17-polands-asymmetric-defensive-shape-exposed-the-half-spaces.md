@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-17 11:00 UTC
 title: "Poland's asymmetric defensive shape exposed the half-spaces"
 categories:

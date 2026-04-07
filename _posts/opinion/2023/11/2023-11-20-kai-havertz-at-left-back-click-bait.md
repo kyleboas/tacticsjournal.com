@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-20 08:00 UTC
 title: "Kai Havertz at left-back click-bait" 
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-17 08:00 UTC
 title: "Dragusin and Tottenham's high-line"
 categories:

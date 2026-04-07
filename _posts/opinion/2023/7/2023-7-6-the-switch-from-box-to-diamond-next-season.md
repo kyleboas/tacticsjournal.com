@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-7-6 07:00:00 UTC
 title: "The switch from a box to a diamond next season"
 tags: 

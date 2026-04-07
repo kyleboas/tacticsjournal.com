@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-20 16:00 UTC
 title: "Brighton - Manchester United: Kobbie Mainoo’s Vital Role (0-2)"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-15 18:00 UTC
 title: "Reminder to join my tactics community"
 categories:

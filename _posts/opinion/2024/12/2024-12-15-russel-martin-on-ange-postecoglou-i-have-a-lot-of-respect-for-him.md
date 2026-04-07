@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-15 12:00 UTC
 title: "Russel Martin on Ange Postecoglou: 'I have a lot of respect for him'"
 categories:

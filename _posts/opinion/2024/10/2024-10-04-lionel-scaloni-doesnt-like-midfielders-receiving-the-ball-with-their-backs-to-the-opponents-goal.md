@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-10-04 11:00 UTC
 title: "Lionel Scaloni doesn't like midfielders receiving the ball with their backs to the opponent's goal"
 categories:

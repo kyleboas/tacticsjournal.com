@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-17 07:00:00 UTC
 title: "A mundane semi-final win for Inter over AC Milan"
 categories: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-01 11:00 UTC
 title: "Arsenal in limbo against Brighton's mid-block"
 categories:

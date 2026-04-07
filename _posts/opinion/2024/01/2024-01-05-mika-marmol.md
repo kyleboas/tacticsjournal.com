@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-05 08:00 UTC
 title: "Mika Mármol"
 categories:

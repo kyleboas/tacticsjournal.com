@@ -8,6 +8,7 @@ tags:
 - France
 - Morocco
 layout: post
+category: opinion
 image: https://i.imgur.com/KMbFtvH.jpg
 ---
 

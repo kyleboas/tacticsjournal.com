@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-07 08:00 UTC
 title: "What happens when Van Dijk marks Odegaard instead of Gomez"
 categories:

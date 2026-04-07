@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-08-23 11:00 UTC
 title: "Who is at fault for a far post goal"
 categories:

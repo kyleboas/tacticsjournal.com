@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-04-30 12:00 UTC
 title: "Enjoying chasing"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/04/29/Image-29Apr2025_21:54:54.png"

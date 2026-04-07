@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-02 11:00 UTC
 title: "Portugal — Slovenia: Crying Out for Ideas (0-0)"
 categories:

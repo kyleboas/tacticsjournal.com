@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-08 08:00 UTC
 title: "Kai Havertz is a Momentum Killer"
 categories:

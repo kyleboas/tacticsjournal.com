@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-27 08:00 UTC
 title: "Manchester City bait Tottenham's press to create space between the lines"
 categories:

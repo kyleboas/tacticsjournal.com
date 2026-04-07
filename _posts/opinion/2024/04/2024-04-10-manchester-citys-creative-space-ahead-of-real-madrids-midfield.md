@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-10 08:00 UTC
 title: "Manchester City's creative space ahead of Real Madrid's midfield"
 categories:

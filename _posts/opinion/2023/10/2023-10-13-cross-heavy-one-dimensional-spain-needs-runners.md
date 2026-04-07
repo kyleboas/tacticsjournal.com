@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-13 08:00 UTC
 title: "Cross-Heavy One-Dimensional Spain Needs Runners"
 tags:

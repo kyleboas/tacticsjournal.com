@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-08-08 11:00 UTC
 title: "What to expect with Thomas Frank at Tottenham"
 categories:

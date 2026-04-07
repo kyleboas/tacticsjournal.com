@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-08-04 11:00 UTC
 title: "Liverpool will miss Trent Alexander-Arnold in the short-term"
 categories:

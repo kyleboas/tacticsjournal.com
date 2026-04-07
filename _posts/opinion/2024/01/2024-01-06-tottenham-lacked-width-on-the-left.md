@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-06 08:00 UTC
 title: "Tottenham Lacked Width on the Left"
 categories:

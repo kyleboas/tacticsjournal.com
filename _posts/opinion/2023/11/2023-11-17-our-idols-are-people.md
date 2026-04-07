@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-17 08:00 UTC
 title: "Our idols are people"
 categories:

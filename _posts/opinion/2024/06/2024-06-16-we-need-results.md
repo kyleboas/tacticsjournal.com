@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-16 11:00 UTC
 title: "We need results"
 categories:

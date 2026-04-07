@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-30 00:01:00 UTC
 title: "West Ham are similar to Emperor Penguins"
 categories: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-11-20 12:00 UTC
 title: "Always find the moment"
 categories:

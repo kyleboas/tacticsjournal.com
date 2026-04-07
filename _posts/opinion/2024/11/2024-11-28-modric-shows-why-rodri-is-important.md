@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-11-28 12:00 UTC
 title: "Modric shows why Rodri is important"
 categories:

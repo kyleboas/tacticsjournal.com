@@ -6,6 +6,7 @@ categories:
 tags:
 - Manchester City
 layout: post
+category: opinion
 image: https://i.imgur.com/TUAkgsE.jpg
 ---
 

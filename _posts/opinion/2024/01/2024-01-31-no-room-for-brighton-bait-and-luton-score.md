@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-31 08:00 UTC
 title: "No room for Brighton bait and Luton score"
 categories:

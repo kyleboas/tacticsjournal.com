@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-7-12 07:00:00 UTC
 title: "The Importance of Attacking the Centre-Backs"
 tags:

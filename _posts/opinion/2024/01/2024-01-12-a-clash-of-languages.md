@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-12 08:00 UTC
 title: "A Clash of Languages"
 image: "https://i.imgur.com/F07IKmX.jpeg"

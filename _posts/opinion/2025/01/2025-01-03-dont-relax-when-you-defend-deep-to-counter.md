@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-01-03 12:00 UTC
 title: "Don't relax when you defend deep to counter"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/01/Image-01Jan2025_21:31:51.png"

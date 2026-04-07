@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-12 08:00 UTC
 title: "Schick's movement off-side to observe, surprise, and separate"
 categories:

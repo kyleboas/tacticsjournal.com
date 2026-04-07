@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-03 07:00 UTC
 title: "Harry Maguire blocks everything for Manchester United"
 categories:

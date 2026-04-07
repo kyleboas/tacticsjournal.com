@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-20 08:00 UTC
 title: "England's simple solution"
 tags:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-03 08:00 UTC
 title: "Not Playing Like Champions"
 categories:

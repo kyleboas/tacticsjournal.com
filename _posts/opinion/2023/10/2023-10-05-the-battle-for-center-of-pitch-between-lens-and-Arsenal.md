@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-05 08:00 UTC
 title: "The battle for the center of the pitch between Lens and Arsenal"
 categories:

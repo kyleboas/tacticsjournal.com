@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-31 08:00 UTC
 title: "Previewing Manchester City vs Arsenal"
 categories:

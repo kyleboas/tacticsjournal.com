@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-10-07 11:00 UTC
 title: "Making a run far offside against a high line"
 categories:

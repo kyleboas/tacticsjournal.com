@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-25 11:00 UTC
 title: "Arsenal's right wing malfunctions against Aston Villa"
 categories:

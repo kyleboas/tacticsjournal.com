@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-07 11:00 UTC
 title: "Manchester United's back four on rope"
 categories:

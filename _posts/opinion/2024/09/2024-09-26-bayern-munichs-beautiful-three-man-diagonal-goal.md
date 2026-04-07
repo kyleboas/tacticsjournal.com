@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-26 11:00 UTC
 title: "Bayern Munich's beautiful three-man diagonal goal"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-01 08:00 UTC
 title: "The Julian Alvarez Domino Effect"
 categories:

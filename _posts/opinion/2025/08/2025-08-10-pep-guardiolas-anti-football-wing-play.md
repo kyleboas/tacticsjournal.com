@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-08-10 11:00 UTC
 title: "Pep Guardiola's anti-football wing play"
 categories:

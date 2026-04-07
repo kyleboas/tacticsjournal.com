@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-10 11:00 UTC
 title: "Bayer Leverkusen are undefeated but vulnerable"
 categories:

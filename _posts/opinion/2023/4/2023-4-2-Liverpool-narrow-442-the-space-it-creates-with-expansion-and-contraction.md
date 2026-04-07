@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-2 5:05:00 -0500
 title: "Liverpool's narrow 4-4-2, the space it creates with expansion and contraction"
 categories: 

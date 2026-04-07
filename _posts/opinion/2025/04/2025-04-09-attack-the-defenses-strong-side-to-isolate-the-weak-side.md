@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-04-09 12:00 UTC
 title: "Attack the defense's strong side to isolate the weak side"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-10 11:00 UTC
 title: "Mikel Arteta has developed a softer approach to managing"
 categories:

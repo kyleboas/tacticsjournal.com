@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-20 10:30:00 -0500
 title: "David De Gea's risky pass to Maguire facing goal costs Manchester United"
 categories: 

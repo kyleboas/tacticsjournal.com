@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-10-06 11:00 UTC
 title: "Brentford's World Record Kick Off Routine"
 categories:

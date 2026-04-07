@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-11 11:00 UTC
 title: "Manchester United force Manchester City to wait by inverting Lisandro Martinez from the left"
 categories:

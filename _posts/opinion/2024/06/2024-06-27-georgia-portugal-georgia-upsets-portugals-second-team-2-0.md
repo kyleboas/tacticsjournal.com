@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-27 11:00 UTC
 title: "Georgia — Portugal: Georgia Upsets Portugal's Second Team (2-0)"
 categories:

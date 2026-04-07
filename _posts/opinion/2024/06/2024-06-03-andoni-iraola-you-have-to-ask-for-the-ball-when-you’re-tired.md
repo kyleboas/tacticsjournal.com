@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-03 11:00 UTC
 title: "Andoni Iraola: You have to ask for the ball when you’re tired"
 categories:

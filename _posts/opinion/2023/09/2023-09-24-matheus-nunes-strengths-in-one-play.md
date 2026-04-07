@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-09-24 08:00 UTC
 title: "Matheus Nunes' strengths in one play"
 categories:

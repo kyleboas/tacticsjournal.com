@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-10-20 11:00 UTC
 title: "Putting makeup on a pig"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/19/Image-19Oct2025_15:56:11.png"

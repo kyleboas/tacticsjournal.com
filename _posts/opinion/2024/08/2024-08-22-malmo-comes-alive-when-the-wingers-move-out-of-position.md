@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-22 11:00 UTC
 title: "Malmö comes alive when the wingers move out of position"
 categories:

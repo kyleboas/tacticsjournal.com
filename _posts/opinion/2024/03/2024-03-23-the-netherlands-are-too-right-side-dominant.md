@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-23 08:00 UTC
 title: "The Netherlands are too right side dominant"
 tags:

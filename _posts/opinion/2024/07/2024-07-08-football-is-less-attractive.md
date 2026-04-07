@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-08 11:00 UTC
 title: "Football is less attractive"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_23:41:13.png"

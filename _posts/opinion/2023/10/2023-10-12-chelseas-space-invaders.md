@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-12 08:00 UTC
 title: "Chelsea's space invaders"
 categories:

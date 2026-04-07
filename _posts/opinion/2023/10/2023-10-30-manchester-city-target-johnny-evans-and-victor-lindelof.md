@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-10-30 08:00 UTC
 title: "Manchester City target Johnny Evans and Victor Lindelof"
 categories:

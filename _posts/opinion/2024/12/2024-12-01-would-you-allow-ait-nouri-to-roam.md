@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-01 12:00 UTC
 title: "Would you allow Ait Nouri to roam?"
 categories:

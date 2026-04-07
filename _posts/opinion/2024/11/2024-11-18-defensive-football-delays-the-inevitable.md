@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-11-18 11:00 UTC
 title: "Defensive football delays the inevitable"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/17/Image-17Nov2024_11:48:41.png"

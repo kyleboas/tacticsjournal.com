@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-20 18:00 UTC
 title: "Juventus — Como: Thiago Motta Versus Cesc Fàbregas (3-0)"
 categories:

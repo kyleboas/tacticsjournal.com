@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-25 11:00 UTC
 title: "Unai Emery buys books for his players to help them balance their emotions"
 categories:

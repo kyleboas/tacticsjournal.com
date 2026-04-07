@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-02 11:00 UTC
 title: "Carlo with an RPG"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-19 11:00 UTC
 title: "Portugal — Czech Republic: The Portuguese Mixer (2-1)"
 categories:

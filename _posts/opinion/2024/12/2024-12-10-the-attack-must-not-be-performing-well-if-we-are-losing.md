@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-10 12:00 UTC
 title: "The attack must not be performing well if we are losing"
 categories:

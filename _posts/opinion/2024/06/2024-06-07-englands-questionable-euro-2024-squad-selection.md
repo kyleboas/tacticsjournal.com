@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-07 11:00 UTC
 title: "England's questionable Euro 2024 squad selection"
 categories:

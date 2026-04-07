@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-28 10:30 UTC
 title: "Aitana Bonmati's best qualities in one play"
 categories:

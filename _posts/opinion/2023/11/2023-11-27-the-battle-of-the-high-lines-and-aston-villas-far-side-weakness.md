@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-11-27 08:00 UTC
 title: "The Battle of the High Lines and Aston Villa's far-side weakness"
 categories:

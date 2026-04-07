@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-04 08:00 UTC
 title: "Girona Move Without Hesitation"
 categories:

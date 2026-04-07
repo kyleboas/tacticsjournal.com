@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-14 08:00 UTC
 title: "Manchester City dragging Newcastle wide changed the game" 
 categories:

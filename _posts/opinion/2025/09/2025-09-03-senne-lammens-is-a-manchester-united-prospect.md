@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-09-03 11:00 UTC
 title: "Senne Lammens is a Manchester United prospect"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-08 08:00 UTC
 title: "How to Bypass Everton's Low-Block"
 categories:

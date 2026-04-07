@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-07 11:00 UTC
 title: "You either reinvent yourself or you die"
 categories:

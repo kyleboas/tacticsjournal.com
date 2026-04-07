@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-05 11:00 UTC
 title: "An intellectual challenge"
 categories:

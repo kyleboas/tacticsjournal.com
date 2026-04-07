@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-02 12:00 UTC
 title: "Trent Alexander-Arnold does everything on his first or second touch"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-08-14 11:00 UTC
 title: "Switch to the left wing against Leicester City"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-13 11:00 UTC
 title: "Tonic immobility in Arsenal" 
 categories:

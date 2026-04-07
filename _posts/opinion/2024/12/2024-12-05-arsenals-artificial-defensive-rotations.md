@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-05 12:00 UTC
 title: "Arsenal's artificial defensive rotations"
 categories:

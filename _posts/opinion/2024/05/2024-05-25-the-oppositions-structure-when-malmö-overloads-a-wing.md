@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-25 11:00 UTC
 title: "The opposition's structure when Malmö overloads a wing"
 categories:

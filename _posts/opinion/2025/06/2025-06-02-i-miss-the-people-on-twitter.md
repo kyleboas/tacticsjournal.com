@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-06-02 11:00 UTC
 title: "I miss the people on Twitter"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/01/Image-01Jun2025_23:16:16.png"

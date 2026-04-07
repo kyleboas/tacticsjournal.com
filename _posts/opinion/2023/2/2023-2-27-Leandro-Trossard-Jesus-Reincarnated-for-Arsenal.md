@@ -7,6 +7,7 @@ tags:
 - Arsenal
 - Aston Villa
 layout: post
+category: opinion
 image: /images/BDADE01E-AC19-4590-82B6-51335CD18978.jpeg
 ---
 

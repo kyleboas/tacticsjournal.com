@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-03-26 08:00 UTC
 title: "Conte and Ange have polar opposite mentalities"
 categories:

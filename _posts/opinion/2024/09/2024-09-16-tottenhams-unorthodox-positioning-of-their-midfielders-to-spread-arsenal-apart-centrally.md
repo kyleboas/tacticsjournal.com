@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-16 11:00 UTC
 title: "Tottenham's unorthodox positioning of their midfielders to spread Arsenal apart centrally"
 categories:

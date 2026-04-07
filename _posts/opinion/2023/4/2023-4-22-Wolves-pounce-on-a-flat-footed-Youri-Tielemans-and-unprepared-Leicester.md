@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-22 06:10:00 -0500
 title: "Wolves pounce on a flat-footed Youri Tielemans and unprepared Leicester"
 categories: 

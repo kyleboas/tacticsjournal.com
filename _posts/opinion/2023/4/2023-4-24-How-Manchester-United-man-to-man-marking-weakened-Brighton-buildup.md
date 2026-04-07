@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-4-24 12:00:00 -0500
 title: "How Manchester United’s man-to-man marking weakened Brighton’s buildup"
 categories: 

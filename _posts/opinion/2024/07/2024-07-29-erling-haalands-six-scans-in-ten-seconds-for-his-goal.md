@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-29 11:00 UTC
 title: "Erling Haaland's six scans in ten seconds for his goal"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-16 08:00 UTC
 title: "Phil Foden needs to realize he is Phil Foden"
 categories:

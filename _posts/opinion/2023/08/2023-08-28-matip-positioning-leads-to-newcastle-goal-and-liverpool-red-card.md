@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-08-28 08:00 UTC
 title: "Matip's positioning leads to a Newcastle goal and a Liverpool red card"
 categories:

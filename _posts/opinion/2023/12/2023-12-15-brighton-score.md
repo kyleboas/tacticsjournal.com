@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-15 08:00 UTC
 title: "Brighton Score"
 categories:

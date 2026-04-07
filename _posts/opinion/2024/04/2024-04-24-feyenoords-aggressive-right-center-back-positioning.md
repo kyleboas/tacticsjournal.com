@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-24 08:00 UTC
 title: "Feyenoord's aggressive right center-back positioning"
 categories:

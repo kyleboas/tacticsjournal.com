@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-06 11:00 UTC
 title: "The ability to forget his mistakes and move on"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/06/Image-06Sep2024_01:18:23.png"

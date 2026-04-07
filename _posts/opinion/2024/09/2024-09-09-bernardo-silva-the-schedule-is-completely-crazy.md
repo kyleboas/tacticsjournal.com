@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-09-09 11:00 UTC
 title: "Bernardo Silva: 'The schedule is completely crazy'"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-08 11:00 UTC
 title: "PSG need more Vitinha's"
 categories:

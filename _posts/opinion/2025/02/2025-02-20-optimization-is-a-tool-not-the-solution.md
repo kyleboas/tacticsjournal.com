@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-02-20 12:00 UTC
 title: "Optimization is a tool, not the solution"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/19/Image-19Feb2025_23:02:47.png"

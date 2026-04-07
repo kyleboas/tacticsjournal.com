@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-08-15 08:00 UTC
 title: "Andre Onana's weakness leaning back passing to his right"
 categories:

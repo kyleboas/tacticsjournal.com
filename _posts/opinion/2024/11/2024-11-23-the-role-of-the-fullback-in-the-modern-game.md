@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-11-23 12:00 UTC
 title: "The role of the fullback in the modern game"
 categories:

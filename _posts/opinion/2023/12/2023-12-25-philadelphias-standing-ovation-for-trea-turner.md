@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-12-25 08:00 UTC
 title: "Philadelphia's Standing Ovation for Trea Turner"
 tags:

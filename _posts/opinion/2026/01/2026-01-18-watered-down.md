@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2026-01-18 11:00 UTC
 title: "Watered down"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-08-14 08:00 UTC
 title: "Chelsea hesitate to play Nicolas Jackson in"
 categories:

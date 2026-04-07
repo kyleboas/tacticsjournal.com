@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-16 11:00 UTC
 title: "The weakest part of Nicolas Jackson's game"
 categories:

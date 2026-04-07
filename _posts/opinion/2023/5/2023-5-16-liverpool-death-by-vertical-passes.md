@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-5-16 07:00:00 UTC
 title: "Liverpool’s death by vertical passes"
 categories: 

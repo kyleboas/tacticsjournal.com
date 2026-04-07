@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-31 11:00 UTC
 title: "How Enzo Maresca transitions to defense in a 3-box-3"
 categories:

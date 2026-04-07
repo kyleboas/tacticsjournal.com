@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-12-12 12:00 UTC
 title: "Why Erling Haaland is not being played through"
 categories:

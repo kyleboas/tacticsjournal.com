@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-20 08:00 UTC
 title: "How to score against Inter"
 categories:

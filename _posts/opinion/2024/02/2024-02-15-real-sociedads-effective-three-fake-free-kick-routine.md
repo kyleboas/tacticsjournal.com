@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-02-15 08:00 UTC
 title: "Real Sociedad's effective three fake free kick routine"
 categories:

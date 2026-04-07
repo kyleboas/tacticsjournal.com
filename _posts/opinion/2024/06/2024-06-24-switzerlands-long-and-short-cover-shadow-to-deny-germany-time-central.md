@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-24 11:00 UTC
 title: "Switzerland's long and short cover-shadow to deny Germany time central"
 categories:

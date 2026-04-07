@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2023-7-3 09:23:00 UTC
 title: "Housekeeping" 
 ---

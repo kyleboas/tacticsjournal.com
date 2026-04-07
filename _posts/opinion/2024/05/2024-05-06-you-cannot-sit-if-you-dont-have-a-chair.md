@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-05-06 08:00 UTC
 title: "You cannot sit, if you don't have a chair"
 categories:

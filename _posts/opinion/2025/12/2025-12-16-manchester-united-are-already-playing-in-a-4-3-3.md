@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2025-12-16 11:00 UTC
 title: "Manchester United are already playing in a 4-3-3"
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-10 11:00 UTC
 title: "Spain's simple passes forward are refreshing"
 categories:

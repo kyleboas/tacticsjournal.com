@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-17 11:00 UTC
 title: "Dembele instructs Mbappe to make the near post run"
 categories:

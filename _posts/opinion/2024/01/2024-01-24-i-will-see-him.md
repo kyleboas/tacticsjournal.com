@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-01-24 08:00 UTC
 title: "I will see him"
 image: "https://i.imgur.com/smBnpH1.jpeg"

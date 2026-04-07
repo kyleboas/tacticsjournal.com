@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-07 11:00 UTC
 title: "Bukayo Saka is England's most important player against Gakpo, Mbappe, and Nico Williams"
 categories:

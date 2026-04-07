@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-18 11:00 UTC
 title: "Austria left Griezmann open when they counter-pressed France"
 categories:

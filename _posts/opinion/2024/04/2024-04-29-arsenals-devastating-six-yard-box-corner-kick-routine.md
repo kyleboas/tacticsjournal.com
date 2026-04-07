@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-29 10:30 UTC
 title: "Arsenal's devastating six-yard box corner kick routine"
 categories:

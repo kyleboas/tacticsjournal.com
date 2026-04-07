@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-04-01 08:00 UTC
 title: "Possession without progression"
 categories:

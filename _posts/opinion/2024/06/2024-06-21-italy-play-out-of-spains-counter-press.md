@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-06-21 11:00 UTC
 title: "Italy play out of Spain's counter-press"
 categories:

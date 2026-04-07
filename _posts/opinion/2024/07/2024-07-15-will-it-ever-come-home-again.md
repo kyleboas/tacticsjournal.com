@@ -1,5 +1,6 @@
 ---
 layout: post
+category: opinion
 date: 2024-07-15 11:00 UTC
 title: "Will it ever come home again"
 categories:
