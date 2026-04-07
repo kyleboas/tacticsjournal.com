@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-06 08:00 UTC
 title: "Josko Gvardiol has the mind of a midfielder in the body of a center-back"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brentford"
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/TEAVppB.jpeg"
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-23 11:00 UTC
 title: "Bayer Leverkusen's spacing accentuated Atalanta's physical strength"
 categories:
-- "Europa League"
-- "Bundesliga"
-- "Serie A"
+- "opinion"
 tags:
 - "Bayer Leverkusen"
 - "Atalanta"
+- "Europa League"
+- "Bundesliga"
+- "Serie A"
 image: "https://i.imgur.com/FldB0Aw.jpeg"
 ---
 

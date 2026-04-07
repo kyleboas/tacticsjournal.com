@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-18 11:00 UTC
 title: "Austria left Griezmann open when they counter-pressed France"
 categories:
-- "Euro 2024"
+- "opinion"
 tags:
 - "Austria"
 - "France"
+- "Euro 2024"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/18/Image-18Jun2024_00:05:42.png?raw=true"
 ---
 

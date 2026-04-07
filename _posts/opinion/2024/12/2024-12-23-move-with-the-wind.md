@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-23 12:00 UTC
 title: "Move with the wind"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/22/Image-22Dec2024_10:41:26.png"
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-21 08:00 UTC
 title: "How Andre Onana should play out against a passive counter-press"
 categories:
-- "Champions League"
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Bayern Munich"
+- "Champions League"
+- "Premier League"
 image: "https://i.imgur.com/207doWn.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-11-28 12:00 UTC
 title: "Modric shows why Rodri is important"
 categories:
-- "Champions League"
+- "opinion"
 tags:
 - "Real Madrid"
 - "Manchester City"
+- "Champions League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/27/Image-27Nov2024_20:40:38.png"
 ---
 

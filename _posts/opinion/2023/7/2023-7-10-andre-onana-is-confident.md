@@ -1,11 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-10 07:00:00 UTC
 title: "André Onana is confident" 
-tags: 
+tags:
 - "Inter"
-- "Manchester United" 
+- "Manchester United"
+categories:
+- "opinion"
 image: "https://i.imgur.com/T50QmSo.jpg"
 --- 
 

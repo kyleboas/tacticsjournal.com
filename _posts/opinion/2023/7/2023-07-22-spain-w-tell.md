@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-22 08:00 UTC
 title: "Spain's tell" 
 categories:
-- "Women's World Cup 2023"
+- "opinion"
 tags:
 - "Spain (W)"
 - "Costa Rica (W)"
+- "Women's World Cup 2023"
 image: "https://i.imgur.com/bdBFpZf.jpg"
 --- 
 

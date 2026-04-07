@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-22 12:00 UTC
 title: "Attacking uphill"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/21/Image-21Dec2024_18:35:04.png"
 ---
 

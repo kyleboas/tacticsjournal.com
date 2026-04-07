@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-16 11:00 UTC
 title: "The weakest part of Nicolas Jackson's game"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
+- "Premier League"
 image: "https://i.imgur.com/C3MmcED.jpeg"
 ---
 

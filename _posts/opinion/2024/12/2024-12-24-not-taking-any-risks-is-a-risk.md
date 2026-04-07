@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-24 12:00 UTC
 title: "Not taking any risks is a risk"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/23/Image-23Dec2024_23:02:57.png"
 ---
 

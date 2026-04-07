@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-17 11:00 UTC
 title: "Dembele instructs Mbappe to make the near post run"
 categories:
-- "Champions League"
-- "Ligue 1"
+- "opinion"
 tags:
 - "PSG"
+- "Champions League"
+- "Ligue 1"
 image: "https://i.imgur.com/t2Bmi1E.jpeg"
 ---
 

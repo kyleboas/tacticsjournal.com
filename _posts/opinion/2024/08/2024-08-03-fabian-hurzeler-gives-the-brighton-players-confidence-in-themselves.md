@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-03 11:00 UTC
 title: "Fabian Hurzeler gives the Brighton players confidence in themselves"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brighton"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/01/Image-01Aug2024_23:50:46.png"
 ---
 

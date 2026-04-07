@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-28 11:00 UTC
 title: "Leeds — Southampton: Southampton Stop Leeds' Line-Breaking Passes (0-1)"
 categories:
-- "Championship"
-- "Premier League"
+- "opinion"
 tags:
 - "Leeds"
 - "Southampton"
+- "Championship"
+- "Premier League"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/27/Image-27May2024_17:58:45.png?raw=true"
 link: "https://betweentheposts.net/leeds-southampton-southampton-stop-leeds-line-breaking-passes-0-1/"
 tweet: "Southampton outplayed Leeds in the Championship Playoff Final to gain automatic promotion to the Premier League, credited mainly to their defensive organization stopping almost every attempted line-breaking pass. My match report for @BetweenThePosts."

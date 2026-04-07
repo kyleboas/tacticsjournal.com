@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-10 08:00 UTC
 title: "Inter from left centre-back to right centre-back"
 categories:
-- "Serie A"
+- "opinion"
 tags:
 - "Inter"
 - "Bologna"
+- "Serie A"
 image: "https://i.imgur.com/sFV3x7F.jpeg"
 ---
 

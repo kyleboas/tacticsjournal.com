@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-11 08:00 UTC
 title: "Tottenham's advanced inverted full-backs"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
 - "Luton Town"
+- "Premier League"
 image: "https://i.imgur.com/VQQC9XD.jpg"
 ---
 

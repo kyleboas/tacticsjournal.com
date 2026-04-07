@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-08 11:00 UTC
 title: "We are running out of ball-playing goalkeepers"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/27/Image-27Jul2024_16:52:43.png"
 ---
 

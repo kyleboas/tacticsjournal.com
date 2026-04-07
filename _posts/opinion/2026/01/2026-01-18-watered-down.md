@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2026-01-18 11:00 UTC
 title: "Watered down"
 categories:
+- "opinion"
+tags:
 - "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/01/17/Image-17Jan2026_18:18:19.png"
 ---

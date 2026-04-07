@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-28 10:30 UTC
 title: "Aitana Bonmati's best qualities in one play"
 categories:
-- "Women's Champions League"
+- "opinion"
 tags:
 - "Barcelona (W)"
 - "Chelsea (W)"
+- "Women's Champions League"
 image: "https://i.imgur.com/0b2utm7.jpeg"
 tweet: "If I had to show someone one play that showcases @AitanaBonmati best qualities, on and off the ball, it would be this one. Awareness, scanning, anticipation, acceleration, touch, close-control, la pausa, and intelligence. Others can learn from it."
 ---

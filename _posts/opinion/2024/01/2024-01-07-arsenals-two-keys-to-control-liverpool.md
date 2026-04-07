@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-07 08:00 UTC
 title: "Arsenal's Two Keys to Control Liverpool"
 categories:
-- "Premier League"
-- "FA Cup"
+- "opinion"
 tags:
 - "Arsenal"
 - "Liverpool"
+- "Premier League"
+- "FA Cup"
 image: "https://i.imgur.com/rq1q7vV.jpeg"
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-21 08:00 UTC
 title: "Nkunku is the Runner Chelsea Lacked"
 categories:
-- "Premier League"
-- "EFL Cup"
+- "opinion"
 tags:
 - "Chelsea"
 - "Newcastle"
+- "Premier League"
+- "EFL Cup"
 image: "https://i.imgur.com/ognuiOY.jpg"
 ---
 

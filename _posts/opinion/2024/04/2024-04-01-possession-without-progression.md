@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-01 08:00 UTC
 title: "Possession without progression"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/UxzWn5b.jpeg"
 ---
 

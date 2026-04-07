@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-23 08:00 UTC
 title: "Inter from out-the-back"
 categories:
-- "Champions League"
-- "Serie A"
-- "La Liga"
+- "opinion"
 tags:
 - "Inter"
 - "Atletico Madrid"
+- "Champions League"
+- "Serie A"
+- "La Liga"
 image: "https://i.imgur.com/atcftlO.jpeg"
 ---
 

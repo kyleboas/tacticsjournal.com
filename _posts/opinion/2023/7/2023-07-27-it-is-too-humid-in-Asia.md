@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-27 08:00 UTC
 title: "It is too humid in Asia"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/8iyMInP.jpg"
 ---
 

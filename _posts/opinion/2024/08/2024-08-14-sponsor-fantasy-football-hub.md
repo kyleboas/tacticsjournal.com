@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-14 18:00 UTC
 title: "[Sponsor] Fantasy Football Hub"
 categories:
+- "opinion"
+tags:
 - "Sponsor"
 - "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_14:47:47.png"

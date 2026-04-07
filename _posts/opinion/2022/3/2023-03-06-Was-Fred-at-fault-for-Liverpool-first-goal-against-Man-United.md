@@ -2,12 +2,12 @@
 title: Was Fred at fault for Liverpool's first goal against Man United
 date: 2023-03-06 10:35:00 Z
 categories:
-- Premier League
+- "opinion"
 tags:
-- Manchester United
-- Liverpool
+- "Manchester United"
+- "Liverpool"
+- "Premier League"
 layout: post
-category: opinion
 image: https://i.imgur.com/krM5x2I.jpg
 ---
 

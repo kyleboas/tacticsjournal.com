@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-19 08:00 UTC
 title: "30 passes and 16 heart-attacks"
+categories:
+- "opinion"
 image: "https://i.imgur.com/JMoBrxu.png"
 ---
 

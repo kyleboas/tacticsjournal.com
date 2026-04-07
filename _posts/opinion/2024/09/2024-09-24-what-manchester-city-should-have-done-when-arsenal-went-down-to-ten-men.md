@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-24 11:00 UTC
 title: "What Manchester City should have done when Arsenal went down to ten men"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Arsenal"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/23/Image-23Sep2024_00:29:28.png"
 ---
 

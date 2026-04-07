@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-20 11:00 UTC
 title: "World-Class"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/RWOLkwa.jpeg"
 ---
 

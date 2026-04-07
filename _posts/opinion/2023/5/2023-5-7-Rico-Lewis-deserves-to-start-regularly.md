@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-7 07:00:00 UTC
 title: "Rico Lewis deserves to start regularly"
-categories: 
-- "Premier League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Manchester City"
 - "Leeds United"
+- "Premier League"
 image: "https://i.imgur.com/zYw9XPB.jpg"
 ---
 

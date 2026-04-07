@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-25 11:00 UTC
 title: "Arsenal's right wing malfunctions against Aston Villa"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Aston Villa"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_00:43:50.png"
 ---
 

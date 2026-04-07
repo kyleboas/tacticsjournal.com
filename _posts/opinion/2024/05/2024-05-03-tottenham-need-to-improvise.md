@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-03 11:00 UTC
 title: "Tottenham need to improvise"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/evYOifa.png"
 ---
 

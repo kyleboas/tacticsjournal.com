@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-20 08:00 UTC
 title: "Kai Havertz at left-back click-bait" 
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Germany"
+- "Premier League"
 image: "https://i.imgur.com/8DkAx09.jpg"
 ---
 

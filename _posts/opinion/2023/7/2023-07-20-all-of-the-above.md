@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-20 07:00 UTC
 title: "All of the above"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
 - "Karlsruher"
+- "Premier League"
 image: "https://i.imgur.com/6rqNcy2.jpg"
 ---
 

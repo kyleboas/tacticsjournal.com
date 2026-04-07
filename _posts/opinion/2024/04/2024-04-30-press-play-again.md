@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-30 11:00 UTC
 title: "Press play again"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Real Madrid"
+- "La Liga"
 image: "https://i.imgur.com/pqRaZYr.jpeg"
 tweet: "Thomas Tuchel remarks that the 'technical execution' of Real Madrid's counter attacks are 'simple without delay' but also 'unforeseen'. He has prepared Bayern Munich tactically, but in his words, the 'tactic is just a car and the players drive the car'."
 ---

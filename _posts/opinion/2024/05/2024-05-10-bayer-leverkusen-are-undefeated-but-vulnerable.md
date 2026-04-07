@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-10 11:00 UTC
 title: "Bayer Leverkusen are undefeated but vulnerable"
 categories:
-- "Bundesliga"
-- "Europa League"
+- "opinion"
 tags:
 - "Bayer Leverkusen"
+- "Bundesliga"
+- "Europa League"
 image: "https://i.imgur.com/vkP8RIM.jpeg"
 ---
 

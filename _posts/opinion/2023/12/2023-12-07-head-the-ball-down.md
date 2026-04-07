@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-07 08:00 UTC
 title: "Head the Ball Down" 
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/Leo3Cv2.jpg"
 ---
 

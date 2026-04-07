@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-09 08:00 UTC
 title: "Why did Manchester United leave Declan Rice free?"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/lwKRD0N.jpg"
 ---
 

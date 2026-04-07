@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-4 07:00:00 UTC
 title: "Manchester City needed more runners against West Ham"
-categories: 
-- "Premier League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Manchester City"
 - "West Ham"
+- "Premier League"
 image: "https://i.imgur.com/NuRyyGk.jpg"
 ---
 

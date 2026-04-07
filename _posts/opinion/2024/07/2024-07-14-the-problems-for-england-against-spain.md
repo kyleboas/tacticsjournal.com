@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-14 11:00 UTC
 title: "The problems for England against Spain"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Spain"
 - "England"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/14/Image-14Jul2024_02:19:25.png"
 ---
 

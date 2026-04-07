@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-28 08:00 UTC
 title: "Trippier inverts"
 categories:
-- "Premier League"
-- "FA Cup"
+- "opinion"
 tags:
 - "Newcastle"
 - "Blackburn"
+- "Premier League"
+- "FA Cup"
 image: "https://i.imgur.com/5QJCTUa.jpeg"
 ---
 

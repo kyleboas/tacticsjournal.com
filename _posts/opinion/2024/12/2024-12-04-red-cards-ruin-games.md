@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-04 12:00 UTC
 title: "Red cards ruin games"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/03/Image-03Dec2024_17:38:56.png"
 ---
 

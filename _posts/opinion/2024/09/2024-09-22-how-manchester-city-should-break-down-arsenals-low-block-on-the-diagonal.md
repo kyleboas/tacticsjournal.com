@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-22 11:00 UTC
 title: "How Manchester City should break down Arsenal's low block on the diagonal"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_20:38:39.png"
 ---
 

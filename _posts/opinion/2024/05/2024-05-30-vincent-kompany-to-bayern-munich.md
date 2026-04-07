@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-30 11:00 UTC
 title: "Vincent Kompany to Bayern Munich"
 categories:
-- "Bundesliga"
+- "opinion"
 tags:
 - "Bayern Munich"
+- "Bundesliga"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/30/Image-30May2024_00:04:52.png?raw=true"
 ---
 

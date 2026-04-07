@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-24 11:00 UTC
 title: "Don't force things"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/21/Image-21Sep2025_23:36:08.png"
 ---
 

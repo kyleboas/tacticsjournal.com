@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2025-12-21 11:00 UTC
 title: "Teams like Liverpool should make the pitch smaller in possession"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/16/Image-16Dec2025_22:58:07.png"
 ---
 

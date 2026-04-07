@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-23 08:00 UTC
 title: "Kobbie Mainoo against Lyon and Arsenal"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Premier League"
 image: "https://i.imgur.com/VIrXMfS.jpg"
 ---
 

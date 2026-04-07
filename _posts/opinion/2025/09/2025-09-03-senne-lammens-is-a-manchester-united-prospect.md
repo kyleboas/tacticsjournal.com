@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-03 11:00 UTC
 title: "Senne Lammens is a Manchester United prospect"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/02/Image-02Sep2025_10:47:08.png"
 ---
 

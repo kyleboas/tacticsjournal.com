@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-30 08:00 UTC
 title: "Artem Dovybk shows how a center-forward should move"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Celta Vigo"
 - "Girona"
+- "La Liga"
 image: "https://i.imgur.com/yFTidD2.jpeg"
 ---
 

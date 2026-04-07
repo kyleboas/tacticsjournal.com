@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-16 12:00 UTC
 title: "Mazraoui shows us how to prepare, plant, and launch as a defender"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/15/Image-15Dec2024_19:50:00.png"
 ---
 

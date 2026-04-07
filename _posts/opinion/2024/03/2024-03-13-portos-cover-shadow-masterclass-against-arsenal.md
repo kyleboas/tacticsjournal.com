@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-13 08:00 UTC
 title: "Porto's cover shadow masterclass against Arsenal"
 categories:
-- "Premier League"
-- "Champions League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Porto"
+- "Premier League"
+- "Champions League"
 image: "https://i.imgur.com/ws14VO2.jpeg"
 ---
 

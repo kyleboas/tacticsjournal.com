@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-07-04 11:00 UTC
 title: "Quicker passing is the focus next season"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/07/03/Image-03Jul2025_23:33:24.png"
 ---
 

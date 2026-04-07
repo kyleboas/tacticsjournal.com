@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-16 11:00 UTC
 title: "We need results"
 categories:
-- "Euro 2024"
+- "opinion"
 tags:
 - "Hungary"
 - "Switzerland"
+- "Euro 2024"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/15/Image-15Jun2024_17:59:29.png?raw=true"
 ---
 

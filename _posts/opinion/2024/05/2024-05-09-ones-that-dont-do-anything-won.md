@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-09 11:00 UTC
 title: "Ones that don't do anything won"
 categories:
-- "Champions League"
-- "La Liga"
-- "Bundesliga"
+- "opinion"
 tags:
 - "Real Madrid"
 - "Bayern Munich"
+- "Champions League"
+- "La Liga"
+- "Bundesliga"
 image: "https://i.imgur.com/TEdJTvj.jpeg"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-25 08:00 UTC
 title: "Brighton move without thinking"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brighton"
+- "Premier League"
 image: "https://i.imgur.com/cUEYZtv.jpg"
 ---
 

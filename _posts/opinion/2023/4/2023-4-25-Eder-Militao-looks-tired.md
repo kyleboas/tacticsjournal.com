@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-4-25 08:12:00 -0500
 title: "Éder Militão looks tired"
-categories: 
-- "La Liga"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Real Madrid"
 - "Girona"
+- "La Liga"
 image: "https://i.imgur.com/tljiUUE.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-22 08:00 UTC
 title: "A beautiful accident"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/P3RD6GX.jpg"
 ---
 

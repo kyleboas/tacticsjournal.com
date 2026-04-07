@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-01 11:00 UTC
 title: "Liverpool training exercise to replicate Slot's build up"
 categories:
-- "Premier League"
-- "Training"
+- "opinion"
 tags:
 - "Liverpool"
+- "Premier League"
+- "Training"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/01/Image-01Aug2024_00:37:11.png"
 ---
 

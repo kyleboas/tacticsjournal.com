@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-05 11:00 UTC
 title: "Alternative center-back positioning for Manchester United in the middle third"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/04/Image-04Aug2024_21:40:06.png"
 ---
 

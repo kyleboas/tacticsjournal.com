@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-30 08:00 UTC
 title: "Barcelona’s 4-2 Build-up and 3-4-3 Diamond"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Real Madrid"
 - "Barcelona"
+- "La Liga"
 image: "https://i.imgur.com/I9g8KaW.jpg"
 ---
 

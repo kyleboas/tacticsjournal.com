@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-01 11:00 UTC
 title: "Bayern Munich's second half switch that changed the game versus Real Madrid"
 categories:
-- "Champions League"
-- "Bundesliga"
-- "La Liga"
+- "opinion"
 tags:
 - "Real Madrid"
 - "Bayern Munich"
+- "Champions League"
+- "Bundesliga"
+- "La Liga"
 image: "https://i.imgur.com/7zdJbqW.jpeg"
 ---
 

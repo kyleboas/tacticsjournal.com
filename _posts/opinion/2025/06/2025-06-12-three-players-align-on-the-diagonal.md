@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-06-12 11:00 UTC
 title: "Three players align on the diagonal"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/11/Image-11Jun2025_22:55:39.png"
 ---
 

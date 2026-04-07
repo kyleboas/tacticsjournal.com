@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2025-11-08 11:00 UTC
 title: "Gabriel is Arsenal's talisman"
 categories:
+- "opinion"
+tags:
 - "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/06/Image-06Nov2025_23:12:38.png"
 ---

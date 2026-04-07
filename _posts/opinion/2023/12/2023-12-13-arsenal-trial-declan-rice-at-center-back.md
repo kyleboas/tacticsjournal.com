@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-13 08:00 UTC
 title: "Arsenal Trial Declan Rice at Center-Back"
 categories:
-- "Premier League"
-- "Champions League"
+- "opinion"
 tags:
 - "Arsenal"
+- "Premier League"
+- "Champions League"
 image: "https://i.imgur.com/thsXbSw.jpg"
 ---
 

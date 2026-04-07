@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-11-30 12:00 UTC
 title: "Brick by brick"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/29/Image-29Nov2024_14:57:35.png"
 ---
 

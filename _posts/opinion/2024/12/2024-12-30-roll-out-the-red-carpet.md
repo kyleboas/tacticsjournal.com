@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-30 12:00 UTC
 title: "Roll out the red carpet"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/29/Image-29Dec2024_20:24:47.png"
 ---
 

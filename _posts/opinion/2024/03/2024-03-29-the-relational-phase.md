@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-29 08:00 UTC
 title: "The relational phase"
 categories:
-- "Serie A"
-- "Premier League"
+- "opinion"
 tags:
 - "Bologna"
 - "Tottenham"
 - "Relationism"
+- "Serie A"
+- "Premier League"
 image: "https://i.imgur.com/e8IIM8F.jpeg"
 tweet: "I like Thiago Motta's phrase 'relational phase'. The word phase assumes it's temporary. A hybrid between the predictable positional phase and the unpredictable where players are allowed to move out of position to find solutions. Video by @ThePurist_"
 ---

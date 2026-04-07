@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-26 11:00 UTC
 title: "Telephone numbers"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/25/Image-25Sep2025_19:56:43.png"
 ---
 

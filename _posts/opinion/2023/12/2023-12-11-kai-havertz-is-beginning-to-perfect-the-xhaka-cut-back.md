@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-11 08:00 UTC
 title: "Kai Havertz is Beginning to Perfect the Xhaka Cut-Back"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Aston Villa"
+- "Premier League"
 image: "https://i.imgur.com/7Btvb8i.jpg"
 ---
 

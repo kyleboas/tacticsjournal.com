@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-16 11:00 UTC
 title: "Luis Enrique starts watching PSG matches from the stands in the first half"
 categories:
-- "Ligue 1"
+- "opinion"
 tags:
 - "PSG"
+- "Ligue 1"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/15/Image-15Sep2025_16:10:13.png"
 ---
 

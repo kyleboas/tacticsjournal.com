@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-21 12:00 UTC
 title: "Ange Postecoglou: 'I'm just a naughty little boy'"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/20/Image-20Dec2024_18:52:58.png"
 ---
 

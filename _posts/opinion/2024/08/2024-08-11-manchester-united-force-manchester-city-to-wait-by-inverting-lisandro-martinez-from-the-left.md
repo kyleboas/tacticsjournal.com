@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-11 11:00 UTC
 title: "Manchester United force Manchester City to wait by inverting Lisandro Martinez from the left"
 categories:
-- "Premier League"
-- "Community Shield"
+- "opinion"
 tags:
 - "Manchester United"
 - "Manchester City"
+- "Premier League"
+- "Community Shield"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/11/Image-11Aug2024_01:10:13.png"
 ---
 

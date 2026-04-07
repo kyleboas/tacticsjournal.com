@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-05 08:00 UTC
 title: "Liverpool's flipped formation and changed dynamics against Arsenal"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Liverpool"
+- "Premier League"
 image: "https://i.imgur.com/bmTNmI7.jpeg"
 ---
 

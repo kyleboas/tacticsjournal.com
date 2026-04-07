@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-26 08:00 UTC
 title: "AC Milan allows PSG to walk through the midfield"
 categories:
-- "Champions League"
+- "opinion"
 tags:
 - "PSG"
 - "AC Milan"
+- "Champions League"
 image: "https://i.imgur.com/o2XFabL.jpg"
 ---
 

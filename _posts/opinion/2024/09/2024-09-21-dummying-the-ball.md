@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-21 11:00 UTC
 title: "Dummying the ball"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/21/Image-21Sep2024_01:52:54.png"
 ---
 

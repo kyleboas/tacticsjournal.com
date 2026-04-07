@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-10-12 11:00 UTC
 title: "Corner kicks are overpowered"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/11/Image-11Oct2025_23:28:08.png"
 ---
 

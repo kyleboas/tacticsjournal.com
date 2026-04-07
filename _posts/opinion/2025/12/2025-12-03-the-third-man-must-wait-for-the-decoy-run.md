@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2025-12-03 11:00 UTC
 title: "The third man must wait for the decoy run"
 categories:
-- "Champions League"
+- "opinion"
 tags:
 - "Bayern Munich"
 - "Arsenal"
+- "Champions League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/01/Image-01Dec2025_22:18:36.png"
 ---
 

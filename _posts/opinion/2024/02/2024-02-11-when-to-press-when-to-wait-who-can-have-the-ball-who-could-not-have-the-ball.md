@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-11 08:00 UTC
 title: "When to press, when to wait, who can have the ball, who could not have the ball"
 categories:
-- "Bundesliga"
+- "opinion"
 tags:
 - "Leverkusen"
 - "Bayern Munich"
+- "Bundesliga"
 image: "https://i.imgur.com/9t1vL2E.jpeg"
 ---
 

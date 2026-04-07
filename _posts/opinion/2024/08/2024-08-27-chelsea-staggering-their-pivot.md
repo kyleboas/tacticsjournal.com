@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-27 11:00 UTC
 title: "Chelsea staggering their pivot"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/26/Image-26Aug2024_17:47:14.png"
 ---
 

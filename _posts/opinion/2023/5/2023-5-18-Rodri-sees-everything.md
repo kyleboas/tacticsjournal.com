@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-18 07:00:00 UTC
 title: "Rodri sees everything"
 categories:
+- "opinion"
+tags:
+- "Manchester City"
+- "Real Madrid"
 - "Champions League"
 - "Premier League"
 - "La Liga"
-tags: 
-- "Manchester City"
-- "Real Madrid"
 image: "https://i.imgur.com/Z0mr2qr.jpg"
 ---
 

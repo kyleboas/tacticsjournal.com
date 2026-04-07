@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-26 07:00:00 UTC
 title: "Narrow Manchester United leave space wide against Chelsea"
-categories: 
+categories:
+- "opinion"
+tags:
+- "Manchester United"
 - "Premier League"
-tags: 
-- "Manchester United" 
 image: "https://i.imgur.com/heARUhe.jpg"
 --- 
 

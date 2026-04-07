@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-02 11:00 UTC
 title: "Liverpool had no specific game plan to press Manchester United during their build up"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Liverpool"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_01:14:54.png"
 ---
 

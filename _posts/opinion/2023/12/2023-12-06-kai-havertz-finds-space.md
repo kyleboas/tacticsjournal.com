@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-06 08:00 UTC
 title: "Kai Havertz Finds Space"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/04DTsun.jpg"
 ---
 

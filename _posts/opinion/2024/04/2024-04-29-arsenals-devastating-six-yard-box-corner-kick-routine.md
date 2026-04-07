@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-29 10:30 UTC
 title: "Arsenal's devastating six-yard box corner kick routine"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/tDMIr6o.jpeg"
 ---
 

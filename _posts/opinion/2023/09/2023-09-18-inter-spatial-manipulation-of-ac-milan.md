@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-18 08:00 UTC
 title: "Inter's spatial manipulation of AC Milan"
 categories:
-- "Serie A"
+- "opinion"
 tags:
 - "Inter"
 - "AC Milan"
+- "Serie A"
 image: "https://i.imgur.com/bMqMLlS.jpg"
 ---
 

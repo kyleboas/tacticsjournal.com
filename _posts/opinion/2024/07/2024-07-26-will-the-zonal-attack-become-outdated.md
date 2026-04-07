@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-26 11:00 UTC
 title: "Will the zonal attack become outdated?"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/25/Image-25Jul2024_03:07:17.png"
 ---
 

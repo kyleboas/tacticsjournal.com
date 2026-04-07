@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-10 11:00 UTC
 title: "Pep Guardiola's anti-football wing play"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/09/Image-09Aug2025_21:26:17.png"
 ---
 

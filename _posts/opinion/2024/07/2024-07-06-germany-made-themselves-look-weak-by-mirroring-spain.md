@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-06 11:00 UTC
 title: "Germany made themselves look weak by mirroring Spain"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Spain"
 - "Germany"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/05/Image-05Jul2024_23:52:57.png"
 ---
 

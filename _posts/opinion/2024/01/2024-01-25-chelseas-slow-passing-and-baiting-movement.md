@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-25 08:00 UTC
 title: "Chelsea's slow passing and baiting movement"
 categories:
-- "Premier League"
-- "EFL Cup"
+- "opinion"
 tags:
 - "Middlesbrough"
 - "Chelsea"
+- "Premier League"
+- "EFL Cup"
 image: "https://i.imgur.com/9uvQscM.jpeg"
 ---
 

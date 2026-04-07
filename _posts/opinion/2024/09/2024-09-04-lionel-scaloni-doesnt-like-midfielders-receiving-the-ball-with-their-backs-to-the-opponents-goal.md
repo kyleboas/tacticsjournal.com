@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-04 11:00 UTC
 title: "Lionel Scaloni doesn't like midfielders receiving the ball with their backs to the opponent's goal"
 categories:
-- "International"
+- "opinion"
 tags:
 - "Argentina"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/03/Image-03Oct2024_00:59:32.png"
 ---
 

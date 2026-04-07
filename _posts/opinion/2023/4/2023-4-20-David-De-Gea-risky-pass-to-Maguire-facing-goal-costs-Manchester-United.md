@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2023-4-20 10:30:00 -0500
 title: "David De Gea's risky pass to Maguire facing goal costs Manchester United"
-categories: 
+categories:
+- "opinion"
+tags:
+- "Manchester United"
+- "Sevilla"
 - "Premier League"
 - "La Liga"
 - "Europa League"
-tags: 
-- "Manchester United"
-- "Sevilla"
 image: "https://i.imgur.com/7GINsHz.jpg"
 ---
 

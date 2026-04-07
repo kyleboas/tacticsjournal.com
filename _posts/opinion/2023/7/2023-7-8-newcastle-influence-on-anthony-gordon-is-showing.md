@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-7-8 07:00:00 UTC
 title: "Newcastle's influence on Anthony Gordon is showing"
-categories: 
-- "U21"
-tags: 
+categories:
+- "opinion"
+tags:
 - "England (U21)"
 - "Newcastle"
+- "U21"
 image: "https://i.imgur.com/C82JyxI.jpg"
 ---
 

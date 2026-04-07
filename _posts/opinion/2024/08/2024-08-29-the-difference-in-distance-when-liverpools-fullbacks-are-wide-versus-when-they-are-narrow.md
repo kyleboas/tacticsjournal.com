@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-29 11:00 UTC
 title: "The difference in distance when Liverpool's fullbacks are wide versus when they are narrow"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
 - "Ipswich Town"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/29/Image-29Aug2024_00:42:32.png"
 ---
 

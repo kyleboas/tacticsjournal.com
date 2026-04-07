@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-24 08:00 UTC
 title: "One Change Alters Arsenal's Defensive Structure Against Liverpool"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Liverpool"
+- "Premier League"
 image: "https://i.imgur.com/vQGl47X.jpg"
 ---
 

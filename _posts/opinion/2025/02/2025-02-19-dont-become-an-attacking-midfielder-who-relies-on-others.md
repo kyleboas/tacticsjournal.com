@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-02-19 12:00 UTC
 title: "Don't become an attacking midfielder who relies on others"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/18/Image-18Feb2025_20:40:55.png"
 ---
 

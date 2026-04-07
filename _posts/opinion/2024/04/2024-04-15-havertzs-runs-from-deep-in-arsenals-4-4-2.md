@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-15 11:00 UTC
 title: "Havertz's runs from deep in Arsenal's 4-4-2"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Aston Villa"
+- "Premier League"
 image: "https://i.imgur.com/kHmSX0m.jpeg"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-15 11:00 UTC
 title: "Why did Valverde know to make this run"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Real Madrid"
+- "La Liga"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_23:45:21.png"
 ---
 

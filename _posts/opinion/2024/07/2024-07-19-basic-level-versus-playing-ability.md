@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-19 11:00 UTC
 title: "Basic level versus playing ability"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/09/Image-09Jul2024_02:22:49.png"
 ---
 

@@ -1,10 +1,11 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-10 11:00 UTC
 title: "Germany is in the street again"
 tags:
 - "Germany"
+categories:
+- "opinion"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/09/Image-09Jun2024_22:08:46.png?raw=true"
 ---
 

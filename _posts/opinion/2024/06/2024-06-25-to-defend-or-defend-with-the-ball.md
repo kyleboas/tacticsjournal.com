@@ -1,16 +1,16 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-25 11:00 UTC
 title: "To defend or defend with the ball"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Italy"
 - "Spain"
 - "Croatia"
 - "Albania"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/25/Image-25Jun2024_00:19:37.png"
 ---
 

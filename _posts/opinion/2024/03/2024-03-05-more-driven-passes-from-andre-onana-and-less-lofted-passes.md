@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-05 08:00 UTC
 title: "More driven passes from Andre Onana and less lofted passes"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/dgOxR4J.jpeg"
 ---
 

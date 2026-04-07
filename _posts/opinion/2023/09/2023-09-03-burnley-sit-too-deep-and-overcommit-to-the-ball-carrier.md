@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-03 08:00 UTC
 title: "Burnley sit too deep and overcommit to the ball carrier"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
 - "Burnley"
+- "Premier League"
 image: "https://i.imgur.com/VP7ituo.jpg"
 ---
 

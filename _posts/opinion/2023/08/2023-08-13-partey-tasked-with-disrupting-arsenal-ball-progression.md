@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-13 08:00 UTC
 title: "Partey tasked with disrupting Arsenal's ball progression"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Nottingham Forrest"
+- "Premier League"
 image: "https://i.imgur.com/smOylkY.jpg"
 ---
 

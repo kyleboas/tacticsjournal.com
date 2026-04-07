@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-15 12:00 UTC
 title: "Russel Martin on Ange Postecoglou: 'I have a lot of respect for him'"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Southampton"
 - "Tottenham"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/14/Image-14Dec2024_09:16:49.png"
 ---
 

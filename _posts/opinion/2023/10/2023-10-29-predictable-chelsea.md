@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-29 08:00 UTC
 title: "Predictable Chelsea"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "Brentford"
+- "Premier League"
 image: "https://i.imgur.com/RmBpg89.jpg"
 ---
 

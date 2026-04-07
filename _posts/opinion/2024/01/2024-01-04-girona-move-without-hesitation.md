@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-04 08:00 UTC
 title: "Girona Move Without Hesitation"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Atletico Madrid"
 - "Girona"
+- "La Liga"
 image: "https://i.imgur.com/TzoT4rP.jpeg"
 ---
 

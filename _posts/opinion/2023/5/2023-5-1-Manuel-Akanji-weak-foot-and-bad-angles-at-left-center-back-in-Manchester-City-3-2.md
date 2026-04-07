@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-1 07:00:00 UTC
 title: "Manuel Akanji's weak foot and bad angles at left center-back in Manchester City's 3-2"
-categories: 
-- "Premier League"
-tags: 
-- "Manchester City" 
+categories:
+- "opinion"
+tags:
+- "Manchester City"
 - "Fulham"
+- "Premier League"
 image: "https://i.imgur.com/lBTLRhE.jpg"
 ---
 

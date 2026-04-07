@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-10 11:00 UTC
 title: "Mikel Arteta has developed a softer approach to managing"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/09/Image-09Aug2024_02:55:07.png"
 ---
 

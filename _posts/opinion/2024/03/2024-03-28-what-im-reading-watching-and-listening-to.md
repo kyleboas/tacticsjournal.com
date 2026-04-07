@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-28 08:00 UTC
 title: "What I'm reading, watching, and listening to"
+categories:
+- "opinion"
 image: "https://i.imgur.com/auPeeM9.jpg"
 ---
 

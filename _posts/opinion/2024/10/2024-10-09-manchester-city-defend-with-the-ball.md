@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-10-09 11:00 UTC
 title: "Manchester City defend with the ball"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/08/Image-08Oct2024_23:43:08.png"
 ---
 

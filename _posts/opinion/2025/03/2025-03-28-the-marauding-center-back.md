@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-03-28 12:00 UTC
 title: "The marauding center-back"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/03/27/Image-27Mar2025_13:19:11.png"
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-02-26 12:00 UTC
 title: "Manufactured rivalries"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/25/Image-25Feb2025_16:21:40.png"
 ---
 

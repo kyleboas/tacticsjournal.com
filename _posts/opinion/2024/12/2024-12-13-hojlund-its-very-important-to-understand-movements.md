@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-13 12:00 UTC
 title: "Hojlund: 'It's very important to understand movements'"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Ruben Amorim"
+- "Premier League"
 ---
 
 Manchester United center-forward Rasmus Højlund spoke on something important that manager Ruben Amorim is working on: forging connections between players to "complement each other" because, in his words, "It is very important to understand movements."

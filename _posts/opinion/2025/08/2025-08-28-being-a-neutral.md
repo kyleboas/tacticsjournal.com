@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-28 11:00 UTC
 title: "Being a neutral"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/27/Image-27Aug2025_21:01:30.png"
 ---
 

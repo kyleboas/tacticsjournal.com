@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-05 08:00 UTC
 title: "Mika Mármol"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Las Palmas"
 - "Barcelona"
+- "La Liga"
 image: "https://i.imgur.com/fpHewEG.jpeg"
 ---
 

@@ -1,16 +1,16 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-21 11:00 UTC
 title: "Italy play out of Spain's counter-press"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Italy"
 - "Spain"
 - "Luciano Spalletti"
 - "Luis de la Fuente"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/21/Image-21Jun2024_01%3A01%3A30.png"
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-20 08:00 UTC
 title: "Manchester United Learned From Gakpo's Goal Last Season"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Liverpool"
+- "Premier League"
 image: "https://i.imgur.com/hS0cm98.jpg"
 ---
 

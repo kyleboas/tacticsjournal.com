@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-12-26 11:00 UTC
 title: "I am making something big and I need your help"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/25/Image-25Dec2025_18:50:36.png"
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-16 11:00 UTC
 title: "A team versus individuals"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Chelsea"
+- "Premier League"
 image: "https://i.imgur.com/BoLQ4iW.jpeg"
 ---
 

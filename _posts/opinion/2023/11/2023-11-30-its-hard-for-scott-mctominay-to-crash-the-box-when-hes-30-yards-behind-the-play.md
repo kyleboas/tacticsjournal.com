@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-30 08:00 UTC
 title: "It's hard for Scott McTominay to crash the box when he's 30 yards behind the play"
 categories:
-- "Champions League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Champions League"
 image: "https://i.imgur.com/z0jZP1Q.jpg"
 ---
 

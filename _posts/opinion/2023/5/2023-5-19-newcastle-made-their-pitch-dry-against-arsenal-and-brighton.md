@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-19 07:00:00 UTC
 title: "Newcastle made their pitch dry against Arsenal and Brighton"
-categories: 
-- "Premier League" 
-tags: 
+categories:
+- "opinion"
+tags:
 - "Newcastle"
 - "Arsenal"
 - "Brighton"
+- "Premier League"
 image: "https://i.imgur.com/QQPqVKF.jpg"
 ---
 

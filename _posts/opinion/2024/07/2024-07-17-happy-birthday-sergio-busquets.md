@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-17 11:00 UTC
 title: "Happy Birthday, Sergio Busquets"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/16/Image-16Jul2024_16:52:34.png"
 ---
 

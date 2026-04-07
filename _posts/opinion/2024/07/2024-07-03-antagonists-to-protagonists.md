@@ -1,11 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-03 11:00 UTC
 title: "Antagonists to Protagonists"
 categories:
-- "Euro 2024"
-- "Copa America"
+- "opinion"
 tags:
 - "Austria"
 - "Uruguay"
@@ -17,6 +15,8 @@ tags:
 - "Portugal"
 - "Netherlands"
 - "Switzerland"
+- "Euro 2024"
+- "Copa America"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/03/Image-03Jul2024_11:21:37.png"
 ---
 

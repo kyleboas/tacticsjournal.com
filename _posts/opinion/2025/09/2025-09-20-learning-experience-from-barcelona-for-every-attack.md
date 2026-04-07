@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-20 11:00 UTC
 title: "A learning experience from Barcelona for every attack"
 categories:
-- "La Liga"
-- "Champions League"
+- "opinion"
 tags:
 - "Barcelona"
+- "La Liga"
+- "Champions League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/19/Image-19Sep2025_14:07:36.png"
 ---
 

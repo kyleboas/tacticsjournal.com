@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-04 08:00 UTC
 title: "Shielding the ball from the goalkeeper in the air is becoming more common"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Everton"
 - "Manchester City"
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/K6talk3.jpeg"
 ---
 

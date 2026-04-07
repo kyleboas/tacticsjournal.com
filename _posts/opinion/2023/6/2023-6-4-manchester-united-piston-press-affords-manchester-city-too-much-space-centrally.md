@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-6-4 07:00:00 UTC
 title: "Manchester United's piston press affords Manchester City too much space centrally" 
-categories: 
-- "Premier League"
-- "FA Cup"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Manchester United"
 - "Manchester City"
+- "Premier League"
+- "FA Cup"
 image: "https://i.imgur.com/c846xlG.jpg"
 --- 
 

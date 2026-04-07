@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-11-22 12:00 UTC
 title: "Arsenal is bringing back the long ball from the goal kick"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/18/Image-18Nov2024_15:25:45.png"
 ---
 

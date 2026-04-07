@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-27 11:00 UTC
 title: "Benefit from the struggle"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/26/Image-26Aug2025_23:51:32.png"
 ---
 

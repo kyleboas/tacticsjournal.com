@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-7-4 07:00:00 UTC
 title: "Erik Ten Hag's end goal for Man United is 2021/22 Ajax" 
-categories: 
+categories:
+- "opinion"
+tags:
+- "Manchester United"
 - "Premier League"
-tags: 
-- "Manchester United" 
 image: "https://i.imgur.com/Jm4FtYT.jpg"
 ---
 

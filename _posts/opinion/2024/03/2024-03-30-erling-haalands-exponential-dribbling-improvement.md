@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-30 08:00 UTC
 title: "Erling Haaland's exponential dribbling improvement"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/y5ChRpt.jpeg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-07 08:00 UTC
 title: "What happens when Van Dijk marks Odegaard instead of Gomez"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Liverpool"
+- "Premier League"
 image: "https://i.imgur.com/0Vf0ZTL.jpeg"
 ---
 

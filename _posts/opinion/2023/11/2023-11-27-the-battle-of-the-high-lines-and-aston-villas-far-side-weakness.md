@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-27 08:00 UTC
 title: "The Battle of the High Lines and Aston Villa's far-side weakness"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Aston Villa"
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/lLwCOR0.jpg"
 ---
 

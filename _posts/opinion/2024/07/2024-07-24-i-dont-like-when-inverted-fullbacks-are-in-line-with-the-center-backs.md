@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-24 11:00 UTC
 title: "I don't like when inverted fullbacks are in line with the center-backs"
 categories:
-- "Premier League"
-- "Preseason"
+- "opinion"
 tags:
 - "Manchester City"
 - "Celtic"
+- "Premier League"
+- "Preseason"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_01:02:17.png"
 ---
 

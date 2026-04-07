@@ -1,17 +1,17 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-2 07:00:00 UTC
 title: "Active and Waiting defenders in a flat-back-five"
-categories: 
-- "Premier League"
-- "Serie A"
-- "Champions League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Tottenham"
 - "Liverpool"
 - "Inter"
 - "Chelsea"
+- "Premier League"
+- "Serie A"
+- "Champions League"
 image: "https://i.imgur.com/TfOxqow.jpg"
 ---
 

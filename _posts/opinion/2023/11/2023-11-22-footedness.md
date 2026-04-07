@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-22 08:00 UTC
 title: "Footedness"
+categories:
+- "opinion"
 image: "https://i.imgur.com/He96NpC.jpg"
 ---
 

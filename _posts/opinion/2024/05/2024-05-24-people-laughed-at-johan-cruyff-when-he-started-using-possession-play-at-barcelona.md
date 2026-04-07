@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-24 11:00 UTC
 title: "People laughed at Johan Cruyff when he started using possession play at Barcelona"
+categories:
+- "opinion"
 image: "https://i.imgur.com/tjSqVVc.jpeg"
 ---
 

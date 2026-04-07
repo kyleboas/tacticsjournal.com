@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-01-16 12:00 UTC
 title: "The holding midfield and fullback monopoly"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/15/Image-15Jan2025_22:04:26.png"
 ---
 

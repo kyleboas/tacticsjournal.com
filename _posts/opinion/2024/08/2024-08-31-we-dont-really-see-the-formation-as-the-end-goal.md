@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-31 11:00 UTC
 title: "We don't really see the formation as the end goal"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/31/Image-31Aug2024_00:29:20.png"
 ---
 

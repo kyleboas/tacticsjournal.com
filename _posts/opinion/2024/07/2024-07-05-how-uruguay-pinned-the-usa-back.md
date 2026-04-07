@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-05 11:00 UTC
 title: "How Uruguay pinned the USA back" 
 categories:
-- "Copa America"
-- "International"
+- "opinion"
 tags:
 - "USA"
 - "Uruguay"
+- "Copa America"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/04/Image-04Jul2024_23:32:23.png"
 ---
 

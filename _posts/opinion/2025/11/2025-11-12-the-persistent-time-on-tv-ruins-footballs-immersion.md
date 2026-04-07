@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-11-12 11:00 UTC
 title: "The persistent time on TV ruins football's immersion"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/11/Image-11Nov2025_22:56:58.png"
 ---
 

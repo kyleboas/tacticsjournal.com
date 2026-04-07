@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-21 08:00 UTC
 title: "Florian Wirtz Acceleration and Deceleration"
 categories:
-- "Bundesliga"
+- "opinion"
 tags:
 - "Bayer Leverkusen"
+- "Bundesliga"
 image: "https://i.imgur.com/ZDUWoUb.jpeg"
 ---
 

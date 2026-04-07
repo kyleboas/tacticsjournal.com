@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-24 11:00 UTC
 title: "Frank roulette"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/23/Image-23Aug2025_19:43:20.png"
 ---
 

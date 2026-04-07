@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-20 08:00 UTC
 title: "Liverpool's out of sync first phase"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
+- "Premier League"
 image: "https://i.imgur.com/GPFF0c3.jpg"
 ---
 

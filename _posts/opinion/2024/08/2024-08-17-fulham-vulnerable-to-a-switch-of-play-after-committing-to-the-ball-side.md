@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-17 11:00 UTC
 title: "Fulham vulnerable to a switch of play after committing to the ball side"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Fulham"
 - "Manchester United"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_00:29:24.png"
 ---
 

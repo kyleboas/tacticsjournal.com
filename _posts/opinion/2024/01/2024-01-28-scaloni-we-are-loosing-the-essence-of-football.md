@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-28 08:00 UTC
 title: "Scaloni: We are loosing the essence of football"
+categories:
+- "opinion"
 image: "https://i.imgur.com/KOoYxNJ.jpeg"
 ---
 

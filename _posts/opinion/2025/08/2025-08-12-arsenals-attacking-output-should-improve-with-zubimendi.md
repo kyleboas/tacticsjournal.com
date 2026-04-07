@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-12 11:00 UTC
 title: "Arsenal's attacking output should improve with Zubimendi"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/11/Image-11Aug2025_22:08:48.png"
 ---
 

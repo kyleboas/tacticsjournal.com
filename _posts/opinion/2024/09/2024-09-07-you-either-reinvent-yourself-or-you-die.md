@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-07 11:00 UTC
 title: "You either reinvent yourself or you die"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/07/Image-07Sep2024_00:10:34.png"
 ---
 

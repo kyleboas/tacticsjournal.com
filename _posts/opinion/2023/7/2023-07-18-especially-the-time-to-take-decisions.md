@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-18 07:00 UTC
 title: "Especially the time to take decisions"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brighton"
+- "Premier League"
 image: /uploads/2023/07/18/Image-18Jul2023_06:21:20.jpeg
 ---
 

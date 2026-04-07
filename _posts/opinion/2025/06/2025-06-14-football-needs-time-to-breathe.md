@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-06-14 11:00 UTC
 title: "Football needs time to breathe"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/13/Image-13Jun2025_19:04:49.png"
 ---
 

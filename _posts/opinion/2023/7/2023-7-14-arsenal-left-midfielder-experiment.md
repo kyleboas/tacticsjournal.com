@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-7-14 07:00:00 UTC
 title: "Arsenal's left midfielder experiment"
 categories:
-- "Premier League"
-tags: 
+- "opinion"
+tags:
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/HwYNHbB.jpg"
 ---
 

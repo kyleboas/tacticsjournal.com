@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-7-5 07:00:00 UTC
 title: "Cesc Fàbregas and Manchester City’s progression to a diamond"
-categories: 
-- "Premier League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Manchester City"
+- "Premier League"
 image: /uploads/2023/07/04/Image-04Jul2023_12:41:36.jpeg
 ---
 

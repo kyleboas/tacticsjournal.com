@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-18 11:00 UTC
 title: "We don't have to speak about tactics if you lose so many duels"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
 - "Ipswich Town"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/17/Image-17Aug2024_23:18:07.png"
 ---
 

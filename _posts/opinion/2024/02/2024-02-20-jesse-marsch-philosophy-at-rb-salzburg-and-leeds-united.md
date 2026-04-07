@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-20 08:00 UTC
 title: "Jesse Marsch philosophy at RB Salzburg and Leeds United"
 categories:
-- "Premier League"
-- "Bundesliga"
+- "opinion"
 tags:
 - "RB Salzburg"
 - "Leeds United"
+- "Premier League"
+- "Bundesliga"
 image: "https://i.imgur.com/XNHQ5Ji.png"
 ---
 

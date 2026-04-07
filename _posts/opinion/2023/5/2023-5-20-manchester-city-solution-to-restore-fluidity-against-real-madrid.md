@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-20 07:00:00 UTC
 title: "Manchester City's solution to restore fluidity against Real Madrid"
-categories: 
-- "Champions League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Manchester City"
 - "Real Madrid"
+- "Champions League"
 image: "https://i.imgur.com/BBTLFVQ.jpg"
 ---
 

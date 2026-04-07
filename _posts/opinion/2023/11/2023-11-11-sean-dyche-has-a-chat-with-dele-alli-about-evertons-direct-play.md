@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-11 08:00 UTC
 title: "Sean Dyche has a chat with Dele Alli about Everton's direct play"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Everton"
+- "Premier League"
 image: "https://i.imgur.com/p5tws2e.jpg"
 ---
 

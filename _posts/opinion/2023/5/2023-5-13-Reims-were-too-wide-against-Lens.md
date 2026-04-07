@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-13 07:00:00 UTC
 title: "Reims were too wide against Lens"
-categories: 
-- "Ligue 1"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Reims"
 - "Lens"
+- "Ligue 1"
 image: "https://i.imgur.com/LUi6AYC.jpg"
 --- 
 

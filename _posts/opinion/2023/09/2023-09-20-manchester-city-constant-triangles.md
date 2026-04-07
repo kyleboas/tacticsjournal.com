@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-20 08:00 UTC
 title: "Manchester City's constant triangles"
 categories:
-- "Champions League"
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "FK Crvena Zvezda"
+- "Champions League"
+- "Premier League"
 image: "https://i.imgur.com/ovYGvqj.jpg"
 ---
 

@@ -1,11 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-23 08:00 UTC
 title: "The Netherlands are too right side dominant"
 tags:
 - "Netherlands"
 - "Scotland"
+categories:
+- "opinion"
 image: "https://i.imgur.com/B34mr1e.jpeg"
 ---
 

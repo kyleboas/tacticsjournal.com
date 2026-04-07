@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-05 11:00 UTC
 title: "Disguised passes"
+categories:
+- "opinion"
 image: "https://i.imgur.com/RkG6rja.jpeg"
 ---
 

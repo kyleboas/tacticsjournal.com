@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-10 11:00 UTC
 title: "Spain's simple passes forward are refreshing"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Spain"
 - "France"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:57:40.png"
 ---
 

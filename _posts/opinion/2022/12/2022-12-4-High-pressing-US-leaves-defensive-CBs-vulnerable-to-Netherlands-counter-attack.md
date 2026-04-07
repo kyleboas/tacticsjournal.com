@@ -2,12 +2,12 @@
 title: High pressing US leaves defensive CBs vulnerable to Netherlands’ counter-attack
 date: 2022-12-04 00:00:00 Z
 categories:
-- World Cup 2022
+- "opinion"
 tags:
-- USA
-- Netherlands
+- "USA"
+- "Netherlands"
+- "World Cup 2022"
 layout: post
-category: opinion
 image: https://i.imgur.com/WvQtivx.jpg
 ---
 

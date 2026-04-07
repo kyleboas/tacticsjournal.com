@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-6-11 07:00:00 UTC
 title: "Manchester City pass their final test"
-categories: 
-- "Champions League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Manchester City"
-- "Inter" 
+- "Inter"
+- "Champions League"
 image: "https://i.imgur.com/yR6z1hZ.jpg"
 ---
 

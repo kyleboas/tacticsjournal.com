@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-26 08:00 UTC
 title: "Chelsea begin to fix timing issues"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "Luton Town"
+- "Premier League"
 image: "https://i.imgur.com/pORBKBz.jpg"
 ---
 

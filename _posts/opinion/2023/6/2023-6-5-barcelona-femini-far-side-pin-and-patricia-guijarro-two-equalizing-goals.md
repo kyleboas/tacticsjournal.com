@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-6-5 07:00:00 UTC
 title: "Barcelona Feminí's far-side pin and Patricia Guijarro's two equalizing goals" 
-categories: 
-- "Women's Champions League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Barcelona (W)"
 - "Wolfsburg (W)"
+- "Women's Champions League"
 image: "https://i.imgur.com/UsMmpzT.jpg"
 ---
 

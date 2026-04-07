@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-21 07:00 UTC
 title: "Chelsea's Youth Against Wrexham"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "Wrexham"
+- "Premier League"
 image: "https://i.imgur.com/FOcMykR.jpg"
 ---
 

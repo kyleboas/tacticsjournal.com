@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-07 11:00 UTC
 title: "The buildup is the most important phase to me"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/07/Image-07Aug2024_01:45:51.png"
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-29 11:00 UTC
 title: "Perfection is impossible"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/10/Image-10Jun2024_23%3A38%3A46.png"
 ---
 

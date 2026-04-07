@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-05 11:00 UTC
 title: "Thiago Motta to Juventus"
 categories:
-- "Serie A"
+- "opinion"
 tags:
 - "Juventus"
+- "Serie A"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/05/Image-05Jun2024_01:49:52.png?raw=true"
 ---
 

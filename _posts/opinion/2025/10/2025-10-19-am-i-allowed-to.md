@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2025-10-19 11:00 UTC
 title: "Am I allowed to?"
 categories:
-- "Premier League"
-- "Championship"
+- "opinion"
 tags:
 - "Chelsea"
 - "Southampton"
+- "Premier League"
+- "Championship"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/18/Image-18Oct2025_15:37:18.png"
 ---
 

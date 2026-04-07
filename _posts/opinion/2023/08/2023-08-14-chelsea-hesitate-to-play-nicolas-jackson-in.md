@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-14 08:00 UTC
 title: "Chelsea hesitate to play Nicolas Jackson in"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "Liverpool"
+- "Premier League"
 image: "https://i.imgur.com/VhWMWbd.jpg"
 ---
 

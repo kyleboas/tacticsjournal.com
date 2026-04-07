@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-10-31 11:00 UTC
 title: "Get feedback from the right people"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/30/Image-30Oct2025_18:58:38.png"
 ---
 

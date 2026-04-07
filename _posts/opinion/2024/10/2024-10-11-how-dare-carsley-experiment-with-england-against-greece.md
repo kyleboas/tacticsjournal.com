@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-10-11 11:00 UTC
 title: "How dare Carsley experiment with England against Greece"
 categories:
-- "International"
+- "opinion"
 tags:
 - "England"
 - "Greece"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/11/Image-11Oct2024_01:11:23.png"
 ---
 

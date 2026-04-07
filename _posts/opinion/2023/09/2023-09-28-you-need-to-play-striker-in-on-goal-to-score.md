@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-28 08:00 UTC
 title: "You need to play a striker in on goal to score"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "Brighton"
+- "Premier League"
 image: "https://i.imgur.com/JJOWf0t.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-08 11:00 UTC
 title: "England are free of Southgate and their positions"
 categories:
-- "International"
+- "opinion"
 tags:
 - "England"
 - "Ireland"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/08/Image-08Sep2024_01:49:34.png"
 ---
 

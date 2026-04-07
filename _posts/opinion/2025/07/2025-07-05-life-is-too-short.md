@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-07-05 11:00 UTC
 title: "Life is too short"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/07/04/Image-04Jul2025_18:29:49.png"
 ---
 

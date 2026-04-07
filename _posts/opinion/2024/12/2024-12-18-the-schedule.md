@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-18 12:00 UTC
 title: "The schedule"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/16/Image-16Dec2024_14:19:09.png"
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-08 08:00 UTC
 title: "Football should be the focus, not VAR" 
 categories:
+- "opinion"
+tags:
 - "Premier League"
 image: "https://i.imgur.com/HUr3k38.jpg"
 ---

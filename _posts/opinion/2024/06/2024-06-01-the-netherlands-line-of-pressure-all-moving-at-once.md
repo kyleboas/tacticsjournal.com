@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-01 11:00 UTC
 title: "The Netherlands line of pressure all moving at once"
 categories:
-- "World Cup 1994"
+- "opinion"
 tags:
 - "Netherlands"
 - "Brazil"
+- "World Cup 1994"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_00:21:38.png?raw=true"
 ---
 

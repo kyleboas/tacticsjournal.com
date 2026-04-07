@@ -1,10 +1,11 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-20 08:00 UTC
 title: "England's simple solution"
 tags:
 - "England"
+categories:
+- "opinion"
 image: "https://i.imgur.com/KtbpQLt.jpeg"
 ---
 

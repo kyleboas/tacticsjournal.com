@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-14 11:00 UTC
 title: "Cesc Fabregas: 'Every player needs to be told what to do'" 
 categories:
-- "Serie A"
+- "opinion"
 tags:
 - "Como"
+- "Serie A"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/14/Image-14Sep2024_01:30:05.png"
 ---
 

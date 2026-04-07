@@ -1,10 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-13 08:00 UTC
 title: "One of the closest Premier League races in recent history"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Liverpool"
@@ -16,6 +15,7 @@ tags:
 - "Brighton"
 - "West Ham"
 - "Chelsea"
+- "Premier League"
 image: "https://i.imgur.com/eI3MkNw.jpg"
 ---
 

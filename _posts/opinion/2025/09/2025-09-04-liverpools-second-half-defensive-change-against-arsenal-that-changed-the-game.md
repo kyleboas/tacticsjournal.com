@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-04 11:00 UTC
 title: "Liverpool's second-half defensive change against Arsenal that changed the game"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
 - "Arsenal"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/03/Image-03Sep2025_21:19:28.png"
 ---
 

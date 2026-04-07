@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-11-25 12:00 UTC
 title: "Football at a walking pace"
 categories: "Premier League"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_17:30:34.png"
 ---
 

@@ -1,16 +1,16 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-19 08:00 UTC
 title: "Chelsea need to target the center of the box"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Chelsea"
 - "Crystal Palace"
 - "Brighton"
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/NnTLUv6.jpg"
 ---
 

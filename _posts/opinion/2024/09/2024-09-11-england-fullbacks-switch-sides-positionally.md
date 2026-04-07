@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-11 11:00 UTC
 title: "England's fullbacks switch sides positionally" 
 categories:
-- "International"
+- "opinion"
 tags:
 - "England"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/10/Image-10Sep2024_23:10:41.png"
 ---
 
