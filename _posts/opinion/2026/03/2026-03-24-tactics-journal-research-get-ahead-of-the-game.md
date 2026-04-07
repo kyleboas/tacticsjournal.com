@@ -11,13 +11,15 @@ I dropped everything to research agentic AI for three months because I saw the i
 
 <div class="r-waitlist-form">
   <form
-    action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
+    data-subscribe-form
+    action="https://tacticsjournal-subscribe.heyboas.workers.dev"
     method="post"
     target="_blank"
     rel="noopener"
   >
     <input type="hidden" name="tag" value="waitlist" />
     <input type="hidden" name="embed" value="1" />
+    <input type="text" name="website" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0;" />
     <input
       type="email"
       name="email"
@@ -51,13 +53,15 @@ I'm still testing and fine tuning things. <a href="https://tacticsjournal.com/re
 
 <div class="r-waitlist-form">
   <form
-    action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal"
+    data-subscribe-form
+    action="https://tacticsjournal-subscribe.heyboas.workers.dev"
     method="post"
     target="_blank"
     rel="noopener"
   >
     <input type="hidden" name="tag" value="waitlist" />
     <input type="hidden" name="embed" value="1" />
+    <input type="text" name="website" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0;" />
     <input
       type="email"
       name="email"

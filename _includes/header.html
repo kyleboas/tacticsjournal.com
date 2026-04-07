@@ -33,8 +33,9 @@
       </button>
     </form>
 
-    <form id="site-inline-subscribe" class="site-inline-field site-inline-field-subscribe" action="https://buttondown.com/api/emails/embed-subscribe/TacticsJournal" method="post">
+    <form id="site-inline-subscribe" class="site-inline-field site-inline-field-subscribe" data-subscribe-form action="https://tacticsjournal-subscribe.heyboas.workers.dev" method="post">
       <input type="hidden" name="tag" value="opinion" />
+      <input type="text" name="website" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0;" />
       <input type="email" name="email" placeholder="Enter your email..." aria-label="Email address" autocomplete="email" required />
       <button type="submit" class="site-inline-subscribe-btn" aria-label="Subscribe">Subscribe</button>
     </form>
