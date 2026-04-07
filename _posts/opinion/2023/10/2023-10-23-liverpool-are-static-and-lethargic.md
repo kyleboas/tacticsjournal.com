@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-23 08:00 UTC
 title: "Liverpool are static and lethargic"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
 - "Everton"
+- "Premier League"
 image: "https://i.imgur.com/ejx81FO.jpg"
 ---
 

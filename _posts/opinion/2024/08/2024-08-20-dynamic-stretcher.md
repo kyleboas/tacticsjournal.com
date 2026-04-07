@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-20 11:00 UTC
 title: "Dynamic Stretcher"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/16/Image-16Aug2024_23:29:09.png"
 tweet: "The football terms we use on social media are a product of the character count we are forced to fit our ideas in. No one has time. If you can't get your point across, that reader will tab out. @MarcoLai_23"
 ---

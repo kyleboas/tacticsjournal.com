@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-26 11:00 UTC
 title: "Manchester City's rotations"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Brighton"
 - "Relationism"
+- "Premier League"
 image: "https://i.imgur.com/9lDnD3l.jpeg"
 ---
 

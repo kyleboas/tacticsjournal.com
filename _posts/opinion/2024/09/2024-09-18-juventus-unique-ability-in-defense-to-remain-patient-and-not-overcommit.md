@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-18 11:00 UTC
 title: "Juventus' unique ability in defense to remain patient and not overcommit"
 categories:
-- "Serie A"
-- "Champions League"
+- "opinion"
 tags:
 - "PSV"
 - "Juventus"
+- "Serie A"
+- "Champions League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/18/Image-18Sep2024_01:02:51.png"
 ---
 

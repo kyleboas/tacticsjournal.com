@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-14 11:00 UTC
 title: "Switch to the left wing against Leicester City"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Leicester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/13/Image-13Aug2024_23:59:41.png"
 ---
 

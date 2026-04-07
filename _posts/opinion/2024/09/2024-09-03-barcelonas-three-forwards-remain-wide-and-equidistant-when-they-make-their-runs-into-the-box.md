@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-03 11:00 UTC
 title: "Barcelona's three forwards remain wide and equidistant when they make their runs into the box"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Barcelona"
 - "Real Valladolid"
+- "La Liga"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_23:42:40.png"
 ---
 

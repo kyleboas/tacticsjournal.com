@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-09 08:00 UTC
 title: "Arsenal and Manchester City's out-of-possession battle"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/v9mz9hf.jpg"
 ---
 

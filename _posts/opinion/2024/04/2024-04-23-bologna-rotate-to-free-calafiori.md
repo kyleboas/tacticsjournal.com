@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-23 11:00 UTC
 title: "Bologna rotate to free Calafiori"
 categories:
-- "Serie A"
+- "opinion"
 tags:
 - "Bologna"
 - "Roma"
+- "Serie A"
 image: "https://i.imgur.com/0w6oUzx.jpeg"
 ---
 

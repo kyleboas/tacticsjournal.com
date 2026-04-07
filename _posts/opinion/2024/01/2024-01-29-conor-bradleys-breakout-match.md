@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-29 08:00 UTC
 title: "Conor Bradley's breakout match"
 categories:
-- "Premier League"
-- "FA Cup"
+- "opinion"
 tags:
 - "Liverpool"
 - "Norwich"
+- "Premier League"
+- "FA Cup"
 image: "https://i.imgur.com/oUts6qL.jpeg"
 ---
 

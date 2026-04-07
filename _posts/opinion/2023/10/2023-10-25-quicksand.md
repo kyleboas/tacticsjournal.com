@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-25 08:00 UTC
 title: "Quicksand"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brighton"
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/tfAgydU.jpg"
 ---
 

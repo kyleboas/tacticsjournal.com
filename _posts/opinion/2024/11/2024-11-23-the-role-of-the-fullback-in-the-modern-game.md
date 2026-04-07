@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-11-23 12:00 UTC
 title: "The role of the fullback in the modern game"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/18/Image-18Nov2024_12:41:31.png"
 ---
 

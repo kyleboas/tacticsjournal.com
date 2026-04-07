@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-10 08:00 UTC
 title: "Good food needs time to cook"
+categories:
+- "opinion"
 image: "https://i.imgur.com/J6mLCEy.jpg"
 ---
 

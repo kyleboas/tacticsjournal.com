@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-29 08:00 UTC
 title: "Two Things I Like From Brighton Defensively"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brighton"
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/gtbuWRu.jpeg"
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-27 11:00 UTC
 title: "Black sheep"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/20/Image-20Sep2024_02:28:15.png"
 ---
 

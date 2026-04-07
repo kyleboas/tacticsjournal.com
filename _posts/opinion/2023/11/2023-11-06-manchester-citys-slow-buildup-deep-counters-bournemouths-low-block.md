@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-06 08:00 UTC
 title: "Manchester City's slow buildup deep counters Bournemouth's low block"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Bournemouth"
+- "Premier League"
 image: "https://i.imgur.com/lk5dZaG.jpg"
 ---
 

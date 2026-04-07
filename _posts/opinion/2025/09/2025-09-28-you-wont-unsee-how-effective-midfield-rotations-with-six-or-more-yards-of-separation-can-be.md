@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-28 11:00 UTC
 title: "You won't unsee how effective midfield rotations with six or more yards of separation can be"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/27/Image-27Sep2025_18:40:43.png"
 ---
 

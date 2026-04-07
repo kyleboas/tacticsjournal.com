@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-29 12:00 UTC
 title: "Stretching the defense with a ball over the top"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/28/Image-28Dec2024_16:01:39.png"
 ---
 

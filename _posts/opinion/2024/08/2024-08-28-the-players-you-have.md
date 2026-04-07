@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-28 11:00 UTC
 title: "The players you have"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/28/Image-28Aug2024_01:53:29.png"
 ---
 

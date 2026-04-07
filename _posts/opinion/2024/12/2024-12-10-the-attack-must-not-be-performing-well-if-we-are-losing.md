@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-10 12:00 UTC
 title: "The attack must not be performing well if we are losing"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Wolves"
+- "Premier League"
 ---
 
 When a team is losing, that brings up a lot of negative emotions. The crowd is quiet. The players look dejected. The manager is seething. The team is conceding goals, but why do we automatically assume they are not performing well offensively?

@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-27 11:00 UTC
 title: "Arne Slot shows signs of balancing Liverpool's buildup"
 categories:
-- "Premier League"
-- "Preseason"
+- "opinion"
 tags:
 - "Liverpool"
 - "Arne Slot"
+- "Premier League"
+- "Preseason"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/27/Image-27Jul2024_00:56:53.png"
 ---
 

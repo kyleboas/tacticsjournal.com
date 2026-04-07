@@ -2,11 +2,11 @@
 title: Arsenal's wide 4-4-2 out of possession leads to open space between the lines
 date: 2023-02-20 12:30:00 Z
 categories:
-- Premier League
+- "opinion"
 tags:
-- Arsenal
+- "Arsenal"
+- "Premier League"
 layout: post
-category: opinion
 image: https://i.imgur.com/ryXiOBB.jpg
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-04 08:00 UTC
 title: "Burnley's basic shape in and out of possession"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Burnley"
+- "Premier League"
 image: "https://i.imgur.com/iuegdYf.jpg"
 ---
 

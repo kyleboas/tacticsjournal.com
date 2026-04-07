@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-27 08:00 UTC
 title: "Arsenal's answer is Fabio Vieira" 
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/k5O3OA6.jpg"
 ---
 

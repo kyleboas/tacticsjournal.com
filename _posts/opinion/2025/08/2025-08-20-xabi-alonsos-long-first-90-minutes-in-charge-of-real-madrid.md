@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-20 11:00 UTC
 title: "Xabi Alonso's long first 90 minutes in charge of Real Madrid"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Real Madrid"
+- "La Liga"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/19/Image-19Aug2025_19:13:11.png"
 ---
 

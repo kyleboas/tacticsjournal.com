@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-30 08:00 UTC
 title: "Rhythm, size of squads, and the schedule"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Arsenal"
 - "Newcastle"
 - "Manchester United"
+- "Premier League"
 image: "https://i.imgur.com/BfvmDWi.jpg"
 ---
 

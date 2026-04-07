@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-01 12:00 UTC
 title: "Would you allow Ait Nouri to roam?"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Wolves"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/30/Image-30Nov2024_17:07:39.png"
 ---
 

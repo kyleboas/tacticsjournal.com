@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-4-30 00:01:00 UTC
 title: "West Ham are similar to Emperor Penguins"
-categories: 
-- "Premier League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "West Ham"
 - "Crystal Palace"
+- "Premier League"
 image: "https://i.imgur.com/qYnBkQs.jpg"
 ---
 

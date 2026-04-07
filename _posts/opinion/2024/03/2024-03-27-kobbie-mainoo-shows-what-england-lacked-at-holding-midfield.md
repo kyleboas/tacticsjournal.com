@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-27 08:00 UTC
 title: "Kobbie Mainoo shows what England lacked at holding midfield"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "England"
 - "Manchester United"
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/hsPCgEC.jpeg"
 ---
 

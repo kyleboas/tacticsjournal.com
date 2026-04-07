@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-10-06 11:00 UTC
 title: "Brentford's World Record Kick Off Routine"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brentford"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/06/Image-06Oct2024_02:56:54.png"
 ---
 

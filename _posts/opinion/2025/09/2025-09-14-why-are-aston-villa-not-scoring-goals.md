@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-14 11:00 UTC
 title: "Why are Aston Villa not scoring goals?"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Aston Villa"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/13/Image-13Sep2025_20:28:30.png"
 ---
 

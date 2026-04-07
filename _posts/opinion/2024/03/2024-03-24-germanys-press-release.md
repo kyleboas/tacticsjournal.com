@@ -1,11 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-24 08:00 UTC
 title: "Germany's press release"
 tags:
 - "Germany"
 - "France"
+categories:
+- "opinion"
 image: "https://i.imgur.com/sosBU42.jpg"
 ---
 

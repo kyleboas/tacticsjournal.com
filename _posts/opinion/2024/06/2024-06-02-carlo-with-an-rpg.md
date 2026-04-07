@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-02 11:00 UTC
 title: "Carlo with an RPG"
 categories:
-- "La Liga"
-- "Bundesliga"
-- "Champions League"
+- "opinion"
 tags:
 - "Real Madrid"
 - "Dortmund"
+- "La Liga"
+- "Bundesliga"
+- "Champions League"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/02/Image-02Jun2024_00:49:33.png?raw=true"
 ---
 

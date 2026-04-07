@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-21 11:00 UTC
 title: "The pros and cons of the large spacing between Brentford's rest-defense and attack"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brentford"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/20/Image-20Aug2024_16:33:21.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-26 11:00 UTC
 title: "Szoboszlai is Liverpool's most important player"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/25/Image-25Aug2025_20:27:57.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-17 08:00 UTC
 title: "Iraola on adapting training to his team"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Bournemouth"
+- "Premier League"
 image: "https://i.imgur.com/A4VmR9d.jpeg"
 ---
 

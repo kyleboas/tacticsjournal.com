@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-01 08:00 UTC
 title: "The Julian Alvarez Domino Effect"
 categories:
-- "Champions League"
+- "opinion"
 tags:
 - "Manchester City"
 - "RB Leipzig"
+- "Champions League"
 image: "https://i.imgur.com/xak6pLt.jpg"
 ---
 

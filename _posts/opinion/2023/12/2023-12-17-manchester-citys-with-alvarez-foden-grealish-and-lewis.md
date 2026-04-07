@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-17 08:00 UTC
 title: "Manchester City's +1 with Alvarez, Foden, Grealish, and Lewis"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Crystal Palace"
+- "Premier League"
 image: "https://i.imgur.com/R48pZUl.jpg"
 ---
 

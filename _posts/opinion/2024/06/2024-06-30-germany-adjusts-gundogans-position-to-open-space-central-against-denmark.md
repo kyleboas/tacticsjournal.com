@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-30 11:00 UTC
 title: "Germany adjusts Gundogan's position to open space central against Denmark"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Germany"
 - "Denmark"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/30/Image-30Jun2024_01:10:41.png"
 ---
 

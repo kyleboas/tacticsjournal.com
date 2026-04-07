@@ -1,10 +1,11 @@
 ---
 layout: post
-category: opinion
 date: 2023-7-12 07:00:00 UTC
 title: "The Importance of Attacking the Centre-Backs"
 tags:
 - "Manchester City"
+categories:
+- "opinion"
 image: "https://i.imgur.com/kwH0n60.jpg"
 ---
 

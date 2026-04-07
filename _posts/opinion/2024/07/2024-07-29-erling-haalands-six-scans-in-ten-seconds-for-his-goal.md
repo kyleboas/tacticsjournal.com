@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-29 11:00 UTC
 title: "Erling Haaland's six scans in ten seconds for his goal"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/29/Image-29Jul2024_00:40:40.png"
 ---
 

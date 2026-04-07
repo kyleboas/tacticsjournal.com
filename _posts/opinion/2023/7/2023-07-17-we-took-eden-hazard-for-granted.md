@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-17 07:00 UTC
 title: "We took Eden Hazard for granted"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
+- "Premier League"
 image: "https://i.imgur.com/YoxCPdS.jpg"
 ---
 

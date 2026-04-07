@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-02-12 12:00 UTC
 title: "Pep Guardiola's real control"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/02/11/Image-11Feb2025_20:34:51.png"
 ---
 

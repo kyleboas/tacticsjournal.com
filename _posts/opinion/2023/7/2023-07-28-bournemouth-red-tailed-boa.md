@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-28 08:00 UTC
 title: "The Bournemouth Red-Tailed Boa"
 categories:
-- "Premier League"
-- "Championship"
+- "opinion"
 tags:
 - "Bournemouth"
 - "Southampton"
+- "Premier League"
+- "Championship"
 image: "https://i.imgur.com/89mD8L4.jpg"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-09 08:00 UTC
 title: "Musiala showing to the ball when Goretzka drops"
 categories:
-- "Bundesliga"
+- "opinion"
 tags:
 - "Bayern Munich"
+- "Bundesliga"
 image: "https://i.imgur.com/f63G7Im.jpeg"
 ---
 

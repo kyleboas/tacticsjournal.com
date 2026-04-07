@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-25 11:00 UTC
 title: "Unai Emery buys books for his players to help them balance their emotions"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Aston Villa"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/24/Image-24Sep2024_23:35:00.png"
 tweet: "Aston Villa manager Unai Emery learned that reading books helped him when he became a coach, 'I do it to balance myself, to get that balance in difficult moments.' He buys books for his players to read to help them balance themselves..."
 ---

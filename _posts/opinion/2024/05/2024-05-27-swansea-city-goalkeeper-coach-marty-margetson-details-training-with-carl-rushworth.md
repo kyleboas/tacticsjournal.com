@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-27 12:00 UTC
 title: "Swansea City goalkeeper coach Marty Margetson details training with Carl Rushworth"
 categories:
-- "Championship"
+- "opinion"
 tags:
 - "Swansea City"
+- "Championship"
 image: "https://github.com/kyleboas/images/blob/main/2024/05/IMG_7907.png?raw=true"
 ---
 

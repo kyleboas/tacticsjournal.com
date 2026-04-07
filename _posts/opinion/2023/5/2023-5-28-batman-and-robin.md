@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-28 07:00:00 UTC
 title: "Batman and Robin"
-categories: 
-- "Serie A" 
-tags: 
-- "Inter" 
+categories:
+- "opinion"
+tags:
+- "Inter"
+- "Serie A"
 image: "https://i.imgur.com/YdOQueT.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-27 07:00:00 UTC
 title: "Jan Paul van Hecke and Levi Colwill star in Brighton's counter-press"
-categories: 
+categories:
+- "opinion"
+tags:
+- "Brighton"
+- "Manchester City"
 - "Premier League"
-tags: 
-- "Brighton" 
-- "Manchester City" 
 image: "https://i.imgur.com/GNzbQYb.jpg"
 ---
 

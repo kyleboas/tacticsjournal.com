@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-17 11:00 UTC
 title: "Poland's asymmetric defensive shape exposed the half-spaces"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Netherlands"
 - "Poland"
+- "Euro 2024"
+- "International"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_11:51:51.png?raw=true"
 ---
 

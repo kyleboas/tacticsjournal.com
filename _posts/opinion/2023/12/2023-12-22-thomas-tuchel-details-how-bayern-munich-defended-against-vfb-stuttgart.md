@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-22 08:00 UTC
 title: "Thomas Tuchel Details How Bayern Munich Defended Against VfB Stuttgart"
 categories:
-- "Bundesliga"
+- "opinion"
 tags:
 - "Bayern Munich"
 - "VfB Stuttgart"
+- "Bundesliga"
 image: "https://i.imgur.com/MPszJjE.jpg"
 ---
 

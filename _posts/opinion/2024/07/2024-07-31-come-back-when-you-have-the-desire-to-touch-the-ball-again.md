@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-31 11:00 UTC
 title: "Come back when you have the desire to touch the ball again"
 categories:
+- "opinion"
+tags:
 - "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/31/Image-31Jul2024_02:59:58.png"
 ---

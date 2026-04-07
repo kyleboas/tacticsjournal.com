@@ -2,11 +2,11 @@
 title: Zakaria’s positional movement was key to Chelsea’s fluidity vs Bournemouth
 date: 2022-12-28 00:00:00 Z
 categories:
-- Premier League
+- "opinion"
 tags:
-- Chelsea
+- "Chelsea"
+- "Premier League"
 layout: post
-category: opinion
 image: https://i.imgur.com/qCZUWXr.jpg
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-05-29 12:00 UTC
 title: "Ronaldinho"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/05/29/Image-29May2025_07:49:57.png"
 ---
 

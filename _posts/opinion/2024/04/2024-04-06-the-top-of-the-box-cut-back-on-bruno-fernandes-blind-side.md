@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-06 08:00 UTC
 title: "The top of the box cut-back on Bruno Fernandes' blind-side"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Chelsea"
+- "Premier League"
 image: "https://i.imgur.com/9Ng0V0P.jpeg"
 ---
 

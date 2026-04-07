@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-10-01 11:00 UTC
 title: "Brighton bypass Nottingham Forest's compact zonal defense by moving two midfielders wide"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brighton"
 - "Nottingham Forest"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/30/Image-30Sep2024_02:02:07.png"
 tweet: "Brighton moved their two midfielders out wide, creating two separate triangles on the wings. Nottingham Forest likes maintaining a uniform shape in defense. They won't follow the midfielders wide. This creates unique transitional moments down the wing..."
 ---

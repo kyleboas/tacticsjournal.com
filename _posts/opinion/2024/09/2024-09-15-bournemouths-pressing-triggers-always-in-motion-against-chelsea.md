@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-15 11:00 UTC
 title: "Bournemouth's pressing triggers, always in motion, against Chelsea"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "Bournemouth"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/15/Image-15Sep2024_00:51:05.png"
 ---
 

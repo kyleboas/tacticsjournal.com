@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-25 07:00:00 UTC
 title: "Inter bulwark"
-categories: 
-- "Serie A"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Inter"
 - "Fiorentina"
+- "Serie A"
 image: "https://i.imgur.com/kB2OepC.jpg"
 ---
 

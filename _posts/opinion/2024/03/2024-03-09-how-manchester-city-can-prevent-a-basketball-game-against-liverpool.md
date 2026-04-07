@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-09 08:00 UTC
 title: "How Manchester City can prevent a basketball game against Liverpool"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/mNrv6ua.jpeg"
 ---
 

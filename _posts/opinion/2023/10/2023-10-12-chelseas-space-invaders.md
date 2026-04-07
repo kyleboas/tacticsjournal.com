@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-12 08:00 UTC
 title: "Chelsea's space invaders"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "Burnley"
+- "Premier League"
 image: "https://i.imgur.com/6xu2w7N.jpg"
 ---
 

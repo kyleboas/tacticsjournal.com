@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-25 08:00 UTC
 title: "Pep Guardiola demonstrates how to orient the body when receiving the ball"
+categories:
+- "opinion"
 image: "https://i.imgur.com/PZoaWJ8.jpg"
 ---
 

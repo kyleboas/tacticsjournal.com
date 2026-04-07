@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-08 11:00 UTC
 title: "PSG need more Vitinha's"
 categories:
-- "Champions League"
+- "opinion"
 tags:
 - "PSG"
 - "Dortmund"
+- "Champions League"
 image: "https://i.imgur.com/TnWP6SK.jpeg"
 ---
 

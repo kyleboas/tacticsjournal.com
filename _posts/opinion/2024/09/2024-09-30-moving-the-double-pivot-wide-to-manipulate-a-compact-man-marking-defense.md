@@ -1,16 +1,16 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-30 11:00 UTC
 title: "Moving the double pivot wide to manipulate a compact man-marking defense"
 categories:
-- "Bundesliga"
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Newcastle"
 - "Bayern Munich"
 - "Bayern Leverkusen"
+- "Bundesliga"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/29/Image-29Sep2024_19:00:07.png"
 ---
 

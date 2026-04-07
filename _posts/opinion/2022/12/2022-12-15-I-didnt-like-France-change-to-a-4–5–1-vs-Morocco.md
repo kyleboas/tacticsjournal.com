@@ -2,13 +2,13 @@
 title: I didn't like France’s change to a 4–5–1 vs Morocco
 date: 2022-12-15 00:00:00 Z
 categories:
-- World Cup 2022
-- International Teams
+- "opinion"
 tags:
-- France
-- Morocco
+- "France"
+- "Morocco"
+- "World Cup 2022"
+- "International Teams"
 layout: post
-category: opinion
 image: https://i.imgur.com/KMbFtvH.jpg
 ---
 

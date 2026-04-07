@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-31 08:00 UTC
 title: "Previewing Manchester City vs Arsenal"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/opSeuFO.jpeg"
 ---
 

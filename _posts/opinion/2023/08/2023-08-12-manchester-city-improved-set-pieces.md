@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-12 08:00 UTC
 title: "Manchester City's improved set-pieces"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/uDuPkEN.jpg"
 ---
 

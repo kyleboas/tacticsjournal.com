@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-22 11:00 UTC
 title: "Luis Enrique asks us to review Mbappe's press"
 categories:
-- "Ligue 1"
-- "Champions League"
+- "opinion"
 tags:
 - "PSG"
 - "Barcelona"
+- "Ligue 1"
+- "Champions League"
 image: "https://i.imgur.com/KH8dNBu.jpeg"
 tweet: "'You have to review Mbappé's press. [...] Review the press of the entire team, it has facilitated that three can press five and we could then be 4v3 in our backline.' - Luis Enrique after PSG's match against Barcelona"
 ---

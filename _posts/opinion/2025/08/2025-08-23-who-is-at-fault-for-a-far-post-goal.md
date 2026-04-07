@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-23 11:00 UTC
 title: "Who is at fault for a far post goal"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "West Ham"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/22/Image-22Aug2025_19:51:23.png"
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-02 11:00 UTC
 title: "PSG protecting the left for each long ball from Borussia Dortmund"
 categories:
-- "Champions League"
-- "Ligue 1"
-- "Bundesliga"
+- "opinion"
 tags:
 - "Borussia Dortmund"
 - "PSG"
+- "Champions League"
+- "Ligue 1"
+- "Bundesliga"
 image: "https://i.imgur.com/j5mItJT.jpeg"
 tweet: "Luis Enrique says PSG kept Nuno Mendes back in the rest-defense to protect 'the left side and allow a 2v1 against Bradley Barcola to be in position for each long ball' from Dortmund. A lot of responsibility was placed on Dembélé out-of-possession."
 ---

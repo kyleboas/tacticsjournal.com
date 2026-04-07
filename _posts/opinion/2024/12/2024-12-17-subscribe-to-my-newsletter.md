@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-17 12:00 UTC
 title: "Subscribe to my newsletter"
 categories:
+- "opinion"
+tags:
 - "Update"
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-29 11:00 UTC
 title: "Positional Laggards"
+categories:
+- "opinion"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_22:22:26.png?raw=true"
 ---
 

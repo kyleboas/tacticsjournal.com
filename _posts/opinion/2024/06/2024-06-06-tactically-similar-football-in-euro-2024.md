@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-06 11:00 UTC
 title: "Tactically similar football in Euro 2024"
 categories:
+- "opinion"
+tags:
 - "Euro 2024"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/05/Image-05Jun2024_03:12:08.png?raw=true"
 ---

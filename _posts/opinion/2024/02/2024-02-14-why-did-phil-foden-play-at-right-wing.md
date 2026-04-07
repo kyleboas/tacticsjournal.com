@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-14 08:00 UTC
 title: "Why did Phil Foden play at right-wing?"
 categories:
-- "Champions League"
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "FC Kopenhavn"
+- "Champions League"
+- "Premier League"
 image: "https://i.imgur.com/rsvtUMd.jpeg"
 ---
 

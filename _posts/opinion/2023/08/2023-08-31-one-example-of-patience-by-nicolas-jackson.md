@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-31 08:00 UTC
 title: "One example of patience by Nicolas Jackson"
 categories:
-- "Premier League"
-- "EFL Cup"
+- "opinion"
 tags:
 - "Chelsea"
+- "Premier League"
+- "EFL Cup"
 image: "https://i.imgur.com/ssHKyfQ.jpg"
 ---
 

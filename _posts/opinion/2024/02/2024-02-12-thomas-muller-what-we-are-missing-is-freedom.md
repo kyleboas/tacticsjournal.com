@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-12 08:00 UTC
 title: "Thomas Muller: What we are missing is freedom"
 categories:
-- "Bundesliga"
+- "opinion"
 tags:
 - "Bayern Munich"
 - "Leverkusen"
+- "Bundesliga"
 image: "https://i.imgur.com/tnSwsgp.png"
 ---
 

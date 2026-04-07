@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-03 08:00 UTC
 title: "Not Playing Like Champions"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Premier League"
 image: "https://i.imgur.com/A30fpQs.jpg"
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-07 18:00 UTC
 title: "[Sponsor] Fanatics"
 categories:
+- "opinion"
+tags:
 - "Sponsor"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/07/Image-07Aug2024_13:05:12.png"
 ---

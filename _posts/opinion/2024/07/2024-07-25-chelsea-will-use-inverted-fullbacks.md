@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-25 11:00 UTC
 title: "Chelsea will use inverted fullback(s)"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_12:33:03.png"
 ---
 

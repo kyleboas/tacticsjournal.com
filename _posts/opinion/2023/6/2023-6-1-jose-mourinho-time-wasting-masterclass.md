@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-6-1 07:00:00 UTC
 title: "A José Mourinho time-wasting masterclass"
-categories: 
-- "Europa League"
-- "Serie A"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Roma"
 - "Sevilla"
+- "Europa League"
+- "Serie A"
 image: "https://i.imgur.com/yKphFpA.jpg"
 ---
 

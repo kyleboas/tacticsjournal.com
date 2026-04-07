@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-17 08:00 UTC
 title: "Brighton's beautiful team goal"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brighton"
+- "Premier League"
 image: "https://i.imgur.com/AfTNZp4.jpg"
 ---
 

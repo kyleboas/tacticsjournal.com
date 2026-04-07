@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-24 08:00 UTC
 title: "Bassey gifts Tottenham two goals"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Fulham"
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/4laMrSK.jpg"
 ---
 

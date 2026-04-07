@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-09 11:00 UTC
 title: "Spain allows space wide to push fullbacks inside"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Spain"
 - "Germany"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/08/Image-08Jul2024_23:36:39.png"
 ---
 

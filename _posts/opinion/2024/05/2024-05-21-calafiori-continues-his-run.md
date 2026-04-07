@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-21 11:00 UTC
 title: "Calafiori continues his run"
 categories:
-- "Serie A"
+- "opinion"
 tags:
 - "Bologna"
 - "Juventus"
+- "Serie A"
 image: "https://i.imgur.com/X8q4HWd.jpeg"
 ---
 

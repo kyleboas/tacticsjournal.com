@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-19 07:00 UTC
 title: "Ange Postecoglou's first Tottenham match"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
 - "West Ham"
+- "Premier League"
 image: /uploads/2023/07/18/Image-FF9FC48C-0825-47AC-B6E5-6BA3AD98341A.jpeg
 ---
 

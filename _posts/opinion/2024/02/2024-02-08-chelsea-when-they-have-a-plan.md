@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-08 08:00 UTC
 title: "Chelsea when they have a plan"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Aston Villa"
 - "Chelsea"
+- "Premier League"
 image: "https://i.imgur.com/aBb2NCg.jpeg"
 ---
 

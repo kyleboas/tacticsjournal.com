@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-01 08:00 UTC
 title: "Positive orientation when receiving the ball"
+categories:
+- "opinion"
 image: "https://i.imgur.com/Qog4zud.png"
 ---
 

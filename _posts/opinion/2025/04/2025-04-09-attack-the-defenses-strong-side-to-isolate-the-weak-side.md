@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2025-04-09 12:00 UTC
 title: "Attack the defense's strong side to isolate the weak side"
 categories:
-- "Champions League"
+- "opinion"
 tags:
 - "Real Madrid"
 - "Arsenal"
+- "Champions League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/04/08/Image-08Apr2025_21:34:28.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-11-19 11:00 UTC
 title: "Sir Alex Ferguson's Golden Rules"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Premier League"
 ---
 
 When Manchester United manager Sir Alex Ferguson appointed René Meulensteen his assistant manager, he told him, “Basically, I've written down here that when I close my eyes, this is the best Man United that I see.” Here is what he told him.

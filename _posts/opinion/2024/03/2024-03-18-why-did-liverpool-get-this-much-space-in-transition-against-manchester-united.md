@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-18 08:00 UTC
 title: "Why did Liverpool get this much space in transition against Manchester United"
 categories:
-- "Premier League"
-- "FA Cup"
+- "opinion"
 tags:
 - "Manchester United"
 - "Liverpool"
+- "Premier League"
+- "FA Cup"
 image: "https://i.imgur.com/DJ5x8tD.jpg"
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-15 18:00 UTC
 title: "Reminder to join my tactics community"
 categories:
+- "opinion"
+tags:
 - "Update"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/15/Image-15Jul2024_17:41:09.png"
 ---

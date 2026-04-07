@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-26 11:00 UTC
 title: "Which Liverpool players benefit in transition or when the opposition defends deep?"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_23:53:38.png"
 ---
 

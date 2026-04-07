@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-07-25 08:00 UTC
 title: "Is Kepa Arrizabalaga a modern goalkeeper?"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "Brighton"
+- "Premier League"
 image: "https://i.imgur.com/2YJ5ANP.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-4-21 08:30:00 -0500
 title: "Aaron Ramsdale channels his inner David De Gea"
-categories: 
-- "Premier League"
+categories:
+- "opinion"
 tags:
 - "Arsenal"
 - "Southampton"
+- "Premier League"
 image: "https://i.imgur.com/S99zcwM.jpg"
 --- 
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-11-24 11:00 UTC
 title: "Diagonality"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/22/Image-22Nov2025_21:45:57.png"
 ---
 

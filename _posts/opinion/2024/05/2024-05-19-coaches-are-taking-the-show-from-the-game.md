@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-19 11:00 UTC
 title: "Coaches are taking the show from the game"
+categories:
+- "opinion"
 image: "https://i.imgur.com/RS3kzND.jpeg"
 ---
 

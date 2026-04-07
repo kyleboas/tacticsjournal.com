@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-04 08:00 UTC
 title: "Manchester City finally score from the left half-space run"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Manchester United"
+- "Premier League"
 image: "https://i.imgur.com/Nxckonr.jpeg"
 ---
 

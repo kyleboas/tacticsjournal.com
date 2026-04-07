@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-15 11:00 UTC
 title: "Tottenham herd Manchester City quickly forward"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/81b3Yy5.jpeg"
 ---
 

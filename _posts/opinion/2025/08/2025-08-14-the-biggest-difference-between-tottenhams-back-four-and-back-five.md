@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-14 11:00 UTC
 title: "The biggest difference between Tottenham's back four and back five"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/13/Image-13Aug2025_20:33:01.png"
 ---
 

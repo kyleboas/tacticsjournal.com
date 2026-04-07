@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-17 11:00 UTC
 title: "Maybe I'll retire at 30"
 categories:
+- "opinion"
+tags:
 - "Premier League"
 - "Champions League"
 - "Europa League"

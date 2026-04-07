@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-03 08:00 UTC
 title: "Tottenham lack off-the-ball movement"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
 - "West Ham"
+- "Premier League"
 image: "https://i.imgur.com/y0TzF2W.jpg"
 ---
 Before Dejan Kulusevski came on in the 70th minute, no one was making simple dummy runs like this. Tottenham were static, ball watching. They need more movement in the final third against a low block, to help create the pockets to play through.

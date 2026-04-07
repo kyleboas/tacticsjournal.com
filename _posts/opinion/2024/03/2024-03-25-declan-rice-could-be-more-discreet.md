@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-25 08:00 UTC
 title: "Declan Rice could be more discreet"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "England"
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/RoL8LeO.jpg"
 ---
 

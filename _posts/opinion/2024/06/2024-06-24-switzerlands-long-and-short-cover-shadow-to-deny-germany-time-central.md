@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-24 11:00 UTC
 title: "Switzerland's long and short cover-shadow to deny Germany time central"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Switzerland"
 - "Germany"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/24/Image-24Jun2024_00:16:02.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-26 08:00 UTC
 title: "Erling Haaland's explosive turn-and-shoot technique"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/yBh1VFj.jpg"
 ---
 

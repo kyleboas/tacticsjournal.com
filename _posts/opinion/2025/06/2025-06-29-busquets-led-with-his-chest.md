@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-06-29 11:00 UTC
 title: "Busquets led with his chest"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/29/Image-29Jun2025_06:53:45.png"
 ---
 

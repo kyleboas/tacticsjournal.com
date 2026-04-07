@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-18 08:00 UTC
 title: "Experts don't always make good teachers"
+categories:
+- "opinion"
 image: "https://i.imgur.com/pIJwvoE.jpg"
 ---
 

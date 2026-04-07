@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-07 08:00 UTC
 title: "Champions League football at St. James' Park"
 categories:
-- "Champions League"
+- "opinion"
 tags:
 - "Newcastle"
 - "PSG"
+- "Champions League"
 image: "https://i.imgur.com/swvIbjC.jpg"
 ---
 

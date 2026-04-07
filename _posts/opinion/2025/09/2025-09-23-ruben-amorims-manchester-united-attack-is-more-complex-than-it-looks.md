@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-23 11:00 UTC
 title: "Ruben Amorim's Manchester United attack is more complex than it looks"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/22/Image-22Sep2025_09:34:45.png"
 ---
 

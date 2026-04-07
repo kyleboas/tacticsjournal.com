@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-09 11:00 UTC
 title: "Gundogan provides the floor on which Musiala and Wirtz can dance"
 categories:
-- "Euro 2024"
+- "opinion"
 tags:
 - "Germany"
+- "Euro 2024"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/09/Image-09Jun2024_01:07:42.png?raw=true"
 ---
 

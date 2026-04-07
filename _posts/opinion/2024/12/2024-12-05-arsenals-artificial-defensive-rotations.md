@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-05 12:00 UTC
 title: "Arsenal's artificial defensive rotations"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Manchester United"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/05/Image-05Dec2024_08:02:41.png"
 ---
 

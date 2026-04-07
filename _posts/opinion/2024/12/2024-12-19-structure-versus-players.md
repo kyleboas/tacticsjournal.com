@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-19 12:00 UTC
 title: "Structure versus the players"
 categories:
+- "opinion"
+tags:
 - "Relationism"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/16/Image-16Dec2024_14:21:59.png"
 ---

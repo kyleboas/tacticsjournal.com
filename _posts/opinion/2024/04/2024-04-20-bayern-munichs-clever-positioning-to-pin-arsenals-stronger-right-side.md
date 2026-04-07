@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-20 11:00 UTC
 title: "Bayern Munich's clever positioning to pin Arsenal's stronger right side"
 categories:
-- "Champions League"
-- "Bundesliga"
-- "Premier League"
+- "opinion"
 tags:
 - "Bayern Munich"
 - "Arsenal"
+- "Champions League"
+- "Bundesliga"
+- "Premier League"
 image: "https://i.imgur.com/eDtRDHT.jpeg"
 ---
 

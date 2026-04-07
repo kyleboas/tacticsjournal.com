@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-22 08:00 UTC
 title: "We don't train"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Newcastle United"
+- "Premier League"
 image: "https://i.imgur.com/CePSOrP.jpg"
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-31 08:00 UTC
 title: "Jude Bellingham, the world's best interpreter of space"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Real Madrid"
 - "Barcelona"
+- "La Liga"
 image: "https://i.imgur.com/TYzxlz9.jpg"
 ---
 

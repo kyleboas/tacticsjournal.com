@@ -1,10 +1,11 @@
 ---
 layout: post
-category: opinion
 date: 2023-6-7 07:00:00 UTC
 title: "New Watchlist" 
-categories: 
-- "Update" 
+categories:
+- "opinion"
+tags:
+- "Update"
 image: "https://i.imgur.com/fNITcFf.jpg"
 ---
 

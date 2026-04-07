@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-22 08:00 UTC
 title: "The threat Liverpool's second line poses in the middle"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Bournemouth"
 - "Liverpool"
+- "Premier League"
 image: "https://i.imgur.com/f5lfY5R.jpeg"
 ---
 

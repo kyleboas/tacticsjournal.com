@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-12 08:00 UTC
 title: "Berbatov Walks Us Through This Goal"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Premier League"
 image: "https://i.imgur.com/dQt6NjB.jpg"
 ---
 

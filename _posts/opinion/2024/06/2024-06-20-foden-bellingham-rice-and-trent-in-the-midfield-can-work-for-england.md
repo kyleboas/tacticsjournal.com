@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-20 11:00 UTC
 title: "Foden, Bellingham, Rice, and Trent in the midfield can work for England"
 categories:
-- "Euro 2024"
+- "opinion"
 tags:
 - "England"
 - "Serbia"
 - "Gareth Southgate"
+- "Euro 2024"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/20/Image-20Jun2024_00:12:34.png?raw=true"
 ---
 

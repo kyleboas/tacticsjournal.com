@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-07 11:00 UTC
 title: "England's questionable Euro 2024 squad selection"
 categories:
-- "Euro 2024"
+- "opinion"
 tags:
 - "England"
+- "Euro 2024"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/07/Image-07Jun2024_10:09:13.png?raw=true"
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-01 11:00 UTC
 title: "Spain shows why a pass forward is significant"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Spain"
 - "Georgia"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/01/Image-01Jul2024_01:42:19.png"
 ---
 

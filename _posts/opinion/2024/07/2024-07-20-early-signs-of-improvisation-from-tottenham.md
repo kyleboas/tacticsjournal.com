@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-20 11:00 UTC
 title: "Early signs of improvisation from Tottenham"
 categories:
-- "Premier League"
-- "Preseason"
+- "opinion"
 tags:
 - "Tottenham"
 - "Hearts"
+- "Premier League"
+- "Preseason"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_00:00:33.png"
 ---
 

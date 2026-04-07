@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-08 08:00 UTC
 title: "Long ball with runners versus Real Madrid when Carvajal gets forward"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Real Madrid"
+- "La Liga"
 image: "https://i.imgur.com/8zchHd0.jpeg"
 ---
 

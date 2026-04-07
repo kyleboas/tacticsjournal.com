@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-27 08:00 UTC
 title: "New generation of coaching"
 categories:
-- "Bundesliga"
+- "opinion"
 tags:
 - "Bayer Leverkusen"
+- "Bundesliga"
 image: "https://i.imgur.com/H1vVsMP.jpeg"
 ---
 

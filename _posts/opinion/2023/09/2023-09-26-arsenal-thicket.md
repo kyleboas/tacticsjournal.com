@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-26 08:00 UTC
 title: "Arsenal's thicket"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/BMqI76d.jpg"
 ---
 

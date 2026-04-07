@@ -1,13 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-7-6 07:00:00 UTC
 title: "The switch from a box to a diamond next season"
-tags: 
+tags:
 - "Manchester City"
 - "Barcelona"
 - "Arsenal"
 - "Liverpool"
+categories:
+- "opinion"
 image: "https://i.imgur.com/2N7p3Lz.jpg"
 ---
 

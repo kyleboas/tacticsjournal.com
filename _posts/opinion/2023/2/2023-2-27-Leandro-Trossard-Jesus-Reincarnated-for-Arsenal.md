@@ -2,12 +2,12 @@
 title: Leandro Trossard is Jesus reincarnated for Arsenal
 date: 2023-02-27 11:26:00 Z
 categories:
-- Premier League
+- "opinion"
 tags:
-- Arsenal
-- Aston Villa
+- "Arsenal"
+- "Aston Villa"
+- "Premier League"
 layout: post
-category: opinion
 image: /images/BDADE01E-AC19-4590-82B6-51335CD18978.jpeg
 ---
 

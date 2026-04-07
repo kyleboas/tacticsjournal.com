@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-12 08:00 UTC
 title: "Aston Villa's method to block Tottenham's third man"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Aston Villa"
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/aNoNU27.jpeg"
 ---
 

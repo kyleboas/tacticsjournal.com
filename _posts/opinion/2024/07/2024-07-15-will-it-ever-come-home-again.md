@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-15 11:00 UTC
 title: "Will it ever come home again"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "England"
 - "Spain"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/14/Image-14Jul2024_23:11:06.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-20 12:00 UTC
 title: "Thomas Frank: 'I want to beat them with all the best players'"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brentford"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/13/Image-13Dec2024_16:18:27.png"
 ---
 

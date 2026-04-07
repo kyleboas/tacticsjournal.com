@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-19 11:00 UTC
 title: "Manchester City don't trust Phil Foden to play as a holding midfielder"
 categories:
-- "Premier League"
-- "Champions League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Real Madrid"
+- "Premier League"
+- "Champions League"
 image: "https://i.imgur.com/zklx14T.jpeg"
 ---
 

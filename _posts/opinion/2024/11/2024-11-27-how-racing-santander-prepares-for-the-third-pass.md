@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-11-27 12:00 UTC
 title: "How Racing Santander prepares for the third pass"
 categories:
-- "La Liga 2"
+- "opinion"
 tags:
 - "Racing Santander"
 - "Relationism"
+- "La Liga 2"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/26/Image-26Nov2024_07:55:10.png"
 ---
 

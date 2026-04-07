@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-07 11:00 UTC
 title: "Manchester United's back four on rope"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Crystal Palace"
+- "Premier League"
 image: "https://i.imgur.com/g8xsFLF.jpeg"
 tweet: "Gary Neville detailed on @WeAreTheOverlap how Manchester United's class of '92 used to train and the 'back four would be on rope.' Draw that rope on the current United back four against Crystal Palace and you can better see their aggressive positioning."
 ---

@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-23 11:00 UTC
 title: "Arsenal had imposter syndrome"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Arsenal"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/22/Image-22Sep2024_15:41:48.png"
 ---
 

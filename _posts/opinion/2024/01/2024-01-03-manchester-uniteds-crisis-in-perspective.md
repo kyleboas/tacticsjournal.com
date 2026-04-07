@@ -1,16 +1,16 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-03 08:00 UTC
 title: "Manchester United's Crisis In Perspective"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
 - "Arsenal"
 - "Liverpool"
 - "Aston Villa"
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/dP8Oqfj.jpeg"
 ---
 

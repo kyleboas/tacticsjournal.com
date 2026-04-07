@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-11 07:00:00 UTC
 title: "AC Milan tries to take advantage of Inter's aggressiveness with verticality"
-categories: 
-- "Champions League"
-- "Serie A"
-tags: 
+categories:
+- "opinion"
+tags:
 - "AC Milan"
 - "Inter"
+- "Champions League"
+- "Serie A"
 image: "https://i.imgur.com/nw0PR4W.jpg"
 ---
 

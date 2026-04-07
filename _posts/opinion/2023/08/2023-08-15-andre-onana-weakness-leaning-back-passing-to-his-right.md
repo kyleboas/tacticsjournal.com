@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-15 08:00 UTC
 title: "Andre Onana's weakness leaning back passing to his right"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Wolves"
 - "Manchester United"
+- "Premier League"
 image: "https://i.imgur.com/9dRcNjA.jpg"
 ---
 

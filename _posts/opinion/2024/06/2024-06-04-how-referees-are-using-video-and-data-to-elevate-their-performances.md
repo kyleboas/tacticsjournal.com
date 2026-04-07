@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-04 11:00 UTC
 title: "How referees are using video and data to elevate their performances"
+categories:
+- "opinion"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/04/Image-04Jun2024_03:13:47.png?raw=true"
 ---
 

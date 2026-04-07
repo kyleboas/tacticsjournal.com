@@ -1,16 +1,16 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-04 11:00 UTC
 title: "Bayern Munich pass horizontally against Tottenham, constantly opening play"
 categories:
-- "Bundesliga"
-- "Preseason"
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
 - "Bayern Munich"
 - "Relationism"
+- "Bundesliga"
+- "Preseason"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_14:17:06.png"
 ---
 

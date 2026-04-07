@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-28 11:00 UTC
 title: "The left center-back is Juventus' most important position"
 categories:
-- "Serie A"
-- "Preseason"
+- "opinion"
 tags:
 - "Juventus"
 - "Thiago Motta"
+- "Serie A"
+- "Preseason"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/28/Image-28Jul2024_01:45:53.png"
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-08 08:00 UTC
 title: "How to Bypass Everton's Low-Block"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Everton"
 - "Newcastle"
@@ -12,6 +11,7 @@ tags:
 - "Manchester City"
 - "Tottenham"
 - "Chelsea"
+- "Premier League"
 image: "https://i.imgur.com/bjBia8n.jpg"
 ---
 

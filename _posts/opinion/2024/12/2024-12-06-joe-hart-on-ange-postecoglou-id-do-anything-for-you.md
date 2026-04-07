@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-06 12:00 UTC
 title: "Joe Hart on Ange Postecoglou: 'I'd do anything for you'"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
+- "Premier League"
 ---
 
 Joe Hart spoke about a conversation he had with then Celtic manager, Ange Postecoglou, before signing with the team. A conversation that showcases the class of man management that Tottenham has and why players will do anything for him.

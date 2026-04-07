@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-03 11:00 UTC
 title: "Andoni Iraola: You have to ask for the ball when you’re tired"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Bournemouth"
+- "Premier League"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/03/Image-03Jun2024_11:21:00.png?raw=true"
 ---
 

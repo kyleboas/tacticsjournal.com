@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-15 07:00:00 UTC
 title: "The Brentford Line-Out"
-categories: 
-- "Premier League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Brentford"
 - "West Ham"
+- "Premier League"
 image: "https://i.imgur.com/0pweafS.jpg"
 ---
 

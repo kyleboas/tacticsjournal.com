@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-23 11:00 UTC
 title: "Victor Valdés' first conversation with Pep Guardiola"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Barcelona"
+- "La Liga"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/13/Image-13Jul2024_01:23:47.png"
 --- 
 

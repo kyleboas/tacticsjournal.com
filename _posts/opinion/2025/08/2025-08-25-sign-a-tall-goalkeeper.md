@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-25 11:00 UTC
 title: "Sign a tall goalkeeper"
 categories:
+- "opinion"
+tags:
 - "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/24/Image-24Aug2025_19:30:06.png"
 ---

@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-09 08:00 UTC
 title: "Bayern Munich don't wait"
 categories:
-- "Champions League"
-- "Bundesliga"
+- "opinion"
 tags:
 - "Bayern Munich"
 - "Galatasaray"
+- "Champions League"
+- "Bundesliga"
 image: "https://i.imgur.com/WbzAeyM.jpg"
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-19 11:00 UTC
 title: "VfB Stuttgart's deluge of offside runs against Real Madrid"
 categories:
-- "Champions League"
-- "Bundesliga"
-- "La Liga"
+- "opinion"
 tags:
 - "Real Madrid"
 - "VfB Stuttgart"
+- "Champions League"
+- "Bundesliga"
+- "La Liga"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/19/Image-19Sep2024_00:50:38.png"
 ---
 

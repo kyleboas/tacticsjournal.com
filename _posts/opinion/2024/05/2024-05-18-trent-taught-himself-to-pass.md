@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-18 11:00 UTC
 title: "Trent taught himself to pass"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
+- "Premier League"
 image: "https://i.imgur.com/Dcr2oi0.jpeg"
 ---
 

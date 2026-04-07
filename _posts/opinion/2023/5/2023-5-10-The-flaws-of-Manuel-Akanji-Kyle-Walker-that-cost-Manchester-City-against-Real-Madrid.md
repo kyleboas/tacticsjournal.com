@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-10 07:00:00 UTC
 title: "The flaws of Manuel Akanji and Kyle Walker that cost Manchester City against Real Madrid"
-categories: 
+categories:
+- "opinion"
+tags:
+- "Manchester City"
+- "Real Madrid"
 - "Champions League"
 - "Premier League"
 - "La Liga"
-tags: 
-- "Manchester City"
-- "Real Madrid"
 image: "https://i.imgur.com/JpcCSFT.jpg"
 ---
 

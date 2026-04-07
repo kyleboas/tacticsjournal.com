@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-06 08:00 UTC
 title: "You cannot sit, if you don't have a chair"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
 - "West Ham"
+- "Premier League"
 image: "https://i.imgur.com/0LctTD4.jpeg"
 ---
 

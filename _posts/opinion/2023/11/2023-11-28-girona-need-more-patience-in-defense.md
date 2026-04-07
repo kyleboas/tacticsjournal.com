@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-28 08:00 UTC
 title: "Girona need more patience in defense"
 categories:
-- "La Liga"
+- "opinion"
 tags:
 - "Girona"
 - "Athletic Club"
+- "La Liga"
 image: "https://i.imgur.com/EDPfLkg.jpg"
 ---
 

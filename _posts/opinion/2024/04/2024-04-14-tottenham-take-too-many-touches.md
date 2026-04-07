@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-14 11:00 UTC
 title: "Tottenham take too many touches"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/hTgLm0y.jpeg"
 ---
 

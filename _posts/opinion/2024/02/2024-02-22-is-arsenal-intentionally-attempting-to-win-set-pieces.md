@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-22 08:00 UTC
 title: "Is Arsenal intentionally attempting to win set-pieces?"
 categories:
-- "Champions League"
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Porto"
+- "Champions League"
+- "Premier League"
 image: "https://i.imgur.com/M0rmed9.jpeg"
 ---
 

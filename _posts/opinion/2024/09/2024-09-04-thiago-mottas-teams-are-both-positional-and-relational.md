@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-04 11:00 UTC
 title: "Thiago Motta's teams are both positional and relational"
 categories:
-- "Serie A"
+- "opinion"
 tags:
 - "Bologna"
 - "Juventus"
+- "Serie A"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/04/Image-04Sep2024_11:16:28.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-27 10:30 UTC
 title: "Iraola praises Bournemouth analysts during demanding midweek"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Bournemouth"
+- "Premier League"
 image: "https://i.imgur.com/3RCeOgn.jpeg"
 tweet: "Andoni Iraola details how Bournemouth prepared in the two days between the match against Aston Villa, on Sunday, and the Wolves match, on Wednesday. 'For the analysts, probably every time we play midweek, it becomes really, really demanding.'"
 ---

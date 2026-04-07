@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-31 11:00 UTC
 title: "How Enzo Maresca transitions to defense in a 3-box-3"
 categories:
-- "Premier League"
-- "Championship"
+- "opinion"
 tags:
 - "Leicester City"
 - "Chelsea"
+- "Premier League"
+- "Championship"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/27/Image-27May2024_15:32:54.png?raw=true"
 ---
 

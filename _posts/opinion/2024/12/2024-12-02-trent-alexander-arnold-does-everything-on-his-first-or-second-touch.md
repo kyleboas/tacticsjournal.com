@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-02 12:00 UTC
 title: "Trent Alexander-Arnold does everything on his first or second touch"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/01/Image-01Dec2024_20:29:03.png"
 ---
 

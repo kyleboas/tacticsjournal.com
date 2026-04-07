@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-02 08:00 UTC
 title: "Odegaard on the turn"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/JuHASXs.jpeg"
 ---
 

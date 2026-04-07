@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-09-30 11:00 UTC
 title: "Is this a fire drill"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/09/29/Image-29Sep2025_15:31:34.png"
 ---
 

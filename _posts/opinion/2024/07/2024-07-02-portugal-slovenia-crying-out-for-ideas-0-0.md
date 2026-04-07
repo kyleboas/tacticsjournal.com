@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-02 11:00 UTC
 title: "Portugal — Slovenia: Crying Out for Ideas (0-0)"
 categories:
-- "Euro 2024"
-- "International"
-- "Between The Posts"
+- "opinion"
 tags:
 - "Portugal"
 - "Slovenia"
+- "Euro 2024"
+- "International"
+- "Between The Posts"
 image: "https://betweentheposts.net/wp-content/uploads/27-Portugal-Slovenia-FREE.jpeg"
 link: "https://betweentheposts.net/portugal-slovenia-crying-out-for-ideas-0-0/"
 tweet: "Portugal won on penalties to advance to the quarterfinals against France but put on an uninspiring performance, devoid of ideas of how to enter the box; they spammed crosses from the fringes into an organized wall of Slovenian defenders. @BetweenThePosts"

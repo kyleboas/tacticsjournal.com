@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-01 11:00 UTC
 title: "Arsenal in limbo against Brighton's mid-block"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Brighton"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/01/Image-01Sep2024_01:17:53.png"
 ---
 

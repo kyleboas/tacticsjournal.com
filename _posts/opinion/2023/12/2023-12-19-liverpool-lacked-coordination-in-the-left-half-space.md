@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-19 08:00 UTC
 title: "Liverpool Lacked Coordination in the Left Half-Space"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
 - "Manchester United"
+- "Premier League"
 image: "https://i.imgur.com/aNhaoNQ.jpg"
 ---
 

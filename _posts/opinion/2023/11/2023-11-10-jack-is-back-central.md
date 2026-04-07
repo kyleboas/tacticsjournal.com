@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-10 08:00 UTC
 title: "Jack is back, central"
 categories:
-- "Premier League"
-- "Champions League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
+- "Champions League"
 image: "https://i.imgur.com/TxqIrgQ.jpg"
 ---
 

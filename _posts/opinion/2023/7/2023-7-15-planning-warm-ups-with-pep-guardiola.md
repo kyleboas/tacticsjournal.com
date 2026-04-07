@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-7-15 07:00:00 UTC
 title: "Planning warm-ups with Pep Guardiola"
-categories: 
-- "Premier League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/K4F84oa.png"
 ---
 

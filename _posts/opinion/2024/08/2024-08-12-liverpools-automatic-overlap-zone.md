@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-12 11:00 UTC
 title: "Liverpool's automatic overlap zone"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/12/Image-12Aug2024_00:44:57.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-21 11:00 UTC
 title: "Arteta is simplifying training for sequences of matches next season"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/21/Image-21Jul2024_00:09:59.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-7-13 07:00:00 UTC
 title: "Mason Mount will be used like Ryan Gravenberch"
-categories: 
-- "Premier League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Manchester United"
+- "Premier League"
 image: "https://i.imgur.com/1MS2gvA.jpg"
 ---
 

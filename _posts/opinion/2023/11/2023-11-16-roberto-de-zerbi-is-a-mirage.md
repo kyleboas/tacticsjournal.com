@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-16 08:00 UTC
 title: "Roberto De Zerbi is a mirage"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Brighton"
+- "Premier League"
 image: "https://i.imgur.com/Iar7Rkz.jpg"
 ---
 

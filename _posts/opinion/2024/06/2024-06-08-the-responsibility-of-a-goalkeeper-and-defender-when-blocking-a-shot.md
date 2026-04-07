@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-08 11:00 UTC
 title: "The responsibility of a goalkeeper and defender when blocking a shot"
 categories:
-- "Euro 2024"
+- "opinion"
 tags:
 - "England"
+- "Euro 2024"
 image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/08/Image-08Jun2024_01:05:14.png?raw=true"
 ---
 

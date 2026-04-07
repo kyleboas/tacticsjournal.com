@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-01 08:00 UTC
 title: "The difference in intention of Aston Villa's movement"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Aston Villa"
 - "West Ham"
 - "Newcastle"
+- "Premier League"
 image: "https://i.imgur.com/3Y3Ym1n.jpeg"
 ---
 

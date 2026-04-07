@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-25 11:00 UTC
 title: "The opposition's structure when Malmö overloads a wing"
 categories:
-- "Allsvenskan"
+- "opinion"
 tags:
 - "Malmö"
 - "Kalmar"
 - "Relationism"
+- "Allsvenskan"
 image: "https://i.imgur.com/Vuy8RF9.jpeg"
 ---
 

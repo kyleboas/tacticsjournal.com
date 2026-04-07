@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-12-03 12:00 UTC
 title: "Manchester United should build around Zirkzee"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/02/Image-02Dec2024_18:34:56.png"
 ---
 

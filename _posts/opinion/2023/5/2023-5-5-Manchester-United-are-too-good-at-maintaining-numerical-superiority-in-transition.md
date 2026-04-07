@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-5-5 07:00:00 UTC
 title: "Manchester United are too good at maintaining numerical superiority in transition"
-categories: 
-- "Premier League"
-tags: 
+categories:
+- "opinion"
+tags:
 - "Manchester United"
 - "Brighton"
+- "Premier League"
 image: "https://i.imgur.com/WdFFujT.jpg"
 ---
 

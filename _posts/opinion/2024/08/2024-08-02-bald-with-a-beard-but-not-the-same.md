@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-08-02 11:00 UTC
 title: "Bald with a beard, but not the same"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Chelsea"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/01/Image-01Aug2024_19:23:47.png"
 ---
 

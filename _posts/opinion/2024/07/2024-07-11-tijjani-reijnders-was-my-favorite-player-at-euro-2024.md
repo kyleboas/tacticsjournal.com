@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-11 11:00 UTC
 title: "Tijjani Reijnders was my favorite player at Euro 2024"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "Netherlands"
 - "England"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_00:01:41.png"
 ---
 

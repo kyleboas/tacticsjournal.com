@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-12-07 11:00 UTC
 title: "Getting Pep'd"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/06/Image-06Dec2025_21:39:59.png"
 ---
 

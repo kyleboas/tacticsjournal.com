@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2023-12-15 08:00 UTC
 title: "Brighton Score"
 categories:
-- "Premier League"
-- "Europa League"
+- "opinion"
 tags:
 - "Brighton"
 - "Marseille"
+- "Premier League"
+- "Europa League"
 image: "https://i.imgur.com/2E7oJ2L.jpg"
 ---
 

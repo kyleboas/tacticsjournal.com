@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-08 08:00 UTC
 title: "Kai Havertz is a Momentum Killer"
 categories:
-- "Premier League"
-- "FA Cup"
+- "opinion"
 tags:
 - "Arsenal"
 - "Liverpool"
+- "Premier League"
+- "FA Cup"
 image: "https://i.imgur.com/4KMnrlx.jpeg"
 ---
 

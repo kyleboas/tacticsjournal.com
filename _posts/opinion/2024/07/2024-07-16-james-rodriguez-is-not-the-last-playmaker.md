@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-16 11:00 UTC
 title: "James Rodriguez is not the last playmaker"
 categories:
-- "Copa America"
-- "International"
+- "opinion"
 tags:
 - "Columbia"
+- "Copa America"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/16/Image-16Jul2024_02:14:55.png"
 ---
 

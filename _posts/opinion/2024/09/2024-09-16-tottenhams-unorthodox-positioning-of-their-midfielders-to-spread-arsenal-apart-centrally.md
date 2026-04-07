@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-16 11:00 UTC
 title: "Tottenham's unorthodox positioning of their midfielders to spread Arsenal apart centrally"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Tottenham"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/16/Image-16Sep2024_00:34:52.png"
 ---
 

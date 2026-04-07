@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2025-10-22 11:00 UTC
 title: "Results-based analysis"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Liverpool"
 - "Manchester United"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/10/21/Image-21Oct2025_20:08:52.png"
 ---
 

@@ -1,16 +1,16 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-26 11:00 UTC
 title: "England don't need Kieran Trippier at left-back"
 categories:
-- "Euro 2024"
-- "International"
+- "opinion"
 tags:
 - "England"
 - "Slovenia"
 - "Denmark"
 - "Serbia"
+- "Euro 2024"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/26/Image-26Jun2024_00%3A33%3A02.png"
 ---
 

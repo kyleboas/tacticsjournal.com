@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-02 08:00 UTC
 title: "Trent Alexander-Arnold and Sergio Busquets"
 categories:
-- "Premier League"
-- "La Liga"
+- "opinion"
 tags:
 - "Liverpool"
 - "Barcelona"
+- "Premier League"
+- "La Liga"
 image: "https://i.imgur.com/ALGDyuq.jpeg"
 ---
 

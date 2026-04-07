@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-13 08:00 UTC
 title: "Two spaces Tottenham can attack Manchester United"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
 - "Manchester United"
+- "Premier League"
 image: "https://i.imgur.com/Bi52DeJ.jpeg"
 ---
 

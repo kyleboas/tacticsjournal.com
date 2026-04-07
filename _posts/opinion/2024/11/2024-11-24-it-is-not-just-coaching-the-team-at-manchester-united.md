@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-11-24 11:00 UTC
 title: "It's not just coaching the team at Manchester United"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester United"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/22/Image-22Nov2024_17:42:17.png"
 ---
 

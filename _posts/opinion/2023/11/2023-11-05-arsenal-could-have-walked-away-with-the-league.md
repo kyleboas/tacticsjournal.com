@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-05 08:00 UTC
 title: "Arsenal could have walked away with the league"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
 - "Newcastle"
+- "Premier League"
 image: "https://i.imgur.com/XykyTna.jpg"
 ---
 

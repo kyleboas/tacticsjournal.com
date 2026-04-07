@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-09-24 08:00 UTC
 title: "Matheus Nunes' strengths in one play"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Nottingham Forest"
+- "Premier League"
 image: "https://i.imgur.com/VApRyJU.jpg"
 ---
 

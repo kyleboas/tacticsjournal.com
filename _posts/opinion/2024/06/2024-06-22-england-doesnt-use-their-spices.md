@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-06-22 11:00 UTC
 title: "England doesn't use their spices"
 categories:
+- "opinion"
+tags:
+- "England"
 - "Euro 2024"
 - "International"
 - "Premier League"
-tags:
-- "England"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/06/20/Image-20Jun2024_03%3A00%3A06.png"
 ---
 

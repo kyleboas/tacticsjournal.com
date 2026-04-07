@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2024-10-02 11:00 UTC
 title: "Positionism and Relationism change the way we look at football"
 tags: "Relationism"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/01/Image-01Oct2024_23:55:02.png"
 ---
 

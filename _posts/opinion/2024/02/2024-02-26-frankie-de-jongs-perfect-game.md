@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-26 08:00 UTC
 title: "Frankie de Jong's perfect game"
 categories:
-- "La Liga"
-- "Premier League"
+- "opinion"
 tags:
 - "Barcelona"
 - "Manchester City"
+- "La Liga"
+- "Premier League"
 image: "https://i.imgur.com/8xSd3SW.png" 
 ---
 

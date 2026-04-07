@@ -1,11 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-13 08:00 UTC
 title: "Cross-Heavy One-Dimensional Spain Needs Runners"
 tags:
 - "Spain"
 - "Scotland"
+categories:
+- "opinion"
 image: "https://i.imgur.com/ZGxhlao.jpg"
 ---
 

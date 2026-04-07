@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-01-05 12:00 UTC
 title: "Solid as a William Saliba"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/01/Image-01Jan2025_22:08:06.png"
 ---
 

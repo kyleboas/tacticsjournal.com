@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2025-01-12 12:00 UTC
 title: "The distracted striker"
+categories:
+- "opinion"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/01/11/Image-11Jan2025_22:42:32.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2025-08-08 11:00 UTC
 title: "What to expect with Thomas Frank at Tottenham"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/08/07/Image-07Aug2025_14:43:39.png"
 ---
 

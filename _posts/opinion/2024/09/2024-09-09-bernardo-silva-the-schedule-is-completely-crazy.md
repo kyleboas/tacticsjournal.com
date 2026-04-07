@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-09-09 11:00 UTC
 title: "Bernardo Silva: 'The schedule is completely crazy'"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
+- "Premier League"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/07/Image-07Sep2024_00:25:28.png"
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-18 08:00 UTC
 title: "Ange Postecoglu's Tottenham passing exercises"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/kqVRRVa.png"
 ---
 

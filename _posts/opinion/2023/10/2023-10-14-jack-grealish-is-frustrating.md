@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-10-14 08:00 UTC
 title: "Jack Grealish is frustrating"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "England"
 - "Manchester City"
+- "Premier League"
 image: "https://i.imgur.com/x9qJaB5.jpg"
 ---
 

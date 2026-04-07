@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-04-21 11:00 UTC
 title: "Manchester City's staircase"
 categories:
-- "Premier League"
-- "FA Cup"
+- "opinion"
 tags:
 - "Manchester City"
 - "Relationism"
+- "Premier League"
+- "FA Cup"
 image: "https://i.imgur.com/wDLWjR3.jpeg"
 ---
 

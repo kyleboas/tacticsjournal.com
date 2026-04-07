@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-14 08:00 UTC
 title: "Manchester City don't take risks when they defend"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Chelsea"
+- "Premier League"
 image: "https://i.imgur.com/VUvG6IF.jpg"
 ---
 

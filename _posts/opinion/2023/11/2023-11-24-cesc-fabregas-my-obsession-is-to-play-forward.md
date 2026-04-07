@@ -1,8 +1,9 @@
 ---
 layout: post
-category: opinion
 date: 2023-11-24 08:00 UTC
 title: "Cesc Fàbregas: My obsession is to play forward"
+categories:
+- "opinion"
 image: "https://i.imgur.com/zFdfwnM.png"
 ---
 

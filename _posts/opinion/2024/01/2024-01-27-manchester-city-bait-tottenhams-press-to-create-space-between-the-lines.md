@@ -1,14 +1,14 @@
 ---
 layout: post
-category: opinion
 date: 2024-01-27 08:00 UTC
 title: "Manchester City bait Tottenham's press to create space between the lines"
 categories:
-- "Premier League"
-- "FA Cup"
+- "opinion"
 tags:
 - "Tottenham"
 - "Manchester City"
+- "Premier League"
+- "FA Cup"
 image: "https://i.imgur.com/EAE454f.jpeg"
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-category: opinion
 date: 2025-01-01 12:00 UTC
 title: "Why the Tactics Journal is no longer posting on X"
 categories:
+- "opinion"
+tags:
 - "Updates"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/29/Image-29Dec2024_15:15:51.png"
 ---

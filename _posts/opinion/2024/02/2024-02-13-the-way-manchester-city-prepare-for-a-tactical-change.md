@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-02-13 08:00 UTC
 title: "The way Manchester City prepare for a tactical change"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Manchester City"
 - "Everton"
+- "Premier League"
 image: "https://i.imgur.com/lB4oe1n.jpeg"
 ---
 

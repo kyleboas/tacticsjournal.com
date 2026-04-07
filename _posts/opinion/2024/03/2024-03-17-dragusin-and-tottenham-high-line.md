@@ -1,13 +1,13 @@
 ---
 layout: post
-category: opinion
 date: 2024-03-17 08:00 UTC
 title: "Dragusin and Tottenham's high-line"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
 - "Fulham"
+- "Premier League"
 image: "https://i.imgur.com/NP9OjJH.jpeg"
 ---
 

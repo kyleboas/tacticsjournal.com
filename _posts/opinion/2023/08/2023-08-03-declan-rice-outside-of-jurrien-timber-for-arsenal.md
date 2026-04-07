@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2023-08-03 08:00 UTC
 title: "Declan Rice outside of Jurrien Timber for Arsenal"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Arsenal"
+- "Premier League"
 image: "https://i.imgur.com/5kSP601.jpg"
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-category: opinion
 date: 2024-07-13 11:00 UTC
 title: "Rodri talks, we must listen"
 categories:
-- "Euro 2024"
-- "Premier League"
-- "International"
+- "opinion"
 tags:
 - "Spain"
 - "Manchester City"
+- "Euro 2024"
+- "Premier League"
+- "International"
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/11/Image-11Jul2024_21:45:11.png"
 ---
 

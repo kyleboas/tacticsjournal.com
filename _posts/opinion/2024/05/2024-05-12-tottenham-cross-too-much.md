@@ -1,12 +1,12 @@
 ---
 layout: post
-category: opinion
 date: 2024-05-12 11:00 UTC
 title: "Tottenham cross too much"
 categories:
-- "Premier League"
+- "opinion"
 tags:
 - "Tottenham"
+- "Premier League"
 image: "https://i.imgur.com/wB4oI9l.jpeg"
 tweet: "20.37% of Tottenham's passes into the penalty area in the past 60 days have come from crosses. Working the ball on the ground rather than through the air would likely be more effective. Data via @fbref @StatHead"
 ---
