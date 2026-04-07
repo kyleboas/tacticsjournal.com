@@ -55,7 +55,7 @@ baseurl:
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:category/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 
 
 # The release of Jekyll Now that you're using
@@ -105,10 +105,6 @@ defaults:
       layout: "category"
 
 defaults:
-  - scope:
-      path: "_posts/opinion"
-    values:
-      category: opinion
   - scope:
       path: ""
     values:
