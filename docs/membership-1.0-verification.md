@@ -15,6 +15,19 @@ Branch: `feat/membership-1.0-audit-and-fixes`
 - `bundle exec jekyll build`
   - blocked in this environment: `bundle: command not found`
 
+### Automated QA script added
+
+- `node scripts/qa-membership.mjs`
+  - checks key membership routes for expected public/unauthorized behavior
+  - supports optional authenticated internal checks with `INTERNAL_JOB_KEY`
+  - set `BASE_URL` to target local dev or preview deployment
+
+Example:
+
+```bash
+BASE_URL=http://127.0.0.1:8788 INTERNAL_JOB_KEY=your-key node scripts/qa-membership.mjs
+```
+
 ### Manual flow checklist (next)
 
 - [ ] Start magic-link sign-in
