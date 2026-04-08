@@ -90,6 +90,10 @@ export async function onRequestPost(context) {
 }
 
 export async function onRequestGet(context) {
+  if (!isAuthorized(context.request, context.env)) {
+    return new Response('Unauthorized', { status: 401 });
+  }
+
   return new Response(
     JSON.stringify({
       availableActions: [
