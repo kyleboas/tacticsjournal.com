@@ -5,21 +5,26 @@ permalink: /account/
 ---
 
 <div class="account-page">
-  <div id="logged-out-state" style="display: none;">
-    <h2>Sign In / Sign Up</h2>
-    <p>Enter your email to sign in or create an account:</p>
+  <div id="logged-out-state" style="display:none;">
+    <h2>Sign in or create account</h2>
+    <p id="trial-intent-copy" style="display:none;">Start your 7-day free trial by entering your email.</p>
     <form id="email-auth-form">
       <input type="email" id="email-input" placeholder="Your email address" required>
-      <button type="submit">Continue with Email</button>
+      <button type="submit">Continue with email</button>
     </form>
-    <p>A magic link will be sent to your email address.</p>
+    <p>A magic link will be sent to your inbox.</p>
   </div>
 
-  <div id="logged-in-state" style="display: none;">
-    <h2>Welcome, <span id="user-email"></span>!</h2>
-    <p>This is your account dashboard.</p>
-    
-    <h3>Account Preferences</h3>
+  <div id="logged-in-state" style="display:none;">
+    <h2>Welcome, <span id="user-email"></span></h2>
+    <p id="access-summary"></p>
+
+    <div id="upgrade-cta" style="display:none; margin-bottom: 1rem;">
+      <a href="{{ site.gumroad_pro_monthly_url }}" class="button" target="_blank" rel="noopener">Upgrade to Pro monthly</a>
+      <a href="{{ site.gumroad_pro_yearly_url }}" class="button" target="_blank" rel="noopener">Upgrade to Pro yearly</a>
+    </div>
+
+    <h3>Account preferences</h3>
     <form id="account-prefs-form">
       <div>
         <label for="theme-select">Theme:</label>
@@ -37,120 +42,157 @@ permalink: /account/
           <option value="large">Large</option>
         </select>
       </div>
-      <button type="submit">Save Preferences</button>
+      <button type="submit">Save preferences</button>
     </form>
 
-    <h3>Email Preferences</h3>
+    <h3>Email preferences</h3>
     <form id="email-prefs-form">
       <div>
         <input type="checkbox" id="newsletter-enabled" name="newsletter_enabled">
-        <label for="newsletter-enabled">Receive Newsletter</label>
+        <label for="newsletter-enabled">Receive opinion newsletter</label>
       </div>
       <div>
         <input type="checkbox" id="research-updates-enabled" name="research_updates_enabled">
-        <label for="research-updates-enabled">Receive Research Updates</label>
+        <label for="research-updates-enabled">Receive research updates</label>
       </div>
-      <button type="submit">Save Email Preferences</button>
+      <button type="submit">Save email preferences</button>
     </form>
 
-    <button id="sign-out-button">Sign Out</button>
+    <button id="sign-out-button">Sign out</button>
   </div>
 </div>
 
 <script>
-  // Basic client-side logic for demonstration
   document.addEventListener('DOMContentLoaded', async () => {
     const loggedOutState = document.getElementById('logged-out-state');
     const loggedInState = document.getElementById('logged-in-state');
-    const userEmailSpan = document.getElementById('user-email');
+    const trialIntentCopy = document.getElementById('trial-intent-copy');
+
     const emailAuthForm = document.getElementById('email-auth-form');
     const emailInput = document.getElementById('email-input');
+
+    const userEmailSpan = document.getElementById('user-email');
+    const accessSummary = document.getElementById('access-summary');
+    const upgradeCta = document.getElementById('upgrade-cta');
+
     const signOutButton = document.getElementById('sign-out-button');
+
     const accountPrefsForm = document.getElementById('account-prefs-form');
     const themeSelect = document.getElementById('theme-select');
     const fontSizeSelect = document.getElementById('font-size-select');
+
     const emailPrefsForm = document.getElementById('email-prefs-form');
     const newsletterEnabled = document.getElementById('newsletter-enabled');
     const researchUpdatesEnabled = document.getElementById('research-updates-enabled');
 
-    async function checkSession() {
-      const response = await fetch('/api/account/session');
-      if (response.ok) {
-        const data = await response.json();
-        if (data.user) {
-          userEmailSpan.textContent = data.user.email;
-          themeSelect.value = data.preferences.theme || 'system';
-          fontSizeSelect.value = data.preferences.font_size || 'medium';
-          newsletterEnabled.checked = data.email_preferences.newsletter_enabled;
-          researchUpdatesEnabled.checked = data.email_preferences.research_updates_enabled;
-          loggedInState.style.display = 'block';
-          loggedOutState.style.display = 'none';
-        } else {
-          loggedOutState.style.display = 'block';
-          loggedInState.style.display = 'none';
+    const params = new URLSearchParams(window.location.search);
+    const hasTrialIntent = params.get('intent') === 'trial';
+
+    function showLoggedOut() {
+      loggedOutState.style.display = 'block';
+      loggedInState.style.display = 'none';
+      if (hasTrialIntent) {
+        trialIntentCopy.style.display = 'block';
+        setTimeout(() => emailInput.focus(), 100);
+      }
+    }
+
+    function formatAccessSummary(user) {
+      if (!user) return '';
+
+      if (user.access_level === 'pro') {
+        return 'Plan: Pro';
+      }
+
+      if (user.access_level === 'trial') {
+        const endsAt = user.trial_ends_at ? new Date(user.trial_ends_at) : null;
+        if (endsAt && !Number.isNaN(endsAt.getTime())) {
+          return `Plan: Trial (ends ${endsAt.toLocaleDateString()})`;
         }
-      } else {
-        loggedOutState.style.display = 'block';
-        loggedInState.style.display = 'none';
+        return 'Plan: Trial';
+      }
+
+      return 'Plan: Free';
+    }
+
+    async function checkSession() {
+      try {
+        const response = await fetch('/api/account/session');
+        if (!response.ok) {
+          showLoggedOut();
+          return;
+        }
+
+        const data = await response.json();
+
+        if (!data.user) {
+          showLoggedOut();
+          return;
+        }
+
+        userEmailSpan.textContent = data.user.email;
+        accessSummary.textContent = formatAccessSummary(data.user);
+
+        themeSelect.value = data.preferences?.theme || 'system';
+        fontSizeSelect.value = data.preferences?.font_size || 'medium';
+
+        newsletterEnabled.checked = Boolean(data.email_preferences?.newsletter_enabled);
+        researchUpdatesEnabled.checked = Boolean(data.email_preferences?.research_updates_enabled);
+
+        const showUpgrade = data.user.access_level !== 'pro';
+        upgradeCta.style.display = showUpgrade ? 'block' : 'none';
+
+        loggedInState.style.display = 'block';
+        loggedOutState.style.display = 'none';
+      } catch (_error) {
+        showLoggedOut();
       }
     }
 
     emailAuthForm.addEventListener('submit', async (e) => {
       e.preventDefault();
       const email = emailInput.value;
+
       const response = await fetch('/api/account/start', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email }),
       });
-      if (response.ok) {
-        alert('Magic link sent to your email!');
-      } else {
-        alert('Failed to send magic link.');
-      }
+
+      alert(response.ok ? 'Magic link sent to your email.' : 'Failed to send magic link.');
     });
 
     signOutButton.addEventListener('click', async () => {
-      const response = await fetch('/api/account/signout', {
-        method: 'POST',
-      });
-      if (response.ok) {
-        window.location.reload();
-      } else {
-        alert('Failed to sign out.');
-      }
+      const response = await fetch('/api/account/signout', { method: 'POST' });
+      if (response.ok) window.location.reload();
+      else alert('Failed to sign out.');
     });
 
     accountPrefsForm.addEventListener('submit', async (e) => {
       e.preventDefault();
-      const theme = themeSelect.value;
-      const fontSize = fontSizeSelect.value;
+
       const response = await fetch('/api/account/preferences', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ theme, font_size: fontSize }),
+        body: JSON.stringify({ theme: themeSelect.value, font_size: fontSizeSelect.value }),
       });
-      if (response.ok) {
-        alert('Account preferences saved!');
-      } else {
-        alert('Failed to save preferences.');
-      }
+
+      alert(response.ok ? 'Account preferences saved.' : 'Failed to save account preferences.');
     });
 
     emailPrefsForm.addEventListener('submit', async (e) => {
       e.preventDefault();
-      const newsletterEnabled = document.getElementById('newsletter-enabled').checked;
-      const researchUpdatesEnabled = document.getElementById('research-updates-enabled').checked;
+
       const response = await fetch('/api/account/email-preferences', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ newsletter_enabled: newsletterEnabled, research_updates_enabled: researchUpdatesEnabled }),
+        body: JSON.stringify({
+          newsletter_enabled: newsletterEnabled.checked,
+          research_updates_enabled: researchUpdatesEnabled.checked,
+        }),
       });
-      if (response.ok) {
-        alert('Email preferences saved!');
-      } else {
-        alert('Failed to save email preferences.');
-      }
+
+      alert(response.ok ? 'Email preferences saved.' : 'Failed to save email preferences.');
     });
 
     checkSession();
