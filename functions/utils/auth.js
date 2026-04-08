@@ -1,22 +1,31 @@
-import { verifySession, getSessionCookie } from './session';
+import { verifySession, getSessionCookie } from './session.js';
+
+function hasPaidAccess(user) {
+  if (!user) return false;
+
+  if (user.access_level === 'pro') return true;
+  if (user.access_level === 'trial') {
+    if (!user.trial_ends_at) return false;
+    return Date.parse(user.trial_ends_at) > Date.now();
+  }
+
+  return false;
+}
 
 export async function isAuthenticated(request, env) {
   const token = getSessionCookie(request);
-  if (!token) {
-    return null; // Not authenticated
-  }
+  if (!token) return null;
 
-  const session = await verifySession(token);
-  if (!session || session.exp * 1000 < Date.now()) {
-    // Session expired or invalid
-    return null;
-  }
+  const session = await verifySession(env, token);
+  if (!session) return null;
 
-  // Optionally, fetch user from DB to ensure they still exist
-  // const user = await env.DB.prepare("SELECT id, email FROM users WHERE id = ?").bind(session.userId).first();
-  // return user || null;
-
-  return { userId: session.userId };
+  return {
+    userId: session.user_id,
+    email: session.email,
+    accessLevel: session.access_level || 'free',
+    trialEndsAt: session.trial_ends_at || null,
+    hasPaidAccess: hasPaidAccess(session),
+  };
 }
 
 export function requireAuth(handler) {
@@ -25,6 +34,7 @@ export function requireAuth(handler) {
     if (!auth) {
       return new Response('Unauthorized', { status: 401 });
     }
+
     context.data = { ...context.data, auth };
     return handler(context);
   };

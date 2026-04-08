@@ -1,18 +1,34 @@
-export function validateEnv(env) {
-  if (!env.DB) {
-    throw new Error("DB binding not found. Ensure you have [[d1_databases]] in wrangler.toml.");
+export function validateEnv(env, options = {}) {
+  const {
+    requireDb = true,
+    requireAssets = false,
+    requireJwtSecret = false,
+    requireResend = false,
+    requireGumroadSecret = false,
+    requireButtondown = false,
+  } = options;
+
+  if (requireDb && !env.DB) {
+    throw new Error('DB binding not found. Ensure [[d1_databases]] is set in wrangler.toml.');
   }
-  if (!env.ASSETS) {
-    throw new Error("ASSETS binding not found. This should be automatically provided by Cloudflare Pages.");
+
+  if (requireAssets && !env.ASSETS) {
+    throw new Error('ASSETS binding not found. This is provided by Cloudflare Pages runtime.');
   }
-  // Add other required environment variables here
-  if (!env.JWT_SECRET) {
-    throw new Error("JWT_SECRET environment variable is not set.");
+
+  if (requireJwtSecret && !env.JWT_SECRET) {
+    throw new Error('JWT_SECRET environment variable is not set.');
   }
-  if (!env.RESEND_API_KEY) {
-    throw new Error("RESEND_API_KEY environment variable is not set.");
+
+  if (requireResend && !env.RESEND_API_KEY) {
+    throw new Error('RESEND_API_KEY environment variable is not set.');
   }
-  if (!env.GUMROAD_WEBHOOK_SECRET) {
-    throw new Error("GUMROAD_WEBHOOK_SECRET environment variable is not set.");
+
+  if (requireGumroadSecret && !env.GUMROAD_WEBHOOK_SECRET) {
+    throw new Error('GUMROAD_WEBHOOK_SECRET environment variable is not set.');
+  }
+
+  if (requireButtondown && !env.BUTTONDOWN_API_KEY) {
+    throw new Error('BUTTONDOWN_API_KEY environment variable is not set.');
   }
 }

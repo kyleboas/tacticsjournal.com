@@ -1,6 +1,9 @@
-import { validateEnv } from '../utils/env';
-import { hashToken } from '../utils/token';
-import { createSession, setSessionCookie } from '../utils/session';
+import { validateEnv } from '../utils/env.js';
+import { hashToken } from '../utils/token.js';
+import { createSession, setSessionCookie } from '../utils/session.js';
+import { onTrialStart } from '../utils/sync-triggers.js';
+
+const TRIAL_MS = 7 * 24 * 60 * 60 * 1000;
 
 export async function onRequestGet(context) {
   validateEnv(context.env);
@@ -16,38 +19,61 @@ export async function onRequestGet(context) {
   try {
     const hashedToken = await hashToken(token);
     const magicLink = await DB.prepare(
-      "SELECT * FROM magic_links WHERE token = ? AND expires_at > ?"
-    ).bind(hashedToken, Date.now()).first();
+      'SELECT id, email, expires_at FROM magic_links WHERE token = ? LIMIT 1'
+    )
+      .bind(hashedToken)
+      .first();
 
     if (!magicLink) {
       return new Response('Invalid or expired magic link', { status: 400 });
     }
 
-    // Get user and create session
-    const user = await DB.prepare("SELECT id FROM users WHERE email = ?").bind(magicLink.email).first();
+    const magicLinkExpires = Date.parse(magicLink.expires_at);
+    if (Number.isNaN(magicLinkExpires) || magicLinkExpires <= Date.now()) {
+      await DB.prepare('DELETE FROM magic_links WHERE id = ?').bind(magicLink.id).run();
+      return new Response('Invalid or expired magic link', { status: 400 });
+    }
+
+    const user = await DB.prepare(
+      'SELECT id, email, access_level, trial_started_at, trial_ends_at FROM users WHERE email = ? LIMIT 1'
+    )
+      .bind(magicLink.email)
+      .first();
+
     if (!user) {
       return new Response('User not found', { status: 404 });
     }
 
-    const sessionId = user.id; // Use user ID as session ID for simplicity
-    const expiresAt = Date.now() + (7 * 24 * 60 * 60 * 1000); // 7 days from now
-    const sessionToken = await createSession(user.id, expiresAt);
+    let startedTrialNow = false;
+    if (!user.trial_started_at) {
+      const nowIso = new Date().toISOString();
+      const trialEndsIso = new Date(Date.now() + TRIAL_MS).toISOString();
+      await DB.prepare(
+        'UPDATE users SET access_level = ?, trial_started_at = ?, trial_ends_at = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?'
+      )
+        .bind('trial', nowIso, trialEndsIso, user.id)
+        .run();
+      startedTrialNow = true;
+    }
 
-    await DB.prepare("INSERT INTO sessions (id, user_id, expires_at) VALUES (?, ?, ?)")
-      .bind(sessionId, user.id, expiresAt)
-      .run();
+    const { sessionId, expiresAtMs } = await createSession(env, user.id);
 
-    // Delete used magic link
-    await DB.prepare("DELETE FROM magic_links WHERE id = ?").bind(magicLink.id).run();
+    await DB.prepare('DELETE FROM magic_links WHERE id = ?').bind(magicLink.id).run();
 
-    // Redirect to account page with session cookie
+    if (startedTrialNow) {
+      try {
+        await onTrialStart(user.email, env);
+      } catch (syncError) {
+        console.error('Buttondown sync failed on trial start:', syncError);
+      }
+    }
+
     const headers = new Headers();
-    headers.set('Set-Cookie', setSessionCookie(sessionToken, expiresAt));
+    headers.set('Set-Cookie', setSessionCookie(sessionId, expiresAtMs));
     headers.set('Location', `${url.origin}/account/`);
     return new Response(null, { status: 302, headers });
-
   } catch (error) {
     console.error('Error in GET /account/finish:', error);
-    return new Response(error.message, { status: 500 });
+    return new Response(error.message || 'Internal error', { status: 500 });
   }
 }
