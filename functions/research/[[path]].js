@@ -6,7 +6,38 @@ function isHtmlResponse(response) {
 }
 
 function redactPaidContent(html) {
-  return html.replace(/(<div id="full-content"[^>]*>)([\s\S]*?)(<\/div>)/, '$1$3');
+  // Replace everything between the full-content opening and closing tag
+  // with a comment placeholder. Uses a balanced approach: find the opening
+  // tag, then count nested divs to find the true closing tag.
+  const marker = '<div id="full-content"';
+  const start = html.indexOf(marker);
+  if (start === -1) return html;
+
+  // Find the end of the opening tag
+  const openEnd = html.indexOf('>', start);
+  if (openEnd === -1) return html;
+
+  // Count nested divs to find the correct closing tag
+  let depth = 1;
+  let pos = openEnd + 1;
+  while (pos < html.length && depth > 0) {
+    const nextOpen = html.indexOf('<div', pos);
+    const nextClose = html.indexOf('</div', pos);
+
+    if (nextClose === -1) break;
+
+    if (nextOpen !== -1 && nextOpen < nextClose) {
+      depth++;
+      pos = nextOpen + 4;
+    } else {
+      depth--;
+      pos = nextClose + 6;
+    }
+  }
+
+  const before = html.slice(0, openEnd + 1);
+  const after = html.slice(pos);
+  return before + '<!-- paid content removed -->' + after;
 }
 
 export async function onRequest(context) {
