@@ -1,33 +1,56 @@
 # Tactics Journal
 
-This repository contains the source code for tacticsjournal.com.
+This repository contains the source for tacticsjournal.com (Jekyll) plus Cloudflare Pages Functions for account auth, paywall access, and billing integrations.
 
-## Local Development
+## Local development
 
-### Jekyll
-To build the static site locally:
+### 1) Jekyll site
 
 ```bash
 bundle install
 bundle exec jekyll serve
 ```
 
-This will serve the site at `http://localhost:4000` (or similar).
-
-### Cloudflare Pages Functions & D1
-To run the Cloudflare Pages Functions and D1 locally, you will need to use `wrangler`.
-
-First, install `wrangler`:
+### 2) Cloudflare Pages Functions + D1
 
 ```bash
-npm install -g wrangler
+npm install
+wrangler pages dev . --d1 DB=tacticsjournal_db
 ```
 
-Then, to run the local development server for Pages Functions and D1:
+## Required environment variables
+
+Set these in Cloudflare Pages project settings (and locally when testing functions):
+
+- `RESEND_API_KEY`
+- `GUMROAD_WEBHOOK_SECRET`
+- `BUTTONDOWN_API_KEY`
+- `INTERNAL_JOB_KEY` (for internal scheduled endpoints)
+
+## Database migrations
 
 ```bash
-wrangler pages dev --compatibility-date=2023-01-01 --binding DB:tacticsjournal_db --D1 tacticsjournal_db
+wrangler d1 migrations apply tacticsjournal_db --local
 ```
 
-Note: The `--D1 tacticsjournal_db` flag tells wrangler to bind a local D1 database named `tacticsjournal_db`. You might need to create this database first using `wrangler d1 create tacticsjournal_db`.
+Migrations are in `migrations/`.
 
+## Key function routes
+
+- `POST /api/account/start`
+- `GET /account/finish`
+- `GET /api/account/session`
+- `POST /api/account/signout`
+- `POST /api/account/preferences`
+- `POST /api/account/email-preferences`
+- `POST /api/gumroad-webhook`
+- `POST /api/internal/trial-expiry` (requires `Authorization: Bearer <INTERNAL_JOB_KEY>`)
+- `POST /api/internal/reconcile-gumroad` (requires `Authorization: Bearer <INTERNAL_JOB_KEY>`)
+- `POST /api/sync/trigger`
+
+## Deployment path
+
+- Build with Jekyll
+- Deploy via Cloudflare Pages
+- Bind D1 database as `DB`
+- Configure secrets listed above
