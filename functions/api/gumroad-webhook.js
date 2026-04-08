@@ -123,10 +123,23 @@ export async function onRequestPost(context) {
 
     switch (event.eventName) {
       case 'charge_succeeded':
-      case 'subscription_created':
-      case 'subscription_updated': {
+      case 'subscription_created': {
         await updateUserAccess(db, event.email, 'pro');
         await onPurchaseComplete(event.email, mapPlan(event.productId), env);
+        break;
+      }
+      case 'subscription_updated': {
+        // Gumroad sends subscription_updated for both upgrades and downgrades.
+        // Only grant pro if the subscription is still active.
+        const status = (payload.subscription_status || '').toLowerCase();
+        const isActive = !status || status === 'alive' || status === 'active';
+        if (isActive) {
+          await updateUserAccess(db, event.email, 'pro');
+          await onPurchaseComplete(event.email, mapPlan(event.productId), env);
+        } else {
+          await updateUserAccess(db, event.email, 'free');
+          await onTrialEnd(event.email, env);
+        }
         break;
       }
       case 'subscription_cancelled':

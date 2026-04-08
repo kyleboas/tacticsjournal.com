@@ -9,9 +9,21 @@ import {
 } from '../../utils/sync-triggers.js';
 import { validateEnv } from '../../utils/env.js';
 
+function isAuthorized(request, env) {
+  const expected = env.INTERNAL_JOB_KEY;
+  if (!expected) return false;
+  const header = request.headers.get('Authorization') || '';
+  return header === `Bearer ${expected}`;
+}
+
 export async function onRequestPost(context) {
   validateEnv(context.env, { requireDb: true });
   const { request, env } = context;
+
+  if (!isAuthorized(request, env)) {
+    return new Response('Unauthorized', { status: 401 });
+  }
+
   const db = env.DB;
 
   try {

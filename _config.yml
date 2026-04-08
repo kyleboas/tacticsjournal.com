@@ -107,8 +107,6 @@ defaults:
       type: category
     values:
       layout: "category"
-
-defaults:
   - scope:
       path: ""
     values:
