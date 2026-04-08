@@ -1,37 +1,7 @@
 name = "tacticsjournal"
-type = "javascript.module"
-account_id = "2d3ea24699352951b9856db8ea1ceb49"
-workers_dev = false
-# route = "tacticsjournal.com/*" # Pages Functions handle all routes by default
-zone_id = "a20e7b0d6446adecb133305fc2ded954"
-
-[site]
-bucket = "_site"
-# entry-point = "_worker.js" # Pages Functions automatically use `functions/_middleware.js` or `_worker.js`
-
-[functions]
-# main = "functions" # Not needed if functions are in named routes or _middleware.js
-
-[build]
-command = "jekyll build"
-cwd = "./"
-watch_paths = ["_posts/**", "_layouts/**", "_includes/**", "_sass/**", "*.md", "*.html", "*.yml", "*.yaml"]
-
-[build.upload]
-format = "service-worker"
+pages_build_output_dir = "_site"
+compatibility_date = "2026-04-08"
 
 [[r2_buckets]]
 binding = "IMAGES"
 bucket_name = "tacticsjournal-images"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "tacticsjournal_db"
-database_id = "<D1_DATABASE_ID>"
-
-[env.production]
-vars = { ENVIRONMENT = "production" }
-
-[[routes]]
-pattern = "tacticsjournal.com/images/*"
-zone_name = "tacticsjournal.com"

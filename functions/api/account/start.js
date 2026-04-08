@@ -1,6 +1,5 @@
 import { validateEnv } from '../../utils/env.js';
 import { generateToken, hashToken } from '../../utils/token.js';
-import { Resend } from 'resend';
 
 export async function onRequestPost(context) {
   validateEnv(context.env, { requireDb: true, requireResend: true });
@@ -44,15 +43,25 @@ export async function onRequestPost(context) {
       .bind(generateToken(), normalizedEmail, hashedMagicToken, expiresAt)
       .run();
 
-    const resend = new Resend(RESEND_API_KEY);
     const magicLinkUrl = `${new URL(request.url).origin}/account/finish?token=${encodeURIComponent(magicToken)}`;
 
-    await resend.emails.send({
-      from: 'onboarding@tacticsjournal.com',
-      to: normalizedEmail,
-      subject: 'Your Tactics Journal Magic Link',
-      html: `Click <a href="${magicLinkUrl}">here</a> to sign in to Tactics Journal. This link expires in 10 minutes.`,
+    const resendResponse = await fetch('https://api.resend.com/emails', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${RESEND_API_KEY}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        from: 'onboarding@tacticsjournal.com',
+        to: normalizedEmail,
+        subject: 'Your Tactics Journal Magic Link',
+        html: `Click <a href="${magicLinkUrl}">here</a> to sign in to Tactics Journal. This link expires in 10 minutes.`,
+      }),
     });
+
+    if (!resendResponse.ok) {
+      throw new Error(`Resend API error: ${resendResponse.status} ${await resendResponse.text()}`);
+    }
 
     return new Response('Magic link sent!', { status: 200 });
   } catch (error) {
