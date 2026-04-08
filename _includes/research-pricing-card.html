@@ -30,8 +30,10 @@
 
   <a
     class="r-tier-cta r-pricing-cta{% if include.featured %} r-tier-cta--featured{% endif %}"
-    href="{{ include.cta_href | default: '#waitlist' }}"
+    href="{{ include.cta_href | default: '/account/?intent=trial' }}"
     data-tier="{% if include.name == 'Free' %}free{% elsif include.name == 'Pro' %}paid{% else %}waitlist{% endif %}"
+    {% if include.cta_monthly_href %}data-monthly-href="{{ include.cta_monthly_href }}"{% endif %}
+    {% if include.cta_yearly_href %}data-yearly-href="{{ include.cta_yearly_href }}"{% endif %}
   >
     {{ include.cta_text }}
   </a>
