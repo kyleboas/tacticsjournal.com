@@ -2,13 +2,68 @@
 layout: default
 ---
 
+{% assign is_paid_post = false %}
+{% if page.access == "paid" %}
+  {% assign is_paid_post = true %}
+{% endif %}
+
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <p class="post-date">{{ page.date | date: "%d %B %Y" }}</p>
 
-  <div class="entry">
-   {{ content }}
+  <div class="entry" id="post-content">
+    {% assign content_parts = content | split: "<!--more-->" %}
+    {% assign excerpt = content_parts[0] %}
+    {% assign full_content = content_parts[1] | default: "" %}
+
+    {{ excerpt }}
+
+    {% if is_paid_post %}
+      <div id="paywall-cta" style="display: none;">
+        <p>This is a paid research post.</p>
+        <a href="#" id="paywall-subscribe-button" class="button">Subscribe to Pro</a>
+        <p>Already a subscriber? <a href="/account/">Sign in</a>.</p>
+      </div>
+      <div id="full-content" style="display: none;">
+        {{ full_content }}
+      </div>
+    {% else %}
+      {{ full_content }}
+    {% endif %}
   </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const isPaidPost = {{ is_paid_post | default: false }};
+      const paywallCta = document.getElementById('paywall-cta');
+      const fullContentDiv = document.getElementById('full-content');
+
+      if (isPaidPost) {
+        const response = await fetch('/api/account/session');
+        if (response.ok) {
+          const data = await response.json();
+          // For now, assume if logged in, they have access. Later, check pro_status
+          // For 1.7.2, we need a robust check here.
+          const hasProAccess = data.user && data.user.pro_status; // Assuming pro_status will be returned
+          if (hasProAccess) {
+            fullContentDiv.style.display = 'block';
+            if (paywallCta) paywallCta.style.display = 'none';
+          } else {
+            fullContentDiv.style.display = 'none';
+            if (paywallCta) paywallCta.style.display = 'block';
+          }
+        } else {
+          // Error or no session, show paywall
+          fullContentDiv.style.display = 'none';
+          if (paywallCta) paywallCta.style.display = 'block';
+        }
+      } else {
+        // Not a paid post, show full content if it exists
+        if (fullContentDiv) fullContentDiv.style.display = 'block';
+        if (paywallCta) paywallCta.style.display = 'none';
+      }
+    });
+  </script>
 
 
   <div class="post-navigation">
