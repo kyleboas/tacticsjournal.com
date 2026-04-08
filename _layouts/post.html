@@ -12,16 +12,25 @@ layout: default
   <p class="post-date">{{ page.date | date: "%d %B %Y" }}</p>
 
   <div class="entry" id="post-content">
-    {% assign content_parts = content | split: "<!--more-->" %}
+    {% assign content_parts = content | split: "<!---more--->" %}
+    {% if content_parts.size == 1 %}
+      {% assign content_parts = content | split: "<!--more-->" %}
+    {% endif %}
+
     {% assign excerpt = content_parts[0] %}
-    {% assign full_content = content_parts[1] | default: "" %}
+    {% assign full_content = "" %}
+    {% if content_parts.size > 1 %}
+      {% for part in content_parts offset:1 %}
+        {% assign full_content = full_content | append: part %}
+      {% endfor %}
+    {% endif %}
 
     {{ excerpt }}
 
     {% if is_paid_post %}
-      <div id="paywall-cta" style="display: none;">
+      <div id="paywall-cta">
         <p>This is a paid research post.</p>
-        <a href="#" id="paywall-subscribe-button" class="button">Subscribe to Pro</a>
+        <a href="/research/about/" id="paywall-subscribe-button" class="button">Subscribe to Pro</a>
         <p>Already a subscriber? <a href="/account/">Sign in</a>.</p>
       </div>
       <div id="full-content" style="display: none;">
@@ -38,29 +47,29 @@ layout: default
       const paywallCta = document.getElementById('paywall-cta');
       const fullContentDiv = document.getElementById('full-content');
 
-      if (isPaidPost) {
+      if (!isPaidPost) return;
+
+      try {
         const response = await fetch('/api/account/session');
-        if (response.ok) {
-          const data = await response.json();
-          // For now, assume if logged in, they have access. Later, check pro_status
-          // For 1.7.2, we need a robust check here.
-          const hasProAccess = data.user && data.user.pro_status; // Assuming pro_status will be returned
-          if (hasProAccess) {
-            fullContentDiv.style.display = 'block';
-            if (paywallCta) paywallCta.style.display = 'none';
-          } else {
-            fullContentDiv.style.display = 'none';
-            if (paywallCta) paywallCta.style.display = 'block';
-          }
+        if (!response.ok) {
+          if (paywallCta) paywallCta.style.display = 'block';
+          if (fullContentDiv) fullContentDiv.style.display = 'none';
+          return;
+        }
+
+        const data = await response.json();
+        const hasPaidAccess = Boolean(data?.user?.has_paid_access);
+
+        if (hasPaidAccess) {
+          if (fullContentDiv) fullContentDiv.style.display = 'block';
+          if (paywallCta) paywallCta.style.display = 'none';
         } else {
-          // Error or no session, show paywall
-          fullContentDiv.style.display = 'none';
+          if (fullContentDiv) fullContentDiv.style.display = 'none';
           if (paywallCta) paywallCta.style.display = 'block';
         }
-      } else {
-        // Not a paid post, show full content if it exists
-        if (fullContentDiv) fullContentDiv.style.display = 'block';
-        if (paywallCta) paywallCta.style.display = 'none';
+      } catch (_error) {
+        if (paywallCta) paywallCta.style.display = 'block';
+        if (fullContentDiv) fullContentDiv.style.display = 'none';
       }
     });
   </script>
