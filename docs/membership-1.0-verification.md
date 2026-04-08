@@ -10,10 +10,15 @@ Branch: `feat/membership-1.0-audit-and-fixes`
 - `npm test` (passes in local workspace via smoke verification script)
   - output: `Smoke verification passed (12 files present).`
 
-### In-progress / blocked checks
+### Jekyll build
 
 - `bundle exec jekyll build`
-  - blocked in this environment: `bundle: command not found`
+  - PASS — site built successfully in ~250s
+  - No errors; one Sass @import deprecation warning; one Liquid warning in feed.xml
+  - Output: `_site/` contains all expected pages (account/, research/, functions/, etc.)
+  - Ruby 3.2.3 (system) + bundler 4.0.10 (user-install) + Jekyll 4.4.1
+  - Gems installed to `vendor/bundle` (gitignored)
+  - Note: Gemfile and Gemfile.lock are gitignored (deployed via Cloudflare Pages, not Jekyll)
 
 ### Automated QA script added
 
