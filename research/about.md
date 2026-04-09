@@ -4,7 +4,8 @@ layout: page
 permalink: /research/about/
 hide_title: true
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/03/22/Image-22Mar2026_09:00:35.png"
-description: "Tactics Journal research monitors more football content than any person could, across leagues, languages, and cultures, and autonomously writes reports on what it finds. Start your trial or subscribe to Pro."---
+description: "Tactics Journal research monitors more football content than any person could, across leagues, languages, and cultures, and autonomously writes reports on what it finds. Start your trial or subscribe to Pro."
+---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/research/graphics.css" />
@@ -140,34 +141,9 @@ description: "Tactics Journal research monitors more football content than any p
 
   <div class="r-pricing-graphic">
     <div class="r-pricing-grid">
-      {% include research-pricing-card.html
-        name="Free"
-        description="See what you’ve been missing."
-        price="$0"
-        price_suffix="month"
-        item_1="1 full report per week"
-        item_2="Preview of every report"
-        item_3="Delivered by email"
-        cta_text="Start free trial"
-        cta_href="/account/?intent=trial"
-      %}
+      {% include research-pricing-card.html name="Free" description="See what you’ve been missing." price="$0" price_suffix="month" item_1="1 full report per week" item_2="Preview of every report" item_3="Delivered by email" cta_text="Start free trial" cta_href="/account/?intent=trial" %}
 
-      {% include research-pricing-card.html
-        name="Pro"
-        description="Every report. Every trend. Daily."
-        price="$15"
-        price_yearly="$12"
-        price_suffix="month"
-        yearly_note="$12/mo billed annually ($144/year, save 20%)"
-        item_1="Every report in full"
-        item_2="Full archive access"
-        item_3="Delivered by email"
-        cta_text="Subscribe"
-        cta_href=site.gumroad_pro_monthly_url
-        cta_monthly_href=site.gumroad_pro_monthly_url
-        cta_yearly_href=site.gumroad_pro_yearly_url
-        featured=true
-      %}
+      {% include research-pricing-card.html name="Pro" description="Every report. Every trend. Daily." price="$15" price_yearly="$12" price_suffix="month" yearly_note="$12/mo billed annually ($144/year, save 20%)" item_1="Every report in full" item_2="Full archive access" item_3="Delivered by email" cta_text="Subscribe" cta_href=site.gumroad_pro_monthly_url cta_monthly_href=site.gumroad_pro_monthly_url cta_yearly_href=site.gumroad_pro_yearly_url featured=true %}
     </div>
   </div>
 
