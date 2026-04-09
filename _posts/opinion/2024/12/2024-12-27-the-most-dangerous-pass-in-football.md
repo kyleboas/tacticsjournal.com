@@ -4,7 +4,7 @@ date: 2024-12-27 12:00 UTC
 title: "The most dangerous pass in football"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/24/Image-24Dec2024_19:24:18.png"
+image: "/images/uploads/2024/12/24/Image-24Dec2024_19:24:18.png"
 ---
 
 A low cross from the corner into the six-yard box with a forward attacking the near post, a forward attacking the middle of the six-yard box, and a player sneaking up on the back post has to be the most dangerous pass in football.
@@ -13,7 +13,7 @@ A low cross from the corner into the six-yard box with a forward attacking the n
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/24/Image-24Dec2024_19:24:18.png">
+    <img src="/images/uploads/2024/12/24/Image-24Dec2024_19:24:18.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - A low cross from the right corner is touched on from the forward attacking the near post to the back post for the tap-in goal. </figcaption>
 </figure>
 

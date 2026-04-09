@@ -7,7 +7,7 @@ categories:
 tags:
 - "Manchester United"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/15/Image-15Dec2025_16:38:09.png"
+image: "/images/uploads/2025/12/15/Image-15Dec2025_16:38:09.png"
 ---
 
 
@@ -16,7 +16,7 @@ When Manchester United have the ball, they are aligned on the diagonal in a 4-3-
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/15/Image-15Dec2025_16:38:09.png">
+    <img src="/images/uploads/2025/12/15/Image-15Dec2025_16:38:09.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester United's shape with the ball on the diagonal.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ It’s hard to defend passes on the ground when players are aligned on the same 
 You have to assign roles to these players instead of positions to fully appreciate what they are doing, what they are actually trying to achieve instead of what we want them to achieve when we look at rigid formations in straight lines from back to front.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/15/Image-15Dec2025_16:38:26.png">
+    <img src="/images/uploads/2025/12/15/Image-15Dec2025_16:38:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Manchester United's defensive shape against Bournemouth. Amad Diallo tracks back to man-mark the Bournemouth left-back Adrien Truffert.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ When Bukayo Saka tracks back for Arsenal, we don’t call him a wing-back, we ca
 Amad Diallo tracks back to mark the left-back in defense, and cover for the right-back when the back post is open. But he isn’t good at tracking the ball or his man. He’s not blazing fast in a straight line like Bryan Mbeumo is. He’s alright in the duels but he’s not a player you’d want to have in the back-line.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/15/Image-15Dec2025_17:54:40.png">
+    <img src="/images/uploads/2025/12/15/Image-15Dec2025_17:54:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Manchester United versus Brighton: Bryan Mbeumo tracks back to sweep in transition to defense and Amad Diallo stays further forward.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Bryan Mbeumo was the one to track back and mark the speedy Yankuba Minteh, to de
 United align on the diagonal from left to right. When they lose the ball, their right side is more exposed in transition. Either Mbeumo or Amad have to track back and sweep. The strong left side presses and covers while the weak far side sweeps until they regain control.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/12/15/Image-15Dec2025_18:49:11.png">
+    <img src="/images/uploads/2025/12/15/Image-15Dec2025_18:49:11.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Manchester United versus Everton: Bryan Mbeumo tracks back to help Noussair Mazraoui double team Jack Grealish.</figcaption>
 </figure>
 

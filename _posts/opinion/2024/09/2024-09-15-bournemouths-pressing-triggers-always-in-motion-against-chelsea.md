@@ -8,7 +8,7 @@ tags:
 - "Chelsea"
 - "Bournemouth"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/15/Image-15Sep2024_00:51:05.png"
+image: "/images/uploads/2024/09/15/Image-15Sep2024_00:51:05.png"
 ---
 
 Bournemouth's pressing triggers were well timed to always apply pressure in an athletic stance to the back of Cole Palmer and Noni Madueke when they received facing their own goal, while curving the structure of their press to block off the pass infield.
@@ -16,12 +16,12 @@ Bournemouth's pressing triggers were well timed to always apply pressure in an a
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/15/Image-15Sep2024_01:50:29.png">
+    <img src="/images/uploads/2024/09/15/Image-15Sep2024_01:50:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Chelsea building up from the back from goalkeeper Robert Sanchez.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/15/Image-15Sep2024_01:51:05.png">
+    <img src="/images/uploads/2024/09/15/Image-15Sep2024_01:51:05.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Bournemouth's pressing movement once the ball makes its way from Robert Sanchez to Cole Palmer.</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Justin Kluivert would follow the ball out wide, and someone else would then shif
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/15/Image-15Sep2024_01:51:08.png">
+    <img src="/images/uploads/2024/09/15/Image-15Sep2024_01:51:08.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Even when Cole Palmer can turn to pass to Noni Madueke, Bournemouth curve their runs in the press to force Chelsea backwards.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Bournemouth would hand off their marking assignments to one another, depending o
 Like Moises Caicedo, the goal was also to block off the pass centrally into Nicolas Jackson's feet. For example, in **Figure 2.1**, Justin Kluivert presses wide and then switches marking assignments with Marcus Tavernier to cover shadow Moises Caicedo. That then allowed Kluivert to move to mark the space Nicolas Jackson would attack.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/15/Image-15Sep2024_01:51:10.png">
+    <img src="/images/uploads/2024/09/15/Image-15Sep2024_01:51:10.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Cole Palmer moves outside of Noni Madueke to the touchline, forcing left-back Milos Kerkez to mark him instead of Lewis Cook. Palmer dummies the ball, letting it roll to Madueke, then Madueke turns into space.</figcaption>
 </figure>
 

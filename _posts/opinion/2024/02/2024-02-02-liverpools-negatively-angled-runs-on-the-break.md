@@ -16,22 +16,22 @@ Liverpool's wide players angle their runs too narrow on the counter. If they wid
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/jqkBwpJ.jpeg">
+    <img src="https://i.imgur.com/jqkBwpJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Diogo Jota wins the ball from Cole Palmer.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/gtXTb2Z.jpeg">
+    <img src="https://i.imgur.com/gtXTb2Z.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/fVPOvIZ.jpeg">
+    <img src="https://i.imgur.com/fVPOvIZ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/foUWsFc.jpeg">
+    <img src="https://i.imgur.com/foUWsFc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Diogo Jota passes to Dominik Szoboszlai.</figcaption>
 </figure> 
 
@@ -42,12 +42,12 @@ The positive is that Chelsea's back-line are forced to move closer together, tra
 A negative is that this tightens the space at which Diogo Jota has to carry into, and it makes it awkward for Luis Diaz. If Nunez was to receive the ball, he would have very little room to dribble to shoot or cross.  
 
 <figure>
-    <img src="https://i.imgur.com/00GnExI.jpeg">
+    <img src="https://i.imgur.com/00GnExI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Dominik Szoboszlai passes to Luis Diaz.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/pEU37qu.jpeg">
+    <img src="https://i.imgur.com/pEU37qu.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6</figcaption>
 </figure> 
 
@@ -58,17 +58,17 @@ Had Szoboszlai angled his run straight initially when Jota was running towards t
 That was an example of how they shouldn't make runs on the break. Here is an example of Liverpool making intelligent runs, using width, running wider on the break. Both teams are compact because this sequence started from a throw-in. 
 
 <figure>
-    <img src="https://i.imgur.com/kyW8nbZ.jpeg">
+    <img src="https://i.imgur.com/kyW8nbZ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Luis Diaz receives the ball, on the turn.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/deTNDRb.jpeg">
+    <img src="https://i.imgur.com/deTNDRb.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/6n1SPMb.jpeg">
+    <img src="https://i.imgur.com/6n1SPMb.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Luis Diaz passes to Connor Bradley.</figcaption>
 </figure> 
 
@@ -77,7 +77,7 @@ Bradley angles his run wide to the right and then curves in straight to the box,
 The initial width takes advantage of Chelsea's already compact shape, attack the space wide, and the angle at which Bradley receives the ball is positive, running towards the right post.  
 
 <figure>
-    <img src="https://i.imgur.com/LlUNHAl.jpeg">
+    <img src="https://i.imgur.com/LlUNHAl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 </figcaption>
 </figure> 
 
@@ -88,7 +88,7 @@ This is what Liverpool need to do more of. They need to use the full width of th
 Not too wide, the distance between each Liverpool player can't be too large, but angle the run so that when you receive the ball you'd have five to ten yards of space ahead instead of two yards or less. Open the option to cut-in for a shot, cross, pass into the box angled towards the goal not moving away from the goal. 
 
 <figure>
-    <img src="https://i.imgur.com/4pwdwPo.jpeg">
+    <img src="https://i.imgur.com/4pwdwPo.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Conor Bradley shoots and scores, under pressure.</figcaption>
 </figure>  
 

@@ -16,41 +16,41 @@ In the first half, PSG were finding Ousmane Dembélé on the far post, but Barco
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/w2w9SiR.jpeg">
+    <img src="https://i.imgur.com/w2w9SiR.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bradley Barcola crosses low to Ousmane Dembélé.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SWAJA3l.jpeg">
+    <img src="https://i.imgur.com/SWAJA3l.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ousmane Dembélé scores.</figcaption>
 </figure> 
 
 Barcelona were fairly compact, allowing space wide for Barcola and Dembélé to attack. Their first goal originated from a pass across the box to the far post, left to right, from Barcola to Dembélé.
 
 <figure>
-    <img src="https://i.imgur.com/XPU0iks.jpeg">
+    <img src="https://i.imgur.com/XPU0iks.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Ousmane Dembélé receives the ball, but no one makes a run across goal for Dembélé to cross to.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/olTpSuY.jpeg">
+    <img src="https://i.imgur.com/olTpSuY.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Ousmane Dembélé telling the forwards to make the near post run.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/NaWsbyd.jpeg">
+    <img src="https://i.imgur.com/NaWsbyd.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Ousmane Dembélé motioning that he'll whip in an in-swinging cross.</figcaption>
 </figure> 
 
 The problem was the pass was also on right to left when Dembélé received the ball, but no one was making the run. In the 42nd minute, Dembélé finally motioned to Barcola and Mbappe, but mainly Mbappe, to make that run towards the near post so he could whip in a low in-swinging cross.
 
 <figure>
-    <img src="https://i.imgur.com/A7fclcf.jpeg">
+    <img src="https://i.imgur.com/A7fclcf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Kylian Mbappe makes the run across to goal towards the near post when Ousmane Dembélé receives the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/86B9dX2.jpeg">
+    <img src="https://i.imgur.com/86B9dX2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Kylian Mbappe making that near post run again when Ousmane Dembélé receives the ball.</figcaption>
 </figure> 
 
@@ -59,7 +59,7 @@ We immediately see the change in the second half. Now Mbappe is making that run 
 Now Dembélé has the choice to cross early, but that run from Mbappe also pins the Barcelona defender marking him further back, opening space at the top of the box. There's going to be a large pocket of space between Mbappe and Barcelona's second line. 
 
 <figure>
-    <img src="https://i.imgur.com/W0tWSKU.jpeg">
+    <img src="https://i.imgur.com/W0tWSKU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - After a corner, PSG pin Barcelona back, opening space for Vitinha to shoot and score.</figcaption>
 </figure> 
 

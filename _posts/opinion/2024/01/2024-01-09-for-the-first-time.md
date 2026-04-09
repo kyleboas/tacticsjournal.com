@@ -33,35 +33,35 @@ Jose Mourinho:
 Jose put Ángel Di María on the left-wing to attack, cross, and preoccupy Dani Alves while Ronaldo fully focused on scoring goals central. Genius. 
 
 <figure>
-    <img src="https://i.imgur.com/DLFQdow.jpeg">
+    <img src="https://i.imgur.com/DLFQdow.jpeg" loading="lazy" decoding="async">
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/BVmYtvZ.jpeg">
+    <img src="https://i.imgur.com/BVmYtvZ.jpeg" loading="lazy" decoding="async">
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/q2COZmD.jpeg">
+    <img src="https://i.imgur.com/q2COZmD.jpeg" loading="lazy" decoding="async">
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/tjPa99N.jpeg">
+    <img src="https://i.imgur.com/tjPa99N.jpeg" loading="lazy" decoding="async">
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/RdVW7kL.jpeg">
+    <img src="https://i.imgur.com/RdVW7kL.jpeg" loading="lazy" decoding="async">
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/pqnYIul.jpeg">
+    <img src="https://i.imgur.com/pqnYIul.jpeg" loading="lazy" decoding="async">
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/qJE9REp.jpeg">
+    <img src="https://i.imgur.com/qJE9REp.jpeg" loading="lazy" decoding="async">
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/2YkYbak.jpeg">
+    <img src="https://i.imgur.com/2YkYbak.jpeg" loading="lazy" decoding="async">
 </figure>
 
 > "He scored the winning goal, incredible header, and we won the cup."

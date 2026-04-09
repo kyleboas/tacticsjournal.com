@@ -10,7 +10,7 @@ tags:
 - "Relationism"
 - "Allsvenskan"
 - "Champions League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/22/Image-22Aug2024_00:35:50.png"
+image: "/images/uploads/2024/08/22/Image-22Aug2024_00:35:50.png"
 ---
 
 Up until around the 35th minute, Malmö had trouble stringing together an attack against Sparta Prague. They came alive when wingers Sebastian Nanasi and Hugo Bolin started moving to the ball side.
@@ -18,7 +18,7 @@ Up until around the 35th minute, Malmö had trouble stringing together an attack
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/22/Image-22Aug2024_01:22:09.png">
+    <img src="/images/uploads/2024/08/22/Image-22Aug2024_01:22:09.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Sebastian Nanasi moves to the right from the left wing.</figcaption>
 </figure>
 

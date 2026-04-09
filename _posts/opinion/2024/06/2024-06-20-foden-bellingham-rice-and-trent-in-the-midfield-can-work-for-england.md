@@ -9,7 +9,7 @@ tags:
 - "Serbia"
 - "Gareth Southgate"
 - "Euro 2024"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/20/Image-20Jun2024_00:12:34.png?raw=true"
+image: "/images/uploads/2024/06/20/Image-20Jun2024_00:12:34.png"
 ---
 
 The system England used against Serbia, centered around Phil Foden, Jude Bellingham, Trent Alexander-Arnold, and Declan Rice in midfield, can work but is dependent on passes funneled through the middle and the left-back remaining active down the wing.
@@ -17,7 +17,7 @@ The system England used against Serbia, centered around Phil Foden, Jude Belling
 <!---more--->
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/16/Image-16Jun2024_23:20:08.png?raw=true">
+    <img src="/images/uploads/2024/06/16/Image-16Jun2024_23:20:08.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - England's in-possession formation against Serbia.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Phil Foden can invert from the left wing because left-back Kiernan Trippier is t
 When you take players out of the center of the pitch, then England can't progress on the ground; they have to go vertical, which they did. This issue compounds because Declan Rice only passes side to side. Trent Alexander-Arnold was progressing the ball, but due to the fact he is often wide right, he can't thread a pass on the ground to Kane, Bellingham, or Foden. They are too far away from him, with bodies in the way. 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_15:33:09.png?raw=true">
+    <img src="/images/uploads/2024/06/17/Image-17Jun2024_15:33:09.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - England's passes in the final third with the zone Phil Foden normally receives highlighted. <a href="https://x.com/begriffis/status/1802473432572891193?s=46&t=EwWKBMyY400eGGXYwoRkiw">Image credit to Ben Griffis</a></figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ The selection of players is not the problem; the selection of passes is. You mig
 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/20/Image-20Jun2024_12:58:00.png?raw=true">
+    <img src="/images/uploads/2024/06/20/Image-20Jun2024_12:58:00.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Phil Foden's touch map against Serbia.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ This is the problem with having Declan Rice as the anchor. This will go overlook
 It is not a lack of ability on Rice's part, it is a conscious mindset to always look forward when everyone else is looking back at the ball. It is a switch he can flip because I know he knows he can play those passes.
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/17/Image-17Jun2024_14:59:30.png?raw=true">
+    <img src="/images/uploads/2024/06/17/Image-17Jun2024_14:59:30.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Minute 4:34 against Serbia: John Stones carries forward and passes to Phil Foden. Foden one-touch passes to Jude Bellingham, who moves immediately into the box, and then Jude attempts a pass back to Foden.</figcaption>
 </figure>
 

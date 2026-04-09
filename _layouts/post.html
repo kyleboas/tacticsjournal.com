@@ -2,13 +2,77 @@
 layout: default
 ---
 
+{% assign is_paid_post = false %}
+{% if page.access == "paid" %}
+  {% assign is_paid_post = true %}
+{% endif %}
+
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <p class="post-date">{{ page.date | date: "%d %B %Y" }}</p>
 
-  <div class="entry">
-   {{ content }}
+  <div class="entry" id="post-content">
+    {% assign content_parts = content | split: "<!---more--->" %}
+    {% if content_parts.size == 1 %}
+      {% assign content_parts = content | split: "<!--more-->" %}
+    {% endif %}
+
+    {% assign excerpt = content_parts[0] %}
+    {% assign full_content = "" %}
+    {% if content_parts.size > 1 %}
+      {% for part in content_parts offset:1 %}
+        {% assign full_content = full_content | append: part %}
+      {% endfor %}
+    {% endif %}
+
+    {{ excerpt }}
+
+    {% if is_paid_post %}
+      <div id="paywall-cta">
+        <p>This is a paid research post.</p>
+        <a href="/research/about/" id="paywall-subscribe-button" class="button">Subscribe to Pro</a>
+        <p>Already a subscriber? <a href="/account/">Sign in</a>.</p>
+      </div>
+      <div id="full-content" style="display: none;">
+        {{ full_content }}
+      </div>
+    {% else %}
+      {{ full_content }}
+    {% endif %}
   </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const isPaidPost = {{ is_paid_post | default: false }};
+      const paywallCta = document.getElementById('paywall-cta');
+      const fullContentDiv = document.getElementById('full-content');
+
+      if (!isPaidPost) return;
+
+      try {
+        const response = await fetch('/api/account/session');
+        if (!response.ok) {
+          if (paywallCta) paywallCta.style.display = 'block';
+          if (fullContentDiv) fullContentDiv.style.display = 'none';
+          return;
+        }
+
+        const data = await response.json();
+        const hasPaidAccess = Boolean(data?.user?.has_paid_access);
+
+        if (hasPaidAccess) {
+          if (fullContentDiv) fullContentDiv.style.display = 'block';
+          if (paywallCta) paywallCta.style.display = 'none';
+        } else {
+          if (fullContentDiv) fullContentDiv.style.display = 'none';
+          if (paywallCta) paywallCta.style.display = 'block';
+        }
+      } catch (_error) {
+        if (paywallCta) paywallCta.style.display = 'block';
+        if (fullContentDiv) fullContentDiv.style.display = 'none';
+      }
+    });
+  </script>
 
 
   <div class="post-navigation">
@@ -156,6 +220,6 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
-<script src="/js/suggest.js"></script>
-<script src="/js/search.js"></script>
+<script src="/js/suggest.js" defer></script>
+<script src="/js/search.js" defer></script>
 </article>

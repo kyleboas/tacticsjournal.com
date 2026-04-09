@@ -7,7 +7,7 @@ categories:
 tags:
 - "Liverpool"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/29/Image-29Sep2024_00:13:59.png"
+image: "/images/uploads/2024/09/29/Image-29Sep2024_00:13:59.png"
 tweet: "There is no point in Liverpool having a quick center-forward like Darwin Nunez if he is behind Mohamed Salah when he receives the ball on the halfway line. They should always want to have him positioned in line with Salah to provide that immediate run..."
 ---
 
@@ -16,7 +16,7 @@ There is no point in Liverpool having a quick center-forward like Darwin Nunez i
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/28/Image-28Sep2024_23:59:40.png">
+    <img src="/images/uploads/2024/09/28/Image-28Sep2024_23:59:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Darwin Nunez drops back and behind Mohamed Salah when he receives the ball on the halfway line. </figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ He is not particularly good at progressing play forward with his back to goal an
 If the run is timed well, he is a lethal weapon in transition to attack because he can beat the majority of defenders in a foot race. More lethal than any other center forward.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/28/Image-28Sep2024_23:59:42.png">
+    <img src="/images/uploads/2024/09/28/Image-28Sep2024_23:59:42.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Where Darwin Nunez should be when Mohamed Salah receives the ball on the halfway line.</figcaption>
 </figure>
 

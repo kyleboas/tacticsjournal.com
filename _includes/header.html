@@ -15,7 +15,7 @@
 
   <nav class="site-nav" aria-label="Primary">
     <a href="{{ site.baseurl }}/" {% if on_opinion %}class="active"{% endif %}>Opinion</a>
-    <a href="{{ site.baseurl }}/research/about/" {% if on_research %}class="active"{% endif %}>Research</a>
+    <a href="{{ site.baseurl }}/research/about" {% if on_research %}class="active"{% endif %}>Research</a>
     <span class="site-nav-divider"></span>
     <a href="{{ site.baseurl }}/about/">About</a>
     <a href="{{ site.baseurl }}/archive/">Archive</a>
@@ -33,19 +33,14 @@
       </button>
     </form>
 
-    <form id="site-inline-subscribe" class="site-inline-field site-inline-field-subscribe" data-subscribe-form action="https://tacticsjournal-subscribe.heyboas.workers.dev" method="post">
-      <input type="hidden" name="tag" value="opinion" />
-      <input type="text" name="website" value="" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0;" />
-      <input type="email" name="email" placeholder="Enter your email..." aria-label="Email address" autocomplete="email" required />
-      <button type="submit" class="site-inline-subscribe-btn" aria-label="Subscribe">Subscribe</button>
-    </form>
+
 
     <a href="{{ site.baseurl }}/search/" class="site-action site-action-toggle" data-inline-toggle="search" aria-label="Search" aria-expanded="false" aria-controls="site-inline-search">
       <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16L21 21"/></svg>
     </a>
 
-    <a href="{{ site.baseurl }}/subscribe/" class="site-action site-action-toggle site-action-subscribe-toggle" data-inline-toggle="subscribe" aria-label="Subscribe" aria-expanded="false" aria-controls="site-inline-subscribe">
-      <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c1.5-3.5 4.1-5.25 7-5.25S17.5 16.5 19 20"/></svg>
+    <a href="{{ site.baseurl }}/account/" class="site-action site-action-account" aria-label="Account">
+      <svg viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4zM5 20s1.5-3.5 7-3.5 7 3.5 7 3.5"/></svg>
     </a>
 
     <details class="site-menu">

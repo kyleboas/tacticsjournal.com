@@ -7,7 +7,7 @@ categories:
 tags:
 - "Brentford"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/20/Image-20Aug2024_16:33:21.png"
+image: "/images/uploads/2024/08/20/Image-20Aug2024_16:33:21.png"
 ---
 
 Brentford is built to counter, but what they do when they counter is interesting. Their rest-defense sits back much deeper than most teams would, meaning that they can counter you, but you can't counter them if you win back the ball.
@@ -15,7 +15,7 @@ Brentford is built to counter, but what they do when they counter is interesting
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/19/Image-19Aug2024_02:05:29.png">
+    <img src="/images/uploads/2024/08/19/Image-19Aug2024_02:05:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Brentford building up from the back, playing out of their own end.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ That space tempts Crystal Palace's defenders to move forward. Once they move for
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/20/Image-20Aug2024_16:33:19.png">
+    <img src="/images/uploads/2024/08/20/Image-20Aug2024_16:33:19.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Four defenders and one midfielder stays back for Brentford once they break into Crystal Palace's half. </figcaption>
 </figure>
 

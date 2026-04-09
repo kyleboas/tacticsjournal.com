@@ -21,7 +21,7 @@ This was a nice short off-season break, but I'll be getting back to that the dai
 - - - 
 
 <figure>
-    <img src="https://i.imgur.com/phj4fbE.jpg">
+    <img src="https://i.imgur.com/phj4fbE.jpg" loading="lazy" decoding="async">
 </figure>
 
 [Join 740+ other people in our Discord server](https://discord.gg/pdnPS3u5hW) dedicated to discussing football tactics. Tactics Discord! 

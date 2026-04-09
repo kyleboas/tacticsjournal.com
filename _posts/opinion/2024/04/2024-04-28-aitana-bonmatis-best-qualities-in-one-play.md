@@ -17,53 +17,53 @@ If I had to show someone one play that showcases Aitana Bonmati's best qualities
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/JtjApSq.jpeg">
+    <img src="https://i.imgur.com/JtjApSq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Aitana Bonmatí heads the ball down to Keira Walsh.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CGWZkm1.jpeg">
+    <img src="https://i.imgur.com/CGWZkm1.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Aitana Bonmatí tells Keira Walsh to take her time, and the Walsh passes to Patricia Guijarro.</figcaption>
 </figure> 
 
 Bonmatí knows that run is being made ahead so she lets Walsh know she should take her time. The more time Walsh and Guijarro take, the more space Bonmatí has as the Chelsea defense organize. When they organize, they get in that more predictable shape, and the run creates the pocket.
 
 <figure>
-    <img src="https://i.imgur.com/YQkbBE7.jpeg">
+    <img src="https://i.imgur.com/YQkbBE7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Aitana Bonmatí scans to her right and sees the run ahead being made, which opens a pocket of space between Chelsea's defense and midfield.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/avx0GJW.jpeg">
+    <img src="https://i.imgur.com/avx0GJW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Aitana Bonmatí makes the run into the pocket of space.</figcaption>
 </figure> 
 
 Once she scans, she sees the run again and then begins her run, anticipating the pass from Guijarro. 
 
 <figure>
-    <img src="https://i.imgur.com/QJYHtbH.jpeg">
+    <img src="https://i.imgur.com/QJYHtbH.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Patricia Guijarro passes to Aitana Bonmatí.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/nEfZLxU.jpeg">
+    <img src="https://i.imgur.com/nEfZLxU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Aitana Bonmatí takes her first touch with her right foot, close to her body.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/1zl6aqX.jpeg">
+    <img src="https://i.imgur.com/1zl6aqX.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Aitana Bonmatí takes a second touch with her left foot to draw in the defender.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/tDdfJcQ.jpeg">
+    <img src="https://i.imgur.com/tDdfJcQ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8 - Aitana Bonmatí performs a step-over to lock the defender in place.</figcaption>
 </figure> 
 
 The first touch is close to her body, which draws in the Chelsea defender from her right, opening space to the right. The second touch then locks the defender's knees in, with her hips pointed towards Bonamtí's left side. The defender's back is now to the space, and she'll have to fully rotate her hips to track Bonmatí when she takes her next touch. 
 
 <figure>
-    <img src="https://i.imgur.com/YVM26wM.jpeg">
+    <img src="https://i.imgur.com/YVM26wM.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.9 - Aitana Bonmatí scans ahead after taking the touch to her right.</figcaption>
 </figure> 
 
@@ -74,29 +74,29 @@ One, if she takes the shot towards the far post, instead of waiting, it will lik
 Two, if she takes a touch, Buchanan may either shield the goalkeeper's vision when Bonmatí takes the shot, if Buchanan overruns the ball, or the ball might deflect off Buchanan. 
 
 <figure>
-    <img src="https://i.imgur.com/0b2utm7.jpeg">
+    <img src="https://i.imgur.com/0b2utm7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.10 - Aitana Bonmatí takes another touch.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/yBYIh2Z.jpeg">
+    <img src="https://i.imgur.com/yBYIh2Z.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.11 - Aitana Bonmatí shoots as the Chelsea defender enters the path of the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/yzZVobg.jpeg">
+    <img src="https://i.imgur.com/yzZVobg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.12 - Aitana Bonmatí's contact with the inside of her foot for the shot.</figcaption>
 </figure> 
 
 The touch gives Bonmatí the necessary separation from Charles, and Buchanan is in a position where she could either block the shot or it will deflect off her and into the goal. Added level of unpredictability for the goalkeeper if the ball deflects. 
 
 <figure>
-    <img src="https://i.imgur.com/rcB93RE.jpeg">
+    <img src="https://i.imgur.com/rcB93RE.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.13 - Shot goes between the legs of the Chelsea defender and deflects to the left.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/KDbtNvZ.jpeg">
+    <img src="https://i.imgur.com/KDbtNvZ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.14 - Ball bounces into the bottom left hand corner near the post.</figcaption>
 </figure> 
 

@@ -18,29 +18,29 @@ With Trent Alexander-Arnold inverted and Tsimikas wide, once the ball is played 
 Liverpool have trouble progressing out of their own half when they try to play through Konstantinos Tsimikas because the only player moving to open up for the pass is Ryan Gravenberch, who moves from the left half-space to the byline. Everyone else is static. Playing through Virgil Van Dijk and Ibramihia Konate is different; there are 2-3 players moving, looking to get open.
 
 <figure>
-    <img src="https://i.imgur.com/HvY85wm.jpg">
+    <img src="https://i.imgur.com/HvY85wm.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Virgil Van Dijk passes to Konstantinos Tsimikas.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/TWLj0kH.jpg">
+    <img src="https://i.imgur.com/TWLj0kH.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ryan Gravenberch, Alexis Mac Allister, and Virgil Van Dijk all move when Konstantinos Tsimikas receives the ball. Tsimikas passes to Mac Allister.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/mQhrk3T.jpg">
+    <img src="https://i.imgur.com/mQhrk3T.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Alexis Mac Allister has time to switch to Mohamed Salah.</figcaption>
 </figure> 
 
 When they pass wide, Tsimikas has three options to move the ball. He has the time and space to pick the pass that will advance the ball into Everton's half. 
 
 <figure>
-    <img src="https://i.imgur.com/WVaWRSn.jpg">
+    <img src="https://i.imgur.com/WVaWRSn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Virgil Van Dijk passes to Konstantinos Tsimikas.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ejx81FO.jpg">
+    <img src="https://i.imgur.com/ejx81FO.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - The only player that moves is Ryan Gravenberch. Everyone else is static.</figcaption>
 </figure> 
 

@@ -4,7 +4,7 @@ date: 2024-07-08 11:00 UTC
 title: "Football is less attractive"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_23:41:13.png"
+image: "/images/uploads/2024/07/07/Image-07Jul2024_23:41:13.png"
 ---
 
 Football has fewer entertainers than it did before because the physicality is higher, the spaces are smaller, and the schedule is more demanding. We get more football, but it is becoming less and less attractive, as Marcelo Bielsa said.
@@ -24,7 +24,7 @@ I don't blame the managers; they have to win. The players are the tactics; the p
 It is turning into American football, with players running preset plays, but the entertainment in that sport comes from being a physical freak. The problem football has is that William Saliba can't rugby tackle Phil Foden. Pepe would love that too much. Football is more about technique.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/07/Image-07Jul2024_23:37:12.png">
+    <img src="/images/uploads/2024/07/07/Image-07Jul2024_23:37:12.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Playing out, irrationally occupying space, against a rigid 5-3-2 formation.</figcaption>
 </figure>
 

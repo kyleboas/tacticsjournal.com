@@ -4,7 +4,7 @@ date: 2024-07-17 11:00 UTC
 title: "Happy Birthday, Sergio Busquets"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/16/Image-16Jul2024_16:52:34.png"
+image: "/images/uploads/2024/07/16/Image-16Jul2024_16:52:34.png"
 ---
 
 Sergio Busquets never did what you would expect him to do; that is what made him special. The defense had to wait for him because he wanted to surprise with each action. He always chose the alternative. Players rarely do that nowadays.
@@ -13,7 +13,7 @@ Sergio Busquets never did what you would expect him to do; that is what made him
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/16/Image-16Jul2024_16:52:34.png">
+    <img src="/images/uploads/2024/07/16/Image-16Jul2024_16:52:34.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Sergio Busquets passes to Andrés Iniesta.</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ You would expect Busquets to pass back to the goalkeeper, pass back to the defen
 Whatever you think plan A is, he always takes plan C or B and will only take plan A to reset. Take plan A, the defense gets into shape, and then go hunting for the next unexpected pass. He did this when he dribbled and passed. A lot of midfielders don't think like this. They want to follow a plan, a preset play. Play the quickest, safest solution.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/16/Image-16Jul2024_16:18:13.png">
+    <img src="/images/uploads/2024/07/16/Image-16Jul2024_16:18:13.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Sergio Busquets passes to Andrés Iniesta.</figcaption>
 </figure>
 

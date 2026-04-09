@@ -8,7 +8,7 @@ tags:
 - "Brighton"
 - "Nottingham Forest"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/30/Image-30Sep2024_02:02:07.png"
+image: "/images/uploads/2024/09/30/Image-30Sep2024_02:02:07.png"
 tweet: "Brighton moved their two midfielders out wide, creating two separate triangles on the wings. Nottingham Forest likes maintaining a uniform shape in defense. They won't follow the midfielders wide. This creates unique transitional moments down the wing..."
 ---
 
@@ -17,7 +17,7 @@ Brighton moved their two midfielders out wide, creating two separate triangles o
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/30/Image-30Sep2024_00:37:29.png">
+    <img src="/images/uploads/2024/09/30/Image-30Sep2024_00:37:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Brighton move their midfielders wide to escape Nottingham Forest's compact six midfielders and forwards.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ When Hinshelwood and Rutter move wide, Nottingham Forest don't overreact, but it
 Baleba is open for the pass, but the idea is to wait for the first opportunity to play through the wings. It is Brighton showing their hand to Nottingham Forest, daring them to follow them out wide to open up space in the middle, but they don't follow them wide.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/30/Image-30Sep2024_01:33:37.png">
+    <img src="/images/uploads/2024/09/30/Image-30Sep2024_01:33:37.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Brighton work the ball down the left wing.</figcaption>
 </figure>
 

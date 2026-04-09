@@ -17,32 +17,32 @@ Manchester City used constant positional rotations between the forwards and midf
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/klcQ16i.jpeg">
+    <img src="https://i.imgur.com/klcQ16i.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Sls1q6u.jpeg">
+    <img src="https://i.imgur.com/Sls1q6u.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/3VJL34u.jpeg">
+    <img src="https://i.imgur.com/3VJL34u.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/PdiMQOP.jpeg">
+    <img src="https://i.imgur.com/PdiMQOP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/R90oW44.jpeg">
+    <img src="https://i.imgur.com/R90oW44.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/9lDnD3l.jpeg">
+    <img src="https://i.imgur.com/9lDnD3l.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 </figcaption>
 </figure> 
 
@@ -51,17 +51,17 @@ When in their own half or in the middle third, City's two separate groups rotate
 The four defenders Josko Gvardiol, Nathan Ake, Manuel Akanji, and Kyle Walker did not initially move from their positions. 
 
 <figure>
-    <img src="https://i.imgur.com/YJy2ANZ.jpeg">
+    <img src="https://i.imgur.com/YJy2ANZ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/uX1R24u.jpeg">
+    <img src="https://i.imgur.com/uX1R24u.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/RcmIYsh.jpeg">
+    <img src="https://i.imgur.com/RcmIYsh.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.9 </figcaption>
 </figure> 
 
@@ -76,17 +76,17 @@ Brighton are forced to abandon their man-marking for more of a zonal approach, b
 If you follow, you leave space, if you don't you'll likely always allow a free pass because there is always a free man. If you follow and win back the ball, your forwards won't be in position to take full advantage.
 
 <figure>
-    <img src="https://i.imgur.com/xDZkF43.jpg">
+    <img src="https://i.imgur.com/xDZkF43.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Last season on 27 May 2023, Levi Colwill steps forward to mark Kevin De Bruyne.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CHYVy8n.jpg">
+    <img src="https://i.imgur.com/CHYVy8n.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Levi Colwill is caught upfield marking a man. Erling Haaland lays the ball off to Riyad Mahrez.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7hFktmI.jpg">
+    <img src="https://i.imgur.com/7hFktmI.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Erling Haaland peels around Jan Paul van Hecke, and Riyad Mahrez plays Haaland in on goal. </figcaption>
 </figure> 
 
@@ -95,24 +95,24 @@ If you follow, you leave space, if you don't you'll likely always allow a free p
 Surprisingly, Brighton didn't rectify this flaw in their defense and repeated that movement this season.
 
 <figure>
-    <img src="https://i.imgur.com/lutQ8oI.jpeg">
+    <img src="https://i.imgur.com/lutQ8oI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Brighton right center-back Jan Paul van Hecke drops with Julian Alvarez.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/HOpE6Nj.jpeg">
+    <img src="https://i.imgur.com/HOpE6Nj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Brighton right center-back Jan Paul van Hecke drops with Phil Foden. Ederson plays a pass over the top to Kyle Walker.</figcaption>
 </figure> 
 
 The rotations disorient and allow City to always have a pass free, they drop Julian Alvarez to bait Van Hecke to drop, then they play the ball over the top from Ederson to Kyle Walker. It's an easily manipulated reproducible move that makes Brighton look naive. 
 
 <figure>
-    <img src="https://i.imgur.com/9HfinWP.jpeg">
+    <img src="https://i.imgur.com/9HfinWP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Phil Foden drops to receive the ball, and Jan Paul van Hecke follows. Foden passes wide right to Kyle Walker.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/JXNnz8g.jpeg">
+    <img src="https://i.imgur.com/JXNnz8g.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Kyle Walker crosses to Kevin De Bruyne, and De Bruyne heads in the ball for the goal.</figcaption>
 </figure> 
 
@@ -123,7 +123,7 @@ It's all about manipulating the opponent off-the-ball. That is the edge teams ar
 The defenders didn't really get involved in the rotations in this match against Brighton, but [City did have John Stones, Manuel Akanji, and Rodri rotate in the FA Cup](https://tacticsjournal.com/2024/04/21/manchester-citys-staircase/) match. John Stones and Manuel Akanji alternated between one playing in the midfield pivot and one staying back at center-back, with Rodri occasionally rotating back to center-back.
 
 <figure>
-    <img src="https://i.imgur.com/yR1EEo8.jpeg">
+    <img src="https://i.imgur.com/yR1EEo8.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Illustration of potential rotations in the future with the defense, midfield, and forwards.</figcaption>
 </figure> 
 

@@ -4,7 +4,7 @@ date: 2025-06-12 11:00 UTC
 title: "Three players align on the diagonal"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/11/Image-11Jun2025_22:55:39.png"
+image: "/images/uploads/2025/06/11/Image-11Jun2025_22:55:39.png"
 ---
 
 South American teams never settle for one way to attack, and the primary tool they use is the careful alignment of three players on the diagonal from out to in: the man with the ball, a middle option, and a third option.
@@ -12,7 +12,7 @@ South American teams never settle for one way to attack, and the primary tool th
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/11/Image-11Jun2025_22:55:39.png">
+    <img src="/images/uploads/2025/06/11/Image-11Jun2025_22:55:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The ball is passed out from the back as three players align on the same diagonal. Two other players join the play after the pass to combine.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Once the pass is played, the fourth and fifth men join to combine, and that is w
 I rarely see the Europeans organizing themselves in this way, which can lead to more wing play and less time within the penalty box. More time on the perimeter. The South American teams are finding a way to break through in unpredictable but natural ways using this method of organization.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/11/Image-11Jun2025_23:04:50.png">
+    <img src="/images/uploads/2025/06/11/Image-11Jun2025_23:04:50.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Same as Figure 1.1 but the play starts on the left wing.</figcaption>
 </figure>
 

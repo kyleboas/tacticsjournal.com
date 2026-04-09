@@ -16,17 +16,17 @@ Liverpool should learn from Everton defender Jarrad Branthwaite and pass the bal
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/P1d52AU.jpeg">
+    <img src="https://i.imgur.com/P1d52AU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Darwin Nunez hits it full power at Jordan Pickford.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/awDlPE3.jpeg">
+    <img src="https://i.imgur.com/awDlPE3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Darwin Nunez's big 100% windup for the shot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/XnrQW5J.jpeg">
+    <img src="https://i.imgur.com/XnrQW5J.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Jordan Pickford parries Darwin Nunez's shot with his right leg, away to his left.</figcaption>
 </figure> 
 
@@ -41,12 +41,12 @@ Think of the best Liverpool strikers; Luis Suarez, Fernando Torres, Ian Rush, Ke
 > It’s a 1 in 10, 2 in 10 finish at best. Learning to slot, dink or go round the GK is a far more productive way to score and will increase his chances to 4 or 5 in 10, thus massively increasing his end return. I’m really not trying to rain on his parade as that goal was pure class. But I’d rather see it when Liverpool are 3-0 up, not at 0-0.
 
 <figure>
-    <img src="https://i.imgur.com/c8SmuMI.jpeg">
+    <img src="https://i.imgur.com/c8SmuMI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Luis Diaz inside the foot volley, on the run, directly at Jordan Pickford. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/VGAOhtg.jpeg">
+    <img src="https://i.imgur.com/VGAOhtg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Jordan Pickford parries Luis Diaz's shot with his knees.</figcaption>
 </figure> 
 
@@ -57,17 +57,17 @@ It's a tough technique on the run. Inside the foot volley, if he gets underneath
 If Diaz hits it towards the ground to bounce he might have been able to sneak it underneath him. 
 
 <figure>
-    <img src="https://i.imgur.com/zKtTW3u.jpeg">
+    <img src="https://i.imgur.com/zKtTW3u.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Mohamed Salah and Darwin Nunez free on the back post for the tap-in as Andrew Robertson attempts a volley. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/JDjWMio.jpeg">
+    <img src="https://i.imgur.com/JDjWMio.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Andrew Robertson volley with the outside of the left foot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/U9FdrpC.jpeg">
+    <img src="https://i.imgur.com/U9FdrpC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Andrew Robertson whiffs the volley. </figcaption>
 </figure> 
 
@@ -78,12 +78,12 @@ But the Liverpool default is the spectacular. Outside the foot, with his left fo
 If he's going to shoot it had to be like that to get it across goal, because he needs the power to beat the Pickford's reflexes.
 
 <figure>
-    <img src="https://i.imgur.com/owHyFo3.jpeg">
+    <img src="https://i.imgur.com/owHyFo3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - The ball falls to Jarrad Branthwaite and he passes it into the net towards a diving Alisson.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/bZnHx6g.jpeg">
+    <img src="https://i.imgur.com/bZnHx6g.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - The slippery ball slides underneath Alisson.</figcaption>
 </figure> 
 

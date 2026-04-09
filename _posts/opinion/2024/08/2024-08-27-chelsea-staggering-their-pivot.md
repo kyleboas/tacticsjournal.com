@@ -7,7 +7,7 @@ categories:
 tags:
 - "Chelsea"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/26/Image-26Aug2024_17:47:14.png"
+image: "/images/uploads/2024/08/26/Image-26Aug2024_17:47:14.png"
 ---
 
 Staggering each line of players makes a huge difference. Chelsea midfielders Enzo Fernandez and Moises Caicedo stagger, and that opens up the pass forward out to the wing, draws a defender in, and creates space for Caicedo once they continue up the wing.
@@ -15,7 +15,7 @@ Staggering each line of players makes a huge difference. Chelsea midfielders Enz
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/26/Image-26Aug2024_17:45:11.png">
+    <img src="/images/uploads/2024/08/26/Image-26Aug2024_17:45:11.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - A staggered pivot with the pass from the goalkeeper to Moises Caicedo, one-touch to Enzo Fernandez, and then out to the right-back.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ That pass to Enzo Fernandez from Moises Caicedo is possible because he is closer
 That allows Chelsea to play a positive pass forward within three passes. Two Wolves players are drawn towards Enzo and Caicedo central as they attempt to collapse on the ball. That opens space wide. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/26/Image-26Aug2024_17:45:14.png">
+    <img src="/images/uploads/2024/08/26/Image-26Aug2024_17:45:14.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - A flat, non-staggered pivot with the pass from the goalkeeper to Moises Caicedo and then Caicedo back to the right center-back.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ That also allows the central Wolves players to anticipate the pass to the fullba
 It is predictable, and there is less space. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/26/Image-26Aug2024_17:45:13.png">
+    <img src="/images/uploads/2024/08/26/Image-26Aug2024_17:45:13.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Chelsea's fullback passes to the right winger, and Moises Caicedo is left unmarked. </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ As the ball is played up the wing, the Wolves defender closest to Caicedo has to
 Once the pass is played to the right-winger, Caicedo is then left unmarked behind Chelsea's front line.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/26/Image-26Aug2024_17:45:16.png">
+    <img src="/images/uploads/2024/08/26/Image-26Aug2024_17:45:16.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Chelsea attempts to progress up the wing out of the flat pivot that wasn't staggered.</figcaption>
 </figure>
 

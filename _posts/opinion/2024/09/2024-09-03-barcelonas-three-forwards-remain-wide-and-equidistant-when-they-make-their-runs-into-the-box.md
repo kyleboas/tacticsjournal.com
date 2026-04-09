@@ -8,7 +8,7 @@ tags:
 - "Barcelona"
 - "Real Valladolid"
 - "La Liga"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/02/Image-02Sep2024_23:42:40.png"
+image: "/images/uploads/2024/09/02/Image-02Sep2024_23:42:40.png"
 ---
 
 Barcelona's forwards deliberately space their runs out, equidistant to each other, when they break into the box. That makes it very hard to defend against because of how spread out and the unorthodox nature of Raphinha, Lewandowski, and Dani Olmo's runs.
@@ -16,7 +16,7 @@ Barcelona's forwards deliberately space their runs out, equidistant to each othe
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/03/Image-03Sep2024_00:01:17.png">
+    <img src="/images/uploads/2024/09/03/Image-03Sep2024_00:01:17.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Lamine Yamal passes to Raphinha after cutting in from the right wing on the counter. Alternative run option for Dani Olmo in gray. </figcaption>
 </figure>
 

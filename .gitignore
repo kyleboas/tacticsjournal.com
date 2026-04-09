@@ -16,3 +16,4 @@ _worker_redirects/
 check_api*.py
 send_waitlist_email.py
 check_subs.py
+.wrangler/

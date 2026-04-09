@@ -15,12 +15,12 @@ Daniel Carvajal likes to get further forward and help out on the far-side in the
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/GLsVwtX.jpg">
+    <img src="https://i.imgur.com/GLsVwtX.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Daniel Carvajal gets forward into the box as Real Madrid overload the left-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SRHxw6A.jpeg">
+    <img src="https://i.imgur.com/SRHxw6A.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ball is chipped to Daniel Carvajal for the goal.</figcaption>
 </figure> 
 
@@ -29,11 +29,11 @@ Rodrygo, Vinicius Junior, Bellingham, and Kroos with freedom have the quality to
 When they do that, that allows someone like Brahim Diaz or Federico Valverde to drift over to the center of the box, to preoccupy the opposition's left back and center backs. Then Daniel Carvajal can creep in on the back post, and he's free. 
 
 <figure>
-    <img src="https://i.imgur.com/pUVFBWe.jpeg">
+    <img src="https://i.imgur.com/pUVFBWe.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Osasuna kick the ball long. Daniel Carvajal is higher up the pitch.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/8zchHd0.jpeg">
+    <img src="https://i.imgur.com/8zchHd0.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Antonio Rudiger and Aurélien Tchouaméni go for the ball, leaving two Osasuna players free for the flick on 2v1 versus Ferland Mendy.</figcaption>
 </figure> 
 

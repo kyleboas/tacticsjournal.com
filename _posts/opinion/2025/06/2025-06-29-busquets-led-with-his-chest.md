@@ -4,7 +4,7 @@ date: 2025-06-29 11:00 UTC
 title: "Busquets led with his chest"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/06/29/Image-29Jun2025_06:53:45.png"
+image: "/images/uploads/2025/06/29/Image-29Jun2025_06:53:45.png"
 ---
 
 Sergio Busquets led with his chest and upper torso to create separation and mislead his intended direction. Despite the fact that he was slow, he was the king of misdirection with the ball at his feet. It didn't matter because he avoided the obvious move.

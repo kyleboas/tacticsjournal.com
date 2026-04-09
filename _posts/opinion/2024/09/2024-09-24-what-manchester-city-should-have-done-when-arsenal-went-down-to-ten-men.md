@@ -8,7 +8,7 @@ tags:
 - "Manchester City"
 - "Arsenal"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/23/Image-23Sep2024_00:29:28.png"
+image: "/images/uploads/2024/09/23/Image-23Sep2024_00:29:28.png"
 ---
 
 When Arsenal went down to ten men, I got an idea. Instead of having their defenders act as the providers and shooters, Manchester City could have moved two of their defenders to the front line, in the box, with Gvardiol and the forwards on the back line.
@@ -16,7 +16,7 @@ When Arsenal went down to ten men, I got an idea. Instead of having their defend
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/23/Image-23Sep2024_00:58:24.png">
+    <img src="/images/uploads/2024/09/23/Image-23Sep2024_00:58:24.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester City's structure once Arsenal went down to ten men.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Kyle Walker has not scored from outside the box since the 2020/21 season, Ruben 
 It is a recipe for side-to-side action, with the occasional wayward shot or hopeful cross to Erling Haaland, who was double-teamed in the box. Which is what we got.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/23/Image-23Sep2024_01:12:36.png">
+    <img src="/images/uploads/2024/09/23/Image-23Sep2024_01:12:36.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Proposed alternative Manchester City structure.</figcaption>
 </figure>
 

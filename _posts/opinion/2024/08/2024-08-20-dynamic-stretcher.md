@@ -4,7 +4,7 @@ date: 2024-08-20 11:00 UTC
 title: "Dynamic Stretcher"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/16/Image-16Aug2024_23:29:09.png"
+image: "/images/uploads/2024/08/16/Image-16Aug2024_23:29:09.png"
 tweet: "The football terms we use on social media are a product of the character count we are forced to fit our ideas in. No one has time. If you can't get your point across, that reader will tab out. @MarcoLai_23"
 ---
 
@@ -23,7 +23,7 @@ You could flip that, though, and say there is a market of people who can't pick 
 What is obvious? It is not made for people who know what to look for; those people are bored because they know most of the answers. The problem is, how do you know if everyone else knows?
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/18/Image-18Aug2024_11:21:03.png">
+    <img src="/images/uploads/2024/08/18/Image-18Aug2024_11:21:03.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - A dynamic stretcher.</figcaption>
 </figure>
 

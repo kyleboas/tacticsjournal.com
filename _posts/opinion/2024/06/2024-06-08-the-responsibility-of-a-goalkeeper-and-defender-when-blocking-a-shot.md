@@ -7,7 +7,7 @@ categories:
 tags:
 - "England"
 - "Euro 2024"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/08/Image-08Jun2024_01:05:14.png?raw=true"
+image: "/images/uploads/2024/06/08/Image-08Jun2024_01:05:14.png"
 ---
 
 Iceland's goal against England was an example of the responsibility placed on the goalkeeper, Aaron Ramsdale, and defender, John Stones, when the defender goes to block a shot. Stones blocks the far post, and Ramsdale is responsible for the near post.
@@ -15,11 +15,11 @@ Iceland's goal against England was an example of the responsibility placed on th
 <!---more---> 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/08/Image-08Jun2024_01:05:12.png?raw=true">
+    <img src="/images/uploads/2024/06/08/Image-08Jun2024_01:05:12.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - John Stones fails to force Jon Thorsteinsson outside.</figcaption>
 </figure>
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/08/Image-08Jun2024_01:05:14.png?raw=true">
+    <img src="/images/uploads/2024/06/08/Image-08Jun2024_01:05:14.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Jon Thorsteinsson shoots to the near post between John Stones' legs.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ This is something that is discussed before the game. The shot between the legs i
 When Stones commits to blocking the shot to the far side, Ramsdale should then be almost fully committed to blocking the shot to the near post. He can't fully commit 100 percent because what if Stones doesn't get a solid block on the ball? 
  
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/08/Image-08Jun2024_01:05:15.png?raw=true">
+    <img src="/images/uploads/2024/06/08/Image-08Jun2024_01:05:15.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - The shot sneaks under Aaron Ramsdale's hand.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ When the ball goes through Stones' outstretched legs, Ramsdale isn't prepared fo
 You would have to assume this is a lack of communication between Stones and Ramsdale. Ramsdale should never be beat this easily to his near post if he knows Stones has the far post covered off. 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/06/08/Image-08Jun2024_01:46:26.png?raw=true">
+    <img src="/images/uploads/2024/06/08/Image-08Jun2024_01:46:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bent knee to block off the shot to the far post and not allow the ball to pass between the defender's legs. <a href="https://m.youtube.com/watch?si=6J21BDcp_-hfYY4I&v=1yPMlA2tbGw&feature=youtu.be">Image credit to Unisport</a></figcaption>
 </figure>
 

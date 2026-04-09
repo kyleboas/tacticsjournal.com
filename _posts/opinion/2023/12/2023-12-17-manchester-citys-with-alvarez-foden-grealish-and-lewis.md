@@ -22,17 +22,17 @@ Rodri on Phil Foden:
 > I think he’s the best player we have in between the lines turning and facing the goal."
 
 <figure>
-    <img src="https://i.imgur.com/cHd4I3H.jpg">
+    <img src="https://i.imgur.com/cHd4I3H.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Ball is passed to Phil Foden as Jack Grealish begins his run into the pocket.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/GFs3TNA.jpg">
+    <img src="https://i.imgur.com/GFs3TNA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Phil Foden turns and passes to Jack Grealish.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/hEPk7ei.jpg">
+    <img src="https://i.imgur.com/hEPk7ei.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Jack Grealish scores.</figcaption>
 </figure> 
 
@@ -41,7 +41,7 @@ We saw that quality from Foden to turn and face the net in the first goal. Jack 
 The problem is that when Erling Haaland is on the pitch, you need Julian Alvarez as the 10 to open space for the left and right center-midfielder, [as I discussed here](https://tacticsjournal.com/2023/12/01/the-julian-alvarez-domino-effect/). Therefore, Foden has to play somewhere else.
 
 <figure>
-    <img src="https://i.imgur.com/JYdt1Mm.jpg">
+    <img src="https://i.imgur.com/JYdt1Mm.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Illustration of the movement within this 3-4-3 diamond formation when they pinned Crystal Palace back.</figcaption>
 </figure> 
 
@@ -52,31 +52,31 @@ Erling Haaland would normally be a passenger, watching at the top, pinning the t
 Instead of having only three players moving, Alvarez and the two center-midfielders, manipulating the opponent's second line, now four are constantly moving. 
 
 <figure>
-    <img src="https://i.imgur.com/R48pZUl.jpg">
+    <img src="https://i.imgur.com/R48pZUl.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Julian Alvarez, Phil Foden, Rico Lewis switch position as Jack Grealish is passed the ball.</figcaption>
 </figure> 
 
 Julian Alvarez, Phil Foden, Rico Lewis, and Jack Grealish are constantly looking to change position to drag their defender. That then creates space between the lines for a midfielder, like Grealish, to carry into. 
 
 <figure>
-    <img src="https://i.imgur.com/zMjIrP1.jpg">
+    <img src="https://i.imgur.com/zMjIrP1.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Julian Alvarez makes a dummy run forward to open the space forward for Jack Grealish.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/bTnof50.jpg">
+    <img src="https://i.imgur.com/bTnof50.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Jack Grealish passes to Phil Foden, while Rodri makes a run forward.</figcaption>
 </figure> 
 
 That dummy run from Alvarez opens the space for Grealish to carry. Then Rodri makes his usual run forward to overload the two center-backs. Split that diamond in half, and it's now a triangle between Lewis, Foden, and Rodri.
 
 <figure>
-    <img src="https://i.imgur.com/MqvzfxB.jpg">
+    <img src="https://i.imgur.com/MqvzfxB.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Phil Foden chips the ball forward to Rico Lewis and Rodri.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sHGXD5g.jpg">
+    <img src="https://i.imgur.com/sHGXD5g.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.5 - Rodri helps it down to Rico Lewis. Lewis slots it home on the volley for the goal.</figcaption>
 </figure> 
 

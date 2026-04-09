@@ -15,7 +15,7 @@ One of Kai Havertz's only redeeming qualities that he brings to Arsenal is hold-
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/Zdcpb6g.jpg">
+    <img src="https://i.imgur.com/Zdcpb6g.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Declan Rice passes to Eddie Nketiah.</figcaption>
 </figure> 
 
@@ -24,14 +24,14 @@ First, take a breath and realize Arsenal's situation is not *that* bad. It needs
 The roles should be reversed. Nketiah should drop into the half-space, and Havertz should hold-up play. 
 
 <figure>
-    <img src="https://i.imgur.com/KG9fTaT.jpg">
+    <img src="https://i.imgur.com/KG9fTaT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Havertz charges forward as Nketiah gets muscled off the ball by Raphael Varane.</figcaption>
 </figure> 
 
 You did not pay £65m for him to be the third man, running into a challenge. 
 
 <figure>
-    <img src="https://i.imgur.com/QRXPqh4.jpg">
+    <img src="https://i.imgur.com/QRXPqh4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Solution on March 12, 2023.</figcaption>
 </figure> 
 
@@ -42,7 +42,7 @@ Leandro Trossard central, Gabriel Jesus in the left half-space, and Gabriel Mart
 Jesus has always been a better creator than a finisher. He has a high work rate, is an underrated tackler, and a world-class passer. Put him in the left half-space. 
 
 <figure>
-    <img src="https://i.imgur.com/crKQsCn.jpg">
+    <img src="https://i.imgur.com/crKQsCn.jpg" loading="lazy" decoding="async">
     <figcaption>Suggested 3-2 build-up structure with the left-back inverting.</figcaption>
 </figure> 
 
@@ -65,7 +65,7 @@ Declan Rice in a [2021 interview](https://www.standard.co.uk/sport/football/west
 Correct Declan, you're not just a holding midfielder. As an *outside* center-back in a three-at-the-back, you have the freedom to get forward. Push into the midfield. 
 
 <figure>
-    <img src="https://i.imgur.com/uKT8hCC.jpg">
+    <img src="https://i.imgur.com/uKT8hCC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Declan Rice left half-space switch to Jarrod Bowen.</figcaption>
 </figure> 
 
@@ -74,17 +74,17 @@ I could imagine this scenario playing out with Rice stepping out wide or forward
 In the second and final phase, it can morph into several different structures. Play Havertz on the right where the [angles for him are better](https://tacticsjournal.com/2023/07/14/arsenal-left-midfielder-experiment/). 
 
 <figure>
-    <img src="https://i.imgur.com/hBLM7G9.jpg">
+    <img src="https://i.imgur.com/hBLM7G9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - 3-3-4 with a lone pivot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/lfkpdYz.jpg">
+    <img src="https://i.imgur.com/lfkpdYz.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Simple 4-4-2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/LBWsnvD.jpg">
+    <img src="https://i.imgur.com/LBWsnvD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - 3-4-3 diamond</figcaption>
 </figure> 
 
@@ -113,7 +113,7 @@ That's a second striker.
 And Mikel Arteta clearly agrees. A second striker it is, but Arteta can be stubborn and slow to make changes, so will he stick with [this midfield experiment](https://tacticsjournal.com/2023/07/14/arsenal-left-midfielder-experiment/) or will he use Havertz higher? 
 
 <figure>
-    <img src="https://i.imgur.com/stuW8Tr.jpg">
+    <img src="https://i.imgur.com/stuW8Tr.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 8.1 - 3-2-2-3 box midfield.</figcaption>
 </figure> 
 

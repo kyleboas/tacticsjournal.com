@@ -15,51 +15,51 @@ Dimitar Berbatov gets in a position like this by knowing how each of his teammat
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/rm4WFIo.jpg">
+    <img src="https://i.imgur.com/rm4WFIo.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/JsZ7DEI.jpg">
+    <img src="https://i.imgur.com/JsZ7DEI.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/2RCZpHe.jpg">
+    <img src="https://i.imgur.com/2RCZpHe.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CB00ec7.jpg">
+    <img src="https://i.imgur.com/CB00ec7.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/hc9bYyL.jpg">
+    <img src="https://i.imgur.com/hc9bYyL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5</figcaption>
 </figure> 
 
 > Of course, it's just pass and move, pass and move. I know Patrice; he likes to run. He knows me, then give me the ball, and then I just know where my teammates.
 
 <figure>
-    <img src="https://i.imgur.com/zWUgIHd.jpg">
+    <img src="https://i.imgur.com/zWUgIHd.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/hrvBLIG.jpg">
+    <img src="https://i.imgur.com/hrvBLIG.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7</figcaption>
 </figure> 
 
 > I see Nani outside of the foot, and I was very good with the outside of my foot.
 
 <figure>
-    <img src="https://i.imgur.com/dQt6NjB.jpg">
+    <img src="https://i.imgur.com/dQt6NjB.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/H409sUL.jpg">
+    <img src="https://i.imgur.com/H409sUL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.9</figcaption>
 </figure> 
 

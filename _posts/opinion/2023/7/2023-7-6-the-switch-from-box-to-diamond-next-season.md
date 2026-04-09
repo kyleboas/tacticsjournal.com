@@ -17,7 +17,7 @@ July 6, 2023 — A box midfield is inferior to a diamond in possession, but team
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/RaIvjxz.jpg">
+    <img src="https://i.imgur.com/RaIvjxz.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - 3-2-2-3 box midfield versus a 4-4-2</figcaption>
 </figure>
 
@@ -40,14 +40,14 @@ The problem with a box midfield is the last point: the distance between *certain
 The backline and double pivot are close and form tight triangles that help to overwhelm the initial two pressing center-forwards. The issue lies in the susceptibility to shadow covering across the rest of the pitch once you work it past that initial press.
 
 <figure>
-    <img src="https://i.imgur.com/EUfcoCK.jpg">
+    <img src="https://i.imgur.com/EUfcoCK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Impossible passes in a 3-2-2-3 box.</figcaption>
 </figure>
 
 Every one of these passes isn't possible, on the ground, due to shadow covering. Defenders are in the path between the man and the ball. There are only so many avenues into these players further up the pitch. This forces teams to play through the wings.
 
 <figure>
-    <img src="https://i.imgur.com/cBrBNpf.jpg">
+    <img src="https://i.imgur.com/cBrBNpf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Ball is played to the left-winger.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ If the left winger chooses the pass into the left center-midfielder, that left c
 We're lacking triangles when we move forward.
 
 <figure>
-    <img src="https://i.imgur.com/2N7p3Lz.jpg">
+    <img src="https://i.imgur.com/2N7p3Lz.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - 3-4-3 diamond versus a 4-4-2</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Manchester City, Barcelona, Arsenal, and Liverpool only had sufficient depth at 
 After six months and two transfer windows, now all four teams have the profiles for all four positions.
 
 <figure>
-    <img src="https://i.imgur.com/B3SVbZC.jpg">
+    <img src="https://i.imgur.com/B3SVbZC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Manchester City's depth in a 3-4-3 diamond. Each player's top two positions shown.</figcaption>
 </figure>
 
@@ -89,21 +89,21 @@ I theorized [in February](https://twitter.com/tacticsjournal/status/162228706914
 John Stones only just started playing in the inverted right-back or center-back role in the double pivot with Rodri. Pep Guardiola wasn't fully confident in Phil Foden centrally. Rico Lewis was only just starting to play further forward in midfield towards the final five matches of the season.
 
 <figure>
-    <img src="https://i.imgur.com/ta4j7uT.jpg">
+    <img src="https://i.imgur.com/ta4j7uT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Barcelona's depth in a 3-4-3 diamond.</figcaption>
 </figure>
 
 Barcelona could have started in a diamond, but they lacked depth at right center-midfield. I mentioned [in April](https://twitter.com/tacticsjournal/status/1646530565875572737?s=46&t=YC8lQJTh43E_mBQW40Ct2g) that they could make the switch next season.
 
 <figure>
-    <img src="https://i.imgur.com/bnMMUT9.jpg">
+    <img src="https://i.imgur.com/bnMMUT9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Arsenal's depth in a 3-4-3 diamond.</figcaption>
 </figure>
 
 Kai Havertz is better on the right, and so is Martin Ødegaard. Transitioning to a formation that can allow Havertz to roam freely to the left and right, in-between the lines, would be more beneficial.
 
 <figure>
-    <img src="https://i.imgur.com/m69Y3Lz.jpg">
+    <img src="https://i.imgur.com/m69Y3Lz.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Liverpool's depth in a 3-4-3 diamond.</figcaption>
 </figure>
 
@@ -118,31 +118,31 @@ It requires highly technical midfielders who can work in tight spaces and execut
 In this video Johan Cruyff explains *his* 3-4-3 diamond, which he used frequently throughout his managerial career, most notably at Barcelona in the 90s. 
 
 <figure>
-    <img src="https://i.imgur.com/qOVHWas.jpg">
+    <img src="https://i.imgur.com/qOVHWas.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Johan Cruyff's 3-4-3 diamond at Barcelona in 1994/95 </figcaption>
 </figure>  
 
 Pep Guardiola, Xavi, Mikel Arteta, and Jurgen Klopp, both indirectly or directly, are descendants of Cruyff, so they should take a significant portion of their inspiration from him.
 
 <figure>
-    <img src="https://i.imgur.com/qlcgUCF.jpg">
+    <img src="https://i.imgur.com/qlcgUCF.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - The positional movement of when in defensive transition.</figcaption>
 </figure>
 
 As Cruyff explained in the video, out of possession, when the ball is lost, the central midfielders will cover the wide areas. The three center-backs should condense centrally and remain compact. The holding midfielder can come over to help overload the ball carrier and block off the pass infield. 
 
 <figure>
-    <img src="https://i.imgur.com/r3Q1ydw.jpg">
+    <img src="https://i.imgur.com/r3Q1ydw.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - 4-4-2 out of possession</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4R6UNGL.jpg">
+    <img src="https://i.imgur.com/4R6UNGL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - 4-3-3 out of possession</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/RYO53Bj.jpg">
+    <img src="https://i.imgur.com/RYO53Bj.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.3 - 4-2-4 out of possession</figcaption>
 </figure> 
 

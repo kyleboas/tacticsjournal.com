@@ -9,7 +9,7 @@ tags:
 - "Hearts"
 - "Premier League"
 - "Preseason"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_00:00:33.png"
+image: "/images/uploads/2024/07/20/Image-20Jul2024_00:00:33.png"
 ---
 
 There are early signs of [improvisation](https://tacticsjournal.com/2024/05/03/tottenham-need-to-improvise/) from Tottenham in their first preseason match, as they lined up with no natural center-backs. Improvisation spawned from passing and moving, more movement off the ball, and one-touch one-twos.
@@ -19,7 +19,7 @@ There are early signs of [improvisation](https://tacticsjournal.com/2024/05/03/t
 The back line in the first half was Jamie Donley, Oliver Skipp, Archie Gray, and Pedro Porro. I am a fan of using fullbacks and midfielders in the center-back position. Having players that can pass, dribble, and rotate in and out with the players ahead in the midfield and out on the wings is invaluable in games where you plan to have the majority of possession. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_00:00:31.png">
+    <img src="/images/uploads/2024/07/20/Image-20Jul2024_00:00:31.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - James Maddison plays out of the overload to Dejan Kulusevski, Kulusevski flicks the ball on between his legs back to Maddison, and Maddison plays a low cross to Brennan Johnson as he cuts across goal from the back post.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ The problem they had was, 'How do we get the ball from the halfway line into the
 They should want to try to move the ball on the run because if they walk the ball into the box, the opponent's defense can drop back and crowd the box. They need those quick one-touch passing combinations to play the crossing player through to find the player crashing the front or back post. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/20/Image-20Jul2024_00:31:39.png">
+    <img src="/images/uploads/2024/07/20/Image-20Jul2024_00:31:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Djed Spence plays a one-two with Emerson Royal, dribbles forward, and then plays a through ball to Will Lankshear for the second goal.</figcaption>
 </figure>
 

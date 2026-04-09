@@ -8,7 +8,7 @@ tags:
 - "England"
 - "Ireland"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/08/Image-08Sep2024_01:49:34.png"
+image: "/images/uploads/2024/09/08/Image-08Sep2024_01:49:34.png"
 ---
 
 England interim manager Lee Carsley said after their resounding win to Ireland that the way the team played was "definitely not his style; it's the players'." It was not the zonal Southgate team; it was a much more fluid team tailored to each individual.
@@ -16,7 +16,7 @@ England interim manager Lee Carsley said after their resounding win to Ireland t
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/08/Image-08Sep2024_00:40:33.png">
+    <img src="/images/uploads/2024/09/08/Image-08Sep2024_00:40:33.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - England in possession overloading the right side of the pitch.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ He can go; here is what the opponent is going to do; you all are the best player
 He isn't restricted to specific profiles because there won't be one or two formations. They're constantly rotating, moving into their favored position for that moment.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/08/Image-08Sep2024_00:40:39.png">
+    <img src="/images/uploads/2024/09/08/Image-08Sep2024_00:40:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bukayo Saka switches position to the left wing to help in the overload.</figcaption>
 </figure>
 
@@ -57,15 +57,15 @@ You could see the players adjusting the structure on their own depending on what
 Trent Alexander-Arnold and Declan Rice were taking turns playing in the midfield, and at right-back, Rice was making runs to the front line in the right half-space. It was completely unpredictable, but it all looked natural. Nothing was forced.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/08/Image-08Sep2024_00:40:35.png">
+    <img src="/images/uploads/2024/09/08/Image-08Sep2024_00:40:35.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Declan Rice passes to Kobbie Mainoo, and then immediately goes. Mainoo passes back to Rice.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/08/Image-08Sep2024_00:40:36.png">
+    <img src="/images/uploads/2024/09/08/Image-08Sep2024_00:40:36.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Declan Rice passes to Bukayo Saka on the run, and then immediately goes. Saka passes back to Rice first-time.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/08/Image-08Sep2024_00:40:38.png">
+    <img src="/images/uploads/2024/09/08/Image-08Sep2024_00:40:38.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Declan Rice passes back to the top of the box to Jack Grealish, and Grealish passes the ball into the bottom left hand side of the net for the goal.</figcaption>
 </figure>
 

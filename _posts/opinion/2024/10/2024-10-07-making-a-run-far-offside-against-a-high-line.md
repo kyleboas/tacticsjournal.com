@@ -8,7 +8,7 @@ tags:
 - "Manchester United"
 - "Aston Villa"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/07/Image-07Oct2024_01:15:56.png"
+image: "/images/uploads/2024/10/07/Image-07Oct2024_01:15:56.png"
 ---
 
 When the ball is wide with Rashford for Manchester United, and he is ready to pass, I like the run Bruno Fernandes made, running well offside beyond Aston Villa's high line. All Fernandes has to do is stay behind Hojlund for a two-on-one with the keeper.
@@ -16,12 +16,12 @@ When the ball is wide with Rashford for Manchester United, and he is ready to pa
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/07/Image-07Oct2024_00:51:42.png">
+    <img src="/images/uploads/2024/10/07/Image-07Oct2024_00:51:42.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Marcus Rashford is ready to pass for Manchester United, and Bruno Fernandes makes a run quick behind Aston Villa's high line.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/07/Image-07Oct2024_00:51:44.png">
+    <img src="/images/uploads/2024/10/07/Image-07Oct2024_00:51:44.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - This does not happen in-game: Rasmus Hojlund is played through by Marcus Rashford, and then Bruno Fernandes is ready to take on goalkeeper Emi Martinez two-on-one. </figcaption>
 </figure>
 

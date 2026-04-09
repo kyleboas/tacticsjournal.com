@@ -16,24 +16,24 @@ Declan Rice's position on the field dictates how much pressure Arsenal put on th
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/qH18Qxw.jpeg">
+    <img src="https://i.imgur.com/qH18Qxw.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of Arsenal's shape with Declan Rice joining the back line, then drifting out wide to the right.</figcaption>
 </figure> 
 
 Havertz and Ødegaard have to drop to help connect play to the front line, but this movement back leaves them alone, outnumbered by Fulham's back line and second line.
 
 <figure>
-    <img src="https://i.imgur.com/PAWhJrL.jpeg">
+    <img src="https://i.imgur.com/PAWhJrL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Declan Rice drops between the center-backs.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/g2rcIHn.jpeg">
+    <img src="https://i.imgur.com/g2rcIHn.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Declan Rice moves into the right half-space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/yBN6qPM.jpeg">
+    <img src="https://i.imgur.com/yBN6qPM.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Declan Rice moves wide to the right.</figcaption>
 </figure> 
 
@@ -46,12 +46,12 @@ If Martinelli were to receive the ball out of this overload on the right, his on
 They can never take advantage of the isolation on the left when they overload the right. Havertz is too far away on the right side of the pitch to be of help.
 
 <figure>
-    <img src="https://i.imgur.com/oYcA4Lb.jpeg">
+    <img src="https://i.imgur.com/oYcA4Lb.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Declan Rice receives the ball at the top of the box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/HVnQx0y.jpeg">
+    <img src="https://i.imgur.com/HVnQx0y.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Declan Rice carries central.</figcaption>
 </figure> 
 
@@ -62,12 +62,12 @@ If Rice is too far back, Arsenal have no threat. If he's too far wide to one sid
 Arsenal are reliant on the position of Rice on the pitch. Where he goes, the play goes. He drops between the center-backs far too often when the opposition sits back.
 
 <figure>
-    <img src="https://i.imgur.com/zQHkaj4.jpeg">
+    <img src="https://i.imgur.com/zQHkaj4.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Arsenal's passes from minute 67 onwards. <a href="https://www.cbssports.com/soccer/news/mikel-artetas-substitutions-exacerbate-disaster-as-arsenal-fall-to-damaging-defeat-at-fulham/">Credit to James Benge of CBS Sports for the image</a></figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/eXL5CaJ.jpeg">
+    <img src="https://i.imgur.com/eXL5CaJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bukayo Saka attempts to dribble the ball with three Arsenal targets in the box.</figcaption>
 </figure> 
 

@@ -14,6 +14,10 @@ avatar: https://tacticsjournal.com/assets/IMG_5503.png
 # Default image for posts and pages
 default_image: https://tacticsjournal.com/assets/IMG_4203.jpeg 
 
+# Billing links
+gumroad_pro_monthly_url: https://pro.tacticsjournal.com/l/avkyur
+gumroad_pro_yearly_url: https://pro.tacticsjournal.com/l/avkyur
+
 #
 # Flags below are optional
 #
@@ -103,8 +107,6 @@ defaults:
       type: category
     values:
       layout: "category"
-
-defaults:
   - scope:
       path: ""
     values:

@@ -4,7 +4,7 @@ date: 2025-11-12 11:00 UTC
 title: "The persistent time on TV ruins football's immersion"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/11/Image-11Nov2025_22:56:58.png"
+image: "/images/uploads/2025/11/11/Image-11Nov2025_22:56:58.png"
 ---
 
 It wasn't a new camera that changed football on TV in the 90s; it was the time that persists on the scorebug. Viewers went from feeling like a member of the crowd to having their attention split between the game and a stopwatch. It ruins your immersion.
@@ -26,7 +26,7 @@ I understand why you would want to have the teams and the score shown on the scr
 But I'm a minimalist. I like open floor plans and minimal furniture in a room. When the time is hidden, you feel like you are in the stands. You pay closer attention to the smaller details. A ticking clock is distracting.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/08/Image-08Nov2025_21:56:32.png">
+    <img src="/images/uploads/2025/11/08/Image-08Nov2025_21:56:32.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The greatest team to never win a World Cup, Brazil, versus Argentina in the 1982 World Cup. The scorebug flashes on screen.</figcaption>
 </figure>
 

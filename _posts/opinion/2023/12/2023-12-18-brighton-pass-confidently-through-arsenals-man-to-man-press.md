@@ -16,41 +16,41 @@ If you can get past Arsenal's man-to-man counter press, you are doing something 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/Ph3vQ1i.jpg">
+    <img src="https://i.imgur.com/Ph3vQ1i.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Lewis Dunk passes to James Milner.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/kJWmROv.jpg">
+    <img src="https://i.imgur.com/kJWmROv.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Kaoru Mitoma drops to receive the pass from James Milner.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vQysKNl.jpg">
+    <img src="https://i.imgur.com/vQysKNl.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Evan Ferguson drops to receive the pass from Kaoru Mitoma.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/YxEWkPT.jpg">
+    <img src="https://i.imgur.com/YxEWkPT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Evan Ferguson passes to Adam Lallana, and Arsenal retreat.</figcaption>
 </figure> 
 
 If you get to the halfway line, Arsenal will normally allow you to maintain possession and progress into their half. They retreat to maintain that numerical superiority on the far side. 
 
 <figure>
-    <img src="https://i.imgur.com/Al2Qj7C.jpg">
+    <img src="https://i.imgur.com/Al2Qj7C.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Arsenal get the numerical superiority on the far side as Brighton settle in their half.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/oG7qFpD.jpg">
+    <img src="https://i.imgur.com/oG7qFpD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Arsenal and Brighton's shape in Arsenal's half.</figcaption>
 </figure> 
 
 Once Brighton settle play down in Arsenal's half, they set up in this fluid 3-4-3 shape, with the 10 dropping, and the two midfielders in the half-space pushed forward. Arsenal countered this by clogging the middle with two ball-winners in the second line and three forwards in the first line. Force Brighton wide and then collapse on the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/o2HiRmC.jpg">
+    <img src="https://i.imgur.com/o2HiRmC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Kai Havertz wins the ball back off of a misplaced pass.</figcaption>
 </figure> 
 

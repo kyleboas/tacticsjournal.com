@@ -16,32 +16,32 @@ On most defensive transitions, over the shoulder of Bruno Fernandes on his blind
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/6J2Re3K.jpeg">
+    <img src="https://i.imgur.com/6J2Re3K.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4hl1x14.jpeg">
+    <img src="https://i.imgur.com/4hl1x14.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/BUW2oVN.jpeg">
+    <img src="https://i.imgur.com/BUW2oVN.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/WmPOPWn.jpeg">
+    <img src="https://i.imgur.com/WmPOPWn.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/9Ng0V0P.jpeg">
+    <img src="https://i.imgur.com/9Ng0V0P.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/yNzVHL9.jpeg">
+    <img src="https://i.imgur.com/yNzVHL9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 </figcaption>
 </figure> 
 

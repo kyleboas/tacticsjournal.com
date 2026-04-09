@@ -17,12 +17,12 @@ At Brighton, [defenders bait movement before passing](https://tacticsjournal.com
 <!---more---> 
 
 <figure>
-    <img src="https://i.imgur.com/ssvTFqk.jpeg">
+    <img src="https://i.imgur.com/ssvTFqk.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Levi Colwill carries the ball forward</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/6du6xNO.jpeg">
+    <img src="https://i.imgur.com/6du6xNO.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Thiago Silva points at Axel Disasi to tell Levi Colwill to pass the ball to Disasi.</figcaption>
 </figure> 
 
@@ -31,17 +31,17 @@ For some funny context; Thiago Silva injured his shoulder a few seconds prior. T
 He was doing this throughout the beginning of the first half but grew more visibly frustrated as the half wore on. Chelsea was passing too slowly. 
 
 <figure>
-    <img src="https://i.imgur.com/cvC41Xu.jpg">
+    <img src="https://i.imgur.com/cvC41Xu.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Axel Disasi calls for the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/zqnvrey.jpeg">
+    <img src="https://i.imgur.com/zqnvrey.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Thiago Silva more aggressively asks for the ball to be played to Axel Disasi.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/9uvQscM.jpeg">
+    <img src="https://i.imgur.com/9uvQscM.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Axel Disasi is now squatting and yelling at Levi Colwill to pass the ball.</figcaption>
 </figure> 
 
@@ -52,7 +52,7 @@ Middlesbrough then begin to adjust the way they are marking certain Chelsea play
 The player closest to Ben Chilwell begins to cheat infield. The right center-forward backs off to mark Moises Caicedo rather than pressure Levi Colwill. 
 
 <figure>
-    <img src="https://i.imgur.com/ZRkZLm9.jpeg">
+    <img src="https://i.imgur.com/ZRkZLm9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Levi Colwill finally passes the ball.</figcaption>
 </figure> 
 

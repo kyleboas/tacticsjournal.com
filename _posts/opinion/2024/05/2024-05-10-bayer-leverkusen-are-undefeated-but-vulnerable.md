@@ -16,19 +16,19 @@ Bayer Leverkusen's 49 games unbeaten run is the longest in Europe in all competi
 <!---more---> 
 
 <figure>
-    <img src="https://i.imgur.com/vkP8RIM.jpeg">
+    <img src="https://i.imgur.com/vkP8RIM.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Roma play an early cross from the right into the box, and two players are free in the center of the box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/1crPntY.jpeg">
+    <img src="https://i.imgur.com/1crPntY.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Free header in the middle of the box for Roma.</figcaption>
 </figure> 
 
 There's a parting of the sea between the Bayer Leverkusen center-backs the past few matches I have watched them, since the West Ham Europa League match in April. 
 
 <figure>
-    <img src="https://i.imgur.com/XhjErBB.jpeg">
+    <img src="https://i.imgur.com/XhjErBB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - West Ham early cross from the right with a free man in the center of the box. </figcaption>
 </figure> 
 
@@ -37,7 +37,7 @@ Bayer Leverkusen are prioritizing the near and far post but there's a general la
 I think they should have the ball-side center-back, Piero Hincapié in most cases, give more or split priority to the player in the center of the box. That far-post should be covered but the near-post run isn't as much for a threat as the center and far-post. 
 
 <figure>
-    <img src="https://i.imgur.com/y0w8th3.jpeg">
+    <img src="https://i.imgur.com/y0w8th3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Free man for Roma arriving into the center of the box as an early cross is played in from the right.</figcaption>
 </figure> 
 

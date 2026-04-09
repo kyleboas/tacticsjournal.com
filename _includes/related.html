@@ -9,7 +9,7 @@
     {% for post in related_posts %}
       {% if post.url != page.url %}
         <div class="post-info">
-            <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
+            <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image" loading="lazy" decoding="async">
            <div class="title-and-date">
             <a href="{{ post.url }}">{{ post.title }}</a>
             <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
@@ -26,7 +26,7 @@
       {% for post in site.categories[page.categories.first] limit:5 %}
         {% if post.url != page.url %}
           <div class="post-info">
-            <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
+            <img src="{{ post.image }}" alt="{{ post.title }}" class="post-image" loading="lazy" decoding="async">
            <div class="title-and-date">
             <a href="{{ post.url }}">{{ post.title }}</a>
             <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>

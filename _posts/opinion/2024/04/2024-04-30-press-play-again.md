@@ -18,28 +18,28 @@ tweet: "Thomas Tuchel remarks that the 'technical execution' of Real Madrid's co
 > Of course, we have seen Real Madrid a few times and watched them with our analysts. If you want to watch for yourself, and see Real Madrid goals are great scoring opportunities. 
 
 <figure>
-    <img src="https://i.imgur.com/mMR3aL7.jpeg">
+    <img src="https://i.imgur.com/mMR3aL7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Real Madrid passing in their own end against Manchester City.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DiVeJFB.jpeg">
+    <img src="https://i.imgur.com/DiVeJFB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Andriy Lunin chips a pass wide to Dani Carvajal.</figcaption>
 </figure> 
 
 > If you take the trouble to press a pause button ten seconds before hand, you won't see them coming. Isn't it often unforeseen. Sometimes you see it coming and the situation is clear, then you think 'oh yes, things are getting dangerous now', but sometimes they don't see it coming. Then everything is running smoothly, everything is actually under control. The security is in place. They seem to be outnumbered. 
 
 <figure>
-    <img src="https://i.imgur.com/SzXXErB.jpeg">
+    <img src="https://i.imgur.com/SzXXErB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Dani Carvajal punts the ball upfield to Jude Bellingham.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/D3WNeed.jpeg">
+    <img src="https://i.imgur.com/D3WNeed.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Jude Bellingham takes his first touch to the right.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/pqRaZYr.jpeg">
+    <img src="https://i.imgur.com/pqRaZYr.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Real Madrid's passing pattern to score.</figcaption>
 </figure> 
 

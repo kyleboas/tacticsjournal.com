@@ -18,29 +18,29 @@ There have been instances towards the end of last season where the shackles of t
 Grealish is a player who thrives in a free role, akin to what he had at Aston Villa. This is a role he has been deprived of in his Manchester City career. 
 
 <figure>
-    <img src="https://i.imgur.com/xMmbH0U.jpg">
+    <img src="https://i.imgur.com/xMmbH0U.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Mateo Kovacic passes to Jack Grealish.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/8SjNTWk.jpg">
+    <img src="https://i.imgur.com/8SjNTWk.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Jack Grealish turns, takes the ball to the penalty area, and then cuts back a pass to Rico Lewis.</figcaption>
 </figure> 
 
 This is a rare sight to see Grealish in a pocket like this, but it suits the way he thinks. Most players would fizz it across goal, but his decisions are often delayed. Most players wouldn't find that cut-back option to Rico Lewis.
 
 <figure>
-    <img src="https://i.imgur.com/zv43AUp.jpg">
+    <img src="https://i.imgur.com/zv43AUp.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Jack Grealish receives the ball in the left half-space, inverted from the left-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SmvqSb4.jpg">
+    <img src="https://i.imgur.com/SmvqSb4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Jack Grealish takes a large first touch away from the space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/C50WISL.jpg">
+    <img src="https://i.imgur.com/C50WISL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Jack Grealish quickly cuts inside.</figcaption>
 </figure> 
 
@@ -51,22 +51,22 @@ Because he receives this ball in the half-space, central, his fourth touch is po
 He wears the #10 shirt and acts like one.
 
 <figure>
-    <img src="https://i.imgur.com/tTgak67.jpg">
+    <img src="https://i.imgur.com/tTgak67.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Jack Grealish switches play on the ground to Phil Foden for the assist.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/qCFRDg9.jpg">
+    <img src="https://i.imgur.com/qCFRDg9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Jack Grealish carries the ball in the left half-space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/TxqIrgQ.jpg">
+    <img src="https://i.imgur.com/TxqIrgQ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Jack Grealish draws in three defenders then passes to the wide open wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/06x1SL3.jpg">
+    <img src="https://i.imgur.com/06x1SL3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.3</figcaption>
 </figure> 
 

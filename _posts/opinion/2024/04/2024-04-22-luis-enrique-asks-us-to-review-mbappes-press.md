@@ -20,7 +20,7 @@ Luis Enrique after PSG's second-leg Champions League match against Barcelona:
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/KH8dNBu.jpeg">
+    <img src="https://i.imgur.com/KH8dNBu.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - PSG press heavily with Kylian Mbappé shadow-covering Pau Cubarsí. </figcaption>
 </figure> 
 
@@ -31,19 +31,19 @@ Because of this, Dembélé can move back to mark Cancelo on PSG's right-wing, wh
 Barcelona's double pivot of Pedri and De Jong are closely man-marked, Gündoğan is closely man-marked, and Barcola switches between loosely marking Koundé and pressuring Araujo with his curved press to cut off the pass to Koundé. 
 
 <figure>
-    <img src="https://i.imgur.com/YbBENZU.jpeg">
+    <img src="https://i.imgur.com/YbBENZU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Kylian Mbappé shadow-covering Pau Cubarsí. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/G1oqbvR.jpeg">
+    <img src="https://i.imgur.com/G1oqbvR.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Kylian Mbappé shadow-covering Pedri when Pau Cubarsí is on the ball.</figcaption>
 </figure> 
 
 If Cubarsí got the ball, then Mbappé would look to cut off the horizontal pass. This allows the players in that front-line for PSG to shift their focus to other players, to man-mark, so the back-line doesn't have to jump out and they can protect that 4v3.
 
 <figure>
-    <img src="https://i.imgur.com/HnKj9Dj.jpeg">
+    <img src="https://i.imgur.com/HnKj9Dj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Kylian Mbappé shadow-covers Joao Cancelo until Ousmane Dembélé can get over to mark him.</figcaption>
 </figure> 
 
@@ -52,17 +52,17 @@ If Dembélé allowed Cancelo to get too much space, Mbappé would then switch to
 I thought Mbappé's awareness was phenomenal to keep track of Cubarsí's position and position himself correctly based off what his teammates were doing across the pitch.
 
 <figure>
-    <img src="https://i.imgur.com/RYnvzFy.jpeg">
+    <img src="https://i.imgur.com/RYnvzFy.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Kylian Mbappé shadow-covers Pau Cubarsí.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/jvhPomc.jpeg">
+    <img src="https://i.imgur.com/jvhPomc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Kylian Mbappé shadow-covers Pau Cubarsí.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/NXwpIun.jpeg">
+    <img src="https://i.imgur.com/NXwpIun.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Kylian Mbappé forces Pau Cubarsí back.</figcaption>
 </figure> 
 

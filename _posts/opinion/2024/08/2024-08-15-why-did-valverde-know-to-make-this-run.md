@@ -7,7 +7,7 @@ categories:
 tags:
 - "Real Madrid"
 - "La Liga"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_23:45:21.png"
+image: "/images/uploads/2024/08/14/Image-14Aug2024_23:45:21.png"
 ---
 
 Federico Valverde initiates and perfectly times this run into the box before Jude Bellingham passes to Vinicius Jr. because Real Madrid teaches their players how to recognize patterns within unscripted movement.
@@ -15,7 +15,7 @@ Federico Valverde initiates and perfectly times this run into the box before Jud
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_23:45:19.png">
+    <img src="/images/uploads/2024/08/14/Image-14Aug2024_23:45:19.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Jude Bellingham passes to Vinicius Jr. and Federico Valverde begins to make his run towards the back post.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ This is the benefit of giving the player the freedom to find their own solution.
 There is an overload on the ball side; naturally, that means the far side will be unoccupied. The opponent will be drawn to the ball, and Valverde can arrive on their blind side.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/14/Image-14Aug2024_23:45:22.png">
+    <img src="/images/uploads/2024/08/14/Image-14Aug2024_23:45:22.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Vinicius Jr. drives to the byline and passes to Federico Valverde for the easy tap-in.</figcaption>
 </figure>
 

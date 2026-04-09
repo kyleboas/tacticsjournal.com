@@ -17,17 +17,17 @@ The best holding midfielders have the ability to find the least obvious pass tha
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/ALGDyuq.jpeg">
+    <img src="https://i.imgur.com/ALGDyuq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Trent Alexander-Arnold</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/l92hl1Y.jpeg">
+    <img src="https://i.imgur.com/l92hl1Y.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Trent Alexander-Arnold</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/fjYoxgE.jpeg">
+    <img src="https://i.imgur.com/fjYoxgE.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Trent Alexander-Arnold</figcaption>
 </figure> 
 
@@ -38,27 +38,27 @@ Head moving, scanning, to find the small pocket to play the ball into. Looking f
 Receive the pass, turn, and you have the numerical advantage. 
 
 <figure>
-    <img src="https://i.imgur.com/4vd3fSl.jpeg">
+    <img src="https://i.imgur.com/4vd3fSl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Sergio Busquets</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/l5dWMkx.jpeg">
+    <img src="https://i.imgur.com/l5dWMkx.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Sergio Busquets</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CEARpwR.jpeg">
+    <img src="https://i.imgur.com/CEARpwR.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Sergio Busquets</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/1c6R1QF.jpeg">
+    <img src="https://i.imgur.com/1c6R1QF.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Sergio Busquets</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4Ve8NIG.jpeg">
+    <img src="https://i.imgur.com/4Ve8NIG.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5 - Sergio Busquets</figcaption>
 </figure> 
 

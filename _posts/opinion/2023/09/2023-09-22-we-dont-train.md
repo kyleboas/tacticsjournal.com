@@ -24,7 +24,7 @@ September 22, 2023 — Pep Guardiola, when asked how he works with Oscar Bobb in
 *[Watch the full press conference](https://youtu.be/b68NWWAOjtw?si=HrlDbRB2dfThtdeK)*
 
 <figure>
-    <img src="https://i.imgur.com/CePSOrP.jpg">
+    <img src="https://i.imgur.com/CePSOrP.jpg" loading="lazy" decoding="async">
     <figcaption>Erling Haaland (left), Pep Guardiola (center), and Oscar Bobb (right) in training. Manchester City FC via Getty Images</figcaption>
 </figure> 
 
@@ -39,7 +39,7 @@ Rodri has played 6,840 minutes for Manchester City and Spain from 2022 to the pr
 This is the type of self-awareness that the Gavi's, Saka's, Pedri's, Rashford's of the world won't have because they are young and in their mind 'I'm invincible.' Let's run them, and run them, and run them until the wheels fall off.
 
 <figure>
-    <img src="https://i.imgur.com/DfSR7u3.jpg">
+    <img src="https://i.imgur.com/DfSR7u3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Premier League team's schedule with European and Cup matches included between September 16th to October 8th. <a href="https://x.com/legomane_fpl/status/1703494051415130404?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Visual made by @Legomane_FPL</a></figcaption>
 </figure> 
 

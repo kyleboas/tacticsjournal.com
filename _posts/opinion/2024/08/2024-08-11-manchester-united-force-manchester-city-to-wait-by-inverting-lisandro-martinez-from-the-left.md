@@ -9,7 +9,7 @@ tags:
 - "Manchester City"
 - "Premier League"
 - "Community Shield"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/11/Image-11Aug2024_01:10:13.png"
+image: "/images/uploads/2024/08/11/Image-11Aug2024_01:10:13.png"
 ---
 
 When Lisandro Martinez inverted from the left for Manchester United, it halted Manchester City's press because Oscar Bobb was forced to mark him. Then all United had to do was drop a forward or midfielder back to progress forward.
@@ -17,7 +17,7 @@ When Lisandro Martinez inverted from the left for Manchester United, it halted M
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/11/Image-11Aug2024_01:09:06.png">
+    <img src="/images/uploads/2024/08/11/Image-11Aug2024_01:09:06.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The ball is played forward from Manchester United's right center-back to a midfielder and then back to the goalkeeper. Lisandro Martinez is inverted, dragging Oscar Bobb inside.</figcaption>
 </figure>
 

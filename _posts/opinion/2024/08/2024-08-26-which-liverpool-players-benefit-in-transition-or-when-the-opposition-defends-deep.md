@@ -7,7 +7,7 @@ categories:
 tags:
 - "Liverpool"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_23:53:38.png"
+image: "/images/uploads/2024/08/25/Image-25Aug2024_23:53:38.png"
 ---
 
 In transition, Mohamed Salah benefits. Against teams that defend deep, the forwards on the left benefit. But the center-forward will always be the focal point for Liverpool, and that is why I'm excited to see Darwin Nunez's pace up top.
@@ -15,7 +15,7 @@ In transition, Mohamed Salah benefits. Against teams that defend deep, the forwa
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_23:53:35.png">
+    <img src="/images/uploads/2024/08/25/Image-25Aug2024_23:53:35.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Trent Alexander-Arnold plays the ball over the top to Mohamed Salah.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ The left winger and the center forward aren't the target in transition, Salah is
 It almost feels like a track meet at times, with Salah waiting to spring forward beyond the opposition's defense. It is telegraphed; they don't hide it.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/26/Image-26Aug2024_00:29:19.png">
+    <img src="/images/uploads/2024/08/26/Image-26Aug2024_00:29:19.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Mohamad Salah runs inside to receive the ball, plays it back to Dominic Szoboszlai, and then Szoboszlai plays Salah through.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ The two forwards on the left need to make up a lot of ground once that ball is p
 I think Darwin Nunez is going to thrive because having that amount of pace on the end of the second pass, after the through pass to Salah, will be a cheat code once they dial it in. He will be undroppable. Luis Diaz, Cody Gakpo, and Diogo Jota don't bring that same level of explosiveness. They are more controlled.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/25/Image-25Aug2024_23:53:37.png">
+    <img src="/images/uploads/2024/08/25/Image-25Aug2024_23:53:37.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Mohamed Salah passes to Trent Alexander-Arnold on the underlap, and then Alexander-Arnold crosses into the center of the box.</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Against a team that defends deep, Salah will play a more auxiliary role, with th
 In these types of games, they won't *need* pace, and they will benefit from having forwards that offer more control, but they'll still want pace because they are at their most dangerous in transition. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/26/Image-26Aug2024_00:39:11.png">
+    <img src="/images/uploads/2024/08/26/Image-26Aug2024_00:39:11.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Mohamed Salah plays a series of passes with the front line to shoot from the top of the box.</figcaption>
 </figure>
 

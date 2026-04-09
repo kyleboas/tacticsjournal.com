@@ -24,7 +24,7 @@ image: "https://i.imgur.com/eI3MkNw.jpg"
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/eI3MkNw.jpg">
+    <img src="https://i.imgur.com/eI3MkNw.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Premier League Table after the first 12 matches.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ It is mid-November, and I’ve yet to watch one Girona match. I blame the Premie
 The bottom half of the table may be weaker, but with how close the table is at the top, almost every game is a must-watch. The teams in the top 10 should win against those in the bottom half, which makes those bigger matches must-wins. They are so important.
 
 <figure>
-    <img src="https://i.imgur.com/ZmCKLyN.jpg">
+    <img src="https://i.imgur.com/ZmCKLyN.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Fixtures between week 11-20. <a href="https://x.com/legomane_fpl/status/1719403834957553718?s=46&t=EwWKBMyY400eGGXYwoRkiw">Credit legomane_fpl</a></figcaption>
 </figure>
 

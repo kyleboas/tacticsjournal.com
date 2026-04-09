@@ -16,12 +16,12 @@ Every team does this, but the way Manchester City seamlessly move from one tacti
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/71NuN47.jpeg">
+    <img src="https://i.imgur.com/71NuN47.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester City's 4-3-3 that was used in the first half and the beginning of the second half.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/I4DNheY.jpeg">
+    <img src="https://i.imgur.com/I4DNheY.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Phil Foden wide right, holding width, with Matheus Nunes inside.</figcaption>
 </figure> 
 
@@ -36,18 +36,18 @@ I'd prefer Kevin De Bruyne or Matheus Nunes at right-wing and Phil Foden inside 
 Due to the tight schedule and the need to give players like Kyle Walker, Bernardo Silva, and Kevin De Bruyne rest, Foden had to play at right-wing. 
 
 <figure>
-    <img src="https://i.imgur.com/PN7AKsD.jpg">
+    <img src="https://i.imgur.com/PN7AKsD.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Pep Guardiola communicating a tactical change to Phil Foden during an injury break.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7bMXivo.jpeg">
+    <img src="https://i.imgur.com/7bMXivo.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Phil Foden telling Matheus Nunes what the tactical change is.</figcaption>
 </figure> 
 
 
 <figure>
-    <img src="https://i.imgur.com/Xbc6pAu.jpeg">
+    <img src="https://i.imgur.com/Xbc6pAu.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Matheus Nunes is now holding width, wide right, and Phil Foden moves inside. They switch positions.</figcaption>
 </figure> 
 
@@ -56,22 +56,22 @@ After 50 minutes of play, and no goals, it's time to start making changes. The s
 Matheus Nunes and Phil Foden swap positions. 
 
 <figure>
-    <img src="https://i.imgur.com/T0cL61K.jpeg">
+    <img src="https://i.imgur.com/T0cL61K.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Pep Guardiola talking with Kevin De Bruyne.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/HtsJUwW.jpeg">
+    <img src="https://i.imgur.com/HtsJUwW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Kevin De Bruyne is subbed on for Matheus Nunes and Kyle Walker comes on for Manuel Akanji.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/LCUz5hc.jpeg">
+    <img src="https://i.imgur.com/LCUz5hc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.3 - Kevin De Bruyne informing Phil Foden of the changes.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/LEK37nV.jpeg">
+    <img src="https://i.imgur.com/LEK37nV.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Illustration of the difference in formation before and after Manchester City's substitutions in the 57th minute.</figcaption>
 </figure> 
 
@@ -84,12 +84,12 @@ A formation like a 3-4-3 diamond is what they use when they have the opponent pi
 The problem is that you need specific profiles, like Kevin De Bruyne and Kyle Walker, on the pitch to make that change. 
 
 <figure>
-    <img src="https://i.imgur.com/lB4oe1n.jpeg">
+    <img src="https://i.imgur.com/lB4oe1n.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Kyle Walker now moves forward to right-wing in possession, with Kevin De Bruyne and Phil Foden in the half-spaces.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/hDpBpWk.jpeg">
+    <img src="https://i.imgur.com/hDpBpWk.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 8.1 - Manchester City 3-4-3 diamond with Kyle Walker holding width on the right.</figcaption>
 </figure> 
 

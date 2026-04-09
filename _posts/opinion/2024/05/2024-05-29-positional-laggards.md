@@ -4,7 +4,7 @@ date: 2024-05-29 11:00 UTC
 title: "Positional Laggards"
 categories:
 - "opinion"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_22:22:26.png?raw=true"
+image: "/images/uploads/2024/05/28/Image-28May2024_22:22:26.png"
 ---
 
 [Steve Jobs unveiled the iPhone in 2007](https://youtu.be/MnrJzXM7a6o?si=NfZCia2xPugoI1hP). It changed the way the world works. Every year since it was refined, the competition caught up, to the point now where every phone looks the same. This is where I feel we are with positional play in attack.
@@ -14,7 +14,7 @@ image: "https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28
 The slow trickle down of information and ideas has reached the lowest performing teams in each league. Every automation, every formation, and most combinations have been tried. We have made the bezels smaller, the notch less noticeable, and the frame thinner. Everyone knows what to expect. 
 
 <figure>
-    <img src="https://github.com/kyleboas/images/blob/main/uploads/2024/05/28/Image-28May2024_18:45:44.png?raw=true">
+    <img src="/images/uploads/2024/05/28/Image-28May2024_18:45:44.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The five stages of adoption.</figcaption>
 </figure>
 

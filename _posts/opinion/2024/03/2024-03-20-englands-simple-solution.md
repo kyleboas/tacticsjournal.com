@@ -24,7 +24,7 @@ It's a lot of reacting. That's part of what makes international football so inte
 The England national team are unique though. They are less of a melting pot. 24 of the 26 players called up during the international break play in the Premier League. 
 
 <figure>
-    <img src="https://i.imgur.com/UayhxAx.jpeg">
+    <img src="https://i.imgur.com/UayhxAx.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Illustration of my ideal England lineup.</figcaption>
 </figure> 
 

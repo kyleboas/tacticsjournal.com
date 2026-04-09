@@ -7,7 +7,7 @@ categories:
 tags:
 - "Manchester City"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/18/Image-18Aug2024_23:01:07.png"
+image: "/images/uploads/2024/08/18/Image-18Aug2024_23:01:07.png"
 ---
 
 Manchester City use the right wing as a place of rest. Sub Phil Foden on, and he can exert himself when he wants for 45 minutes, interchanging with Bernardo Silva when he gets the energy, and then moving back to rest.
@@ -15,7 +15,7 @@ Manchester City use the right wing as a place of rest. Sub Phil Foden on, and he
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/18/Image-18Aug2024_23:01:24.png">
+    <img src="/images/uploads/2024/08/18/Image-18Aug2024_23:01:24.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester City's rest area is highlighted on the right wing with their formation. </figcaption>
 </figure>
 

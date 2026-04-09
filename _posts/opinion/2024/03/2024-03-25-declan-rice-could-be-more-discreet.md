@@ -16,12 +16,12 @@ On almost every possession, Declan Rice either fully outstretches his arms to ca
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/TNmfGFO.jpeg">
+    <img src="https://i.imgur.com/TNmfGFO.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Declan Rice calling for the ball, arms fully stretched out.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/RoL8LeO.jpg">
+    <img src="https://i.imgur.com/RoL8LeO.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Declan Rice calling for the ball, arms stretched out.</figcaption>
 </figure> 
 
@@ -30,7 +30,7 @@ Every player from Brazil might be watching the ball in this moment, but the seco
 They can see it. They can then position themselves differently in anticipation of that pass. Nothing comes as a surprise. 
 
 <figure>
-    <img src="https://i.imgur.com/06AqYTm.jpeg">
+    <img src="https://i.imgur.com/06AqYTm.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Declan Rice asking for the ball to be played to John Stones. </figcaption>
 </figure> 
 
@@ -45,7 +45,7 @@ Even with passers not of the same quality as Pirlo (no one is like Pirlo), the s
 He has this habit when he plays for both Arsenal and England.
 
 <figure>
-    <img src="https://i.imgur.com/f4zoxc5.gif">
+    <img src="https://i.imgur.com/f4zoxc5.gif" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Rodri subtilely calling for the ball by moving his left arm close to his body. </figcaption>
 </figure>
 

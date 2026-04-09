@@ -15,12 +15,12 @@ The weakest part of Chelsea forward Nicolas Jackson's game is his movement in th
 <!---more---> 
 
 <figure>
-    <img src="https://i.imgur.com/jwry7S6.jpeg">
+    <img src="https://i.imgur.com/jwry7S6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Marc Cucurella ready to cross waiting for Nicolas Jackson to step into that triangle of space. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/C3MmcED.jpeg">
+    <img src="https://i.imgur.com/C3MmcED.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Nicolas Jackson backs up into cover as Marc Cucurella gets tackled.</figcaption>
 </figure> 
 
@@ -29,12 +29,12 @@ That first movement from Nicolas Jackson to make the run central towards Lewis D
 That lack of experience translates to unintelligent movement. The intelligent move is to check to the space because you can't get a ton of power on a header on a looped cross up into that gaggle of Brighton defenders near the penalty spot, but you can tap it in across the goal if you check to that triangle of space. 
 
 <figure>
-    <img src="https://i.imgur.com/naMHGvL.jpeg">
+    <img src="https://i.imgur.com/naMHGvL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Marc Cucurella on the underlap is played the ball. Watch Cole Palmer and Nicolas Jackson.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sgozcFU.jpeg">
+    <img src="https://i.imgur.com/sgozcFU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Cole Palmer attacks the triangle of space at the near post as Marc Cucurella crosses.</figcaption>
 </figure> 
 
@@ -43,7 +43,7 @@ Cole Palmer does the right thing. He attacks that triangle of space at the near 
 Remaining in an athletic stance means that your body, your legs, arms, chest are prepared to shoot or receive. If the ball falls to you, your body should not have to adjust. 
 
 <figure>
-    <img src="https://i.imgur.com/mW9DkBO.jpeg">
+    <img src="https://i.imgur.com/mW9DkBO.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Nicolas Jackson to the penalty spot as Cole Palmer heads in the goal.</figcaption>
 </figure> 
 
@@ -54,12 +54,12 @@ If Palmer's header is saved, the rebound is going to fall right into the six-yar
 And he's also not in an athletic stance. His chest is pointed away from the goal, his left foot is up, knee bent. He needs to have his chest pointed at Palmer, arms out square to the ball, with his left foot ready to collect or shoot first-time. 
 
 <figure>
-    <img src="https://i.imgur.com/JWByiG5.jpeg">
+    <img src="https://i.imgur.com/JWByiG5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Malo Gusto is played the ball on the overlap. Watch Nicolas Jackson and Cole Palmer.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/dbzYZMv.jpeg">
+    <img src="https://i.imgur.com/dbzYZMv.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Malo Gusto crosses. Cole Palmer attacks the space at the near post and Nicolas Jackson continues his run straight.</figcaption>
 </figure> 
 
@@ -68,7 +68,7 @@ Once you see Malo Gusto on the overlap, the run should be automatic. Fake a run 
 Plant the left foot down hard to shake off the defender, check to the space with your chest pointed towards the ball, and have your right foot ready to shoot.
 
 <figure>
-    <img src="https://i.imgur.com/sCuZtO4.jpeg">
+    <img src="https://i.imgur.com/sCuZtO4.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Nicolas Jackson's body is unprepared for the cross, on the far post, as Malo Gusto attempts a shot/cross.</figcaption>
 </figure> 
 
@@ -77,12 +77,12 @@ This is great movement to sneak to the back-post, but you have to attack the spa
 Right leg should be ahead of the left, ready to launch off the left heel, to sprint the moment Gusto crosses. He's trying to stay onside, but he should be preparing his body, out of view of the defense, to sneak up on that far-post. 
 
 <figure>
-    <img src="https://i.imgur.com/Xdg1mZ0.jpeg">
+    <img src="https://i.imgur.com/Xdg1mZ0.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Malo Gusto on the break, watch Nicolas Jackson and Christopher Nkunku.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/XFPlMNE.jpeg">
+    <img src="https://i.imgur.com/XFPlMNE.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Christopher Nkunku fakes a run to the far post and then checks to the penalty spot, taking advantage of the space created by Nicolas Jackson's continued run. Malo Gusto crosses to Nkunku, and he scores.</figcaption>
 </figure> 
 

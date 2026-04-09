@@ -18,12 +18,12 @@ Bayern Munich used clever positioning to pin Jorginho and Ben White high on the 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/eDtRDHT.jpeg">
+    <img src="https://i.imgur.com/eDtRDHT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Eric Dier has the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/8jqwC9D.jpeg">
+    <img src="https://i.imgur.com/8jqwC9D.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Illustration of Figure 1.1</figcaption>
 </figure> 
 
@@ -38,7 +38,7 @@ Because all of that happening ahead, White can't follow Guerreiro. He wants to b
 
 
 <figure>
-    <img src="https://i.imgur.com/u8MWo11.jpeg">
+    <img src="https://i.imgur.com/u8MWo11.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Eric Dier passes to Raphaël Guerreiro. 3v2 overload with Jorginho and Ben White pinned.</figcaption>
 </figure> 
 
@@ -47,12 +47,12 @@ Bayern Munich shift over Laimer, and Dier moves to the touch-line. All the passi
 Notice how Kimmich drops out of frame. He's now helping De Ligt because Dier moves wide.  
 
 <figure>
-    <img src="https://i.imgur.com/0xIOWh3.jpeg">
+    <img src="https://i.imgur.com/0xIOWh3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Bayern Munich play out of the overload to Leroy Sané.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/iAhdezi.jpeg">
+    <img src="https://i.imgur.com/iAhdezi.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Leroy Sané isolated 1v1 versus Takehiro Tomiyasu.</figcaption>
 </figure> 
 

@@ -16,14 +16,14 @@ I would say Cesc Fàbregas' approach to building up is both risky and pragmatic,
 He opens the video with the line "my obsession is to play forward, as a midfielder, this is what I've always loved, because I like to attack and I like to have the ball in the final third, which is where you win games." That's beautiful and you can tell he has been heavily influenced by Arsène Wenger. He describes Arsène's similar philosophy in [the first masterclass video](https://youtu.be/yIHnusixSgA?si=vWq0EmHk8ubg7TOi) when Cesc explains what his role was in past Arsenal squads.
 
 <figure>
-    <img src="https://i.imgur.com/rJXcFPq.png">
+    <img src="https://i.imgur.com/rJXcFPq.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - 4-2-4 with strikers in the half-space, and opposition pressing high.</figcaption>
 </figure> 
 
 I like the idea of using the two strikers as 10s, having them drop to force the center-backs to follow them into the half-space. That then leaves the space open for the wingers to attack centrally, behind the center-backs, but I can't get past the feeling that it's predictable. 
 
 <figure>
-    <img src="https://i.imgur.com/zFdfwnM.png">
+    <img src="https://i.imgur.com/zFdfwnM.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - The pass that is free is the direct pass to the #10 in the half-space.</figcaption>
 </figure> 
 
@@ -32,7 +32,7 @@ It's predictable because there's not a ton of options for the full-backs and mid
 You can pressure and then expect the pass to the striker, or pressure and expect the long ball to the wingers. The wingers are a non-factor, short, because they are tight to the wing and need to stay forward to threaten that pass behind the center-backs. 
 
 <figure>
-    <img src="https://i.imgur.com/EBuk7xv.png">
+    <img src="https://i.imgur.com/EBuk7xv.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - The threat of the wingers forces the center-backs back, which creates space for the two 10s.</figcaption>
 </figure> 
 
@@ -43,7 +43,7 @@ All of that is what makes it risky for me. I like the reactiveness to wait for t
 Fàbregas acknowledges the fact that this system requires time on the training ground. I don't think it's one where he could walk in day one and immediately get results. 
 
 <figure>
-    <img src="https://i.imgur.com/sW0qLny.png">
+    <img src="https://i.imgur.com/sW0qLny.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Overload is maintained at the back even when the opponent backs off.</figcaption>
 </figure> 
 
@@ -52,7 +52,7 @@ It's a pragmatic approach because he always has that overload at the back. If th
 There's an overload, but limited space in the middle, and limited progressive passing options. It's a system reliant on the movement and intelligence from the full-back to know when to make those third man runs. 
 
 <figure>
-    <img src="https://i.imgur.com/cUEYZtv.jpg">
+    <img src="https://i.imgur.com/cUEYZtv.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Ball is passed to Pervis Estupinán who is on the overlap, then Kaoura Mitoma makes a run to the top of the goal area. <a href="https://tacticsjournal.com/2023/09/25/brighton-move-without-thinking/">Original post</a></figcaption>
 </figure> 
 

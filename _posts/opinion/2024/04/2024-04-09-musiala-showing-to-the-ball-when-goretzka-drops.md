@@ -15,24 +15,24 @@ Against Dortmund, when Leon Goretzka dropped to the left of Eric Dier, Jamal Mus
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/UbDWsMn.jpeg">
+    <img src="https://i.imgur.com/UbDWsMn.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Before Leon Goretzka drops.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/6I9abF5.jpeg">
+    <img src="https://i.imgur.com/6I9abF5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Leon Goretzka drops back to the left of Eric Dier, Jamal Musiala checks to the ball in the half-space, and Alphonso Davies pushes forward.</figcaption>
 </figure> 
 
 Goretzka won't look to pass to Davies. Davies is there to hold width and be an attacking threat when Musiala receives and turns on the half-turn. Any pass into him will be negative because those two defenders closest to him close in, block off the pass to Musiala, and then he's forced back to Goretzka. 
 
 <figure>
-    <img src="https://i.imgur.com/f63G7Im.jpeg">
+    <img src="https://i.imgur.com/f63G7Im.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Leon Goretzka drops to the left of Eric Dier and Alphonso Davies immediately pushes forward up the wing. Jamal Musiala makes the run to check to the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/VYcwcBE.jpeg">
+    <img src="https://i.imgur.com/VYcwcBE.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Jamal Musiala calls for the ball when Leon Goretzka receives the ball.</figcaption>
 </figure> 
 

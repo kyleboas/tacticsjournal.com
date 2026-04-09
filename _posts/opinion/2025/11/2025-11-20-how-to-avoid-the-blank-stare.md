@@ -4,7 +4,7 @@ date: 2025-11-20 11:00 UTC
 title: "How to avoid the blank stare"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2025/11/19/Image-19Nov2025_23:05:39.png"
+image: "/images/uploads/2025/11/19/Image-19Nov2025_23:05:39.png"
 ---
 
 You remember things you can visualize. If you’re worried the people listening will stare at you like you’ve got four eyes, include a word or sentence they can picture. A complex idea becomes simple when you can see it.

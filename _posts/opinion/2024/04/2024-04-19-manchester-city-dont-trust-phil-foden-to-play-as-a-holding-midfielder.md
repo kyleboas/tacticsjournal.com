@@ -21,7 +21,7 @@ Pep Guardiola [in the summer](https://www.manchestereveningnews.co.uk/sport/foot
 > He's a midfield player but in time he's going to learn to play as a holding midfielder, even, because he has the ability to learn.
 
 <figure>
-    <img src="https://i.imgur.com/zklx14T.jpeg">
+    <img src="https://i.imgur.com/zklx14T.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manuel Akanji inverts from center-back, Bernardo Silva moves wide left, almost acting as a full-back.</figcaption>
 </figure> 
 
@@ -36,22 +36,22 @@ Pep Guardiola mentioned after the match he does "not have any regret" after thei
 Mateo Kovacic rotated wide left in the second half of the first leg against Real Madrid, and Bernardo Silva did the same in the first half of the second leg. If they trusted Foden, they'd use him there in the first half. 
 
 <figure>
-    <img src="https://i.imgur.com/MhhGwI0.jpeg">
+    <img src="https://i.imgur.com/MhhGwI0.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bernardo Silva free in the half-space with space behind him to turn in to.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/wNDhLBn.jpg">
+    <img src="https://i.imgur.com/wNDhLBn.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Phil Foden drops into the half-space to receive the ball and Thomas Partey follows.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CxC1Wp8.jpg">
+    <img src="https://i.imgur.com/CxC1Wp8.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Phil Foden lowers his body to prepare to pivot around Thomas Partey.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/iUrEH34.jpg">
+    <img src="https://i.imgur.com/iUrEH34.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Phil Foden pivots around Thomas Partey.</figcaption>
 </figure> 
 
@@ -60,12 +60,12 @@ You want Phil Foden in that half-space, central, on the turn, not Bernardo Silva
 They start with the most conservative tactic.
 
 <figure>
-    <img src="https://i.imgur.com/Zp84mHJ.jpeg">
+    <img src="https://i.imgur.com/Zp84mHJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Phil Foden plays a wall pass off Manuel Akanji to play Kevin De Bruyne in down the wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Tzdim1j.jpeg">
+    <img src="https://i.imgur.com/Tzdim1j.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Kevin De Bruyne crosses. Erling Haaland cuts to the far-post to open space for the cut-back to Bernardo Silva on the near-post. Jack Grealish is free on the back-post.</figcaption>
 </figure>
 
@@ -76,31 +76,31 @@ You want Silva there on the right-wing in place of Foden, so that Foden can atta
 City sacrifice that better dynamic in the final third of De Bruyne and Foden central to have Bernardo wide left when they are under pressure. 
 
 <figure>
-    <img src="https://i.imgur.com/Cmzlc5r.jpeg">
+    <img src="https://i.imgur.com/Cmzlc5r.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Phil Foden rotates with Kevin De Bruyne, moving infield into the pockets, central.</figcaption>
 </figure> 
 
 Once Manchester City become more comfortable in possession, after 20 minutes pass; then Phil Foden can switch with Kevin De Bruyne to get into those pockets, central. But it doesn't happen from the start of the match, it doesn't happen enough, and when it does happen, it happens too late into the half for Foden to make an impact.
 
 <figure>
-    <img src="https://i.imgur.com/lJjgnae.jpeg">
+    <img src="https://i.imgur.com/lJjgnae.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Manchester City overload the left-wing. Rodri drives forward with the ball. Phil Foden holds width off-camera on the right-wing.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4ipOXpf.jpeg">
+    <img src="https://i.imgur.com/4ipOXpf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Phil Foden rotated with Bernardo Silva, infield into the pockets, central. Manuel Akanji rotates with Kevin De Bruyne.</figcaption>
 </figure> 
 
 In the second half, when Real Madrid back off, that's when Manchester City makes the change to have Bernardo Silva move to the right-wing. Kevin De Bruyne and Phil Foden move central, and Manuel Akanji has more freedom to move away from Rodri. 
 
 <figure>
-    <img src="https://i.imgur.com/luRo2qh.jpeg">
+    <img src="https://i.imgur.com/luRo2qh.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 8.1 - Manuel Akanji is played in to the byline and cuts back to Kevin De Bruyne.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DxLJVX5.jpeg">
+    <img src="https://i.imgur.com/DxLJVX5.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 8.2 - Kevin De Bruyne skies the ball over the post.</figcaption>
 </figure> 
 

@@ -4,7 +4,7 @@ date: 2024-12-24 12:00 UTC
 title: "Not taking any risks is a risk"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/12/23/Image-23Dec2024_23:02:57.png"
+image: "/images/uploads/2024/12/23/Image-23Dec2024_23:02:57.png"
 ---
 
 Stagnation should terrify those that want to improve. How do you stagnate? You play it safe. You make it, and then you plateau because you don't take risks. It is more risky to play it safe than it is to take risks.

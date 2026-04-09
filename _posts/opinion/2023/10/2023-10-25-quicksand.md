@@ -50,7 +50,7 @@ Roberto De Zerbi's thoughts on the changes in the 2nd half after commenting they
 > "We played with more energy, courage, personality. We kept order on the pitch without the ball."
 
 <figure>
-    <img src="https://i.imgur.com/tfAgydU.jpg">
+    <img src="https://i.imgur.com/tfAgydU.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Roberto De Zerbi instructed Brighton to slow it down and "pass the ball."</figcaption>
 </figure> 
 

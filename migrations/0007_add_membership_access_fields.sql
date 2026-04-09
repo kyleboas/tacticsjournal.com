@@ -1,0 +1,4 @@
+ALTER TABLE users ADD COLUMN access_level TEXT NOT NULL DEFAULT 'free';
+ALTER TABLE users ADD COLUMN trial_started_at DATETIME;
+ALTER TABLE users ADD COLUMN trial_ends_at DATETIME;
+ALTER TABLE users ADD COLUMN pro_expires_at DATETIME;

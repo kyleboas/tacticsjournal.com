@@ -15,12 +15,12 @@ July 23, 2023 — Kobbie Mainoo, playing for Manchester United, has impressed in
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/VIrXMfS.jpg">
+    <img src="https://i.imgur.com/VIrXMfS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/APKSkjL.jpg">
+    <img src="https://i.imgur.com/APKSkjL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1</figcaption>
 </figure> 
 
@@ -31,21 +31,21 @@ This allows Luke Shaw to get forward rather than stay back and be the one to joi
 
 
 <figure>
-    <img src="https://i.imgur.com/B22VRCI.jpg">
+    <img src="https://i.imgur.com/B22VRCI.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1</figcaption>
 </figure>
 
 
 
 <figure>
-    <img src="https://i.imgur.com/VZyoYJV.jpg">
+    <img src="https://i.imgur.com/VZyoYJV.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Kobbie Mainoo dropping against Lyon.</figcaption>
 </figure> 
 
 Mainoo did this against Lyon as well, constantly.
 
 <figure>
-    <img src="https://i.imgur.com/LoUbG5J.jpg">
+    <img src="https://i.imgur.com/LoUbG5J.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1</figcaption>
 </figure>
 
@@ -56,12 +56,12 @@ Casemiro should operate in the same way, but Kobbie Mainoo looks like he deserve
 He stood out more than Declan Rice. His movement was fluid. High intelligence from an 18-year old. 
 
 <figure>
-    <img src="https://i.imgur.com/7eOU6uK.jpg">
+    <img src="https://i.imgur.com/7eOU6uK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Kobbie Mainoo quickly dives to block a shot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/foO7hDa.jpg">
+    <img src="https://i.imgur.com/foO7hDa.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - Another angle of Mainoo's block.</figcaption>
 </figure> 
 
@@ -70,7 +70,7 @@ This block was an eye-opener. Great recovery and awareness to stop a certain goa
 
 
 <figure>
-    <img src="https://i.imgur.com/9FgFBLJ.jpg">
+    <img src="https://i.imgur.com/9FgFBLJ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Arsenal holds off their counter-press to force Manchester United long.</figcaption>
 </figure> 
 

@@ -18,47 +18,47 @@ Arsenal's leaders gifted Kai Havertz his first goal when they gave him the penal
 For context, Noni Madueke initially looked like the player that drew the penalty. Therefore that person who wins the penalty normally takes the penalty, but Cole Palmer was the one who won the penalty. 
 
 <figure>
-    <img src="https://i.imgur.com/pqDhAqs.jpeg">
+    <img src="https://i.imgur.com/pqDhAqs.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Noni Madueke and Nicolas Jackson fight for the ball when the pen is called.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/cOaRUYN.jpeg">
+    <img src="https://i.imgur.com/cOaRUYN.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Noni Madueke says "It's mine".</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/xMU3WsW.jpeg">
+    <img src="https://i.imgur.com/xMU3WsW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Nicolas Jackson and Noni Madueke still going back and forth.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/cKCg77B.jpeg">
+    <img src="https://i.imgur.com/cKCg77B.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Thiago Silva comes over to talk everyone down.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/NVLO6Aw.jpeg">
+    <img src="https://i.imgur.com/NVLO6Aw.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Cole Palmer tries to steal the ball from Noni Madueke, and Conor Gallagher comes in to move Madueke away.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sMqInuv.jpeg">
+    <img src="https://i.imgur.com/sMqInuv.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - (Captain) Conor Gallagher steals the ball from Noni Madueke to hand it to Cole Palmer</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/FzTmSdc.jpeg">
+    <img src="https://i.imgur.com/FzTmSdc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Nicolas Jackson takes offense to Madueke not taking the penalty and tries to steal the ball back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0cw6B3E.jpeg">
+    <img src="https://i.imgur.com/0cw6B3E.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8 - Cole Palmer pushes Nicolas Jackson back.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ajMycIC.jpeg">
+    <img src="https://i.imgur.com/ajMycIC.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.9 - (Captain) Conor Gallagher pushes Nicolas Jackson and Noni Madueke back.</figcaption>
 </figure> 
 
@@ -93,52 +93,52 @@ Compare that to what Arsenal did for former Chelsea forward Kai Havertz in Septe
 A team operates like Arsenal. The collective is more important than individual goal tallies. Mikel Arteta in-trusted the players to decide who takes the penalty. A leader, the captain, Martin Ødegaard, conferred with the rest of the team, and they decided to give Kai Havertz that first goal. 
 
 <figure>
-    <img src="https://i.imgur.com/QXg3jJm.jpeg">
+    <img src="https://i.imgur.com/QXg3jJm.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - (Captain) Martin Ødegaard talks with Gabriel Jesus to see who wants to take the penalty.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Bd86bFU.jpeg">
+    <img src="https://i.imgur.com/Bd86bFU.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Bukayo Saka holds the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/6Arz44w.jpeg">
+    <img src="https://i.imgur.com/6Arz44w.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Bukayo Saka hands the ball to Kai Havertz to take the penalty.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/e3MBK38.jpeg">
+    <img src="https://i.imgur.com/e3MBK38.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Kai Havertz scores the penalty and Arsenal celebrate.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/w98XO3K.jpeg">
+    <img src="https://i.imgur.com/w98XO3K.jpeg" loading="lazy" decoding="async">
     <figcaption> Figure 2.5 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/qBTJw8H.jpeg">
+    <img src="https://i.imgur.com/qBTJw8H.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 - Look at the relief on Kai Havertz's face.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/gz8gGRo.jpeg">
+    <img src="https://i.imgur.com/gz8gGRo.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.7</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Xapd0Gf.jpeg">
+    <img src="https://i.imgur.com/Xapd0Gf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.8 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4IjvepX.jpeg">
+    <img src="https://i.imgur.com/4IjvepX.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.9 - Gabriel Jesus hugging Kai Havertz.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/5uvVMC6.jpeg">
+    <img src="https://i.imgur.com/5uvVMC6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.10 - (Captain) Martin Ødegaard hugging Kai Havertz. </figcaption>
 </figure> 
 

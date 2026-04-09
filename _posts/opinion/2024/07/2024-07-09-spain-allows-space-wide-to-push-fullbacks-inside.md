@@ -9,7 +9,7 @@ tags:
 - "Germany"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/08/Image-08Jul2024_23:36:39.png"
+image: "/images/uploads/2024/07/08/Image-08Jul2024_23:36:39.png"
 ---
 
 Spain have been doing this all tournament, but it became clear after the Germany match that they are fine with allowing space out wide to limit space central. Fullbacks Dani Carvajal and Marc Cucurella almost bait the pass wide to push inside. 
@@ -17,7 +17,7 @@ Spain have been doing this all tournament, but it became clear after the Germany
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/08/Image-08Jul2024_23:33:28.png">
+    <img src="/images/uploads/2024/07/08/Image-08Jul2024_23:33:28.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Fullbacks Dani Carvajal and Marc Cucurella track runners inside, allowing space wide, and Lamine Yamal marks the far-side fullback.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ You will see Dani Carvajal and Marc Cucurella checking over their shoulders to s
 On their right side, Lamine Yamal tracks the fullback back if they make the run forward. Nico Williams on the left side isn't as defensively disciplined as Yamal. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/08/Image-08Jul2024_23:33:30.png">
+    <img src="/images/uploads/2024/07/08/Image-08Jul2024_23:33:30.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Marc Cucurella pushes inside, putting pressure on a forward, and Germany switch out to Joshua Kimmich behind Cucurella.</figcaption>
 </figure>
 

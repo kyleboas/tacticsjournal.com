@@ -23,12 +23,12 @@ Luis Enrique in a [post-match press conference](https://youtu.be/zdAUKgwiK18?si=
 > Dortmund is a very well-worked team. It has those two options. If you don't pressure them well, they are capable of outplaying you. If you pressure them well, they play a long ball. 
 
 <figure>
-    <img src="https://i.imgur.com/hU8dUu8.jpeg">
+    <img src="https://i.imgur.com/hU8dUu8.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Nuno Mendes stays back with Lucas Hernandez and Marquinhos, allowing Achraf Hakimi to push forward which forces Ousmane Dembélé to invert.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/j5mItJT.jpeg">
+    <img src="https://i.imgur.com/j5mItJT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Nuno Mendes will always stay back. He leaves Bradley Barcola two-v-one on the left-wing.</figcaption>
 </figure> 
 
@@ -39,22 +39,22 @@ Nuno Mendes always stays back, that's what Luis Enrique is referring to when he 
 I prefer Dembélé when he stays on the touchline. Hakimi wasn't as effective one-v-one when he received facing play against Adeyemi and Maatsen. Mendes can't get forward because PSG wanted Hakimi forward on the right-wing, to allow Dembélé to invert. 
 
 <figure>
-    <img src="https://i.imgur.com/WBgK68S.jpeg">
+    <img src="https://i.imgur.com/WBgK68S.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Ousmane Dembélé follows Emre Can as PSG counter-press.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DR9Mwx0.jpeg">
+    <img src="https://i.imgur.com/DR9Mwx0.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Ousmane Dembélé follows Emre Can in the middle third, allowing Bradley Barcola and Kylian Mbappe to press the back two.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/eEEQnom.jpeg">
+    <img src="https://i.imgur.com/eEEQnom.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - PSG's rest defense in defensive transition. </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4U8GQpy.jpeg">
+    <img src="https://i.imgur.com/4U8GQpy.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Ousmane Dembélé tracking back with the midfield to block off the pass to Emre Can.</figcaption>
 </figure> 
 

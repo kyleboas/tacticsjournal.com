@@ -15,12 +15,12 @@ Before Dejan Kulusevski came on in the 70th minute, no one was making simple dum
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/z2qwK9A.jpeg">
+    <img src="https://i.imgur.com/z2qwK9A.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Dejan Kulusevski begins a run inside.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/6wRfUtp.jpeg">
+    <img src="https://i.imgur.com/6wRfUtp.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Tottenham static inside the box.</figcaption>
 </figure> 
 
@@ -29,12 +29,12 @@ Without runs, counter-movement away, in different directions, play becomes slow 
 It doesn't even need to be a run to an area where you can receive, it needs to be a run that forces a defender to move with them. Defender moves, another forward moves, then the space is there. It confuses the defense, it manipulates their shape, and then you attack the areas they vacate. 
 
 <figure>
-    <img src="https://i.imgur.com/y0TzF2W.jpg">
+    <img src="https://i.imgur.com/y0TzF2W.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Pedro Porro moves back once Dejan Kulusevski makes his run, and Cristian Romero passes the ball to Pedro Porro.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sJCV1c7.jpeg">
+    <img src="https://i.imgur.com/sJCV1c7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Pedro Porro receives and has space to carry into the box.</figcaption>
 </figure> 
 

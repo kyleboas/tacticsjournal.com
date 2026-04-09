@@ -9,7 +9,7 @@ tags:
 - "Juventus"
 - "Serie A"
 - "Champions League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/18/Image-18Sep2024_01:02:51.png"
+image: "/images/uploads/2024/09/18/Image-18Sep2024_01:02:51.png"
 ---
 
 Juventus have conceded only one goal this season because they have found a way to remain active without overextending themselves. They have a high level of patience. The key is in the way Locatelli, Bremer, and Gatti dictate their level of aggression.
@@ -17,7 +17,7 @@ Juventus have conceded only one goal this season because they have found a way t
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/17/Image-17Sep2024_23:22:09.png">
+    <img src="/images/uploads/2024/09/17/Image-17Sep2024_23:22:09.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Juventus 4-1-4-1 defensive shape.</figcaption>
 </figure>
 
@@ -26,14 +26,14 @@ When the opponent has the ball, Juventus will fall into this 4-1-4-1 defensive s
 Defensive midfielder Manuel Locatelli is seen more as a general, perusing behind. He will look for the weak points in their defense and fill the gaps, while one of either defenders, Gleison Bremer or Federcio Gatti, is free to follow players as they drop back towards the ball carrier.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/17/Image-17Sep2024_23:22:07.png">
+    <img src="/images/uploads/2024/09/17/Image-17Sep2024_23:22:07.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Juventus' pressing PSV when PSV are passing out of their own penalty area. </figcaption>
 </figure>
 
 When PSV played out from their own penalty area, Juventus would look to pressure the ball carrier to force them to play long. Locatelli would position himself to replace the midfielder's marking assignment, and then Gatti would replace Locatelli. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/17/Image-17Sep2024_23:22:11.png">
+    <img src="/images/uploads/2024/09/17/Image-17Sep2024_23:22:11.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - PSV attempts to play the ball down the right wing, and Gleison Bremer follows a forward back. </figcaption>
 </figure>
 
@@ -44,14 +44,14 @@ I'm sure there was vocal communication between the three defenders, but all thre
 Juventus' forwards would press in the wide areas, but that pass to the next line was always marked off.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/17/Image-17Sep2024_23:22:12.png">
+    <img src="/images/uploads/2024/09/17/Image-17Sep2024_23:22:12.png" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - PSV cross the ball into the box from the right wing as Juventus double team the winger crossing.</figcaption>
 </figure>
 
 There was this illusion that you could walk into Juventus' penalty box. They allowed the PSV wingers to walk into the final third and then would apply just enough pressure to not allow them to advance into the box. But once you got into their half, the attackers had little to no options other than to attempt a cross into the box. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/17/Image-17Sep2024_23:22:13.png">
+    <img src="/images/uploads/2024/09/17/Image-17Sep2024_23:22:13.png" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - PSV kick the ball long to Juventus' back line after circulating the ball. </figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ This is where the patience comes into play because they know that if they mainta
  
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/17/Image-17Sep2024_23:25:48.png">
+    <img src="/images/uploads/2024/09/17/Image-17Sep2024_23:25:48.png" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Juventus overcommit to the ball side and PSV switch to the far side winger.</figcaption>
 </figure>
 

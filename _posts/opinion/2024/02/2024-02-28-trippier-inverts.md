@@ -17,12 +17,12 @@ Newcastle intermittently had Kiernan Trippier move from his normal right-back po
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/rZKq7Jh.jpeg">
+    <img src="https://i.imgur.com/rZKq7Jh.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Newcastle's normal back-four with a lone pivot in their own end.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/3fEEqVL.jpeg">
+    <img src="https://i.imgur.com/3fEEqVL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Sean Longstaff drops to help Bruno Guimaraes.</figcaption>
 </figure> 
 
@@ -31,12 +31,12 @@ It's very easy for Blackburn to double-team the lone-pivot Bruno Guimaraes. That
 If they want more variety in their passing, not just going wide, one of either Sean Longstaff or Joe Willock has to drop to pull one of those markers away from Guimaraes. 
 
 <figure>
-    <img src="https://i.imgur.com/5QJCTUa.jpeg">
+    <img src="https://i.imgur.com/5QJCTUa.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Kiernan Trippier inverts from right-back to join Bruno Guimaraes in a double pivot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/7MANIWs.jpeg">
+    <img src="https://i.imgur.com/7MANIWs.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Kiernan Trippier inverts again.</figcaption>
 </figure> 
 

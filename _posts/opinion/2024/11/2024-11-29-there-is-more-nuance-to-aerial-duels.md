@@ -4,7 +4,7 @@ date: 2024-11-29 12:00 UTC
 title: "There is more nuance to aerial duels"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_11:56:26.png"
+image: "/images/uploads/2024/11/23/Image-23Nov2024_11:56:26.png"
 ---
 
 In my opinion, you need to visually see an aerial duel to determine who won, as there is more nuance involved in assessing who is to blame for not winning possession. We should consider whether that stat represents the information we are looking for.
@@ -30,22 +30,22 @@ For example, say I put Peter Crouch on a team filled with small children and he 
 Touching the ball first is only half the battle. Maybe I’m misunderstanding something, but how can one bring up an aerial duel stat total over a given period and then say that it can represent the quality of Peter Crouch’s ability to win aerial duels without factoring in other data like if or for how long possession was maintained after that touch?
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_11:56:26.png">
+    <img src="/images/uploads/2024/11/23/Image-23Nov2024_11:56:26.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - The ball is kicked long to Kai Havertz.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_11:56:28.png">
+    <img src="/images/uploads/2024/11/23/Image-23Nov2024_11:56:28.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Kai Havertz controls the ball with his thigh.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_11:56:29.png">
+    <img src="/images/uploads/2024/11/23/Image-23Nov2024_11:56:29.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Martin Ødegaard goes to challenge for the ball.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/11/23/Image-23Nov2024_11:56:30.png">
+    <img src="/images/uploads/2024/11/23/Image-23Nov2024_11:56:30.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Alexis Mac Allister bodies Martin Ødegaard and wins possession for Liverpool. </figcaption>
 </figure>
 

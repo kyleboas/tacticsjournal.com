@@ -16,27 +16,27 @@ Nicolas Jackson's best attribute is his ability to turn a defender, but Chelsea 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/Q0nNJVO.jpeg">
+    <img src="https://i.imgur.com/Q0nNJVO.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Axel Disasi passes to Nicolas Jackson from a free kick.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/JXTbSXk.jpeg">
+    <img src="https://i.imgur.com/JXTbSXk.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Nicolas Jackson receives the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/OMvaQ2n.jpeg">
+    <img src="https://i.imgur.com/OMvaQ2n.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Nicolas Jackson shifts his hips infield to lengthen the distance between his body and the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/NnNaRxP.jpeg">
+    <img src="https://i.imgur.com/NnNaRxP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Nicolas Jackson turns sharply and prepared a touch as the defender is behind him.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ysDR9m9.jpeg">
+    <img src="https://i.imgur.com/ysDR9m9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Nicolas Jackson lowers his body and takes the touch forward away from the defender. Cole Palmer begins his run.</figcaption>
 </figure> 
 
@@ -49,26 +49,26 @@ The defender's momentum and foot stance, pointed towards Chelsea's goal, do not 
 Once Cole Palmer sees that Jackson is going to take that touch, he immediately goes. You need to move at speed to make this work, or else Luton Town will have time to react and get in a compact position that would force Jackson to pass back or wide, rather than central to Palmer. 
 
 <figure>
-    <img src="https://i.imgur.com/BaUswp7.jpeg">
+    <img src="https://i.imgur.com/BaUswp7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Christopher Nkunku begins his run, dragging a defender to the left.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/KuNGlvm.jpeg">
+    <img src="https://i.imgur.com/KuNGlvm.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Nicolas Jackson plays Cole Palmer into the box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/u3759E3.jpeg">
+    <img src="https://i.imgur.com/u3759E3.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8 - Cole Palmer runs onto the ball.</figcaption>
 </figure> 
 <figure>
-    <img src="https://i.imgur.com/YyAYEDI.jpeg">
+    <img src="https://i.imgur.com/YyAYEDI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.9 - Cole Palmer fakes the shot but dribbles to the right past the keeper.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/pFuMxv9.jpeg">
+    <img src="https://i.imgur.com/pFuMxv9.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.10 - Cole Palmer calmly scores.</figcaption>
 </figure> 
 

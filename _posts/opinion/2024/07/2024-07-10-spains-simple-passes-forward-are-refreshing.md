@@ -9,7 +9,7 @@ tags:
 - "France"
 - "Euro 2024"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:57:40.png"
+image: "/images/uploads/2024/07/10/Image-10Jul2024_00:57:40.png"
 ---
 
 Watching France, Portugal, or England pass sideways is like drinking hot Dasani water in the sun, while watching Spain is like chugging an ice-cold glass of water in the shade. It's refreshing to see a team pass forward through the middle of the pitch.
@@ -17,7 +17,7 @@ Watching France, Portugal, or England pass sideways is like drinking hot Dasani 
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:57:41.png">
+    <img src="/images/uploads/2024/07/10/Image-10Jul2024_00:57:41.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Nacho Fernandez passes forward to Dani Olmo, and the ball falls to Lamine Yamal.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Spain play a simple pass forward, and France collapse on Dani Olmo. Even when Da
 This is an exaggerated example because Kylian Mbappe never tracks back to defend, therefore Jesús Navas is wide open on the right wing. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:17:40.png">
+    <img src="/images/uploads/2024/07/10/Image-10Jul2024_00:17:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Lamine Yamal scores from long distance.</figcaption>
 </figure>
 
@@ -37,12 +37,12 @@ Naturally, France will both retreat and spread out to mark the players in the wi
 Lamine Yamal would never have this space without that first pass forward from Nacho Fernandez. It seems insignificant in the moment but it opens up the pitch. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:17:42.png">
+    <img src="/images/uploads/2024/07/10/Image-10Jul2024_00:17:42.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Lamine Yamal receives a forward pass, dribbles infield, passes forward to Dani Olmo, and Olmo passes wide to Jesús Navas.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/10/Image-10Jul2024_00:17:43.png">
+    <img src="/images/uploads/2024/07/10/Image-10Jul2024_00:17:43.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Jesús Navas crosses into the six-yard box, and it gets headed back to Dani Olmo.</figcaption>
 </figure>
 

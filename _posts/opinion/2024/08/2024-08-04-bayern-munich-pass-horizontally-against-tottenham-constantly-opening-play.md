@@ -11,7 +11,7 @@ tags:
 - "Bundesliga"
 - "Preseason"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_14:17:06.png"
+image: "/images/uploads/2024/08/03/Image-03Aug2024_14:17:06.png"
 ---
 
 With each pass, Bayern Munich looked to pass horizontally, ignoring passes on the ball side in favor of passing to the far side, avoiding playing several passes on one side of the pitch. This stretched Tottenham and every player shared the same mindset.
@@ -20,7 +20,7 @@ With each pass, Bayern Munich looked to pass horizontally, ignoring passes on th
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_13:33:35.png">
+    <img src="/images/uploads/2024/08/03/Image-03Aug2024_13:33:35.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Passing sequence ending in a switch vertically to Serge Gnabry over the top.</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ This is different from passing side to side endlessly, something I have complain
 Play to the other side because eventually the pass into the box will open up because Tottenham could never get into position to challenge the ball. They were having to constantly rotate their hips and chase. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_13:33:37.png">
+    <img src="/images/uploads/2024/08/03/Image-03Aug2024_13:33:37.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Gabriel Vidovic ignores the pass to Serge Gnabry in favor of switching to the left.</figcaption>
 </figure>
 
@@ -46,15 +46,15 @@ I think the tactic of constantly looking for the pass to the other side of the p
 It was a very effective way of playing against Tottenham because they do try to press high, although their press is a bit half-hearted. Defenders are rarely challenging the man from behind with the same intensity as Bayern Munich. Tottenham are already stretched across the pitch attempting to press high, then you throw in constant switches of play, and as Munich zigzag around the pitch, space into the box opens up. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_13:33:39.png">
+    <img src="/images/uploads/2024/08/03/Image-03Aug2024_13:33:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Bayern Munich switch quickly to the left, out to Sacha Boey.</figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_13:33:40.png">
+    <img src="/images/uploads/2024/08/03/Image-03Aug2024_13:33:40.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Bayern Munich horizontally aligns immediately in anticipation of the pass from Sacha Boey. Boey passes to Gabriel Vidovic. </figcaption>
 </figure>
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/08/03/Image-03Aug2024_13:33:42.png">
+    <img src="/images/uploads/2024/08/03/Image-03Aug2024_13:33:42.png" loading="lazy" decoding="async">
     <figcaption>Figure 3.3 - Tottenham collapse on the ball and Gabriel Vidovic passes out to Mathys Tel.</figcaption>
 </figure>
 

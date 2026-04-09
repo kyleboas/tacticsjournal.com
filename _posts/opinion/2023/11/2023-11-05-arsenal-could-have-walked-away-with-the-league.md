@@ -26,7 +26,7 @@ Make one change. Substitute Declan Rice for Thomas Partey, or Gabriel as I recom
 Newcastle started on the front foot. The crowd at St. James' Park plays a significant role in any match there. You must quiet them, or the atmosphere will engulf you.
 
 <figure>
-    <img src="https://i.imgur.com/2J2nSNT.jpg">
+    <img src="https://i.imgur.com/2J2nSNT.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Arsenal's 4-3-3 with Declan Rice at left center-mid and Kai Havertz at right center-mid.</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ One positive note is that Kai Havertz is playing on the right, which is better f
 The physicality in this game highlights the makeover Arsenal underwent in the summer. Last season, they passed through Newcastle and won, as detailed [here](https://tacticsjournal.com/NASCAR/). This season, they are looking to use a more direct approach to brute force their way into Newcastle's half.
 
 <figure>
-    <img src="https://i.imgur.com/1d4PTUZ.jpg">
+    <img src="https://i.imgur.com/1d4PTUZ.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Newcastle counter-pressing during an Arsenal goal kick.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ I was really disappointed with Newcastle's summer transfer....
 I had to stop typing this mid-sentence during the game when Kai Havertz flew into Sean Longstaff.
 
 <figure>
-    <img src="https://i.imgur.com/XykyTna.jpg">
+    <img src="https://i.imgur.com/XykyTna.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Kai Havertz diving off the ground with studs up into Sean Longstaff.</figcaption>
 </figure>
 
@@ -63,26 +63,26 @@ You almost feel that Newcastle needs that anger, the grit, to get the adrenaline
 With Dan Burn off, you might think that the weakness is now substitute Valitino Livramento at right-back. Kiernan Trippier switched to left-back, and Gabriel Martinelli got a chance to go one-on-one against Livramento. If you were a betting man, you'd expect Martinelli to dominate Livramento.
 
 <figure>
-    <img src="https://i.imgur.com/OxnhQEW.jpg">
+    <img src="https://i.imgur.com/OxnhQEW.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Gabriel Martineli, Declan Rice, Oleksandr Zinchenko overload the left-wing.</figcaption>
 </figure>
 
 But Livramento did incredibly well. Despite his performance, Mikel Arteta noticed this weakness and moved his players to the left to overload that wing. Put the pressure on. Martinelli, Rice, Havertz, and Zinchenko all began to bear down on the substitute.
 
 <figure>
-    <img src="https://i.imgur.com/Y6xZRVl.jpg">
+    <img src="https://i.imgur.com/Y6xZRVl.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Gabriel Martineli, Kai Havertz, Bukayo Saka, Declan Rice, and Oleksandr Zinchenko overload the left-wing.</figcaption>
 </figure>
 
 Then, around the 80th minute, Saka and Trossard joined in. Eddie Howe countered by switching ball-winner Joelinton to the right to help mark Martinelli and stem the tide.
 
 <figure>
-    <img src="https://i.imgur.com/SfDW6VH.jpg">
+    <img src="https://i.imgur.com/SfDW6VH.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Oleksandr Zinchenko makes a run into space, and Gabriel Martinelli passes the ball to him.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/AKDyHig.jpg">
+    <img src="https://i.imgur.com/AKDyHig.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - Oleksandr Zinchenko crosses.</figcaption>
 </figure>
 

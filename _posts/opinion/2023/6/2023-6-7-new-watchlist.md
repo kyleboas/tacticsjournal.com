@@ -18,7 +18,7 @@ June 7, 2023 — I have decided to create a public watchlist of players whom I t
 > I will be updating this frequently so check back or bookmark it. 
 
 <figure>
-    <img src="https://i.imgur.com/fNITcFf.jpg">
+    <img src="https://i.imgur.com/fNITcFf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Undervalued XI 2022/2023</figcaption>
 </figure> 
 

@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS gumroad_events (
+    id TEXT PRIMARY KEY,
+    event_name TEXT NOT NULL,
+    payload TEXT NOT NULL,
+    processed BOOLEAN DEFAULT FALSE,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+);

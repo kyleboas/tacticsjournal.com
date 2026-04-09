@@ -18,43 +18,43 @@ Inter are one of the most complete teams in Europe in all phases of play. One lo
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/SmJ5wba.jpeg">
+    <img src="https://i.imgur.com/SmJ5wba.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Yann Sommer passes wide right to Benjamin Pavard.</figcaption>
 </figure> 
 
 They have this one particular passing sequence out from the back to their right down pat. 
 
 <figure>
-    <img src="https://i.imgur.com/BYl1JM0.jpeg">
+    <img src="https://i.imgur.com/BYl1JM0.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Benjamin Pavard passes to Matteo Darmian.</figcaption>
 </figure> 
 
 Take note of Federico Dimarco's starting position and where he ends up at the end of this play.
 
 <figure>
-    <img src="https://i.imgur.com/7w1xdXq.jpeg">
+    <img src="https://i.imgur.com/7w1xdXq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Matteo Darmian boots it forward to the forwards.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/atcftlO.jpeg">
+    <img src="https://i.imgur.com/atcftlO.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Lautaro Martinez drops to play the ball forward to Henrikh Mkhitaryan and Federico Dimarco.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Uy9OGeg.jpeg">
+    <img src="https://i.imgur.com/Uy9OGeg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Henrikh Mkhitaryan touches it on to Federico Dimarco.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CXbp38T.jpeg">
+    <img src="https://i.imgur.com/CXbp38T.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Federico Dimarco puts in an early cross to Marko Arnautovic.</figcaption>
 </figure> 
 
 Dimarco puts in a massive effort to go all the way from the back to front and put in an almost perfect cross to Arnautovic. He was as far back as Pavard to start the play.
 
 <figure>
-    <img src="https://i.imgur.com/jzdLHhf.jpeg">
+    <img src="https://i.imgur.com/jzdLHhf.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7 - Marko Arnautovic hits it over the bar on the stretch.</figcaption>
 </figure> 
 
@@ -65,7 +65,7 @@ That drop from Martinez to receive the pass from Darmian is what we saw last sea
 They maintain that +1 in both their own end and the final third. 
 
 <figure>
-    <img src="https://i.imgur.com/eMhos4n.jpeg">
+    <img src="https://i.imgur.com/eMhos4n.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Ball is played wide to Federico Dimarco and Henrikh Mkhitaryan makes the run into the left half-space.</figcaption>
 </figure> 
 

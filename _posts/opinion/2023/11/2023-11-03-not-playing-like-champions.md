@@ -17,7 +17,7 @@ In the United States, in the early 2000s, the only team you knew was Manchester 
 I played football since I could walk but you didn't get the chance to watch live matches over here because they were not broadcast on TV. Watching online wasn't really a thing. You could get highlights but you didn't know the players, and it's hard to follow when you can't watch a match live. 
 
 <figure>
-    <img src="https://i.imgur.com/2zSKTUS.jpg">
+    <img src="https://i.imgur.com/2zSKTUS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - 2003 Manchester United Play Like Champions DVD</figcaption>
 </figure> 
 

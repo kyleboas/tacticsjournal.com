@@ -18,53 +18,53 @@ I'm growing increasingly frustrated with Jack Grealish's unwillingness to attemp
 This forces England to play exclusively through the middle of the pitch, to start and end possessions, which leads to fewer chances because generating chances exclusively through the middle is difficult without an outlet wide to attack the corner. 
 
 <figure>
-    <img src="https://i.imgur.com/Tmaca1Z.jpg">
+    <img src="https://i.imgur.com/Tmaca1Z.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Jack Grealish plays the ball first time to James Maddison.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/PXEj2F8.jpg">
+    <img src="https://i.imgur.com/PXEj2F8.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - James Maddison receives the ball in space unmarked.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/4ZYIu0z.jpg">
+    <img src="https://i.imgur.com/4ZYIu0z.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - James Maddison makes the run to the open space when Jack Grealish receives the ball.</figcaption>
 </figure> 
 
 Most wingers would take a touch to the left and immediately run at the opposition full-back, then either dribble around them or play Maddison in. Jack Grealish's default is to play back, the safe pass to circulate. 
 
 <figure>
-    <img src="https://i.imgur.com/x9qJaB5.jpg">
+    <img src="https://i.imgur.com/x9qJaB5.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Jack Grealish drives inside, ignoring James Maddison.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Gz35IR1.jpg">
+    <img src="https://i.imgur.com/Gz35IR1.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Jack Grealish passes to Lewis Dunk.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/gbCOz2t.jpg">
+    <img src="https://i.imgur.com/gbCOz2t.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Jack Grealish continues his run into space in the left half-space.</figcaption>
 </figure> 
 
 Once Grealish passes back, they should look to immediately play the ball back to him because he often finds himself in positive positions in the half-space.
 
 <figure>
-    <img src="https://i.imgur.com/zQ1QzCp.jpg">
+    <img src="https://i.imgur.com/zQ1QzCp.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Jack Grealish bullies his man off the ball.</figcaption>
 </figure> 
 
 Jack Grealish is fantastic in the tackle. He's very strong and knows how to time a hip or time a leg so he can win 50-50s like this one. 
 
 <figure>
-    <img src="https://i.imgur.com/zqJWn01.jpg">
+    <img src="https://i.imgur.com/zqJWn01.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Jack Grealish turns and plays Ollie Watkins in.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/YwR7nqK.jpg">
+    <img src="https://i.imgur.com/YwR7nqK.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.4 - Ollie Watkins receives the ball in space and runs at goal.</figcaption>
 </figure> 
 

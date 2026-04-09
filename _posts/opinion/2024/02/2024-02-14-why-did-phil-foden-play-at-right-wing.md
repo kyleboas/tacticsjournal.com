@@ -17,18 +17,18 @@ Grealish, De Bruyne, and Bernardo Silva come into the Manchester City side. That
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/duE1RUc.jpeg">
+    <img src="https://i.imgur.com/duE1RUc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Bernardo Silva holding width on the left as Jérémy Doku inverts infield.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/rsvtUMd.jpeg">
+    <img src="https://i.imgur.com/rsvtUMd.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Bernardo Silva quarterbacking the play in a similar position to Josko Gvardiol.</figcaption>
 </figure>
 
 
 <figure>
-    <img src="https://i.imgur.com/TEAVppB.jpeg">
+    <img src="https://i.imgur.com/TEAVppB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Passing options open to Josko Gvardiol versus Brentford on February 4th.</figcaption>
 </figure> 
 
@@ -48,7 +48,7 @@ For now, Pep Guardiola disagrees with you and me. Here he explains when Kevin De
 
 
 <figure>
-    <img src="https://i.imgur.com/BnUAg9h.jpeg">
+    <img src="https://i.imgur.com/BnUAg9h.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Bernardo Silva dropping to help as Manchester City get pressed high in their own end.</figcaption>
 </figure> 
 
@@ -57,24 +57,24 @@ When FC København press high, Pep Guardiola wants to overload the middle of the
 For that reason, Foden is on the right-wing, interchanging with Kevin De Bruyne. If FC København sit back, Kyle Walker will come forward from right-back to right-wing, and Foden inverts into the midfield with Bernardo Silva and Kevin De Bruyne. 
 
 <figure>
-    <img src="https://i.imgur.com/brB5Eb7.jpeg">
+    <img src="https://i.imgur.com/brB5Eb7.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Kevin De Bruyne and Phil Foden Touchmaps. <a href="https://x.com/4lex_mcfc/status/1757603037118398467?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Credit to 4lex_mcfc, data from WhoScored</a></figcaption>
 </figure> 
 
 When the team are sustaining pressure, Foden tends to stay wide, but as the game settles, they were switching positions with De Bruyne moving wide and Foden moving infield. 
 
 <figure>
-    <img src="https://i.imgur.com/cy6gn30.jpeg">
+    <img src="https://i.imgur.com/cy6gn30.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Phil Foden cutting infield as Kevin De Bruyne underlaps towards the byline.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Ten2M6d.jpeg">
+    <img src="https://i.imgur.com/Ten2M6d.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Phil Foden continues his run and Kevin De Bruyne cuts back the ball to the top of the six-yard box.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/x6CEXCS.jpeg">
+    <img src="https://i.imgur.com/x6CEXCS.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.3 - Phil Foden scores.</figcaption>
 </figure> 
 

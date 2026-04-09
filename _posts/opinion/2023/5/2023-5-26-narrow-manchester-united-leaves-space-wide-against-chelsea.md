@@ -15,24 +15,24 @@ May 26, 2023 — Manchester United were narrow and at times unruly in defending 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/6zh3Ikg.jpg">
+    <img src="https://i.imgur.com/6zh3Ikg.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Aaron Wan-Bissaka gets dragged inside, leaving space behind him.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/heARUhe.jpg">
+    <img src="https://i.imgur.com/heARUhe.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - The ball is played out to Lewis Hall.</figcaption>
 </figure> 
 
 
 
 <figure>
-    <img src="https://i.imgur.com/SVo2d6x.jpg">
+    <img src="https://i.imgur.com/SVo2d6x.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Luke Shaw gets dragged inside.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/3khFnOs.jpg">
+    <img src="https://i.imgur.com/3khFnOs.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - The ball is played out wide behind Luke Shaw.</figcaption>
 </figure> 
 
@@ -41,7 +41,7 @@ Chelsea is not a clinical team at the moment, but their passing when transitioni
 It's not one player's fault; it must be something happening in training because the entire team has lost the ability to shoot accurately. 
 
 <figure>
-    <img src="https://i.imgur.com/Bupx5iS.jpg">
+    <img src="https://i.imgur.com/Bupx5iS.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - The ball is progressed by Chelsea into the final third, and Lewis Hall is free on the far side.</figcaption>
 </figure> 
 

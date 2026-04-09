@@ -16,29 +16,29 @@ Liverpool are an underrated team in defensive transition. They are one of the be
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/MWQ29o2.jpeg">
+    <img src="https://i.imgur.com/MWQ29o2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Neal Maupay chases the ball down as Brentford counter</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Y3pffba.jpeg">
+    <img src="https://i.imgur.com/Y3pffba.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Ibrahima Konate doesn't attempt a tackle, electing to hold up the ball-carrier.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/NxhXGuL.jpeg">
+    <img src="https://i.imgur.com/NxhXGuL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - Neal Maupay begins to get swarmed by Liverpool.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/1Lw0NuT.jpeg">
+    <img src="https://i.imgur.com/1Lw0NuT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 -  Neal Maupay is forced to attempt a pass back.</figcaption>
 </figure> 
 
 Ibrahima Konate is completely capable of making the 1v1 challenge but he purposely doesn't attempt to tackle Maupay. Instead he slows Maupay down to allow for the rest of defendes to get behind the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/utzdHM4.jpeg">
+    <img src="https://i.imgur.com/utzdHM4.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Gabriel disposed from Ivan Toney.</figcaption>
 </figure> 
 

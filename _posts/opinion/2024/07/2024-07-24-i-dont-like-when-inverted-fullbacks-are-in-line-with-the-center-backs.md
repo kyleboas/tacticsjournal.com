@@ -9,7 +9,7 @@ tags:
 - "Celtic"
 - "Premier League"
 - "Preseason"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_01:02:17.png"
+image: "/images/uploads/2024/07/24/Image-24Jul2024_01:02:17.png"
 ---
 
 When the inverted fullbacks are in line with the center-backs in a 2-3 sub-structure, the distance between all five players makes passing out awkward. Manchester City provided an example of this against Celtic in their opening preseason match.
@@ -17,7 +17,7 @@ When the inverted fullbacks are in line with the center-backs in a 2-3 sub-struc
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_01:02:14.png">
+    <img src="/images/uploads/2024/07/24/Image-24Jul2024_01:02:14.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester City building up from the goalkeeper with the fullbacks inverted in line with the center-backs.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ One man is open, the right center-back, and then when they receive the pass, the
 To me, it doesn't matter who you put in that position; the distance makes it hard to connect three passes, especially if those center-backs remain in their position. One from the center-back, to the defensive midfielder, and then out to a fullback. The fullback always receives under immense pressure. 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_01:02:15.png">
+    <img src="/images/uploads/2024/07/24/Image-24Jul2024_01:02:15.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Manchester City building up from the center-back, in the middle third, with the fullbacks inverted in line with the center-backs.</figcaption>
 </figure>
 

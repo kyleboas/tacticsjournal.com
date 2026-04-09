@@ -16,12 +16,12 @@ A high-line requires complete coordination. It's like synchronized swimming. Sub
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/NP9OjJH.jpeg">
+    <img src="https://i.imgur.com/NP9OjJH.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/a3d94a58/Cristian-Romero?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-16_fb">Cristian Romero</a>  looks back at <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/620922ed/Radu-Dragusin?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-17_fb">Radu Drăgușin</a>  to see where he is.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/c5XLeJd.jpeg">
+    <img src="https://i.imgur.com/c5XLeJd.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - All four Tottenham defenders watch the ball as <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/289601e6/Antonee-Robinson?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-17_fb">Antonee Robinson</a> dribbles down the wing.</figcaption>
 </figure> 
 
@@ -32,7 +32,7 @@ Once the play continues and he's now in-line it is the responsibility of the far
 Cristian Romero is not an owl. He can't rotate his head 180 degrees. If he wanted to scan behind he would need to break his stride to rotate his hips away from the sideline. He is relying on Drăgușin to stay in-line with him. 
 
 <figure>
-    <img src="https://i.imgur.com/snIk3jf.jpg">
+    <img src="https://i.imgur.com/snIk3jf.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 - <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/289601e6/Antonee-Robinson?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-17_fb">Antonee Robinson</a> crosses to <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/a755db8c/Rodrigo-Muniz?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-17_fb">Rodrigo Muniz</a>. <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/620922ed/Radu-Dragusin?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-17_fb">Radu Drăgușin</a>  is not in line with <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/a3d94a58/Cristian-Romero?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-16_fb">Cristian Romero</a>.</figcaption>
 </figure> 
 
@@ -41,12 +41,12 @@ When the ball is played into the box, Drăgușin is behind Romero. There's a poc
 For the reasons stated before, this is not Romero's problem. This is on Drăgușin because it's his job to maintain that high-line. To not give Muniz a pocket to work in behind Tottenham's back-line. 
 
 <figure>
-    <img src="https://i.imgur.com/J5NsFNg.jpeg">
+    <img src="https://i.imgur.com/J5NsFNg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 - Ball gets past <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/a3d94a58/Cristian-Romero?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-16_fb">Cristian Romero</a>  and <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/620922ed/Radu-Dragusin?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-17_fb">Radu Drăgușin</a>.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ls01xXb.jpeg">
+    <img src="https://i.imgur.com/ls01xXb.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - <a rel="nofollow noopener" target="_blank" href="https://fbref.com/en/players/a755db8c/Rodrigo-Muniz?utm_medium=linker&amp;utm_source=fbref.com&amp;utm_campaign=2024-03-17_fb">Rodrigo Muniz</a> shoots across goal and scores uncontested.</figcaption>
 </figure> 
 

@@ -20,17 +20,17 @@ You can [read the full match preview for the Tottenham v Manchester United match
 Giovani Lo Celso has filled in for James Maddison as the #10, but he was out injured. Dejan Kulusevski would then fill in for Lo Celso, but he was out due to illness. Oliver Skipp filled in for Kulusevski, but Skipp is not a #10, so the dynamic was different. They had to play much slower. 
 
 <figure>
-    <img src="https://i.imgur.com/zYyakPK.jpeg">
+    <img src="https://i.imgur.com/zYyakPK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Space open to run towards.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/5VjNE49.jpeg">
+    <img src="https://i.imgur.com/5VjNE49.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Space for Richarlison to run towards to receive a pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/eTNWXMK.jpeg">
+    <img src="https://i.imgur.com/eTNWXMK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Space for Udogie to run towards and then two options to cross across goal.</figcaption>
 </figure> 
 
@@ -39,12 +39,12 @@ Because Tottenham built up slower than they normally would. they couldn't time t
 They elected to pass the ball back to circulate possession rather than play that killer pass into the space. 
 
 <figure>
-    <img src="https://i.imgur.com/EwPdFgj.jpeg">
+    <img src="https://i.imgur.com/EwPdFgj.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Destiny Udogie runs into the space and Timo Werner passes him the ball.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/z187wto.jpeg">
+    <img src="https://i.imgur.com/z187wto.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Destiny Udogie attempts to cut-back the ball across goal, but it is blocked.</figcaption>
 </figure> 
 
@@ -57,37 +57,37 @@ Then Udogie has the option to shoot, cut-back to Richarlison, or fizz the ball a
 Same thing happens for Tottenham's goal in the second half. 
 
 <figure>
-    <img src="https://i.imgur.com/Hx9DyZg.jpeg">
+    <img src="https://i.imgur.com/Hx9DyZg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Timo Werner drives inside as Oliver Skipp makes the run to drag a defender wide. Rodrigo Bentancur begins his run into the left half-space.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/T9sw2uB.jpeg">
+    <img src="https://i.imgur.com/T9sw2uB.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Timo Werner passes the ball to Rodrigo Bentancur.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/C5jo4IE.jpeg">
+    <img src="https://i.imgur.com/C5jo4IE.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.3 - Rodrigo Bentancur takes his first touch one-v-one with Jonny Evans.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/pAvqfyT.jpeg">
+    <img src="https://i.imgur.com/pAvqfyT.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.4 - Timo Werner continues running forward to the top of the box as Rodrigo Bentancur takes the shot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/Kly61eg.jpeg">
+    <img src="https://i.imgur.com/Kly61eg.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.5 - Rodrigo Bentancur's shot.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/SPGr9Z4.jpeg">
+    <img src="https://i.imgur.com/SPGr9Z4.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.6 - Goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/0bjoPLr.jpeg">
+    <img src="https://i.imgur.com/0bjoPLr.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Illustration of the two types of chances Tottenham should look for against Manchester United.</figcaption>
 </figure>
 

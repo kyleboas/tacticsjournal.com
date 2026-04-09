@@ -5,7 +5,7 @@ title: "Positionism and Relationism change the way we look at football"
 tags: "Relationism"
 categories:
 - "opinion"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/01/Image-01Oct2024_23:55:02.png"
+image: "/images/uploads/2024/10/01/Image-01Oct2024_23:55:02.png"
 ---
 
 One issue in pointing out things that might be considered to be part of [positionism or relationism](https://medium.com/@stirlingj1982/what-is-relationism-c98d6233d9c2) is that there is some overlap between the two playing styles. It's not a light switch that is turned on and off; it is more like a gauge that swings back and forth.
@@ -13,7 +13,7 @@ One issue in pointing out things that might be considered to be part of [positio
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/01/Image-01Oct2024_23:42:44.png">
+    <img src="/images/uploads/2024/10/01/Image-01Oct2024_23:42:44.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Technical analysis.</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ The stock market moves up and down every day. Traders use technical analysis to 
 The one thing that remains the same for everyone is the underlying price. No matter if you are losing money or making money, wrong or right, if your strategy works or it doesn't, the price remains the same for everyone.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/10/01/Image-01Oct2024_23:55:02.png">
+    <img src="/images/uploads/2024/10/01/Image-01Oct2024_23:55:02.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Positionism versus Relationism gauge.</figcaption>
 </figure>
 

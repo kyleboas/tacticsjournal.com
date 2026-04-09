@@ -20,45 +20,45 @@ August 26, 2023 — Luton Town are not solid defensively, but some of the timing
 > August 14, 2023 — Chelsea hesitated to play the pass to Nicolas Jackson against Liverpool on multiple occasions, wasting high-quality chances.
 
 <figure>
-    <img src="https://i.imgur.com/pORBKBz.jpg">
+    <img src="https://i.imgur.com/pORBKBz.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Enzo Fernandez plays Nicolas Jackson into the box.</figcaption>
 </figure>
 
 Nicolas Jackson is always making the run. He is relentless.
 
 <figure>
-    <img src="https://i.imgur.com/eYQ2h27.jpg">
+    <img src="https://i.imgur.com/eYQ2h27.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Chelsea (left) and Luton Town (right) cluster of progressive pass attempts. <a href="https://x.com/markstatsbot/status/1695179363459956907?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Graphic by markrstats</a></figcaption>
 </figure> 
 
 In the first half, Chelsea had trouble finding Jackson. The majority of their progressive pass attempts were to the wings. It was only when they began to play passes like the one Enzo Fernandez made from Figure 1.1 in the second half that things began to happen. Jackson can't score if he's never given high-quality chances. Keep feeding the kid the ball.
 
 <figure>
-    <img src="https://i.imgur.com/64FU0WP.jpg">
+    <img src="https://i.imgur.com/64FU0WP.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Nicolas Jackson shoots from a tight angle.</figcaption>
 </figure>
 
 Once you play Jackson in, Raheem Sterling is usually free on the back post. If the shot is not on, all Jackson has to do is play a ball to the top of the penalty area for the easy tap-in.
 
 <figure>
-    <img src="https://i.imgur.com/Ii6YIa9.jpg">
+    <img src="https://i.imgur.com/Ii6YIa9.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Nicolas Jackson passes to Raheem Sterling with two Chelsea players making a run to the far post.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/CwOozGL.jpg">
+    <img src="https://i.imgur.com/CwOozGL.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Raheem Sterling passes across goal but the pass has too much weight on it.</figcaption>
 </figure>
 
 Raheem Sterling was man of the match, and importantly he is beginning to take the necessary risks. He's not hesitating. The runs are being made; they just need that final pass to be made.
 
 <figure>
-    <img src="https://i.imgur.com/nZgimwE.jpg">
+    <img src="https://i.imgur.com/nZgimwE.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Nicolas Jackson passes to Raheem Sterling.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/w9k6amo.jpg">
+    <img src="https://i.imgur.com/w9k6amo.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.2 - Nicolas Jackson goes after passing waiting for the pass back from Raheem Sterling, but Sterling ignores the run.</figcaption>
 </figure>
 
@@ -67,19 +67,19 @@ It's not perfect yet though; there are times like this where a clear goalscoring
 Once Jackson and Sterling get on the same page, teams will have trouble holding Chelsea back because the speed at which Jackson can break past backlines is too difficult to contain. Pair that with Sterling's elite misdirection; it makes it feel like you're defending against three men, not two.
 
 <figure>
-    <img src="https://i.imgur.com/gnX4mNY.jpg">
+    <img src="https://i.imgur.com/gnX4mNY.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Moises Caicedo plays Malo Gusto in down the wing.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/49VE4l8.jpg">
+    <img src="https://i.imgur.com/49VE4l8.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Malo Gusto crosses first-time on the ground to Raheem Sterling.</figcaption>
 </figure>
 
 The reason why I like Malo Gusto, Ian Maatsen, and Levi Colwill is that they all just go; they don't wait to pass. Gusto receives the ball from Caicedo, and then he immediately zeroes in on the crossing target.
 
 <figure>
-    <img src="https://i.imgur.com/4pBDoNE.jpg">
+    <img src="https://i.imgur.com/4pBDoNE.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.3 - Raheem Sterling scores.</figcaption>
 </figure>
 
@@ -88,17 +88,17 @@ No delay; cross and score. It's reliable and predictable, which makes ball-strik
 If there's any delay, the player striking the ball will often be off-balance, so they can't get a clean strike on the ball.
 
 <figure>
-    <img src="https://i.imgur.com/KfrdM9l.jpg">
+    <img src="https://i.imgur.com/KfrdM9l.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Enzo Fernandez plays Raheem Sterling in down the line, behind Luton Town's backline.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/0gTw521.jpg">
+    <img src="https://i.imgur.com/0gTw521.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - Raheem Sterling runs onto the ball as Nicolas Jackson makes the run to the danger area in the box.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/GDrIp9G.jpg">
+    <img src="https://i.imgur.com/GDrIp9G.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.3 - Raheem Sterling passes to Nicolas Jackson, and the pass is deflected perfectly to reach Jackson within the target area.</figcaption>
 </figure>
 

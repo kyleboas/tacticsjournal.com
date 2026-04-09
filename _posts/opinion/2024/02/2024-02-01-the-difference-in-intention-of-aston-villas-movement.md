@@ -17,17 +17,17 @@ I compared two different passages of play of Aston Villa. One from October again
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/NTBxMCF.jpeg">
+    <img src="https://i.imgur.com/NTBxMCF.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/5y5t4eq.jpeg">
+    <img src="https://i.imgur.com/5y5t4eq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/IBdSOg6.jpeg">
+    <img src="https://i.imgur.com/IBdSOg6.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3</figcaption>
 </figure> 
 
@@ -36,44 +36,44 @@ The arrival of John McGinn central to receive the pass in a pocket with Douglas 
 It's all coordinated and easy on the eye. 
 
 <figure>
-    <img src="https://i.imgur.com/0EpmQE4.jpeg">
+    <img src="https://i.imgur.com/0EpmQE4.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/VpWMCKc.jpeg">
+    <img src="https://i.imgur.com/VpWMCKc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/3Y3Ym1n.jpeg">
+    <img src="https://i.imgur.com/3Y3Ym1n.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ktMZXfS.jpeg">
+    <img src="https://i.imgur.com/ktMZXfS.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.7</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/McR3XfI.jpeg">
+    <img src="https://i.imgur.com/McR3XfI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.8</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/tOyr6Uo.jpeg">
+    <img src="https://i.imgur.com/tOyr6Uo.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.9</figcaption>
 </figure> 
 
 Aston Villa are moving towards the ball, towards the space closest to the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/fuPlqxt.jpeg">
+    <img src="https://i.imgur.com/fuPlqxt.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.10</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/lMjhE0J.jpeg">
+    <img src="https://i.imgur.com/lMjhE0J.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.11</figcaption>
 </figure> 
 
@@ -84,58 +84,58 @@ There is only three changes in the lineup when you compare this match against We
 The rest of the lineup is the same, a back-four with two full-backs, Cash and Moreno, but a different application of how they move. 
 
 <figure>
-    <img src="https://i.imgur.com/3twAaEx.jpeg">
+    <img src="https://i.imgur.com/3twAaEx.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/DfKgadv.jpeg">
+    <img src="https://i.imgur.com/DfKgadv.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ZvjDHPq.jpeg">
+    <img src="https://i.imgur.com/ZvjDHPq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/WtTnHLK.jpeg">
+    <img src="https://i.imgur.com/WtTnHLK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4</figcaption>
 </figure> 
 
 Aston Villa are moving away from the ball, in unison. There's a double pivot, and the rest attack space ahead of the ball. There's very little movement ahead or behind the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/cXKw9wc.jpeg">
+    <img src="https://i.imgur.com/cXKw9wc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.5</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/CB2O5cP.jpeg">
+    <img src="https://i.imgur.com/CB2O5cP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.6 </figcaption>
 </figure> 
 
 As the ball is played side to side, again, little movement but all in unison. It's a very predictable way of playing. 
 
 <figure>
-    <img src="https://i.imgur.com/BnPkMXa.jpeg">
+    <img src="https://i.imgur.com/BnPkMXa.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.7</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/IMLD0KK.jpeg">
+    <img src="https://i.imgur.com/IMLD0KK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.8</figcaption>
 </figure> 
 
 Once the ball is played wide, due to that lack of movement before they play wide, there's little space created for the front three. 
 
 <figure>
-    <img src="https://i.imgur.com/pjtH1C1.jpeg">
+    <img src="https://i.imgur.com/pjtH1C1.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.9 </figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/BbrBild.jpeg">
+    <img src="https://i.imgur.com/BbrBild.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.10</figcaption>
 </figure> 
 

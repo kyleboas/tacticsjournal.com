@@ -7,7 +7,7 @@ categories:
 tags:
 - "England"
 - "International"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/10/Image-10Sep2024_23:10:41.png"
+image: "/images/uploads/2024/09/10/Image-10Sep2024_23:10:41.png"
 ---
 
 When England fullbacks Rico Lewis and Trent Alexander-Arnold switched sides positionally, it got me thinking: when the opposition doesn't press, a fullback could move at speed, almost like an overlap on the wing, to help overload the opposite wing.
@@ -15,7 +15,7 @@ When England fullbacks Rico Lewis and Trent Alexander-Arnold switched sides posi
 <!---more--->
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/10/Image-10Sep2024_23:10:37.png">
+    <img src="/images/uploads/2024/09/10/Image-10Sep2024_23:10:37.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - England fullbacks Rico Lewis and Trent Alexander-Arnold switch sides positionally.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ The natural move is to work the ball through the wings, where the space forward 
 The way in which the opposition presses Rico Lewis will be different from how they would press Trent Alexander-Arnold. Rico Lewis operates more like a pocket-playing midfielder, playing one-touch passes. Lewis' marker would want to stay close to him. Trent normally likes to take at least one touch before playing the next pass. His marker wouldn't need to mark him as close; they can mark Declan Rice closer because they're anticipating that Trent won't play a pass on his first touch.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/11/Image-11Sep2024_00:01:22.png">
+    <img src="/images/uploads/2024/09/11/Image-11Sep2024_00:01:22.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Trent Alexander-Arnold switches sides with Rico Lewis, and Declan Rice moves back to cover for Trent Alexander-Arnold. This specific movement opens space for Jack Grealish in the left half-space.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ When the fullbacks switch sides, the opposition midfielders on either side have 
 That could disrupt the pressing triggers for the opposition, opening space central.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/10/Image-10Sep2024_23:10:39.png">
+    <img src="/images/uploads/2024/09/10/Image-10Sep2024_23:10:39.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Right-back Trent Alexander-Arnold moves right to left behind Angel Gomes, takes the pass from Ezri Konsa, and then passes out to Anthony Gordon on the left wing.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Declan Rice rotates back wide right to cover for Trent Alexander-Arnold as he sw
 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/11/Image-11Sep2024_00:11:36.png">
+    <img src="/images/uploads/2024/09/11/Image-11Sep2024_00:11:36.png" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - England overload the left wing with three diagonals opened up to move the ball out of the overload.</figcaption>
 </figure>
 

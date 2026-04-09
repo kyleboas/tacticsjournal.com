@@ -7,7 +7,7 @@ categories:
 tags:
 - "Manchester City"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/09/07/Image-07Sep2024_00:10:34.png"
+image: "/images/uploads/2024/09/07/Image-07Sep2024_00:10:34.png"
 ---
 
 Pay attention to Manchester City at the start of the season because, as Rodri says about Pep Guardiola, "He is never satisfied with keeping things exactly as we played last season, because your competition is always going to be analyzing last season."

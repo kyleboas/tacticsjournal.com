@@ -16,19 +16,19 @@ Manchester United did something that Liverpool and Tottenham could not against A
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/JSZzy4R.jpeg">
+    <img src="https://i.imgur.com/JSZzy4R.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester United win the ball in their own half and Arsenal have players waiting for the pass up the right-wing.</figcaption>
 </figure> 
 
 Most teams, especially Liverpool, when they win back the ball, they will immediately look to play the ball up the line. Counter as quickly as possible. This is exactly what Arsenal want you to do. They have players waiting for that pass. 
 
 <figure>
-    <img src="https://i.imgur.com/yglvGoL.jpeg">
+    <img src="https://i.imgur.com/yglvGoL.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Manchester United on the break and Arsenal have three players ready to swarm every United attacker.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/vcYsQkI.jpeg">
+    <img src="https://i.imgur.com/vcYsQkI.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Three Arsenal players collapse on Diego Dalot and the pass central is marked.</figcaption>
 </figure> 
 
@@ -37,7 +37,7 @@ When you counter, they will have at least three players waiting for the pass for
 [It is like quicksand](https://tacticsjournal.com/2023/10/25/quicksand/). The more Manchester United struggles and forces things, the easier it is to sink. If you take your time, they’ll allow you to advance into their end and create chances.
 
 <figure>
-    <img src="https://i.imgur.com/J3oU3mD.jpeg">
+    <img src="https://i.imgur.com/J3oU3mD.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Shark flipped upside down experiencing tonic immobility.</figcaption>
 </figure> 
 
@@ -48,12 +48,12 @@ Arsenal is the shark.
 An apex predator, killing machine, rendered useless with this one trick. This is a compliment to be compared to a shark.
 
 <figure>
-    <img src="https://i.imgur.com/mBCgdaw.jpeg">
+    <img src="https://i.imgur.com/mBCgdaw.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Manchester United win the ball easily.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/sX0pGCx.jpeg">
+    <img src="https://i.imgur.com/sX0pGCx.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.2 - Arsenal collapse the center of the pitch when Manchester United slowly build-up.</figcaption>
 </figure> 
 
@@ -62,7 +62,7 @@ Manchester United don't fall into the trap of exploiting the space immediately o
 Allow the shark to swim to you. Don't swim away from the shark, don't fight the shark; hold it, flip it over, and it's immobilized. 
 
 <figure>
-    <img src="https://i.imgur.com/4XNs5jS.jpeg">
+    <img src="https://i.imgur.com/4XNs5jS.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Arsenal 4-4-2 low-block.</figcaption>
 </figure> 
 
@@ -73,26 +73,26 @@ This is [the same plan](https://tacticsjournal.com/2024/02/03/how-liverpool-can-
 The Old Trafford crowd were initially annoyed with how slowly they were playing out from the back, not taking the chance to counter when it seemed to be on, but as the game went on they began to realize how effective it was at neutralizing Arsenal. 
 
 <figure>
-    <img src="https://i.imgur.com/rzGLg6i.jpeg">
+    <img src="https://i.imgur.com/rzGLg6i.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.1 - Ben White passes back to David Raya. Rasmus Hojlund's press is triggered by the pass.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ta6caKq.jpeg">
+    <img src="https://i.imgur.com/ta6caKq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.2 - David Raya kicks the ball long to Kai Havertz. Scott Mctominay positions his body to block off the pass to Thomas Partey.</figcaption>
 </figure> 
 
 When United were without the ball, their main goal was to force the pass back to the goalkeeper David Raya by tightly covering the pass down the wing. Stay patient. Wait for Arsenal to come to you and [block off the pass central](https://tacticsjournal.com/2024/03/13/portos-cover-shadow-masterclass-against-arsenal/) like Scott Mctominay is in **Figure 4.2**.
 
 <figure>
-    <img src="https://i.imgur.com/dJr20hJ.jpeg">
+    <img src="https://i.imgur.com/dJr20hJ.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 7.3 - Kai Havertz heads the ball. Declan Rice is too far away and Bukayo Saka is blocked off from the second ball.</figcaption>
 </figure> 
 
 You want Arsenal in that deep low-block without the ball because their midfield and wingers will be forced to defend deeper. When they defend deeper, they can't support Kai Havertz when they win back the ball.  When they can't support Kai Havertz, you can easily win back the ball because he is isolated. 
 
 <figure>
-    <img src="https://i.imgur.com/YHaHeyc.jpeg">
+    <img src="https://i.imgur.com/YHaHeyc.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 8.1 - Alejandro Garnacho's chance to shoot in massive amounts of space.</figcaption>
 </figure> 
 

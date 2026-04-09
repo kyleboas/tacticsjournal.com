@@ -4,7 +4,7 @@ layout: page
 permalink: /research/about/
 hide_title: true
 image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2026/03/22/Image-22Mar2026_09:00:35.png"
-description: "Tactics Journal research monitors more football content than any person could, across leagues, languages, and cultures, and autonomously writes reports on what it finds. Join the waitlist."
+description: "Tactics Journal research monitors more football content than any person could, across leagues, languages, and cultures, and autonomously writes reports on what it finds. Start your trial or subscribe to Pro."
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/research/research.css" />
@@ -12,7 +12,7 @@ description: "Tactics Journal research monitors more football content than any p
 <link rel="stylesheet" href="{{ site.baseurl }}/research/scrolling-headlines.css" />
 <script src="{{ site.baseurl }}/research/scrolling-headlines.js" defer></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https:// fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Source+Serif+4:wght@700&display=swap" rel="stylesheet">
 
 <div class="research-page">
@@ -22,7 +22,8 @@ description: "Tactics Journal research monitors more football content than any p
   <h2 class="r-fade r-fade-d1">Get ahead of the game</h2>
   <p class="r-sub-statement r-fade r-fade-d2">The future of football tactics, delivered to you today.</p>
   <div class="r-hero-actions r-fade r-fade-d3">
-    {% include research-waitlist-form.html %}
+    <a class="r-tier-cta" href="/account/?intent=trial">Start free trial</a>
+    <a class="r-tier-cta r-tier-cta--featured" href="{{ site.gumroad_pro_monthly_url }}" target="_blank" rel="noopener">Subscribe to Pro</a>
   </div>
 </div>
 
@@ -140,32 +141,9 @@ description: "Tactics Journal research monitors more football content than any p
 
   <div class="r-pricing-graphic">
     <div class="r-pricing-grid">
-      {% include research-pricing-card.html
-        name="Free"
-        description="See what you’ve been missing."
-        price="$0"
-        price_suffix="month"
-        item_1="1 full report per week"
-        item_2="Preview of every report"
-        item_3="Delivered by email"
-        cta_text="Get Started"
-        cta_href="#waitlist"
-      %}
+      {% include research-pricing-card.html name="Free" description="See what you’ve been missing." price="$0" price_suffix="month" item_1="1 full report per week" item_2="Preview of every report" item_3="Delivered by email" cta_text="Start free trial" cta_href="/account/?intent=trial" %}
 
-      {% include research-pricing-card.html
-        name="Pro"
-        description="Every report. Every trend. Daily."
-        price="$15"
-        price_yearly="$12"
-        price_suffix="month"
-        yearly_note="$12/mo billed annually ($144/year, save 20%)"
-        item_1="Every report in full"
-        item_2="Full archive access"
-        item_3="Delivered by email"
-        cta_text="Subscribe"
-        cta_href="#waitlist"
-        featured=true
-      %}
+      {% include research-pricing-card.html name="Pro" description="Every report. Every trend. Daily." price="$15" price_yearly="$12" price_suffix="month" yearly_note="$12/mo billed annually ($144/year, save 20%)" item_1="Every report in full" item_2="Full archive access" item_3="Delivered by email" cta_text="Subscribe" cta_href=site.gumroad_pro_monthly_url cta_monthly_href=site.gumroad_pro_monthly_url cta_yearly_href=site.gumroad_pro_yearly_url featured=true %}
     </div>
   </div>
 
@@ -202,57 +180,19 @@ function togglePricing() {
 }
 </script>
 
-<!-- WAITLIST -->
-<div class="r-section" id="waitlist">
-  <p>
-    Join the waitlist for early access. More subscribers means better models and better reports.
-  </p>
-  {% include research-waitlist-form.html %}
-</div>
-
 </div>
 
 <script>
-// Pricing CTA click handling - add tier and billing tags, focus email input
-document.querySelectorAll('.r-pricing-cta').forEach(cta => {
+// Pricing CTA click handling for Gumroad monthly/yearly routing
+document.querySelectorAll('.r-pricing-cta[data-tier="paid"]').forEach(cta => {
   cta.addEventListener('click', function(e) {
-    e.preventDefault();
-    const tier = this.dataset.tier;
-    const waitlistSection = document.getElementById('waitlist');
-    
-    if (waitlistSection) {
-      const form = waitlistSection.querySelector('form');
-      const emailInput = waitlistSection.querySelector('input[name="email"]');
-      
-      if (form && tier) {
-        // Add tier tag (free/paid)
-        let tierTagInput = form.querySelector('input[name="tag"][data-tier-tag]');
-        if (!tierTagInput) {
-          tierTagInput = document.createElement('input');
-          tierTagInput.type = 'hidden';
-          tierTagInput.name = 'tag';
-          tierTagInput.setAttribute('data-tier-tag', 'true');
-          form.appendChild(tierTagInput);
-        }
-        tierTagInput.value = tier;
-        
-        // Add billing tag (monthly/yearly)
-        let billingTagInput = form.querySelector('input[name="tag"][data-billing-tag]');
-        if (!billingTagInput) {
-          billingTagInput = document.createElement('input');
-          billingTagInput.type = 'hidden';
-          billingTagInput.name = 'tag';
-          billingTagInput.setAttribute('data-billing-tag', 'true');
-          form.appendChild(billingTagInput);
-        }
-        billingTagInput.value = isYearly ? 'yearly' : 'monthly';
-      }
-      
-      waitlistSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      
-      if (emailInput) {
-        setTimeout(() => emailInput.focus(), 300);
-      }
+    const monthlyHref = this.dataset.monthlyHref;
+    const yearlyHref = this.dataset.yearlyHref;
+    const targetHref = isYearly ? yearlyHref : monthlyHref;
+
+    if (targetHref) {
+      e.preventDefault();
+      window.location.href = targetHref;
     }
   });
 });

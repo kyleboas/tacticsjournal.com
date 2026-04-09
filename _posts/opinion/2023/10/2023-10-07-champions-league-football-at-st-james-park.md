@@ -22,41 +22,41 @@ This is one of the stadiums that you go down a man the moment the ball is kicked
 Newcastle did well to neutralize the wide areas with their flat coordinated four-second line to cut off the passes from PSG's back-line, not allowing Kylian Mbappe, Kolo Muani, or Goncalo Ramos to get much of the ball. They had zero shots on Newcastle's goal in the first 53 minutes.
 
 <figure>
-    <img src="https://i.imgur.com/swvIbjC.jpg">
+    <img src="https://i.imgur.com/swvIbjC.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Newcastle, compact, wait for PSG to pass the ball before moving.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/WXgu3c5.jpg">
+    <img src="https://i.imgur.com/WXgu3c5.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/OQ5ZkBt.jpg">
+    <img src="https://i.imgur.com/OQ5ZkBt.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.3 </figcaption>
 </figure>
 
 Newcastle stayed compact centrally, forcing PSG wide, and then when PSG played the ball wide, they did a good job of cutting off the pass to the wing or the third man, forcing them to drive inside.
 
 <figure>
-    <img src="https://i.imgur.com/iWnvQr2.jpg">
+    <img src="https://i.imgur.com/iWnvQr2.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.4 </figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/E9wyQtI.jpg">
+    <img src="https://i.imgur.com/E9wyQtI.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.5 - Newcastle collapse on the ball.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/dw8dn06.jpg">
+    <img src="https://i.imgur.com/dw8dn06.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.6 - Newcastle win back the ball.</figcaption>
 </figure>
 
 Notice the large space between Newcastle's second line and the back-line, tempting PSG to chip it to their front line. Once Newcastle win back the ball, they always leave at least three defenders back, stationary, in the rest defense. Those in the rest defense don't expend a ton of energy.
 
 <figure>
-    <img src="https://i.imgur.com/eGmG002.jpg">
+    <img src="https://i.imgur.com/eGmG002.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - PSG's passing network by minute of each half. <a href="https://x.com/datobhj/status/1709682176579784915?s=46&t=YC8lQJTh43E_mBQW40Ct2g">Visual by DatoBHJ</a></figcaption>
 </figure>
 

@@ -7,7 +7,7 @@ categories:
 tags:
 - "Bournemouth"
 - "Premier League"
-image: "https://github.com/kyleboas/images/blob/main/uploads/2024/06/03/Image-03Jun2024_11:21:00.png?raw=true"
+image: "/images/uploads/2024/06/03/Image-03Jun2024_11:21:00.png"
 ---
 
 It is one thing to recruit athletic players, it is another thing to mentally know how to push your body to the edge to gain an advantage. That is what sets Bournemouth under Andoni Iraola apart from the rest of the Premier League.

@@ -16,19 +16,19 @@ Konsa moves in at an angle where his hips facing the left foot of Son. He needs 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/TeQ9okE.jpeg">
+    <img src="https://i.imgur.com/TeQ9okE.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Tottenham's passing patterns.</figcaption>
 </figure> 
 
 Tottenham's build-up, transitions, and final third play are built around the third man. There are no simple one-twos. They need that third man run and pass to function moving forward. Aston Villa were smart and had a plan to perfectly position their bodies to block off that pass.
 
 <figure>
-    <img src="https://i.imgur.com/3DUn9At.jpeg">
+    <img src="https://i.imgur.com/3DUn9At.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Destiny Udogie passes to Brennan Johnson. John McGinn shadow covers James Maddison.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/C17ryOW.jpeg">
+    <img src="https://i.imgur.com/C17ryOW.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Leon Bailey hip-checks Destiny Udogie to stop his run. Matty Cash curves his run to attempt to block off the pass inside. Brennan Johnson passes and moves to Son Heung-Min.</figcaption>
 </figure> 
 
@@ -39,12 +39,12 @@ The fail-safe is a one-two between Johnson and Udogie, but even that is cut off 
 The goal is to not allow Tottenham to progress from outside to in. 
 
 <figure>
-    <img src="https://i.imgur.com/U9BFiZx.jpeg">
+    <img src="https://i.imgur.com/U9BFiZx.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.3 - Ezri Konsa curves his run to block off the pass inside. Brennan Johnson continues.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/aNoNU27.jpeg">
+    <img src="https://i.imgur.com/aNoNU27.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.4 - Ezri Konsa completely blocks off the pass inside. John McGinn cover shadows James Maddison.</figcaption>
 </figure> 
 

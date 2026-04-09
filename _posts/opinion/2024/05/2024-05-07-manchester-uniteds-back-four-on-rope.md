@@ -21,32 +21,32 @@ Gary Neville details the training the Manchester United class of '92 went throug
 This is a great exercise because it's a simple concept to apply in a match. It's not something the current Manchester United squad practice, and that was made evident particularly in their 4-0 loss to Crystal Palace. 
 
 <figure>
-    <img src="https://i.imgur.com/g8xsFLF.jpeg">
+    <img src="https://i.imgur.com/g8xsFLF.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Casemiro jumps forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ct8Dghi.jpeg">
+    <img src="https://i.imgur.com/ct8Dghi.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Manchester United's back-line organization for Crystal Palace's first goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/bVYvKgl.jpeg">
+    <img src="https://i.imgur.com/bVYvKgl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Casemiro jumps forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/RfAJbAr.jpeg">
+    <img src="https://i.imgur.com/RfAJbAr.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Manchester United's back-line organization for Crystal Palace's second goal.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/wOK7xBK.jpeg">
+    <img src="https://i.imgur.com/wOK7xBK.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Jonny Evans jumps forward.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/VuOy3Tz.jpeg">
+    <img src="https://i.imgur.com/VuOy3Tz.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Manchester United's back-line organization for Crystal Palace's fourth goal.</figcaption>
 </figure> 
 

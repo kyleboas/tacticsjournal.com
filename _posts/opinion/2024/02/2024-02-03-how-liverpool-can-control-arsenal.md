@@ -16,31 +16,31 @@ Liverpool need to do four things to replicate the control they had in the 2nd ha
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/sqXF45a.jpeg">
+    <img src="https://i.imgur.com/sqXF45a.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Arsenal pushed deep out of possession.</figcaption>
 </figure> 
 
 You are winning the battle if Arsenal look like this. If their initial press fails, they will sit back and allow you to circulate the ball. 
 
 <figure>
-    <img src="https://i.imgur.com/Mq4v5JD.jpeg">
+    <img src="https://i.imgur.com/Mq4v5JD.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Liverpool 5v3 overload on the left-wing</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/3pDHBzl.jpeg">
+    <img src="https://i.imgur.com/3pDHBzl.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 2.2 - Trent Alexander-Arnold coming over to help overload the left-wing.</figcaption>
 </figure> 
 
 The position of Bukayo Saka and Ben White is important. The deeper they are, Arsenal will be forced to be more defensive due to the center-forward pinning William Saliba back. The higher they are, the more threatening Arsenal will be because Saka is a constant threat in-behind and the safest player to pass out to. 
 
 <figure>
-    <img src="https://i.imgur.com/2IjZLz2.jpeg">
+    <img src="https://i.imgur.com/2IjZLz2.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Joe Gomez and Bukayo Saka chasing down a ball over the top of Liverpool's defense.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/hph4TRr.jpeg">
+    <img src="https://i.imgur.com/hph4TRr.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 3.2 - Joe Gomez blocking Bukayo Saka's shot.</figcaption>
 </figure> 
 
@@ -51,7 +51,7 @@ When Liverpool overload the left-wing, it forces both Saka and White to defend d
 You'd rather have Saka 20 yards away from his own goal when Arsenal win back the ball, not on halfway line. Gabriel Jesus and Martinelli will be the outlet but they should be isolated and easy to close down.
 
 <figure>
-    <img src="https://i.imgur.com/CmUDS8q.jpeg">
+    <img src="https://i.imgur.com/CmUDS8q.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Proposed Liverpool shape with depth.</figcaption>
 </figure> 
 
@@ -72,7 +72,7 @@ Luis Diaz should play on the right-wing to attack Zinchenko and Gabriel. He perf
 Alexis Mac Allister had a painful-looking knee-to-knee in the match against Chelsea on Sunday but no news in the press conference. Gravenberch or Jones comes in for him.
 
 <figure>
-    <img src="https://i.imgur.com/3CizSVk.jpeg">
+    <img src="https://i.imgur.com/3CizSVk.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Trent Alexander-Arnold coming over to help Ibrahima Konate and Conor Bradley to mark Gabriel Martinelli.</figcaption>
 </figure> 
 
@@ -85,22 +85,22 @@ Most importantly, Bradley will allow Trent Alexander-Arnold to roam around the p
 Bradley can both track Gabriel Martinelli and attack the right-wing with Szoboszlai and Diaz, putting crosses in to Nunez, Gakpo, and Jota. 
 
 <figure>
-    <img src="https://i.imgur.com/yRzlTXP.jpeg">
+    <img src="https://i.imgur.com/yRzlTXP.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Trent Alexander-Arnold switching play to Darwin Nunez.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/ub20J0m.jpeg">
+    <img src="https://i.imgur.com/ub20J0m.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - Darwin Nunez 1v1 with Ben White.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/9yaTpQq.jpeg">
+    <img src="https://i.imgur.com/9yaTpQq.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.3 - Joe Gomez overlapping Darwin Nunez.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/e76dDLd.jpeg">
+    <img src="https://i.imgur.com/e76dDLd.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 6.4 - Liverpool on the counter, Harvey Elliott overlaps Luis Diaz.</figcaption>
 </figure> 
 

@@ -1,0 +1,213 @@
+---
+layout: default
+title: Account
+permalink: /account/
+---
+
+<div class="account-page">
+  <div id="logged-out-state" style="display:none;">
+    <h2>Sign in or create account</h2>
+    <p id="trial-intent-copy" style="display:none;">Start your 7-day free trial by entering your email.</p>
+    <form id="email-auth-form">
+      <input type="email" id="email-input" placeholder="Your email address" required>
+      <button type="submit">Continue with email</button>
+    </form>
+    <p>A magic link will be sent to your inbox.</p>
+  </div>
+
+  <div id="logged-in-state" style="display:none;">
+    <h2>Welcome, <span id="user-email"></span></h2>
+    <p id="access-summary"></p>
+
+    <div id="upgrade-cta" style="display:none; margin-bottom: 1rem;">
+      <a href="{{ site.gumroad_pro_monthly_url }}" class="button" target="_blank" rel="noopener">Upgrade to Pro monthly</a>
+      <a href="{{ site.gumroad_pro_yearly_url }}" class="button" target="_blank" rel="noopener">Upgrade to Pro yearly</a>
+    </div>
+
+    <h3>Account preferences</h3>
+    <form id="account-prefs-form">
+      <div>
+        <label for="theme-select">Theme:</label>
+        <select id="theme-select" name="theme">
+          <option value="system">System</option>
+          <option value="light">Light</option>
+          <option value="dark">Dark</option>
+        </select>
+      </div>
+      <div>
+        <label for="font-size-select">Font Size:</label>
+        <select id="font-size-select" name="font_size">
+          <option value="small">Small</option>
+          <option value="medium">Medium</option>
+          <option value="large">Large</option>
+        </select>
+      </div>
+      <button type="submit">Save preferences</button>
+    </form>
+
+    <h3>Email preferences</h3>
+    <form id="email-prefs-form">
+      <div>
+        <input type="checkbox" id="newsletter-enabled" name="newsletter_enabled">
+        <label for="newsletter-enabled">Receive opinion newsletter</label>
+      </div>
+      <div>
+        <input type="checkbox" id="research-updates-enabled" name="research_updates_enabled">
+        <label for="research-updates-enabled">Receive research updates</label>
+      </div>
+      <button type="submit">Save email preferences</button>
+    </form>
+
+    <button id="sign-out-button">Sign out</button>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', async () => {
+    const loggedOutState = document.getElementById('logged-out-state');
+    const loggedInState = document.getElementById('logged-in-state');
+    const trialIntentCopy = document.getElementById('trial-intent-copy');
+
+    const emailAuthForm = document.getElementById('email-auth-form');
+    const emailInput = document.getElementById('email-input');
+
+    const userEmailSpan = document.getElementById('user-email');
+    const accessSummary = document.getElementById('access-summary');
+    const upgradeCta = document.getElementById('upgrade-cta');
+
+    const signOutButton = document.getElementById('sign-out-button');
+
+    const accountPrefsForm = document.getElementById('account-prefs-form');
+    const themeSelect = document.getElementById('theme-select');
+    const fontSizeSelect = document.getElementById('font-size-select');
+
+    const emailPrefsForm = document.getElementById('email-prefs-form');
+    const newsletterEnabled = document.getElementById('newsletter-enabled');
+    const researchUpdatesEnabled = document.getElementById('research-updates-enabled');
+
+    const params = new URLSearchParams(window.location.search);
+    const hasTrialIntent = params.get('intent') === 'trial';
+    let csrfToken = null;
+
+    function showLoggedOut() {
+      loggedOutState.style.display = 'block';
+      loggedInState.style.display = 'none';
+      if (hasTrialIntent) {
+        trialIntentCopy.style.display = 'block';
+        setTimeout(() => emailInput.focus(), 100);
+      }
+    }
+
+    function formatAccessSummary(user) {
+      if (!user) return '';
+
+      if (user.access_level === 'pro') {
+        return 'Plan: Pro';
+      }
+
+      if (user.access_level === 'trial') {
+        const endsAt = user.trial_ends_at ? new Date(user.trial_ends_at) : null;
+        if (endsAt && !Number.isNaN(endsAt.getTime())) {
+          return `Plan: Trial (ends ${endsAt.toLocaleDateString()})`;
+        }
+        return 'Plan: Trial';
+      }
+
+      return 'Plan: Free';
+    }
+
+    async function checkSession() {
+      try {
+        const response = await fetch('/api/account/session');
+        if (!response.ok) {
+          showLoggedOut();
+          return;
+        }
+
+        const data = await response.json();
+
+        if (!data.user) {
+          showLoggedOut();
+          return;
+        }
+
+        userEmailSpan.textContent = data.user.email;
+        accessSummary.textContent = formatAccessSummary(data.user);
+        csrfToken = data.csrf_token || null;
+
+        themeSelect.value = data.preferences?.theme || 'system';
+        fontSizeSelect.value = data.preferences?.font_size || 'medium';
+
+        newsletterEnabled.checked = Boolean(data.email_preferences?.newsletter_enabled);
+        researchUpdatesEnabled.checked = Boolean(data.email_preferences?.research_updates_enabled);
+
+        const showUpgrade = data.user.access_level !== 'pro';
+        upgradeCta.style.display = showUpgrade ? 'block' : 'none';
+
+        loggedInState.style.display = 'block';
+        loggedOutState.style.display = 'none';
+      } catch (_error) {
+        showLoggedOut();
+      }
+    }
+
+    emailAuthForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = emailInput.value;
+
+      const response = await fetch('/api/account/start', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+
+      alert(response.ok ? 'Magic link sent to your email.' : 'Failed to send magic link.');
+    });
+
+    signOutButton.addEventListener('click', async () => {
+      const response = await fetch('/api/account/signout', {
+        method: 'POST',
+        headers: {
+          'X-CSRF-Token': csrfToken || '',
+        },
+      });
+      if (response.ok) window.location.reload();
+      else alert('Failed to sign out.');
+    });
+
+    accountPrefsForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const response = await fetch('/api/account/preferences', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-CSRF-Token': csrfToken || '',
+        },
+        body: JSON.stringify({ theme: themeSelect.value, font_size: fontSizeSelect.value }),
+      });
+
+      alert(response.ok ? 'Account preferences saved.' : 'Failed to save account preferences.');
+    });
+
+    emailPrefsForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const response = await fetch('/api/account/email-preferences', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-CSRF-Token': csrfToken || '',
+        },
+        body: JSON.stringify({
+          newsletter_enabled: newsletterEnabled.checked,
+          research_updates_enabled: researchUpdatesEnabled.checked,
+        }),
+      });
+
+      alert(response.ok ? 'Email preferences saved.' : 'Failed to save email preferences.');
+    });
+
+    checkSession();
+  });
+</script>

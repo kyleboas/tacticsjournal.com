@@ -7,7 +7,7 @@ categories:
 tags:
 - "Chelsea"
 - "Premier League"
-image: "https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_12:33:03.png"
+image: "/images/uploads/2024/07/24/Image-24Jul2024_12:33:03.png"
 ---
 
 Due to the versatility of the defenders, there are many different combinations Chelsea can use, but the main option they'll likely use is the right-back inverting, with the left-back operating as a left center-back in possession.
@@ -15,7 +15,7 @@ Due to the versatility of the defenders, there are many different combinations C
 <!---more---> 
 
 <figure>
-    <img src="https://raw.githubusercontent.com/kyleboas/images/main/uploads/2024/07/24/Image-24Jul2024_12:33:00.png">
+    <img src="/images/uploads/2024/07/24/Image-24Jul2024_12:33:00.png" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Chelsea potential depth chart in a 3-4-3 box midfield formation, not including academy players. The two best positions are selected for each defender, if applicable.</figcaption>
 </figure>
 

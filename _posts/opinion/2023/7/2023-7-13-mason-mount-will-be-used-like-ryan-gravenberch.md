@@ -15,7 +15,7 @@ July 13, 2023 — Manchester United's match against Leeds United in a preseason 
 <!---more--->
 
 <figure>
-    <img src="https://i.imgur.com/dLAOsp7.jpg">
+    <img src="https://i.imgur.com/dLAOsp7.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Aaron Wan-Bissaka pushes forward from right-back, and Raphael Varane passes to Amad Diallo.</figcaption>
 </figure> 
 
@@ -29,7 +29,7 @@ July 13, 2023 — Manchester United's match against Leeds United in a preseason 
 I was happy to see Aaron Wan-Bissaka making runs forward into the right half-space. That means he'll be useful and used. That's what Ten Hag wanted from Noussair Mazraoui and what he'll need from Diogo Dalot. 
 
 <figure>
-    <img src="https://i.imgur.com/1MS2gvA.jpg">
+    <img src="https://i.imgur.com/1MS2gvA.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 1.2 - Aaron Wan-Bissaka continues his run.</figcaption>
 </figure> 
 
@@ -42,7 +42,7 @@ Hannibal made some great runs and, in general, looked very lively further forwar
 Both looked like they could be given a chance; they didn't look out of place on the day. 
 
 <figure>
-    <img src="https://i.imgur.com/8NRbJMk.jpg">
+    <img src="https://i.imgur.com/8NRbJMk.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 2.1 - Manchester United's rotations in the midfield as Álvaro Fernández inverts further forward.</figcaption>
 </figure> 
 
@@ -51,7 +51,7 @@ United's midfield structure was very fluid. Constantly rotating, never static, l
 This is good news for Casemiro. That rotation will give him the cover to get forward. There's always someone sitting in front of the back-line to protect at least two midfielders can attack. 
 
 <figure>
-    <img src="https://i.imgur.com/aru88xr.jpg">
+    <img src="https://i.imgur.com/aru88xr.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 3.1 - Omari Forson inverts as Álvaro Fernández makes a run up the left-wing.</figcaption>
 </figure> 
 
@@ -60,26 +60,26 @@ They favored overloading the left-wing, like Ajax favored overloading the left-w
 If Álvaro Fernández wanted to get forward, then Omari Forson would have to invert. 
 
 <figure>
-    <img src="https://i.imgur.com/jGl8Xj3.jpg">
+    <img src="https://i.imgur.com/jGl8Xj3.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 4.1 - Manchester United 4-2-3-1 counter-pressing structure.</figcaption>
 </figure> 
 
 United initially pressed zonally in a 4-2-3-1, which then shifted to man-to-man once the ball was worked into their half. 
 
 <figure>
-    <img src="https://i.imgur.com/wrhaSv6.jpg">
+    <img src="https://i.imgur.com/wrhaSv6.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 5.1 - Manchester United maintain a +1 out of possession.</figcaption>
 </figure> 
 
 They are the [masters of rest defense](https://tacticsjournal.com/Manchester-United-are-too-good-at-maintaining-numerical-superiority-in-transition/), so they, of course, need to maintain a +1 versus Leeds' front three forwards. 
 
 <figure>
-    <img src="https://i.imgur.com/Y1dNEi6.jpg">
+    <img src="https://i.imgur.com/Y1dNEi6.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.1 - Mason Mount plays a through ball to Amad Diallo.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/xiUGdp4.jpg">
+    <img src="https://i.imgur.com/xiUGdp4.jpg" loading="lazy" decoding="async">
     <figcaption>Figure 6.2 - Amad Diallo receiving the pass in space.</figcaption>
 </figure> 
 

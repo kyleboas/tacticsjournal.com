@@ -26,12 +26,12 @@ Antonio Gagliardi and Francesco Bordin in [Notiziario del Settore Tecnico](https
 It is race to find those technically skilled players that can operate as spatial players. As they describe, teams are currently using a combination of perimetral and spatial players.
 
 <figure>
-    <img src="https://i.imgur.com/klcQ16i.jpeg">
+    <img src="https://i.imgur.com/klcQ16i.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester City rotations against Brighton.</figcaption>
 </figure> 
 
 <figure>
-    <img src="https://i.imgur.com/uX1R24u.jpeg">
+    <img src="https://i.imgur.com/uX1R24u.jpeg" loading="lazy" decoding="async">
     <figcaption>Figure 1.1 - Manchester City rotations against Brighton.</figcaption>
 </figure> 
 
