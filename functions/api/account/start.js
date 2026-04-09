@@ -25,11 +25,17 @@ export async function onRequestPost(context) {
       return new Response('Cross-origin POST not allowed', { status: 403 });
     }
 
-    console.log('Normalized email:', normalizedEmail);
-    console.log('Available env keys:', Object.keys(env));
+    const envKeys = Object.keys(env);
+    const missing = [];
+    if (!env.DB) missing.push('DB');
+    if (!env.RESEND_API_KEY) missing.push('RESEND_API_KEY');
+    if (!env.JWT_SECRET) missing.push('JWT_SECRET');
     
-    if (!env.RESEND_API_KEY) {
-      console.error('RESEND_API_KEY is missing');
+    console.log('Normalized email:', normalizedEmail);
+    console.log('Available env keys:', envKeys);
+    if (missing.length > 0) {
+      console.error('Missing env vars:', missing.join(', '));
+      return new Response(`Missing environment variables: ${missing.join(', ')}`, { status: 500 });
     }
 
     if (!normalizedEmail) {
