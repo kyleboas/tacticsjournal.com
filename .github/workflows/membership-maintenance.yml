@@ -1,0 +1,26 @@
+name: Membership maintenance
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-maintenance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate required config
+        run: |
+          test -n "${{ secrets.INTERNAL_JOB_KEY }}"
+
+      - name: Run trial expiry job
+        run: |
+          curl --fail --show-error --silent \
+            -X POST "https://tacticsjournal.com/api/internal/trial-expiry" \
+            -H "Authorization: Bearer ${{ secrets.INTERNAL_JOB_KEY }}"
+
+      - name: Run Gumroad reconciliation job
+        run: |
+          curl --fail --show-error --silent \
+            -X POST "https://tacticsjournal.com/api/internal/reconcile-gumroad" \
+            -H "Authorization: Bearer ${{ secrets.INTERNAL_JOB_KEY }}"
