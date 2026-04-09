@@ -16,26 +16,22 @@ function isSameOriginRequest(request) {
 }
 
 export async function onRequestPost(context) {
-  validateEnv(context.env, { requireDb: true, requireResend: true });
   const { request, env } = context;
-  const { DB, RESEND_API_KEY } = env;
+  const { DB } = env;
 
   try {
     if (!isSameOriginRequest(request)) {
       return new Response('Cross-origin POST not allowed', { status: 403 });
     }
 
-    const envKeys = Object.keys(env);
-    const missing = [];
-    if (!env.DB) missing.push('DB');
-    if (!env.RESEND_API_KEY) missing.push('RESEND_API_KEY');
-    if (!env.JWT_SECRET) missing.push('JWT_SECRET');
-    
-    console.log('Normalized email:', normalizedEmail);
-    console.log('Available env keys:', envKeys);
-    if (missing.length > 0) {
-      console.error('Missing env vars:', missing.join(', '));
-      return new Response(`Missing environment variables: ${missing.join(', ')}`, { status: 500 });
+    const { email } = await request.json();
+    const normalizedEmail = email?.toLowerCase().trim();
+
+    // In preview, we might want to continue even if RESEND_API_KEY is missing
+    const isPreview = new URL(request.url).hostname.includes('pages.dev');
+
+    if (!env.DB || (!env.RESEND_API_KEY && !isPreview)) {
+      return new Response('Missing required environment variables', { status: 500 });
     }
 
     if (!normalizedEmail) {
@@ -76,6 +72,14 @@ export async function onRequestPost(context) {
       .run();
 
     const magicLinkUrl = `${new URL(request.url).origin}/account/finish?token=${encodeURIComponent(magicToken)}`;
+
+    if (!env.RESEND_API_KEY) {
+      console.log('RESEND_API_KEY is missing. Magic link (for testing):', magicLinkUrl);
+      if (isPreview) {
+        return new Response(`[PREVIEW MODE] Magic link sent to console. Link: ${magicLinkUrl}`, { status: 200 });
+      }
+      throw new Error('RESEND_API_KEY is missing');
+    }
 
     const resendResponse = await fetch('https://api.resend.com/emails', {
       method: 'POST',

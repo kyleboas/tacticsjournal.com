@@ -36,7 +36,7 @@ function redactPaidContent(html) {
   }
 
   const before = html.slice(0, openEnd + 1);
-  const after = html.slice(pos);
+  const after = html.slice(pos - 6); // Keep the </div>
   return before + '<!-- paid content removed -->' + after;
 }
 
@@ -70,6 +70,8 @@ export async function onRequest(context) {
 
   if (!hasPaidAccess) {
     html = redactPaidContent(html);
+    // Unhide paywall CTA if it exists
+    html = html.replace(/id=["']paywall-cta["']\s+style=["']display:\s*none;?["']/, 'id="paywall-cta"');
   }
 
   const headers = new Headers(response.headers);
