@@ -25,8 +25,12 @@ export async function onRequestPost(context) {
       return new Response('Cross-origin POST not allowed', { status: 403 });
     }
 
-    const { email } = await request.json();
-    const normalizedEmail = (email || '').trim().toLowerCase();
+    console.log('Normalized email:', normalizedEmail);
+    console.log('Available env keys:', Object.keys(env));
+    
+    if (!env.RESEND_API_KEY) {
+      console.error('RESEND_API_KEY is missing');
+    }
 
     if (!normalizedEmail) {
       return new Response('Email is required', { status: 400 });
