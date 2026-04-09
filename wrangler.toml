@@ -2,6 +2,11 @@ name = "tacticsjournal"
 pages_build_output_dir = "_site"
 compatibility_date = "2026-04-08"
 
+[[d1_databases]]
+binding = "DB"
+database_name = "tacticsjournal_db"
+database_id = "a40fea6c-9e63-47b3-a697-3598b1fafaa4"
+
 [[r2_buckets]]
 binding = "IMAGES"
 bucket_name = "tacticsjournal-images"

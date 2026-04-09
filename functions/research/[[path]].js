@@ -74,6 +74,8 @@ export async function onRequest(context) {
 
   const headers = new Headers(response.headers);
   headers.delete('content-length');
+  headers.set('Cache-Control', 'private, no-store');
+  headers.set('Vary', 'Cookie');
 
   return new Response(html, {
     status: response.status,

@@ -87,6 +87,7 @@ permalink: /account/
 
     const params = new URLSearchParams(window.location.search);
     const hasTrialIntent = params.get('intent') === 'trial';
+    let csrfToken = null;
 
     function showLoggedOut() {
       loggedOutState.style.display = 'block';
@@ -132,6 +133,7 @@ permalink: /account/
 
         userEmailSpan.textContent = data.user.email;
         accessSummary.textContent = formatAccessSummary(data.user);
+        csrfToken = data.csrf_token || null;
 
         themeSelect.value = data.preferences?.theme || 'system';
         fontSizeSelect.value = data.preferences?.font_size || 'medium';
@@ -163,7 +165,12 @@ permalink: /account/
     });
 
     signOutButton.addEventListener('click', async () => {
-      const response = await fetch('/api/account/signout', { method: 'POST' });
+      const response = await fetch('/api/account/signout', {
+        method: 'POST',
+        headers: {
+          'X-CSRF-Token': csrfToken || '',
+        },
+      });
       if (response.ok) window.location.reload();
       else alert('Failed to sign out.');
     });
@@ -173,7 +180,10 @@ permalink: /account/
 
       const response = await fetch('/api/account/preferences', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'X-CSRF-Token': csrfToken || '',
+        },
         body: JSON.stringify({ theme: themeSelect.value, font_size: fontSizeSelect.value }),
       });
 
@@ -185,7 +195,10 @@ permalink: /account/
 
       const response = await fetch('/api/account/email-preferences', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'X-CSRF-Token': csrfToken || '',
+        },
         body: JSON.stringify({
           newsletter_enabled: newsletterEnabled.checked,
           research_updates_enabled: researchUpdatesEnabled.checked,

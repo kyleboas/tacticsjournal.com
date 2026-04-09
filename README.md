@@ -23,14 +23,18 @@ wrangler pages dev . --d1 DB=tacticsjournal_db
 Set these in Cloudflare Pages project settings (and locally when testing functions):
 
 - `RESEND_API_KEY`
-- `GUMROAD_WEBHOOK_SECRET`
+- `GUMROAD_SELLER_ID` (optional but recommended; rejects webhooks from unexpected seller)
 - `BUTTONDOWN_API_KEY`
 - `INTERNAL_JOB_KEY` (for internal scheduled endpoints)
 
 ## Database migrations
 
 ```bash
-wrangler d1 migrations apply tacticsjournal_db --local
+# local
+scripts/apply-d1-migrations.sh DB --local
+
+# remote (production)
+scripts/apply-d1-migrations.sh DB --remote
 ```
 
 Migrations are in `migrations/`.
@@ -52,5 +56,6 @@ Migrations are in `migrations/`.
 
 - Build with Jekyll
 - Deploy via Cloudflare Pages
-- Bind D1 database as `DB`
+- Set real `database_id` for `DB` in `wrangler.toml` (placeholder is committed intentionally)
 - Configure secrets listed above
+- Ensure GitHub Actions secret `INTERNAL_JOB_KEY` is set for `.github/workflows/membership-maintenance.yml`

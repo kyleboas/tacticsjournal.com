@@ -6,8 +6,7 @@ export async function syncButtondownSubscriber(email, tags, env) {
   const apiKey = env.BUTTONDOWN_API_KEY;
 
   if (!apiKey) {
-    console.warn('BUTTONDOWN_API_KEY is not set. Skipping Buttondown sync.');
-    return false;
+    throw new Error('BUTTONDOWN_API_KEY is not set. Cannot sync with Buttondown.');
   }
 
   const normalizedEmail = (email || '').trim().toLowerCase();

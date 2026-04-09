@@ -2,6 +2,7 @@ import { generateToken } from './token.js';
 
 const COOKIE_NAME = '__session';
 const SESSION_TTL_MS = 30 * 24 * 60 * 60 * 1000; // 30 days
+const SESSION_REFRESH_WINDOW_MS = 7 * 24 * 60 * 60 * 1000; // refresh when <= 7 days remain
 
 export function getSessionCookie(request) {
   const cookieHeader = request.headers.get('Cookie') || '';
@@ -52,11 +53,23 @@ export async function verifySession(env, sessionId) {
 
   if (!session) return null;
 
+  const now = Date.now();
   const expiresAt = Date.parse(session.expires_at);
-  if (Number.isNaN(expiresAt) || expiresAt <= Date.now()) {
+  if (Number.isNaN(expiresAt) || expiresAt <= now) {
     await destroySession(env, sessionId);
     return null;
   }
 
-  return session;
+  let refreshedExpiresAtMs = null;
+  if (expiresAt - now <= SESSION_REFRESH_WINDOW_MS) {
+    refreshedExpiresAtMs = now + SESSION_TTL_MS;
+    await env.DB.prepare('UPDATE sessions SET expires_at = ? WHERE id = ?')
+      .bind(new Date(refreshedExpiresAtMs).toISOString(), sessionId)
+      .run();
+  }
+
+  return {
+    ...session,
+    refreshed_expires_at_ms: refreshedExpiresAtMs,
+  };
 }

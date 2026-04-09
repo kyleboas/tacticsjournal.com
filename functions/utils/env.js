@@ -4,7 +4,6 @@ export function validateEnv(env, options = {}) {
     requireAssets = false,
     requireJwtSecret = false,
     requireResend = false,
-    requireGumroadSecret = false,
     requireButtondown = false,
   } = options;
 
@@ -22,10 +21,6 @@ export function validateEnv(env, options = {}) {
 
   if (requireResend && !env.RESEND_API_KEY) {
     throw new Error('RESEND_API_KEY environment variable is not set.');
-  }
-
-  if (requireGumroadSecret && !env.GUMROAD_WEBHOOK_SECRET) {
-    throw new Error('GUMROAD_WEBHOOK_SECRET environment variable is not set.');
   }
 
   if (requireButtondown && !env.BUTTONDOWN_API_KEY) {

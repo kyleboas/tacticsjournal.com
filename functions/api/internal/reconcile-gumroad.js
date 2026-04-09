@@ -1,4 +1,5 @@
 import { validateEnv } from '../../utils/env.js';
+import { generateToken } from '../../utils/token.js';
 
 function isAuthorized(request, env) {
   const expected = env.INTERNAL_JOB_KEY;
@@ -20,17 +21,31 @@ function eventRevokesPro(eventName) {
   return eventName === 'subscription_cancelled' || eventName === 'refund' || eventName === 'dispute';
 }
 
-async function applyAccess(db, email, nextAccess) {
-  if (!email) return { updated: false, missingUser: false };
+async function getOrCreateUser(db, email) {
+  const existing = await db.prepare('SELECT id FROM users WHERE email = ? LIMIT 1').bind(email).first();
+  if (existing) return { id: existing.id, created: false };
 
-  const user = await db.prepare('SELECT id FROM users WHERE email = ? LIMIT 1').bind(email).first();
-  if (!user) return { updated: false, missingUser: true };
+  const userId = generateToken();
+  await db.prepare('INSERT INTO users (id, email, access_level) VALUES (?, ?, ?)')
+    .bind(userId, email, 'free')
+    .run();
+
+  await db.prepare('INSERT INTO account_preferences (user_id) VALUES (?)').bind(userId).run();
+  await db.prepare('INSERT INTO email_preferences (user_id) VALUES (?)').bind(userId).run();
+
+  return { id: userId, created: true };
+}
+
+async function applyAccess(db, email, nextAccess) {
+  if (!email) return { updated: false, createdUser: false };
+
+  const user = await getOrCreateUser(db, email);
 
   await db.prepare('UPDATE users SET access_level = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?')
     .bind(nextAccess, user.id)
     .run();
 
-  return { updated: true, missingUser: false };
+  return { updated: true, createdUser: user.created };
 }
 
 export async function onRequestPost(context) {
@@ -50,7 +65,7 @@ export async function onRequestPost(context) {
   let processed = 0;
   let upgradedToPro = 0;
   let downgradedToFree = 0;
-  let missingUsers = 0;
+  let createdUsers = 0;
   let ignoredEvents = 0;
 
   for (const row of rows) {
@@ -68,16 +83,16 @@ export async function onRequestPost(context) {
     if (eventGrantsPro(eventName)) {
       const result = await applyAccess(env.DB, email, 'pro');
       if (result.updated) upgradedToPro += 1;
-      if (result.missingUser) missingUsers += 1;
+      if (result.createdUser) createdUsers += 1;
     } else if (eventRevokesPro(eventName)) {
       const result = await applyAccess(env.DB, email, 'free');
       if (result.updated) downgradedToFree += 1;
-      if (result.missingUser) missingUsers += 1;
+      if (result.createdUser) createdUsers += 1;
     } else {
       ignoredEvents += 1;
     }
 
-    await env.DB.prepare('UPDATE gumroad_events SET processed = 1 WHERE id = ?').bind(row.id).run();
+    await env.DB.prepare('UPDATE gumroad_events SET processed = 1, updated_at = CURRENT_TIMESTAMP WHERE id = ?').bind(row.id).run();
     processed += 1;
   }
 
@@ -90,7 +105,7 @@ export async function onRequestPost(context) {
       processed,
       upgraded_to_pro: upgradedToPro,
       downgraded_to_free: downgradedToFree,
-      missing_users: missingUsers,
+      created_users: createdUsers,
       ignored_events: ignoredEvents,
       pending_gumroad_events: Number(stillPending?.count || 0),
       checked_at: new Date().toISOString(),

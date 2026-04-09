@@ -1,17 +1,39 @@
 import { validateEnv } from '../../utils/env.js';
 import { generateToken, hashToken } from '../../utils/token.js';
 
+const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+function isSameOriginRequest(request) {
+  const origin = request.headers.get('Origin');
+  if (!origin) return true;
+
+  try {
+    const requestOrigin = new URL(request.url).origin;
+    return origin === requestOrigin;
+  } catch {
+    return false;
+  }
+}
+
 export async function onRequestPost(context) {
   validateEnv(context.env, { requireDb: true, requireResend: true });
   const { request, env } = context;
   const { DB, RESEND_API_KEY } = env;
 
   try {
+    if (!isSameOriginRequest(request)) {
+      return new Response('Cross-origin POST not allowed', { status: 403 });
+    }
+
     const { email } = await request.json();
     const normalizedEmail = (email || '').trim().toLowerCase();
 
     if (!normalizedEmail) {
       return new Response('Email is required', { status: 400 });
+    }
+
+    if (!EMAIL_REGEX.test(normalizedEmail)) {
+      return new Response('Invalid email format', { status: 400 });
     }
 
     let user = await DB.prepare('SELECT id FROM users WHERE email = ?')

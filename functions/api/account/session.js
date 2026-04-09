@@ -1,5 +1,6 @@
 import { validateEnv } from '../../utils/env.js';
 import { isAuthenticated } from '../../utils/auth.js';
+import { createCsrfToken } from '../../utils/csrf.js';
 
 export async function onRequestGet(context) {
   validateEnv(context.env);
@@ -29,6 +30,12 @@ export async function onRequestGet(context) {
 
     const trialEndsAt = user?.trial_ends_at || null;
     const hasPaidAccess = user?.access_level === 'pro' || (user?.access_level === 'trial' && trialEndsAt && Date.parse(trialEndsAt) > Date.now());
+    const csrfToken = await createCsrfToken(auth.sessionId, auth.userId);
+
+    const headers = new Headers({ 'Content-Type': 'application/json' });
+    if (auth.refreshedCookie) {
+      headers.append('Set-Cookie', auth.refreshedCookie);
+    }
 
     return new Response(
       JSON.stringify({
@@ -39,12 +46,13 @@ export async function onRequestGet(context) {
           trial_ends_at: trialEndsAt,
           has_paid_access: Boolean(hasPaidAccess),
         },
+        csrf_token: csrfToken,
         preferences: accountPreferences || { theme: 'system', font_size: 'medium' },
         email_preferences: emailPreferences || { newsletter_enabled: true, research_updates_enabled: true },
       }),
       {
         status: 200,
-        headers: { 'Content-Type': 'application/json' },
+        headers,
       }
     );
   } catch (error) {

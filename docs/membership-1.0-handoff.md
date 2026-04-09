@@ -20,7 +20,7 @@ PR: https://github.com/kyleboas/tacticsjournal.com/pull/76
 
 1. Secrets/config in Cloudflare Pages
    - `RESEND_API_KEY`
-   - `GUMROAD_WEBHOOK_SECRET`
+   - `GUMROAD_SELLER_ID` (optional but recommended)
    - `BUTTONDOWN_API_KEY`
    - `INTERNAL_JOB_KEY`
 

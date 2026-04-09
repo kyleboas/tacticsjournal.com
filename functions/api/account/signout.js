@@ -1,7 +1,8 @@
 import { clearSessionCookie, getSessionCookie, destroySession } from '../../utils/session.js';
 import { validateEnv } from '../../utils/env.js';
+import { requireAuth } from '../../utils/auth.js';
 
-export async function onRequestPost(context) {
+async function handlePost(context) {
   validateEnv(context.env);
 
   try {
@@ -18,3 +19,5 @@ export async function onRequestPost(context) {
     return new Response(error.message || 'Internal error', { status: 500 });
   }
 }
+
+export const onRequestPost = requireAuth(handlePost);

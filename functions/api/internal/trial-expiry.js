@@ -27,8 +27,17 @@ export async function onRequestPost(context) {
     .bind(nowIso)
     .run();
 
+  const cleanup = await env.DB.prepare('DELETE FROM magic_links WHERE expires_at <= ?')
+    .bind(nowIso)
+    .run();
+
   return new Response(
-    JSON.stringify({ success: true, downgraded_users: result.meta?.changes || 0, checked_at: nowIso }),
+    JSON.stringify({
+      success: true,
+      downgraded_users: result.meta?.changes || 0,
+      deleted_expired_magic_links: cleanup.meta?.changes || 0,
+      checked_at: nowIso,
+    }),
     { status: 200, headers: { 'Content-Type': 'application/json' } }
   );
 }
