@@ -1,0 +1,6 @@
+# Live-mode override for research/about page.
+# Usage:
+#   bundle exec jekyll build --config _config.yml,_config.live.yml
+#   bundle exec jekyll serve --config _config.yml,_config.live.yml
+
+research_mode: live
